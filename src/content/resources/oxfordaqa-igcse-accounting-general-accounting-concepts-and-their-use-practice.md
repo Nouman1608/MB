@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ Asset at cost on the debit side [1], depreciation to date on the credit side [1]
 - Taking the provision percentage before deducting irrecoverable debts.
 - Describing income received in advance as an asset.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use/).
 - Use the [course hub](/boards/oxfordaqa/igcse/accounting/) and [checklist](/checklists/oxfordaqa/igcse/accounting/).

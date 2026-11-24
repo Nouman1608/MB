@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Mini example: a café charges 4.20 for coffee against a rival's 3.50. Premium = 
 11. (30 − 25) ÷ 25 × 100 = 20%.
 12. Asking customers to return a product already sold because it is faulty or unsafe.
 
-## Next steps
+## More on this topic
 
 - Full explanations and an annotated model answer: [quality study guide](/resources/edexcel-igcse-business-4bs1-quality/).
 - Exam-style questions with mark schemes: [quality practice questions](/resources/edexcel-igcse-business-4bs1-quality-practice/).

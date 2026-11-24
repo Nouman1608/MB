@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -235,7 +235,7 @@ Predicting outside the observed range is extrapolation, and the linear relations
 **How do you compare two data sets in AQA 7357?**
 Give one comparison of location (such as the median) and one of spread (such as the IQR), each with the numbers and a sentence in context.
 
-## Next steps
+## More on this topic
 
 - [Data presentation revision notes](/resources/aqa-a-level-mathematics-data-presentation-and-interpretation-revision-notes/)
 - [Data presentation study guide](/resources/aqa-a-level-mathematics-data-presentation-and-interpretation/)

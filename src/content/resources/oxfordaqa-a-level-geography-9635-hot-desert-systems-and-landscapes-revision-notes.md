@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -262,7 +262,7 @@ a seif is a long linear ridge formed by winds from two directions. 11. Intense r
 bare ground with low infiltration, so runoff is rapid and powerful. 12. They concentrate water and
 manure around plants, raising yields and soil fertility on degraded land.
 
-## Related resources
+## More resources on this topic
 
 - [Physical Geography 1 study guide](/resources/a-level-oxfordaqa-geography-physical-geography-1/)
 - [Physical Geography 1 revision notes (whole unit)](/resources/oxfordaqa-a-level-geography-physical-revision-notes/)

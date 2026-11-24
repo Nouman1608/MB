@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ If a method is unfamiliar, go back to the [study guide](/resources/oxfordaqa-a-l
 - Choosing an indicator because one end of its range falls in the steep section.
 - Leaving out the units of Ka (mol dm⁻³) when a question asks for them.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this section](/resources/oxfordaqa-a-level-chemistry-acids-and-bases-revision-notes/)
 - [Study guide for this section](/resources/oxfordaqa-a-level-chemistry-acids-and-bases/)

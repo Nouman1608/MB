@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ These questions cover subtopic E6.5, Non-right-angled triangles, in the Cambridg
 - Using a non-included angle in ½ab sin C.
 - Rounding intermediate lengths.
 
-## Next steps
+## More on this topic
 
 - More mixed Extended questions: [trigonometry (Extended) practice](/resources/igcse-mathematics-trigonometry-extended-practice/).
 - Recap the topic with the [trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/).

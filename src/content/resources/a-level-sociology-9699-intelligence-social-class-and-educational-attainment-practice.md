@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Quote figures from the table and read the gap between groups carefully. Describi
 **What are common mistakes in intelligence and class questions?**
 Students often name a material factor without saying how it affects learning, explain only one step of a self-fulfilling prophecy, and present hereditarian views with no criticism.
 
-## Next steps
+## More on this topic
 
 Check your weaker areas with our [diagnostics](/diagnostics/), revisit the [study guide](/resources/a-level-sociology-9699-intelligence-social-class-and-educational-attainment/), and then try the [ethnicity and gender practice set](/resources/a-level-sociology-9699-ethnicity-gender-and-educational-attainment-practice/) for sections 6.3-6.4. If you want a teacher to go through your answers, [Book a free trial class](/trial/).
 

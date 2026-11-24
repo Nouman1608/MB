@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ No. Partial government failure can still leave society better off than the free 
 **Which interventions are most likely to cause government failure?**
 Price controls carry a high risk because they stop prices from rationing goods, creating shortages, surpluses and black markets. Any tool set without good information also carries a risk.
 
-## Next steps
+## More on this topic
 
 - Re-read the [government failure study guide](/resources/ocr-as-level-economics-h060-government-failure/).
 - Review [alternative methods of government intervention](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention/).

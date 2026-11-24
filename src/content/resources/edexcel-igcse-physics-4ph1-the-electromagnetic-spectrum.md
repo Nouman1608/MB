@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -213,7 +213,7 @@ measure to how it reduces exposure.
   exposure.
 - **Calculate**: use v = f × λ with v = 3.0 × 10⁸ m/s and standard form.
 
-## Next steps
+## More on this topic
 
 - [The electromagnetic spectrum revision notes](/resources/edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum-revision-notes/)
 - [The electromagnetic spectrum practice questions](/resources/edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum-practice/)

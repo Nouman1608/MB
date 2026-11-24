@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -181,7 +181,7 @@ The materials variance looks good, but it may simply reflect lower sales volume 
 
 **Calculate** questions (4 marks) reward a stated formula, substitution and answer with units, so show each line. **Explain** answers on forecasting should name one factor and trace its effect on the named business. In **discuss** and **assess** questions on break-even, cash flow or budgets, the evaluation lies in the limitations: question the forecast, the assumptions and how quickly conditions change.
 
-## Related resources
+## More resources on this topic
 
 - [Financial Planning revision notes](/resources/edexcel-a-level-business-ybs11-financial-planning-revision-notes/)
 - [Financial Planning practice questions](/resources/edexcel-a-level-business-ybs11-financial-planning-practice/)

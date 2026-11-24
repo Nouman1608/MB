@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 18, Biotechnology and genetic modification, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 18.1 Biotechnology and 18.2 Genetic modification. The 5090 syllabus is not tiered, so every candidate studies all of it.
@@ -285,7 +285,7 @@ A "discuss" answer needs points on **both** sides.
 - Writing that lactase turns lactose into "glucose" only. The products are **glucose and galactose**.
 - Describing herbicide resistance as protecting the crop from insects. Herbicides kill **weeds**.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/o-level-biology-5090-biotechnology-and-genetic-modification-revision-notes/), then try the [practice questions](/resources/o-level-biology-5090-biotechnology-and-genetic-modification-practice/).
 

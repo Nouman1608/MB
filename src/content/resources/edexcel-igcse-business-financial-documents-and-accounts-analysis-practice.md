@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ Judgement: the owner should delay the loan until expenses are under control and 
 - Writing "it went up" or "it got worse" with no figure and no consequence.
 - Giving a justify or evaluate answer that lists points but never reaches a decision.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis/).
 - Go to the [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/) and the [printable checklist](/checklists/edexcel/igcse/business/).

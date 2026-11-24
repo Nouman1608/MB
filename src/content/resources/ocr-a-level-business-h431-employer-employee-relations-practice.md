@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -132,7 +132,7 @@ Judgement: the chain should set one up, but only if managers commit to respondin
 - Stating that unions "cause strikes" without recognising their other roles.
 - Listing costs without judging which is largest.
 
-## Next steps
+## More on this topic
 
 - Revisit the [employer/employee relations study guide](/resources/ocr-a-level-business-h431-employer-employee-relations/) for any gaps.
 - Try the [external influences on human resource management practice questions](/resources/ocr-a-level-business-h431-external-influences-on-human-resources-practice/).

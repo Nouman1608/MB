@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -161,7 +161,7 @@ The answer earns its marks through two linked chains tied to the business. It do
 
 The paper uses fixed command words. **Define** (2 marks) needs a precise meaning, ideally with a short example. **Explain** (4 marks) needs a point developed with a cause or effect and a detail from the source. **Analyse** (6 marks) needs a chain of reasoning in context but no judgement. **Discuss** (8 marks) adds a brief weighing of competing factors. **Assess** (10 marks) needs balanced, contextualised argument and a supported judgement, and **evaluate** (20 marks) needs a full argument ending in a recommendation. For this section, the context almost always lies in the figures and customer details in the source: quote them, calculate from them and build your chain around them.
 
-## Related resources
+## More resources on this topic
 
 - [Meeting Customer Needs revision notes](/resources/edexcel-a-level-business-ybs11-meeting-customer-needs-revision-notes/)
 - [Meeting Customer Needs practice questions](/resources/edexcel-a-level-business-ybs11-meeting-customer-needs-practice/)

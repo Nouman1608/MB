@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopic **2.6 Inequalities**, from Topic 2, Algebra and
@@ -219,7 +219,7 @@ Unless the question says otherwise, shade the unwanted region, so the required r
 **How do you list the integer solutions of an inequality?**
 Check each endpoint against its own sign. For −3 ≤ x < 3 the integers are −3, −2, −1, 0, 1 and 2, because −3 is included and 3 is not.
 
-## Related resources
+## More resources on this topic
 
 - [Indices and Equations](/resources/indices-and-equations/) — the
 equation-solving skills this subtopic builds on

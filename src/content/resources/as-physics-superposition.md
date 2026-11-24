@@ -29,7 +29,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -282,7 +282,7 @@ Coherent sources have a constant phase difference, which in practice means the s
 **How do you use a diffraction grating to find wavelength?**
 Use d sin θ = nλ, where d is the slit spacing, θ the angle to a maximum and n its whole-number order. Measure the angle to a known order and solve for λ.
 
-## Related resources
+## More resources on this topic
 
 - [Waves: Progressive Waves, the Doppler Effect and Polarisation](/resources/as-physics-waves/) — the previous AS topic, covering the wave terms used here
 - [Electricity: Current, Potential Difference and Resistance](/resources/as-physics-electricity/) — the next AS topic

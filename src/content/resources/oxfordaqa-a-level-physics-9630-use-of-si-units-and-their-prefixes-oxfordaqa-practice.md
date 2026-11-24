@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -189,7 +189,7 @@ D: 10⁻² m²
 - Putting an energy in eV straight into ½mv².
 - Mixing kW with minutes or seconds in a kW h calculation.
 
-## Next steps
+## More on this topic
 
 - [Limitation of physical measurements practice questions](/resources/oxfordaqa-a-level-physics-9630-limitation-of-physical-measurements-oxfordaqa-practice/)
 - [Estimation of physical quantities practice questions](/resources/oxfordaqa-a-level-physics-9630-estimation-of-physical-quantities-oxfordaqa-practice/)

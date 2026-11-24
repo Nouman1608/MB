@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ Related: the [Business activity study guide](/resources/cambridge-o-level-busine
 - Listing ways to add value without linking them to price or cost.
 - Ending a "consider... justify" answer without a clear recommendation and the condition it depends on.
 
-## Next steps
+## More on this topic
 
 Check any weak areas in the [Business activity study guide](/resources/cambridge-o-level-business-7115-business-activity/), then move on to the [Classification of businesses practice questions](/resources/cambridge-o-level-business-7115-classification-of-businesses-practice/).
 

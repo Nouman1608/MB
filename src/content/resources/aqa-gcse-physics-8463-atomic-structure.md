@@ -30,7 +30,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -336,7 +336,7 @@ converted into the energy of radiation.
 - Confusing activity (decays per second of the source) with count-rate (what the detector records).
 - Mixing up fission (splitting heavy nuclei) and fusion (joining light nuclei).
 
-## Next steps
+## More on this topic
 
 Move on to the [revision notes](/resources/aqa-gcse-physics-8463-atomic-structure-revision-notes/) and then
 the [practice questions](/resources/aqa-gcse-physics-8463-atomic-structure-practice/). To find gaps across the

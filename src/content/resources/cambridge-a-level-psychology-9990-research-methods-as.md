@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,7 +160,7 @@ This covers the general features (procedure, validity, reliability, types of dat
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, section 3.1.2 Research methodology, Research methods, and section 4, Planning studies for Paper 2 — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Research methods revision notes](/resources/cambridge-a-level-psychology-9990-research-methods-as-revision-notes/)
 - [Research methods practice questions](/resources/cambridge-a-level-psychology-9990-research-methods-as-practice/)

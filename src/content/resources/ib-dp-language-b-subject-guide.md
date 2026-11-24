@@ -14,7 +14,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Language acquisition in the IB Diploma Programme consists of two
@@ -124,7 +124,7 @@ receptive skill in a language still being actively acquired, while
 Language A's assessment assumes near-native fluency and instead tests
 literary and textual analysis at a more sophisticated level.
 
-## Related resources
+## More resources on this topic
 
 - [Full syllabus guide](/resources/ib-dp-language-b-syllabus-guide/) — the five prescribed themes in detail, with their guiding principles
 - [Assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/) — condensed recall of the weightings and oral criteria above

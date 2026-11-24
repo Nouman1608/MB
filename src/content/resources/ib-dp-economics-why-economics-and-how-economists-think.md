@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topics 1.1 (What is economics?) and 1.2 (How do economists approach the world?), which make up Unit 1, Introduction to economics. Both sub-topics are SL and HL content, and the guide marks no HL-only material in either. The recommended teaching time is 10 hours for SL and for HL.
@@ -321,7 +321,7 @@ Ceteris paribus means "all other things being equal". Economists change one vari
 **What does the circular flow of income show?**
 It shows how money, goods and resources move between households and firms, making interdependence visible: one person's spending is another's income. Households supply factors of production and spend their income on firms' goods and services.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes](/resources/ib-dp-economics-why-economics-and-how-economists-think-revision-notes/), then try the [practice questions](/resources/ib-dp-economics-why-economics-and-how-economists-think-practice/). Next in the course comes [demand, supply and market equilibrium](/resources/ib-dp-economics-demand-supply-equilibrium/). For the course layout see the [IB DP Economics syllabus guide](/resources/ib-dp-economics-syllabus-guide/), and for exam technique see [IB DP Economics exam preparation](/resources/ib-dp-economics-exam-preparation/).
 

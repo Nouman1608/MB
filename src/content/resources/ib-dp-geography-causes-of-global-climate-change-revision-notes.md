@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -175,7 +175,7 @@ carbon dioxide and methane that cause further warming. 10. Territorial counts em
 are produced; consumption-based assigns them to where goods are consumed. 11. Measured solar output
 has not risen since the mid-20th century while temperatures have.
 
-## Related resources
+## More resources on this topic
 
 - [Global Climate study guide](/resources/ib-dp-geography-global-climate/)
 - [Global Climate practice questions](/resources/ib-dp-geography-global-climate-practice/)

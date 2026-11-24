@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -215,7 +215,7 @@ Binary tree search has an advantage over binary search when items are added and 
 - **Explain O(n)**: say that in the worst case every item is examined.
 - **Choose an algorithm**: link the choice to whether the data is sorted and how often it will be searched.
 
-## Related resources
+## More resources on this topic
 
 - [Searching algorithms revision notes](/resources/aqa-a-level-computer-science-7517-searching-algorithms-revision-notes/)
 - [Searching algorithms practice questions](/resources/aqa-a-level-computer-science-7517-searching-algorithms-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section M2.7 (uniform circular motion) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit M2 (Mechanics), the mechanics option that sits beside Unit S2; it is not examined at International AS. Unit M2 assumes the International AS units, so Newton's second law and resolving forces are your starting point.
@@ -289,7 +289,7 @@ Check with the vertical equation: T cos θ = 12 × 0.3267 = 3.92, and mg = 0.4 �
 - Showing motion is circular by checking only one or two points. Prove the distance is constant for all t.
 - Giving the direction of acceleration as along the velocity. It is towards the centre, perpendicular to the velocity.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-uniform-circular-motion-and-the-conical-pendulum-practice/), then keep the [revision notes](/resources/oxfordaqa-a-level-mathematics-uniform-circular-motion-and-the-conical-pendulum-revision-notes/) for the final weeks. Take the [free diagnostics](/diagnostics/) to check where you stand.
 

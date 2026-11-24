@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ These questions cover sections 3.2.2 and 3.2.3 of the OxfordAQA International GC
 - Vague environmental points such as "pollution" with no stage or substance named.
 - Not linking a recommended energy source to the conditions in the question.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy-revision-notes/)
 - [Study guide](/resources/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ The photon model fits all three, since one photon of energy hf gives its energy 
 * Rounding the constant h/mec early and losing accuracy in an angle.
 * Describing a diffraction experiment without the detector or the gap size.
 
-## Next steps
+## More on this topic
 
 * Re-read the [revision notes](/resources/ib-dp-physics-photoelectric-effect-matter-waves-and-compton-revision-notes/) and the [study guide](/resources/ib-dp-physics-photoelectric-effect-matter-waves-and-compton/).
 * Go back to the [DP Physics hub](/boards/ib/ib-dp/physics/) and tick the topic off on the [checklist](/checklists/ib/ib-dp/physics/).

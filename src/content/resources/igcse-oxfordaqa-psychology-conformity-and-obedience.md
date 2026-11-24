@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -230,7 +230,7 @@ The four elements named in the 9218 specification are agency, authority, culture
 **How does anonymity affect conformity?**
 Anonymity tends to reduce conformity, because being identifiable increases the social pressure to agree publicly with the majority even when privately disagreeing.
 
-## Related resources
+## More resources on this topic
 
 - [Conformity and Obedience revision notes](/resources/igcse-oxfordaqa-psychology-conformity-obedience-revision-notes/)
 - [Conformity and Obedience practice questions](/resources/igcse-oxfordaqa-psychology-conformity-obedience-practice/)

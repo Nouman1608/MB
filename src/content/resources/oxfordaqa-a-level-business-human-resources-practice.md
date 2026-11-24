@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Apply the theory to the business and workers in the question, explaining what it
 **Which OxfordAQA 9725 sections do these questions cover?**
 They cover the human resources topic, sections 3.2.2.1 to 3.2.2.5, of OxfordAQA International AS and A-level Business (9725): HR objectives and planning, HR data, organisational design, motivation and employer-employee relations.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/oxfordaqa-a-level-business-human-resources-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-a-level-business-human-resources/) for any section you found hard.

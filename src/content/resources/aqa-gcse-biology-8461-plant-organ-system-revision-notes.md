@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Mini example: leaf area by squares: 22 whole + 10 part squares (counted as half)
 11. 0.6 ÷ 40 = 0.015 cm³ per cm² per hour.
 12. The lower surface.
 
-## Next steps
+## More on this topic
 
 - Worked explanations: [plant organ system study guide](/resources/aqa-gcse-biology-8461-plant-organ-system/)
 - Questions with mark schemes: [plant organ system practice questions](/resources/aqa-gcse-biology-8461-plant-organ-system-practice/)

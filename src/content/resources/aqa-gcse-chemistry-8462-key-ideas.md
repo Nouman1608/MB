@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -333,7 +333,7 @@ Each step is a separate creditworthy point; join them with "so" or "because".
 - Saying a catalyst "gives particles more energy" -- it provides a pathway with a **lower activation energy**.
 - (Higher tier only) Mixing up oxidation and reduction in terms of electrons: oxidation is **loss**.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/aqa-gcse-chemistry-8462-key-ideas-practice/), read [AQA GCSE Chemistry exam preparation](/resources/aqa-gcse-chemistry-exam-preparation/), and try the free 10-minute [diagnostics](/diagnostics/).
 

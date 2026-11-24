@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -125,7 +125,7 @@ The answers show one acceptable set of points with a [1] for each creditworthy p
 - Saying anti-malware software "stops all viruses".
 - Writing generic consequences that are not linked to the organisation in the scenario.
 
-## Next steps
+## More on this topic
 
 - Recap with the [eSecurity revision notes](/resources/a-level-cambridge-ict-esecurity-revision-notes/).
 - Re-read weak sections in the [eSecurity study guide](/resources/a-level-cambridge-ict-esecurity/).

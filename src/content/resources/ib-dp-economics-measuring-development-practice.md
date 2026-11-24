@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ Compare what the same basket of goods costs in each economy to find the PPP rate
 **What are common mistakes in IB Economics development indicator questions?**
 Common slips include describing the HDI as an income measure, saying a higher Gender Inequality Index is good, treating PPP income as a measure of distribution, and listing strengths and limitations without tying them to a named indicator.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ib-dp-economics-measuring-development/) for any part you missed, then rework the weakest questions.
 - Use the [revision notes](/resources/ib-dp-economics-measuring-development-revision-notes/) for the final week.

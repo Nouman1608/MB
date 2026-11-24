@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -156,7 +156,7 @@ Aversion therapy pairs the addictive behaviour with a real unpleasant stimulus. 
 **What are common mistakes in Addiction exam answers?**
 Common mistakes include explaining cue reactivity as operant conditioning when it is classical conditioning, ignoring the scenario's details, and evaluating therapies only on effectiveness with nothing on appropriateness.
 
-## Next steps
+## More on this topic
 
 - Check any weak areas against the [Addiction study guide](/resources/aqa-a-level-psychology-7182-addiction/) and review learning theory in the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/).
 - Practise research methods skills in context with the [Approaches practice questions](/resources/aqa-a-level-psychology-approaches-practice/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,6 +123,6 @@ Argument 2: pupils do not simply accept labels [1]. Woods (1979) identified many
 
 **Level guidance:** top answers judge "significantly" using evidence of what different programmes achieved; middle answers describe programmes; low answers assert success or failure.
 
-## Next steps
+## More on this topic
 
 Continue with [ethnicity and educational attainment](/resources/cambridge-a-level-sociology-9699-ethnicity-educational-attainment/), or review [intelligence and educational attainment](/resources/cambridge-a-level-sociology-9699-intelligence-educational-attainment/).

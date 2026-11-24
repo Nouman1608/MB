@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -164,7 +164,7 @@ This is a socially sensitive topic, so use balanced, accurately worded evidence 
 **What are common mistakes in Gender practice questions?**
 Students often swap Klinefelter's (XXY) and Turner syndrome (XO), confuse gender stability with gender constancy, and describe the BSRI as a measure of gender identity rather than self-rated traits.
 
-## Next steps
+## More on this topic
 
 - Check gaps with the [diagnostics](/diagnostics/).
 - Refresh SLT in the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/).

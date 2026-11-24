@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ be found.
 - **Explain** retention times: name the intermolecular force with the stationary phase, say which
   component interacts more strongly, and link that to a longer time.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Gas/liquid chromatography revision notes](/resources/cambridge-a-level-chemistry-9701-a-gas-liquid-chromatography-revision-notes/),
 then test yourself with the [Gas/liquid chromatography practice questions](/resources/cambridge-a-level-chemistry-9701-a-gas-liquid-chromatography-practice/).

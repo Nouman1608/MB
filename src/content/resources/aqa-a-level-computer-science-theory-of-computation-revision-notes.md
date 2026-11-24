@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Theory of computation (section 4.4 of AQA A-Level Computer Science 7517) is about describing problems and
@@ -204,7 +204,7 @@ expression -- has a fixed number of states. BNF's recursive rules can describe t
 **Does AQA count 0 as a natural number?**
 Yes. The 7517 specification defines ℕ as {0, 1, 2, 3, ...}.
 
-## Related resources
+## More resources on this topic
 
 [Theory of computation study guide](/resources/aqa-a-level-computer-science-theory-of-computation-study-guide/) |
 [Theory of computation practice questions](/resources/aqa-a-level-computer-science-theory-of-computation-practice/) |

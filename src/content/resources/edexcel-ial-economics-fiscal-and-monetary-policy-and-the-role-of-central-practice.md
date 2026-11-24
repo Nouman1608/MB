@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ When a question gives inflation, use the real rate, which is approximately the n
 **How should you answer a question on the roles of a central bank?**
 Give a purpose for each role rather than a bare list, and link monetary policy tools to aggregate demand through a chain of reasoning.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central/) for any chain you missed.
 - Use the [revision notes](/resources/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central-revision-notes/) for quick recall.

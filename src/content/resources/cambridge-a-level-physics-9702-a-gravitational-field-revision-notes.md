@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -117,7 +117,7 @@ The uniform field is a close-up of the radial field: over a small height the lin
 
 **Answers:** 1. The force per unit mass on a small mass placed at that point. 2. Mass. 3. 1 N = 1 kg m s⁻², so N kg⁻¹ = kg m s⁻² ÷ kg = m s⁻². 4. So that its own field does not alter the field being measured. 5. At each point the force on a mass has one direction only. 6. Gravitational forces are always attractive (electric forces can repel); or gravity acts on mass, electric fields act on charge. 7. 4.9 ÷ 3.0 = 1.6 N kg⁻¹. 8. Parallel, equally spaced lines, perpendicular to the surface, pointing downwards. 9. √(0.80² + 0.60²) = 1.0 N kg⁻¹. 10. Nearer the moon (the smaller mass). 11. The normal contact force from the table balances its weight, so the resultant force is zero. 12. A weaker field.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields revision notes](/resources/a-physics-gravitational-fields-revision-notes/) — the whole of Topic 13
 - [Gravitational field practice questions](/resources/cambridge-a-level-physics-9702-a-gravitational-field-practice/)

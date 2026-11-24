@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -219,7 +219,7 @@ An ionic diagram must contain negative ions as well as positive ones. A diagram 
 **How should you write the limitations of a structure diagram?**
 Name the specific feature that is misleading, such as the sticks, gaps, ion sizes or showing only a fragment. Generic answers like "not realistic" or "not accurate" do not score.
 
-## Next steps
+## More on this topic
 
 - [Chemical bonds and ionic compounds revision notes](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-revision-notes/)
 - [Chemical bonds and ionic compounds study guide](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds/)

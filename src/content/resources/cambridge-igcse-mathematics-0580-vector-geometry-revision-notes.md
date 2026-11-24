@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ length ratio 3 : 4, area ratio 9 : 16.
 11. **a** + ¾(**b** − **a**) = **¼a + ¾b**
 12. AB = −**a** + **c** + 3**a** = **2a + c**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [vector geometry study guide](/resources/cambridge-igcse-mathematics-0580-vector-geometry/).
 - Revise column-vector arithmetic in the [vectors in two dimensions revision notes](/resources/cambridge-igcse-mathematics-0580-vectors-in-two-dimensions-revision-notes/).

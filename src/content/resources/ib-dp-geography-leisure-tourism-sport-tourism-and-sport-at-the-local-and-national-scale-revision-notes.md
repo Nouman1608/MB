@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -149,6 +149,6 @@ Arrivals rise from 1.2 million to 1.5 million: 0.3 / 1.2 x 100 = 25 per cent inc
 
 **Answers:** 1. Exploration, involvement, development, consolidation, stagnation, decline or rejuvenation. 2. Changing host attitudes as tourist numbers grow. 3. For example leakage and habitat pressure. 4. The lasting benefits and costs after the event, and who receives them. 5. 120,000 / 800,000 x 100 = 15 per cent. 6. The minimum number of users needed to support a facility. 7. It is a higher-order facility that people will travel further to use. 8. Allocentric tourists seek new, unspoilt places; psychocentric tourists prefer familiar, developed ones. 9. Physical (how many a site can hold), ecological (use before habitats are damaged), perceptual (crowding before enjoyment falls). 10. Tourist spending creates wages and orders that are spent again locally, enlarging the total effect. 11. An attraction that draws large crowds to a small area. 12. Benefit: regeneration of former industrial land; criticism: rising housing costs benefited newcomers more than long-standing residents.
 
-## Related resources
+## More resources on this topic
 
 - [Option E: Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/)

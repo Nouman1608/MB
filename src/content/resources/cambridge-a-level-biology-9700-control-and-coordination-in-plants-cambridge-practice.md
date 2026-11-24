@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ D: It causes DELLA proteins to be made. **[1]**
 - Forgetting that water enters by osmosis and turgor stretches the wall.
 - In "compare" answers, giving no similarity.
 
-## Next steps
+## More on this topic
 
 - [15.2 study guide](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge/)
 - [15.2 revision notes](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge-revision-notes/)

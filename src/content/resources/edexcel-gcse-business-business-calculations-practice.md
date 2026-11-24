@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Year 2: gross profit = £135,000 − £64,125 = £70,875; net profit = £70,875 
 - Answering Analyse, Justify or Evaluate with only a calculation and no comment on what it means for the business.
 - Recommending an option without comparing it with the alternative.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-gcse-business-business-calculations-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-business-calculations/).
 - Go to the [Edexcel GCSE Business hub](/boards/edexcel/gcse/business/) and tick off the [printable checklist](/checklists/edexcel/gcse/business/).

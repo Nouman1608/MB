@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -151,7 +151,7 @@ These questions are for OxfordAQA International GCSE Mathematics (9260), specifi
 - Mixing up the two heights of a cone: slant for curved area, perpendicular for volume.
 - Counting a face that is hidden inside a composite solid.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area-revision-notes/).
 - Read the full explanations in the [study guide](/resources/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area/).

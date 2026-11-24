@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -111,7 +111,7 @@ Evaluation: a grant is slow and competitive and may not cover the full amount [1
 - Ignoring the interest cost or the effect on cash reserves when comparing sources.
 - Ending an evaluation without a decision, or recommending every source with no reasoning.
 
-## Next steps
+## More on this topic
 
 - Look back at the [sources of finance study guide](/resources/aqa-gcse-business-8132-sources-of-finance/) for any gaps.
 - Continue with cash flow in the [Finance study guide](/resources/aqa-gcse-business-finance/).

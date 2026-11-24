@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -183,7 +183,7 @@ The key facts to state are that Unicode has more characters, more bits per chara
   languages and symbols, and that Unicode provides far more.
 - **Bits for a text**: multiply the number of characters by the bits for each character (7 for ASCII).
 
-## Next steps
+## More on this topic
 
 For a condensed summary and a self-test, use the [Character encoding revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-character-encoding-revision-notes/), and practise with the

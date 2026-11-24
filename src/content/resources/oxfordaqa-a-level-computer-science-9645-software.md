@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -141,7 +141,7 @@ Sub-topic 3.6.3 covers these in detail.
 - Saying a utility program is a part of the hardware.
 - Mixing translators with libraries. A library supplies code; a translator converts code.
 
-## Next steps
+## More on this topic
 
 - [Software revision notes](/resources/oxfordaqa-a-level-computer-science-9645-software-revision-notes/)
 - [Software practice questions](/resources/oxfordaqa-a-level-computer-science-9645-software-practice/)

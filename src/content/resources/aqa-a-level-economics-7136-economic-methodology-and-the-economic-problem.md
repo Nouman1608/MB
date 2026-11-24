@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -188,7 +188,7 @@ investment is productive and on whether it exceeds depreciation. *(A short quali
 - **Evaluate / Assess / Discuss / To what extent:** weigh arguments, separate positive from normative, and reach
   a supported judgement.
 
-## Related resources
+## More resources on this topic
 
 - [Economic methodology, scarcity and production possibilities revision notes](/resources/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production-revision-notes/)
 - [Price determination in a competitive market study guide](/resources/aqa-a-level-economics-7136-price-determination-in-a-competitive-market/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ Br₂ liquid, I₂ solid at room temperature).
 12. It consists of neutral molecules, so there are almost no ions or free electrons to carry
     charge.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [Simple Molecules and Covalent Bonds practice questions](/resources/cambridge-igcse-chemistry-0620-simple-molecules-and-covalent-bonds-practice/),
 then contrast with the [Giant Covalent Structures revision notes](/resources/cambridge-igcse-chemistry-0620-giant-covalent-structures-revision-notes/),

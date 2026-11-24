@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ When magnesium reacts with excess acid and the hydrogen is collected:
 - In calculations, show the gradient working with the two points you used.
 - Use the term "effective collisions" exactly as the syllabus does.
 
-## Related resources
+## More resources on this topic
 
 - [Rate of reaction revision notes](/resources/cambridge-a-level-chemistry-9701-as-rate-of-reaction-revision-notes/)
 - [Rate of reaction practice questions](/resources/cambridge-a-level-chemistry-9701-as-rate-of-reaction-practice/)

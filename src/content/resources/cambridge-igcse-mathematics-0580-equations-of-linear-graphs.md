@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ The common slip is to read the gradient as 3, the coefficient of x in the origin
 - If a form is requested (for example ax + by = c with integer values), give it in that form.
 - Check your equation with a second point every time; it takes seconds.
 
-## Next steps
+## More on this topic
 
 - Recap with the [equations of linear graphs revision notes](/resources/cambridge-igcse-mathematics-0580-equations-of-linear-graphs-revision-notes/) and practise with the [equations of linear graphs practice questions](/resources/cambridge-igcse-mathematics-0580-equations-of-linear-graphs-practice/).
 - Use these skills for lines with the same gradient in the [parallel lines study guide](/resources/cambridge-igcse-mathematics-0580-parallel-lines/).

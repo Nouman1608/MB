@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ D: Formation of new alleles **[1]**
 - Confusing genetic drift with selection.
 - Saying hybrids are homozygous.
 
-## Next steps
+## More on this topic
 
 - [17.2 study guide](/resources/cambridge-a-level-biology-9700-natural-and-artificial-selection/)
 - [17.2 revision notes](/resources/cambridge-a-level-biology-9700-natural-and-artificial-selection-revision-notes/)

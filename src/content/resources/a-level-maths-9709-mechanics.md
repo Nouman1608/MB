@@ -33,7 +33,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -254,7 +254,7 @@ Friction always opposes motion, so it acts down the slope when the particle move
 **When can you not use the constant acceleration formulae?**
 When acceleration varies with time. Then use calculus: v = ds/dt, a = dv/dt, s = ∫v dt and v = ∫a dt, finding constants from the starting conditions.
 
-## Next steps
+## More on this topic
 
 Condensed notes and a self-test are in the [Mechanics revision notes](/resources/a-level-maths-9709-mechanics-revision-notes/). Then work through the [Mechanics practice questions](/resources/a-level-mathematics-mechanics-practice/), which use different numbers and situations from the examples here.
 

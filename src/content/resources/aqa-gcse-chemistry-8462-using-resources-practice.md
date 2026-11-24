@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -190,7 +190,7 @@ Choose the best steel for (i) a kitchen sink and (ii) a car door panel. Give a r
 - Counting only one nitrogen atom in ammonium nitrate.
 - Choosing a material without linking a property to the use.
 
-## Next steps
+## More on this topic
 
 - [Using resources revision notes](/resources/aqa-gcse-chemistry-8462-using-resources-revision-notes/)
 - [Using resources study guide](/resources/aqa-gcse-chemistry-8462-using-resources/)

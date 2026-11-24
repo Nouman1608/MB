@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O **[5]**
 - Multiplying E⦵ when a half-equation is doubled.
 - Treating a positive E⦵cell as proof that a reaction will be fast.
 
-## Next steps
+## More on this topic
 
 - Review: [revision notes](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials-revision-notes/)
 - Relearn: [study guide](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials/)

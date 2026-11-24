@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -115,7 +115,7 @@ Evaluation: the segment is narrow, so total sales are limited and the business d
 - Forgetting × 100 when finding a percentage share.
 - Recommending marketing mix elements with no link to the segment in the case.
 
-## Next steps
+## More on this topic
 
 - Recheck weak points in the [segmentation study guide](/resources/aqa-gcse-business-8132-segmentation/).
 - Read about market research in the [Marketing study guide](/resources/aqa-gcse-business-marketing/).

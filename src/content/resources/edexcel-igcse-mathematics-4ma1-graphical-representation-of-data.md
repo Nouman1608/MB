@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Plot (0, 0), (10, 8), (20, 22), (30, 44), (40, 74), (50, 90) and (60, 100).
 - Using frequency instead of frequency density for unequal widths.
 - Taking the tallest histogram bar as the class with the highest frequency.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Graphical representation revision notes](/resources/edexcel-igcse-mathematics-4ma1-graphical-representation-of-data-revision-notes/), then try the [Graphical representation practice questions](/resources/edexcel-igcse-mathematics-4ma1-graphical-representation-of-data-practice/). Averages and quartiles from these diagrams are in the [Statistical measures study guide](/resources/edexcel-igcse-mathematics-4ma1-statistical-measures/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -111,7 +111,7 @@ Measure results: cost per lead and cost per customer, using the £900 yearly pri
 - Describing a method without applying it to the product and audience.
 - Recommending a mix without a reason or a risk.
 
-## Next steps
+## More on this topic
 
 - Move on to the [service marketing study guide](/resources/ocr-a-level-business-h431-service-marketing/).
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

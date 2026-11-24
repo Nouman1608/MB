@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,7 +173,7 @@ Advertising, bank charges, commission, customs duties, inventory, labour, packag
 
 **Is "labour" a cost of trade or of production?** Both. The syllabus lists the ten costs together because they arise across trade, commerce and production.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [production practice questions](/resources/cambridge-o-level-commerce-7100-production-practice/), and revise sub-topic 1.1 with the [trade and commerce revision notes](/resources/cambridge-o-level-commerce-7100-trade-and-commerce-revision-notes/).
 

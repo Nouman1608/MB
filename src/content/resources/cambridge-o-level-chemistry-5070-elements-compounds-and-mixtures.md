@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -117,7 +117,7 @@ That last sentence shows exam technique: state what the evidence supports, and d
 - **Explain** a classification: give the reason from the definition, such as "two different atoms are chemically bonded".
 - With particle diagrams, count the kinds of particle first, then look inside each particle.
 
-## Next steps
+## More on this topic
 
 - Use the [elements, compounds and mixtures revision notes](/resources/cambridge-o-level-chemistry-5070-elements-compounds-and-mixtures-revision-notes/) to memorise the differences.
 - Test yourself with the [elements, compounds and mixtures practice questions](/resources/cambridge-o-level-chemistry-5070-elements-compounds-and-mixtures-practice/).

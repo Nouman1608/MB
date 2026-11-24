@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Treating 1.035⁴ as 4 × 1.035, or rounding the multiplier too early. Raise the
 **How should a bound be written?**
 Write the range with the correct inequality symbols: the lower bound is included (≤) and the upper bound is not (<). Stating bounds without strict and non-strict symbols can lose credit.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion-revision-notes/) and the [study guide](/resources/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion/).
 - Go to the [MYP Mathematics hub](/boards/ib/ib-myp/mathematics/) and the [printable checklist](/checklists/ib/ib-myp/mathematics/).

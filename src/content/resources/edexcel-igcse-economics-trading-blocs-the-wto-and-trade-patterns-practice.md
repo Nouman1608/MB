@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Find the earnings from that product as a share of total exports, apply the price
 **What mistakes do students make on WTO questions?**
 Common errors are describing the WTO as a trading bloc, saying it forces members to obey or bans all tariffs, and naming its actions without developing them. The WTO rules on disputes and may authorise retaliation, but it has no power to force compliance.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns/).
 - Go to the [course hub](/boards/edexcel/igcse/economics/) or the [printable checklist](/checklists/edexcel/igcse/economics/).

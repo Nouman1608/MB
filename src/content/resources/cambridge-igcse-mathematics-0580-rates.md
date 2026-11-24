@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -186,7 +186,7 @@ The answer is not (40 + 60) ÷ 2 = 50 km/h, because more time is spent at the sl
 - **Show (that)**: in a given-answer unit conversion, show each half of the compound unit being converted.
 - **Explain**: when comparing two rates, such as fuel efficiency, refer to the values and say which is better and why.
 
-## Next steps
+## More on this topic
 
 - Condensed rules and a self-test: the [rates revision notes](/resources/cambridge-igcse-mathematics-0580-rates-revision-notes/).
 - Exam-style questions with mark schemes: the [rates practice questions](/resources/cambridge-igcse-mathematics-0580-rates-practice/).

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -158,7 +158,7 @@ Decomposition takes a big problem apart. Composition puts simple parts together 
 - **Name the abstraction** that is being used in a scenario: representational, generalisation, procedural, functional, data or problem reduction.
 - Use the specification's own phrases, such as "is a kind of", "isolate how it is used from how it is constructed" and "reduces to one that has already been solved".
 
-## Related resources
+## More resources on this topic
 
 - [Abstraction and automation revision notes](/resources/aqa-a-level-computer-science-7517-abstraction-and-automation-revision-notes/)
 - [Abstraction and automation practice questions](/resources/aqa-a-level-computer-science-7517-abstraction-and-automation-practice/)

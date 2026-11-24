@@ -32,6 +32,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -186,7 +187,7 @@ Describe this farm as an agricultural system. Identify two inputs, two throughpu
 - In 11.2 essays, using only national policy and no farm-scale detail.
 - In "how far" or "to what extent" essays, saving all judgement for the final line.
 
-## Next steps
+## More on this topic
 
 - Check your weak points with our free [diagnostics](/diagnostics/).
 - Re-read the [study guide](/resources/a-level-geography-9696-production-location-and-change/) for any case study you could not use with confidence.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ On Papers 1 and 2, yes whenever it is more than one step. Method marks are avail
 **Which written method for long multiplication is expected?**
 Any clear method: column, grid or partitioning. What matters is that each partial product can be followed.
 
-## Next steps
+## More on this topic
 
 - Worked examples: [four operations study guide](/resources/cambridge-igcse-mathematics-0580-the-four-operations/).
 - Practice: [four operations practice questions](/resources/cambridge-igcse-mathematics-0580-the-four-operations-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -171,7 +171,7 @@ At equilibrium the total pressure is 60.0 kPa.
 - Saying K changes with concentration, pressure or a catalyst.
 - Answering "in terms of Kp" questions with le Chatelier's principle alone.
 
-## Next steps
+## More on this topic
 
 - Recap with the [How far? revision notes](/resources/ocr-a-level-chemistry-how-far-revision-notes/).
 - Revisit worked examples in the [How far? study guide](/resources/ocr-a-level-chemistry-how-far/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ corrected count rate after 30 min = 145 − 20 = 125 min⁻¹
 - **Calculate**: write x = x₀e^(−λt), substitute, take logarithms, and check units.
 - **Determine** (λ from a graph): plot ln(count rate) against time; λ = −gradient.
 
-## Related resources
+## More resources on this topic
 
 - [Nuclear Physics study guide](/resources/a-physics-nuclear-physics/) — the whole of Topic 23
 - [Radioactive decay revision notes](/resources/cambridge-a-level-physics-9702-a-radioactive-decay-revision-notes/)

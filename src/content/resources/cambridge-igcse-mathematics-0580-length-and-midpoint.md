@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ The midpoint of a diameter is the centre; this links coordinate work to circle v
 - Give non-exact answers on Paper 4 to 3 significant figures, and exact surds on Paper 2 when asked.
 - A rough sketch with the points placed shows whether the midpoint and length are sensible.
 
-## Next steps
+## More on this topic
 
 - Recap with the [length and midpoint revision notes](/resources/cambridge-igcse-mathematics-0580-length-and-midpoint-revision-notes/) and practise with the [length and midpoint practice questions](/resources/cambridge-igcse-mathematics-0580-length-and-midpoint-practice/).
 - Combine midpoints with gradients in the [perpendicular lines study guide](/resources/cambridge-igcse-mathematics-0580-perpendicular-lines/).

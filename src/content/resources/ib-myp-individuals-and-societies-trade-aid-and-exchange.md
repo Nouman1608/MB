@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -290,7 +290,7 @@ The Columbian Exchange was the movement of crops, animals and diseases between t
 **Is trade, aid and exchange part of the IB MYP Individuals and Societies course?**
 The IB MYP Individuals and Societies subject brief (from 2014) lists trade, aid and exchange among the topics explored in the on-screen examinations. MYP has no prescribed content list, so schools design their own units and teachers share the task-specific clarifications.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ib-myp-individuals-and-societies-trade-aid-and-exchange-practice/), then use the [revision notes](/resources/ib-myp-individuals-and-societies-trade-aid-and-exchange-revision-notes/). For the criteria, read [criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/); for sources, see [source-evaluation exam preparation](/resources/ib-myp-individuals-societies-source-evaluation-exam-preparation/).
 

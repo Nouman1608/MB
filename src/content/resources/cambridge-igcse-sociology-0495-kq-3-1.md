@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -242,7 +242,7 @@ considerable mobility and living standards under capitalism.
 - **Explain** differences in life chances: name the group, the area and the reason.
 - **Discuss** and **evaluate** with theory: labelling for interaction, Marxism for structure.
 
-## Next steps
+## More on this topic
 
 Revise with the
 [social stratification revision notes](/resources/cambridge-igcse-sociology-0495-kq-3-1-revision-notes/)

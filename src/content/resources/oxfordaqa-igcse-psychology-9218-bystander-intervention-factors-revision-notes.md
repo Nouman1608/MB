@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Details of the three studies: [Studies of Bystander Behaviour revision notes](/r
 11. Untrained bystanders may decide their help is not needed once an expert is helping.
 12. Point to one specific person and ask them directly, removing diffusion of responsibility.
 
-## Related resources
+## More resources on this topic
 
 - [Factors affecting bystander intervention practice questions](/resources/oxfordaqa-igcse-psychology-9218-bystander-intervention-factors-practice/)
 - [Prosocial and antisocial behaviour in crowds revision notes](/resources/oxfordaqa-igcse-psychology-9218-crowd-behaviour-revision-notes/)

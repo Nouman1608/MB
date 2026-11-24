@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 2.13, Functions, of the Cambridge IGCSE Mathematics 0580 syllabus for exams in 2025, 2026 and 2027. The Core column of the syllabus lists C2.13 as "Extended content only", so everything on this page is **Extended only**. Extended candidates take Paper 2 (non-calculator, 2 hours) and Paper 4 (calculator, 2 hours), and functions questions can appear on either, so every method here is shown by hand.
@@ -358,7 +358,7 @@ Write y = f(x), swap x and y, then rearrange to make y the subject, so the answe
 **How do you substitute an expression into a function?**
 Replace x with the whole expression in brackets. For f(x) = 7 − 2x, f(a + 2) = 7 − 2(a + 2) = 3 − 2a, not 7 − 2a + 2.
 
-## Next steps
+## More on this topic
 
 - Recap the whole topic with the [algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/).
 - Practise exam-style function questions in the [Extended algebra practice set](/resources/igcse-mathematics-algebra-extended-practice/) and the [algebra and graphs practice questions](/resources/igcse-mathematics-algebra-and-graphs-practice/).

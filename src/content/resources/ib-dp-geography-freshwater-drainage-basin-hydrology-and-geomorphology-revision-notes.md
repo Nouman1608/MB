@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -148,6 +148,6 @@ The upper line is the **critical erosion velocity**: the speed needed to pick up
 
 **Answers:** 1. Stores: soil moisture, groundwater (also interception, channel storage); outputs: evaporation, transpiration, discharge. 2. P = Q + E +/- change in storage. 3. 1,100 - 520 - 540 = +40 mm. 4. Short lag time and steep rising limb with high peak. 5. How velocity relates to erosion, transport and deposition for different particle sizes. 6. Both decrease. 7. Infiltration-excess happens when rain falls faster than the soil can absorb it; saturation-excess happens when the soil is already full. 8. A = 12 x 0.75 = 9 m squared; Q = 9 x 0.5 = 4.5 cumecs. 9. Water from all tributaries reaches the main channel at about the same time. 10. Their settling velocity is very low, so once lifted they sink only in very slow water. 11. Velocity drops sharply at the channel edge in a flood, so the heaviest particles are dropped there first. 12. The clumping of fine clay particles in salt water, so they settle, mainly where rivers enter the sea.
 
-## Related resources
+## More resources on this topic
 
 - [Option A: Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/)

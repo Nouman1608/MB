@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](
 - Leaving microseconds unconverted in the calculation, or forgetting the unit on the answer.
 - Mixing up the roles of transmitting and receiving aerials.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-revision-notes/) and re-read the [study guide](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation/).
 - Go to the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and tick off the [checklist](/checklists/ocr/gcse/physics/).

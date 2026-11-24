@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -195,7 +195,7 @@ They extend the time over which a momentum change happens. Because F = Δp / Δt
 **When does conservation of momentum apply?**
 Conservation of momentum applies to a closed system with no significant external force during the event, such as a collision or explosion. It should not be applied where, for example, friction acts over a long time.
 
-## Related resources
+## More resources on this topic
 
 - [Forces and Motion](/resources/forces-and-motion/) — Newton's second law
 in its F = ma form

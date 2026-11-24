@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -160,7 +160,7 @@ Give a balanced answer that weighs costs, such as buying and running the scanner
 **Which angle do you use in the ultrasound Doppler equation?**
 Use the angle between the ultrasound beam and the direction of blood flow in Δf/f = 2v cos θ/c, not the angle to the surface. Forgetting cos θ is a common error.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound/).
 - Check coverage on the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [checklist](/checklists/ocr/a-level/physics/).

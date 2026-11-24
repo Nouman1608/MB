@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -160,7 +160,7 @@ Tube C: nail with anhydrous calcium chloride, sealed with a bung.
 - Mixing up thermosoftening and thermosetting polymers.
 - Calculating carats as grams instead of fractions of 24.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-gcse-chemistry-8462-using-materials-revision-notes/).
 - Reread any weak area in the [study guide](/resources/aqa-gcse-chemistry-8462-using-materials/).

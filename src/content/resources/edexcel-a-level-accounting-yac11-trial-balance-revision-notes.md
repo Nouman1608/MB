@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ A credit. The business owes the bank, so it is a liability; the balance b/d of t
 **What does an agreeing trial balance actually prove?**
 Only that total debits equal total credits, so the double entry is arithmetically complete. It does not prove that entries are in the right accounts or for the right amounts.
 
-## Related resources
+## More resources on this topic
 
 [Trial balance study guide](/resources/edexcel-a-level-accounting-yac11-trial-balance/) |
 [Trial balance practice questions](/resources/edexcel-a-level-accounting-yac11-trial-balance-practice/) |

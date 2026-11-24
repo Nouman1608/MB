@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -213,7 +213,7 @@ Check conservation of charge, baryon number and lepton number. Each must be chec
 **Are relativistic equations required in Edexcel IAL Physics?**
 No. Candidates must understand situations where the relativistic increase in particle lifetime is significant, but use of the relativistic equations is not required.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 4: Electric and Magnetic Fields](/resources/edexcel-ial-physics-electric-and-magnetic-fields/) — the previous sub-topic
 - [Unit 5: Nuclear Decay](/resources/edexcel-ial-physics-nuclear-decay/) — related nuclear physics content in Unit 5

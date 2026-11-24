@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,7 +185,7 @@ D: the production of offspring from two parents without fertilisation
 - (Extended) Giving only advantages in a "discuss" question.
 - (Extended) Using wild-population points, such as finding a mate, in a crop question.
 
-## Next steps
+## More on this topic
 
 - Re-read the [asexual reproduction study guide](/resources/cambridge-igcse-biology-0610-asexual-reproduction/) for any weak area.
 - Move on to the [sexual reproduction practice questions](/resources/cambridge-igcse-biology-0610-sexual-reproduction-practice/).

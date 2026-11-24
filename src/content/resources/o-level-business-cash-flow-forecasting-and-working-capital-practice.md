@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -167,7 +167,7 @@ Match the fix to the size and length of the shortfall in the case and quote the 
 **How should you show your working in cash-flow questions?**
 Show total inflows, total outflows and net cash flow before the closing balance. A wrong figure early on is easier to trace, and earn method marks, when the working is visible.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/o-level-business-cash-flow-forecasting-and-working-capital-revision-notes/).
 - Reread the [study guide](/resources/o-level-business-cash-flow-forecasting-and-working-capital/).

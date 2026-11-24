@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers Topic 5, Enzymes, in full — subtopics **5.1 Enzyme
@@ -187,7 +187,7 @@ Refer to kinetic energy and the frequency of effective collisions: as temperatur
 **Does the active site match the shape of the substrate or the product?**
 The substrate. The active site has a shape complementary to its specific substrate; describing it as matching the product is a common mistake.
 
-## Related resources
+## More resources on this topic
 
 - [Biological Molecules](/resources/biological-molecules/) — enzymes as
 one specific class of protein

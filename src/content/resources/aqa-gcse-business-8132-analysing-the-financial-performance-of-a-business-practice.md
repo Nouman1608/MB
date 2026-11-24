@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -118,7 +118,7 @@ Evaluation: the bank needs the statement of financial position as well, to see e
 - Describing figures without explaining the likely cause of a change.
 - Judging performance without a comparison or without naming a stakeholder's view.
 
-## Next steps
+## More on this topic
 
 - Revisit the [financial performance study guide](/resources/aqa-gcse-business-8132-analysing-the-financial-performance-of-a-business/) for any gaps.
 - Review the whole topic in the [Finance study guide](/resources/aqa-gcse-business-finance/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Judgement: the claim is well supported because correlation and mechanism agree, 
 - Calling potable water "pure".
 - Missing the sterilisation stage in water treatment.
 
-## Next steps
+## More on this topic
 
 - [C6.3 revision notes and self-test](/resources/ocr-gcse-chemistry-earth-systems-revision-notes/)
 - [C6.3 study guide](/resources/ocr-gcse-chemistry-earth-systems/)

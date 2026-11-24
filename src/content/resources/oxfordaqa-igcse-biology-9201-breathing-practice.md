@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ ventilator moves air into the lungs so that oxygen can still reach the blood [1]
 - Giving the ventilator types the wrong way round.
 - In calculations, using 21% or 16% instead of the difference between them.
 
-## Next steps
+## More on this topic
 
 - [Breathing study guide](/resources/oxfordaqa-igcse-biology-9201-breathing/)
 - [Breathing revision notes](/resources/oxfordaqa-igcse-biology-9201-breathing-revision-notes/)

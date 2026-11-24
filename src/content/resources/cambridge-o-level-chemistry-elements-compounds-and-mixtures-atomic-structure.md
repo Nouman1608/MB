@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the Cambridge O Level Chemistry 5070 syllabus for examination in 2026, 2027 and 2028. It covers sections 2.1, 2.2 and 2.3 under the heading Atoms, elements and compounds: elements, compounds and mixtures; atomic structure and the Periodic Table; and isotopes. Every outcome in those three sections is taught here, in the syllabus's own wording where possible.
@@ -290,7 +290,7 @@ Ar = **28.1** (to one decimal place). Always check the abundances add to 100 bef
 - **Not weighting by abundance.** A plain average is wrong unless the isotopes are equally abundant.
 - **Dividing by the number of isotopes instead of 100.** With percentages, divide by 100.
 
-## Next steps
+## More on this topic
 
 Work through the [Atomic Structure practice questions](/resources/atomic-structure-practice/), then use the [revision notes](/resources/atomic-structure/) for recall. Check the [printable checklist](/checklists/cambridge/o-level/chemistry/) and the [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/). To see where you stand, try the [free 10-minute diagnostics](/diagnostics/).
 

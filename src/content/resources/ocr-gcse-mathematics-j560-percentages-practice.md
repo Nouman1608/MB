@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -205,7 +205,7 @@ Which shop is cheaper, and by how much? **[4]**
 - Leaving out "increase" or "decrease".
 - Writing money without two decimal places.
 
-## Next steps
+## More on this topic
 
 - Recap with the [2.03 revision notes](/resources/ocr-gcse-mathematics-j560-percentages-revision-notes/).
 - Re-read the original value and simple interest examples in the [2.03 study guide](/resources/ocr-gcse-mathematics-j560-percentages/).

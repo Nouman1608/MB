@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -188,7 +188,7 @@ with equivalent detail.
 *Examiner insight:* "assess the extent" needs both sides and a final
 judgement on how far, not a description of the project.
 
-## Next steps
+## More on this topic
 
 - Recheck weak areas in the [World cities study guide](/resources/oxfordaqa-igcse-geography-world-cities-london-new-york/).
 - Practise the rest of Section A with the [Urban Issues and Challenges practice questions](/resources/igcse-oxfordaqa-geography-urban-issues-practice/).

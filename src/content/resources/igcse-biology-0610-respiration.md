@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 12, Respiration, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 12.1 (Respiration), 12.2 (Aerobic respiration) and 12.3 (Anaerobic respiration). Core content is examined on Papers 1 and 3; Core plus Supplement is examined on Papers 2 and 4. Content marked **Extended only** is Supplement content: the balanced chemical equations and oxygen debt.
@@ -244,7 +244,7 @@ A full answer links each observation to its own job. "She needs to get her breat
 - Saying the yeast "is denatured". The **enzymes** in the yeast cells are denatured.
 - Writing that lactic acid is "broken down in the muscles" as the way the oxygen debt is removed. The syllabus route is transport to the **liver** and aerobic respiration there.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [respiration revision notes](/resources/igcse-biology-0610-respiration-revision-notes/), then try the [respiration practice questions](/resources/igcse-biology-respiration-practice/). Revisit [gas exchange](/resources/igcse-biology-0610-gas-exchange-in-humans/) for how oxygen reaches the blood, and tick off each outcome on the [Biology checklist](/checklists/cambridge/igcse/biology/).
 

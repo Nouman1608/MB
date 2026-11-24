@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ Find the total mass and the total volume, then divide total mass by total volume
 **Which references does AQA GCSE Maths Topic 3 Ratio cover?**
 Topic 3 Ratio, proportion and rates of change in AQA GCSE Mathematics 8300 covers references R1 to R16, including units, ratio, percentages, compound units, proportion, rates of change and growth and decay.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-revision-notes/).
 - Re-learn anything you got wrong in the [study guide](/resources/aqa-gcse-mathematics-ratio-proportion-rates-of-change/).

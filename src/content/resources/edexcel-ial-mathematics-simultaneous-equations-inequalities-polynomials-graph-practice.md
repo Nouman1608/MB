@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ Use a dotted line for a strict inequality (< or >) and a solid line for an inclu
 **How should you write the answer to a quadratic inequality with two separate ranges?**
 Write them as two inequalities joined by "or", such as x < −2 or x > 3. Combining two outer ranges into a single inequality is incorrect.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph/).
 - Go to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).

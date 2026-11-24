@@ -44,7 +44,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers Topic 4, **Geometry and trigonometry**, sections 4.1–4.8, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Sections 4.1–4.5 are the same on both tiers. Sections 4.6–4.8 have Foundation content plus extra statements marked below as **Higher tier only**. A calculator may be used on every paper. Mensuration, 3D shapes and similarity (4.9–4.11) are not part of this unit.
@@ -370,7 +370,7 @@ Multiply by 1000 to change kilometres to metres and divide by 3600 to change hou
 **What is sin 150° equal to?**
 Because sin(180° − θ) = sin θ, sin 150° = sin 30° = 0.5. Similarly cos(180° − θ) = −cos θ, so cos 120° = −0.5; working with obtuse angles is Higher tier content.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [revision notes](/resources/edexcel-igcse-maths-4ma1-geometry-and-trigonometry-revision-notes/)
 - Twelve mark-scheme style questions: [practice questions](/resources/edexcel-igcse-maths-4ma1-geometry-and-trigonometry-practice/)

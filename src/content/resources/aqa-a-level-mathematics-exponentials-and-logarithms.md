@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section F: Exponentials and logarithms** (content references F1 to F7) of
@@ -334,7 +334,7 @@ Look at the horizontal axis. log y against log x straightens a power law y = axâ
 **Does an exponential decay model ever reach zero?**
 No. Ae^(âˆ’kt) is positive for every t, even though in reality the quantity may become negligible or disappear. A refinement can add a constant if it settles above zero.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/aqa-a-level-mathematics-exponentials-and-logarithms-practice/),
 then use the [revision notes](/resources/aqa-a-level-mathematics-exponentials-and-logarithms-revision-notes/)

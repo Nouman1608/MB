@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ These questions cover the multiplier (2.3.4 item 4, a to d) and output gaps (2.3
 - Evaluating with a list of general points and no figures from the question.
 - Giving measurement problems for GDP in general and not for potential output.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-the-multiplier-and-output-gaps-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-the-multiplier-and-output-gaps/).
 - Check progress against the [Edexcel IAL Economics checklist](/checklists/edexcel/a-level/economics/) and the [course hub](/boards/edexcel/a-level/economics/).

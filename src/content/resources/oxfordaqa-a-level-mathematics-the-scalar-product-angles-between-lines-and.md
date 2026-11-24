@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the second half of section P2.10 (Vectors): the scalar product and its use for the angle between two lines, plus the foot of the perpendicular from a point to a line and the perpendicular distance. The specification places this in International A-level Unit P2 (Pure Maths). It is not examined at International AS. The specification says calculators may be used in Unit P2.
@@ -257,7 +257,7 @@ For triangle ABC, the angle at B is the angle between BA and BC. Use BA.BC = |BA
 - Reporting |AP| as the distance. It is the distance to a point on the line, not the shortest one.
 - Rounding too early. Keep exact surds until the last line.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-the-scalar-product-angles-between-lines-and-practice/), then condense your notes with the [revision notes](/resources/oxfordaqa-a-level-mathematics-the-scalar-product-angles-between-lines-and-revision-notes/).
 

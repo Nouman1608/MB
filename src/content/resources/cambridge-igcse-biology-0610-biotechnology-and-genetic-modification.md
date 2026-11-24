@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ The syllabus asks you to *discuss* these features. In practice, exam questions o
 - **Suggest**: apply the four features to an unfamiliar context, such as a new product or a comparison with plants or animals.
 - **Describe**: when shown a diagram of a bacterial cell, describe the plasmid's features (small, circular, separate from main DNA) before saying why it is useful.
 
-## Next steps
+## More on this topic
 
 Condense this section with the [section 21.1 revision notes](/resources/cambridge-igcse-biology-0610-biotechnology-and-genetic-modification-revision-notes/), then apply it in the [section 21.1 practice questions](/resources/cambridge-igcse-biology-0610-biotechnology-and-genetic-modification-practice/). Section 21.1 leads straight into [section 21.2, biotechnology](/resources/cambridge-igcse-biology-0610-biotechnology/) and [section 21.3, genetic modification](/resources/cambridge-igcse-biology-0610-genetic-modification/).
 

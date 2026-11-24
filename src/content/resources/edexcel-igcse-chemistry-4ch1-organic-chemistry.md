@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -393,7 +393,7 @@ Each ester link forms by losing one H₂O. Some polyesters, called **biopolyeste
 - Naming the ester the wrong way round (ethanoyl ethyl).
 - Drawing a polymer repeat unit that still has C=C, or no extension bonds.
 
-## Next steps
+## More on this topic
 
 Try the [Organic chemistry practice questions](/resources/edexcel-igcse-chemistry-organic-practice/), then use the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry-revision-notes/). The previous topic is [Physical chemistry](/resources/edexcel-igcse-chemistry-4ch1-physical-chemistry/).
 

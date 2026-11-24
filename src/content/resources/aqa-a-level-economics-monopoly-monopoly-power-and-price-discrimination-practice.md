@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Apply each condition to the business in the question, such as how it separates c
 **Does price discrimination always benefit the firm and harm consumers?**
 Not always for every group. Weigh the effects on each group of customers, since some pay less while others pay more.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination-revision-notes/) and re-read the [study guide](/resources/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination/).
 - Tick off the topic on the [printable checklist](/checklists/aqa/a-level/economics/) and see the [AQA A-level Economics hub](/boards/aqa/a-level/economics/).

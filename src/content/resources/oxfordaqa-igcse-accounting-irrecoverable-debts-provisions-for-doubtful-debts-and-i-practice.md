@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Opening inventory 7,200 transferred to the income statement on the credit side [
 - Putting the provision on the wrong side of the provision account.
 - Defining a concept without linking it to the adjustment in the question.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i/).
 - Go to the [course hub](/boards/oxfordaqa/igcse/accounting/) or the [printable checklist](/checklists/oxfordaqa/igcse/accounting/).

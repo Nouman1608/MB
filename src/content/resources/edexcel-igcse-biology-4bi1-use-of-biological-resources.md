@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 5, **Use of biological resources** (specification points 5.1–5.20), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points with a **B** reference (5.9B and 5.17B–5.20B) are bold in the specification and are examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.
@@ -362,7 +362,7 @@ A human gene for a useful protein is inserted into an animal embryo, so the anim
 - In Dolly, saying the clone is identical to the egg donor or surrogate. It matches the **nucleus donor**.
 - Giving only advantages of biological control when asked to compare.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources-practice/). The [free diagnostics](/diagnostics/) show which Biology topics need the most work.
 

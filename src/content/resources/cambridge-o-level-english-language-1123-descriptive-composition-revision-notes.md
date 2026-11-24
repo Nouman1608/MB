@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -191,7 +191,7 @@ Write the atmosphere word at the top of the plan and check every detail against 
 11. The piece turns into a narrative, so it no longer does what the descriptive task asks.
 12. W5, accurate spelling, punctuation and grammar.
 
-## Related resources
+## More resources on this topic
 
 - [Descriptive composition: practice questions](/resources/cambridge-o-level-english-language-1123-descriptive-composition-practice/)
 - [Paper 2 Writing revision notes](/resources/o-level-english-paper-2-writing-revision-notes/)

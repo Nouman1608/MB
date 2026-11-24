@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -188,7 +188,7 @@ Which two lines are parallel to line A? **[2]**
 - Using an end point instead of the midpoint for a perpendicular bisector.
 - Using the radius gradient for a tangent.
 
-## Next steps
+## More on this topic
 
 - Review with the [straight line graphs revision notes](/resources/ocr-gcse-mathematics-j560-straight-line-graphs-revision-notes/).
 - Re-read the explanations in the [straight line graphs study guide](/resources/ocr-gcse-mathematics-j560-straight-line-graphs/).

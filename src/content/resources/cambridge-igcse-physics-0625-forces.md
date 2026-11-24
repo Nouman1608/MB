@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -192,6 +192,6 @@ Examples: racing cars are low and wide; a laboratory stand has a heavy base; a d
 - **Explain** a stability question: use "centre of gravity", "base" and "moment" in your answer.
 - **Describe, qualitatively** *(Extended)*: say what changes and in which direction, holding the other two quantities constant.
 
-## Next steps
+## More on this topic
 
 Check your recall with the [revision notes on forces](/resources/cambridge-igcse-physics-0625-forces-revision-notes/), then try the [practice questions on forces](/resources/cambridge-igcse-physics-0625-forces-practice/). Resultant force links to the [study guide on momentum](/resources/cambridge-igcse-physics-0625-momentum/), and work done by a force to the [study guide on energy, work and power](/resources/cambridge-igcse-physics-0625-energy-work-and-power/).

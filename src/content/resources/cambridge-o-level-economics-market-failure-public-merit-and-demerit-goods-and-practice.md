@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ These questions test section 2.10 (Market failure) of the 2026 examination sylla
 - Describing government policy instead of the cause or consequence asked for.
 - Finishing an evaluation without a verdict.
 
-## Next steps
+## More on this topic
 
 - [Book a free trial class](/trial/) if you want a teacher to go through your weak points.
 - Revisit the [study guide](/resources/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and/) for any question you missed, then the [revision notes](/resources/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and-revision-notes/).

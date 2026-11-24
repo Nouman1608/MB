@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,7 +178,7 @@ Amygdala detects threat -> hypothalamus -> sympathetic nervous system -> adrenal
 
 **Answers:** 1. Somatic and autonomic. 2. Calms the body and restores the resting state ("rest and digest"). 3. Connects sensory and motor neurons within the CNS. 4. Vesicles are only in the presynaptic terminal and receptors only on the postsynaptic membrane. 5. Adding together excitatory and inhibitory inputs to decide whether the neuron fires. 6. The adrenal medulla. 7. For example increased heart rate, dilated pupils, glucose released. 8. Usually the left frontal lobe; speech production. 9. It was processed by the right hemisphere, and language is usually in the left, which could not receive the information. 10. Maze learning was not lost by removing any single area of cortex. 11. For example axonal sprouting and recruitment of homologous areas. 12. It is correlational: people with larger hippocampi may have been more likely to become taxi drivers.
 
-## Related resources
+## More resources on this topic
 
 - [Biopsychology study guide](/resources/oxfordaqa-a-level-psychology-9685-biopsychology/)
 - [Unit 2 revision notes](/resources/oxfordaqa-a-level-psychology-biopsychology-development-revision-notes/)

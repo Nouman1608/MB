@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section N: Statistical distributions** (content references N1, N2 and N3) of
@@ -328,7 +328,7 @@ When n is large and p is not close to 0 or 1, B(n, p) can be approximated by a N
 **What does Section N of AQA A-level Maths 7357 cover?**
 Section N: Statistical distributions covers discrete probability distributions including the binomial (N1), the Normal distribution and its links to histograms and the binomial (N2), and selecting an appropriate model (N3).
 
-## Next steps
+## More on this topic
 
 Condense the methods with the
 [Statistical distributions revision notes](/resources/aqa-a-level-mathematics-statistical-distributions-revision-notes/),

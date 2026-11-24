@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ These questions cover sub-topic C.1, Simple harmonic motion, in the IB *Physics 
 - Giving energy answers without saying which kind of potential energy it is, or forgetting the total is constant.
 - Rounding ω early and then giving a final answer that differs in the third significant figure.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy-revision-notes/) and the [study guide](/resources/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy/).
 - Go to the [IB DP Physics hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

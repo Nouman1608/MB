@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -199,7 +199,7 @@ They are deterrence, incapacitation, retribution and rehabilitation. You should 
 **How much of a Forensic Psychology essay should be evaluation?**
 Most of it. The specification's approximate Paper 3 weightings are 9 to 12% of the A-level for AO1 and 15 to 17% for AO3, so keep description brief and accurate.
 
-## Next steps
+## More on this topic
 
 Revise the learning and biological approaches in the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). Then try the [practice questions](/resources/aqa-a-level-psychology-7182-forensic-psychology-practice/).
 

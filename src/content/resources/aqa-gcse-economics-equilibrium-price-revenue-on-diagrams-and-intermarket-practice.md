@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ It reverses the direction of the shift. A rise in the price of a substitute rais
 **Which AQA GCSE Economics sections does this practice cover?**
 It covers AQA GCSE Economics 8136 sections 3.1.3.3 Equilibrium price and 3.1.3.4 Intermarket relationships.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket/).
 - Visit the [course hub](/boards/aqa/gcse/economics/) and print the [checklist](/checklists/aqa/gcse/economics/).

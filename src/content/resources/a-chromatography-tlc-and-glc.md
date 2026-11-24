@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -242,7 +242,7 @@ A low Rf means the compound interacts strongly with the stationary phase, such a
 **How do you calculate percentage composition from a gas chromatogram?**
 Divide the area of the component's peak by the total area of all peaks and multiply by 100%. For peak areas of 12.0, 30.0 and 18.0, the second component is 30.0 ÷ 60.0 × 100% = 50.0%.
 
-## Related resources
+## More resources on this topic
 
 - [Analytical Techniques: IR and Mass
   Spectrometry](/resources/as-analytical-techniques-ir-and-mass-spectrometry/)

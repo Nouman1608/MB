@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 4.1, **Production of goods and services**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It teaches production processes (4.1.1) and the main methods of production (4.1.2). Every business below is invented. Revise from the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-production-of-goods-and-services-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track your progress, and the [free diagnostics](/diagnostics/) show where to start.
@@ -261,7 +261,7 @@ Yes. The Cambridge IGCSE Business 0264 syllabus covers goods and services, so a 
 **Why is flow production unsuitable for a small number of customised products?**
 A fixed production line cannot make products that each differ, and its high set-up cost cannot be spread over a small output. Customers paying a premium for a bespoke product would also lose what they are paying for.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/), then try the twelve questions in the [practice set](/resources/igcse-business-0264-production-of-goods-and-services-practice/).
 

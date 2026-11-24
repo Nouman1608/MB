@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ Reverse current or field → force reverses. Reverse both → force unchanged.
 
 **Answers:** 1. Force per unit current per unit length on a wire placed at right angles to the field. 2. kg s⁻² A⁻¹. 3. 0.15 × 4.0 × 0.30 = 0.18 N. 4. 0.18 × sin 20° = 0.062 N. 5. Zero. 6. To the left. 7. It is unchanged. 8. F = 1.8 × 10⁻³ × 9.81 = 0.0177 N; B = 0.0177 ÷ (2.0 × 0.040) = 0.22 T. 9. Upwards (the magnet is pushed down). 10. 80 × 0.10 × 0.25 × 0.050 = 0.10 N. 11. B = gradient ÷ L = 0.012 ÷ 0.060 = 0.20 T. 12. Opposite sides carry current in opposite directions, so the forces on them are equal and opposite and cancel (they may form a couple).
 
-## Related resources
+## More resources on this topic
 
 - [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-revision-notes/) — the whole of Topic 20
 - [Force on a current-carrying conductor practice questions](/resources/cambridge-a-level-physics-9702-a-force-on-a-current-carrying-conductor-practice/)

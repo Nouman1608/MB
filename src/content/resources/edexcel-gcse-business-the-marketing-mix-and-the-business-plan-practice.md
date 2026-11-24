@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -127,7 +127,7 @@ Links: the [Edexcel GCSE Business hub](/boards/edexcel/gcse/business/), the [pri
 - Making a recommendation with no reason, or no weighing of both sides, in a justify or evaluate question.
 - Claiming that a business plan guarantees success.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-gcse-business-the-marketing-mix-and-the-business-plan-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-the-marketing-mix-and-the-business-plan/).
 - Course hub: [Edexcel GCSE Business](/boards/edexcel/gcse/business/) and the [printable checklist](/checklists/edexcel/gcse/business/).

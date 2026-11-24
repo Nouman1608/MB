@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,6 +147,6 @@ The specification expects awareness of the hazards. The main hazard is that a la
 - **Evaluate** a method: identify the largest percentage uncertainty and suggest a specific instrument or technique to reduce it.
 - **Describe** the white-light pattern: central white fringe, coloured fringes with violet inside and red outside, few fringes visible.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [interference revision notes](/resources/oxfordaqa-a-level-physics-9630-interference-revision-notes/) and test yourself with the [interference practice questions](/resources/oxfordaqa-a-level-physics-9630-interference-practice/). Gratings are treated in depth in the [diffraction study guide](/resources/oxfordaqa-a-level-physics-9630-diffraction/), and the uncertainty rules are in the [measurements and their errors guide](/resources/a-level-oxfordaqa-physics-measurements-and-their-errors/).

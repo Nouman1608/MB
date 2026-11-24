@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Keep the other variables constant: the same volumes and concentrations of both s
 - **Use** (as in "use the Boltzmann distribution"): refer to what your diagram shows, especially the **area** beyond Eₐ, not just the word "energy".
 - **Calculate** (from practical data): show 1/t, or a gradient, with units, and keep the significant figures consistent with the data.
 
-## Related resources
+## More resources on this topic
 
 - [Effect of temperature and activation energy: revision notes](/resources/cambridge-a-level-chemistry-9701-as-effect-of-temperature-on-reaction-rates-revision-notes/)
 - [Effect of temperature and activation energy: practice questions](/resources/cambridge-a-level-chemistry-9701-as-effect-of-temperature-on-reaction-rates-practice/)

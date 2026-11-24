@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -265,7 +265,7 @@ All amounts are in dollars.
 - Sending drawings to the statement of profit or loss.
 - Using vague words such as "wrong" for an unusual balance, instead of saying who owes whom.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/igcse-accounting-the-double-entry-system-of-book-keeping-practice/), try the free 10-minute [diagnostics](/diagnostics/), and read the Topic 2 [overview revision notes](/resources/igcse-accounting-sources-recording-revision-notes/) for documents and books of prime entry.
 

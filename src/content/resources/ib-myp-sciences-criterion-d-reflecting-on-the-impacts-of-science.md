@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -160,7 +160,7 @@ It means crediting sources by referencing or citing them with one recognised ref
 **How many marks is Criterion D worth in the on-screen examination?**
 The Applying science task is worth 25 marks, out of 100 for the whole examination.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion D revision notes](/resources/ib-myp-sciences-criterion-d-reflecting-on-the-impacts-of-science-revision-notes/), then test yourself with the [Criterion D practice questions](/resources/ib-myp-sciences-criterion-d-reflecting-on-the-impacts-of-science-practice/). Compare all four criteria in [the criteria in practice](/resources/ib-myp-sciences-criteria-in-practice/).
 

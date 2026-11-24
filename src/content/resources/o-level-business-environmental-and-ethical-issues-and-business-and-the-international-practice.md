@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -139,7 +139,7 @@ They often describe costs to the business itself, such as its own wages or profi
 **How do you evaluate the impact of a multinational on a host country?**
 Apply both the benefits and the drawbacks to the case, such as local jobs created and profits sent home, then give a final judgement saying which side is stronger and why.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-revision-notes/) and the [study guide](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international/).
 - Mixed practice for the whole topic: [external influences practice](/resources/o-level-business-external-influences-practice/).

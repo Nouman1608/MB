@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -214,7 +214,7 @@ With 37 and 52 the branch is not taken and 52 is stored. With 80 and 45 the bran
 11. Adds 1 to R3 (an increment).
 12. It stops the program.
 
-## Next steps
+## More on this topic
 
 - [Assembly language programming study guide](/resources/oxfordaqa-a-level-computer-science-9645-assembly-language-programming/)
 - [Assembly language programming practice questions](/resources/oxfordaqa-a-level-computer-science-9645-assembly-language-programming-practice/)

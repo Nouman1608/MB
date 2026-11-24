@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains Urdu set phrases and short sentences; an Urdu specialist should check that every Urdu item is correct and natural."
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains Urdu set phrases and short sentences; an Urdu specialist should check that every Urdu item is correct and natural. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -230,7 +230,7 @@ by Cambridge, using a recorded sample. 8. Headings only, not full sentences. 9. 
 (اگر وقت ملے تو ...). 11. Because عید is feminine, the passive verb agrees with it (منائی جاتی ہے).
 12. Before the main written examination series.
 
-## Related resources
+## More resources on this topic
 
 - [Component 5 Speaking study guide](/resources/cambridge-igcse-urdu-component-5-speaking/)
 - [0539 subject guide](/resources/cambridge-igcse-urdu-language-0539-subject-guide/)

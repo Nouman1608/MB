@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Unit 2 Exploring Sociology**, the second of two
@@ -243,7 +243,7 @@ Formal social control comes from government and law, the police and the criminal
 **When is OxfordAQA 9690 Sociology first examined?**
 It is first taught from September 2026, with first AS exams in May/June 2027 and first A-level exams in May/June 2028.
 
-## Related resources
+## More resources on this topic
 
 - [Exploring Sociology revision notes](/resources/oxfordaqa-a-level-sociology-exploring-sociology-revision-notes/)
 - [Exploring Sociology practice questions](/resources/oxfordaqa-a-level-sociology-exploring-sociology-practice/)

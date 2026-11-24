@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ The carbonyl is within the chain, so it is a ketone: **hexan-2-one**. Carbons: 6
 - **Deduce** (formulas): count from the structure given; show the simplification for the empirical formula.
 - **Identify** (functional group): name the group as the syllabus does, for example "carbonyl" or "hydroxyl".
 
-## Related resources
+## More resources on this topic
 
 - [Formulas, functional groups and naming: revision notes](/resources/cambridge-a-level-chemistry-9701-as-formulas-functional-groups-and-the-naming-of-organic-revision-notes/)
 - [Formulas, functional groups and naming: practice questions](/resources/cambridge-a-level-chemistry-9701-as-formulas-functional-groups-and-the-naming-of-organic-practice/)

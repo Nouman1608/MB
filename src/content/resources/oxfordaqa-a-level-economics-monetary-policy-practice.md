@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -114,7 +114,7 @@ These questions cover monetary policy (specification section 3.2.4.1) in OxfordA
 - Recommending a rate rise for cost-push inflation while ignoring the lost output.
 - Evaluating with no judgement or no mention of the output gap.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-economics-monetary-policy-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-economics-monetary-policy/).
 - Tick off outcomes on the [checklist](/checklists/oxfordaqa/a-level/economics/) and see the [course hub](/boards/oxfordaqa/a-level/economics/).

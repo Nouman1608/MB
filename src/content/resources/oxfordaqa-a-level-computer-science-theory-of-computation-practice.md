@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -214,7 +214,7 @@ Some problems cannot be solved by a computer at all, however much time or power 
 - Showing only the final tape in a Turing machine trace, with no intermediate states.
 - Mixing up intractable (no polynomial-time solution) and non-computable (no algorithm at all).
 
-## Next steps
+## More on this topic
 
 - Go over the key facts in the [revision notes](/resources/oxfordaqa-a-level-computer-science-theory-of-computation-revision-notes/).
 - Return to the [study guide](/resources/oxfordaqa-a-level-computer-science-theory-of-computation/) for anything you got wrong.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -201,7 +201,7 @@ C doubled (both times ∝ RC): T = 2.00 ms, f = 500 Hz, duty cycle still 60%
 - **State** questions on counters want the sequence or the number of states, not a description of flip-flops.
 - **Calculate** questions on astables: write period first, then frequency, duty cycle and ratio, each with its unit or as a ratio.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [digital signal processing revision notes](/resources/aqa-a-level-physics-7408-digital-signal-processing-revision-notes/), then try the [digital signal processing practice questions](/resources/aqa-a-level-physics-7408-digital-signal-processing-practice/). Clock-driven timing appears again in time-division multiplexing in [data communication systems](/resources/aqa-a-level-physics-7408-data-communication-systems/).
 

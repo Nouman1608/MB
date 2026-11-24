@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -157,6 +157,6 @@ A fuller version picks up extra credit by naming conditions: snow collects in a 
 
 **Answers:** 1. Water enters cracks; it freezes and expands; repeated cycles widen the cracks and break the rock. 2. Plucking pulls blocks from the bedrock as ice freezes to it; abrasion scrapes rock using debris carried in the ice. 3. The surface layer of permafrost ground that thaws in summer. 4. For example patterned ground and pingos. 5. Wind removal of loose fine material. 6. It was shaped partly by processes under a wetter past climate. 7. Ablation exceeds accumulation, so the glacier thins or retreats. 8. Meltwater at the base lets them slide over the bed, so plucking and abrasion are active. 9. Till is unsorted and dropped directly by ice; fluvioglacial deposits are sorted by meltwater. 10. A lake drains, permafrost advances into the wet ground, water is forced up and freezes into an ice core that domes the surface. 11. Downwind, because sand moves faster round the lower edges than over the higher centre. 12. Flood water leaving a confined wadi spreads out, slows and deposits its sediment.
 
-## Related resources
+## More resources on this topic
 
 - [Option C: Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ of the original value. **[2]**
 - Two's complement answers that flip the bits but forget to add 1.
 - Saying hexadecimal is used because the computer stores it or because it saves memory.
 
-## Next steps
+## More on this topic
 
 - [Number systems study guide](/resources/cambridge-igcse-computer-science-0478-number-systems/)
 - [Number systems revision notes](/resources/cambridge-igcse-computer-science-0478-number-systems-revision-notes/)

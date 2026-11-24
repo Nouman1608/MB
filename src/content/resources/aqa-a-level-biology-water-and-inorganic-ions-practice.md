@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ These questions cover sections 3.1.7 Water and 3.1.8 Inorganic ions of the AQA A
 - Counting nucleotides when the question asks for bonds.
 - Quoting a property with no biological role.
 
-## Next steps
+## More on this topic
 
 - Revise: [Water and inorganic ions revision notes](/resources/aqa-a-level-biology-water-and-inorganic-ions-revision-notes/)
 - Relearn: [Water and inorganic ions study guide](/resources/aqa-a-level-biology-water-and-inorganic-ions/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -163,7 +163,7 @@ The descriptors ask for a safe method. A short list of hazards, each with a prec
 **Can I use a method from a textbook?**
 At the top band the guide expects you to design the method yourself and to select the materials and equipment, so a copied method is unlikely to show this.
 
-## Next steps
+## More on this topic
 
 Try the [Criterion B practice questions](/resources/ib-myp-sciences-criterion-b-inquiring-and-designing-practice/). Then read the [Criterion C study guide](/resources/ib-myp-sciences-criterion-c-processing-and-evaluating/) to see what happens after the data is collected.
 

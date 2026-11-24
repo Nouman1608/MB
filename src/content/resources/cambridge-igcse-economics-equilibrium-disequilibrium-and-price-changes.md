@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 2.5 (price determination) and 2.6 (price changes) of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. All names and figures are invented and are not real statistics. For quick recall use the [revision notes](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-revision-notes/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-practice/). The wider topic is in [The allocation of resources](/resources/igcse-economics-the-allocation-of-resources/). Course pages: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/).
@@ -245,7 +245,7 @@ Good answers go beyond the four cases.
 6. Giving only the price effect when the question asks about price and sales.
 7. Describing the answer as certain when both curves shift.
 
-## Next steps
+## More on this topic
 
 Revise from the [revision notes](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-revision-notes/), then try the [practice questions](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-practice/) and the [free diagnostics](/diagnostics/).
 

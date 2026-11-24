@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Simplify first, then decide.
 - Declaring a root irrational without simplifying it first.
 - Writing 0.714 for a reciprocal that should be left as 5/7.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [types of number study guide](/resources/cambridge-igcse-mathematics-0580-types-of-number/).
 - Test yourself with the [types of number practice questions](/resources/cambridge-igcse-mathematics-0580-types-of-number-practice/).

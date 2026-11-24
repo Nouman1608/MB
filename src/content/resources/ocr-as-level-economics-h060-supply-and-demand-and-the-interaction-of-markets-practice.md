@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -181,7 +181,7 @@ D: Wheat and barley.
 - Unlabelled diagrams.
 - Ending the essay without a judgement.
 
-## Next steps
+## More on this topic
 
 - Revisit the [supply and demand study guide](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets/).
 - Recap with the [supply and demand revision notes](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-revision-notes/).

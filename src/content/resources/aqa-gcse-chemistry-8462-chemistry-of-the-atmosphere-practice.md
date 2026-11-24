@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -154,7 +154,7 @@ Evaluate which theory is better supported by this evidence. **[5]**
 - Giving one limitation for two different actions.
 - Ending an "evaluate" answer with no judgement.
 
-## Next steps
+## More on this topic
 
 - [Chemistry of the atmosphere revision notes](/resources/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-revision-notes/)
 - [Chemistry of the atmosphere study guide](/resources/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere/)

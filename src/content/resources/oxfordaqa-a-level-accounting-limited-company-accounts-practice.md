@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -227,7 +227,7 @@ Non-current assets [1]; current assets [1]; equity [1]; debentures as non-curren
 - A loan instalment due within 12 months left under non-current liabilities.
 - Accumulated depreciation not updated for the current year's charge before calculating carrying amounts.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/oxfordaqa-a-level-accounting-limited-company-accounts-revision-notes/)
 - Reread the [study guide](/resources/oxfordaqa-a-level-accounting-limited-company-accounts/)

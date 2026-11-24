@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ If a y-value is beyond the printed axis:
 11. 15 – 2y = 9, so 2y = 6: **y = 3**
 12. 2y = 6 – 4x, so **y = –2x + 3**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [drawing linear graphs study guide](/resources/cambridge-igcse-mathematics-0580-drawing-linear-graphs/).
 - Practise with the [drawing linear graphs practice questions](/resources/cambridge-igcse-mathematics-0580-drawing-linear-graphs-practice/).

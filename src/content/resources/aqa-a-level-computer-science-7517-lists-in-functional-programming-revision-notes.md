@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,7 +168,7 @@ A student writes `total (x:xs) = x + total (x:xs)`. The recursive call is on the
 11. Prepending is one step; appending must rebuild the whole first list.
 12. 6.
 
-## Related resources
+## More resources on this topic
 
 - [Lists in functional programming study guide](/resources/aqa-a-level-computer-science-7517-lists-in-functional-programming/)
 - [Lists in functional programming practice questions](/resources/aqa-a-level-computer-science-7517-lists-in-functional-programming-practice/)

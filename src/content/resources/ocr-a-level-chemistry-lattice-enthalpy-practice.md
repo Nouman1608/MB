@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ Before you start, work through the [Lattice enthalpy study guide](/resources/ocr
 - Giving a trend order without explaining it in terms of ionic size or charge and attraction.
 - Leaving the sign off an experimental ΔsolH, or forgetting to convert J to kJ.
 
-## Next steps
+## More on this topic
 
 - Definitions, tables and a self-test: [Lattice enthalpy revision notes](/resources/ocr-a-level-chemistry-lattice-enthalpy-revision-notes/)
 - Teaching from scratch, with worked cycles: [Lattice enthalpy study guide](/resources/ocr-a-level-chemistry-lattice-enthalpy/)

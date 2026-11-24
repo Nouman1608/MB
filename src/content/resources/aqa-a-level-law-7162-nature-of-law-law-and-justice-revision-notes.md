@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -149,6 +149,6 @@ Condensed notes on **Nature of law: law and justice** in AQA A-level Law (7162) 
 
 **Answers:** 1. Formal justice is the consistent application of rules to like cases; substantive justice concerns whether the rules and outcomes themselves are fair. 2. The mandatory life sentence for murder applied to a mercy killing. 3. No one should be a judge in their own cause; both sides must be heard. 4. Lord Hoffmann had links to Amnesty International, which had intervened in the case, so there was a risk of bias. 5. A dismissal without telling the person the case against him or letting him answer was void. 6. Putting right a wrong between two parties; through compensatory damages in tort and contract. 7. It can justify sacrificing an individual for the majority's happiness. 8. Beings of the same essential category should be treated in the same way. 9. People choose principles of justice without knowing their own position in society, so they choose fairly. 10. Sally Clark: flawed statistical evidence and undisclosed medical evidence; convictions quashed in 2003 (or Andrew Malkinson, Guildford Four). 11. It allows retrial for serious offences where new and compelling evidence emerges after an acquittal. 12. Any two: cost and delay; inequality of arms; legal aid cuts under LASPO 2012; fault requirement leaving some victims uncompensated.
 
-## Related resources
+## More resources on this topic
 
 [Law and Justice study guide](/resources/aqa-a-level-law-7162-nature-of-law-law-and-justice/) | [Law and Justice practice questions](/resources/aqa-a-level-law-7162-nature-of-law-law-and-justice-practice/) | [Law and Morality revision notes](/resources/aqa-a-level-law-7162-nature-of-law-law-and-morality-revision-notes/)

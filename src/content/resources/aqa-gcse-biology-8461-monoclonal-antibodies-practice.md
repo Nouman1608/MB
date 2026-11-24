@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -187,7 +187,7 @@ Evaluate the use of the new treatment. **[6]**
 - Treating cell doubling as adding rather than multiplying by 2 each time.
 - Evaluations that ignore the information given in the question.
 
-## Next steps
+## More on this topic
 
 - [Monoclonal antibodies study guide](/resources/aqa-gcse-biology-8461-monoclonal-antibodies/)
 - [Monoclonal antibodies revision notes](/resources/aqa-gcse-biology-8461-monoclonal-antibodies-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 8.3 but not its understandings, so a teacher should check this page, including the acid deposition section, against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 8.3 but not its understandings, so a teacher should check this page, including the acid deposition section, against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ If the city's daily limit was exceeded on 73 days in a year, that is 73 รท 365 ร
 - **Calculate:** percentage change from the starting value, ratios to guidelines and the share of days exceeding a limit.
 - **Evaluate** a strategy: effect on which pollutant, speed, cost, who pays, side effects, then a judgement against a guideline.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [8.3 revision notes](/resources/ib-dp-environmental-systems-and-societies-8-3-revision-notes/) and practise with the [8.3 practice questions](/resources/ib-dp-environmental-systems-and-societies-8-3-practice/). Planning measures that cut traffic are covered in the [8.2 study guide](/resources/ib-dp-environmental-systems-and-societies-8-2/), and stratospheric ozone in the [6.4 study guide](/resources/ib-dp-environmental-systems-and-societies-6-4/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -186,7 +186,7 @@ labour and capital from the periphery towards the core. 9. Natural increase and 
 food, clean water, sanitation and vaccination. 11. For example it is based on Europe and ignores
 migration.
 
-## Related resources
+## More resources on this topic
 
 - [Population Distribution study guide](/resources/ib-dp-geography-population-distribution/)
 - [Population Distribution practice questions](/resources/ib-dp-geography-population-distribution-practice/)

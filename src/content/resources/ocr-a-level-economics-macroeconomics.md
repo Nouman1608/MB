@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Component 2: Macroeconomics (H460/02)**, one of
@@ -184,7 +184,7 @@ Supply-side policy aims to shift long-run aggregate supply through structural re
 **Why do exchange rates matter in a domestic policy question?**
 Exchange rates, international competitiveness and trade policy often interact with domestic fiscal and monetary decisions. For example, an interest rate cut can weaken the currency, which affects import prices, inflation and the balance of payments.
 
-## Related resources
+## More resources on this topic
 
 - [Macroeconomics revision notes](/resources/ocr-a-level-economics-macroeconomics-revision-notes/)
 - [Macroeconomics practice questions](/resources/ocr-a-level-economics-macroeconomics-practice/)

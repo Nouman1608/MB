@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Subtracting in the wrong order, or mixing up the vertical gap in AD with the gap
 **Which Cambridge 9708 content does this practice cover?**
 It covers the components of aggregate demand and their determinants, the accelerator, and inflationary and deflationary gaps from the Cambridge 9708 A Level macroeconomics content.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in-revision-notes/).
 - Re-read the [study guide](/resources/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in/).

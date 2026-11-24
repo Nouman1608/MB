@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is written for OCR GCSE (9-1) Mathematics, J560, Version 2.1 of the specification (August 2026). It covers sections **2.01 Fractions** and **2.02 Decimal fractions** of topic area 2. Almost everything here is for both tiers. One skill, converting a recurring decimal to an exact fraction, is **Higher tier only**. The specification says all content may be assessed on calculator or non-calculator papers, and that Paper 2 (Foundation) and Paper 5 (Higher) do not allow a calculator, so every method below is one you can do by hand.
@@ -362,7 +362,7 @@ Check by estimating: 4.5 ÷ 0.15 asks how many 0.15s fit in 4.5. Ten of them mak
 - **Moving only the divisor.** When you multiply the divisor by 100, multiply the dividend by 100 too.
 - **Treating 0.3555... as 0.355 recurring.** Only the digits under the dot repeat, so identify the repeating part before you set up x.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-fractions-and-decimal-fractions-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-fractions-and-decimal-fractions-revision-notes/) for quick recall.
 

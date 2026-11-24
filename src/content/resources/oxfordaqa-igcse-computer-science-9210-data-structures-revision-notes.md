@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -212,7 +212,7 @@ types, reached by name.
 12. If every value is above 0, no element is less than `lowest`, so 0 is output even though it is not in the
 array; start with `lowest ← a[0]`.
 
-## Related resources
+## More resources on this topic
 
 - [Data structures study guide](/resources/oxfordaqa-igcse-computer-science-9210-data-structures/)
 - [Data structures practice questions](/resources/oxfordaqa-igcse-computer-science-9210-data-structures-practice/)

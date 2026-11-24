@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ These questions cover section 3.7.4, Populations in ecosystems (A-level only), a
 - Giving generic evaluation points that ignore the study given.
 - Treating a significant correlation as proof of cause.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-a-level-biology-populations-in-ecosystems-and-succession/) and [revision notes](/resources/aqa-a-level-biology-populations-in-ecosystems-and-succession-revision-notes/).
 - Track progress on the [printable checklist](/checklists/aqa/a-level/biology/) and the [hub](/boards/aqa/a-level/biology/).

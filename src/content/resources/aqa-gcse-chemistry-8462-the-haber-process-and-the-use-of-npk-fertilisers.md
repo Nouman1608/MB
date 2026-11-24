@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -198,7 +198,7 @@ is not required in 4.10.4 but helps in evaluation questions.
 - Writing NH₃ as the fertiliser; the fertilisers are ammonium salts.
 - Saying phosphate rock is used directly.
 
-## Next steps
+## More on this topic
 
 - [The Haber process and NPK fertilisers revision notes](/resources/aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-revision-notes/)
 - [The Haber process and NPK fertilisers practice questions](/resources/aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ Earnings questions combine percentages with pay. For example, a salary of $28 50
 - **Explain** why two changes do not cancel: refer to the different base amounts, or show the combined multiplier.
 - **Give your answer to the nearest cent / dollar**: round only the final answer.
 
-## Next steps
+## More on this topic
 
 - Condensed rules and a self-test: the [percentages revision notes](/resources/cambridge-igcse-mathematics-0580-percentages-revision-notes/).
 - Exam-style questions for both tiers: the [percentages practice questions](/resources/cambridge-igcse-mathematics-0580-percentages-practice/).

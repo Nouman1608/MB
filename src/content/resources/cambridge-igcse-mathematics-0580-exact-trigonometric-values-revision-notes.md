@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ The side opposite 60° is the **√3** side of the 1 : √3 : 2 triangle, so the
 11. tan x = 3/√3 = √3, so **x = 60°**
 12. **x = 90°**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [exact trigonometric values study guide](/resources/cambridge-igcse-mathematics-0580-exact-trigonometric-values/) and the [exact values and trigonometric functions study guide](/resources/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions/).
 - Practise with the [exact trigonometric values practice questions](/resources/cambridge-igcse-mathematics-0580-exact-trigonometric-values-practice/).

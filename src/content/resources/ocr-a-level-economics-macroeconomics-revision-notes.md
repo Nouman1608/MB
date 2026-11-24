@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -139,7 +139,7 @@ A policy conflict arises when a policy that advances one objective threatens ano
 **What does a multiplier of 4 mean?**
 A multiplier of 4 means an initial injection generates four times as much extra national income once successive rounds of spending have worked through. With an MPC of 0.75, a £10m injection produces £40m of extra national income.
 
-## Related resources
+## More resources on this topic
 
 - [Macroeconomics study guide](/resources/ocr-a-level-economics-macroeconomics/)
 - [Macroeconomics practice questions](/resources/ocr-a-level-economics-macroeconomics-practice/)

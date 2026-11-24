@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the OCR GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), sections 4.1 and 4.2 of "International trade and the global economy". The qualification has no tiers, so all of this applies to every candidate. All figures in worked examples are invented and illustrative; none are real statistics.
 
@@ -289,7 +289,7 @@ The OCR GCSE Economics (J205) guide lists a strong exchange rate, fast growth in
 **What are the costs of international trade?**
 Domestic firms facing cheaper imports may shrink or close, their workers may need retraining before finding new jobs, a country can become dependent on imported essentials, and extra transport adds pollution.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-practice/), then use the [revision notes](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-revision-notes/) for quick recall.
 

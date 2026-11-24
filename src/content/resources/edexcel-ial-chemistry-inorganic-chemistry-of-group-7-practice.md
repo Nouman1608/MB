@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -198,7 +198,7 @@ then silver nitrate, produces a white precipitate that dissolves in dilute aqueo
 - Explaining boiling temperatures with covalent bond strength.
 - Giving only the reduction when explaining disproportionation.
 
-## Next steps
+## More on this topic
 
 - Revise with the [Group 7 revision notes](/resources/edexcel-ial-chemistry-inorganic-chemistry-of-group-7-revision-notes/).
 - Re-read the [Group 7 study guide](/resources/edexcel-ial-chemistry-inorganic-chemistry-of-group-7/).

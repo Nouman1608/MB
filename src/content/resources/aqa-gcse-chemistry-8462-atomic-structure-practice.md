@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -236,7 +236,7 @@ The technique name usually earns one mark and the explanation the other. Say whi
 **What slips happen in relative atomic mass calculations?**
 Dropping the divide-by-100 step or rounding before the final line are common errors. Keep full values until the end, then round as the question asks.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/).
 - Reread any weak area in the [study guide](/resources/aqa-gcse-chemistry-8462-atomic-structure/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 4.1 (National income statistics) and 4.2 (Introduction to the circular flow of income) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 4 is AS Level content. A Level candidates study it too, and the syllabus treats AS content as assumed knowledge for A Level Papers 3 and 4. Every country, firm and figure below is invented for illustration. None is a real statistic.
@@ -297,7 +297,7 @@ Savings are income that is not passed back to firms as spending. Savings placed 
 **Is the multiplier required for Cambridge 9708 sections 4.1 and 4.2?**
 No. Section 4.2.2 says the multiplier is not required here, and 4.2.3 says marginal and average propensities are not required. You only need to explain the direction of change in national income.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of-revision-notes/) for a compact summary and a self-test, then the [practice questions](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of-practice/) with worked answers.
 

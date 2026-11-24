@@ -32,6 +32,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -185,7 +186,7 @@ Revise first with the [study guide](/resources/a-level-geography-9696-tropical-e
 - Ignoring the dates of policy changes when explaining a data trend.
 - Writing essays with no final judgement, or a judgement that does not match the argument.
 
-## Next steps
+## More on this topic
 
 - Check gaps in your knowledge with our [diagnostics](/diagnostics/).
 - Compare with another option: [Coastal environments study guide](/resources/a-level-geography-9696-coastal-environments/) and the earlier [Coastal environments overview](/resources/cambridge-a-level-geography-coastal-environments/).

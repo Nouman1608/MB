@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ Related: the [6.4 Sampling and estimation study guide](/resources/cambridge-a-le
 - Converting a total into a mean incorrectly; question 8(c) needs 850 ÷ 45 first.
 - Quoting the CLT for a normal population, as in question 9(c).
 
-## Next steps
+## More on this topic
 
 Check any slips against the [Sampling and estimation study guide](/resources/cambridge-a-level-mathematics-9709-sampling-and-estimation/), then move on to the [Hypothesis tests practice questions](/resources/cambridge-a-level-mathematics-9709-hypothesis-tests-practice/).
 

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sub-topic 2(f), **Respiration** (specification points 2.34–2.39), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered, and none of these six points carries a bold **B** reference, so all of them can be examined on Paper 1 and Paper 2. It applies to the November and June series examined under Issue 3.
@@ -275,7 +275,7 @@ Always include the unit (°C per day) and use the same time unit given in the qu
 - Forgetting to explain why the seeds are disinfected, or why boiled seeds are used.
 - Describing a colour change with no starting colour: write "from red to yellow".
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-biology-4bi1-respiration-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-respiration-practice/). For more on the cell structures involved, use the [cell structure practice questions](/resources/edexcel-igcse-biology-cell-structure-practice/).
 

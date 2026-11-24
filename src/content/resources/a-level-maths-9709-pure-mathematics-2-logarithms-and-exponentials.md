@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -320,7 +320,7 @@ The curve still passes through (0, 1), but it decreases towards the x-axis as x 
 **Should you apply the power law before combining logarithms?**
 Yes. Apply the power law first so every term has coefficient 1, for example 2 lg x becomes lg(x²), then combine using the product and quotient laws.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials-revision-notes/), then try the [practice questions](/resources/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials-practice/). The [Pure Mathematics 2 practice set](/resources/a-level-mathematics-pure-mathematics-2-practice/) mixes logs with the rest of Paper 2. If you are on the A Level route, the [Pure Mathematics 3 study guide](/resources/a-level-maths-9709-pure-mathematics-3/) covers the same outcomes as section 3.2. Check your AS readiness with the free [AS diagnostic](/practice/9709/diagnostic/as/) or the [9709 self-check bank](/practice/9709/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ This scores well because it is balanced, each point is explained rather than lis
 
 **Identify** and **define** need short, exact answers. **Describe** needs the steps or features in order. **Interpret** means using the diagram or data in front of you, quoting labels or figures. **Compare** needs similarities or differences stated together. **Discuss** needs at least two benefits, at least two limitations and a short judgement linked to the context in the question.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [water sources and supply revision notes](/resources/cambridge-o-level-environmental-management-5014-water-sources-and-supply-5014-2027-revision-notes/).
 - Exam-style questions with mark schemes: [water sources and supply practice questions](/resources/cambridge-o-level-environmental-management-5014-water-sources-and-supply-5014-2027-practice/).

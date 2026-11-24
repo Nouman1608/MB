@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -146,7 +146,7 @@ For example: "In a period of rising prices, FIFO gives a higher gross profit tha
 - **Explain** questions need a linked reason, such as "because prices rose, the oldest and cheapest units are charged first under FIFO".
 - **Evaluate** or **recommend** needs both sides and a conclusion about which method suits the business.
 
-## Related resources
+## More resources on this topic
 
 [Introduction to costing revision notes](/resources/edexcel-ial-accounting-introduction-to-costing-revision-notes/) |
 [Inventory valuation practice questions](/resources/edexcel-a-level-accounting-yac11-valuation-of-inventory-practice/) |

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -171,7 +171,7 @@ Learn it first: [Proteins study guide](/resources/a-level-biology-9700-proteins/
 - Giving magnification with units, or failing to convert mm to nm first.
 - Describing collagen strength without cross-links or staggered ends.
 
-## Next steps
+## More on this topic
 
 - [Proteins revision notes](/resources/a-level-biology-9700-proteins-revision-notes/)
 - [Proteins study guide](/resources/a-level-biology-9700-proteins/)

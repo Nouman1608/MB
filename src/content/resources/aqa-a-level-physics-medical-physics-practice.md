@@ -38,7 +38,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -190,7 +190,7 @@ Use: e = 1.60 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s
 - Using T_P where T_E is needed.
 - Giving a single vague comparison point when resolution, convenience and safety are each worth credit.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-physics-medical-physics-revision-notes/)
 - [Study guide](/resources/aqa-a-level-physics-medical-physics/)

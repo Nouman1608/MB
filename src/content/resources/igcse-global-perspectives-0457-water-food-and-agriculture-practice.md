@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -150,7 +150,7 @@ In the real exam, extended answers are marked with levels of response, not point
 - Ignoring fairness between smallholders and large farms.
 - Planning a Team Project action with no measure taken before it starts.
 
-## Next steps
+## More on this topic
 
 - Check your weaker skills with a free [diagnostic](/diagnostics/).
 - Revise the exam with the [Written Exam study guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and [Written Exam practice](/resources/global-perspectives-practice/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,7 +177,7 @@ For full explanations, theory evaluation and an annotated answer, read the [pain
 11. Imagining a pleasant scene that is incompatible with pain.
 12. It stimulates large fibres, which close the gate to pain signals.
 
-## Related resources
+## More resources on this topic
 
 - [Pain study guide](/resources/cambridge-a-level-psychology-9990-pain/)
 - [Pain practice questions](/resources/cambridge-a-level-psychology-9990-pain-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -180,6 +180,6 @@ A common error is to count nuclear as renewable because it is low-carbon; that w
 
 **Describe** the formation of a fuel in sequence: organisms, burial without oxygen, heat and pressure over millions of years. **Classify** with the syllabus's two categories. For **describe how electricity is generated**, give the chain from energy source to turbine to generator. For **discuss**, pair each benefit with a limitation and refer to the place in the question.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Energy resources revision notes](/resources/cambridge-igcse-environmental-management-0680-energy-resources-revision-notes/), practise with the [Energy resources practice questions](/resources/cambridge-igcse-environmental-management-0680-energy-resources-practice/), then continue to the [Conservation and management of energy resources study guide](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy/).

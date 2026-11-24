@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -140,7 +140,7 @@ The answer earns its marks by naming a feature, explaining it, and contrasting i
 
 AQA's section 3.1 questions use command words such as **explain**, **outline**, **briefly explain** and **suggest**. For **explain**, give the point, develop it with reasons, and support it with an example or case. For a distinction question, write in pairs: one feature of legal rules set directly against the matching feature of other rules. In a longer answer on another part of section 3.1, use this vocabulary precisely: an essay on law and morality is stronger if you can say exactly why a moral rule is not a legal one.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [Nature of Law revision notes](/resources/aqa-a-level-law-7162-nature-of-law-revision-notes/), then apply it with the [Nature of Law practice questions](/resources/aqa-a-level-law-7162-nature-of-law-practice/). The wider relationship between law and society is in the [Law and Society study guide](/resources/aqa-a-level-law-7162-nature-of-law-law-and-society/).
 

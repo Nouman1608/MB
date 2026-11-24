@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -152,7 +152,7 @@ Leaving out the exchange rate when the commodity is priced in a foreign currency
 **Which AQA A-level Economics content does this practice cover?**
 It covers the inflation and deflation content of AQA 7136, including demand-pull and cost-push inflation, MV = PQ, expectations and external influences on prices.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-inflation-and-deflation-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-inflation-and-deflation/).
 - Visit the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and tick off topics on the [checklist](/checklists/aqa/a-level/economics/).

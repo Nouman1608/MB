@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -155,7 +155,7 @@ The weight mg has a component mg sin α down the plane and mg cos α perpendicul
 **How should you quote Newton's third law in a connected particles answer?**
 Name the two bodies involved: the force of A on B is equal in size and opposite in direction to the force of B on A.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-mathematics-two-dimensional-equilibrium-connected-particles-and-revision-notes/) and redo any question you lost marks on.
 - Go back to the [study guide](/resources/ocr-a-level-mathematics-two-dimensional-equilibrium-connected-particles-and/) for the method.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -190,7 +190,7 @@ Revise first with the [1.04 study guide](/resources/ocr-gcse-mathematics-j560-in
 - Leaving out carries and exchanges in missing-digit columns.
 - Writing a check calculation with no conclusion.
 
-## Next steps
+## More on this topic
 
 - Recap with the [1.04 revision notes](/resources/ocr-gcse-mathematics-j560-inverse-operations-revision-notes/).
 - Re-read the "subtract from" trap and missing-digit examples in the [1.04 study guide](/resources/ocr-gcse-mathematics-j560-inverse-operations/).

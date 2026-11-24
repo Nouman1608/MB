@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ This set covers section 3.6 Finance in the AQA GCSE Business (8132) specificatio
 - Using revenue, not cost of sales, to find gross profit.
 - Treating money owed by customers as a liability.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-business-finance-revision-notes/) and the [study guide](/resources/aqa-gcse-business-finance/).
 - Course hub: [AQA GCSE Business](/boards/aqa/gcse/business/); [checklist](/checklists/aqa/gcse/business/).

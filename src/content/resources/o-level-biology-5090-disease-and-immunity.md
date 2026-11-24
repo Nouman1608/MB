@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 12, Disease and immunity, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, and covers every learning outcome in sections 12.1 Disease, 12.2 Antibiotics and 12.3 Immunity. The 5090 syllabus is not tiered, so every candidate studies all of it.
@@ -372,7 +372,7 @@ So the immune system is weakened, other pathogens are not destroyed, and the per
 - Leaving chloride ions or osmosis out of the cholera chain.
 - Calling the mosquito the pathogen. It is the vector.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/o-level-biology-5090-disease-and-immunity-revision-notes/), then test yourself with the [practice questions](/resources/o-level-biology-5090-disease-and-immunity-practice/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ Confirm the negative ions on fresh portions: lithium carbonate fizzes with dilut
 - Running a halide test on a portion that already contains chloride from earlier reagents.
 - Formulae with unbalanced charges when naming the identified compound.
 
-## Next steps
+## More on this topic
 
 - Recap fast with the [identification of ions revision notes](/resources/oxfordaqa-igcse-chemistry-identification-of-ions-revision-notes/).
 - Re-learn anything you missed in the [identification of ions study guide](/resources/oxfordaqa-igcse-chemistry-identification-of-ions/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Let the context decide. If you need enough packs, bags or glasses to cover a job
 **How do you show which item is the best value for money?**
 Work out a comparable unit cost for every option, such as the price per 100 ml, then state which is cheapest. Naming the best buy without unit costs for all the options does not earn the final mark.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-revision-notes/)
 - [Study guide for this unit](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators/)

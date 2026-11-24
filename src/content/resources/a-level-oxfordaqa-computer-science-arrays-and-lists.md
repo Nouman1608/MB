@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -182,7 +182,7 @@ No. Students will not be required to use arrays of more than two dimensions in e
 **How do you choose between an array and a list in an exam answer?**
 Justify the choice against the data. A static array suits a known, fixed number of items, such as 365 daily readings, while a dynamic list suits an unknown, growing number of items, such as submitted high scores.
 
-## Related resources
+## More resources on this topic
 
 - [Arrays and Lists revision notes](/resources/oxfordaqa-a-level-computer-science-arrays-lists-revision-notes/)
 - [Arrays and Lists practice questions](/resources/oxfordaqa-a-level-computer-science-arrays-lists-practice/)

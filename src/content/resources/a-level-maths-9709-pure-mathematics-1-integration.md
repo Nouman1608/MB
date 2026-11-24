@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -354,7 +354,7 @@ MF19 gives ∫ xⁿ dx = xⁿ⁺¹/(n + 1) for n ≠ −1. It does not give the 
 **How do you find the area between a curve and the y-axis?**
 Rearrange the equation to make x the subject and integrate x with respect to y, using y-values as the limits.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a quick self-test: [Integration revision notes](/resources/a-level-maths-9709-pure-mathematics-1-integration-revision-notes/).
 - Original exam-style questions with mark-by-mark answers: [Integration practice questions](/resources/a-level-maths-9709-pure-mathematics-1-integration-practice/).

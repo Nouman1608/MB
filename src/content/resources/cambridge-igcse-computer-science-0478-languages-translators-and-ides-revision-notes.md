@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ Exam questions often ask what an IDE feature does **and** why it helps. Use the 
 | Suggest | A sensible proposal that applies your knowledge to the situation given |
 | Evaluate | A judgement based on advantages and disadvantages, ending with a conclusion |
 
-## Next steps
+## More on this topic
 
 Read the full explanations in the [Types of programming language, translators and IDEs study guide](/resources/cambridge-igcse-computer-science-0478-languages-translators-and-ides/), then try the [Types of programming language, translators and IDEs practice questions](/resources/cambridge-igcse-computer-science-0478-languages-translators-and-ides-practice/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ Name the specific condition that may fail and explain why using the context, for
 **Should you state the distribution before calculating in S2?**
 Yes. Write the distribution with its parameters, such as X ~ Po(4.5) or X ~ B(40, 0.08), before any calculation; failing to do so can cost marks.
 
-## Next steps
+## More on this topic
 
 - Condense the unit with the [revision notes](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson/).

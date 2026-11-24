@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -192,7 +192,7 @@ Remedy?        If the arrest was unlawful for lack of reasons, a claim for
 - **Discuss** questions: evaluate how well Article 5 and English law protect liberty, for example the
   tension between the Brogan line and pre-charge detention in terrorism cases.
 
-## Related resources
+## More resources on this topic
 
 [Article 5 revision notes](/resources/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953-revision-notes/) |
 [Article 5 practice questions](/resources/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953-practice/) |

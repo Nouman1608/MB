@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Use the ratio: divide one plus money wage growth by one plus inflation and subtr
 **Is demand stimulus the right policy for structural unemployment?**
 No. Raising aggregate demand suits cyclical unemployment; structural and frictional unemployment need supply-side measures such as retraining or better job information.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-employment-and-unemployment-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-employment-and-unemployment/).
 - Visit the [course hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

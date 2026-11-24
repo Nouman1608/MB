@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers Topic 4, section 4.5, Financial statements of a manufacturer, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. Topic 4 sits in Paper 2, Financial Statements, which the specification describes as a one-hour 15-minute paper made up of two multi-part questions on financial statements. Paper 2 also builds on topics 1 to 3. The specification does not mark any part of 4.5 as limited to a tier or a sub-set of candidates, so all of it is open to you.
@@ -271,7 +271,7 @@ Now a missing figure. Zeltham has a prime cost of 84,000, factory overheads of 3
 - Carrying total cost, not production cost, to the income statement.
 - Leaving out the finished goods adjustment, so cost of sales uses production cost only.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-accounting-financial-statements-of-a-manufacturer-revision-notes/), then work through the [practice questions](/resources/edexcel-igcse-accounting-financial-statements-of-a-manufacturer-practice/). The [course hub](/boards/edexcel/igcse/accounting/), [checklist](/checklists/edexcel/igcse/accounting/) and [diagnostics](/diagnostics/) show what to revise next.
 

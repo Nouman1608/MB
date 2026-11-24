@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ The income and substitution effects and the law of diminishing marginal utility,
 **What are common mistakes in IB Economics demand questions?**
 Common slips include writing "demand falls" when the price rose instead of calling it a contraction, calculating a percentage change against the new value, treating a complement like a substitute, and giving a shift with no cause.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ib-dp-economics-demand-revision-notes/) and the [study guide](/resources/ib-dp-economics-demand/).
 - See the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/).

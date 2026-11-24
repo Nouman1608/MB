@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ D: SO₄²⁻
 - Mixing up UV light (radical, side chain) with AlCl₃ (electrophile, ring).
 - Adding or averaging step yields.
 
-## Next steps
+## More on this topic
 
 - Recap the facts: [electrophilic substitution revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-10-2-revision-notes/)
 - Previous subtopic: [bonding in benzene practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-10-1-practice/)

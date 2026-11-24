@@ -26,6 +26,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -212,7 +213,7 @@ Questions 10 to 12 are extended responses. The real exam marks these with levels
 - Ethics answers that say "be ethical" without a specific issue and action.
 - Writing about your own fieldwork with no place, data or result.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills/) sections on any question you got wrong.
 - Practise using these skills on content from other units with the [physical geography practice set](/resources/oxfordaqa-a-level-geography-physical-practice/) and [globalisation practice set](/resources/oxfordaqa-a-level-geography-globalisation-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Mass concentration = 0.852 × 17.0 = **14.5 g dm⁻³** [1]
 - Using the anhydrous molar mass for a hydrate.
 - Subtracting the wrong way in a back titration, or using titre moles directly.
 
-## Next steps
+## More on this topic
 
 - [2.1.4 revision notes](/resources/ocr-a-level-chemistry-acids-revision-notes/)
 - [2.1.4 study guide](/resources/ocr-a-level-chemistry-acids/)

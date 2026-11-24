@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -186,6 +186,6 @@ April meets both conditions; May is warm enough but too dry (40 mm); June to Sep
 
 **Describe** composition: name all four components. **Explain** why loam is good: give the reason and its benefit to the crop. **Interpret** graphs or tables: quote figures and identify where a rate changes or levels off. **Define** weather using the syllabus wording.
 
-## Next steps
+## More on this topic
 
 Revise with the [Soils and crop growth revision notes](/resources/cambridge-igcse-environmental-management-0680-soils-and-crop-growth-revision-notes/), practise with the [Soils and crop growth practice questions](/resources/cambridge-igcse-environmental-management-0680-soils-and-crop-growth-practice/), then continue to the [Food production and crop yield study guide](/resources/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield/).

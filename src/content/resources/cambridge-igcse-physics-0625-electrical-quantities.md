@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -165,7 +165,7 @@ Two unit systems appear here. For joules use watts and seconds; for kW h use kil
 - **Explain** a graph: link the gradient to resistance and give the physical reason.
 - **Describe** an experiment: include the circuit (ammeter in series, voltmeter in parallel), how readings are varied, and the calculation.
 
-## Next steps
+## More on this topic
 
 Condense this with the [electrical quantities revision notes](/resources/cambridge-igcse-physics-0625-electrical-quantities-revision-notes/) and practise with the [electrical quantities practice questions](/resources/cambridge-igcse-physics-0625-electrical-quantities-practice/). The next subtopic is [electric circuits](/resources/cambridge-igcse-physics-0625-electric-circuits/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches electrolysis for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.3.2 (statements a to j) plus the required practical on copper sulfate solution. The qualification is untiered, so everything here applies to every candidate.
@@ -287,7 +287,7 @@ These are important reagents for the chemical industry. Sodium hydroxide is used
 - Saying cryolite is a catalyst. It lowers the melting temperature of the mixture.
 - Making the object the anode in electroplating. The object is always the cathode.
 
-## Next steps
+## More on this topic
 
 Use the [electrolysis revision notes](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/) for recall, then the [practice questions](/resources/oxfordaqa-igcse-chemistry-electrolysis-practice/). See also the [exam preparation page](/resources/oxfordaqa-igcse-chemistry-exam-preparation/) and the [free diagnostics](/diagnostics/).
 

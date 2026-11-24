@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -125,6 +125,6 @@ The second mean better represents the woodland. Say in the method that the anoma
 - **Suggest** an improvement: name it and say what problem it fixes.
 - Always give units, sample sizes and distances in a plan.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [Fieldwork investigations revision notes](/resources/cambridge-igcse-environmental-management-0680-fieldwork-investigations-revision-notes/), then apply it in the [Fieldwork investigations practice questions](/resources/cambridge-igcse-environmental-management-0680-fieldwork-investigations-practice/).

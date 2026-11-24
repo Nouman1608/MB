@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 updatedDate: 2026-11-05
 featured: false
@@ -192,7 +192,7 @@ GDP says nothing about income distribution, non-market activity such as unpaid d
 **Which Edexcel unit covers measuring economic growth?**
 It is the economic growth strand of 2.3.1 Measures of economic performance in Unit 2 (WEC12/01) Macroeconomic performance and policy, part of both the XEC11 and YEC11 awards.
 
-## Related resources
+## More resources on this topic
 
 [Measuring Economic Growth revision notes](/resources/edexcel-a-level-economics-economic-growth-revision-notes/) |
 [Measuring Economic Growth practice questions](/resources/edexcel-a-level-economics-economic-growth-practice/)

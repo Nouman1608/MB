@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -228,7 +228,7 @@ Side elevation: a rectangle 4 cm wide and 3 cm high.
 - Using the wrong pair of dimensions for a view.
 - Drawing horizontal lines on isometric paper, or including hidden edges.
 
-## Next steps
+## More on this topic
 
 - Review with the [three-dimensional shapes revision notes](/resources/ocr-gcse-mathematics-j560-three-dimensional-shapes-revision-notes/).
 - Re-read the explanations in the [three-dimensional shapes study guide](/resources/ocr-gcse-mathematics-j560-three-dimensional-shapes/).

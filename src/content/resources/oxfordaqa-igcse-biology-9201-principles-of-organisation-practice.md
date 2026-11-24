@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -131,7 +131,7 @@ For mixed questions on the whole of Topic 1, use the [Organisation practice ques
 - Dividing real size by image size, or forgetting to convert mm to μm.
 - Saying large organisms need exchange systems "because they are heavy" instead of using surface area to volume ratio.
 
-## Next steps
+## More on this topic
 
 - [Principles of organisation study guide](/resources/oxfordaqa-igcse-biology-9201-principles-of-organisation/)
 - [Organisation revision notes](/resources/igcse-oxfordaqa-biology-organisation-revision-notes/)

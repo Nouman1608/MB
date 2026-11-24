@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -148,7 +148,7 @@ State the actual wording first, then tie each reason for it to the business in t
 **How do you analyse the effect of CSR on stakeholders?**
 Weigh stakeholders against each other, such as suppliers who gain from a higher price against shareholders whose profit falls. A list of stakeholders shows less analysis.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr/).
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/) and the [checklist](/checklists/ocr/a-level/business/).

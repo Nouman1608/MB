@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 A systematic approach to problem solving (section 4.13 of AQA A-Level Computer Science 7517) means developing
@@ -159,7 +159,7 @@ fixed early, before the whole system is built.
 Building first the parts of the system that everything else depends on, so the core of the solution works before
 less essential features are added.
 
-## Related resources
+## More resources on this topic
 
 [Systematic approach to problem solving study guide](/resources/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide/) |
 [Systematic approach to problem solving practice questions](/resources/aqa-a-level-computer-science-systematic-approach-to-problem-solving-practice/) |

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,7 +180,7 @@ The definitions are about **carbon–carbon** bonds only. Ethanoic acid contains
 - **Deduce**: use the general formula, showing the value of n.
 - **Identify**: name the functional group or series from the formula given.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [formulae, functional groups and terminology revision notes](/resources/cambridge-o-level-chemistry-5070-formulae-functional-groups-and-terminology-revision-notes/).
 - Test yourself with the [formulae, functional groups and terminology practice questions](/resources/cambridge-o-level-chemistry-5070-formulae-functional-groups-and-terminology-practice/).

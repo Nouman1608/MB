@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -167,7 +167,7 @@ Name a specific measure or method linked to the scenario. A vague answer such as
 **What are common mistakes in Relationships practice questions?**
 Students often get the filter order wrong, treat equity as equal inputs rather than a fair ratio, and define a theory in an application question without using the scenario's names and details.
 
-## Next steps
+## More on this topic
 
 Check your weaker areas against the [AQA A-level Psychology checklist](/checklists/aqa/a-level/psychology/), and revisit the attachment types in the [Paper 1 introductory practice questions](/resources/aqa-a-level-psychology-introductory-practice/) before parasocial questions. Then try a timed Section B under exam conditions using your board's past papers.
 

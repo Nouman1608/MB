@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Speed of separation = e × speed of approach. Sketch the velocities before and a
 **How do you decide whether there is a further collision?**
 After each impact, write down every particle's velocity and direction. If a particle behind is moving faster than the one ahead, or they move towards each other, they will collide again.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the/).
 - Open the [course hub](/boards/edexcel/a-level/mathematics/) and [printable checklist](/checklists/edexcel/a-level/mathematics/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻². Masses: Earth 5.97 × 10²⁴ kg, Moo
 - Defining potential without "per unit mass" or "from infinity".
 - Calling any 24 hour orbit geostationary, and forgetting the equatorial plane and the direction of rotation.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-a-level-physics-gravitational-potential-and-orbits-of-planets-and-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-gravitational-potential-and-orbits-of-planets-and/).
 - Tick off the [checklist](/checklists/oxfordaqa/a-level/physics/) on the [course hub](/boards/oxfordaqa/a-level/physics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 3.1.3.3 (Equilibrium price) and 3.1.3.4 (Intermarket relationships) of the AQA GCSE Economics (8136) specification, for first teaching from September 2017. The specification marks no tiers, so everything here is common content. It sits in section 3.1, How markets work, which is assessed in Paper 1. It assumes you already know how demand and supply curves are drawn and why they shift; those points are taught separately, as is the calculation of elasticity.
@@ -259,7 +259,7 @@ Excess demand appears at the old price, so the new equilibrium has a higher pric
 **What are complements and substitutes?**
 Substitutes are goods that can be used in place of each other, such as tea and coffee. Complements are goods used together, such as printers and ink.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-practice/), then use the [revision notes](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-revision-notes/) in the last weeks. The [free 10-minute diagnostics](/diagnostics/) show where to focus.
 

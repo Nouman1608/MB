@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ These questions cover section P2.8 (Differential equations) of the OxfordAQA Int
 - Forgetting the chain rule when the rate of change is of V but the variable is r.
 - Not saying what t, x or P stands for when giving a final answer in context.
 
-## Next steps
+## More on this topic
 
 - Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations-revision-notes/).
 - Go back to the [study guide](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations/) for method and worked examples.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers sections 5.3 and 5.4 of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027: quartiles and percentiles, and measures for combined sets of data. The syllabus is not tiered, so everything here is for every candidate.
@@ -283,7 +283,7 @@ The mean is unchanged because the value removed equalled the mean. The standard 
 - Reading a percentile from the top when it counts from the bottom (and the reverse for "the highest 10%").
 - Quoting a graph reading as exact. Say "estimate" or "about".
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-revision-notes/), then the [practice questions](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-practice/). The next topic, section 6, is in the [guide on adding or multiplying by a constant](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and/).
 

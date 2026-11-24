@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ L = (P₁ – P₂) t / (m₁ – m₂)
 
 **Answers:** 1. The energy required per unit mass to raise the temperature by one degree. 2. The energy required per unit mass to change a liquid into a vapour without a change in temperature. 3. J kg⁻¹. 4. Q = 2.0 × 900 × 15 = 2.7 × 10⁴ J. 5. Q = 0.25 × 3.34 × 10⁵ = 8.4 × 10⁴ J. 6. Molecules are separated much further, so nearly all intermolecular attractions are overcome; and the large volume increase means work is done against the atmosphere. 7. The energy supplied increases the potential energy of the molecules, not their mean kinetic energy. 8. m = Pt ÷ L_v = 2000 × 60 ÷ 2.26 × 10⁶ = 0.053 kg. 9. The liquid (gradient = P/mc, so a smaller gradient means a larger c). 10. L_f = Pt/m = 150 × 200 ÷ 0.40 = 7.5 × 10⁴ J kg⁻¹. 11. Too large: more energy is supplied than the sample absorbs. 12. L = (P₁ – P₂)t ÷ (m₁ – m₂); the liquid is at the same (boiling) temperature in both runs, so energy is lost at the same rate and the losses subtract out.
 
-## Related resources
+## More resources on this topic
 
 - [Temperature revision notes](/resources/a-physics-temperature-revision-notes/) — the whole of Topic 14
 - [Practice questions for this subtopic](/resources/cambridge-a-level-physics-9702-a-specific-heat-capacity-and-specific-latent-heat-practice/)

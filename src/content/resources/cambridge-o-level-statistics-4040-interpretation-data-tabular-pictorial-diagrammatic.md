@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ A conclusion must follow from the data shown.
 - **Comment** or **interpret**: say what the figures mean in the context of the question.
 - **Is the claim justified?**: answer yes or no, then give the evidence.
 
-## Next steps
+## More on this topic
 
 Drill the reading rules with the [interpretation revision notes](/resources/cambridge-o-level-statistics-4040-interpretation-data-tabular-pictorial-diagrammatic-revision-notes/), then try the [interpretation practice questions](/resources/cambridge-o-level-statistics-4040-interpretation-data-tabular-pictorial-diagrammatic-practice/). Choosing the right form in the first place is covered in [purpose, advantages and disadvantages of representations](/resources/cambridge-o-level-statistics-4040-purpose-use-representation-advantages-disadvantages/).
 

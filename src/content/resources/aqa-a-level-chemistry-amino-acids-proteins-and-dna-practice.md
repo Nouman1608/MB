@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -216,7 +216,7 @@ Measure both the spot and the solvent front from the baseline, not from the bott
 **What do examiners want when you describe hydrogen bonds in proteins?**
 Name the groups involved, such as the C=O and N–H groups of peptide links in secondary structure. Also treat S–S bonds as covalent bonds, not as intermolecular forces.
 
-## Next steps
+## More on this topic
 
 - [Amino acids, proteins and DNA revision notes](/resources/aqa-a-level-chemistry-amino-acids-proteins-and-dna-revision-notes/)
 - [Amino acids, proteins and DNA study guide](/resources/aqa-a-level-chemistry-amino-acids-proteins-and-dna/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,7 +121,7 @@ Why it scores four: each sentence gives one process and links it to the next, us
 4. Explain how deforestation can change local rainfall. *Less transpiration means less water vapour enters the air, so less rain may fall.*
 5. Forest falls from 2 500 km² to 2 150 km². Calculate the percentage loss. *350 / 2 500 x 100 = 14%.*
 
-## Related resources
+## More resources on this topic
 
 - [Forest ecosystems revision notes](/resources/cambridge-o-level-environmental-management-5014-forest-ecosystems-5014-2027-revision-notes/)
 - [Forest ecosystems practice questions](/resources/cambridge-o-level-environmental-management-5014-forest-ecosystems-5014-2027-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Data used where needed: 1 u = 1.661 × 10⁻²⁷ kg = 931.5 MeV/c²; 1 MeV = 1.
 - Taking a binding-energy answer as exact when it comes from curve values.
 - Mixing MW and GW.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-physics-nuclear-fission-and-power-plants-revision-notes/) and the [study guide](/resources/ib-dp-physics-nuclear-fission-and-power-plants/).
 - Check the [IB DP Physics hub](/boards/ib/ib-dp/physics/) and [printable checklist](/checklists/ib/ib-dp/physics/).

@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -175,7 +175,7 @@ The poetry options are a selection of William Wordsworth, Robert Frost, Thomas H
 **How should I split my time in the Unit 2 exam?**
 With 2 hours for two 25-mark essays, aim for roughly equal time on each section and leave a short window at the end to reread both answers against the question.
 
-## Related resources
+## More resources on this topic
 
 - [Place in Literary Texts study guide](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts/)
 - [Place in Literary Texts practice questions](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts-practice/)

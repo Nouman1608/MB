@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ These questions follow specification section 2.01 Statistical sampling (2.01a to
 - Missing the direction of bias when it can be deduced.
 - Recommending a method without saying why it is feasible.
 
-## Next steps
+## More on this topic
 
 - [Statistical sampling revision notes](/resources/ocr-a-level-mathematics-h240-statistical-sampling-revision-notes/)
 - [OCR A Level Mathematics Statistics overview](/resources/ocr-a-level-mathematics-statistics/)

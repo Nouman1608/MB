@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -221,7 +221,7 @@ depends on evidence, not a list of points.
 In the case-study question, plan four lines before you write: name the
 area, two specific facts, one weakness or disadvantage, and a judgement.
 
-## Next steps
+## More on this topic
 
 - Test recall with the [Tourism revision notes](/resources/cambridge-o-level-geography-tourism-revision-notes/).
 - Try the [Tourism practice questions](/resources/cambridge-o-level-geography-tourism-practice/).

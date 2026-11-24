@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches 4.2.4 Analytical techniques from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It is part of Module 4, Core organic chemistry, and all of 4.2.4(a) to (h) is taught here (H432 is the full A level). The assessment overview in the specification gives Component 02 (Synthesis and analytical techniques) as assessing modules 1, 2, 4 and 6, and Component 03 (Unified chemistry) as assessing all six modules. This section has no PAG link.
@@ -243,7 +243,7 @@ Empirical formula C₅H₁₀O, mass 86.0.
 - Reading the M+1 peak as the molecular ion and giving Mr one unit too high.
 - Giving one structure when the data fit two isomers.
 
-## Next steps
+## More on this topic
 
 - Condensed tables and a quick self-test: [Analytical techniques revision notes](/resources/ocr-a-level-chemistry-analytical-techniques-revision-notes/)
 - Original questions with mark-by-mark answers: [Analytical techniques practice questions](/resources/ocr-a-level-chemistry-analytical-techniques-practice/)

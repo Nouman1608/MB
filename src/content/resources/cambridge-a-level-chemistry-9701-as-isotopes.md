@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Each point the examiner wants is there: same electrons and configuration, reacti
 - **Compare** two species: give one similarity and one difference, each with its reason.
 - **Calculate** a density ratio: use relative masses, and for gases use the molar volume given on the data sheet.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge 9701 Relative masses of atoms and molecules](/resources/cambridge-a-level-chemistry-9701-as-relative-masses-of-atoms-and-molecules/) — how isotopic masses give relative atomic mass
 - [Cambridge 9701 Electrons, energy levels and atomic orbitals](/resources/cambridge-a-level-chemistry-9701-as-electrons-energy-levels-and-atomic-orbitals/) — the configurations that fix chemical behaviour

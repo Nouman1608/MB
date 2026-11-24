@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -137,7 +137,7 @@ Draw the money supply as a vertical line, because it is set by the central bank,
 **What do IB Economics examiners look for in evaluate questions on monetary policy?**
 Weigh the constraints against the strengths and apply them to the details of the case, such as how low rates already are and how confident households are, then reach a judgement. Listing points without weighing them loses marks.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ib-dp-economics-monetary-policy-revision-notes/) and the [study guide](/resources/ib-dp-economics-monetary-policy/).
 - Tick off the content on the [printable checklist](/checklists/ib/ib-dp/economics/) and visit the [IB DP Economics course page](/boards/ib/ib-dp/economics/).

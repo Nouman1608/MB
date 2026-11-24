@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ Find a and b, and hence find N. **[3]**
 - Giving the reciprocal of a mixed number as 1 over the whole-number part.
 - Giving a decimal approximation, such as 5.48, when asked for an irrational number: a rounded decimal is rational.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [types of number revision notes](/resources/cambridge-igcse-mathematics-0580-types-of-number-revision-notes/).
 - Mixed Topic 1 questions: [Number practice questions](/resources/igcse-mathematics-number-practice/) and [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ Two tests are enough: sodium carbonate picks out the carboxylic acid, and bromin
 - **Predict** or **apply**: number the ring, mark the free 2-, 4- and 6-positions, then write the product and
   balanced equation.
 
-## Related resources
+## More resources on this topic
 
 - [Phenol revision notes](/resources/cambridge-a-level-chemistry-9701-a-phenol-revision-notes/)
 - [Phenol practice questions](/resources/cambridge-a-level-chemistry-9701-a-phenol-practice/)

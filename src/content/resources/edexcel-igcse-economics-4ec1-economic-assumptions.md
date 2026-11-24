@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Businesses sometimes give money, products or staff time to good causes: donating
 - Treating every deviation as permanent loss: customer care may raise long-run profit.
 - Forgetting that profit = total revenue − total cost when reading a table.
 
-## Next steps
+## More on this topic
 
 Condense this with the [economic assumptions revision notes](/resources/edexcel-igcse-economics-4ec1-economic-assumptions-revision-notes/), then apply it in the [economic assumptions practice questions](/resources/edexcel-igcse-economics-4ec1-economic-assumptions-practice/). The previous section is [the economic problem](/resources/edexcel-igcse-economics-4ec1-the-economic-problem/).
 

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -184,7 +184,7 @@ Spot check: for A = B = C = 1, P = 0, and 0 ⨁ 1 = 1.
 11. 0, because Q takes the value of D at the edge, which is 0.
 12. It stores one bit and keeps outputting it until the next clock edge.
 
-## Next steps
+## More on this topic
 
 - [Logic gates study guide](/resources/oxfordaqa-a-level-computer-science-9645-logic-gates/)
 - [Logic gates practice questions](/resources/oxfordaqa-a-level-computer-science-9645-logic-gates-practice/)

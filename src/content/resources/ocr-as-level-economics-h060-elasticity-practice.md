@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ When demand is price inelastic, the percentage rise in quantity is smaller than 
 **How many decimal places should elasticity answers have?**
 Two decimal places is a safe choice unless the question says otherwise. Show the percentage changes first so that method marks can be awarded.
 
-## Next steps
+## More on this topic
 
 - Re-read the [elasticity study guide](/resources/ocr-as-level-economics-h060-elasticity/) for any question you found hard.
 - Recap with the [elasticity revision notes](/resources/ocr-as-level-economics-h060-elasticity-revision-notes/).

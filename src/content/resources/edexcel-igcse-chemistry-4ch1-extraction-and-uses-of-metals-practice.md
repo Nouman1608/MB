@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ Use the data to choose the most suitable metal. Justify your choice by comparing
 - Leaving out "different-sized atoms" in the alloy explanation.
 - Using Ar of chlorine (35.5) instead of Mr of Cl₂ (71).
 
-## Next steps
+## More on this topic
 
 - Recap with the [extraction and uses of metals revision notes](/resources/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-revision-notes/).
 - Rework anything you missed with the [extraction and uses of metals study guide](/resources/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -111,7 +111,7 @@ These questions cover sections 10.1 (Financial statements) and 10.2 (Analysis of
 - Giving ratios without a comparison, a meaning or a unit.
 - Evaluating with no judgement or recommendation.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts-revision-notes/) and [study guide](/resources/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts/).
 - Course hub: [Cambridge A Level Business](/boards/cambridge/a-level/business/) and the [checklist](/checklists/cambridge/a-level/business/).

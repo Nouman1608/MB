@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Related pages: the [study guide](/resources/cambridge-a-level-economics-firms-ob
 - Describing limit pricing as pricing below cost.
 - Stating PED without a formula or sign convention.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing/).
 - Check your coverage on the [checklist](/checklists/cambridge/a-level/economics/) and the [course hub](/boards/cambridge/a-level/economics/).

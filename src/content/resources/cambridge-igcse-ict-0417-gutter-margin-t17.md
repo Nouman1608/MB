@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ On the theory paper, *state* or *describe* the purpose in terms of binding and v
 5. A4 portrait, margins 2 cm left and right, gutter 1 cm. What is the text width? *21.0 - 2 - 2 - 1 = 16.0 cm.*
 6. Why might text move to another page after a gutter is set? *The text area is narrower, so less text fits on each page.*
 
-## Next steps
+## More on this topic
 
 Revise with the [gutter margin revision notes](/resources/cambridge-igcse-ict-0417-gutter-margin-t17-revision-notes/), then try the [gutter margin practice questions](/resources/cambridge-igcse-ict-0417-gutter-margin-t17-practice/).
 

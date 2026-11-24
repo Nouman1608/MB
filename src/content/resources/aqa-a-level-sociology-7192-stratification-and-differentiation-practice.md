@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Applying material from the data, analyse two sociological explanations of gender
 - Giving a criticism with no reason ("this is outdated").
 - Essays that list studies but never weigh them, so analysis and evaluation marks are missed.
 
-## Next steps
+## More on this topic
 
 - Check your weaker areas with the [diagnostics](/diagnostics/).
 - Revisit the [study guide](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation/) for any theorist you mixed up.

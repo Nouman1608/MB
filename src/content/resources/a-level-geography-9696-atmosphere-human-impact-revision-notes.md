@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -142,7 +142,7 @@ Any city can be used; choose one where you can describe all four elements with r
 
 **Answers:** 1. Natural keeps Earth habitable; enhanced is additional warming from human emissions. 2. Livestock farming and rice paddies. 3. Dark materials that store heat; heat from buildings and traffic; little evaporation. 4. Sealed surfaces drain water away, leaving less to evaporate. 5. Rising warm air and pollution particles that act as condensation nuclei. 6. Temperature records, ice cores, retreating glaciers or rising sea level. 7. Rising carbon dioxide concentrations measured at Mauna Loa since 1958, with a seasonal cycle. 8. Early records cover fewer places, or some stations are affected by urban heat. 9. A change that amplifies itself: melting ice lowers albedo, so more energy is absorbed and more ice melts. 10. Stored heat is released and trapped while rural areas cool quickly. 11. They lower mean speeds but channel strong gusts at street level. 12. Green roofs, street trees, parks or light-coloured surfaces.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

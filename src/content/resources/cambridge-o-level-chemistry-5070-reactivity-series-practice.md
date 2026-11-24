@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,6 +170,6 @@ D: silver
 - Saying copper reacts slowly with acid instead of not at all.
 - Explaining displacement with "it is stronger" rather than comparing tendencies to form positive ions.
 
-## Next steps
+## More on this topic
 
 Check any slips in the [Reactivity series study guide](/resources/cambridge-o-level-chemistry-5070-reactivity-series/), then try the [Corrosion of metals practice questions](/resources/cambridge-o-level-chemistry-5070-corrosion-of-metals-practice/).

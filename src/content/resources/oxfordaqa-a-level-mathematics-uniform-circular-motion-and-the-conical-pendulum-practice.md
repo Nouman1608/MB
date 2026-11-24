@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ Learn the method first in the [study guide](/resources/oxfordaqa-a-level-mathema
 - Forgetting that the maximum tension gives the maximum angular speed, not the minimum.
 - Leaving out the reason that the mass cancels, in friction and orbit questions.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-mathematics-uniform-circular-motion-and-the-conical-pendulum-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-mathematics-uniform-circular-motion-and-the-conical-pendulum/).
 - Tick off M2.7 on the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and visit the course [hub](/boards/oxfordaqa/a-level/mathematics/).

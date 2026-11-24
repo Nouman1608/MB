@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ Learn the content first with the [study guide](/resources/o-level-biology-5090-p
 - Missing units on rates (cm³ per minute, bubbles per minute).
 - Linking indicator colours to "oxygen" instead of carbon dioxide concentration.
 
-## Next steps
+## More on this topic
 
 - Recap with the [plant nutrition revision notes](/resources/o-level-biology-5090-plant-nutrition-revision-notes/).
 - Go back to the [plant nutrition study guide](/resources/o-level-biology-5090-plant-nutrition/) for any outcome you missed.

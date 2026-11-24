@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ The specification does not name particular Acts, so treat these as supporting ex
 - Write a short **conclusion**; it often separates the top mark band.
 - Use the correct technical words (personal data, consent, profile, algorithmic bias, jurisdiction).
 
-## Related resources
+## More resources on this topic
 
 - [Issues and opportunities revision notes](/resources/aqa-a-level-computer-science-7517-moral-ethical-legal-cultural-issues-revision-notes/)
 - [Issues and opportunities practice questions](/resources/aqa-a-level-computer-science-7517-moral-ethical-legal-cultural-issues-practice/)

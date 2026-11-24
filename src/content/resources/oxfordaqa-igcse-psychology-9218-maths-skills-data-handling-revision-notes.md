@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Eight participants recalled 12, 15, 9, 14, 10, 13, 11 and 16 middle words.
 11. 3,000.
 12. 6.67 words.
 
-## Related resources
+## More resources on this topic
 
 - [Maths skills practice questions](/resources/oxfordaqa-igcse-psychology-9218-maths-skills-data-handling-practice/)
 - [Research Methods (Paper 1) revision notes](/resources/oxfordaqa-igcse-psychology-9218-research-methods-revision-notes/)

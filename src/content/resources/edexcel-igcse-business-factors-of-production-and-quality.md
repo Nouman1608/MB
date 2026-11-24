@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers topic 5, Business operations, sections 5.3 Factors of production and 5.4 Quality. The specification says both Paper 1 (small businesses, up to 49 employees) and Paper 2 (large businesses, more than 250 employees) can draw on the whole content, so expect this material in either paper, set in a business scenario.
@@ -242,7 +242,7 @@ Rivals can copy a product, but a quality culture is harder to copy. The advantag
 - Writing about quality in general terms without using the business in the case.
 - Forgetting that robotic equipment raises fixed costs and risk.
 
-## Next steps
+## More on this topic
 
 Condense the points with the [revision notes](/resources/edexcel-igcse-business-factors-of-production-and-quality-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-business-factors-of-production-and-quality-practice/). Return to the [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/) or find weak spots with the [free diagnostics](/diagnostics/).
 

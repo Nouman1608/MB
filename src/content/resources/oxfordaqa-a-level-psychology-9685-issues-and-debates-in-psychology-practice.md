@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -187,7 +187,7 @@ The real exam marks extended answers with levels of response, not point by point
 **What are common mistakes in 9685 issues and debates questions?**
 Students often calculate percentages without using them in the explanation, use "determinism" without saying which type, confuse determinism with reductionism, and end extended answers without a judgement.
 
-## Next steps
+## More on this topic
 
 Check every answer you missed against the [issues and debates study guide](/resources/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology/). For more examples, use the [Unit 2 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/) the [introductory topics practice questions](/resources/oxfordaqa-a-level-psychology-practice/) and the [scientific approaches practice questions](/resources/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology-practice/). To find your weakest topics across 9685, try our [diagnostics](/diagnostics/). For one-to-one help, [Book a free trial class](/trial/).
 

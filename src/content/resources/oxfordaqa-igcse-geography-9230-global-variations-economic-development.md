@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for an example of tourism in an LIC or NEE but does not fix the place. This page uses Kenya in general terms. Check the statements about Kenyan tourism, and the HDI category thresholds, against your own notes. The country comparison table is labelled illustrative."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for an example of tourism in an LIC or NEE but does not fix the place. This page uses Kenya in general terms. Check the statements about Kenyan tourism, and the HDI category thresholds, against your own notes. The country comparison table is labelled illustrative. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -173,6 +173,6 @@ The answer gives three distinct limitations, each explained.
 - **Saying aid always solves problems.** Aid can create dependency or be misused.
 - **Describing the example in general terms.** Include named places, jobs and evidence.
 
-## Next steps
+## More on this topic
 
 Condense this with the [global variations revision notes](/resources/oxfordaqa-igcse-geography-9230-global-variations-economic-development-revision-notes/) and test yourself with the [global variations practice questions](/resources/oxfordaqa-igcse-geography-9230-global-variations-economic-development-practice/).

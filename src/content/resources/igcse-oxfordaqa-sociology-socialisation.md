@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **3.2.2.2 Socialisation**, part of the Socialisation
@@ -220,7 +220,7 @@ You need the functionalist, Marxist, feminist and social action or interactionis
 **What are the four types of socialisation in 9292?**
 The specification lists primary socialisation, secondary socialisation, re-socialisation and inadequate socialisation, and you need to be able to distinguish all four.
 
-## Related resources
+## More resources on this topic
 
 - [Socialisation revision notes](/resources/igcse-oxfordaqa-sociology-socialisation-revision-notes/)
 - [Socialisation practice questions](/resources/igcse-oxfordaqa-sociology-socialisation-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -167,7 +167,7 @@ Conclusion: Action 2 is most effective if land rights are secured and Action 3 f
 - Giving a final judgement that does not follow from the reasoning, or no judgement at all.
 - Coursework planning that names a topic rather than a question, or an action with no way to measure success.
 
-## Next steps
+## More on this topic
 
 - Check your weaker skills with a short [diagnostic](/diagnostics/).
 - Practise more unseen sources with [Global Perspectives practice](/resources/global-perspectives-practice/).

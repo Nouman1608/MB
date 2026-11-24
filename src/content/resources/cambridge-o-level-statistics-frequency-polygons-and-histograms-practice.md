@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ These questions cover section 3.2, representation in frequency polygons and hist
 - Presenting an estimate for part of a class as exact, or not stating the even-spread assumption.
 - Comparing two groups of different sizes using raw counts only.
 
-## Next steps
+## More on this topic
 
 - Revisit the method in the [study guide](/resources/cambridge-o-level-statistics-frequency-polygons-and-histograms/).
 - Use the [revision notes](/resources/cambridge-o-level-statistics-frequency-polygons-and-histograms-revision-notes/) as a quick reference.

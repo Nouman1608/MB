@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -201,7 +201,7 @@ The pressure difference between two depths in a fluid is Δp = ρgΔh, where ρ 
 **What is Archimedes' principle?**
 Upthrust equals the weight of fluid displaced, F = ρgV, where ρ is the fluid's density and V the volume of fluid displaced. It arises because pressure on the bottom of a submerged object is greater than on its top.
 
-## Related resources
+## More resources on this topic
 
 - [Dynamics: Newton's Laws and Momentum](/resources/as-physics-dynamics-newtons-laws-and-momentum/) — the force concepts this topic extends
 - [Work, Energy and Power](/resources/as-physics-work-energy-and-power/) — the next AS topic

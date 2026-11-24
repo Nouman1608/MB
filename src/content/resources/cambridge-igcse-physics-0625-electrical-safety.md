@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,7 +160,7 @@ Such an appliance still has a **fuse** in its plug or circuit. With no earth wir
 - **Choose** a fuse: calculate I = P / V, then pick the smallest rating above it and say why.
 - **State** the role of the fuse in a double-insulated appliance using the syllabus words: protects the circuit and the cabling.
 
-## Next steps
+## More on this topic
 
 Condense this with the [electrical safety revision notes](/resources/cambridge-igcse-physics-0625-electrical-safety-revision-notes/) and practise with the [electrical safety practice questions](/resources/cambridge-igcse-physics-0625-electrical-safety-practice/). The previous subtopic is [electric circuits](/resources/cambridge-igcse-physics-0625-electric-circuits/) and the next is [electromagnetic effects](/resources/cambridge-igcse-physics-0625-electromagnetic-effects/).
 

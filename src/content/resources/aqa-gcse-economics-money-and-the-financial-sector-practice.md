@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -110,7 +110,7 @@ A) Medium of exchange  B) Unit of account  C) Store of value  D) Means of deferr
 
 **How do banks make a profit from lending?** They charge borrowers a higher interest rate than they pay savers. The difference between the interest received and the interest paid covers the bank's costs and provides its profit.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-money-and-the-financial-sector-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-money-and-the-financial-sector/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).

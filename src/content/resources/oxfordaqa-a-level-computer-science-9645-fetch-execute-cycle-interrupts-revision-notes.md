@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ Fetch, decode and execute are followed by an **interrupt check**. Normal case: n
 11. The start address of the ISR.
 12. 40, 41, 70, 71, 72, 42, 43.
 
-## Next steps
+## More on this topic
 
 - [Fetch-Execute cycle and interrupts study guide](/resources/oxfordaqa-a-level-computer-science-9645-fetch-execute-cycle-interrupts/)
 - [Fetch-Execute cycle and interrupts practice questions](/resources/oxfordaqa-a-level-computer-science-9645-fetch-execute-cycle-interrupts-practice/)

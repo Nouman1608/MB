@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -120,7 +120,7 @@ threshold λ₀    hc/Φ = 6.2 × 10⁻⁷ m  (so 450 nm is short enough)
 
 **Answers:** 1. The minimum energy needed to remove an electron from the surface of a metal. 2. The minimum frequency of electromagnetic radiation that causes emission of electrons from the surface. 3. f₀ = Φ/h = 3.68 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = 5.6 × 10¹⁴ Hz; λ₀ = c/f₀ = 5.4 × 10⁻⁷ m. 4. Photon energy = 6.2 eV; max KE = 6.2 − 4.5 = 1.7 eV. 5. Φ = hc/λ₀ = 3.68 × 10⁻¹⁹ J = 2.3 eV. 6. The Planck constant h. 7. Electrons below the surface lose energy before escaping; only surface electrons leave with the maximum hf − Φ. 8. The current triples; the maximum kinetic energy is unchanged. 9. Each red photon has energy below Φ, and one photon interacts with one electron, so no number of red photons frees an electron; each ultraviolet photon has energy above Φ. 10. A single photon delivers all the energy needed in one interaction. 11. It decreases, because each photon carries more energy. 12. They are parallel (same gradient h), displaced along the frequency axis.
 
-## Related resources
+## More resources on this topic
 
 - [Quantum Physics revision notes](/resources/a-physics-quantum-physics-revision-notes/) — the whole of Topic 22
 - [Photoelectric effect practice questions](/resources/cambridge-a-level-physics-9702-a-photoelectric-effect-practice/)

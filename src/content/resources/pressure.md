@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopic **1.8 Pressure**, from Topic 1, Motion, forces
@@ -192,7 +192,7 @@ Mercury is about 13.6 times denser than water, so it gives a manageably short co
 **Is pressure tiered in Cambridge O Level Physics 5054?**
 No. 5054 is not tiered, so every candidate covers all of subtopic 1.8, Pressure, including Δp = ρgΔh.
 
-## Related resources
+## More resources on this topic
 
 - [Forces and Motion](/resources/forces-and-motion/) — the force ideas
 pressure builds on

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Edge 1: **Q₁ = 1, Q₂ = 0** [1]. Edge 2: **Q₁ = 0, Q₂ = 1** [1]. Edge 3: 
 - Describing interrupt steps without saying why the volatile environment is saved.
 - Recommending storage without linking each choice to the scenario.
 
-## Next steps
+## More on this topic
 
 - [Computer organisation and architecture revision notes](/resources/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture-revision-notes/)
 - [Computer organisation and architecture study guide](/resources/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture/)

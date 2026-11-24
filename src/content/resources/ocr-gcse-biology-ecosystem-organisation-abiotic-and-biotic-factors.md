@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. It covers statements B4.1e to B4.1j of topic B4, Community level systems: levels of organisation, abiotic and biotic factors, interdependence and competition, trophic levels, pyramids of biomass and the efficiency of biomass transfer. None of these statements is marked as Higher Tier only in the specification text, so all of them are for both tiers. The cycling of materials and decomposition (B4.1a to B4.1d) are taught separately.
@@ -273,7 +273,7 @@ This is also why eating plants directly gives humans more food from the same lan
 - Dividing by the wrong level in an efficiency calculation. The denominator is the level you start from.
 - Stating that a factor "affects the organism" without saying what happens to numbers or distribution.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors-practice/), condense this with the [revision notes](/resources/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors-revision-notes/) and take a [diagnostic](/diagnostics/) to find weak spots.
 

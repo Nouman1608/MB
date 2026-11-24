@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ Definitions are standard teaching; the specification names the factors without d
 11. Workers cost 3 × 18,000 = 54,000; machine method costs 20,000 + 25,000 = 45,000; saving = 9,000.
 12. They commit more money up front and face more fixed costs, so they carry more risk.
 
-## Next steps
+## More on this topic
 
 Practise with the [factors of production practice questions](/resources/edexcel-igcse-business-4bs1-factors-of-production-practice/), and review production methods in the [production revision notes](/resources/edexcel-igcse-business-4bs1-production-revision-notes/).
 

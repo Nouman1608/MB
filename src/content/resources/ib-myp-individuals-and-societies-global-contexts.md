@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-10-04
 featured: false
 ---
@@ -222,7 +222,7 @@ The context also guides **strand iii**. A fairness question needs data that comp
 - **Thinking every I&S unit must be orientation in space and time.** The guide says many are, and encourages the others.
 - **Relevance stated as personal interest only.** "I find it interesting" is one of the guide's points, but not a full justification.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [revision notes](/resources/ib-myp-individuals-and-societies-global-contexts-revision-notes/), then try the [practice questions](/resources/ib-myp-individuals-and-societies-global-contexts-practice/). The [subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/) gives the course overview.
 

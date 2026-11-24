@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ D: $14 and 150 units
 - Not checking an equation answer by substituting back into both equations.
 - Ending a discussion without saying what the outcome depends on.
 
-## Next steps
+## More on this topic
 
 - Re-read the [price determination study guide](/resources/cambridge-o-level-economics-2281-price-determination/).
 - Revise from the [price determination revision notes](/resources/cambridge-o-level-economics-2281-price-determination-revision-notes/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ This set covers **section 3.1** (SL and HL) of IB DP Mathematics: Analysis and A
 - Taking the wrong projection for an angle with a vertical face.
 - Rounding intermediate lengths such as √52 or √117.
 
-## Next steps
+## More on this topic
 
 - Review the angle methods in the [3D geometry study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-1/).
 - Try the mixed questions in the [3D geometry, triangle trigonometry and radian measure practice set](/resources/ib-dp-mathematics-aa-triangles-circles-3d-geometry-practice/).

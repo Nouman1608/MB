@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,6 +170,6 @@ D: fluorine
 - Saying the halogen added is oxidised: it gains electrons, so it is reduced.
 - Using one reagent to tell three solutions apart when it reacts with two of them; plan the order of tests so each result is unique.
 
-## Next steps
+## More on this topic
 
 Check any slips in the [Group VII properties study guide](/resources/cambridge-o-level-chemistry-5070-group-vii-properties/), then try the [Transition elements practice questions](/resources/cambridge-o-level-chemistry-5070-transition-elements-practice/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Topic 3 **Enzymes** is AS Level content in Cambridge International AS
@@ -105,7 +105,7 @@ enzyme free in solution, and state the advantages of using immobilised
 enzymes (for example, the enzyme can be recovered and reused, and the
 product is not contaminated with enzyme).
 
-## Related resources
+## More resources on this topic
 
 - [Enzymes practice questions](/resources/a-level-biology-enzymes-practice/)
 - [Biological molecules](/resources/a-level-biology-biological-molecules/) — the previous topic

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -155,7 +155,7 @@ These questions cover statements 7.9 to 7.15 of the Pearson Edexcel Internationa
 - Mixing seconds with minutes or cm³ with dm³.
 - Describing the effects of adrenaline without linking them to the benefit for muscle.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline-revision-notes/) and the [study guide](/resources/edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline/).
 - Visit the [Edexcel A Level Biology hub](/boards/edexcel/a-level/biology/) and the [printable checklist](/checklists/edexcel/a-level/biology/).

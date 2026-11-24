@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-01
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Topic 2 Biological molecules**, an AS Level topic
@@ -207,7 +207,7 @@ Cambridge International AS & A Level Biology 9700 syllabus for
 examination in 2025, 2026 and 2027 (Version 1, September 2022) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664560-2025-2027-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Cell Structure](/resources/a-level-biology-cell-structure/) — the
   first topic of 9700, a prerequisite for this topic

@@ -30,7 +30,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -250,7 +250,7 @@ The frontal lobe handles thinking, planning and the motor area, the parietal lob
 **What are the characteristics of the ICD dependence syndrome?**
 Characteristics include tolerance, withdrawal, a compulsion to use and difficulty controlling use. Addiction differs from substance misuse, which is harmful use without dependence.
 
-## Related resources
+## More resources on this topic
 
 - [Social Context and Behaviour study guide](/resources/aqa-gcse-psychology-social-context-and-behaviour/)
 - [Social Context and Behaviour practice questions](/resources/gcse-psychology-social-context-practice/)

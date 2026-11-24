@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ These notes condense section 3 of Unit P2 (Pearson Edexcel International Advance
 
 **11.** 2, the distance from the centre to the y-axis.
 
-## Related resources
+## More resources on this topic
 
 - [P2 circle study guide](/resources/edexcel-a-level-mathematics-yma01-p2-coordinate-geometry/)
 - [P2 circle practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-coordinate-geometry-practice/)

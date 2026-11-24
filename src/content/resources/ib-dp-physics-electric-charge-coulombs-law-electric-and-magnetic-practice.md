@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Links: the [study guide](/resources/ib-dp-physics-electric-charge-coulombs-law-e
 - Field lines lacking arrows, intersecting, or ending away from any charge.
 - Using the direction of electron flow in a right-hand grip rule.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic-revision-notes/).
 - Reread the [study guide](/resources/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic/).

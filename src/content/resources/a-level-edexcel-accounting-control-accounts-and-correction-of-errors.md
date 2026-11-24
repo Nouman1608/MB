@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -220,7 +220,7 @@ A transposition error reverses digits in a figure, for example 540 recorded as 4
 **What is a statement of revised profit?**
 It starts from the originally calculated profit and adjusts it line by line for each correction that affected an income or expense account. In Edexcel YAC11 it follows directly from the correcting journal entries.
 
-## Related resources
+## More resources on this topic
 
 [Control Accounts and Correction of Errors revision notes](/resources/edexcel-a-level-accounting-control-accounts-revision-notes/) |
 [Control Accounts and Correction of Errors practice questions](/resources/edexcel-a-level-accounting-control-accounts-practice/)

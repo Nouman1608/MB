@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-23: Updating-a-file example rewritten with loops in 0478 pseudocode (audit C17)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-23: Updating-a-file example rewritten with loops in 0478 pseudocode (audit C17). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -201,7 +201,7 @@ The file now holds Ali, Bea, Cai, Dev. The first loop runs 3 times (one per name
 | Suggest | A sensible proposal that applies your knowledge to the situation given |
 | Evaluate | A judgement based on advantages and disadvantages, ending with a conclusion |
 
-## Next steps
+## More on this topic
 
 Read the full explanations in the [File handling study guide](/resources/cambridge-igcse-computer-science-0478-file-handling/), then try the [File handling practice questions](/resources/cambridge-igcse-computer-science-0478-file-handling-practice/).
 

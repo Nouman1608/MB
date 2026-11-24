@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches topic 16, Inheritance, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 16.1 Passage of information from parents to offspring, 16.2 The roles of genes in determining the phenotype and 16.3 Gene control. This is A Level content, not AS: it is examined on Paper 4 (A Level Structured Questions), and the chi-squared test can also appear on Paper 5 (Planning, Analysis and Evaluation).
@@ -295,7 +295,7 @@ A separate regulatory gene, **lacI**, with its own promoter, codes for the **rep
 - Describing the lac repressor as binding to the promoter, or lactose binding to the operator.
 - Writing that the le allele is "missing" or "codes for no protein". It codes for a non-functional enzyme.
 
-## Next steps
+## More on this topic
 
 Condense this with the [inheritance revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/), then try the [inheritance practice questions](/resources/a-level-biology-inheritance-practice/). Carry the ideas of alleles, variation and chi-squared into [Selection and evolution](/resources/a-level-biology-9700-selection-and-evolution/).
 

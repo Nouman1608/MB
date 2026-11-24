@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ v = E / B               (velocity selector; E = V/d for plates)
 
 **Answers:** 1. F = BQv sin θ. 2. The force is always perpendicular to the velocity, so it does no work. 3. 0.25 × 1.60 × 10⁻¹⁹ × 2.0 × 10⁶ = 8.0 × 10⁻¹⁴ N. 4. r = mv/(BQ) = 0.084 m. 5. Unchanged (T = 2πm/(BQ)). 6. Down the page. 7. The thickness of the slice, measured in the direction of the field. 8. A semiconductor has a much smaller n, so V_H is much larger and easier to measure. 9. The face of the probe is parallel to the field; rotate it to find the maximum. 10. E = 3000/0.015 = 2.0 × 10⁵ V m⁻¹; v = E/B = 3.3 × 10⁶ m s⁻¹. 11. 0.20 × 0.020 ÷ (2.0 × 10²² × 1.0 × 10⁻⁴ × 1.60 × 10⁻¹⁹) = 0.013 V. 12. Same speed and charge, r ∝ m: X has twice the radius of Y.
 
-## Related resources
+## More resources on this topic
 
 - [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-revision-notes/) — the whole of Topic 20
 - [Force on a moving charge practice questions](/resources/cambridge-a-level-physics-9702-a-force-on-a-moving-charge-practice/)

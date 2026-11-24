@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -145,7 +145,7 @@ A business with strong cash reserves, a competitor available to buy and an urgen
 
 For **explain**, give one reason or problem and follow it with a result for the business. For **analyse**, run through the chain, such as "takeover, high debt, high interest, lower profit, less cash for investment". For **discuss** and **assess** questions on a choice between organic and inorganic growth, weigh speed, cost, risk, control and the firm's resources, and judge using the source: a firm with high debt and a cautious owner should lean towards organic growth.
 
-## Related resources
+## More resources on this topic
 
 - [Business growth revision notes](/resources/edexcel-a-level-business-ybs11-business-growth-revision-notes/)
 - [Business growth practice questions](/resources/edexcel-a-level-business-ybs11-business-growth-practice/)

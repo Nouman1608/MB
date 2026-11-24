@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -133,6 +133,6 @@ After the catastrophic North Sea flood of 1953, the Dutch built the Delta Works,
 
 **Answers:** 1. For example sea wall, groyne, rock armour. 2. Deliberately breaching defences so land floods and forms a natural buffer. 3. Hold the line, advance the line, managed realignment, no active intervention. 4. Bring stakeholders together and manage land and sea as one system. 5. It cannot easily value habitats, heritage or community ties. 6. They trap sediment moved by longshore drift, but starve beaches downdrift. 7. Reflected wave energy scours the beach in front, exposing its base. 8. So decisions in one place account for effects on connected stretches of coast. 9. The village was protected, but erosion increased further south. 10. Benefit: new habitat and long-term protection; drawback: loss of farmland. 11. Placing a large volume of sand offshore and letting natural processes spread it along the coast. 12. 4.0 / 3.2 = 1.25; benefits slightly exceed costs, but unvalued impacts could change the decision.
 
-## Related resources
+## More resources on this topic
 
 - [Option B: Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/)

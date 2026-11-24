@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -247,7 +247,7 @@ It covers subtopics 1.1, Particles in the atom and atomic radius, and 1.2, Isoto
 **Does shielding increase across a period?**
 No. Shielding stays roughly constant across a period because electrons are added to the same shell. The decrease in atomic radius is caused by increasing nuclear charge.
 
-## Related resources
+## More resources on this topic
 
 - [Atomic Structure](/resources/atomic-structure/) — the IGCSE/O Level shell model this resource builds on
 - [Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/) — the next step in Topic 1: sub-shells, orbitals and ionisation energy

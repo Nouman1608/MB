@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ Test rivalry and excludability separately. A public good is both non-rival and n
 **How do you link free riding to market failure?**
 Explain that people can use a non-excludable good without paying, so firms cannot charge for it and will not supply it. The market failure is non-provision of a good worth having.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-revision-notes/) and [study guide](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market/).
 - Use the [hub](/boards/edexcel/a-level/economics/) and [checklist](/checklists/edexcel/a-level/economics/).

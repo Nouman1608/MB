@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -194,7 +194,7 @@ Method 2: collect the gas in a gas syringe.
 - Including an anomalous result in a mean.
 - Recording readings with the wrong number of decimal places for the scale.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [experimental design study guide](/resources/cambridge-o-level-chemistry-5070-experimental-design/).
 - Move on to the [acid–base titrations practice questions](/resources/cambridge-o-level-chemistry-5070-acid-base-titrations-practice/).

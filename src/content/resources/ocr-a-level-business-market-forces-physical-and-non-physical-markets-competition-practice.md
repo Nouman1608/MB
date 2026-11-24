@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Interpret it, for example by saying which sales channel suits the expected volum
 **How do you evaluate competition at local, national and global levels?**
 Naming all three levels is only the start. The judgement must say which level matters most to the business in the case and why.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-revision-notes/) and the [study guide](/resources/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition/).
 - Go to the [OCR A Level Business hub](/boards/ocr/a-level/business/) and the [printable checklist](/checklists/ocr/a-level/business/).

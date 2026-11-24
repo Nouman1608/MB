@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Explain what these results show about the sugars in each extract. **[4]**
 - Giving a single exact value from colour standards.
 - Concluding "no non-reducing sugar" when Benedict's is already brick-red before hydrolysis.
 
-## Next steps
+## More on this topic
 
 - Go back over the [testing for biological molecules revision notes](/resources/a-level-biology-9700-testing-for-biological-molecules-revision-notes/).
 - Re-read any weak section in the [testing for biological molecules study guide](/resources/a-level-biology-9700-testing-for-biological-molecules/).

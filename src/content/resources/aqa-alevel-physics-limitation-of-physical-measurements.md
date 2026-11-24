@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false
@@ -136,7 +136,7 @@ A value quoted to more significant figures implies a smaller relative uncertaint
 **Are trigonometric functions included in combining uncertainties for AQA 7408?**
 No. AQA 7408 requires combining uncertainties for addition, subtraction, multiplication, division and powers, but combinations involving trigonometric or logarithmic functions are not required.
 
-## Related resources
+## More resources on this topic
 
 - [Use of SI Units and Their Prefixes](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes/) — the previous sub-topic
 - [Estimation of Physical Quantities](/resources/aqa-alevel-physics-estimation-of-physical-quantities/) — the next sub-topic

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -186,7 +186,7 @@ A sketch can count solutions without solving anything. For example, how many sol
 - **"Show any asymptotes"**: dashed lines with their equations.
 - **"Recognise"**: matching questions; decide from one feature at a time (sign of the leading term, constant term, form a/x).
 
-## Next steps
+## More on this topic
 
 - [Sketching curves revision notes](/resources/cambridge-igcse-mathematics-0580-sketching-curves-revision-notes/) for the features of each family on one page.
 - [Sketching curves practice questions](/resources/cambridge-igcse-mathematics-0580-sketching-curves-practice/) with marked answers.

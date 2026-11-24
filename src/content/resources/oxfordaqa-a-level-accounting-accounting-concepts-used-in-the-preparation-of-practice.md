@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -218,7 +218,7 @@ write-down and provision are realistic, as reliable figures make a credible appl
 - Dividing and multiplying the wrong way when finding cost from a mark-up on cost.
 - Forgetting depreciation after moving a capital item out of expenses.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-revision-notes/)
 - [Study guide for this topic](/resources/oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of/)

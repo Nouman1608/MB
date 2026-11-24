@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ For air (M ≈ 0.029 kg mol⁻¹) at 1.01 × 10⁵ Pa and 20 °C, ρ = (1.01 × 
 - **Sketch** or **describe** (a graph): name the axes, say whether the line passes through the origin, and give the gradient in symbols.
 - **Suggest** (when a real gas departs from ideal behaviour): at high pressure or low temperature, close to liquefaction.
 
-## Related resources
+## More resources on this topic
 
 - [Ideal Gases study guide](/resources/a-physics-ideal-gases/) — the whole of Topic 15
 - [Equation of state revision notes](/resources/cambridge-a-level-physics-9702-a-equation-of-state-revision-notes/)

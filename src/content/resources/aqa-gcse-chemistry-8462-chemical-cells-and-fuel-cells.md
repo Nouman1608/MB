@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -190,7 +190,7 @@ the choice of metals.
   reverse the reactions.
 - Writing electrons on the wrong side in half equations (oxidation: electrons on the right).
 
-## Next steps
+## More on this topic
 
 - [Chemical cells and fuel cells revision notes](/resources/aqa-gcse-chemistry-8462-chemical-cells-and-fuel-cells-revision-notes/)
 - [Chemical cells and fuel cells practice questions](/resources/aqa-gcse-chemistry-8462-chemical-cells-and-fuel-cells-practice/)

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ These questions cover learning outcomes 5.1.5(a) to 5.1.5(f) of the OCR A Level 
 - Omitting degrees of freedom or the null hypothesis.
 - Calling a weedkiller a poison rather than a synthetic auxin.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-biology-plant-responses-and-plant-hormones-revision-notes/) and [study guide](/resources/ocr-a-level-biology-plant-responses-and-plant-hormones/).
 - Open the [course hub](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/).

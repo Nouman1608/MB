@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -162,7 +162,7 @@ A **trap state** is a non-accepting state with all of its arcs leading back to i
 - Leaving out arcs without saying what happens.
 - Drawing Moore machines, which the specification does not require.
 
-## Next steps
+## More on this topic
 
 - [FSM revision notes](/resources/oxfordaqa-a-level-computer-science-9645-finite-state-machines-revision-notes/)
 - [FSM practice questions](/resources/oxfordaqa-a-level-computer-science-9645-finite-state-machines-practice/)

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate) and whether the anthology supplied in the exam is a clean copy."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate) and whether the anthology supplied in the exam is a clean copy. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -194,7 +194,7 @@ returns to your argument.
 Use the open-book format well. Annotate your two poems for two or three minutes before writing, then
 keep quotations short and precise.
 
-## Related resources
+## More resources on this topic
 
 - [Poetry revision notes for Route A and Route B](/resources/oxfordaqa-igcse-english-literature-9275-poetry-revision-notes/)
 - [Poetry practice questions for Route A and Route B](/resources/oxfordaqa-igcse-english-literature-9275-poetry-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -115,7 +115,7 @@ Resistance values for electrode contacts are illustrative values for practice.
 - Explaining high input impedance as "letting more current flow".
 - Missing the hidden atrial repolarisation in the waveform explanation.
 
-## Next steps
+## More on this topic
 
 - [Biological measurement study guide](/resources/aqa-a-level-physics-7408-biological-measurement/)
 - [Biological measurement revision notes](/resources/aqa-a-level-physics-7408-biological-measurement-revision-notes/)

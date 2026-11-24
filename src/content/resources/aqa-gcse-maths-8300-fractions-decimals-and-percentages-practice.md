@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Using the wrong denominator. In a ratio 2 : 5, red is 2/5 of yellow but 2/7 of t
 **Which AQA GCSE Maths content references cover fractions, decimals and percentages?**
 Section 3.1.2 covers N10 (fraction and decimal conversions, including recurring decimals at Higher tier), N11 (fractions in ratio problems) and N12 (fractions and percentages as operators).
 
-## Next steps
+## More on this topic
 
 - [Fractions, decimals and percentages revision notes](/resources/aqa-gcse-maths-8300-fractions-decimals-and-percentages-revision-notes/)
 - [Fractions, decimals and percentages study guide](/resources/aqa-gcse-maths-8300-fractions-decimals-and-percentages/)

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed recall notes for **Topic 2 Energy and the Environment**, the
@@ -194,7 +194,7 @@ answer both an "impact" question and a "management" question from the
 same example, since the syllabus explicitly expects one case study to
 serve both purposes.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O Level Environmental Management: Energy and the Environment (5014)](/resources/o-level-cambridge-environmental-management-energy-and-the-environment/)
 - [Cambridge O Level Environmental Management: Rocks and Minerals](/resources/o-level-cambridge-environmental-management-rocks-and-minerals/)

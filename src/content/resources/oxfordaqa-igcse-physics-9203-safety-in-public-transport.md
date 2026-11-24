@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ Questions often give a table or graph and ask what it shows. Check:
 - **Suggest** a reason for a set of data: link the change to one named factor, such as an icy road.
 - **Calculate**: show each stage; braking questions often need two or three equations in sequence.
 
-## Next steps
+## More on this topic
 
 Work through the [Safety in public transport practice questions](/resources/oxfordaqa-igcse-physics-9203-safety-in-public-transport-practice/), then read the [Forces and terminal velocity study guide](/resources/oxfordaqa-igcse-physics-9203-forces-and-terminal-velocity/), which looks at how drag sets a maximum speed.
 

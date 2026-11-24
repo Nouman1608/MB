@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -137,7 +137,7 @@ Judgement: benefits outweigh risks, so the vaccine is worthwhile for most childr
 - Saying antibiotics treat viral infections or that bacteria "learn" resistance.
 - Giving only one side in an evaluation question.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination-revision-notes/).
 - Read the [study guide](/resources/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination/).

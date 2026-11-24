@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -126,7 +126,7 @@ State the equilibrium price and quantity, and calculate the excess supply at 12 
 - Stating inelastic demand as the reason without explaining the mechanism.
 - Concluding "it depends" without saying what it depends on.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-price-determination-surplus-the-price-mechanism-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-price-determination-surplus-the-price-mechanism/).
 - Return to the [Edexcel Economics hub](/boards/edexcel/a-level/economics/) and tick off the [checklist](/checklists/edexcel/a-level/economics/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -109,7 +109,7 @@ Judgement. She should not commit the whole sum yet [1]: pilot a smaller rise wit
 - Listing pros and cons in "discuss" or "assess" answers without a judgement.
 - Judging on opinion, not on the case figures.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders-revision-notes/) and [study guide](/resources/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders/).
 - Check coverage with the [printable checklist](/checklists/edexcel/a-level/business/) and the [course hub](/boards/edexcel/a-level/business/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 2.1.5, Redox, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 2, Foundations in chemistry, and has six lettered learning outcomes, 2.1.5(a) to (f), all covered below. H432 is the full A level. The specification states that Module 2 content is assessed in Periodic table, elements and physical chemistry (01), Synthesis and analytical techniques (02) and Unified chemistry (03). No PAG is listed against this section.
@@ -283,7 +283,7 @@ Tin(II) chloride solution reacts with iron(III) chloride solution. Tin ends up a
 - Wrong salt formulae, such as AlSO₄ or MgCH₃COO.
 - Saying "nitrogen is reduced" in the copper reaction without noting that only the nitrogen ending up in NO₂ changes.
 
-## Next steps
+## More on this topic
 
 - Condensed tables and a quick self-test: [Redox revision notes](/resources/ocr-a-level-chemistry-redox-revision-notes/)
 - Find your gaps: [free diagnostics](/diagnostics/)

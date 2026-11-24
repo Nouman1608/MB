@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ The current account includes primary income and secondary transfers as well as t
 **What evaluation point is often missed on training and R&D policies?**
 Time lags. Education, training and R&D can take years to raise productivity, so apply the lag to the policy named in the question.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-a-level-economics-supply-side-policies-revision-notes/).
 - Re-read the [study guide](/resources/aqa-a-level-economics-supply-side-policies/).

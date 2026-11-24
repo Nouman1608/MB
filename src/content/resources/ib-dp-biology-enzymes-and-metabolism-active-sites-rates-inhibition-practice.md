@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ Learn the content first from the [study guide](/resources/ib-dp-biology-enzymes-
 - Naming an inhibitor type without using the data or the binding site to justify it.
 - Saying competitive inhibition cannot be overcome, or non-competitive inhibition can.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition-revision-notes/) and the [study guide](/resources/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition/).
 - Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/), and the [printable checklist](/checklists/ib/ib-dp/biology/).

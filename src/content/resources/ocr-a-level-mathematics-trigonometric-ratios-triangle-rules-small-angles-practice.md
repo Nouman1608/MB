@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ Arc length s = rθ and sector area ½r²θ only work with θ in radians. Using d
 **How do you check the second triangle in the ambiguous case?**
 If the sine rule gives B, the other possibility is 180° − B. Keep it only if it fits with the given angle, so that the angle sum stays below 180°.
 
-## Next steps
+## More on this topic
 
 - Go back over the [revision notes](/resources/ocr-a-level-mathematics-trigonometric-ratios-triangle-rules-small-angles-revision-notes/) for any weak topics.
 - Reread the [study guide](/resources/ocr-a-level-mathematics-trigonometric-ratios-triangle-rules-small-angles/) where an answer surprised you.

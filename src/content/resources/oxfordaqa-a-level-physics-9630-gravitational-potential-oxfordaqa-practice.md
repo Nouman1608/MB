@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ D: equal to its kinetic energy **[1]**
 - Confusing a chord gradient with a tangent gradient (Question 9).
 - Saying the area under a g-r graph is the work done, without "per unit mass" (Question 10).
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [gravitational potential study guide](/resources/oxfordaqa-a-level-physics-9630-gravitational-potential-oxfordaqa/).
 - Continue with the [orbits of planets and satellites practice questions](/resources/oxfordaqa-a-level-physics-9630-orbits-of-planets-and-satellites-oxfordaqa-practice/).

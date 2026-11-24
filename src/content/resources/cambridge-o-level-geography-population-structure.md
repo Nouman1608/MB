@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -187,7 +187,7 @@ and job creation for the young adults to come.
   <figcaption>Describe the shape, explain it, then give the implication.</figcaption>
 </figure>
 
-## Next steps
+## More on this topic
 
 Use the
 [Population Structure revision notes](/resources/cambridge-o-level-geography-population-structure-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -218,7 +218,7 @@ A proof must work for **every** value, so use general forms: n for any integer, 
 - **"Prove"**: define your general form in words, simplify, then end with a sentence that states the conclusion.
 - Check any expansion or factorisation by substituting a simple value such as x = 1 or x = 2 into both forms.
 
-## Next steps
+## More on this topic
 
 Revise from the [algebraic manipulation revision notes](/resources/edexcel-igcse-mathematics-4ma1-algebraic-manipulation-revision-notes/), then try the [algebraic manipulation practice questions](/resources/edexcel-igcse-mathematics-4ma1-algebraic-manipulation-practice/). Factorising and completing the square are used again in the [quadratic equations study guide](/resources/edexcel-igcse-maths-4ma1-quadratic-equations/).
 

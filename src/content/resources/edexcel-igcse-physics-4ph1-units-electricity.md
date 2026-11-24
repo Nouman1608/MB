@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -209,7 +209,7 @@ its units.
 - **Give** or **state** the meaning of "1 volt": "one joule of energy is
   transferred per coulomb of charge passing".
 
-## Next steps
+## More on this topic
 
 - [Units for electricity revision notes](/resources/edexcel-igcse-physics-4ph1-units-electricity-revision-notes/)
 - [Units for electricity practice questions](/resources/edexcel-igcse-physics-4ph1-units-electricity-practice/)

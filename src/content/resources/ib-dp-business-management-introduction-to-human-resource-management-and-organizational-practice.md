@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -120,7 +120,7 @@ Evaluate the appropriateness of this proposal. **[10]**
 - Ending an evaluation without a judgement, or with a judgement that is not linked to the case data.
 - Writing general points about structures when the stem names a specific business and a specific external change.
 
-## Next steps
+## More on this topic
 
 - Revise terms in the [revision notes](/resources/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-revision-notes/).
 - Re-read explanations in the [study guide](/resources/ib-dp-business-management-introduction-to-human-resource-management-and-organizational/).

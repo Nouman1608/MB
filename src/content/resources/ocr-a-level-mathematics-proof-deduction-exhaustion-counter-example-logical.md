@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 1.01 Proof of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers 1.01a to 1.01d. The specification splits the content in two stages: 1.01a, 1.01b and 1.01c are Stage 1, shared with the AS qualification, and 1.01d proof by contradiction is **A Level only**. Pure Mathematics content is assessed in all three components, so proof can turn up on any paper.
@@ -322,7 +322,7 @@ Assume the exact opposite of the claim. For example, the opposite of "√2 is ir
 **What does the symbol ≡ mean in proof questions?**
 ≡ means an identity, true for every value of the variable. The OCR specification's symbol list also reads ≡ as "is congruent to" when working with remainders.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical-revision-notes/), then the [practice questions](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical-practice/). Use the [diagnostics](/diagnostics/) to find the weak areas first.
 

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ For each item, name the concept and state the effect on profit. Then calculate a
 - Calling money measurement "valuing at market price" rather than recording what can be stated in money.
 - Comparing totals of inventory instead of comparing cost with net realisable value line by line.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/edexcel-igcse-accounting-application-of-accounting-concepts/) for any concept you missed.
 - Condense your learning with the [revision notes](/resources/edexcel-igcse-accounting-application-of-accounting-concepts-revision-notes/).

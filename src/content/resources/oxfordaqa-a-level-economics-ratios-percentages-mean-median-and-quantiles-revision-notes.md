@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Quick-recall notes for quantitative skills QS1 to QS3 in section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. These skills could be assessed in any assessment. Sections 3.1 and 3.2 are International AS content and 3.3 and 3.4 are the extra International A2 content. Only quantiles carry an A2 note: for A2 assessments you also need to understand and use relevant quantiles. Full explanations are in the [study guide](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles/). Then use the [practice questions](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles-practice/). The [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/) help you plan. All figures are invented.
@@ -195,7 +195,7 @@ Step 1: the capital's mean is 29% above its median, so a few high earners are ra
 - Calculating well but not saying what the figure means for the economic question.
 - Using the mean to describe "typical" income when the data are skewed, with no comment on the skew.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles/).
 - Try the [practice questions](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles-practice/).

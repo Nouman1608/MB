@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ These questions cover section 3.4.9 of the OxfordAQA *International AS and A-lev
 - Treating correlation in methylation data as proof of cause.
 - Giving only advantages of stem cell therapy, or no judgement.
 
-## Next steps
+## More on this topic
 
 - Return to the [revision notes](/resources/oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells/).
 - Course [hub](/boards/oxfordaqa/a-level/biology/) and [checklist](/checklists/oxfordaqa/a-level/biology/).

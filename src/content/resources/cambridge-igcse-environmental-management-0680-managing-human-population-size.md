@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -156,6 +156,6 @@ Note the limitation of the evidence: fertility might also have fallen because of
 - **Discuss**: benefit with reason, limitation with reason, then a judgement on when it works best.
 - **Suggest** a strategy for a given country: match it to the country's problem, rapid growth or ageing, using evidence from the source.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Managing human population size revision notes](/resources/cambridge-igcse-environmental-management-0680-managing-human-population-size-revision-notes/), then practise with the [Managing human population size practice questions](/resources/cambridge-igcse-environmental-management-0680-managing-human-population-size-practice/).

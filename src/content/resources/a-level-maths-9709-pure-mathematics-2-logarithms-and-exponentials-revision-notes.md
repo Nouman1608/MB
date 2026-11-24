@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -251,7 +251,7 @@ ln 5 − ln 3 = ln(5/3), about 0.511, while (ln 5)/(ln 3) is about 1.46. They ar
 **Which straight-line graph do you use for y = k(aˣ)?**
 Plot ln y against x: ln y = ln k + x ln a, so the gradient is ln a and the intercept is ln k.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials-practice/), then check your AS readiness with the free [AS diagnostic](/practice/9709/diagnostic/as/) or the [9709 self-check bank](/practice/9709/). For the rest of Paper 2, see the [Pure Mathematics 2 guide](/resources/a-level-mathematics-pure-mathematics-2/). A Level candidates meet this content again in the [Pure Mathematics 3 revision notes](/resources/a-level-maths-9709-pure-mathematics-3-revision-notes/).
 

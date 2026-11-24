@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ Round break-even output up to the next whole unit, because selling a fraction of
 **How do you pick the right source of finance in an exam answer?**
 Match the source to how much is needed, for how long, and whether the business is new or established with a profit history. A source with no link to the business in the question earns little credit.
 
-## Next steps
+## More on this topic
 
 - Re-read the [Finance revision notes](/resources/ocr-gcse-business-finance-revision-notes/) and the [Finance study guide](/resources/ocr-gcse-business-finance/).
 - Go to the [OCR GCSE Business hub](/boards/ocr/gcse/business/) or tick off the [checklist](/checklists/ocr/gcse/business/).

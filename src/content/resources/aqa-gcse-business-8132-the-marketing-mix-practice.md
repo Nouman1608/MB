@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Evaluation: Place: selling online, plus a few coastal water sports shops, reache
 - Recommending television advertising for a business with a small budget.
 - Writing about each P in isolation, with choices that clash.
 
-## Next steps
+## More on this topic
 
 - Go back to the [marketing mix study guide](/resources/aqa-gcse-business-8132-the-marketing-mix/) for any weak areas.
 - See how pricing links to costs in the [Finance study guide](/resources/aqa-gcse-business-finance/).

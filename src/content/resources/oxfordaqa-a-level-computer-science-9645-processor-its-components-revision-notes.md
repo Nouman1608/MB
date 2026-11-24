@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -169,7 +169,7 @@ Assembly programs therefore load values into registers, work on them there and s
 11. The PC, which receives the branch address.
 12. The MAR is loaded with 70 and the value held in location 70 arrives in the MBR, from where it is copied to R2.
 
-## Next steps
+## More on this topic
 
 - [Processor and its components study guide](/resources/oxfordaqa-a-level-computer-science-9645-processor-its-components/)
 - [Processor and its components practice questions](/resources/oxfordaqa-a-level-computer-science-9645-processor-its-components-practice/)

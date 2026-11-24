@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ These questions cover topic 4.3.4, Poverty and inequality, from Unit 4: Developm
 - Describing effects of inequality with no counter-point.
 - Ending an evaluation with a summary and no judgement.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-ial-economics-poverty-and-inequality-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-poverty-and-inequality/).
 - Use the [course hub](/boards/edexcel/a-level/economics/) and the [printable checklist](/checklists/edexcel/a-level/economics/).

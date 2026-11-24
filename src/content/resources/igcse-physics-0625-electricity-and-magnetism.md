@@ -33,7 +33,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false
@@ -337,7 +337,7 @@ Extended: Is = 1.5 A  →  Ip = (12 × 1.5) / 230 = 0.078 A
 - Mixing up the left-hand (motor) and right-hand (generator) rules.
 - Saying a transformer works on d.c.
 
-## Next steps
+## More on this topic
 
 Test recall with the [revision notes](/resources/igcse-physics-0625-electricity-and-magnetism-revision-notes/), then try the [Core practice questions](/resources/igcse-physics-electricity-and-magnetism-practice/) and [Extended practice questions](/resources/igcse-physics-electricity-and-magnetism-extended-practice/). Find weak spots with the [0625 Core diagnostic](/practice/0625/diagnostic/core/) or [Extended diagnostic](/practice/0625/diagnostic/extended/). Next topic: [Nuclear physics](/resources/igcse-physics-0625-nuclear-physics/).
 

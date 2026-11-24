@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,6 +158,6 @@ A tube is operated at 30 kV and then at 60 kV.
 - **Describe** the X-ray tube: filament, vacuum, high p.d., target and cooling, each with its purpose.
 - **Compare** electron and photon excitation: partial energy transfer for electrons, all-or-nothing for photons.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [electron collisions revision notes](/resources/oxfordaqa-a-level-physics-9630-collisions-of-electrons-with-atoms-oxfordaqa-revision-notes/) and test yourself with the [electron collisions practice questions](/resources/oxfordaqa-a-level-physics-9630-collisions-of-electrons-with-atoms-oxfordaqa-practice/). Photon energies are taken further in the [photoelectric effect study guide](/resources/oxfordaqa-a-level-physics-9630-photoelectric-effect-oxfordaqa/).

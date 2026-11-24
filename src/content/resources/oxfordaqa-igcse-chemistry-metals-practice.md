@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -191,7 +191,7 @@ Fe₃O₄ + 4CO → 3Fe + 4CO₂
 - Writing hydrogen at the cathode when copper ions are present; copper is deposited.
 - Treating every carbonate as decomposing in a Bunsen flame.
 
-## Next steps
+## More on this topic
 
 - [Metals revision notes](/resources/oxfordaqa-igcse-chemistry-metals-revision-notes/)
 - [Metals study guide](/resources/oxfordaqa-igcse-chemistry-metals/)

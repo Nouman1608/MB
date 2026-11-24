@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Learn the ideas first in the [HL lenses study guide](/resources/ib-dp-ess-hl-len
 - Writing the three lenses as separate blocks with no link between them.
 - Missing a final judgement on "evaluate", "discuss" and "to what extent" questions.
 
-## Next steps
+## More on this topic
 
 - [HL lenses revision notes](/resources/ib-dp-ess-hl-lenses-law-economics-ethics-revision-notes/)
 - [HL lenses study guide](/resources/ib-dp-ess-hl-lenses-law-economics-ethics/)

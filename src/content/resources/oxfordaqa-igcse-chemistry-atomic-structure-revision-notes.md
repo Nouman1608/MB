@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -170,7 +170,7 @@ The specification frames Group 0's stability as the *reason* other groups react 
 
 The specification itself introduces Topic 1 by noting atoms are the building blocks of all materials, and this is the one topic in 9202 with no numerical prerequisite from elsewhere in the course -- making it the natural starting point for a first pass through the specification. Everything from bonding (Topic 2) to acids and salts (Topic 5) to energy changes (Topic 9) assumes fluent recall of what an atom is made of and how the periodic table is organised, so time spent making the proton/neutron/electron calculation and the shell-filling method automatic here saves time across every later topic.
 
-## Related resources
+## More resources on this topic
 
 - [Atomic Structure and the Periodic Table study guide](/resources/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table/)
 - [Atomic Structure and the Periodic Table practice questions](/resources/oxfordaqa-igcse-chemistry-atomic-structure-practice/)

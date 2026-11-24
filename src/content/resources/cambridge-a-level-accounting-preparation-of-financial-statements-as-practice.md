@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ Writing the formula first guards against reversing items such as capital introdu
 **How are share issues recorded in the ledger?**
 Give the share premium its own account rather than combining it with share capital, and remember that a bonus issue involves no bank entry.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-as-revision-notes/)
 - [Study guide](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-as/)

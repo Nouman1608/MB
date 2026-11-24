@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ For each choice the rival could make, compare the firm's payoffs and say which o
 **Is market power HL only in IB DP Economics?**
 Yes. Sub-topic 2.11, market failure through market power, is HL only, so every question on this page is HL only.
 
-## Next steps
+## More on this topic
 
 - Review the [market power revision notes](/resources/ib-dp-economics-market-power-revision-notes/) and the [market power study guide](/resources/ib-dp-economics-market-power/).
 - Check the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/).

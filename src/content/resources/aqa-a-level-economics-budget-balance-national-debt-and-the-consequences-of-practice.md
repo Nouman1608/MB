@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -123,7 +123,7 @@ Reach a judgement about the circumstances, such as the state of the cycle or wha
 **Which part of the AQA specification do these questions cover?**
 They follow the budget balance and national debt content of the Fiscal policy sub-section of AQA A-level Economics 7136, section 4.2.5.1 in the combined specification PDF.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of/).
 - Visit the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

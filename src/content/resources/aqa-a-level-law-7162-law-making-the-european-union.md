@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,6 +152,6 @@ When a state fails to implement a directive properly:
 
 For **explain** questions on an institution, give its composition and two or three functions with an example. On sources, define each and add a case. For **discuss** questions on impact, cover membership and withdrawal, with examples from substantive law and the constitution.
 
-## Next steps
+## More on this topic
 
 Condensed recall is in the [European Union revision notes](/resources/aqa-a-level-law-7162-law-making-the-european-union-revision-notes/), and you can test yourself with the [European Union practice questions](/resources/aqa-a-level-law-7162-law-making-the-european-union-practice/). EU law's effect on interpretation is covered in [Statutory Interpretation](/resources/aqa-a-level-law-7162-law-making-statutory-interpretation/).

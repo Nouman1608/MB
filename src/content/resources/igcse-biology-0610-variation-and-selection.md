@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches topic 18, Variation and selection, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 18.1 Variation, 18.2 Adaptive features and 18.3 Selection. Each section has Core statements, which every candidate needs, and Supplement statements, which are labelled **Extended only** here.
@@ -237,7 +237,7 @@ It is used to improve **crop plants** (higher yield, disease resistance, drought
 - Saying individuals "adapt" or "evolve" during their lifetime. Populations change over generations.
 - Missing "over many generations" in selective breeding answers.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [Variation and selection revision notes](/resources/igcse-biology-0610-variation-and-selection-revision-notes/)
 - Exam-style questions with answers: [Variation and selection practice questions](/resources/igcse-biology-0610-variation-and-selection-practice/)

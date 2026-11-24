@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ These questions cover section 3.7, Firms' costs, revenue and objectives, of the 
 - Naming an objective without pointing to evidence about the firm.
 - Ending an evaluation with no conclusion or no condition.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms-revision-notes/) and [study guide](/resources/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms/).
 - Visit the [course hub](/boards/cambridge/o-level/economics/) and the [checklist](/checklists/cambridge/o-level/economics/).

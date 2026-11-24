@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ D: H₂O and H₂O₂
 - Missing oxygen found by difference.
 - Stopping at the empirical formula when Mr is given.
 
-## Next steps
+## More on this topic
 
 - [Relative atomic mass and relative molecular mass practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-2-1-practice/)
 - [Ideal gas equation practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-2-3-practice/)

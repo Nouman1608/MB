@@ -33,7 +33,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -330,7 +330,7 @@ No. Section 5.2 covers arrangements in a line, including repetition and restrict
 **How do you handle "at least" in a selection question?**
 Split it into exact cases, count each with combinations, and add them. A single product such as ⁴C₂ × ⁸C₃ counts some selections more than once.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes and quick self-test](/resources/a-level-maths-9709-probability-statistics-1-revision-notes/), then try the [practice questions](/resources/a-level-mathematics-probability-statistics-1-practice/). Paper 6 builds on this unit: see the [Probability & Statistics 2 study guide](/resources/a-level-maths-9709-probability-statistics-2/).
 

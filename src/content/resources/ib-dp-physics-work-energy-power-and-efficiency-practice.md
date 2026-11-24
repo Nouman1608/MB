@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ These questions cover sub-topic A.3, Work, energy and power, in the IB *Physics 
 - Giving only the final number on a "show that" part, with no intermediate figure.
 - Mixing up work done by a force with the change in the system's energy when several forces act.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ib-dp-physics-work-energy-power-and-efficiency-revision-notes/) and the [study guide](/resources/ib-dp-physics-work-energy-power-and-efficiency/).
 - Go to the [IB DP Physics hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

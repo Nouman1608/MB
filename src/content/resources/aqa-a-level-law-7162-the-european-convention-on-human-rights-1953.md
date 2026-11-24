@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification lists no content statements under this heading, which introduces the Article rows that follow; please confirm this overview of the Convention's structure is the intended scope."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification lists no content statements under this heading, which introduces the Article rows that follow; please confirm this overview of the Convention's structure is the intended scope. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -206,7 +206,7 @@ Point 4   General provisions – Article 15 derogation (not for Article 3),
   appreciation, to evaluate how well it balances individual rights and state interests.
 - In problem answers, start by naming the Article and its type, then use the right test.
 
-## Related resources
+## More resources on this topic
 
 [European Convention on Human Rights revision notes](/resources/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953-revision-notes/) |
 [European Convention on Human Rights practice questions](/resources/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953-practice/) |

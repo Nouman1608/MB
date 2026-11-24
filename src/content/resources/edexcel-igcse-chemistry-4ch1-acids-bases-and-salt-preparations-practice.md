@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ Identify the base in this reaction and explain your answer in terms of protons. 
 - Unbalanced charges in salt formulae.
 - Missing units or wrong units in gas-volume answers.
 
-## Next steps
+## More on this topic
 
 - Recap the rules with the [salt preparations revision notes](/resources/edexcel-igcse-chemistry-4ch1-acids-bases-and-salt-preparations-revision-notes/).
 - Identify the products of your preparations with the [chemical tests study guide](/resources/edexcel-igcse-chemistry-4ch1-chemical-tests/).

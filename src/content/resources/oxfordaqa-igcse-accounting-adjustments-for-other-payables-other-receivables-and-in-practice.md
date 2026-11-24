@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Rent received 9,600 (due at the start 800, due at the end 1,000). Fees received 
 - Counting the wrong number of months when the amount is split by time.
 - Using the same sign for every adjustment when correcting a draft profit.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in/) for any question that went wrong.
 - Use the [revision notes](/resources/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in-revision-notes/) as a final check.

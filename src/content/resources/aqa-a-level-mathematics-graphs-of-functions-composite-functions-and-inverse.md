@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to AQA A-level Mathematics 7357, specification version 1.3 of 31 January 2018. It covers content B7 (graphs of functions) and B8 (composite and inverse functions), and builds each outcome from scratch with worked examples. The functions notation used is the specification's own: gf(x) means g(f(x)), and f⁻¹ is the inverse of f.
@@ -276,7 +276,7 @@ Restrict the domain to one side of the turning point, found by completing the sq
 **What does "y is inversely proportional to x²" mean?**
 It means y = k/x² for some constant k. Find k from one pair of values, then use the equation for any other value.
 
-## Next steps
+## More on this topic
 
 Do the [practice questions](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse-practice/), then recall the key results with the [revision notes](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse-revision-notes/). Check your readiness with the [free diagnostics](/diagnostics/).
 

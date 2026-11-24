@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Questions often describe a reaction in words. Pick out every substance and its s
 - **Deduce**: show the charges or the counting.
 - **Construct** an equation: include state symbols whenever the question mentions them, and check both atoms and charges.
 
-## Next steps
+## More on this topic
 
 - Memorise the ions with the [formulae revision notes](/resources/cambridge-o-level-chemistry-5070-formulae-revision-notes/).
 - Practise with the [formulae practice questions](/resources/cambridge-o-level-chemistry-5070-formulae-practice/).

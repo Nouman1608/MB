@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ The revision notes outline the December 2015 Cumbria floods; any recent, well-do
 - **Evaluate** or **assess** strategies by weighing effectiveness, cost, environmental impact and who benefits, then reach a judgement.
 - In Section B, flood case study questions usually need causes, impacts and evaluation; allocate time to each.
 
-## Related resources
+## More resources on this topic
 
 - [1.4 The human impact revision notes](/resources/a-level-geography-9696-drainage-basin-human-impact-revision-notes/)
 - [1.4 The human impact practice questions](/resources/cambridge-a-level-geography-9696-the-human-impact-1-4-practice/)

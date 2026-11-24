@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -105,7 +105,7 @@ These questions cover sections 3.1.1 (The purpose and nature of businesses) and 
 - Treating "public limited company" as meaning state-owned.
 - Finishing an evaluation with no judgement, or a judgement with no reason.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership-revision-notes/)
 - [Study guide for this unit](/resources/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership/)

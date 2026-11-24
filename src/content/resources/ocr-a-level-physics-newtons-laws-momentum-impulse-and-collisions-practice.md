@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Resolve every velocity along two perpendicular axes and apply conservation of mo
 **How should you state the direction of a momentum or velocity answer?**
 Give the direction relative to a stated reference line or axis, for example an angle below the x-axis or "away from the wall". A direction with no reference is incomplete.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions/).
 - Check the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [printable checklist](/checklists/ocr/a-level/physics/).

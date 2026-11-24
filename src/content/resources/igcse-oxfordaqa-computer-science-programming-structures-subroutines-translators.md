@@ -43,7 +43,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 updatedDate: 2026-11-17
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the second half of Topic 2 Programming in OxfordAQA
@@ -343,7 +343,7 @@ It gives direct control of
 specific hardware and is often used for embedded systems, where speed
 and small program size matter.
 
-## Related resources
+## More resources on this topic
 
 - [Programming Fundamentals study guide](/resources/igcse-oxfordaqa-computer-science-programming-fundamentals/) (3.2.1–3.2.5)
 - [Data structures, subroutines and translators revision notes](/resources/oxfordaqa-igcse-computer-science-programming-structures-and-translators-revision-notes/)

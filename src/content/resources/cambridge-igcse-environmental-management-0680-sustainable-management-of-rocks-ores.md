@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -176,6 +176,6 @@ Each point is developed with a "so" or "because"; listing four one-word points w
 
 **Define**: reproduce the syllabus wording. **Describe** a strategy: say what it involves and give an example. **Discuss**: give a benefit and a limitation for each strategy, develop each point, and finish with a judgement. When a source gives figures, use them: calculate a percentage or a reserve lifetime and say what it shows.
 
-## Next steps
+## More on this topic
 
 Consolidate with the [Sustainable management of rocks, ores and minerals revision notes](/resources/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-revision-notes/) and test yourself with the [Sustainable management of rocks, ores and minerals practice questions](/resources/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-practice/). For the impacts that these strategies reduce, see the [Extraction of rocks, ores and minerals study guide](/resources/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals/).

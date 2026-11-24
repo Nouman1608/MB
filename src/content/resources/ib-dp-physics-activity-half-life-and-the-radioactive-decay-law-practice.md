@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Determine the half-life of the source, using at least two different intervals, a
 - HL: mixing hours and seconds when using λ and A.
 - HL: treating λΔt as a probability when it is not small.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law-revision-notes/) and the [study guide](/resources/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law/).
 - Return to the [course hub](/boards/ib/ib-dp/physics/) and [printable checklist](/checklists/ib/ib-dp/physics/).

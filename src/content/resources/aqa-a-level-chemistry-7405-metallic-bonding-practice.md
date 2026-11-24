@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -134,7 +134,7 @@ These questions cover section **3.1.3.3 Metallic bonding** of the AQA AS and A-l
 - Describing metallic bonding as a bond between two atoms.
 - Using "free electrons" without the word delocalised, or leaving out electrostatic attraction.
 
-## Next steps
+## More on this topic
 
 - [Metallic bonding revision notes](/resources/aqa-a-level-chemistry-7405-metallic-bonding-revision-notes/)
 - [Bonding and physical properties study guide](/resources/aqa-a-level-chemistry-7405-bonding-and-physical-properties/)

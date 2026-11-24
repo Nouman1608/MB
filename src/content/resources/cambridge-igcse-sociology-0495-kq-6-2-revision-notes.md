@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -136,6 +136,6 @@ For each pattern, ask: **real difference in offending**, or **difference in bein
 
 **Answers:** 1. It peaks in the late teens and early twenties, then declines. 2. Any one: heavier policing of working-class areas; white-collar crime is hidden and often dealt with outside court; stereotyping by agencies. 3. Feeling deprived in comparison with others; Lea and Young (1984). 4. Women are controlled more tightly at home, in public and at work, so they have fewer opportunities to offend. 5. Pollak's idea that the justice system treats women more leniently, so their crime is under-recorded. 6. That the Metropolitan Police was institutionally racist. 7. Innovation: accepting goals but using illegitimate means. 8. Criminal, conflict, retreatist. 9. Primary deviance is not yet labelled; secondary deviance results from being labelled. 10. An exaggerated public and media reaction to a group seen as a threat; mods and rockers were turned into folk devils, leading to more control. 11. The class deal is the reward of paid work and consumer goods; the gender deal is the reward of family life; women who gain from neither are more likely to offend. 12. Strength: explains why crimes of the powerful go unpunished; limitation: neglects gender and the fact that working-class people are often victims of working-class crime.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [crime patterns and explanations practice questions](/resources/igcse-cambridge-sociology-crime-patterns-and-explanations-practice/), then move on to the [key question 6.3 revision notes](/resources/cambridge-igcse-sociology-0495-kq-6-3-revision-notes/).

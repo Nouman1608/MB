@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ It must satisfy the starting condition of the statement and make the conclusion 
 **How do you set up a proof by exhaustion?**
 Split the possibilities into a finite list of cases, often by remainder on division by a small number, and show that the cases cover every integer before proving each one.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical-revision-notes/).
 - Re-read the full explanations in the [study guide](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical/).

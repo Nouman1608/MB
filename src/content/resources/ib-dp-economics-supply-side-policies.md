@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers **sub-topic 3.7, Supply-side policies**, in Unit 3 Macroeconomics. The sub-topic is part of the core syllabus for both SL and HL, and the guide marks none of its content as HL only.
@@ -264,7 +264,7 @@ No. An income tax cut can raise the reward for working, but tax revenue falls un
 **What are the strengths of market-based supply-side policies?**
 They can improve how resources are allocated, and most do not require extra government spending.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes](/resources/ib-dp-economics-supply-side-policies-revision-notes/) and test yourself with the [practice questions](/resources/ib-dp-economics-supply-side-policies-practice/). The earlier [demand and supply](/resources/ib-dp-economics-demand-supply-equilibrium/) guide helps with the labour market diagram, and the [macroeconomics measuring and managing the economy](/resources/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy/) page covers wider Unit 3 context. For advice on writing answers, see [exam preparation](/resources/ib-dp-economics-exam-preparation/).
 

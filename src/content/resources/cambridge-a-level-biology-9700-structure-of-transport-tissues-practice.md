@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ D: plasmodesmata **[1]**
 - Giving features without functions in "relate" answers.
 - Saying water passes through lignin rather than through pits.
 
-## Next steps
+## More on this topic
 
 - [Structure of transport tissues study guide](/resources/cambridge-a-level-biology-9700-structure-of-transport-tissues/)
 - [Structure of transport tissues revision notes](/resources/cambridge-a-level-biology-9700-structure-of-transport-tissues-revision-notes/)

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -139,7 +139,7 @@ Know one place where human activity affected slope stability: the activities, th
 
 **Answers:** 1. Deforestation, cutting into slopes, adding weight, altering drainage. 2. Reshaping a slope to a gentler angle. 3. It lowers pore water pressure and weight. 4. Pinning or netting. 5. Slow to establish and ineffective on deep or large failures. 6. Attempts to reduce mass movement. 7. It steepens the slope and removes support at the base. 8. Steel bars drilled and grouted into a soil slope to reinforce it. 9. Deeply weathered rock, intense rain, and many steep, poorly engineered cuts and fills. 10. Registering and maintaining slopes, and landslip warnings. 11. A spoil tip on a hillside over springs became saturated and flowed downhill. 12. It does not stop rock breaking away and needs clearing and maintenance.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

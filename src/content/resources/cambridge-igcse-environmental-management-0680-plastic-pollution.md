@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -153,6 +153,6 @@ Why it scores: each step names the organism and the process, and the answer ends
 
 **Describe** questions on the five plastic types are point-for-point recall: use the syllabus phrases. **Describe and explain** questions on impacts need the impact plus how it harms the organism or people. For strategies, say how each one reduces plastic reaching the sea or its harm, then give a limitation if asked to evaluate. In data questions, calculate percentage change from the starting value and refer to biotic and abiotic factors when explaining different rates.
 
-## Next steps
+## More on this topic
 
 Condense this with the [plastic pollution revision notes](/resources/cambridge-igcse-environmental-management-0680-plastic-pollution-revision-notes/) and practise with the [plastic pollution practice questions](/resources/cambridge-igcse-environmental-management-0680-plastic-pollution-practice/). Bioaccumulation and biomagnification are also covered in the [water pollution study guide](/resources/cambridge-igcse-environmental-management-0680-water-pollution/).

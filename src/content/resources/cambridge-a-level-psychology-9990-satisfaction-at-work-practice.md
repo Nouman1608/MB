@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -139,6 +139,6 @@ Related: [Satisfaction at work study guide](/resources/cambridge-a-level-psychol
 - In question 7(a), multiplying all five numbers instead of averaging the first three.
 - In question 10, saying pay is a motivator.
 
-## Next steps
+## More on this topic
 
 Review weak areas in the [satisfaction at work study guide](/resources/cambridge-a-level-psychology-9990-satisfaction-at-work/), then try the mixed [Organisational Psychology practice questions](/resources/a-level-psychology-organisational-psychology-practice/).

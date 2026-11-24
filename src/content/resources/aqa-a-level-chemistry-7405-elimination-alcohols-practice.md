@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ These questions cover section **3.3.5.3 Elimination** of the AQA AS and A-level 
 - Placing the organic product in the lower layer.
 - Percentage yield from masses rather than moles.
 
-## Next steps
+## More on this topic
 
 - [Elimination revision notes](/resources/aqa-a-level-chemistry-7405-elimination-alcohols-revision-notes/)
 - [Alcohol production practice questions](/resources/aqa-a-level-chemistry-7405-alcohol-production-practice/)

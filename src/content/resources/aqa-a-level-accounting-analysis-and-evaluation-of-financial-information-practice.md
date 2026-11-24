@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ The specification's formula uses average inventory, normally (opening + closing)
 **How do I gain marks on an evaluate or recommend question?**
 Link points together, such as receivable days explaining low cash, and make a clear decision that follows from the figures. Sitting on the fence without a decision limits the credit.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/)
 - [Study guide for this topic](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information/)

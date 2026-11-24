@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -159,6 +159,6 @@ Choose a scale that makes the diagram large (at least 5 cm per side). A tiny dra
 - **Calculate** (a resultant): show Pythagoras with the numbers substituted, then the angle, and give both.
 - **Show that** / scale-drawing questions: state your scale, draw neat arrows with arrowheads, and give the measured values.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes on physical quantities and measurement techniques](/resources/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-revision-notes/), then work through the [practice questions on physical quantities and measurement techniques](/resources/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-practice/). The measuring skills here are used straight away in the [study guide on motion](/resources/cambridge-igcse-physics-0625-motion/) and the [study guide on density](/resources/cambridge-igcse-physics-0625-density/).

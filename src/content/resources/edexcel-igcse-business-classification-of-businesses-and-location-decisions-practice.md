@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ Calculate the percentage of its total sales revenue that comes from the secondar
 - Writing about "the business" in general when the case names a specific business, product and site.
 - Writing the answer to an explain question using case details, or to an analyse question with no case details.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-business-classification-of-businesses-and-location-decisions-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-classification-of-businesses-and-location-decisions/).
 - Course hub: [Business](/boards/edexcel/igcse/business/) and the [printable checklist](/checklists/edexcel/igcse/business/).

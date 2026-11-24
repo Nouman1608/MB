@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ Links: [amount of substance study guide](/resources/oxfordaqa-igcse-chemistry-92
 - Rounding intermediate values to one significant figure, which can turn 2.49 into 2.
 - Stating a molecular formula without showing the Mᵣ ÷ empirical-mass step.
 
-## Next steps
+## More on this topic
 
 - Revisit the methods in the [amount of substance study guide](/resources/oxfordaqa-igcse-chemistry-9202-use-of-amount-of-substance-in-relation-to-masses-of-pure/).
 - Recheck the formulae in the [amount of substance revision notes](/resources/oxfordaqa-igcse-chemistry-9202-use-of-amount-of-substance-in-relation-to-masses-of-pure-revision-notes/).

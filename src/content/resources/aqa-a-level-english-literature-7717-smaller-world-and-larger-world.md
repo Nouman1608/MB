@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ For a question on setting, power or society, plan a paragraph at each of two or 
 organisation and a final paragraph on how they connect. In Section C, pair a text that works by
 microcosm with one that works by a chain of cause.
 
-## Related resources
+## More resources on this topic
 
 - [Smaller world and larger world revision notes](/resources/aqa-a-level-english-literature-7717-smaller-world-and-larger-world-revision-notes/)
 - [Smaller world and larger world practice questions](/resources/aqa-a-level-english-literature-7717-smaller-world-and-larger-world-practice/)

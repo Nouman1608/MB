@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -116,7 +116,7 @@ N = (mass / molar mass) × N_A
 
 **Answers:** 1. The number of nuclei decaying per unit time; becquerel (Bq). 2. The probability that a nucleus decays per unit time. 3. The time taken for the number of undecayed nuclei to fall to half its initial value. 4. It is not affected by external factors such as temperature or pressure. 5. Counts recorded in equal time intervals vary unpredictably about a mean, although the activity is effectively constant. 6. At t = t½, N = N₀/2, so ½ = e^(−λt½); ln 2 = λt½; λ = 0.693/t½. 7. λ = 0.693/2.5 = 0.277 min⁻¹; A = 5.0 × 10⁶ × e^(−0.277 × 6.0) = 9.5 × 10⁵ Bq. 8. (½)⁴ = 1/16. 9. ln(activity or count rate or N) against time; gradient = −λ. 10. 60 counts per minute. 11. N = A/λ = 3.7 × 10⁴ / 7.3 × 10⁻¹⁰ = 5.1 × 10¹³. 12. The number of undecayed nuclei falls, and A = λN with λ constant.
 
-## Related resources
+## More resources on this topic
 
 - [Nuclear Physics revision notes](/resources/a-physics-nuclear-physics-revision-notes/) — the whole of Topic 23
 - [Radioactive decay practice questions](/resources/cambridge-a-level-physics-9702-a-radioactive-decay-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -167,7 +167,7 @@ include letters, such as `"214B"`.
 12. A Boolean has only two possible values, so it cannot be misspelt or given an unexpected value such as "yes"
 in lower case, and it can be used directly in a condition.
 
-## Related resources
+## More resources on this topic
 
 - [Data types study guide](/resources/oxfordaqa-igcse-computer-science-9210-data-types/)
 - [Data types practice questions](/resources/oxfordaqa-igcse-computer-science-9210-data-types-practice/)

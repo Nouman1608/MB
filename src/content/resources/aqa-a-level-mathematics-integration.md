@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section H: Integration (H1 to H8)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section H is Paper 1 content, and Papers 2 and 3 can also assess any Paper 1 content, so integration can appear on all three papers. A calculator is required in every paper of this specification, but questions that ask for an **exact** answer or say **"show that"** need full working by hand.
@@ -295,7 +295,7 @@ It is ln|f(x)| + c. For example, ∫ 4x/(x² + 1) dx = 2 ln(x² + 1) + c, becaus
 **Why might you need to factorise before separating variables?**
 The specification notes that you may first need to take out a common factor, as in dy/dx = xy + x = x(y + 1), so that the right-hand side becomes f(x) × g(y).
 
-## Next steps
+## More on this topic
 
 Condense this with the [Integration revision notes](/resources/aqa-a-level-mathematics-integration-revision-notes/), then test yourself on the [Integration practice questions](/resources/aqa-a-level-mathematics-integration-practice/). For how integration sits across the three papers, read [AQA A-level Maths exam preparation](/resources/aqa-a-level-mathematics-exam-preparation/). Check what you still need to revise with a free diagnostic at [/diagnostics/](/diagnostics/).
 

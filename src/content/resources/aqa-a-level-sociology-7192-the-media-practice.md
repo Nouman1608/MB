@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Applying material from Item B and your knowledge, evaluate the view that the glo
 - Forgetting the digital divide and platform ownership in new media answers.
 - Ending an evaluation with a summary instead of a judgement.
 
-## Next steps
+## More on this topic
 
 Check your weaker areas with our free [diagnostics](/diagnostics/). Go back to the [study guide](/resources/aqa-a-level-sociology-7192-the-media/) for any topic you lost marks on. For media and crime, see the [crime and deviance practice questions](/resources/a-level-aqa-sociology-crime-and-deviance-practice/). For method evaluation, try the [methods in context practice questions](/resources/a-level-sociology-methods-in-context-practice/). If you would like a teacher to go through your answers, [book a free trial class](/trial/).
 

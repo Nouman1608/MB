@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -201,7 +201,7 @@ Questions 8 and 9 are extended responses: the real exam marks these with levels 
 - Judging which belief is right instead of which argument is better supported.
 - Evaluating actions without a final judgement, or without saying under what conditions it holds.
 
-## Next steps
+## More on this topic
 
 Check your answers against the [study guide](/resources/igcse-global-perspectives-0457-values-and-beliefs/), then try more source questions in [Written Exam practice](/resources/global-perspectives-practice/) and planning tasks in [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/). Find your weak skills with our [diagnostics](/diagnostics/). [Book a free trial class](/trial/) to work through extended answers with a teacher.
 

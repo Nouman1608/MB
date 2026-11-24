@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Unit 2: Drama**, the second of two units forming
@@ -200,7 +200,7 @@ exits, silence) rather than treating the play purely as prose.
 - Bring a clean, unannotated copy of your set text to the open-book
 exam.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 2 Drama revision notes](/resources/edexcel-a-level-english-literature-drama-revision-notes/)
 - [Unit 2 Drama practice questions](/resources/edexcel-a-level-english-literature-drama-practice/)

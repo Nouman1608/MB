@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -177,7 +177,7 @@ The structured approach in sub-topic 3.3.1 brings the two ideas together. A prog
 - Forgetting that a problem can be broken down more than once.
 - Treating abstraction and decomposition as the same thing.
 
-## Next steps
+## More on this topic
 
 - [Abstraction and decomposition revision notes](/resources/oxfordaqa-a-level-computer-science-9645-abstraction-decomposition-revision-notes/)
 - [Abstraction and decomposition practice questions](/resources/oxfordaqa-a-level-computer-science-9645-abstraction-decomposition-practice/)

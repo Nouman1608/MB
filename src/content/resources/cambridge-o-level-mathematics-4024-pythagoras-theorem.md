@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -285,7 +285,7 @@ The sides are 5 cm, 12 cm and 13 cm.
 - **Give your answer as a surd**: simplify.
 - Draw the right-angled triangle on diagrams that do not show one.
 
-## Next steps
+## More on this topic
 
 Work through the [Pythagoras' theorem practice questions](/resources/cambridge-o-level-mathematics-4024-pythagoras-theorem-practice/) and recap with the [Pythagoras' theorem revision notes](/resources/cambridge-o-level-mathematics-4024-pythagoras-theorem-revision-notes/).
 

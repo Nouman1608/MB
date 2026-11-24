@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -188,7 +188,7 @@ reward debate rather than agreement. Paper 1 lasts 2 hours 30 minutes for three 
 value, so about 50 minutes each is proportionate. Plan Section C with care: choosing the right
 moments from two texts takes longer than it seems.
 
-## Related resources
+## More resources on this topic
 
 - [Aspects of Tragedy revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717-revision-notes/)
 - [Aspects of Tragedy practice questions](/resources/aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717-practice/)

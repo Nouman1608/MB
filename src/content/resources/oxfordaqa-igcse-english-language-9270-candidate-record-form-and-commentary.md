@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ The word **because** or **so that** is the simplest test of an explaining senten
 - Check every sentence of the commentary for "because" or "so that".
 - Follow your school's rules on deadlines and on what help is allowed.
 
-## Related resources
+## More resources on this topic
 
 - [Candidate record form revision notes](/resources/oxfordaqa-igcse-english-language-9270-candidate-record-form-and-commentary-revision-notes/)
 - [Candidate record form practice](/resources/oxfordaqa-igcse-english-language-9270-candidate-record-form-and-commentary-practice/)

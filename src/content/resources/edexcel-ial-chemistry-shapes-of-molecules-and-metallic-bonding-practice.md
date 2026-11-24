@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -195,7 +195,7 @@ N₂ = 0.110 nm. Explain why the N≡N bond is shorter than the N-N bond. **[2]*
 - Explaining a melting-temperature difference by listing factors without linking them to stronger attraction
   and more energy.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-revision-notes/)
 - [Study guide](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding/)

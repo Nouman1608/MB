@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,6 +132,6 @@ These questions cover sub-topic 1(g) Covalent bonding of the Pearson Edexcel Int
 - Comparing only one structure in a two-substance question.
 - Giving a state without comparing the temperature with the data.
 
-## Next steps
+## More on this topic
 
 Review the [covalent bonding study guide](/resources/edexcel-igcse-chemistry-4ch1-covalent-bonding/) for any slips, then try the mixed [ionic, covalent and metallic bonding practice questions](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice/).

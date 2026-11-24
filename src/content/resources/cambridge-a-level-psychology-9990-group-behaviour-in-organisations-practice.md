@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -147,6 +147,6 @@ Related: [Group behaviour study guide](/resources/cambridge-a-level-psychology-9
 - In question 5(a), listing groupthink features without saying what groupthink is.
 - In question 7(a), explaining only one of the two observations.
 
-## Next steps
+## More on this topic
 
 Review weak areas in the [group behaviour study guide](/resources/cambridge-a-level-psychology-9990-group-behaviour-in-organisations/), then try the mixed [Organisational Psychology practice questions](/resources/a-level-psychology-organisational-psychology-practice/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ No. Revenue is price times quantity, so the effect depends on the price elastici
 **What should you say when the terms of trade change?**
 Say what the change means for the quantity of imports obtained for each unit of exports, not just whether the index went up or down.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms/).
 - Course hub: [Edexcel A Level Economics](/boards/edexcel/a-level/economics/); track progress with the [printable checklist](/checklists/edexcel/a-level/economics/).

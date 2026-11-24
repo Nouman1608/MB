@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It covers references G1 to G5 in section 3.3.1, Properties and constructions. All of this content is Core, and the specification says Core content can also be assessed on the Extension tier papers, so it applies to both tiers. There is no Extension only content in this unit.
@@ -304,7 +304,7 @@ Angle R = angle P = 110°    (opposite angles equal)
 - Calling a shape a rhombus because the sides are equal when a diagram only shows two equal sides.
 - Assuming angles are as drawn. Diagrams are not always to scale, so use only the given facts.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals-revision-notes/) for quick recall, then the [practice questions](/resources/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals-practice/). Try a [free diagnostic](/diagnostics/) afterwards to see what to revisit.
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -163,7 +163,7 @@ Interviews gave detailed, qualitative reasons, but they rely on accurate memory 
 
 **Describe** questions on Savage and Armstrong need the design, sample, measures, both time points and the pattern of results. **Compare** questions on Munchausen and malingering need a similarity (both involve feigning illness) and a difference (the motive). **Evaluate** questions should use the issues the syllabus lists, such as idiographic versus nomothetic for 3.1.3 case studies, or cultural differences and validity for 3.1.2.
 
-## Related resources
+## More resources on this topic
 
 - [The patient–practitioner relationship revision notes](/resources/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship-revision-notes/)
 - [The patient–practitioner relationship practice questions](/resources/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship-practice/)

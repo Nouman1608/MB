@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 2.1 (Human resource management (HRM), points 2.1.1 to 2.1.3) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. All candidates take the same two papers, Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study), and both papers are based on all the subject content. So expect HRM in stimulus material and case studies, not only as recall. Use the [course hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/) to track progress, then use the [revision notes](/resources/igcse-business-0264-human-resource-management-hrm-revision-notes/) and the [practice questions](/resources/igcse-business-0264-human-resource-management-hrm-practice/) to test yourself. To find weak spots first, try the [free diagnostics](/diagnostics/).
@@ -229,7 +229,7 @@ Sundell Cycles takes on six new assembly workers. Induction takes 4 hours each, 
 - Giving only a list in a recommend question, with no decision and no evidence from the case.
 - Calling induction "training for the job itself". It introduces the business.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/igcse-business-0264-human-resource-management-hrm-revision-notes/), then try the [practice questions](/resources/igcse-business-0264-human-resource-management-hrm-practice/). Check your coverage on the [printable checklist](/checklists/cambridge/igcse/business/), and take a [free 10-minute diagnostic](/diagnostics/).
 

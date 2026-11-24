@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes cover **2.2.1 Electron structure** from Module 2 (Foundations in chemistry) of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They condense every statement in 2.2.1(a) to (d). H432 is the full A level with no tiers. For full explanations and worked examples, read the [electron structure study guide](/resources/ocr-a-level-chemistry-electron-structure/) first.
@@ -218,7 +218,7 @@ The specification limits this to s- and p-block ions up to Z = 36. (d-block ions
 11. 2p⁶ + 3p⁵ = **11**.
 12. A completely filled 3d sub-shell (d¹⁰) is the more stable, lower-energy arrangement, so one 4s electron occupies 3d instead.
 
-## Next steps
+## More on this topic
 
 - Got a self-test answer wrong? Go back to that section of the [study guide](/resources/ocr-a-level-chemistry-electron-structure/).
 - Attempt the [practice questions](/resources/ocr-a-level-chemistry-electron-structure-practice/), which have fully worked answers.

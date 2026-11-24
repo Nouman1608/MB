@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -184,7 +184,7 @@ the behaviour of men and women in it are ridiculed.
 12. Any one: a character is excluded or humiliated (Malvolio, Antonio); a final speech can be read
     ironically (Katherina); social problems such as racism remain (*Small Island*).
 
-## Next steps
+## More on this topic
 
 Try the [Aspects of Comedy practice questions](/resources/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717-practice/),
 and use the [Paper 1 revision notes](/resources/a-level-aqa-english-literature-b-literary-genres-revision-notes/)

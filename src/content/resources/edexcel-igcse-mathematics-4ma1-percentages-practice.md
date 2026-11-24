@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Related: [section 1.6 study guide](/resources/edexcel-igcse-mathematics-4ma1-per
 - Assuming the changes cancel in question 11.
 - Stating "3 years" in question 12(a) without checking the value after 4 years.
 
-## Next steps
+## More on this topic
 
 - Recap the multipliers in the [section 1.6 revision notes](/resources/edexcel-igcse-mathematics-4ma1-percentages-revision-notes/).
 - For percentage questions mixed with ratio, try the [percentages, ratio and proportion practice questions](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-practice/).

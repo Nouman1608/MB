@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,7 +174,7 @@ Choose poems that differ within a shared idea, so comparison produces an argumen
     landscape a site of military power and local resistance.
 12. Two poems in depth with brief reference to a third, unless the question gives an instruction.
 
-## Next steps
+## More on this topic
 
 Practise with the [Unit 2 Section B practice questions](/resources/oxfordaqa-a-level-english-literature-9675-unit-2-section-b-practice/),
 and revisit the prose methods in the

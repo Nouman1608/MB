@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -183,7 +183,7 @@ cause?
 checking.
 12. No; plain text usernames and passwords are used.
 
-## Related resources
+## More resources on this topic
 
 - [Robust and secure programming study guide](/resources/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming/)
 - [Robust and secure programming practice questions](/resources/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming-practice/)

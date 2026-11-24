@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers parametric equations of curves for OCR A Level Mathematics A (H240), using the OCR specification Version 3.1 (August 2026). It teaches content statements 1.03g and 1.03h in Pure Mathematics section 1.03, Coordinate Geometry in the x–y Plane. Both statements sit in the Stage 2 column, so they are **A Level only** and are not part of the common Stage 1 content shared with AS Level (H230).
@@ -282,7 +282,7 @@ From A to B, use x = x_A + t(x_B − x_A) and y = y_A + t(y_B − y_A) with 0 �
 **How do you find the greatest height of a projectile given parametrically?**
 Treat y as a function of t, find the t-value of its maximum, for example by completing the square or the vertex of the quadratic, then substitute that t back into y.
 
-## Next steps
+## More on this topic
 
 Check you can do each skill without notes, then use the [revision notes](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in-revision-notes/) to memorise the methods. The [practice questions](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in-practice/) have full worked answers. For the wider Pure Mathematics course, see [OCR A Level Mathematics: Pure Mathematics](/resources/ocr-a-level-mathematics-pure-mathematics/) and the [pure practice set](/resources/ocr-a-level-mathematics-pure-practice/). A [free 10-minute diagnostic](/diagnostics/) shows which topic to revise next.
 

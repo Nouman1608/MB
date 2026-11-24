@@ -32,6 +32,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -158,7 +159,7 @@ Case study: the Aral Sea, between Kazakhstan and Uzbekistan [1]. Cause: the Amu 
 - Writing essays that describe a case study well but never reach a judgement.
 - Giving invented or uncertain statistics; accurate qualitative detail is safer.
 
-## Next steps
+## More on this topic
 
 Check your weaker areas against the [study guide](/resources/a-level-geography-9696-environmental-management/), then try our [diagnostics](/diagnostics/) to find gaps across your Geography course. For help with Paper 4 essays, [Book a free trial class](/trial/). The [exam preparation guide](/resources/cambridge-a-level-geography-exam-preparation/) explains how to choose your options.
 

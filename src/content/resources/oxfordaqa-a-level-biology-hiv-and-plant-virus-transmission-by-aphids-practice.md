@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ HIV binds by glycoproteins to CD4 receptors on helper T-cells [1]; plant virus i
 - Saying aphids bite leaves or suck sap by muscle power.
 - Treating a correlation as proof of causation.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-biology-hiv-and-plant-virus-transmission-by-aphids-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-a-level-biology-hiv-and-plant-virus-transmission-by-aphids/).
 - Course hub: [OxfordAQA A-level Biology](/boards/oxfordaqa/a-level/biology/) and [printable checklist](/checklists/oxfordaqa/a-level/biology/).

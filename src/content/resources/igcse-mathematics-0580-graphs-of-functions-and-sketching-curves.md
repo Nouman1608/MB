@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **2.10 Graphs of functions** and **2.11 Sketching curves** from Topic 2 (Algebra and graphs) of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027, for exams in the June and November series (and the March series in India). Both subtopics appear in the Core content (C2.10, C2.11) and the Extended content (E2.10, E2.11). Extended adds more function types, exponential growth and decay, asymptotes and turning points; that material is marked **Extended only**. Core candidates sit Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates sit Paper 2 (non-calculator) and Paper 4 (calculator).
@@ -259,7 +259,7 @@ The turning point is (−1, −16): in the form (x + p)² + q, the turning point
 **When solving an equation graphically, do you read the x-value or the y-value?**
 Read the x-values where the curve and the line intersect when the question asks you to solve for x. Giving the y-value of the intersection is a common error.
 
-## Next steps
+## More on this topic
 
 - [Graphs of functions and sketching curves practice questions](/resources/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves-practice/)
 - [Algebra and graphs practice questions](/resources/igcse-mathematics-algebra-and-graphs-practice/) and [Extended algebra practice](/resources/igcse-mathematics-algebra-extended-practice/)

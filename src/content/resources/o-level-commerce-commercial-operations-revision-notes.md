@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -234,7 +234,7 @@ The 7100 syllabus names contract manufacturing and contract logistics as the two
 **How do you answer a discuss question on the effects of ecommerce?**
 Weigh positives such as 24/7 selling and lower store costs against negatives such as delivery, warehousing and website costs, then finish with a judgement linked to the scenario rather than a neutral list.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O Level Commerce: Commercial Operations (7100)](/resources/o-level-cambridge-commerce-commercial-operations/)
 - [Cambridge O Level Commerce: Commerce and Production](/resources/o-level-cambridge-commerce-commerce-and-production/)

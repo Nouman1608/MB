@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -188,6 +188,6 @@ For a temperature and rainfall graph (climate graph), temperature is plotted as 
 - **Crossing isolines.**
 - **Not checking that pie chart angles add to 360 degrees.**
 
-## Next steps
+## More on this topic
 
 Condense this with the [graphical skills revision notes](/resources/oxfordaqa-igcse-geography-9230-graphical-skills-revision-notes/) and test yourself with the [graphical skills practice questions](/resources/oxfordaqa-igcse-geography-9230-graphical-skills-practice/).

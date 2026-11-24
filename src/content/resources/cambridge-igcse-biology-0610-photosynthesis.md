@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ To justify the answer, say what would happen if the factor were increased: only 
 - **Suggest** a limiting factor: use the clues in the question (time of day, season, closed space).
 - **Calculate** a rate: divide the volume or count by the time, and give the unit, such as cm³ per min.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [photosynthesis revision notes](/resources/cambridge-igcse-biology-0610-photosynthesis-revision-notes/).
 - Exam-style questions with answers: [plant nutrition practice questions](/resources/igcse-biology-plant-nutrition-practice/).

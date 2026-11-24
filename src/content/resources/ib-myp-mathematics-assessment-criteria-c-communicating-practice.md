@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ Explain the link. For the spring, saying that the intercept 5 is the unstretched
 **Is a shorter solution always more concise?**
 No. Concise means nothing unnecessary. Removing a needed reason or a check makes the reasoning incomplete, which also costs credit.
 
-## Next steps
+## More on this topic
 
 - Review the annotated rewrite in the [Criterion C study guide](/resources/ib-myp-mathematics-assessment-criteria-c-communicating/).
 - Practise real-life tasks in the [Criterion D practice questions](/resources/ib-myp-mathematics-assessment-criteria-d-applying-mathematics-in-real-life-contexts-practice/).

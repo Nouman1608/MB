@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ These questions cover statements 7.5.3 to 7.5.10 of the Cambridge International 
 - Not stating "below normal profit" when the answer is subnormal.
 - Giving a list of economies with no mechanism for lower cost per unit.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and/).
 - Visit the [course hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/).

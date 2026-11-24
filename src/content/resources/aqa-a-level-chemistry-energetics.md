@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **section 3.1.4 Energetics** of the AQA AS and A-level Chemistry specification
@@ -335,7 +335,7 @@ An element in its standard state has ΔfH⦵ = 0, for example O₂(g) or C(s). F
 **What is Required practical 2 in AQA A-level Chemistry 7405?**
 Required practical 2 is the measurement of an enthalpy change, part of section 3.1.4.2 Calorimetry. It uses q = mcΔT to calculate a molar enthalpy change from a temperature change.
 
-## Next steps
+## More on this topic
 
 Test yourself on the [practice questions](/resources/aqa-a-level-chemistry-energetics-practice/),
 read [exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/), or try the free

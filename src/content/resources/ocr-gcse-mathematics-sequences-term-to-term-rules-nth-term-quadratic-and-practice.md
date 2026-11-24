@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -150,7 +150,7 @@ These questions cover sections 6.06a and 6.06b (sequences) of the OCR GCSE (9-1)
 - Treating xₙ₊₁ as xₙ + 1.
 - Answering with the position when the question asks for the term.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [revision notes](/resources/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and-revision-notes/).
 - Read the full explanations in the [study guide](/resources/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and/).

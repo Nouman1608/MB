@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers IB Diploma Programme Environmental Systems and Societies (ESS), syllabus
@@ -319,7 +319,7 @@ covers paper structure in more detail.
 - In the Lincoln index, putting R on top instead of on the bottom.
 - Calling a forest a carbon sink without saying whether it is growing or mature.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/ib-dp-ess-ecosystems-energy-biogeochemical-cycles-revision-notes/),
 then test yourself with the [practice questions](/resources/ib-dp-ess-ecosystems-energy-biogeochemical-cycles-practice/).

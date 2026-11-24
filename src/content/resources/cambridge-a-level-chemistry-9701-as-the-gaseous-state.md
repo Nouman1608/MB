@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Use R = 8.31 J K⁻¹ mol⁻¹, which is given in the data booklet. It requires 
 **Does pV = nRT work for real gases?**
 It is an approximation for real gases. It is closest at low pressure and high temperature, where real gases behave most like an ideal gas.
 
-## Related resources
+## More resources on this topic
 
 - [Gaseous state revision notes](/resources/cambridge-a-level-chemistry-9701-as-the-gaseous-state-revision-notes/)
 - [Gaseous state practice questions](/resources/cambridge-a-level-chemistry-9701-as-the-gaseous-state-practice/)

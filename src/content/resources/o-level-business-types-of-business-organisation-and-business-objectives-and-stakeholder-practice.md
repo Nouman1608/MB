@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -166,7 +166,7 @@ Give pairs of linked, contrasting points, such as how shares can be sold in each
 **How do you recommend a form of business organisation?**
 Pick a form, link it to several facts in the stem, such as the finance needed, the risk and who wants control, and weigh a rejected option.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder-revision-notes/) and the [study guide](/resources/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder/).
 - Tick off the [checklist](/checklists/cambridge/o-level/business/) and visit the [course hub](/boards/cambridge/o-level/business/).

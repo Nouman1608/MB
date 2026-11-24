@@ -47,7 +47,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the hidden curriculum most often; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the hidden curriculum most often; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Paper 2 Family, Education and Crime**, for
@@ -283,7 +283,7 @@ Under-reporting by victims, under-recording by police and changes in definitions
 **What are the aims of punishment in the 0495 syllabus?**
 The syllabus names protection of citizens, deterrence, retribution, incapacitation and rehabilitation as the aims of punishment.
 
-## Related resources
+## More resources on this topic
 
 - [IGCSE Sociology: Research Methods, Identity and Inequality (Cambridge 0495)](/resources/igcse-sociology-research-methods-identity-and-inequality/)
 

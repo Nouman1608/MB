@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 11, Gas exchange in humans, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. The topic has one section, 11.1, with five Core learning outcomes and six Supplement outcomes. Core content is examined on Papers 1 and 3; Core plus Supplement is examined on Papers 2 and 4. Everything marked **Extended only** below is Supplement content, which you need only if you are entered for the Extended papers.
@@ -246,7 +246,7 @@ This stops pathogens and particles reaching the alveoli. Ciliated cells also app
 - Explaining faster breathing during exercise with "lack of oxygen" instead of "increased carbon dioxide in the blood, detected by the brain".
 - Saying the cilia trap dust. The mucus traps; the cilia move the mucus.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [gas exchange revision notes](/resources/igcse-biology-0610-gas-exchange-in-humans-revision-notes/), test yourself on the [gas exchange practice questions](/resources/igcse-biology-0610-gas-exchange-in-humans-practice/), then move on to [respiration](/resources/igcse-biology-0610-respiration/). Tick off each outcome on the [Biology checklist](/checklists/cambridge/igcse/biology/).
 

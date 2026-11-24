@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Correct method [1]; all totals correct [1]; formula **C₇H₁₄O₂** [1]
 - Treating one spot as proof of purity, or one matching value as proof of identity.
 - Showing the precise-mass total for only the matching formula.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/oxfordaqa-a-level-chemistry-chromatography-revision-notes/).
 - Reread weak areas in the [study guide](/resources/oxfordaqa-a-level-chemistry-chromatography/).

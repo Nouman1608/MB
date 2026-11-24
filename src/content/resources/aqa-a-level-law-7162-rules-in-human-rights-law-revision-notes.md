@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,7 +160,7 @@ discrimination only in the enjoyment of the other Convention rights. 12. Identif
 check engagement; identify interference or failure to protect; test justification; enforcement and
 remedy.
 
-## Related resources
+## More resources on this topic
 
 [Rules in Human Rights law study guide](/resources/aqa-a-level-law-7162-rules-in-human-rights-law/) |
 [Rules in Human Rights law practice questions](/resources/aqa-a-level-law-7162-rules-in-human-rights-law-practice/) |

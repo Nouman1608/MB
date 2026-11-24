@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ D: a university place
 - Privatisation evaluations that ignore competition.
 - Free rider answers that do not link to the lack of revenue.
 
-## Next steps
+## More on this topic
 
 - Recap with the [mixed economy revision notes](/resources/edexcel-igcse-economics-4ec1-the-mixed-economy-revision-notes/).
 - Reread the [mixed economy study guide](/resources/edexcel-igcse-economics-4ec1-the-mixed-economy/).

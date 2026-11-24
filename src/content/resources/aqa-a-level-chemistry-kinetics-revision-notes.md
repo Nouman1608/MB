@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense section **3.1.5 Kinetics** of the AQA AS and A-level Chemistry specification
@@ -260,7 +260,7 @@ Draw one curve, because the temperature is unchanged, and mark the catalysed act
 **Are rate equations part of kinetics in AQA A-level Chemistry 7405?**
 No. Rate equations, orders and the rate constant belong to section 3.1.9, which is A-level only. Section 3.1.5 Kinetics is AS content.
 
-## Next steps
+## More on this topic
 
 Go back to the [study guide](/resources/aqa-a-level-chemistry-kinetics/) for any point you missed, then try
 the [practice questions](/resources/aqa-a-level-chemistry-kinetics-practice/). The free 10-minute

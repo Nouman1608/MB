@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -141,6 +141,6 @@ Landslides, liquefaction, tsunamis. A tsunami forms when sudden sea-floor displa
 
 **Answers:** 1. Divergent, convergent, transform. 2. Convergent. 3. Focus: point of rupture; epicentre: point on the surface directly above. 4. Modified Mercalli scale. 5. 100 times. 6. A volcanic area away from boundaries above a rising mantle plume. 7. It is denser than continental crust. 8. The pull of a cold, dense sinking slab on the rest of the plate. 9. P waves are fastest; surface waves usually cause most damage. 10. Low-silica basaltic magma is runny, so gas escapes easily instead of building pressure. 11. A volcanic mudflow of ash and debris mixed with water. 12. Physical: heavy rain or earthquakes; human: deforestation or cutting slopes for roads.
 
-## Related resources
+## More resources on this topic
 
 - [Option D: Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/)

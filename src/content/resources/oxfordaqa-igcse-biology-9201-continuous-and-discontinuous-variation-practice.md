@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the 9201 text for 3.6.1 lists only the causes of variation; the continuous and discontinuous content comes from the subtopic title and general biology, so check the scope against the board's own wording."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the 9201 text for 3.6.1 lists only the causes of variation; the continuous and discontinuous content comes from the subtopic title and general biology, so check the scope against the board's own wording. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -156,7 +156,7 @@ For mixed questions, use the [Variation, natural selection and the origin of spe
 - Giving only one cause of variation when the question asks for both.
 - Forgetting that mutation and reproduction are the sources of genetic variation.
 
-## Next steps
+## More on this topic
 
 - [Continuous and discontinuous variation study guide](/resources/oxfordaqa-igcse-biology-9201-continuous-and-discontinuous-variation/)
 - [Variation, natural selection and the origin of species revision notes](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species-revision-notes/)

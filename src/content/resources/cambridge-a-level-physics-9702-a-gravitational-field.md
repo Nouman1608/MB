@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ For two masses such as a planet and its moon, lines curve towards both bodies. N
 - **Explain** (why the field near the surface is uniform): the region is small compared with the radius, so the radial lines are almost parallel and equally spaced.
 - **Calculate** (field or force): use g = F/m and W = mg, with vector addition where two fields act.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields study guide](/resources/a-physics-gravitational-fields/) — the whole of Topic 13
 - [Gravitational field revision notes](/resources/cambridge-a-level-physics-9702-a-gravitational-field-revision-notes/)

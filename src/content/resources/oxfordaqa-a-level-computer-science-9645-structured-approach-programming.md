@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -188,7 +188,7 @@ Good modules have **one clear task** that you can name in a short phrase ("find 
 - Listing advantages with no explanation.
 - Confusing a parameter (in the definition) with an argument (in the call).
 
-## Next steps
+## More on this topic
 
 - [Structured approach revision notes](/resources/oxfordaqa-a-level-computer-science-9645-structured-approach-programming-revision-notes/)
 - [Structured approach practice questions](/resources/oxfordaqa-a-level-computer-science-9645-structured-approach-programming-practice/)

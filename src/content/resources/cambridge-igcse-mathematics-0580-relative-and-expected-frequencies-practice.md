@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ These questions cover subtopic 8.2, Relative and expected frequencies, in the Ca
 - Giving "it is unfair" as a reason without comparing numbers.
 - Dividing by the probability when you should multiply.
 
-## Next steps
+## More on this topic
 
 - Recap with the [relative and expected frequencies revision notes](/resources/cambridge-igcse-mathematics-0580-relative-and-expected-frequencies-revision-notes/).
 - More Topic 8 questions: [probability practice questions](/resources/igcse-mathematics-probability-practice/).

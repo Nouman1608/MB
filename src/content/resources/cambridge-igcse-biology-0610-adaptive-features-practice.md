@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Explain how each of these features adapts the pondweed to its environment. **[4]
 - Describing one plant only in a "differences" question.
 - Writing that xerophytes "need less water" rather than lose less.
 
-## Next steps
+## More on this topic
 
 - Re-read the [adaptive features study guide](/resources/cambridge-igcse-biology-0610-adaptive-features/) for any question you found hard.
 - Move on to the [selection practice questions](/resources/cambridge-igcse-biology-0610-selection-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ The period rule applies to **atoms**. A sodium ion, Na⁺, has configuration 2,8
 - **Determine** or **deduce**: show the electron count first, then the configuration.
 - In particle-counting tables, check each row: for an atom, protons and electrons must match.
 
-## Next steps
+## More on this topic
 
 - Memorise the essentials with the [atomic structure and the Periodic Table revision notes](/resources/cambridge-o-level-chemistry-5070-atomic-structure-and-the-periodic-table-revision-notes/).
 - Practise with the [atomic structure and the Periodic Table practice questions](/resources/cambridge-o-level-chemistry-5070-atomic-structure-and-the-periodic-table-practice/).

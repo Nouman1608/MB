@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ Related: [section 1.7 study guide](/resources/edexcel-igcse-mathematics-4ma1-rat
 - Converting cm to km by dividing by 1000 in question 11.
 - Choosing the flour as the limit in question 12 without checking every ingredient.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [section 1.7 revision notes](/resources/edexcel-igcse-mathematics-4ma1-ratio-and-proportion-revision-notes/).
 - For ratio questions mixed with percentages, try the [percentages, ratio and proportion practice questions](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-practice/).

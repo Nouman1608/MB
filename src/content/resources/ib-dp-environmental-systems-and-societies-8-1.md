@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 8.1 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 8.1 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ Country Q has eight times the population but only 1.6 times the total footprint.
 - **Evaluate** a policy: aim, evidence of effect, unintended consequences, ethical issues, then a judgement.
 - **Discuss** population and environment: weigh numbers against consumption and technology, using footprint data.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [8.1 revision notes](/resources/ib-dp-environmental-systems-and-societies-8-1-revision-notes/) and practise with the [8.1 practice questions](/resources/ib-dp-environmental-systems-and-societies-8-1-practice/). Ecological footprints and sustainability are introduced in the [perspectives, systems and sustainability guide](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability/).
 

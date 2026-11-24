@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers section 3.1.9, Electrode potentials and electrochemical cells, of the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards. It teaches 3.1.9.1 and 3.1.9.2. The whole section is International A2 content, so it is **International A-level only**. The specification places 3.1.8 to 3.1.10 in Unit 3 (Inorganic 2 and Physical 2), and Unit 5 (Practical and synoptic) can draw on all content, including required practical 6.
@@ -270,7 +270,7 @@ Double the negative-electrode equation so 4e⁻ cancel. OH⁻ made at one electr
 - Leaving out Pt(s), H⁺(aq) or state symbols.
 - Saying electrons move through the salt bridge, or that a fuel cell needs recharging.
 
-## Next steps
+## More on this topic
 
 Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice/).
 

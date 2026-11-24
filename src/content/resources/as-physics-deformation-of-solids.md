@@ -22,7 +22,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -217,7 +217,7 @@ No. Strain is extension divided by original length, a ratio of two lengths, so i
 **What is the difference between brittle, ductile and polymeric materials?**
 Brittle materials such as glass break with little or no plastic deformation, ductile materials such as copper deform plastically a great deal before breaking, and polymeric materials such as rubber can stretch very far with different loading and unloading curves.
 
-## Related resources
+## More resources on this topic
 
 - [Work, Energy and Power](/resources/as-physics-work-energy-and-power/) — the work-done concept this topic's energy formula builds on
 - [Physical Quantities, Units and Measurement](/resources/as-physics-physical-quantities-units-and-measurement/) — combining measurement uncertainties, relevant to the Young modulus experiment

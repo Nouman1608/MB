@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Revise first with the [study guide](/resources/ocr-gcse-mathematics-isometric-tr
 - Stating that vectors are parallel without showing the multiple.
 - Concluding a proof without a sentence naming the geometric result.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-isometric-transformations-and-vectors-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-isometric-transformations-and-vectors/).
 - Go to the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [checklist](/checklists/ocr/gcse/mathematics/).

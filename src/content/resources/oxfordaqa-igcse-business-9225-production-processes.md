@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -173,7 +173,7 @@ Thirty hours is the working time of nearly four workers on an 8-hour day, so the
 
 For **identify** questions, name the method from the clues in the case ("made to order" points to job; "a line of machines running all day" points to flow). For **explain** questions, give an advantage or drawback with a reason. For **analyse** questions, follow the chain, for example from the quantity needed to the method chosen and then to the cost per item. For **evaluate** questions, weigh the factors that matter for the business, such as demand, variety, cost and quality, then decide on the most suitable method.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-production-processes-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-production-processes-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -143,6 +143,6 @@ Condensed notes for key question **5.2 What are the roles and functions of educa
 
 **Answers:** 1. Socialisation, social control, economic, selective. 2. Children learn to cooperate with people who are not family and to follow shared rules, as they will in wider society. 3. In the family children are judged as individuals by particularistic standards; at school everyone is judged by the same universalistic standards. 4. Sorting people into the jobs that best suit their abilities. 5. Bowles and Gintis's idea that the hidden curriculum of school mirrors the relationships of the workplace. 6. An ideological state apparatus. 7. Their home culture, language and knowledge match what schools value and reward, so they succeed more easily. 8. The belief that success depends on merit, which hides the influence of class background and makes failures blame themselves. 9. His study showed working-class lads actively resisting school rather than passively accepting its values. 10. Boys dominated classroom talk and received more teacher attention. 11. Any two: poverty; early marriage; household duties; safety concerns on the way to school; families prioritising sons. 12. Any one: girls now outperform boys at school level in many countries; it treats girls as one group, ignoring class and ethnicity; it may overlook boys' underachievement.
 
-## Next steps
+## More on this topic
 
 Practise with the [key question 5.2 practice questions](/resources/cambridge-igcse-sociology-0495-kq-5-2-practice/), then revise [achievement differences with the key question 5.3 revision notes](/resources/cambridge-igcse-sociology-0495-kq-5-3-revision-notes/).

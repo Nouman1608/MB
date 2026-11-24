@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -130,7 +130,7 @@ State your choice of f(x), differentiate it to get f′(x), and show how the int
 **Can you integrate sin² x or cos² x directly?**
 No. Rewrite them first using the double angle identities, such as sin² x = ½(1 − cos 2x), and then integrate term by term.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/edexcel-ial-mathematics-integration-of-exponential-reciprocal-and-revision-notes/) for quick recall.
 - Revisit the [study guide](/resources/edexcel-ial-mathematics-integration-of-exponential-reciprocal-and/) for worked explanations.

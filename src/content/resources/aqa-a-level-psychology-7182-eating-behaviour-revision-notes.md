@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -209,7 +209,7 @@ The boundary model says intake is set between a hunger boundary and a satiety bo
 **Which three ideas does AQA list for family systems theory of anorexia?**
 The specification lists enmeshment, autonomy and control. You need to explain how enmeshment leads to a struggle for autonomy and control, not just list the terms.
 
-## Next steps
+## More on this topic
 
 Revisit the [Approaches in Psychology study guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) for the biological, social learning and cognitive approaches behind these explanations, then try the [Eating behaviour practice questions](/resources/aqa-a-level-psychology-7182-eating-behaviour-practice/). For reductionism, determinism and gender bias as evaluation points, see the [Issues and debates study guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/).
 

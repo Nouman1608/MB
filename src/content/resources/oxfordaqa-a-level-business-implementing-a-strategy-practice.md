@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Weigh what it shows, such as the minimum project duration and which activities c
 **Which OxfordAQA 9725 section do these questions test?**
 They test section 3.4.5 Implementing a strategy of OxfordAQA International AS and A-level Business (9725), examined in the Unit 4: Business strategy paper.
 
-## Next steps
+## More on this topic
 
 - Recap the rules with the [implementing a strategy revision notes](/resources/oxfordaqa-a-level-business-implementing-a-strategy-revision-notes/)
 - Rework the examples in the [implementing a strategy study guide](/resources/oxfordaqa-a-level-business-implementing-a-strategy/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Refer to the context: the variable is continuous and the data are roughly symmet
 **Why should you not round z-values early?**
 In a problem with two unknowns, rounding z-values to two decimal places can shift the answer in the third significant figure. Keep full calculator values until the end.
 
-## Next steps
+## More on this topic
 
 - Recap the ideas in the [revision notes](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate-revision-notes/).
 - Read the full explanations in the [study guide](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate/).

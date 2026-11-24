@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ These questions cover section 6.3 (6.3.1 to 6.3.5, foreign exchange rates) of th
 - Treating floating and fixed as lists of facts with no judgement for the country described.
 - Forgetting that defending a fixed rate uses reserves.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-o-level-economics-foreign-exchange-rates/) for any question you missed.
 - Use the [revision notes](/resources/cambridge-o-level-economics-foreign-exchange-rates-revision-notes/) for quick recall.

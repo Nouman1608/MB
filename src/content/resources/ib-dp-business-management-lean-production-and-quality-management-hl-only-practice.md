@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ These questions cover section 5.3, Lean production and quality management (HL on
 - Writing only the advantages of a method in an evaluation.
 - Naming a quality standard without saying why it matters to customers.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-business-management-lean-production-and-quality-management-hl-only-revision-notes/) and the [study guide](/resources/ib-dp-business-management-lean-production-and-quality-management-hl-only/).
 - Open the [IB DP Business Management hub](/boards/ib/ib-dp/business/) and tick off the [syllabus checklist](/checklists/ib/ib-dp/business/).

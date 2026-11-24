@@ -34,7 +34,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -195,7 +195,7 @@ Explain why potassium is more reactive than sodium, but bromine is less reactive
 - Mixing up the glowing splint and lighted splint tests.
 - Giving a precipitate result without its colour.
 
-## Next steps
+## More on this topic
 
 - [Reactivity and group trends revision notes](/resources/edexcel-igcse-chemistry-reactivity-revision-notes/)
 - [Reactivity and group trends study guide](/resources/igcse-edexcel-chemistry-reactivity-and-group-trends/)

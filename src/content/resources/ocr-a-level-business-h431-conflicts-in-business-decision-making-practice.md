@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ Evaluation: simple tools are more useful to a small business than complex ones, 
 - Listing reasons for failure without linking or prioritising them.
 - Ignoring the size and circumstances of the business when judging tools.
 
-## Next steps
+## More on this topic
 
 - Revisit the [conflicts in decision making study guide](/resources/ocr-a-level-business-h431-conflicts-in-business-decision-making/) for any gaps.
 - Try the [decision trees practice questions](/resources/ocr-a-level-business-h431-decision-trees-practice/).

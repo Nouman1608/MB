@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Unit 2 Language and Society**, the second of two
@@ -189,7 +189,7 @@ issues) carries more weight in Unit 2 -- a useful signal that Unit 2
 rewards precise use of linguistic terminology at least as much as
 fluent writing style.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 2 Language and Society revision notes](/resources/a-level-oxfordaqa-english-language-unit-2-revision-notes/)
 - [Unit 2 Language and Society practice questions](/resources/a-level-oxfordaqa-english-language-unit-2-practice/)

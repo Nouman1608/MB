@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA *International AS and A-level Economics* specification (version 1.2; first teaching September 2020, International AS from May/June 2021, International A-level from May/June 2022). It covers sections 3.1.4.1 (market structures), 3.1.4.2 (the objectives of firms) and 3.1.4.3 (competitive markets). Section 3.1 is International AS content and is also examined in the full International A-level. Section 3.5 (quantitative skills) can be assessed in any unit, so the calculations here use it. Monopoly, monopoly power and the competitive market process are separate statements in the specification and are not taught here.
@@ -202,7 +202,7 @@ In a market dominated by a few large firms, barriers to entry stop this adjustme
 - Treating profit, growth and survival as the same. A growth objective can mean lower profit now.
 - Describing barriers to entry without saying how they affect the number of firms.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice set](/resources/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive-revision-notes/).
 

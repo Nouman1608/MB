@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 2.4 Water from Topic 2, Biological molecules, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. Section 2.4 has a single learning outcome, and this page covers all of it. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content. Calculators are allowed in 9700 examinations.
@@ -221,7 +221,7 @@ Each property gets its own hydrogen-bond reason and its own named role.
 - Saying a non-polar substance "repels water". Explain that it cannot form hydrogen bonds with water.
 - Listing a property with no organism or role, or a role with no property.
 
-## Next steps
+## More on this topic
 
 - Recall: [Water revision notes](/resources/a-level-biology-9700-water-revision-notes/)
 - Test yourself: [Water practice questions](/resources/a-level-biology-9700-water-practice/)

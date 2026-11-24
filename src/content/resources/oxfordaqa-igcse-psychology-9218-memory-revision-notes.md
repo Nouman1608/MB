@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -189,7 +189,7 @@ components can be done together with little loss. So short-term memory is not on
 11. Proactive: old learning disrupts new. Retroactive: new learning disrupts old.
 12. Features of the room act as retrieval cues that match those present at encoding.
 
-## Related resources
+## More resources on this topic
 
 - [Memory practice questions](/resources/oxfordaqa-igcse-psychology-9218-memory-practice/)
 - [Perception revision notes](/resources/oxfordaqa-igcse-psychology-9218-perception-revision-notes/)

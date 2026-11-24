@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -139,7 +139,7 @@ These questions cover section **3.1.3.5 Shapes of simple molecules and ions** of
 - Failing to state that the lone pair repulsion is greater, so the angle is smaller.
 - Omitting the lone pairs from a drawing when asked to show them.
 
-## Next steps
+## More on this topic
 
 - [Shapes of simple molecules and ions revision notes](/resources/aqa-a-level-chemistry-7405-shapes-of-simple-molecules-and-ions-revision-notes/)
 - [Bond polarity study guide](/resources/aqa-a-level-chemistry-7405-bond-polarity/)

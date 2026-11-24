@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ Calloway sells mainly in its home country through independent shops. It plans to
 * Recommending a structure without weighing costs, especially duplication of roles.
 * Naming Shamrock leaves without applying them to the business.
 
-## Next steps
+## More on this topic
 
 * Review the [2.2 study guide](/resources/ib-dp-business-2-2/).
 * Re-read the [2.2 revision notes](/resources/ib-dp-business-2-2-revision-notes/).

@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Extended answers (Questions 9, 10 and 11) are shown as indicative creditworthy p
 - Not showing working in calculations.
 - Ending extended answers without a judgement.
 
-## Next steps
+## More on this topic
 
 Check your weaker areas with our free [diagnostics](/diagnostics/). For one-to-one help with Unit 3, [book a free trial class](/trial/). The [OxfordAQA 9690 exam preparation guide](/resources/oxfordaqa-a-level-sociology-exam-preparation/) explains how the units fit together.
 

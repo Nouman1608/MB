@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -192,7 +192,7 @@ chemical data reveal differences that cannot be seen [1]
 - Reading closeness on a tree from the position of names, not from branch points.
 - Saying one living species on a tree evolved from another.
 
-## Next steps
+## More on this topic
 
 - [Classification study guide](/resources/aqa-gcse-biology-8461-classification-of-living-organisms/)
 - [Classification revision notes](/resources/aqa-gcse-biology-8461-classification-of-living-organisms-revision-notes/)

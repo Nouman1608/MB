@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ These questions cover sections 6.4 (Business and ethical issues) and 6.5 (Pressu
 - Ignoring assumptions, such as "sales do not change".
 - Writing long answers to "state" questions.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/igcse-business-0264-business-and-ethical-issues-and-pressure-groups-revision-notes/) and the [study guide](/resources/igcse-business-0264-business-and-ethical-issues-and-pressure-groups/).
 - See the [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/).

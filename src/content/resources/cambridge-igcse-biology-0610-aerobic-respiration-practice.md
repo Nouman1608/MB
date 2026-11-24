@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ D: glucose → alcohol + carbon dioxide
 - (Extended) Multiplying in a backwards calculation instead of dividing.
 - Saying plants respire only in the dark.
 
-## Next steps
+## More on this topic
 
 - Re-read the [aerobic respiration study guide](/resources/cambridge-igcse-biology-0610-aerobic-respiration/) for any question you found hard.
 - Move on to the [anaerobic respiration practice questions](/resources/cambridge-igcse-biology-0610-anaerobic-respiration-practice/).

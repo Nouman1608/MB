@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ question, 25 marks each, on different areas. Spend the first minutes annotating 
 and voice, then build an argument about what the text suggests about the group or relationship it
 represents.
 
-## Related resources
+## More resources on this topic
 
 - [Race, class and culture revision notes](/resources/oxfordaqa-a-level-english-literature-9675-representations-of-race-class-culture-revision-notes/)
 - [Race, class and culture practice questions](/resources/oxfordaqa-a-level-english-literature-9675-representations-of-race-class-culture-practice/)

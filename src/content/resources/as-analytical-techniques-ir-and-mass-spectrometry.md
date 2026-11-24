@@ -23,7 +23,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -243,7 +243,7 @@ A compound with one chlorine atom gives M⁺ and [M+2]⁺ peaks in roughly a 3:1
 **What is the [M+1]⁺ peak used for?**
 The [M+1]⁺ peak is caused by carbon-13 and its height relative to the M⁺ peak is used to work out the number of carbon atoms in the molecule.
 
-## Related resources
+## More resources on this topic
 
 - [Atomic Structure: Particles, Radius and Isotopes](/resources/as-atomic-structure-particles-radius-and-isotopes/) — the isotope data mass spectrometry is built on
 - [Organic Synthesis: Planning Multi-Step Routes](/resources/as-organic-synthesis-planning-multi-step-routes/) — using functional-group evidence, including spectra, to identify unknowns

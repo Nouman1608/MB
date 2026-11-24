@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: title and body now state the syllabus code 0450 and its exam years (audit C21)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: title and body now state the syllabus code 0450 and its exam years (audit C21). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Topic 1 Understanding business activity**, for
@@ -277,7 +277,7 @@ Cambridge IGCSE Business Studies 0450 syllabus for 2026 (Version 2,
 December 2025) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697146-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 Condensed for revision: the
 [Understanding Business Activity revision notes](/resources/igcse-business-understanding-activity-revision-notes/).

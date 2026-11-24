@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ The student starts with 4.64 g of hexanoic acid. Step 1 has a yield of 80.0% and
 - Treating the HCl in a back titration as the NaOH used, rather than the NaOH left over.
 - Averaging step yields instead of multiplying them.
 
-## Next steps
+## More on this topic
 
 - Recap the tables and steps: [Carboxylic acids and esters revision notes](/resources/ocr-a-level-chemistry-carboxylic-acids-and-esters-revision-notes/)
 - Full explanations and worked examples: [Carboxylic acids and esters study guide](/resources/ocr-a-level-chemistry-carboxylic-acids-and-esters/)

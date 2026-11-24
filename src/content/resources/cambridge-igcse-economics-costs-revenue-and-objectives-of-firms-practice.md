@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ These questions cover section 3.7, Firms' costs, revenue and objectives, of the 
 - Naming an objective without tying it to the firm.
 - Evaluating with no judgement, or with a judgement that ignores the figures.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms/).
 - Visit the [course hub](/boards/cambridge/igcse/economics/) and the [printable checklist](/checklists/cambridge/igcse/economics/).

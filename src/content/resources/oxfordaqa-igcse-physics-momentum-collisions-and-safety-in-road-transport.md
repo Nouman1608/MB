@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows sections 3.1.4 (Momentum) and 3.1.5 (Safety in public transport) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. The qualification is untiered. Section 3.1.4 is marked P in the specification, so it is part of the full Physics award. For short recall notes use the [revision notes](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-revision-notes/), and for questions with answers use the [practice questions](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-practice/).
 
@@ -274,7 +274,7 @@ The thinking distance has not changed, because the weather does not alter the dr
 - Writing that a crumple zone "absorbs the force". It increases the time, so the force is smaller.
 - Saying that doubling speed doubles the braking distance. It quadruples it, for the same braking force.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-practice/) and keep the [revision notes](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-revision-notes/) to hand.
 

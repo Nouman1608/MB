@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ These questions cover OCR GCSE (9-1) Biology A, Gateway Science (J247), Topic B1
 - Naming controlled variables without saying how they are held constant.
 - Saying enzymes are "killed" rather than denatured.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting/).
 - Visit the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and tick off the [checklist](/checklists/ocr/gcse/biology/).

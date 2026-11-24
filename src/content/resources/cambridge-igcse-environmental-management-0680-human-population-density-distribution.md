@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,6 +170,6 @@ The two countries face different pressures: X needs schools and jobs for a growi
 - **Compare**: use comparative words such as "higher", "wider" and "whereas" in each sentence.
 - **Calculate**: give units (people per km²) and round as instructed.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Population density, distribution and structure revision notes](/resources/cambridge-igcse-environmental-management-0680-human-population-density-distribution-revision-notes/), then practise with the [Population density, distribution and structure practice questions](/resources/cambridge-igcse-environmental-management-0680-human-population-density-distribution-practice/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -134,6 +134,6 @@ Examples of shocks:
 
 **Answers:** 1. For example cheaper transport, higher incomes, digital platforms. 2. Push factors encourage people to leave home; pull factors attract them to a destination. 3. Spending that leaves the destination; foreign-owned firms keep the profits. 4. For example cost overruns and displacement. 5. For example hazards and political instability. 6. Neighbouring countries are cheaper and quicker to reach, so flows show distance decay. 7. Something that reduces a flow despite push and pull factors, such as visa restrictions. 8. Leagues sell television rights worldwide, giving clubs global fans and income. 9. The loss of sporting talent from poorer countries to wealthier leagues. 10. For example foreign-owned hotels, imported food and commission paid to international booking firms. 11. 60 per cent leaks: 0.6 x 30,000,000 = 18,000,000. 12. They often depend heavily on tourism with few other industries to fall back on.
 
-## Related resources
+## More resources on this topic
 
 - [Option E: Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/)

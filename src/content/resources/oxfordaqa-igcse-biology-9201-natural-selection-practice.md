@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -120,7 +120,7 @@ For mixed questions, use the [Variation, natural selection and the origin of spe
 - Omitting "fertile offspring" from the end of speciation.
 - Getting the percentage by dividing by the wrong total.
 
-## Next steps
+## More on this topic
 
 - [Natural selection study guide](/resources/oxfordaqa-igcse-biology-9201-natural-selection/)
 - [Variation, natural selection and the origin of species revision notes](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species-revision-notes/)

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm that the unseen poetry question on both Paper 2a and Paper 2b is a single 30-mark question on one poem."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm that the unseen poetry question on both Paper 2a and Paper 2b is a single 30-mark question on one poem. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -205,7 +205,7 @@ the sentence past the break, so the speaker's thought spills over, as if the fee
 because it shows how the poem resolves or refuses to resolve its ideas, and it is often where the
 meaning shifts.
 
-## Related resources
+## More resources on this topic
 
 - [Unseen poetry practice questions](/resources/oxfordaqa-igcse-english-literature-9275-unseen-poetry-practice/)
 - [Poetry and Unseen Texts revision notes](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes/)

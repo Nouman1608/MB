@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -129,7 +129,7 @@ Compare the percentage rise in pay with the rate of inflation, or divide the new
 **What are the common mistakes in Edexcel IGCSE Economics inflation questions?**
 Frequent slips include definitions that miss "general" or "sustained", dividing by the new CPI instead of the old one, reading a CPI of 106.8 as 106.8% inflation, and swapping menu costs with shoe leather costs.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-igcse-economics-inflation-deflation-and-the-cpi/) and the [revision notes](/resources/edexcel-igcse-economics-inflation-deflation-and-the-cpi-revision-notes/).
 - Plan your timing with [exam preparation](/resources/edexcel-igcse-economics-exam-preparation/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -154,7 +154,7 @@ Method → factor → reason from the situation → acceptable drawback. *Exampl
 
 **Can I recommend two methods together?** Yes, if the question allows it and you explain why the combination suits the situation, such as a call followed by a confirming email.
 
-## Next steps
+## More on this topic
 
 Apply these notes in the [communication practice questions](/resources/cambridge-o-level-commerce-7100-communication-7100-commerce-practice/).
 

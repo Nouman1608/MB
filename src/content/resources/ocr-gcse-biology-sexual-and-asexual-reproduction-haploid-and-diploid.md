@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers statements B5.1f, B5.1g and B5.1h (part of "B5.1 Inheritance") of the OCR GCSE (9-1) Biology A Gateway Science specification (J247), Version 4.0, for first assessment in 2018. None of these statements is printed in bold, so none is marked as Higher Tier only. Use it with the [revision notes](/resources/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-revision-notes/) and the [practice questions](/resources/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-practice/). Course links: the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), the [printable checklist](/checklists/ocr/gcse/biology/) and the [free diagnostics](/diagnostics/). Mitosis is explained in [Transport across membranes, mitosis and stem cells](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells/), and the wider course in [Cell Level Systems](/resources/ocr-gcse-biology-cell-level-systems/).
@@ -218,7 +218,7 @@ A fruit fly has 4 pairs of chromosomes. What is the probability that a gamete co
 - Saying that gametes have 23 pairs. They have 23 single chromosomes.
 - Explaining only that fertilisation "adds the numbers". State that the diploid number is **restored**.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-practice/), then check what you know with the [diagnostics](/diagnostics/) and the [checklist](/checklists/ocr/gcse/biology/).
 

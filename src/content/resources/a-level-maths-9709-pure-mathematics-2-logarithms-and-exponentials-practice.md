@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -160,7 +160,7 @@ The logarithm of a number between 0 and 1 is negative, and dividing an inequalit
 **How do you find k and n from a graph of ln y against ln x?**
 For y = kxⁿ, ln y = ln k + n ln x, so the gradient is n and the intercept on the ln y axis is ln k. Then k = e^(intercept).
 
-## Next steps
+## More on this topic
 
 - [Logarithms and exponentials revision notes](/resources/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials-revision-notes/)
 - [Logarithms and exponentials study guide](/resources/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials/)

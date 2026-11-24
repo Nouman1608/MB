@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Proportionalities to remember:
 
 **Answers:** 1. Wave: interference or diffraction; particle: the photoelectric effect. 2. A wave model predicts emission at any frequency if the radiation is intense enough or shines for long enough, but no electrons are emitted below the threshold frequency however intense the light. 3. The wavelength associated with a moving particle, λ = h/p. 4. λ = h/(mv). 5. Its atomic spacing is comparable with the electron wavelength, and a thin layer lets electrons pass through. 6. The tiny crystals have random orientations, so diffracted beams spread around the axis into circles. 7. They get smaller: more momentum, shorter wavelength, smaller diffraction angles. 8. Bring a magnet close; the pattern moves, so it is made by charged particles. 9. λ = 6.63 × 10⁻³⁴ / (9.11 × 10⁻³¹ × 2.0 × 10⁶) = 3.6 × 10⁻¹⁰ m. 10. Increase it by a factor of 4. 11. The electron, because its smaller mass gives smaller momentum. 12. Its momentum is so large that its wavelength is far smaller than any gap or obstacle.
 
-## Related resources
+## More resources on this topic
 
 - [Quantum Physics revision notes](/resources/a-physics-quantum-physics-revision-notes/) — the whole of Topic 22
 - [Wave-particle duality practice questions](/resources/cambridge-a-level-physics-9702-a-wave-particle-duality-practice/)

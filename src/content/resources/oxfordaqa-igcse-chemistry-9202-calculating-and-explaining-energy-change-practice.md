@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ Links: [energy change study guide](/resources/oxfordaqa-igcse-chemistry-9202-cal
 - Calculating formed − broken.
 - Diagrams with no labelled arrows.
 
-## Next steps
+## More on this topic
 
 - Review each method in the [calculating and explaining energy change study guide](/resources/oxfordaqa-igcse-chemistry-9202-calculating-and-explaining-energy-change/).
 - Recheck the equations in the [energy change revision notes](/resources/oxfordaqa-igcse-chemistry-9202-calculating-and-explaining-energy-change-revision-notes/).

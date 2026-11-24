@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -183,7 +183,7 @@ Exactly one pair of sides is parallel, so OABC is a trapezium, and OA is twice a
 - Giving only the positive value of k from a modulus equation.
 - Squaring a negative component as negative inside a modulus.
 
-## Next steps
+## More on this topic
 
 Condense the rules with the [Vectors revision notes](/resources/edexcel-igcse-mathematics-4ma1-vectors-revision-notes/), then try the [Vectors practice questions](/resources/edexcel-igcse-mathematics-4ma1-vectors-practice/). Column vectors for translations are covered in the [Transformation geometry study guide](/resources/edexcel-igcse-mathematics-4ma1-transformation-geometry/).
 

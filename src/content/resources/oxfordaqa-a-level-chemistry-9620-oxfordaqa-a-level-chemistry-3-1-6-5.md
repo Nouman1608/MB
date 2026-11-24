@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ Heterogeneous and homogeneous catalysis, with the Contact process and Haber proc
 - **Sketch** a distribution: axes labelled (energy; number of molecules), one curve from the origin, two Ea lines, and the extra region identified.
 - **Draw** an enthalpy profile: same start and end levels, lower peak (or peaks) for the catalysed route, ΔH and both activation energies labelled with arrows from the reactant level.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.6.5 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-6-5-revision-notes/), then try the [3.1.6.5 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-6-5-practice/). For the other way of increasing the rate without changing energies, revisit [concentration and pressure (3.1.6.4)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-6-4/).
 

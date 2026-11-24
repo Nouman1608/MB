@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ Evaluate each reagent as a way of deciding which iron ion is present. For each, 
 - Writing a metal(III) carbonate as a product or forgetting the effervescence with 3+ ions.
 - Using 1 : 3 instead of 1 : 4 between Al³⁺ and OH⁻ when the precipitate has fully redissolved.
 
-## Next steps
+## More on this topic
 
 - Go back over the ion profiles in the [revision notes](/resources/oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes/).
 - Use the worked examples in the [study guide](/resources/oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution/) for any question you missed.

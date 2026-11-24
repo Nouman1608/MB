@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Sub-topic **C6.2 Organic chemistry** sits in Topic C6 Global challenges of OCR's Chemistry A (Gateway Science) GCSE (9–1) specification, code J248, Version 4.0 (August 2026). This guide teaches outcomes C6.2a to C6.2q, maths outcome CM6.2i and both practical suggestions (use of models; making nylon). Statements C6.2e and C6.2f are **Higher Tier only**; every other statement can be tested on either tier. Topic C6 is assessed on Paper 2 (Foundation) and Paper 4 (Higher).
@@ -343,7 +343,7 @@ Other fuel cells use fuels such as methanol: easier to store as a liquid, but it
 - Drawing an addition polymer with the C=C still in the chain.
 - (Higher Tier) Missing the small molecule in condensation polymerisation.
 
-## Next steps
+## More on this topic
 
 Background reading: the [C2.3 materials guide](/resources/ocr-gcse-chemistry-properties-of-materials/) for allotropes, the [bonding guide](/resources/ocr-gcse-chemistry-bonding/) for intermolecular forces and the [C3.1 reactions guide](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/) for balancing. Then use the [C6.2 revision notes](/resources/ocr-gcse-chemistry-organic-chemistry-revision-notes/) and the [C6.2 practice set](/resources/ocr-gcse-chemistry-organic-chemistry-practice/).
 

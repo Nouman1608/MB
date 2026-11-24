@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches two subtopics of Topic 1 Number in the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027: **1.9 Estimation** and **1.14 Using a calculator**. The Core statements (C1.9, C1.14) and the Extended statements (E1.9, E1.14) are word-for-word the same, so everything on this page applies to both tiers. There is no Extended-only content in these two subtopics.
@@ -309,7 +309,7 @@ Read what the question needs: if 13.08 minibuses are needed, you must round up t
 **How should you write a calculator display such as 4.7E-04?**
 Write it in standard form as 4.7 × 10⁻⁴, and write money with two decimal places, such as $15.30. Copying the calculator notation is not an acceptable final answer.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [estimation and calculator revision notes](/resources/igcse-mathematics-0580-estimation-and-using-a-calculator-revision-notes/).
 - Practise with the [Number practice questions](/resources/igcse-mathematics-number-practice/); Extended candidates can also use the [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -183,7 +183,7 @@ The herd's mean yield rose by 19.2% in three generations, an average of 320 litr
 
 **Answers:** (1) Humans choosing which organisms breed so that useful characteristics are passed on. (2) Any two of: high milk yield, lean meat, fast growth, disease resistance. (3) Each generation only slightly increases how common the useful alleles are. (4) Reduced genetic variation, so a new disease could affect the whole population; or inbreeding causes harmful alleles to appear.
 
-## Next steps
+## More on this topic
 
 Practise with the [selective breeding practice questions](/resources/edexcel-igcse-biology-4bi1-selective-breeding-practice/) and revise with the [selective breeding revision notes](/resources/edexcel-igcse-biology-4bi1-selective-breeding-revision-notes/). The next sub-topic is [genetic modification](/resources/edexcel-igcse-biology-4bi1-genetic-modification/).
 

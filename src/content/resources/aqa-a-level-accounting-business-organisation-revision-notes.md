@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -171,7 +171,7 @@ Taking on a partner brings extra capital but liability stays unlimited. Converti
 **What governs a partnership with no written agreement?**
 Where partners have not drawn up their own written agreement, the Partnership Act 1890 applies by default.
 
-## Related resources
+## More resources on this topic
 
 [Types of Business Organisation study guide](/resources/a-level-aqa-accounting-types-of-business-organisation/) |
 [Types of Business Organisation practice questions](/resources/aqa-a-level-accounting-business-organisation-practice/)

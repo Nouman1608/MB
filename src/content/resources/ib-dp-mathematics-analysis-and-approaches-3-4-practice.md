@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ This set covers **section 3.4** (SL and HL) of IB DP Mathematics: Analysis and A
 - Not justifying the rejection of an impossible solution.
 - Rounding θ early, which shifts the segment area in the third figure.
 
-## Next steps
+## More on this topic
 
 - Re-read the reverse-use and segment sections of the [radian measure study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-4/).
 - Move on to the [unit circle definitions practice set](/resources/ib-dp-mathematics-analysis-and-approaches-3-5-practice/).

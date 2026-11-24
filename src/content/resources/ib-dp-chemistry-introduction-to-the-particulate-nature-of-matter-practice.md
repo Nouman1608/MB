@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Use the data given in each question. Give kelvin values using T/K = T/°C + 273.
 - Working out kinetic energy ratios from Celsius values.
 - Writing °K, or reporting a negative kelvin value.
 
-## Next steps
+## More on this topic
 
 - Go back over weak areas in the [Structure 1.1 revision notes](/resources/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter-revision-notes/).
 - Reread full explanations in the [Structure 1.1 study guide](/resources/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter/).

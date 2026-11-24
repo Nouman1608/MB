@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -245,7 +245,7 @@ posts = 146 ÷ 2 = 73
 - **Show that**: finish the working on the stated value.
 - Check the size: a trapezium's area is between the areas of two rectangles built on its parallel sides with the same height.
 
-## Next steps
+## More on this topic
 
 Work through the [area and perimeter practice questions](/resources/cambridge-o-level-mathematics-4024-area-and-perimeter-practice/) and recap with the [area and perimeter revision notes](/resources/cambridge-o-level-mathematics-4024-area-and-perimeter-revision-notes/).
 

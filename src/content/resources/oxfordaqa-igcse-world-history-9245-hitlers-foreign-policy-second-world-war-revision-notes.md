@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,6 +167,6 @@ featured: false
 11. It removed the threat of a war on two fronts, and it secretly divided Poland.
 12. Germany's invasion of the USSR (June) and Japan's attack on Pearl Harbor (December).
 
-## Next steps
+## More on this topic
 
 Try the [Hitler's foreign policy practice questions](/resources/oxfordaqa-igcse-world-history-9245-hitlers-foreign-policy-second-world-war-practice/).

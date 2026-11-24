@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ matrix         P   R   S          list
 11. 6 × 5 ÷ 2 = 15.
 12. Pages can link in cycles and be linked from many pages; a tree has no cycles and a rooted tree gives each node one parent.
 
-## Related resources
+## More resources on this topic
 
 - [Graphs study guide](/resources/aqa-a-level-computer-science-7517-graphs/)
 - [Graphs practice questions](/resources/aqa-a-level-computer-science-7517-graphs-practice/)

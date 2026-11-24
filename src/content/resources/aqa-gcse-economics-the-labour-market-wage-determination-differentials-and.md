@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **section 3.1.5.4, The labour market**, in AQA's GCSE Economics (8136) specification, which was first taught from September 2017. It sits inside 3.1.5, Competitive and concentrated markets, which belongs to Paper 1, How markets work. The specification has no tiers, so everything here is for every candidate. All places, firms and figures are invented for practice. For fast recall, turn to the [revision notes](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-revision-notes/), and then try the [practice questions](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-practice/). To plan your revision, see the [course hub](/boards/aqa/gcse/economics/), the [printable checklist](/checklists/aqa/gcse/economics/) and the [free diagnostics](/diagnostics/).
@@ -225,7 +225,7 @@ Experience and seniority, performance, extra qualifications or responsibility, a
 **What shifts the supply of labour to a job?**
 The number of people with the skills, pay and conditions in other jobs, the qualifications or risk involved, and non-wage benefits such as hours and holidays.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [revision notes](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-revision-notes/), practise with the [practice questions](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-practice/), and take a [free 10-minute diagnostic](/diagnostics/).
 

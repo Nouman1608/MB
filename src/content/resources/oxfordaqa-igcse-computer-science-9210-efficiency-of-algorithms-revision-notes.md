@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ conclusion with its condition.
 9. If a pass makes no swaps, the list is already in order, so further passes are unnecessary.
 10. No. Formal comparisons are not required.
 
-## Related resources
+## More resources on this topic
 
 - [Efficiency of algorithms study guide](/resources/oxfordaqa-igcse-computer-science-9210-efficiency-of-algorithms/)
 - [Efficiency of algorithms practice questions](/resources/oxfordaqa-igcse-computer-science-9210-efficiency-of-algorithms-practice/)

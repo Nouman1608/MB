@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ Scarcity is the basic economic problem of limited resources compared with unlimi
 **How do you evaluate a choice using sustainability?**
 Say which type of sustainability you mean, economic, social or environmental, and apply it to the context in the question, then weigh costs and benefits to reach a judgement.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and/)
 - Go to the [course hub](/boards/ocr/gcse/economics/) and the [checklist](/checklists/ocr/gcse/economics/)

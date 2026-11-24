@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ No. A country with an old population can have many deaths each year even with ex
 **How do you read a population pyramid in an exam answer?**
 Compare the base (the young), the middle (the working-age group) and the top (the old), and quote the figures. A description that does not read all three loses marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-o-level-economics-population/) and the [revision notes](/resources/cambridge-o-level-economics-population-revision-notes/).
 - Go to the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and use the [printable checklist](/checklists/cambridge/o-level/economics/).

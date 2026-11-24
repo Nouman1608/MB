@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ When a bicycle pump outlet is blocked and the handle is pushed in quickly, the a
 - **Explain** (a temperature change): name which of q and W is zero or small, deduce the sign of ΔU, then link ΔU to the mean kinetic energy of the molecules.
 - **Complete the table**: fill W first, then ΔU, then q, and check that ΔU sums to zero round a cycle.
 
-## Related resources
+## More resources on this topic
 
 - [Thermodynamics study guide](/resources/a-physics-thermodynamics/) — the whole of Topic 16
 - [First law revision notes](/resources/cambridge-a-level-physics-9702-a-the-first-law-of-thermodynamics-revision-notes/)

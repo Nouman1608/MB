@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Revise first with the [study guide](/resources/ib-dp-physics-first-law-of-thermo
 - Explaining a temperature change without naming the energy transfer (work or heat) that causes it.
 - Saying Q and W are the same for any route between two states.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work-revision-notes/) and the [study guide](/resources/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work/).
 - Go to the [IB DP Physics course page](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -214,7 +214,7 @@ Explain why Sam is wrong, and give the prime factorisation of 60. **[2]**
 - Adding minutes to a clock time as if there were 100 minutes in an hour.
 - Not showing lists when the question says "by listing".
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [1.02 revision notes](/resources/ocr-gcse-mathematics-j560-whole-number-theory-revision-notes/).
 - Re-read the Venn diagram and reverse-problem examples in the [1.02 study guide](/resources/ocr-gcse-mathematics-j560-whole-number-theory/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -120,7 +120,7 @@ For a charged capacitor joined to an identical uncharged one, the p.d. halves an
 
 **Answers:** 1. The energy stored (work done in charging the capacitor). 2. The p.d. rises from 0 to V while the charge is added, so the average p.d. is V/2; the area under the straight-line graph is a triangle, ½QV. 3. W = Q²/(2C). 4. ½ × 47 × 10⁻⁶ × 225 = 5.3 × 10⁻³ J. 5. × 9. 6. C = 2W/V² = 1.0/625 = 1.6 × 10⁻³ F. 7. ½ × 330 × 10⁻⁶ × (144 − 36) = 0.018 J. 8. One quarter. 9. ½ × 4.0 × 10⁻³ × 8.0 = 0.016 J. 10. Supply does QV = 0.018 J; stored ½QV = 0.009 J; dissipated 0.009 J (9.0 mJ). 11. Q = 2.0 × 10⁻³ C on 100 μF, so V = 20 V; W = ½ × 100 × 10⁻⁶ × 400 = 0.020 J (half the original 0.040 J). 12. W = Q²/(2C), so it doubles.
 
-## Related resources
+## More resources on this topic
 
 - [Capacitance revision notes](/resources/a-physics-capacitance-revision-notes/) — the whole of Topic 19
 - [Energy stored in a capacitor practice questions](/resources/cambridge-a-level-physics-9702-a-energy-stored-in-a-capacitor-practice/)

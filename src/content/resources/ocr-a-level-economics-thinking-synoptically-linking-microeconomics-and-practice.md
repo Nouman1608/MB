@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ One very high value pulls the mean up, so when data are skewed the median gives 
 **How do you link micro and macro in a synoptic answer?**
 Trace a chain from a change in one market, such as a cost or price change, through to whole-economy effects such as the multiplier, inflation or employment, and explain each link rather than writing a list of effects.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and-revision-notes/) and [study guide](/resources/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and/).
 - Return to the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [printable checklist](/checklists/ocr/a-level/economics/).

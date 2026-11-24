@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -193,7 +193,7 @@ Say what it means for the decision: a positive net present value means the proje
 **Is all of a TNC's profit lost to the host country?**
 No. Tax paid locally stays in the country, and in a joint venture the local partner keeps its share of the profit.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-market-orientated-and-interventionist-development-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-market-orientated-and-interventionist-development/).
 - Visit the [Edexcel economics hub](/boards/edexcel/a-level/economics/) and tick off the [printable checklist](/checklists/edexcel/a-level/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ In Year 2, the market sold 9 million bags, of which Brewhurst sold 1.8 million. 
 * Dismissing product orientation without considering the market.
 * HL leadership answers that list benefits with no limits or judgement.
 
-## Next steps
+## More on this topic
 
 * Review the [4.1 study guide](/resources/ib-dp-business-4-1/).
 * Re-read the [4.1 revision notes](/resources/ib-dp-business-4-1-revision-notes/).

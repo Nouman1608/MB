@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -266,7 +266,7 @@ function setTheme() {
 - Attaching events to the wrong element, or calling a function that is never written.
 - Using CSS property names (`background-color`, `font-size`) in JavaScript.
 
-## Next steps
+## More on this topic
 
 - Revise with the [Programming for the web revision notes](/resources/a-level-cambridge-ict-programming-for-the-web-revision-notes/).
 - Go back to the [Programming for the web study guide](/resources/a-level-cambridge-ict-programming-for-the-web/) for full explanations.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ Why it scores: every sentence names an organ **and** a process, and the organs a
 - **Define**: give the syllabus wording; a definition of absorption must say "from the intestines into the blood".
 - In sequence questions, write organs in the order food meets them.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [digestive system revision notes](/resources/cambridge-igcse-biology-0610-digestive-system-revision-notes/).
 - Marked questions: [digestive system practice questions](/resources/cambridge-igcse-biology-0610-digestive-system-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ No. Revenue is price times quantity, while profit also depends on costs. In a qu
 **How should you apply a determinant of PED in an answer?**
 Link the factor to the product named in the question, for example explaining which close substitutes buyers could switch to. Naming a determinant in general terms earns less credit.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants/).
 - Go to the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and the [checklist](/checklists/cambridge/o-level/economics/).

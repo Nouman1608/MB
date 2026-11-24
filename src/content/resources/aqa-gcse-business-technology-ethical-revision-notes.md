@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -159,7 +159,7 @@ Technology and ethics/environment are two of **six** named external influences i
 - Name the four named environmental impact areas.
 - Explain why "trade-off" is the key word this content is actually testing.
 
-## Related resources
+## More resources on this topic
 
 - [Technology and Ethical/Environmental Considerations study guide](/resources/gcse-aqa-business-technology-and-ethical-considerations/)
 - [Technology and Ethical/Environmental Considerations practice questions](/resources/aqa-gcse-business-technology-ethical-practice/)

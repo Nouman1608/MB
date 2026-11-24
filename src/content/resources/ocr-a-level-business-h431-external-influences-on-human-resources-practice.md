@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -132,7 +132,7 @@ Judgement: choose one, such as economic influences, as the most important becaus
 - Treating influences as threats only.
 - Not choosing one influence as most important when asked.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-external-influences-on-human-resources/) for any gaps.
 - Try the [human resources strategy practice questions](/resources/ocr-a-level-business-h431-human-resources-strategy-practice/).

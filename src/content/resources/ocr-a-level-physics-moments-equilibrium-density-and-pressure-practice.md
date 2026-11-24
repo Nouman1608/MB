@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -155,7 +155,7 @@ Include atmospheric pressure when the question asks for the total pressure, and 
 **How do you describe the centre of gravity experiment for full marks?**
 Say that the card hangs freely from a pin with a plumb line, and that lines drawn from three holes meet at the centre of gravity. Leaving out that the card hangs freely is a common reason for lost marks.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-a-level-physics-moments-equilibrium-density-and-pressure-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-moments-equilibrium-density-and-pressure/).
 - Return to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick items off the [checklist](/checklists/ocr/a-level/physics/).

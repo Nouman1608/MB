@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -196,7 +196,7 @@ CH₂=CHCH₂CH₂C(OH)(CH₃)₂** [1]: the OH carbon carries three carbon grou
 - Calling the very broad 2500–3000 cm⁻¹ band an alcohol O–H.
 - Describing the fingerprint region without comparing it with reference spectra.
 
-## Next steps
+## More on this topic
 
 - [This topic's revision notes](/resources/oxfordaqa-a-level-chemistry-organic-analysis-revision-notes/)
 - [This topic's study guide](/resources/oxfordaqa-a-level-chemistry-organic-analysis/)

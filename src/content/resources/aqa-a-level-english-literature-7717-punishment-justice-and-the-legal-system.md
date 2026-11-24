@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ When a question uses "justice", "punishment" or "order", define the term in your
 three kinds of justice to organise paragraphs. In Section C, compare a text in which justice is legal
 with one in which it is private or divine.
 
-## Related resources
+## More resources on this topic
 
 - [Punishment and justice revision notes](/resources/aqa-a-level-english-literature-7717-punishment-justice-and-the-legal-system-revision-notes/)
 - [Punishment and justice practice questions](/resources/aqa-a-level-english-literature-7717-punishment-justice-and-the-legal-system-practice/)

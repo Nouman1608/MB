@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ These questions cover learning outcomes 6.2.1(e) to 6.2.1(i) of the OCR A Level 
 - Calling a control "the same" without saying what it contains.
 - Stating that immobilised enzymes always work faster, with no mention of diffusion.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes-revision-notes/) for any weak parts.
 - Go back to the [study guide](/resources/ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes/) for full worked examples.

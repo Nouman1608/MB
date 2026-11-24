@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ These questions cover sections 3.1.4.1 to 3.1.4.3 of the OxfordAQA *Internationa
 - Evaluating without using the figures given.
 - Omitting a final judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive/).
 - Hub: [OxfordAQA A-level Economics](/boards/oxfordaqa/a-level/economics/); [checklist](/checklists/oxfordaqa/a-level/economics/).

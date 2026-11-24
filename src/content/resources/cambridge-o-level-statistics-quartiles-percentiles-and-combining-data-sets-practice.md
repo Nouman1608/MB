@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Use n for a total frequency and take the target positions as n/4, n/2, 3n/4 and 
 - Comparing two data sets with no figures, or comparing without naming both an average and a spread.
 - Quoting a graph or interpolation estimate to far more figures than the data supports.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-revision-notes/) for the formulas and distinctions.
 - Go back to the [study guide](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets/) for any method you missed.

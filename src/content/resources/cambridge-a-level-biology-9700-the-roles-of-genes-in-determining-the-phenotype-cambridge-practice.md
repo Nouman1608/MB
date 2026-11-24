@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ D: 15 **[1]**
 - In the HBB chain, missing the amino acid change or the low-oxygen condition.
 - Confusing the probability of "a son with haemophilia" with "a son having haemophilia, given the child is a son".
 
-## Next steps
+## More on this topic
 
 - [16.2 study guide](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge/)
 - [16.2 revision notes](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge-revision-notes/)

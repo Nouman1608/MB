@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ No. Part of a tax cut is saved or spent on imports, so only the part spent at ho
 **How should I finish a fiscal policy evaluation?**
 End with a judgement tied to a condition, such as how much spare capacity there is, rather than a summary.
 
-## Next steps
+## More on this topic
 
 - Go back over the [revision notes](/resources/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the-revision-notes/) and [study guide](/resources/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the/).
 - Use the [course hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/) to plan what to revise next.

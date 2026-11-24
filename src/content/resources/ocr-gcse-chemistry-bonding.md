@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sub-topic **C2.2 Bonding** (statements C2.2a to C2.2i, plus the mathematical learning outcomes CM2.2i to CM2.2iii) from Topic C2 of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018. None of the C2.2 statements is Higher Tier only, so all of it is assessed on both tiers. The specification says Paper 1 (Foundation) and Paper 3 (Higher) assess Topics C1–C3 and C7, and Papers 2 and 4 assume knowledge of C1–C3.
@@ -310,7 +310,7 @@ Later work showed that atomic number (proton number) is the true ordering princi
 - Drawing a lone pair inside a shared region.
 - Claiming that melting a simple molecular solid splits its molecules into atoms; it is the weak attractions between molecules that are overcome.
 
-## Next steps
+## More on this topic
 
 After this guide, go to the revision notes and then the practice set (both linked in the opening section). The [purity and separating mixtures guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/) covers C2.1, and the [J248 exam preparation page](/resources/ocr-gcse-chemistry-exam-preparation/) covers the whole course. The [diagnostics](/diagnostics/) show what still needs work.
 

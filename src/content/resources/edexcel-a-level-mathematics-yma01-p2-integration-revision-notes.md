@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ These notes condense section 8 of Unit P2 (Pearson Edexcel International Advance
 
 **11.** Roots x = ±2: ∫₋₂² (4 − x²) dx = (8 − 8/3) − (−8 + 8/3) = 32/3.
 
-## Related resources
+## More resources on this topic
 
 - [P2 integration study guide](/resources/edexcel-a-level-mathematics-yma01-p2-integration/)
 - [P2 integration practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-integration-practice/)

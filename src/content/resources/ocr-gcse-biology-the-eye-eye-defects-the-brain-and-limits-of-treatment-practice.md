@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Biology A (J247)* spe
 - Giving only a vague ethical remark such as "it is not fair".
 - Writing that nervous tissue can never be repaired, rather than that repair is limited.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment/).
 - Tick off statements on the [printable checklist](/checklists/ocr/gcse/biology/) and visit the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/).

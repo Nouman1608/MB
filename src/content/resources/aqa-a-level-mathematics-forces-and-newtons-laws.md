@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section R: Forces and Newton's laws (R1 to R6)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section R under **Paper 2**, alongside vectors, quantities and units, kinematics and moments. A calculator is required in every 7357 paper. Take g = 9.8 m s⁻² throughout unless a question says otherwise, and give answers to 3 significant figures where they are not exact.
@@ -275,7 +275,7 @@ Assume a light inextensible string and smooth pulley, so the tension is the same
 **What is the coefficient of friction?**
 It is the constant μ in the friction model F ≤ μR, where R is the normal reaction. A smooth surface is the model with μ = 0.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [Forces and Newton's laws revision notes](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes/).
 - Test yourself: [Forces and Newton's laws practice questions](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-practice/).

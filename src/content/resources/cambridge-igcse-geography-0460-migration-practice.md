@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Destination benefits: labour shortages are filled, for example in construction o
 - Describing data without quoting figures for each country.
 - Case studies with no named countries, dates or numbers.
 
-## Next steps
+## More on this topic
 
 - Re-read the [Migration study guide](/resources/cambridge-igcse-geography-0460-migration/) for any question you found hard.
 - See how migration shapes pyramids in the [Population Structure study guide](/resources/cambridge-igcse-geography-0460-population-structure/).

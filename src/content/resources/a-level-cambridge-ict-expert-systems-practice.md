@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ A volunteer enters: six legs; hard wing cases; black wing cases.
 - Giving data driven and goal driven definitions with no example from the context in the question.
 - Writing generic advantages ("it is fast") with no link to the scenario.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [revision notes](/resources/a-level-cambridge-ict-expert-systems-revision-notes/)
 - Re-read the [study guide](/resources/a-level-cambridge-ict-expert-systems/) for full explanations

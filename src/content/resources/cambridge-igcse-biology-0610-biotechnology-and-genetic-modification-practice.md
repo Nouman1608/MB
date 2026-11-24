@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ D: they are made of protein and carry no genes
 - Writing "no ethical concerns" instead of "few".
 - Forgetting the link from asexual reproduction to genetically identical offspring.
 
-## Next steps
+## More on this topic
 
 - Recap with the [section 21.1 revision notes](/resources/cambridge-igcse-biology-0610-biotechnology-and-genetic-modification-revision-notes/).
 - Reread the [section 21.1 study guide](/resources/cambridge-igcse-biology-0610-biotechnology-and-genetic-modification/).

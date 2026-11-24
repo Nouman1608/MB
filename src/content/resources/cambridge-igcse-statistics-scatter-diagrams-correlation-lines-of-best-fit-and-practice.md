@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ These questions cover Topic 11, Bivariate distributions, of the Cambridge IGCSE 
 - Giving an extrapolated estimate with no comment, or not noticing when it is impossible.
 - Giving a gradient meaning with no units or no context.
 
-## Next steps
+## More on this topic
 
 - Review the unit in the [revision notes](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-revision-notes/) and the [study guide](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and/).
 - See the [Cambridge IGCSE Statistics hub](/boards/cambridge/igcse/statistics/) and the [printable checklist](/checklists/cambridge/igcse/statistics/).

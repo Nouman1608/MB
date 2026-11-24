@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Lattice energy of BaCl₂ = −2056; ΔhydH(Ba²⁺) = −1341; ΔhydH(Cl⁻) = 
 - Explaining covalent character without mentioning polarisation of the anion by the cation.
 - Giving the Group 2 solubility trends without comparing changes in both lattice and hydration enthalpies.
 
-## Next steps
+## More on this topic
 
 - Recap the definitions with the [lattice energy revision notes](/resources/edexcel-ial-chemistry-lattice-energy-revision-notes/).
 - Reread any weak area in the [lattice energy study guide](/resources/edexcel-ial-chemistry-lattice-energy/).

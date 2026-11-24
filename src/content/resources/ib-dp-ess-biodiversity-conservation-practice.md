@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Simpson's reciprocal index: D = N(N − 1) / Σn(n − 1)
 - Skipping "gene flow stops" in speciation answers.
 - Describing a data trend without quoting figures from the table.
 
-## Next steps
+## More on this topic
 
 - Recap with the [biodiversity and conservation revision notes](/resources/ib-dp-ess-biodiversity-conservation-revision-notes/).
 - Re-learn weak areas in the [biodiversity and conservation study guide](/resources/ib-dp-ess-biodiversity-conservation/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ Give answers as exact fractions or as decimals to 3 significant figures unless t
 - Giving a "show that" answer that jumps from the setup to the result.
 - Writing an explanation that restates the answer instead of pointing to what changed between the first and second pick.
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/cambridge-o-level-statistics-independent-events-and-selection-with-or-without-revision-notes/) for the rules in one place.
 - Read the [study guide](/resources/cambridge-o-level-statistics-independent-events-and-selection-with-or-without/) for the full worked examples.

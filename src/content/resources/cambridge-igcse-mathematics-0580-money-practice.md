@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ Convert into the currency both rates share, keep the full calculator value, then
 **Does the order of a commission and an exchange matter?**
 For a percentage commission the result is the same. For a fixed fee, take the fee off in the currency it is charged in, before converting.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [money study guide](/resources/cambridge-igcse-mathematics-0580-money/).
 - Discount and interest questions: the [percentages practice questions](/resources/cambridge-igcse-mathematics-0580-percentages-practice/).

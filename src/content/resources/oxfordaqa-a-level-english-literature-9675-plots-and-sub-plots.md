@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ question about structure to use it. Prepare, from memory, one mirror moment, one
 one convergence moment for your play, each with a short quotation. Keep the sub-plot to a paragraph
 or two in a 25-mark answer: the printed passage must stay at the centre.
 
-## Related resources
+## More resources on this topic
 
 - [Plots and sub-plots revision notes](/resources/oxfordaqa-a-level-english-literature-9675-plots-and-sub-plots-revision-notes/)
 - [Plots and sub-plots practice questions](/resources/oxfordaqa-a-level-english-literature-9675-plots-and-sub-plots-practice/)

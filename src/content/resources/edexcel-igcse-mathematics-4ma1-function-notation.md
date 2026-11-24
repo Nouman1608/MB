@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ A useful property: ff⁻¹(x) = f⁻¹f(x) = x. Applying a function and then its
 - **"Solve fg(x) = ..."**: form the composite first, then solve the equation.
 - Check an inverse with a number: pick an input, apply f, then apply your f⁻¹.
 
-## Next steps
+## More on this topic
 
 Revise from the [function notation revision notes](/resources/edexcel-igcse-mathematics-4ma1-function-notation-revision-notes/), then try the [function notation practice questions](/resources/edexcel-igcse-mathematics-4ma1-function-notation-practice/). Transformations such as y = f(x + a) use the same notation and are covered in the [graphs study guide](/resources/edexcel-igcse-mathematics-4ma1-graphs/).
 

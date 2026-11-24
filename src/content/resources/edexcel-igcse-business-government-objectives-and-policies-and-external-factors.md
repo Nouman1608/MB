@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1, section 1.6 "Government objectives and policies" (1.6.1 to 1.6.3) and section 1.7 "External factors" (1.7.1). The specification says both Paper 1 (small businesses, up to 49 employees) and Paper 2 (large businesses, more than 250 employees) can draw on the whole content, so expect this material in either paper, applied to a business in the question.
@@ -221,7 +221,7 @@ If it raises the price by 0.30 it protects its margin but may lose price-sensiti
 - Treating the government as separate from the business environment, instead of as a stakeholder that sets rules.
 - Percentage points confused with percentages (3 points versus a 60% rise).
 
-## Next steps
+## More on this topic
 
 Condense the key terms with the [revision notes](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/), or find weak spots with the [free diagnostics](/diagnostics/).
 

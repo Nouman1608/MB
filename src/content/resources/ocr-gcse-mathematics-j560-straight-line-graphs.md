@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ The tangent crosses the x-axis at (−10, 0).
 - **Show that** lines are parallel or perpendicular: show both gradients and state the conclusion.
 - **Show that** a point lies on a line: substitute and state that the two sides agree.
 
-## Next steps
+## More on this topic
 
 - Condense the methods with the [straight line graphs revision notes](/resources/ocr-gcse-mathematics-j560-straight-line-graphs-revision-notes/).
 - Test yourself with the [straight line graphs practice questions](/resources/ocr-gcse-mathematics-j560-straight-line-graphs-practice/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Learn it first: [pH curves study guide](/resources/oxfordaqa-a-level-chemistry-9
 - Giving pH = pKa at the equivalence point instead of at half-equivalence.
 - Justifying an indicator without stating that its whole range lies within the vertical section.
 
-## Next steps
+## More on this topic
 
 - [pH curves study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-5/)
 - [pH curves revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-5-revision-notes/)

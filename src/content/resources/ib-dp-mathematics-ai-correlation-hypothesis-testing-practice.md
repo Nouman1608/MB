@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -215,7 +215,7 @@ A pooled two-sample t-test is used, at the 5% level, to test whether the mean re
 - Writing "accept H₀", or stopping at "reject H₀" with no sentence in context.
 - Selecting the wrong tail on the GDC for a t-test.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-dp-mathematics-ai-correlation-hypothesis-testing-revision-notes/) for this unit.
 - [Study guide](/resources/ib-dp-mathematics-ai-correlation-hypothesis-testing/) with full worked examples.

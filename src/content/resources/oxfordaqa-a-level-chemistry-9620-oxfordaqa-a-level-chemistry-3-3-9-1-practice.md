@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -220,7 +220,7 @@ D: ethanoic acid and ethanol
 - Giving the free acid as an alkaline hydrolysis product.
 - Saying the catalyst shifts the esterification equilibrium.
 
-## Next steps
+## More on this topic
 
 - Recap the facts: [carboxylic acids and esters revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-9-1-revision-notes/)
 - Move on: [acylation practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-9-2-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,7 +185,7 @@ Learn the methods first in the [sets study guide](/resources/igcse-mathematics-0
 - Forgetting the outside region when checking a total.
 - (Extended) Using ∈ between two sets, or writing {0} for the empty set.
 
-## Next steps
+## More on this topic
 
 - Recheck notation in the [sets revision notes](/resources/cambridge-igcse-mathematics-0580-sets-revision-notes/).
 - Mixed Topic 1 questions: [Number practice questions](/resources/igcse-mathematics-number-practice/) and [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ No. 2⁻³ = 1/2³ = 1/8, which is positive. A negative index makes a reciprocal
 **Do I need to know fractional indices for Core?**
 No. Fractional indices are in the Extended statement E1.7 only.
 
-## Next steps
+## More on this topic
 
 - Worked examples: [Indices I study guide](/resources/cambridge-igcse-mathematics-0580-indices-i/).
 - Practice: [Indices I practice questions](/resources/cambridge-igcse-mathematics-0580-indices-i-practice/).

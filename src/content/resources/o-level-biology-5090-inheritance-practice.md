@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ Correct parental genotypes XX and XY [1]; gametes X from the mother, X or Y from
 - Describing natural selection as organisms deciding to change.
 - Leaving "repeat over many generations" out of artificial selection.
 
-## Next steps
+## More on this topic
 
 - Go back over weak points with the [revision notes](/resources/o-level-biology-5090-inheritance-revision-notes/) and the [study guide](/resources/o-level-biology-5090-inheritance/).
 - Link mutation back to protein shape in [Enzymes](/resources/enzymes-practice/), and antibiotic resistance to [Disease and immunity](/resources/o-level-biology-5090-disease-and-immunity-practice/).

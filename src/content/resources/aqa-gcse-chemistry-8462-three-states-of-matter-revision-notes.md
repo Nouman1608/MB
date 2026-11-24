@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -151,7 +151,7 @@ The model shows particles as solid spheres with no forces between them. The limi
 10. A real atom is not a solid sphere; it has a nucleus and electrons and is mostly empty space.
 11. The model has no forces, so it cannot show how strong the forces between particles are.
 
-## Next steps
+## More on this topic
 
 - [Three states of matter study guide](/resources/aqa-gcse-chemistry-8462-three-states-of-matter/)
 - [Three states of matter practice questions](/resources/aqa-gcse-chemistry-8462-three-states-of-matter-practice/)

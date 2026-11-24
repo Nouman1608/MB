@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -198,7 +198,7 @@ Non-current assets 12,000 [1]; trade receivables net of allowance 5,035 [1]; cur
 - Charging the full allowance rather than its increase.
 - Calculating reducing balance depreciation on cost.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/igcse-accounting-incomplete-records-revision-notes/) and [study guide](/resources/igcse-accounting-incomplete-records/)
 - [Topic 5 practice questions](/resources/igcse-accounting-financial-statements-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -223,7 +223,7 @@ Because Paper 1 is closed book, revision should build recall you can rely on:
   <figcaption>Tagged quotations, a timeline and timed paragraphs build reliable recall.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Prose fiction revision notes](/resources/oxfordaqa-igcse-english-literature-9275-prose-fiction-revision-notes/)
 - [Prose fiction practice questions](/resources/oxfordaqa-igcse-english-literature-9275-prose-fiction-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -174,7 +174,7 @@ Conventions:
 - **Draw on the isometric grid**: follow the three directions; the examiner checks lengths and visible edges.
 - **Work out the number of cubes** or **faces, edges, vertices**: show the counting method, for example n + 2 faces for a prism.
 
-## Next steps
+## More on this topic
 
 - Condense the facts with the [three-dimensional shapes revision notes](/resources/ocr-gcse-mathematics-j560-three-dimensional-shapes-revision-notes/).
 - Test yourself with the [three-dimensional shapes practice questions](/resources/ocr-gcse-mathematics-j560-three-dimensional-shapes-practice/).

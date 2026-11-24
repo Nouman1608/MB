@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Evaluate which customer is the safer choice for the supplier. **[8]**
 - Commenting without figures from the question.
 - Giving reasons that conflict with the data.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-accounting-accounting-ratios-revision-notes/) and the [study guide](/resources/edexcel-igcse-accounting-accounting-ratios/).
 - Course hub: [4AC1 Accounting](/boards/edexcel/igcse/accounting/) and the [printable checklist](/checklists/edexcel/igcse/accounting/).

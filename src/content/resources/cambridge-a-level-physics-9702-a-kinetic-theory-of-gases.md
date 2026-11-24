@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ c_r.m.s. = √(2E_k / m) = √(2 × 6.21 × 10⁻²¹ / 6.64 × 10⁻²⁷) = 1.
 - **Calculate**: use m = M/N_A for one molecule; T in kelvin; c_r.m.s. = √⟨c²⟩.
 - **Compare** (two gases at the same temperature): equal mean kinetic energy; r.m.s. speeds in the inverse ratio of the square roots of the molecular masses.
 
-## Related resources
+## More resources on this topic
 
 - [Ideal Gases study guide](/resources/a-physics-ideal-gases/) — the whole of Topic 15
 - [Kinetic theory of gases revision notes](/resources/cambridge-a-level-physics-9702-a-kinetic-theory-of-gases-revision-notes/)

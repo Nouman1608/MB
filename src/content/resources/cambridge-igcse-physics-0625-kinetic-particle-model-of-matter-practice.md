@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -149,6 +149,6 @@ Related: [study guide on the kinetic particle model of matter](/resources/cambri
 - Describing what is seen in a smoke cell without the words "random" or "jerky".
 - *(Extended)* Saying particles move faster when a gas is compressed at constant temperature.
 
-## Next steps
+## More on this topic
 
 Revisit the [study guide on the kinetic particle model of matter](/resources/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter/), then try the [practice questions on thermal properties and temperature](/resources/cambridge-igcse-physics-0625-thermal-properties-and-temperature-practice/).

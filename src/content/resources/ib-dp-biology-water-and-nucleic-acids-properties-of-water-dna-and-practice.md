@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Two species gave these base percentages: species W had A 31.2, T 31.0, G 18.9, C
 - Using the wrong total when converting counts to a percentage.
 - Claiming that experimental data prove a conclusion rather than support it.
 
-## Next steps
+## More on this topic
 
 - Reread the [study guide](/resources/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and/) for any question you missed.
 - Use the [revision notes](/resources/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and-revision-notes/) for a final recap.

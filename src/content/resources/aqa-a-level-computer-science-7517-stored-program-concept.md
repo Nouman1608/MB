@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -135,7 +135,7 @@ The stored program concept is the defining idea behind the von Neumann model. A 
 - For **"explain one advantage"**, link the advantage to the cause: for example "programs can be changed by loading new instructions, so one machine can do many jobs".
 - If a question gives a binary pattern, use the question's table to interpret it, and do not assume it is an instruction.
 
-## Related resources
+## More resources on this topic
 
 - [Stored program concept revision notes](/resources/aqa-a-level-computer-science-7517-stored-program-concept-revision-notes/)
 - [Stored program concept practice questions](/resources/aqa-a-level-computer-science-7517-stored-program-concept-practice/)

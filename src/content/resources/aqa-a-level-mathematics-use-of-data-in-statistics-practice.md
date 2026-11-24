@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -245,7 +245,7 @@ Say where the vertical axis starts and show, with figures, how that exaggerates 
 **Should you remove an outlier from a data set?**
 Only if it is an error. A genuine extreme value belongs in the data, so keep it and use measures such as the median and IQR that are less affected by it.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Use of data revision notes](/resources/aqa-a-level-mathematics-use-of-data-in-statistics-revision-notes/).
 - Reread the [Use of data study guide](/resources/aqa-a-level-mathematics-use-of-data-in-statistics/).

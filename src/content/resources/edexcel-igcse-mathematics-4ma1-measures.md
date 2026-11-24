@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -215,7 +215,7 @@ The same force on a smaller area gives a greater pressure.
 - Reading the inner protractor scale when the angle starts on the outer zero.
 - Mixing units, such as a mass in kg with a volume in cm³.
 
-## Next steps
+## More on this topic
 
 Condense the formulae with the [Measures revision notes](/resources/edexcel-igcse-mathematics-4ma1-measures-revision-notes/), then try the [Measures practice questions](/resources/edexcel-igcse-mathematics-4ma1-measures-practice/). Money and metric unit problems from section 1.10 are in the [Applying number and electronic calculators study guide](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators/).
 

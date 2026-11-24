@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,7 +160,7 @@ The strong paragraphs follow the pattern: specific event, what it shows, effect 
 - **Ignoring the collaborative experience** when reflecting on personal views.
 - **Going over 800 words**: plan to the limit from the start.
 
-## Next steps
+## More on this topic
 
 Condense this with the [reflective paper revision notes](/resources/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper-revision-notes/) and practise it with the [reflective paper practice questions](/resources/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper-practice/). For the 30-mark part of the component, see [the presentation and justifying a solution](/resources/cambridge-a-level-global-perspectives-9239-team-project-presentation/).
 

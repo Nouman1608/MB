@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ No. R = u² sin 2α / g only applies when the projectile lands at the same level
 **Why does every integration in kinematics need a constant?**
 Integrating a or v gives a family of answers, so you must add a constant and find it from a given condition, such as the initial velocity or position.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and/).
 - Use the [course hub](/boards/ocr/a-level/mathematics/) and [checklist](/checklists/ocr/a-level/mathematics/).

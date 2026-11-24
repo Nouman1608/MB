@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ These questions cover the second part of *Trade policies and negotiations* in th
 - Treating the WTO as able to punish members.
 - Ending an evaluation without a verdict.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-economic-integration-the-eu-and-the-wto-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-economic-integration-the-eu-and-the-wto/).
 - See the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

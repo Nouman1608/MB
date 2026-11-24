@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ n is the number of pairs of data, not the total number of values. Nine pairs mea
 **How should you word the conclusion of a correlation test in OCR A Level Mathematics?**
 Give the decision and a sentence in context, using cautious wording such as "there is evidence of positive correlation between x and y". Avoid "proves" and "accept H₀".
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-mathematics-hypothesis-testing-for-correlation-pearsons-product-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-mathematics-hypothesis-testing-for-correlation-pearsons-product/).
 - Check coverage on the [checklist](/checklists/ocr/a-level/mathematics/) and the [course hub](/boards/ocr/a-level/mathematics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -169,7 +169,7 @@ normal limits during a day when a person eats breakfast and then misses lunch. *
 - Describing hormone data without the inhibiting and stimulating effects.
 - Separate descriptions instead of a comparison.
 
-## Next steps
+## More on this topic
 
 - [Hormonal coordination study guide](/resources/aqa-gcse-biology-8461-hormonal-coordination-in-humans/)
 - [Hormonal coordination revision notes](/resources/aqa-gcse-biology-8461-hormonal-coordination-in-humans-revision-notes/)

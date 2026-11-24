@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Check: 4 x 27 x 5 = 540.
 - Not checking a missing-digit answer by adding or multiplying it out.
 - Writing only a final answer where the question asks you to show a method.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of-revision-notes/) or the [study guide](/resources/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of/).
 - Back to the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the printable [checklist](/checklists/ocr/gcse/mathematics/).

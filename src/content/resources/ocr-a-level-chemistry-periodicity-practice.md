@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Describe and explain the variation in melting point across Period 3 in terms of 
 - Saying graphite conducts because of ions, or that diamond conducts.
 - Ranking simple molecular elements without referring to the number of electrons and London forces.
 
-## Next steps
+## More on this topic
 
 - Recap the tables and methods: [Periodicity revision notes](/resources/ocr-a-level-chemistry-periodicity-revision-notes/)
 - Full explanations and worked examples: [Periodicity study guide](/resources/ocr-a-level-chemistry-periodicity/)

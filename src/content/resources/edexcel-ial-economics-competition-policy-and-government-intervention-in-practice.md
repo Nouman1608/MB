@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ No. Firms bid to supply a public service, and the contract should be judged on q
 **How do you apply a limit to intervention in an assess question?**
 Pick a limit such as regulatory capture or asymmetric information and show how it would weaken the measure in the case given, then reach a balanced judgement. Naming a limit without applying it earns little credit.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-competition-policy-and-government-intervention-in-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-competition-policy-and-government-intervention-in/).
 - Check coverage on the [printable checklist](/checklists/edexcel/a-level/economics/) and the [Edexcel economics hub](/boards/edexcel/a-level/economics/).

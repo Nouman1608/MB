@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ J is CH₃CH₂COOH. K is CH₃COOCH₃.
 - Using a 1 : 1 mole ratio when the equation shows 2 : 1, or forgetting to convert dm³ to cm³.
 - Giving a test result for only one of two substances in a "tell apart" question.
 
-## Next steps
+## More on this topic
 
 - Fix gaps fast with the [condensed notes on this section](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes/).
 - Go back over weak spots in the [study guide](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions/).

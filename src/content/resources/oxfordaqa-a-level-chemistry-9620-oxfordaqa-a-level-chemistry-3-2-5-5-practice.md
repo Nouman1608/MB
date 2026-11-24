@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -219,7 +219,7 @@ D: +8 **[1]**
 - Explaining acid choice as "HCl reacts with the iron" rather than "Cl⁻ is oxidised by MnO₄⁻".
 - Leaving H⁺ on both sides of a combined equation.
 
-## Next steps
+## More on this topic
 
 - [Transition metal catalysts practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-6-practice/)
 - [Formation of coloured ions practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-4-practice/)

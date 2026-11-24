@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -150,6 +150,6 @@ Law made by a person or body **other than Parliament**, under power granted by a
 
 **Answers:** 1. Law made by a person or body other than Parliament under power granted by an enabling Act. 2. The King and the Privy Council, on the advice of ministers. 3. Minimum wage rates under the National Minimum Wage Act 1998, or the 2020 coronavirus regulations under the Public Health (Control of Disease) Act 1984. 4. Local authorities and public bodies. 5. Any three: lack of parliamentary time; expertise; local knowledge; speed; flexibility; consultation. 6. Negative: law unless annulled within a set period. Affirmative: must be approved by Parliament to take or keep effect. 7. Parliament cannot amend; it can only accept or reject the whole instrument. 8. Scrutinises instruments on technical grounds and reports to Parliament; it cannot change them. 9. The required procedure was not followed: in *Aylesbury Mushrooms* (1972) the duty to consult was ignored, so the order did not bind the unconsulted mushroom growers. 10. The body went beyond its powers: *Cure & Deeley* (1962), where commissioners gave themselves power to decide the tax due (or *Public Law Project*, 2016). 11. It banned obscene songs in private as well as public places, so it was too wide and unreasonable. 12. Any two: acts only after a challenge; needs someone to bring a case; cannot question the enabling Act; costs and delay.
 
-## Related resources
+## More resources on this topic
 
 [Delegated Legislation study guide](/resources/aqa-a-level-law-7162-law-making-delegated-legislation/) | [Delegated Legislation practice questions](/resources/aqa-a-level-law-7162-law-making-delegated-legislation-practice/) | [Parliamentary Law Making revision notes](/resources/aqa-a-level-law-7162-law-making-parliamentary-law-making-revision-notes/)

@@ -22,7 +22,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -192,7 +192,7 @@ At constant volume no work is done on or by the gas, so W = 0 and the change in 
 **Does changing state change internal energy?**
 Yes. Melting or boiling changes the potential energy component of internal energy without necessarily changing the temperature, which is why a cooling curve has flat regions.
 
-## Related resources
+## More resources on this topic
 
 - [Ideal Gases](/resources/a-physics-ideal-gases/) — the previous A Level topic
 - [Oscillations](/resources/a-physics-oscillations/) — the next A Level topic

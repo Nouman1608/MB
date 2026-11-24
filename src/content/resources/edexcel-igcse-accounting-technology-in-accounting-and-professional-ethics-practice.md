@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Justified conclusion, for example: software for a business with many daily trans
 - Treating public interest as the interest of the client or employer alone.
 - Evaluating without a conclusion.
 
-## Next steps
+## More on this topic
 
 - Condense the unit with the [revision notes](/resources/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics-revision-notes/).
 - Go back to the [study guide](/resources/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics/) for explanations.

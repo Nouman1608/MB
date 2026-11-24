@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ The ring, the carbonyl carbon and its oxygen can all lie in one plane; the CH₃
 - **State** or **deduce** the number of σ bonds: show the count as a list or use the atoms-and-rings check.
 - **Sketch** the π system: draw the ring flat with two continuous ring-shaped regions, one above and one below.
 
-## Related resources
+## More resources on this topic
 
 - [Aromatic shapes revision notes](/resources/cambridge-a-level-chemistry-9701-a-shapes-of-aromatic-organic-molecules-revision-notes/)
 - [Aromatic shapes practice questions](/resources/cambridge-a-level-chemistry-9701-a-shapes-of-aromatic-organic-molecules-practice/)

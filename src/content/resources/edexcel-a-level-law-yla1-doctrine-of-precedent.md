@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -167,6 +167,6 @@ Supreme Court    could depart from case B under the Practice
 
 **Describe** the hierarchy with the binding relationships, not just a list of courts. **Explain** a term with a case: ratio with *Donoghue v Stevenson* [1932], obiter with *Howe* and *Gotts*. **Evaluate** questions on the Practice Statement weigh flexibility (*Herrington*, *R v G*) against certainty (*Jones*, *Knuller*) and reach a judgement.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [doctrine of precedent revision notes](/resources/edexcel-a-level-law-yla1-doctrine-of-precedent-revision-notes/), then test yourself with the [doctrine of precedent practice questions](/resources/edexcel-a-level-law-yla1-doctrine-of-precedent-practice/).

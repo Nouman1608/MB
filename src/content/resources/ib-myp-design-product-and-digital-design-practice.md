@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -155,7 +155,7 @@ Evaluate this evaluation. Use the data, and explain what a stronger Criterion D 
 - Combined projects with strong evidence for one part and almost none for the other.
 - Evaluations built on "everyone liked it" rather than set tasks and measured results.
 
-## Next steps
+## More on this topic
 
 - [Product and digital design revision notes](/resources/ib-myp-design-product-and-digital-design-revision-notes/)
 - [Product and digital design study guide](/resources/ib-myp-design-product-and-digital-design/)

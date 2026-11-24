@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ D: Real GDP per head must rise.
 - Forgetting population in "per head" questions.
 - Concluding from money values alone.
 
-## Next steps
+## More on this topic
 
 - Recheck the method in the [QS7 study guide](/resources/oxfordaqa-a-level-economics-9640-qs7-quantitative-skills/).
 - Recap with the [QS7 revision notes](/resources/oxfordaqa-a-level-economics-9640-qs7-quantitative-skills-revision-notes/).

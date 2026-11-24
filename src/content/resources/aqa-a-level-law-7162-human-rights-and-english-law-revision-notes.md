@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -157,7 +157,7 @@ the law as then understood. 11. For example, the unlawful interception offence u
 Powers Act 2016; misuse of private information. 12. A conviction under the Communications Act 2003 s127
 for a joke tweet was quashed because the message was not menacing.
 
-## Related resources
+## More resources on this topic
 
 [Human Rights and English law study guide](/resources/aqa-a-level-law-7162-human-rights-and-english-law/) |
 [Human Rights and English law practice questions](/resources/aqa-a-level-law-7162-human-rights-and-english-law-practice/) |

@@ -28,7 +28,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -236,7 +236,7 @@ At this level uncertainties are combined by simple addition. Add absolute uncert
 **Which SI prefixes do you need for Cambridge 9702?**
 You need pico, nano, micro, milli, centi, deci, kilo, mega, giga and tera, from 10⁻¹² up to 10¹².
 
-## Related resources
+## More resources on this topic
 
 - [Kinematics: Equations of Motion](/resources/as-physics-kinematics-equations-of-motion/) — the next AS topic, applying vectors to motion
 - [Dynamics: Newton's Laws and Momentum](/resources/as-physics-dynamics-newtons-laws-and-momentum/) — vector resolution applied to forces

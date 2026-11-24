@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -189,7 +189,7 @@ Index points are measured against the base year's value of 100. To find the perc
 **What are the limitations of a weighted index?**
 The weights reflect spending in one year and can go out of date as buying habits change, and items that become important (such as a substitute product) may not be in the index at all.
 
-## Next steps
+## More on this topic
 
 - [Crude and standardised rates practice](/resources/o-level-statistics-4040-crude-and-standardised-rates-practice/)
 - [Time series practice](/resources/o-level-statistics-4040-time-series-moving-averages-practice/)

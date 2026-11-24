@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ No. Bringing unemployed resources into use moves the economy from inside the fro
 **How should you answer a 10-mark evaluation question on the division of labour in OCR A Level Economics?**
 Explain why the division of labour raises output, giving a reason such as practice or less time switching tasks, then weigh this against costs such as boredom and dependence on one product, and reach a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade/) on any weak area.
 - Use the [revision notes](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade-revision-notes/) for a final check.

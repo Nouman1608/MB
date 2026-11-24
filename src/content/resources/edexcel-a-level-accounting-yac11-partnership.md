@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -171,7 +171,7 @@ The total of the capital accounts is 136,000, which is 60,000 + 40,000 + 8,000 r
 - For goodwill, show the three stages as three separate entries so each earns a mark.
 - For **explain** questions on fixed capital, link the reason to a consequence, such as seeing the partner's drawings separately from their investment.
 
-## Related resources
+## More resources on this topic
 
 [Financial statements of organisations revision notes](/resources/edexcel-ial-accounting-financial-statements-of-organisations-revision-notes/) |
 [Partnership practice questions](/resources/edexcel-a-level-accounting-yac11-partnership-practice/) |

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -141,7 +141,7 @@ Eleven questions on 3.1.5.1, 3.1.5.2 and 3.1.5.3 of OxfordAQA's International AS
 - Describing a problem with no consequence for output or welfare.
 - Evaluation that lists points but ends with no judgement.
 
-## Next steps
+## More on this topic
 
 - Next, the [revision notes](/resources/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities-revision-notes/), then the [study guide](/resources/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities/).
 - Course hub: [OxfordAQA A-level Economics](/boards/oxfordaqa/a-level/economics/), and the [checklist](/checklists/oxfordaqa/a-level/economics/).

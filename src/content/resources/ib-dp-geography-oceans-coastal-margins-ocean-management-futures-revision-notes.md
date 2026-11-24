@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -146,6 +146,6 @@ The park is managed by **zoning**: some areas allow general use, while others re
 
 **Answers:** 1. Rights over the resources of that zone. 2. To conserve habitats and fish stocks and let ecosystems recover. 3. For example overfishing, marine plastic, shipping. 4. For example enforceability and fairness to developing states. 5. It can be revised as evidence and conditions change. 6. Each fishing fleet gains by catching more while the cost of a depleted stock is shared, so without limits the stock collapses. 7. Territorial sea up to 12 nautical miles; EEZ up to 200 nautical miles. 8. They can generate large EEZs with rights over fish and seabed resources. 9. The largest catch that can be taken every year without reducing the stock. 10. For example industrial overfishing and over-optimistic stock estimates. 11. That historic claims within the nine-dash line had no legal basis; it shows rulings depend on states choosing to comply. 12. Warming water and pollution from land cross its boundaries.
 
-## Related resources
+## More resources on this topic
 
 - [Option B: Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/)

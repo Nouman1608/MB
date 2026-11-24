@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -207,7 +207,7 @@ week, according to the developer."*
 11. "Review and respond to given information."
 12. It uses the material but does not develop or evaluate it, so it limits the reading marks for R3.
 
-## Related resources
+## More resources on this topic
 
 - [Directed writing: practice questions](/resources/cambridge-o-level-english-language-1123-directed-writing-practice/)
 - [Paper 2 Writing revision notes](/resources/o-level-english-paper-2-writing-revision-notes/)

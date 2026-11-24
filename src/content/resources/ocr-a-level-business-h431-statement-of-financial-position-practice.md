@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,7 +144,7 @@ The effect is that the statement may understate the real value of the business, 
 - Forgetting that net assets equal equity.
 - Describing the statement without applying it to the case.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-statement-of-financial-position/) for any gaps.
 - Try the [ratio analysis practice questions](/resources/ocr-a-level-business-h431-ratio-analysis-practice/).

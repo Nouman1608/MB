@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ To identify an unknown, compare its measured melting or boiling point with a tab
 - **Identify** from melting point data: state both whether the value matches and whether it is sharp.
 - Label diagrams carefully if asked: flask, thermometer, condenser, water in, water out, receiver, fractionating column.
 
-## Next steps
+## More on this topic
 
 - Condense this with the [separation and purification revision notes](/resources/cambridge-o-level-chemistry-5070-separation-and-purification-revision-notes/).
 - Practise with the [separation and purification practice questions](/resources/cambridge-o-level-chemistry-5070-separation-and-purification-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ The brackets matter. Without them, "on sale AND footwear OR price over 50" could
 
 In practical tasks, show the query design (criteria and sort) as well as the results, because both earn marks. Name calculated fields exactly as instructed. On the theory paper, if asked to write criteria, use the field name, operator and value, with text in quotation marks. When asked which records a query returns, check every record against every condition, as in the worked example.
 
-## Next steps
+## More on this topic
 
 Revise with the [manipulate data revision notes](/resources/cambridge-igcse-ict-0417-manipulate-data-revision-notes/), then try the [manipulate data practice questions](/resources/cambridge-igcse-ict-0417-manipulate-data-practice/). For setting up the tables first, see the [create a database structure study guide](/resources/cambridge-igcse-ict-0417-create-a-database-structure/).
 

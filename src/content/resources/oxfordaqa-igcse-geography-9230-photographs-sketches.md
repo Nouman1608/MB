@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,6 +152,6 @@ The answer works from foreground to background, uses the categories of landform 
 - **Ignoring the map** when a question pairs a photograph with a map extract.
 - **Forgetting limitations**: a photograph shows one moment, one season and one framing chosen by the photographer.
 
-## Next steps
+## More on this topic
 
 Condense this with the [photographs and sketches revision notes](/resources/oxfordaqa-igcse-geography-9230-photographs-sketches-revision-notes/) and test yourself with the [photographs and sketches practice questions](/resources/oxfordaqa-igcse-geography-9230-photographs-sketches-practice/). Related units: [planning a fieldwork enquiry](/resources/oxfordaqa-igcse-geography-9230-enquiry-planning/) and [collecting fieldwork data](/resources/oxfordaqa-igcse-geography-9230-fieldwork-data-collection/).

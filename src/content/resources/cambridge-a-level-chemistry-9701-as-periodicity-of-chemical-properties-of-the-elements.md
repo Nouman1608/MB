@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -169,7 +169,7 @@ Across the period, the electronegativity of the element increases while that of 
 - **Explain** (trends): use the decreasing electronegativity difference and the change from ionic to covalent bonding.
 - **Suggest** (bonding): use the evidence in the question, such as melting point, conductivity and reaction with water.
 
-## Related resources
+## More resources on this topic
 
 - [Periodicity of chemical properties in Period 3: revision notes](/resources/cambridge-a-level-chemistry-9701-as-periodicity-of-chemical-properties-of-the-elements-revision-notes/)
 - [Periodicity of chemical properties in Period 3: practice questions](/resources/cambridge-a-level-chemistry-9701-as-periodicity-of-chemical-properties-of-the-elements-practice/)

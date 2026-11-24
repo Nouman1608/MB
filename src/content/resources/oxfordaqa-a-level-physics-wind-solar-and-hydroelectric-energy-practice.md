@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ These questions cover sections 3.13.2 to 3.13.4 of the OxfordAQA International A
 - Adding currents in series or voltages in parallel.
 - Describing pumped storage as a source of energy.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy/).
 - Course pages: [OxfordAQA A-level Physics](/boards/oxfordaqa/a-level/physics/) and the [checklist](/checklists/oxfordaqa/a-level/physics/).

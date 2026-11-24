@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -180,7 +180,7 @@ A shorter payback period is usually better, because the business recovers the mo
 
 For **define** questions, give the meaning with an example. For **calculate** questions, show each step: costs, revenue, then profit; or cumulative cash flow, then the part-year. For **interpret a chart** questions, say which lines cross and read the value on the correct axis. For **evaluate** questions, such as whether break-even analysis helps a business, give advantages and limitations with figures from the case, and conclude with a judgement.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-financial-terms-and-calculations-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-financial-terms-and-calculations-practice/)

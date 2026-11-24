@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -209,7 +209,7 @@ Name an element that is in the first set but not in the second. A bare "yes" or 
 **What does n(A) mean?**
 n(A) is the number of elements in set A, so the answer is a number, not a list. If A = {3, 6, 9, 12}, then n(A) = 4.
 
-## Next steps
+## More on this topic
 
 - Recap with the [set language revision notes](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-revision-notes/).
 - Re-read any weak section in the [set language study guide](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation/).

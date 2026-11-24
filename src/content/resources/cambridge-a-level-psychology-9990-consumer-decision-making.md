@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,7 +148,7 @@ A strong answer: "Hall et al. carried out a field experiment at a supermarket ta
 - **Suggest**: apply a concept to the scenario given, such as recommending a website filter for shoppers who use a non-compensatory strategy.
 - **Evaluate**: judge strengths and weaknesses using methods and the named issues, then conclude.
 
-## Related resources
+## More resources on this topic
 
 - [Consumer decision-making revision notes](/resources/cambridge-a-level-psychology-9990-consumer-decision-making-revision-notes/)
 - [Consumer decision-making practice questions](/resources/cambridge-a-level-psychology-9990-consumer-decision-making-practice/)

@@ -28,7 +28,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -250,7 +250,7 @@ No. Escape velocity is not part of the Cambridge 9702 Gravitational Fields conte
 **What is the formula for gravitational potential energy at A Level?**
 Gravitational potential energy is mass multiplied by gravitational potential, E = mϕ, which gives E_p = −GMm/r. It is negative because potential is defined as zero at infinity and gravity is attractive.
 
-## Related resources
+## More resources on this topic
 
 - [Motion in a Circle](/resources/a-physics-motion-in-a-circle/) — the previous A Level topic, used for orbital mechanics
 - [Temperature](/resources/a-physics-temperature/) — the next A Level topic

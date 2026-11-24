@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ The social media campaign wins three times as many members for the same budget. 
 
 For **define** questions, say that segmentation divides a market into groups of customers with similar characteristics. For **explain** questions, give the type of segmentation and its effect: "segmenting by income lets a business price products to match what each group can afford". For **recommend** questions, name a method, link it to the segment's characteristics and say what result you expect. For **evaluate** questions, compare segments by size, spending power and cost of reaching them, then make a reasoned choice.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-market-segmentation-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-market-segmentation-practice/)

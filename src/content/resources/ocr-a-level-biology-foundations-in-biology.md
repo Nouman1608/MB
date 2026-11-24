@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the opening content of **Module 2: Foundations in
@@ -182,7 +182,7 @@ No. The Practical Endorsement requires at least twelve assessed practical activi
 **Why must both measurements be in the same unit for the magnification formula?**
 Magnification is image size divided by object size, so the two sizes must be in the same unit before dividing. For example, an image 5 cm wide must be converted to 50,000 micrometres before dividing by a real size of 20 micrometres, giving a magnification of 2,500 times.
 
-## Related resources
+## More resources on this topic
 
 - [Foundations in Biology revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/)
 - [Foundations in Biology practice questions](/resources/ocr-a-level-biology-foundations-practice/)

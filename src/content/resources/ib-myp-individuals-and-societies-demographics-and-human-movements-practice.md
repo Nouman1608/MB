@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -146,7 +146,7 @@ A student is researching the reasons for migration from Varenia to Norland. Expl
 - A research question that is too broad for the sources named.
 - Extended answers with no counter-argument, no example, or no final judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [demographics revision notes](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements-revision-notes/).
 - Reread the [demographics study guide](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements/).

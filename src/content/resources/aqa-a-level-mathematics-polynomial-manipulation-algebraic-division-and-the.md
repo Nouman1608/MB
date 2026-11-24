@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the AQA A-level Mathematics 7357 specification (version 1.3, dated 31 January 2018) and covers content statement B6 in section B, Algebra and functions. It teaches how to expand and collect, factorise, divide a polynomial by a linear expression, use the factor theorem, and simplify rational expressions. B6 is pure-maths algebra that sits underneath many other topics, including graphs, calculus and proof.
@@ -291,7 +291,7 @@ Every factor must be as simple as it can be using real numbers. For example, x�
 **How do you write a top-heavy rational expression as a polynomial plus a fraction?**
 Divide the numerator by the denominator, then write the quotient plus the remainder over the divisor, for example x² − 2x + 1 + 5/(x + 3).
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the-practice/), then use the [revision notes](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the-revision-notes/) to keep the methods fresh. If a method feels shaky, take a [free 10-minute diagnostic](/diagnostics/) to find the gap, and tick off progress on the [checklist](/checklists/aqa/a-level/mathematics/).
 

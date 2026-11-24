@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ Logical queue at the end: Y, Z, W.
 11. Indexes 3 and 0.
 12. A temporary store that holds data in arrival order until it can be processed.
 
-## Next steps
+## More on this topic
 
 - [Queues study guide](/resources/oxfordaqa-a-level-computer-science-9645-queues/)
 - [Queues practice questions](/resources/oxfordaqa-a-level-computer-science-9645-queues-practice/)

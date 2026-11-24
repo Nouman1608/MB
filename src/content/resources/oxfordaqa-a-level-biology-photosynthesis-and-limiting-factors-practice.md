@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ These questions cover *OxfordAQA International AS and A-level Biology (9610)*, V
 - Stating a limiting factor with no data.
 - Saying enzymes are "killed" rather than denatured.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors/).
 - Go to the [OxfordAQA A-level Biology course page](/boards/oxfordaqa/a-level/biology/) and the [checklist](/checklists/oxfordaqa/a-level/biology/).

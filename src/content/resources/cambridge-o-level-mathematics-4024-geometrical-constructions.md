@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -181,7 +181,7 @@ The slant height is measured along a face. The vertical height is measured strai
 - **Measure** means give a value consistent with the diagram, and include units.
 - **Calculate** from a net: use exact dimensions from the question, not measurements from your own drawing.
 
-## Next steps
+## More on this topic
 
 Work through the [geometrical constructions practice questions](/resources/cambridge-o-level-mathematics-4024-geometrical-constructions-practice/) and recap with the [geometrical constructions revision notes](/resources/cambridge-o-level-mathematics-4024-geometrical-constructions-revision-notes/).
 

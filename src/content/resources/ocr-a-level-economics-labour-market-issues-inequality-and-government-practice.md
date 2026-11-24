@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ No. Part of a pay gap may be explained by differences such as hours and experien
 **How do you score well on evaluation questions about labour market policy in OCR A Level Economics?**
 Explain how a policy changes mobility or incentives rather than just naming it, give a direction and mechanism for each effect, and end with a supported conclusion about which policy is more effective in the context given.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-labour-market-issues-inequality-and-government-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-labour-market-issues-inequality-and-government/).
 - Check progress against the [course hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

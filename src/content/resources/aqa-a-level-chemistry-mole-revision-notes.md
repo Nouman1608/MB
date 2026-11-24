@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -172,7 +172,7 @@ AQA mark schemes award method marks for correct intermediate steps even if the f
 **How are gas volumes calculated at A-level?**
 At A-level, gas volumes are found from the ideal gas equation, pV = nRT. The GCSE shortcut that 1 mole of gas occupies 24,000 cm³ at room temperature and pressure is used on this page only to keep the arithmetic simple.
 
-## Related resources
+## More resources on this topic
 
 [Relative Mass, the Mole and the Avogadro Constant study guide](/resources/a-level-aqa-chemistry-relative-mass-and-the-mole/) |
 [Relative Mass, the Mole and the Avogadro Constant practice questions](/resources/aqa-a-level-chemistry-mole-practice/)

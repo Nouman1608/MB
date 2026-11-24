@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ Why it works: it uses figures from the statement, follows a chain from the evide
 - Saying higher sales must mean higher profit.
 - Confusing gross profit with operating profit.
 
-## Next steps
+## More on this topic
 
 Condense this with the [financial documents revision notes](/resources/edexcel-igcse-business-4bs1-financial-documents-revision-notes/), then try the [financial documents practice questions](/resources/edexcel-igcse-business-4bs1-financial-documents-practice/).
 

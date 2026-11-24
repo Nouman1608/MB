@@ -28,7 +28,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -248,7 +248,7 @@ A chiral centre is a carbon atom bonded to four different groups. It produces tw
 **Why do alkenes show cis/trans isomerism?**
 Rotation around the C=C double bond is restricted by the π bond, so the two substituents on each carbon are locked on one side or the other. This gives geometrical (cis/trans) isomers.
 
-## Related resources
+## More resources on this topic
 
 - [Chemical Bonding: Shapes and Intermolecular Forces](/resources/as-chemical-bonding-shapes-and-intermolecular-forces/) — the hybridisation and orbital theory this resource applies to organic molecules
 - [Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/) — orbitals from first principles

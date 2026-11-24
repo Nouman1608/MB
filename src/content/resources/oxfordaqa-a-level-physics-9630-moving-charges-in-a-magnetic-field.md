@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Each revolution crosses the gap twice, gaining 2 × 2e × 30 kV = 120 keV, so th
 - **Compare** two particles: pick the quantity they share, then write r in terms of it.
 - **Describe** the cyclotron in ordered steps: dees, field, alternating p.d. across the gap, semicircles of constant period, growing radius.
 
-## Related resources
+## More resources on this topic
 
 - [Moving charges revision notes](/resources/oxfordaqa-a-level-physics-9630-moving-charges-in-a-magnetic-field-revision-notes/)
 - [Moving charges practice questions](/resources/oxfordaqa-a-level-physics-9630-moving-charges-in-a-magnetic-field-practice/)

@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-11-05
 featured: false
@@ -237,7 +237,7 @@ A thermocouple suits a rapidly changing temperature because of its small thermal
 **Can you use Q = mcΔθ during a change of state?**
 No. Q = mcΔθ applies only while the substance stays in one state; during a change of state the temperature is constant and you must use Q = mL, splitting the process into stages if needed.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields](/resources/a-physics-gravitational-fields/) — the previous A Level topic
 - [Ideal Gases](/resources/a-physics-ideal-gases/) — the next A Level topic

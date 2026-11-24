@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Add the incomes of the households in the group, divide by total income for the w
 **How do you avoid errors in multi-year wealth calculations?**
 Show the working for each year, carrying the new wealth figure into the next year's interest, and avoid rounding until the end. Rounding too early is a frequent cause of lost marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ib-dp-economics-market-inability-to-achieve-equity/) for any question that cost you marks.
 - Use the [revision notes](/resources/ib-dp-economics-market-inability-to-achieve-equity-revision-notes/) for a final summary and self-test.

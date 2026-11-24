@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -183,7 +183,7 @@ Many pre-date crime fiction as a genre, hence **elements**, not rules.
 12. Clean copies of the set texts are allowed; they must not be annotated or contain additional
     notes or materials.
 
-## Next steps
+## More on this topic
 
 Use the [Option 2A practice questions](/resources/a-level-aqa-english-literature-b-crime-writing-practice/)
 for full unseen and essay practice, and the

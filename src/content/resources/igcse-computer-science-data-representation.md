@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -179,7 +179,7 @@ No. 0478 is not tiered, so all candidates study the same content. It is graded A
 **What is the most common mistake in IGCSE file size calculations?**
 Using 1000 instead of 1024 as the conversion factor between storage units. The syllabus requires 1024 from the kibibyte upwards.
 
-## Related resources
+## More resources on this topic
 
 - [Data Representation revision notes](/resources/data-representation-revision-notes/) — condensed recall notes covering the same conversions, arithmetic and compression content
 - [Data Representation practice questions](/resources/data-representation-practice/) — exam-style questions with full worked answers

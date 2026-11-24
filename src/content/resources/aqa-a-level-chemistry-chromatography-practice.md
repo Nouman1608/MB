@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -238,7 +238,7 @@ No. A match with a standard run under the same conditions is evidence, not proof
 **How should retention time be defined?**
 Retention time is the time from injection into the GC column until the component reaches the detector. A definition that does not say it starts at injection is incomplete.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-chemistry-chromatography-revision-notes/).
 - Re-read any weak section in the [study guide](/resources/aqa-a-level-chemistry-chromatography/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Region = 84.47... − 59.58... [1] = **24.9 cm²** [1]
 - Stopping at 8.6 boxes, tins or bags when a whole number is needed.
 - Higher tier only: giving only the acute angle when a sine value has two possible angles.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors-revision-notes/) for the method boxes.
 - Go back to the [study guide](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors/) for any question that went wrong.

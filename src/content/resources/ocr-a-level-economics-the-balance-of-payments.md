@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0, dated June 2026 and first assessed in 2021. It teaches the topic **Balance of payments** within Component 2, Macroeconomics (H460/02), under The global context. No content is labelled AS or Extension. Every country, firm and number below is invented for illustration and is not a real statistic.
@@ -249,7 +249,7 @@ The OCR A Level Economics (H460) guide covers expenditure-reducing policies, exp
 **Why does a large current account deficit put pressure on the exchange rate?**
 A big deficit means a high supply of the domestic currency on foreign exchange markets, which can lower its value, raise import prices and add to inflation.
 
-## Next steps
+## More on this topic
 
 Try the [practice set](/resources/ocr-a-level-economics-the-balance-of-payments-practice/), use the [revision notes](/resources/ocr-a-level-economics-the-balance-of-payments-revision-notes/) to consolidate, and take a [free 10-minute diagnostic](/diagnostics/).
 

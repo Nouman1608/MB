@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ These questions cover section D2.2, **Gene expression**, of the IB *Biology guid
 - Giving a hormone example with no receptor or transcription factor step.
 - Confusing the effects of lactose and tryptophan on a repressor.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-biology-gene-expression-and-epigenetics-hl-revision-notes/) and the [study guide](/resources/ib-dp-biology-gene-expression-and-epigenetics-hl/).
 - Open the [course hub](/boards/ib/ib-dp/biology/) and the [printable checklist](/checklists/ib/ib-dp/biology/).

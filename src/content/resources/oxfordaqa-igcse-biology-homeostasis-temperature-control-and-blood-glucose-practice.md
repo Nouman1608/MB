@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Glucose: Her muscles use glucose in respiration, so blood glucose falls. [1] The
 * Dividing by the final value when calculating a percentage change.
 * Leaving out units, or the "per hour", on a rate.
 
-## Next steps
+## More on this topic
 
 * Re-read the [study guide](/resources/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose/) for any question you lost marks on.
 * Learn the [revision notes](/resources/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose-revision-notes/).

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples from one or more areas but does not fix them. This page uses China and Thailand (birth-rate policies), Syrian refugees and economic migration to the Gulf (migration), Heathrow expansion (airport) and India (ICT). Check dates, figures and the current status of the Heathrow proposals against your own notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples from one or more areas but does not fix them. This page uses China and Thailand (birth-rate policies), Syrian refugees and economic migration to the Gulf (migration), Heathrow expansion (airport) and India (ICT). Check dates, figures and the current status of the Heathrow proposals against your own notes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -169,6 +169,6 @@ The answer links each cause to the outcome and explains why birth rates stay hig
 - **Case-study answers without a named airport and facts.**
 - **Ignoring the digital divide.**
 
-## Next steps
+## More on this topic
 
 Condense this with the [population and communication revision notes](/resources/oxfordaqa-igcse-geography-9230-population-and-communication-revision-notes/) and test yourself with the [population and communication practice questions](/resources/oxfordaqa-igcse-geography-9230-population-and-communication-practice/).

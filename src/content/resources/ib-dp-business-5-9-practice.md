@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ Discuss the benefits, risks and ethical implications of the programme for Ottery
 - Not using case data, such as turnover figures, as evidence.
 - Ending without a judgement and conditions.
 
-## Next steps
+## More on this topic
 
 - Revise from the [5.9 revision notes](/resources/ib-dp-business-5-9-revision-notes/).
 - Review the [5.9 study guide](/resources/ib-dp-business-5-9/) for the data-to-decision chain and the annotated answer.

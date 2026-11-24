@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ If α is negative (from sin⁻¹ or tan⁻¹ of a negative number), add the peri
 
 **12.** 0 ≤ 2x < 2π: 2x = π/2, 3π/2, so x = π/4, 3π/4.
 
-## Related resources
+## More resources on this topic
 
 - [P2 trigonometry study guide](/resources/edexcel-a-level-mathematics-yma01-p2-trigonometry/)
 - [P2 trigonometry practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-trigonometry-practice/)

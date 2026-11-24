@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches alcohols, carboxylic acids and esters for OxfordAQA International GCSE Chemistry (9202). The source document is the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Every lettered statement of section 3.10.3 is taught here: 3.10.3.1 Alcohols (a to c), 3.10.3.2 Carboxylic acids (a and b) and 3.10.3.3 Esters (a and b). Every student sits the same two papers. Either paper may test this unit, since the specification says each paper can assess any part of the course.
@@ -319,7 +319,7 @@ Esters are **volatile**: they evaporate easily at room temperature. They have **
 - Saying a weak acid has a higher pH "because it is more dilute". The concentrations are the same; the difference is the degree of ionisation.
 - Leaving the acid catalyst out when describing ester formation.
 
-## Next steps
+## More on this topic
 
 Move on to the [condensed notes](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes/) for fast recall, then try the [practice questions](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-practice/). For command words, see the [OxfordAQA chemistry exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/); a [free diagnostic](/diagnostics/) will flag your weaker areas. Related: [acids, bases and salts](/resources/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts/).
 

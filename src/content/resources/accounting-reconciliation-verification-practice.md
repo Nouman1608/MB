@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -214,7 +214,7 @@ Post the corrections to the suspense account; if it ends at zero, the journals h
 **How do you score well on evaluation questions in reconciliation topics?**
 Use the figures given in the question and link each benefit and limitation to the data, then reach a justified recommendation. Benefits and limitations that are not linked to the data are a common reason marks are lost.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/accounting-reconciliation-verification-revision-notes/) and [study guide](/resources/accounting-reconciliation-and-verification/).
 - Use the [course hub](/boards/cambridge/a-level/accounting/) and [checklist](/checklists/cambridge/a-level/accounting/).

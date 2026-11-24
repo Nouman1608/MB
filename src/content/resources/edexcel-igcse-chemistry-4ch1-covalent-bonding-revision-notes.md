@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,6 +127,6 @@ C60:      separate ball-shaped molecules; weak intermolecular forces -> soft, lo
 11. All four outer electrons of each carbon atom are used in covalent bonds, so there are no free (delocalised) electrons.
 12. C60 is made of separate molecules; melting overcomes only weak intermolecular forces, whereas diamond needs strong covalent bonds broken.
 
-## Next steps
+## More on this topic
 
 Compare with electron transfer in the [ionic bonding revision notes](/resources/edexcel-igcse-chemistry-4ch1-ionic-bonding-revision-notes/) and with the sea of electrons in the [metallic bonding revision notes](/resources/edexcel-igcse-chemistry-4ch1-metallic-bonding-revision-notes/).

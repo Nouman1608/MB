@@ -28,7 +28,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -341,7 +341,7 @@ Yes. The syllabus uses van der Waals' forces as the umbrella term for intermolec
 **Why is ice less dense than liquid water?**
 In ice, hydrogen bonding holds the molecules in an open, ordered lattice with more space between molecules than in the liquid. Saying only that "hydrogen bonds are strong" does not explain the lower density.
 
-## Related resources
+## More resources on this topic
 
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — the IGCSE/O Level foundation this resource builds on
 - [Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/) — orbital theory behind hybridisation

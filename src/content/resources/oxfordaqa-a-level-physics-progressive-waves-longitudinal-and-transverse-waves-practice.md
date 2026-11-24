@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ These questions follow sections 3.5.3 and 3.5.4 of the OxfordAQA International A
 - Explaining the Polaroid observation without referring to the transmission axis or the direction of oscillation.
 - Writing "polarisation shows light is a wave" instead of a transverse wave.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves/)
 - Check the [course hub](/boards/oxfordaqa/a-level/physics/) and the [checklist](/checklists/oxfordaqa/a-level/physics/)

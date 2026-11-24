@@ -31,7 +31,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false
@@ -213,7 +213,7 @@ Use power in watts and time in seconds so the energy comes out in joules. Leavin
 **Which IGCSE Physics 0625 topic do these questions cover?**
 They cover Topic 4, Electricity and magnetism (sections 4.1–4.5), of the Cambridge IGCSE Physics 0625 syllabus for examination in 2026, 2027 and 2028.
 
-## Next steps
+## More on this topic
 
 - [Electricity and magnetism study guide](/resources/igcse-physics-0625-electricity-and-magnetism/) and [revision notes](/resources/igcse-physics-0625-electricity-and-magnetism-revision-notes/).
 - [Extended practice set on electricity and magnetism](/resources/igcse-physics-electricity-and-magnetism-extended-practice/) for more Supplement questions.

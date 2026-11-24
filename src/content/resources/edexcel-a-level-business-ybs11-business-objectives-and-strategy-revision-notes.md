@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -163,6 +163,6 @@ Relative market share   = own share / largest rival's share
 - **Assess a choice between strategies:** compare risk, cost, time and fit with objectives, then judge, and say what the decision depends on.
 - **Essay planning:** use the model as the structure, not the whole answer; every paragraph needs evidence from the source.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Business objectives and strategy study guide](/resources/edexcel-a-level-business-ybs11-business-objectives-and-strategy/), then practise with the [practice questions](/resources/edexcel-a-level-business-ybs11-business-objectives-and-strategy-practice/).

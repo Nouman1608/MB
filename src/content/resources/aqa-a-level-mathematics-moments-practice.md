@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ Put the weight at an unknown distance x from one end, find the reactions, then t
 **What does a "magnitude and direction" answer for a hinge force need?**
 Find the horizontal and vertical components by resolving, then give both the magnitude, using Pythagoras, and the angle, using tan⁻¹. Giving only the magnitude is incomplete.
 
-## Next steps
+## More on this topic
 
 - Recap the methods: [Moments revision notes](/resources/aqa-a-level-mathematics-moments-revision-notes/).
 - Full explanations: [Moments study guide](/resources/aqa-a-level-mathematics-moments/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover sections 6.03a and 6.03b of the OCR GCSE (9-1) Mathematics
 - Mixing up the signs in a bracket and its root, for example writing x = 2 from the bracket (x + 2).
 - Ignoring the accuracy instruction in the question: exact form, fraction, or 3 significant figures.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations/).
 - Tick off the topic on the [OCR GCSE Mathematics checklist](/checklists/ocr/gcse/mathematics/) and visit the [course hub](/boards/ocr/gcse/mathematics/).

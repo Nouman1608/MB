@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ No. Finding the critical values is only the first step; you must then decide whe
 **How do you list the integers that satisfy an inequality?**
 Check each end: a value is included only with ≤ or ≥. For −3 ≤ n < 2 the integers are −3, −2, −1, 0 and 1; forgetting 0 or including an excluded end value are frequent errors.
 
-## Next steps
+## More on this topic
 
 - Refresh the methods: [inequalities revision notes](/resources/edexcel-igcse-maths-4ma1-inequalities-revision-notes/)
 - Re-learn anything you missed: [inequalities study guide](/resources/edexcel-igcse-maths-4ma1-inequalities/)

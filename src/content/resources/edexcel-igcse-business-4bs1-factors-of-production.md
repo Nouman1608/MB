@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ Why it works: it uses the calculated saving and the break-even wage, names costs
 - Recommending automation on cost alone, without quality, flexibility or risk.
 - Forgetting that land includes natural resources, not only buildings.
 
-## Next steps
+## More on this topic
 
 Condense this with the [factors of production revision notes](/resources/edexcel-igcse-business-4bs1-factors-of-production-revision-notes/), then try the [factors of production practice questions](/resources/edexcel-igcse-business-4bs1-factors-of-production-practice/). Production processes and robotics are in the [production study guide](/resources/edexcel-igcse-business-4bs1-production/).
 

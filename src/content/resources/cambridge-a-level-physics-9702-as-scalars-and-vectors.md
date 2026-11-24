@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ Reverse the vector being subtracted and add it tip to tail to the other.
 **When should I use the cosine rule rather than components?**
 Either works for two vectors; components are better for three or more, and give the direction directly.
 
-## Related resources
+## More resources on this topic
 
 - [Scalars and vectors revision notes](/resources/cambridge-a-level-physics-9702-as-scalars-and-vectors-revision-notes/)
 - [Scalars and vectors practice questions](/resources/cambridge-a-level-physics-9702-as-scalars-and-vectors-practice/)

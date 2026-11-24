@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Apply each rate only to the part of income that falls in its band and add the re
 **What does a good evaluation of anti-poverty policy include in Cambridge O Level 2281?**
 Use figures where the question gives them and finish with a judgement that chooses a policy and gives a reason. Evaluation with no figures and no final judgement is one of the listed ways marks are lost.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-poverty-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-poverty/).
 - Check your coverage on the [printable checklist](/checklists/cambridge/o-level/economics/) and see the [course hub](/boards/cambridge/o-level/economics/).

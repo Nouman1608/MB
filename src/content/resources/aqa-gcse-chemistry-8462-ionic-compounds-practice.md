@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ nothing on what is right, does not answer "discuss".
 - Forgetting to show the charge check when a question says "show that".
 - Calling the particles atoms rather than ions.
 
-## Next steps
+## More on this topic
 
 - Recap with the [ionic compounds revision notes](/resources/aqa-gcse-chemistry-8462-ionic-compounds-revision-notes/).
 - Reread any weak area in the [ionic compounds study guide](/resources/aqa-gcse-chemistry-8462-ionic-compounds/).

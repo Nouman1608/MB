@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Learn the content first in the [plant organ system study guide](/resources/aqa-g
 - Forgetting to convert to "per hour" before dividing by leaf area.
 - Leaving phloem out of a question about transport.
 
-## Next steps
+## More on this topic
 
 - Re-read the [plant organ system study guide](/resources/aqa-gcse-biology-8461-plant-organ-system/).
 - Back to the start of Topic 2: [principles of organisation practice questions](/resources/aqa-gcse-biology-8461-principles-of-organisation-practice/).

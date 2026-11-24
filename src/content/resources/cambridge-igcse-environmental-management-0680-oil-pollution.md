@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -145,6 +145,6 @@ A follow-up "suggest" question might ask where the rest went: evaporation, dispe
 
 **Describe** questions on impacts reward the effect on the named group plus a reason. **Describe strategies** questions want the strategy and how it works. If a question gives weather or location details, use them: they are there to test whether you can choose an appropriate response. Use the correct terms: slick, boom, sorbent, skimmer, dispersal.
 
-## Next steps
+## More on this topic
 
 Revise with the [oil pollution revision notes](/resources/cambridge-igcse-environmental-management-0680-oil-pollution-revision-notes/) and test yourself with the [oil pollution practice questions](/resources/cambridge-igcse-environmental-management-0680-oil-pollution-practice/). For mixed oil and plastic questions, try the [oil and plastic pollution practice questions](/resources/igcse-environmental-management-oil-and-plastic-pollution-practice/).

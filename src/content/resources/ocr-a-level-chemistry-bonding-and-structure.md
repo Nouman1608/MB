@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section **2.2.2, Bonding and structure**, from OCR's A Level Chemistry A specification (H432, Version 3.1 dated May 2026; first assessment 2017). It covers every lettered statement, (a) to (o), with the additional guidance. H432 is the full A level with no tiers, and Module 2 content is assessed in all three written components (01, 02 and 03).
@@ -221,7 +221,7 @@ A **simple molecular lattice** is a regular arrangement of small covalent molecu
 - Drawing a hydrogen bond to an H bonded to carbon.
 - Explaining London forces by mass rather than number of electrons.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes](/resources/ocr-a-level-chemistry-bonding-and-structure-revision-notes/), then test yourself on the [practice set](/resources/ocr-a-level-chemistry-bonding-and-structure-practice/), or take a [10-minute diagnostic](/diagnostics/).
 

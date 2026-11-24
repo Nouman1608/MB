@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Topic 4 Algorithms and flowcharts** from the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027. It covers sections **4.1 Algorithms** and **4.2 Flowcharts**. This is **AS Level** content (topics 1–11), so it is part of both the AS and the full A Level. Paper 1 Theory questions are based on sections 1–11, so this topic is examined there; Paper 2 Practical also expects you to apply knowledge from sections 1–7.
@@ -350,7 +350,7 @@ Other errors to look for: a counter or total set to zero inside the loop; a loop
 - Drawing a decision box without labelling both exits Yes and No.
 - Putting a calculation in a parallelogram or an input in a rectangle.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/a-level-cambridge-ict-algorithms-and-flowcharts-revision-notes/), then try the [practice questions](/resources/a-level-cambridge-ict-algorithms-and-flowcharts-practice/). For a quick check of your gaps, take one of the free [diagnostics](/diagnostics/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Judgement: a clear conclusion that weighs the two sides, for example that benefi
 - Omitting units, or not converting grams to kilograms.
 - Listing only advantages when asked to evaluate, with no judgement at the end.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food/) and use the [revision notes](/resources/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food-revision-notes/) for recall.
 - Tick off each statement on the [OCR GCSE Biology checklist](/checklists/ocr/gcse/biology/) and visit the [course hub](/boards/ocr/gcse/biology/).

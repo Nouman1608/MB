@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -196,7 +196,7 @@ credible, and a realistic example is more persuasive. 11. Any four: comma splice
 homophones, tense shifts, speech punctuation, capital letters. 12. An ending that returns to the
 opening image or idea; it gives a sense of completion and shows how things have changed.
 
-## Related resources
+## More resources on this topic
 
 - [Section B composition practice questions](/resources/oxfordaqa-igcse-english-language-9270-section-b-composition-practice/)
 - [Paper 1 revision notes](/resources/oxfordaqa-english-language-revision-notes/)

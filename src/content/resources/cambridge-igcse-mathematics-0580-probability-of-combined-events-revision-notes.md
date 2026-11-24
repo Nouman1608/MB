@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ Choosing two people "at random" is always without replacement: the same person c
 11. **A happens and B does not**
 12. 2 × 0.95 × 0.05 = **0.095**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [combined events study guide](/resources/cambridge-igcse-mathematics-0580-probability-of-combined-events/).
 - Move on to "given that" questions with the [conditional probability revision notes](/resources/cambridge-igcse-mathematics-0580-conditional-probability-revision-notes/).

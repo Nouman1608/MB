@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.2, representation in frequency polygons and histograms, of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027. It sits inside topic 3, formation of data into ungrouped or grouped frequency distributions, and it assumes you can already find class boundaries and midpoints (section 3.1; see the [frequency distributions guide](/resources/cambridge-o-level-statistics-frequency-distributions/)). The syllabus is not tiered, so everything here is for every candidate.
@@ -245,7 +245,7 @@ Height                = 4.5 × 0.5 = 2.25 cm
 - Naming the modal class from the largest frequency rather than the largest frequency density.
 - Stating an estimate for part of a class as if it were exact.
 
-## Next steps
+## More on this topic
 
 Work through the [practice set](/resources/cambridge-o-level-statistics-frequency-polygons-and-histograms-practice/), then use the [revision notes](/resources/cambridge-o-level-statistics-frequency-polygons-and-histograms-revision-notes/) as a quick reference. Cumulative frequency, the next stage, builds on the same grouped tables. You can also see what 4040 expects in the [exam preparation guide](/resources/cambridge-o-level-statistics-exam-preparation/).
 

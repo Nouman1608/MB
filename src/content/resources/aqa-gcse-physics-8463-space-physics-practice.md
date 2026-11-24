@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -184,7 +184,7 @@ Explain why the satellite is accelerating. **[3]**
 - Forgetting to convert nanometres to metres before using v = f λ.
 - Describing a trend in a table without quoting any data.
 
-## Next steps
+## More on this topic
 
 - [Space physics revision notes](/resources/aqa-gcse-physics-8463-space-physics-revision-notes/)
 - [Space physics study guide](/resources/aqa-gcse-physics-8463-space-physics/)

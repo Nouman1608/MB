@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -108,7 +108,7 @@ Links: [study guide](/resources/edexcel-ial-business-financial-planning-and-mana
 - Using general statements instead of the figures in the case.
 - Ending an evaluative answer with no judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-business-financial-planning-and-managing-finance/) for any section where you lost marks.
 - Learn the formulas in the [revision notes](/resources/edexcel-ial-business-financial-planning-and-managing-finance-revision-notes/).

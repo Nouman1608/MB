@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ A cooling curve shows the same flat sections, at the boiling point (condensing) 
 - **Explain**: add the reason, in terms of energy and forces between particles.
 - For a data question, quote the values you used: "25 °C is above the boiling point of −183 °C, so oxygen is a gas."
 
-## Next steps
+## More on this topic
 
 - Condense this with the [solids, liquids and gases revision notes](/resources/oxfordaqa-igcse-chemistry-9202-solids-liquids-and-gases-revision-notes/).
 - Practise with the [solids, liquids and gases practice questions](/resources/oxfordaqa-igcse-chemistry-9202-solids-liquids-and-gases-practice/).

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ These questions cover learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level 
 - Not converting units in a magnification calculation, or leaving out the unit.
 - Interpreting data without quoting any values from the table.
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-revision-notes/) or the [study guide](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle/).
 - Visit the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/).

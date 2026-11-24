@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers IB Diploma Programme Biology, sections D3.2.16 to D3.2.21 of the second part of D3.2 Inheritance, as set out in the IB *Biology guide*, first assessment 2025. All six statements are in the additional higher level (AHL) part of the guide, so everything here is **HL only**. The single-gene material in D3.2.1 to D3.2.15 is not repeated.
@@ -231,7 +231,7 @@ A non-significant result does not prove the hypothesis; it shows the data do not
 - Saying a significant result "proves" linkage. It rejects chance as the sole explanation.
 - Saying "the null hypothesis is accepted" instead of "not rejected".
 
-## Next steps
+## More on this topic
 
 Condense with the [revision notes](/resources/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test-practice/).
 

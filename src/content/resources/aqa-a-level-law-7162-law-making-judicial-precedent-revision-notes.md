@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,6 +170,6 @@ Condensed notes on **Law making: judicial precedent** in AQA A-level Law (7162) 
 
 **Answers:** 1. Ratio: the legal principle on which the decision is based, which binds; obiter: other remarks, which are persuasive only. 2. *R v Gotts* (1992) adopted it, holding duress unavailable for attempted murder. 3. The Supreme Court, in 2009, under the Constitutional Reform Act 2005. 4. That the Practice Statement 1966 continues to apply to the Supreme Court. 5. *British Railways Board v Herrington* (1972). 6. Conflicting Court of Appeal decisions; inconsistency with a later House of Lords or Supreme Court decision; earlier decision made per incuriam. 7. Because a person's liberty is at stake, so it may depart where the law was misapplied (*R v Taylor*; *R v Gould*). 8. That the Court of Appeal may follow a Privy Council decision over a House of Lords decision in exceptional circumstances, here where nine judges had sat to settle the law. 9. Any three: accurate record of ratio; advice to clients; finding binding authority; consistency; accessibility. 10. Any court. 11. Overruling declares an earlier rule in a different case wrong; reversing changes the outcome of the same case on appeal. 12. Any two: rigidity; complexity; slow development; retrospective effect; undemocratic; illogical distinctions.
 
-## Related resources
+## More resources on this topic
 
 [Judicial Precedent study guide](/resources/aqa-a-level-law-7162-law-making-judicial-precedent/) | [Judicial Precedent practice questions](/resources/aqa-a-level-law-7162-law-making-judicial-precedent-practice/) | [Statutory Interpretation revision notes](/resources/aqa-a-level-law-7162-law-making-statutory-interpretation-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -141,6 +141,6 @@ Always state these in the specification's words before using any theorist's vers
 
 **Answers:** 1. No person shall be sanctioned except in accordance with the law; equality before the law; fairness and clarity. 2. The Constitutional Reform Act 2005, section 1. 3. Raz's is formal, about law's capacity to guide conduct; Bingham's includes substantive values such as human rights. 4. There was no imminent breach of the peace, so the police had no legal authority. 5. He insisted the courts must test whether a minister had reasonable grounds, a view now seen as the correct statement of the rule of law. 6. *M v Home Office* (1993). 7. That parliamentary privilege did not protect MPs from prosecution for false accounting over expenses. 8. Allowing a minister to overrule a judicial decision simply because he disagreed would undermine the rule of law. 9. That advice to prorogue Parliament for five weeks was unlawful because it frustrated Parliament's functions without reasonable justification. 10. Any two: retrospective legislation; Henry VIII powers; ouster clauses. 11. Any two: judicial independence; open courts; appeals and judicial review; jury trial. 12. It shows a retrospective-looking judicial change being upheld as foreseeable and consistent with human dignity, so the rule of law was balanced against another value.
 
-## Related resources
+## More resources on this topic
 
 [Rule of Law study guide](/resources/aqa-a-level-law-7162-the-rule-of-law/) | [Rule of Law practice questions](/resources/aqa-a-level-law-7162-the-rule-of-law-practice/) | [Rule of Law, Law Reform, the EU and Civil Justice revision notes](/resources/aqa-a-level-law-rule-of-law-reform-eu-and-civil-justice-revision-notes/)

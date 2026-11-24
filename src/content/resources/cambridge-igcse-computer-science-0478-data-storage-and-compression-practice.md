@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ the sound. **[2]**
 - Saying lossless compression "removes some data".
 - Recommending a compression type without linking it to the file in the scenario.
 
-## Next steps
+## More on this topic
 
 - [Data storage and compression study guide](/resources/cambridge-igcse-computer-science-0478-data-storage-and-compression/)
 - [Data storage and compression revision notes](/resources/cambridge-igcse-computer-science-0478-data-storage-and-compression-revision-notes/)

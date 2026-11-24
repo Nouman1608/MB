@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section J: Vectors (J1 to J5)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section J under **Paper 2**, alongside the mechanics sections, so vectors are examined there. A calculator is required in every 7357 paper, but "show that" and geometric proof questions still need every step written out.
@@ -306,7 +306,7 @@ A particle is in equilibrium when the resultant of the forces on it, found by ad
 **How do you find a point that divides AB in a given ratio?**
 For AP : PB = m : n, move from A a fraction m/(m + n) of the vector →AB. For example, AP : PB = 2 : 1 means P = a + (2/3)→AB.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [Vectors revision notes](/resources/aqa-a-level-mathematics-vectors-revision-notes/).
 - Test yourself: [Vectors practice questions](/resources/aqa-a-level-mathematics-vectors-practice/).

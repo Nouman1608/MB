@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -172,6 +172,6 @@ Courts consider seriousness (culpability and harm), aggravating factors (previou
 
 For scenarios, deal with **one offence at a time**: *actus reus*, *mens rea*, defences, then conclusion. **Explain** needs the rule plus a case; **evaluate** or **assess** needs strengths, weaknesses and a judgement.
 
-## Next steps
+## More on this topic
 
 Condense with the [criminal offender revision notes](/resources/edexcel-a-level-law-yla1-the-criminal-offender-revision-notes/) and practise with the [criminal offender practice questions](/resources/edexcel-a-level-law-yla1-the-criminal-offender-practice/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches part 12B, Lattice energy, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, taking outcomes 12.12 to 12.19 in order. All of it is International A2 (IA2) content, assessed in the specification's Unit 4: Rates, Equilibria and Further Organic Chemistry. It builds on Hess's law and Group 2 chemistry (Unit 2) and on ionic bonding (Unit 1).
@@ -258,7 +258,7 @@ Outcome 8.15 ([Groups 1 and 2](/resources/edexcel-ial-chemistry-the-elements-of-
 - Dividing a ΔsolH in kJ by T and then adding it to entropies in J mol⁻¹ K⁻¹.
 - Saying a big experimental–theoretical gap means the compound "is covalent". It shows partial covalent character in ionic bonding.
 
-## Next steps
+## More on this topic
 
 - Shorten this guide with the [lattice energy revision notes](/resources/edexcel-ial-chemistry-lattice-energy-revision-notes/).
 - Check yourself with the [lattice energy practice questions](/resources/edexcel-ial-chemistry-lattice-energy-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ Route B: 1-bromopentane is converted into a nitrile with cyanide ions, then the 
 - Getting the 2 : 1 amine to sulfuric acid ratio wrong (question 9).
 - Subtracting 35.5 instead of 36.5 when working back from a hydrochloride salt (question 11).
 
-## Next steps
+## More on this topic
 
 - Recap the tables and self-test: [Amines revision notes](/resources/ocr-a-level-chemistry-amines-revision-notes/)
 - Full explanations and worked examples: [Amines study guide](/resources/ocr-a-level-chemistry-amines/)

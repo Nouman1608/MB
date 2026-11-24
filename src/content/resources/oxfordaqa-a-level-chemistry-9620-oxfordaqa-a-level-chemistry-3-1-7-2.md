@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ At equilibrium: H₂ = I₂ = **0.100 mol**, HI = **0.800 mol**. Check: 0.800² 
 - **Deduce** the sign of ΔH from Kc data: state the trend in Kc, the direction of the shift, then the conclusion.
 - **Explain** why Kc does not change: only temperature alters Kc; the concentrations readjust until the ratio returns to its value.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.7.2 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-7-2-revision-notes/), then try the [3.1.7.2 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-7-2-practice/). For the qualitative side, see [Le Chatelier's principle (3.1.7.1)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-7-1/).
 

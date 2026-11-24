@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ Triangle 1 supplies the projection MA; triangle 2 supplies the angle. Most 3D qu
 11. √(36 + 64) = **10 m**
 12. The projections are different lines (AC on the base, AF on the face ABFE), with different lengths, so the right-angled triangles are different.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [3D trigonometry study guide](/resources/cambridge-igcse-mathematics-0580-pythagoras-theorem-and-trigonometry/).
 - Recap Pythagoras’ theorem with the [Pythagoras’ theorem study guide](/resources/igcse-mathematics-0580-pythagoras-theorem/) and the whole topic with the [trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/).

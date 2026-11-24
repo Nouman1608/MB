@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ Because the zinc is losing electrons, the iron does not lose electrons, so it is
 - **Explain** (Extended): reactivity comparison, electron loss, and the consequence for iron.
 - **Suggest:** choose a barrier method for a named object and justify it from how the object is used.
 
-## Related resources
+## More resources on this topic
 
 - [Corrosion revision notes](/resources/cambridge-igcse-chemistry-0620-corrosion-of-metals-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-corrosion-of-metals-practice/)
 - [Reactivity series study guide](/resources/cambridge-igcse-chemistry-0620-reactivity-series/), for why zinc and magnesium are more reactive than iron

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Triangle ABC has a right angle at B, AB = 8.4 cm and angle A = 36°. Triangle PQ
 - Pressing a long division on a calculator without brackets round the denominator.
 - Rounding in the middle of a calculation, or giving 4.6 where 3 significant figures asks for 4.62.
 
-## Next steps
+## More on this topic
 
 - Review the topic with the [revision notes](/resources/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and/) for any question you missed.

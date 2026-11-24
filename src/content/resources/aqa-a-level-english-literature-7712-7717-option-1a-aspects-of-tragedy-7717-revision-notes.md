@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -171,7 +171,7 @@ Remember: the absence of an aspect can be as significant as its presence.
     also test whether a text is fully tragic.
 12. By points of connection, with both texts discussed in each section of the argument.
 
-## Next steps
+## More on this topic
 
 Try the [Aspects of Tragedy practice questions](/resources/aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717-practice/),
 and use the [Paper 1 revision notes](/resources/a-level-aqa-english-literature-b-literary-genres-revision-notes/)

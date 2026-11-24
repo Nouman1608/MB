@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -128,7 +128,7 @@ These questions cover statements 6.5 to 6.9 of the Pearson Edexcel International
 - Saying antibodies "kill" pathogens rather than naming agglutination, neutralisation or opsonisation.
 - Confusing a plasma cell with the macrophage that presents antigen.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences-revision-notes/) or the [study guide](/resources/edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences/).
 - Tick off statements on the [checklist](/checklists/edexcel/a-level/biology/) and browse the [course hub](/boards/edexcel/a-level/biology/).

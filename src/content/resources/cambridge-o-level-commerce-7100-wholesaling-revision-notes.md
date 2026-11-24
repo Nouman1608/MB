@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,7 +174,7 @@ Large retail chains buy direct from manufacturers and run their own warehouses; 
 
 **Can a wholesaler sell online?** Yes. Many take retailers' orders through websites, but their customers are still businesses.
 
-## Next steps
+## More on this topic
 
 Try the [wholesaling practice questions](/resources/cambridge-o-level-commerce-7100-wholesaling-practice/), then continue with the [trading documents revision notes](/resources/cambridge-o-level-commerce-7100-trading-documents-revision-notes/).
 

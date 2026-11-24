@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -138,7 +138,7 @@ The criterion "make judgements which are supported by evidence" means your concl
 - Gaps are stated.
 - Every citation is in the bibliography.
 
-## Related resources
+## More resources on this topic
 
 - [Evidence: practice questions](/resources/cambridge-a-level-global-perspectives-9239-evidence-practice/)
 - [Research methods and methodology study guide](/resources/cambridge-a-level-global-perspectives-9239-research-report-methods/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -154,7 +154,7 @@ The research log gives you the evidence for item 3.
 - Your initial line of argument is stated and marked as provisional.
 - Your teacher has approved it, and any safety or ethical concerns are addressed.
 
-## Related resources
+## More resources on this topic
 
 - [Initial preparation and research proposal: practice questions](/resources/cambridge-a-level-global-perspectives-9239-initial-preparation-and-research-proposal-practice/)
 - [Research methods and methodology study guide](/resources/cambridge-a-level-global-perspectives-9239-research-report-methods/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ Allowance: remaining receivables 6,000; 3% = 180. **[10]**
 - Placing a bank overdraft among current assets.
 - Leaving out opening or closing work in progress.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/igcse-accounting-financial-statements-of-sole-traders-revision-notes/) and the [study guide](/resources/igcse-accounting-financial-statements-of-sole-traders/).
 - Open the [course hub](/boards/cambridge/igcse/accounting/) or the [checklist](/checklists/cambridge/igcse/accounting/).

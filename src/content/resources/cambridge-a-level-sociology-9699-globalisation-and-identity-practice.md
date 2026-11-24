@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -114,6 +114,6 @@ Evaluation: hybridity fits young, urban, mobile groups best [1]. Nationalism and
 
 **Level guidance:** top answers present three positions and reach a reasoned judgement; middle answers set convergence against divergence; low answers assert one side.
 
-## Next steps
+## More on this topic
 
 Continue with [globalisation, power and politics](/resources/cambridge-a-level-sociology-9699-globalisation-power-and-politics/), or review [perspectives on globalisation](/resources/cambridge-a-level-sociology-9699-perspectives-on-globalisation/).

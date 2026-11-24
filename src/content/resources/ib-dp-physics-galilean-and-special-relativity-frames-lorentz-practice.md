@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ These questions cover **sub-topic A.5, Galilean and special relativity**, from t
 - Measuring the world-line angle from the x axis.
 - Leaving out units or mixing light-years, metres and seconds in one line.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-revision-notes/)
 - Reread the [study guide](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz/)

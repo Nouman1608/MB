@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ D: elliptical **[1]**
 - Forgetting the potential energy at the surface in a launch calculation (Question 11).
 - Describing a geosynchronous orbit without saying it matches the Earth's rotation, or without linking it to fixed dishes (Question 10).
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [orbits of planets and satellites study guide](/resources/oxfordaqa-a-level-physics-9630-orbits-of-planets-and-satellites-oxfordaqa/).
 - Go back to the [gravitational potential practice questions](/resources/oxfordaqa-a-level-physics-9630-gravitational-potential-oxfordaqa-practice/) for energy in fields.

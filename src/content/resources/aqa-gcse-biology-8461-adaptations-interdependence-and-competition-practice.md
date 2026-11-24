@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -182,7 +182,7 @@ the top level.
 - Confusing behavioural adaptations (what the organism does) with functional ones (body processes).
 - Mixing up a population (one species) and a community (all species).
 
-## Next steps
+## More on this topic
 
 - [Study guide for this section](/resources/aqa-gcse-biology-8461-adaptations-interdependence-and-competition/)
 - [Revision notes for this section](/resources/aqa-gcse-biology-8461-adaptations-interdependence-and-competition-revision-notes/)

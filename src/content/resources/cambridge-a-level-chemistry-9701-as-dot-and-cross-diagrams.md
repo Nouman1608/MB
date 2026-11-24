@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ The cation has lost its outer shell, so either show nothing in its outer shell o
 - When asked to show a coordinate bond, add a label or arrow pointing to it.
 - Use the total-electron check before you move on; it takes seconds and catches most errors.
 
-## Related resources
+## More resources on this topic
 
 - [Dot-and-cross diagrams revision notes](/resources/cambridge-a-level-chemistry-9701-as-dot-and-cross-diagrams-revision-notes/)
 - [Dot-and-cross diagrams practice questions](/resources/cambridge-a-level-chemistry-9701-as-dot-and-cross-diagrams-practice/)

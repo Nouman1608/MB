@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -195,7 +195,7 @@ For full explanations, see the
     centre.
 12. It is quick and cheap to obtain (accept: may cover a large population).
 
-## Related resources
+## More resources on this topic
 
 - [Research Methods (Paper 2) practice questions](/resources/oxfordaqa-igcse-psychology-9218-research-methods-paper2-practice/)
 - [Communication revision notes](/resources/oxfordaqa-igcse-psychology-9218-communication-revision-notes/)

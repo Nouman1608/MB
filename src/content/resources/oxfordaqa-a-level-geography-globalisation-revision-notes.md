@@ -21,6 +21,7 @@ publishedDate: 2026-09-02
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -137,7 +138,7 @@ Distinguishing "globalisation" (the process and its drivers) from "global system
 
 Global Systems and Governance is itself Unit 2's opening section (Section A; Section B is Resource security), and it has eight sub-parts: 3.2.1.1 Globalisation and 3.2.1.2 Global systems (covered in these notes), then 3.2.1.3 International trade and access to markets, 3.2.1.4 Global governance, 3.2.1.5 The 'global commons', 3.2.1.6 The oceans as a global common, 3.2.1.7 Globalisation critique and 3.2.1.8 Quantitative and qualitative skills. These notes do not cover 3.2.1.3 to 3.2.1.8, which are examined in the same section. Treat globalisation and interdependence, covered here, as the conceptual foundation that the trade-focused content builds on -- the flows and power relations introduced here recur when that later content examines how trade agreements and TNCs shape access to markets.
 
-## Related resources
+## More resources on this topic
 
 - [Globalisation and Global Systems study guide](/resources/a-level-oxfordaqa-geography-global-systems-and-governance/)
 - [Globalisation and Global Systems practice questions](/resources/oxfordaqa-a-level-geography-globalisation-practice/)

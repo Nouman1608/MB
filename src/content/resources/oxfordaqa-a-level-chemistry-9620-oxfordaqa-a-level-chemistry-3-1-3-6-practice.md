@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ These questions cover **3.1.3.6 Bond polarity** of the OxfordAQA International A
 - Ignoring the effect of different outer atoms on symmetry.
 - Saying dipoles cancel without naming the shape.
 
-## Next steps
+## More on this topic
 
 - [Bond polarity study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-3-6/)
 - [Bond polarity revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-3-6-revision-notes/)

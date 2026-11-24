@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -239,7 +239,7 @@ adjustment itself.
   profit for the period and a complete statement of financial position, using
   the business in the question.
 
-## Next steps
+## More on this topic
 
 Work through the
 [4.3 revision notes](/resources/cambridge-igcse-accounting-0452-other-payables-and-other-receivables-revision-notes/),

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,6 +168,6 @@ Other acids give the same results with a carbonate, so the fizz shows that the s
 9. An aqueous solution containing ethanoic acid.
 10. An ester (ethyl ethanoate).
 
-## Next steps
+## More on this topic
 
 Work through the [carboxylic acids study guide](/resources/edexcel-igcse-chemistry-4ch1-carboxylic-acids/) for the worked examples, then try the [carboxylic acids practice questions](/resources/edexcel-igcse-chemistry-4ch1-carboxylic-acids-practice/). Continue with the [esters study guide](/resources/edexcel-igcse-chemistry-4ch1-esters/).

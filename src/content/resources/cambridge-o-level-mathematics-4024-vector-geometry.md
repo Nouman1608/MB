@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ AP is a multiple of AC and they share A, so **P lies on AC** with **AP : PC = 1 
 - **Find the ratio:** give it in the order asked, in its simplest whole-number form.
 - **Hence:** use the result of the previous part rather than starting again.
 
-## Next steps
+## More on this topic
 
 Try the [vector geometry practice questions](/resources/cambridge-o-level-mathematics-4024-vector-geometry-practice/) and use the [vector geometry revision notes](/resources/cambridge-o-level-mathematics-4024-vector-geometry-revision-notes/) to revise. The arithmetic behind these proofs is in [vectors in two dimensions](/resources/cambridge-o-level-mathematics-4024-vectors-in-two-dimensions/), and lengths are in [magnitude of a vector](/resources/cambridge-o-level-mathematics-4024-magnitude-of-a-vector/).
 

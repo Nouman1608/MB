@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -179,7 +179,7 @@ Competing (assertive, uncooperative); collaborating (assertive, cooperative); co
 11. Collaborating.
 12. Predatory: the target is singled out without having provoked it. Dispute-related: it grows out of an escalating conflict.
 
-## Related resources
+## More resources on this topic
 
 - [Group behaviour in organisations study guide](/resources/cambridge-a-level-psychology-9990-group-behaviour-in-organisations/)
 - [Group behaviour in organisations practice questions](/resources/cambridge-a-level-psychology-9990-group-behaviour-in-organisations-practice/)

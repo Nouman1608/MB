@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026. It covers the adjustments listed in section 3.3 for other payables, other receivables, income due and income received in advance, and the instruction to make entries for them in ledger accounts, in income statements and in statements of financial position. Section 3.3 falls within the content assessed by Paper 1 (content 1 to 3) and Paper 2 (content 3 to 5). All amounts on this page are in dollars.
@@ -267,7 +267,7 @@ Adjusted net profit is 18,640. The net change is +190, from -640 + 1,100 + 210 -
 - Applying the fraction to the wrong period. Count the months used in the year, then the months left, and check that they add to the full period.
 - Changing the ledger but leaving the statement figure alone, or the other way round.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in-practice/) and keep the [revision notes](/resources/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in-revision-notes/) to hand. The [diagnostics](/diagnostics/) are a quick way to check what you still need to revise.
 

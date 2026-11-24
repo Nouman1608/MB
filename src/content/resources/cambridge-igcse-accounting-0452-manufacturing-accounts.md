@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -207,7 +207,7 @@ An error in WIP therefore moves profit exactly as an inventory error does.
 - **Explain** a classification by referring to whether the cost can be traced to
   a unit of output.
 
-## Next steps
+## More on this topic
 
 Use the
 [5.4 revision notes](/resources/cambridge-igcse-accounting-0452-manufacturing-accounts-revision-notes/),

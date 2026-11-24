@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Data: ε₀ = 8.85 × 10⁻¹² F m⁻¹, so 1/(4πε₀) = 8.99 × 10⁹ N m² 
 - Not saying whether Q or V is held constant when a dielectric goes in.
 - Describing dielectric action without the opposing field.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-physics-electric-potential-and-capacitors-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-physics-electric-potential-and-capacitors/).
 - Check your progress on the [course hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -132,7 +132,7 @@ These questions cover statements 4.8 to 4.13 of Topic 4 (International AS) in th
 * Describing aseptic technique with vague words like "clean".
 * Describing a placebo as only "a fake drug" and not what it controls.
 
-## Next steps
+## More on this topic
 
 * [Revision notes](/resources/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug-revision-notes/)
 * [Study guide](/resources/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug/)

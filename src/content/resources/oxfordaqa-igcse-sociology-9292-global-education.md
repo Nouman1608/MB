@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ world. Use examples from your own society or a society you know about. [12 marks
 - Listing effects of poverty without explaining how each affects education.
 - No example from a named society when the question asks for one.
 
-## Next steps
+## More on this topic
 
 Condense with the [global education revision notes](/resources/oxfordaqa-igcse-sociology-9292-global-education-revision-notes/)
 and practise with the [global education practice questions](/resources/oxfordaqa-igcse-sociology-9292-global-education-practice/).

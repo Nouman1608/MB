@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ D: much larger than F **[1]**
 - Squaring the mass ratio instead of the radius ratio (Question 11).
 - Claiming the Earth pulls harder on the apple than the apple pulls on the Earth (Questions 5 and 12).
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [Newton's gravitational law study guide](/resources/oxfordaqa-a-level-physics-9630-newtons-gravitational-law/).
 - Continue with the [gravitational field strength practice questions](/resources/oxfordaqa-a-level-physics-9630-gravitational-field-strength-oxfordaqa-practice/).

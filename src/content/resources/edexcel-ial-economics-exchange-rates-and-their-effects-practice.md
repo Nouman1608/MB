@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ A depreciation helps the current account only when the price elasticity of deman
 **How do you describe central bank intervention in the currency market?**
 State whether the central bank buys or sells its own currency, and with what. To raise the rate it buys its own currency using foreign currency reserves; to lower it, it sells its own currency.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-ial-economics-exchange-rates-and-their-effects-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-exchange-rates-and-their-effects/).
 - Check coverage on the [checklist](/checklists/edexcel/a-level/economics/) and see the [course hub](/boards/edexcel/a-level/economics/).

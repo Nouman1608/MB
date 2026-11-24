@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ These questions cover section 3.1 "Business finance – sources" (points 3.1.1 t
 - Ignoring the owner's stated priority, such as control.
 - Giving a list of sources instead of comparing the two named in the question.
 
-## Next steps
+## More on this topic
 
 - Re-read the [sources of finance study guide](/resources/edexcel-igcse-business-4bs1-business-finance-sources/) for the choosing checklist.
 - Recheck definitions in the [sources of finance revision notes](/resources/edexcel-igcse-business-4bs1-business-finance-sources-revision-notes/).

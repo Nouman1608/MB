@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -168,7 +168,7 @@ Topic P1 (Matter) established the particle model, changes of state and pressure 
 - Calculate the elastic potential energy stored in a spring with k = 40 N/m extended by 0.2 m.
 - Explain why a parked car has zero resultant force despite gravity acting on it.
 
-## Related resources
+## More resources on this topic
 
 - [Forces study guide](/resources/ocr-gcse-physics-forces/)
 - [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/)

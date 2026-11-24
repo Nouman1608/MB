@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ Find the volume of the frustum. Give your answer correct to 3 significant figure
 - (Extended) Square-rooting a volume ratio.
 - (Extended) Giving "parallel lines" as a reason instead of "alternate angles" or "corresponding angles".
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [similarity study guide](/resources/cambridge-igcse-mathematics-0580-similarity/).
 - Recap with the [similarity revision notes](/resources/cambridge-igcse-mathematics-0580-similarity-revision-notes/).

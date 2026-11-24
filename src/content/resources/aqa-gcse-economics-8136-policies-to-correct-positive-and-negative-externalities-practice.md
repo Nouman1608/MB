@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ D: A minimum price
 - Saying a fine works without comparing it with the cost of complying.
 - Judging the policies without using the case details.
 
-## Next steps
+## More on this topic
 
 - Revise with the [externality policies revision notes](/resources/aqa-gcse-economics-8136-policies-to-correct-positive-and-negative-externalities-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-8136-policies-to-correct-positive-and-negative-externalities/).
 - For the theory of market failure, try the [market failure practice questions](/resources/aqa-gcse-economics-market-failure-misallocation-of-resources-practice/).

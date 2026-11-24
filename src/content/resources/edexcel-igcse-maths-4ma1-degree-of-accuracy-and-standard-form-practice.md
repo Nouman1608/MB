@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -194,7 +194,7 @@ No. In standard form the front number must be at least 1 and less than 10, so 13
 **Which parts of 4MA1 sections 1.8 and 1.9 are Higher tier only?**
 Solving problems with bounds (for example finding the bounds of a speed or choosing a suitable degree of accuracy) and solving problems involving standard form in context are Higher tier only. Rounding, identifying bounds, estimation and basic standard form are on both tiers.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-revision-notes/).
 - Reread the worked examples in the [study guide](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form/).

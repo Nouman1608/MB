@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -220,7 +220,7 @@ Trace with `data = [14, 9, 21, 6, 18]`. The first loop gives total = 14 + 9 + 21
 - Stopping a trace as soon as the answer looks right, rather than at the end of the algorithm.
 - Calling a never-ending loop an algorithm.
 
-## Next steps
+## More on this topic
 
 - [Following and writing algorithms revision notes](/resources/oxfordaqa-a-level-computer-science-9645-following-writing-algorithms-revision-notes/)
 - [Following and writing algorithms practice questions](/resources/oxfordaqa-a-level-computer-science-9645-following-writing-algorithms-practice/)

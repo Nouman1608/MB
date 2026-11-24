@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P6.1h to P6.1l in topic P6.1, Radioactive emissions. Statements P6.1h, P6.1i, P6.1j and P6.1l are assessed in both Foundation and Higher Tier papers. Statement P6.1k is printed in bold in the specification, so it is **Higher Tier only**. Nuclear structure, isotopes and decay equations (P6.1a to P6.1g) are taught in a separate unit and are not repeated here.
@@ -269,7 +269,7 @@ A Geiger-Müller tube is placed a fixed distance from a source. The background c
 - Describing ionisation as an electron moving to a higher level. That is excitation.
 - Saying an object becomes radioactive because radiation has passed through it. Irradiating an object does not make it radioactive.
 
-## Next steps
+## More on this topic
 
 Condense the unit with the [revision notes](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power-practice/). Use the [free diagnostics](/diagnostics/) to find weak topics.
 

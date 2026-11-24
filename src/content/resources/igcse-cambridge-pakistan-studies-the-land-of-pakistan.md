@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -174,7 +174,7 @@ treating Section 1 as a topic to finish and move on from.
   <figcaption>Build one map in three layers and keep returning to it.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge IGCSE Pakistan Studies: Natural Resources – An Issue of Sustainability (0448)](/resources/igcse-cambridge-pakistan-studies-natural-resources/)
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -169,7 +169,7 @@ The positive output in darkness can switch on a lamp through a driver such as a 
 - **Explain** questions on comparators need the comparison stated with the inputs named: "V₊ rises above V₋, so the output switches to positive saturation".
 - **Describe** questions on the analogy need the pairs named and the energy exchange explained.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [analogue signal processing revision notes](/resources/aqa-a-level-physics-7408-analogue-signal-processing-revision-notes/), test yourself with the [analogue signal processing practice questions](/resources/aqa-a-level-physics-7408-analogue-signal-processing-practice/), and carry the op-amp forward into feedback circuits with the [operational amplifier study guide](/resources/aqa-a-level-physics-7408-operational-amplifier/).
 

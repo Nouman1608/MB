@@ -29,7 +29,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopics **28.3, Colour of complexes**, **28.4,
@@ -290,7 +290,7 @@ No. Water is the solvent, so the water molecules released are left out of the ex
 **Which isomer of [Pt(NH₃)₂Cl₂] is polar?**
 In the bond-dipole model used for Cambridge A Level Chemistry 9701, the cis isomer is polar because its bond dipoles do not cancel, and the trans isomer is non-polar because identical opposite bonds cancel. Check the actual geometry rather than relying on the words cis or trans alone.
 
-## Related resources
+## More resources on this topic
 
 - [Transition Elements: Properties, Complexes and Redox
   Chemistry](/resources/a-transition-elements-properties-complexes-and-redox-chemistry/)

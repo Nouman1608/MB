@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -237,7 +237,7 @@ mixing units gives answers a million times out.
 - Epoxyethane mechanism missing the final proton transfer.
 - Unit slips between tonnes and grams in industrial calculations.
 
-## Next steps
+## More on this topic
 
 - [Alkenes revision notes](/resources/oxfordaqa-a-level-chemistry-alkenes-revision-notes/)
 - [Alkenes study guide](/resources/oxfordaqa-a-level-chemistry-alkenes/)

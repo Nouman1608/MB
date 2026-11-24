@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ No. Full employment means everyone who wants and is able to work at the going wa
 **What are common mistakes in unemployment calculations?**
 Typical errors include including cyclical unemployment in the natural rate, mixing up percentage points and per cent, and quoting results without saying what they mean.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-economics-unemployment-and-employment-revision-notes/) and [study guide](/resources/ocr-a-level-economics-unemployment-and-employment/).
 - Browse the [OCR A Level Economics hub](/boards/ocr/a-level/economics/) and tick off the [printable checklist](/checklists/ocr/a-level/economics/).

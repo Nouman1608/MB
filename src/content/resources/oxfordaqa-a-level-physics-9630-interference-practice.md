@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ D: It quadruples. **[1]**
 - Giving safety precautions without the reason (Question 11).
 - Adding absolute instead of percentage uncertainties for a quotient (Question 12).
 
-## Next steps
+## More on this topic
 
 - Review the reasoning in the [interference study guide](/resources/oxfordaqa-a-level-physics-9630-interference/).
 - Continue with the [diffraction practice questions](/resources/oxfordaqa-a-level-physics-9630-diffraction-practice/).

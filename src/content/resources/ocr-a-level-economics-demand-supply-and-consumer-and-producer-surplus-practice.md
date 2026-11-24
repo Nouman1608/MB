@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ These questions cover the first part of the topic Supply and demand and the inte
 - Mixing up composite demand (uses), joint demand (complements) and competitive demand (substitutes).
 - Treating producer surplus as the same thing as profit.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus/).
 - Course pages: the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Calculate how long it takes for the activity to fall to 1.2 × 10⁴ Bq. **[4]**
 - Confusing the decay constant, a probability per unit time, with the activity of a sample.
 - Rounding λ early.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-physics-exponential-radioactive-decay-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-physics-exponential-radioactive-decay/)

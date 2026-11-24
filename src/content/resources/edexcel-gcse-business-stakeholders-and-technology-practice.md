@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -130,7 +130,7 @@ Option B would end 3 of the 8 jobs and customers could no longer try a bike befo
 - Giving a conflict without saying why both groups cannot be satisfied.
 - Giving a list for evaluate or justify with no clear decision.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-gcse-business-stakeholders-and-technology-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-stakeholders-and-technology/).
 - Go to the [Business hub](/boards/edexcel/gcse/business/) or the [printable checklist](/checklists/edexcel/gcse/business/).

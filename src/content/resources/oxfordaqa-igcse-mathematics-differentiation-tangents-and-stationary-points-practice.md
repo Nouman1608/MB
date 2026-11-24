@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -146,7 +146,7 @@ At x = −2 the gradient goes − then +: **minimum** [1]. At x = 0 it goes + th
 - Forgetting that a stationary point of inflection exists: the gradient is zero but no sign change occurs.
 - Sketches with sharp corners at stationary points, or ends that go the wrong way for the highest power.
 
-## Next steps
+## More on this topic
 
 - Revise the key results in the [revision notes](/resources/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points-revision-notes/).
 - Re-read the methods in the [study guide](/resources/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points/).

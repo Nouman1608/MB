@@ -22,7 +22,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -250,7 +250,7 @@ At the top, T = mv²/r − mg, and at the bottom, T = mv²/r + mg, so the tensio
 **Are banked tracks examinable in Cambridge 9702?**
 No. Banked tracks are not part of the Cambridge 9702 Motion in a Circle content; the banked-track section here is a worked extension for background only.
 
-## Related resources
+## More resources on this topic
 
 - [Dynamics: Newton's Laws and Momentum](/resources/as-physics-dynamics-newtons-laws-and-momentum/) — the AS Level foundation for force and acceleration
 - [Gravitational Fields](/resources/a-physics-gravitational-fields/) — the next A Level topic, applying circular motion to orbits

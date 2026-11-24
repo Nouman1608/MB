@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ IR: alcohol O–H 3200–3600 cm⁻¹ (broad); acid O–H 2500–3300 cm⁻¹ (v
 - Rounding an empirical ratio of 4.5 up or down instead of doubling.
 - Not checking that integration totals match the formula.
 
-## Next steps
+## More on this topic
 
 - [Spectroscopy revision notes](/resources/ocr-a-level-chemistry-spectroscopy-revision-notes/)
 - [Spectroscopy study guide](/resources/ocr-a-level-chemistry-spectroscopy/)

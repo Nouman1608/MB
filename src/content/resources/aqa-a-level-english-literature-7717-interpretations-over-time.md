@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ paragraph where interpretations over time appear, name the two or more moments, 
 anthology section. Keep quotations from critics short, since AQA's NEA guidance excludes quotations
 from the word count, and your own argument must carry the essay.
 
-## Related resources
+## More resources on this topic
 
 - [Interpretations over time revision notes](/resources/aqa-a-level-english-literature-7717-interpretations-over-time-revision-notes/)
 - [Interpretations over time practice questions](/resources/aqa-a-level-english-literature-7717-interpretations-over-time-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide is written for OCR GCSE (9-1) Mathematics (J560), aligned to the specification Version 2.1 (August 2026), first assessment 2017. It covers section 5.01, Calculations with ratio, which is part of section 5, Ratio, Proportion and Rates Of Change. Everything here is Foundation and Higher content: there are no Higher tier only statements in this unit. Splitting a quantity into three or more parts (5.01b) is listed for Foundation tier learners in the specification's second column, so Higher tier learners need it too. The specification says all content may be assessed on either the calculator or non-calculator papers, so practise every method below by hand.
 
@@ -291,7 +291,7 @@ A linear function does not always describe a ratio. A taxi fare y = 2x + 3 (in p
 - Giving a final answer such as 3 : 5 : 8 without checking that the shares add up to the total.
 - Treating every linear function as a ratio. Only y = kx has a constant ratio.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and-practice/), then return to the [revision notes](/resources/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and-revision-notes/) for the quick-recall tables.
 

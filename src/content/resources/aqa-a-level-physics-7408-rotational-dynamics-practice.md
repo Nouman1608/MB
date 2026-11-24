@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Data: g = 9.81 m s⁻².
 - Taking the string tension as mg.
 - Forgetting that the area under a torque–time graph is the angular impulse.
 
-## Next steps
+## More on this topic
 
 - [Rotational dynamics study guide](/resources/aqa-a-level-physics-7408-rotational-dynamics/)
 - [Rotational dynamics revision notes](/resources/aqa-a-level-physics-7408-rotational-dynamics-revision-notes/)

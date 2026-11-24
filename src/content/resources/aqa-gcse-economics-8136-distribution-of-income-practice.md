@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Using calculations, identify which country has the more unequal distribution of 
 - Confusing income with wealth in definitions.
 - Answering "Evaluate" with points on one side only.
 
-## Next steps
+## More on this topic
 
 - Revise with the [distribution of income revision notes](/resources/aqa-gcse-economics-8136-distribution-of-income-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-8136-distribution-of-income/).
 - For tax types in more depth, see the [UK government revenue and spending revision notes](/resources/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect-revision-notes/).

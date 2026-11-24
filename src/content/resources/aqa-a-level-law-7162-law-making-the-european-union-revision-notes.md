@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,6 +152,6 @@ Condensed notes on **Law making: the European Union** in AQA A-level Law (7162) 
 
 **Answers:** 1. One government minister from each member state, depending on the subject. 2. The Commission. 3. It monitors compliance and brings enforcement proceedings against member states that fail to meet their obligations. 4. Directly elected every five years; it approves the Commission's appointment and can dismiss it by a vote of censure. 5. They give independent written opinions to the Court before judgment. 6. A national court refers a question on the meaning of EU law to the CJEU, which interprets it; the national court then applies the ruling to the facts. 7. Vertical: enforceable against the state; horizontal: enforceable against private individuals and companies. 8. They are directly applicable and create rights without national legislation. 9. Her employer, a health authority, was an emanation of the state, so the directive had vertical direct effect. 10. That an individual can claim damages from the state for loss caused by its failure to implement a directive. 11. Courts could disapply an Act of Parliament conflicting with EU law while the UK was a member. 12. It renamed retained EU law as assimilated law from 1 January 2024 and ended supremacy and general principles of EU law for it.
 
-## Related resources
+## More resources on this topic
 
 [European Union study guide](/resources/aqa-a-level-law-7162-law-making-the-european-union/) | [European Union practice questions](/resources/aqa-a-level-law-7162-law-making-the-european-union-practice/) | [Rule of Law, Law Reform, the EU and Civil Justice revision notes](/resources/aqa-a-level-law-rule-of-law-reform-eu-and-civil-justice-revision-notes/)

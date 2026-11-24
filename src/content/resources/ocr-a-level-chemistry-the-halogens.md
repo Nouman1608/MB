@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.1.3, The halogens, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It belongs to Module 3, Periodic table and energy, and its seven lettered learning outcomes, 3.1.3(a) to (g), are all taught below with worked examples. H432 is the full A level, and OCR assesses Module 3 in Periodic table, elements and physical chemistry (01) and Unified chemistry (03). Outcome 3.1.3(g) is linked to PAG4, qualitative analysis of ions.
@@ -257,7 +257,7 @@ You need the observations with ammonia, not the formulae of the silver–ammonia
 - Writing NaClO₃ for bleach. Cold dilute alkali gives NaClO.
 - Forgetting the dilute nitric acid step, or using hydrochloric acid, which adds chloride ions.
 
-## Next steps
+## More on this topic
 
 - Condensed tables and a quick self-test: [The halogens revision notes](/resources/ocr-a-level-chemistry-the-halogens-revision-notes/)
 - Original questions with marked answers: [The halogens practice questions](/resources/ocr-a-level-chemistry-the-halogens-practice/)

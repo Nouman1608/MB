@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -203,7 +203,7 @@ For the rest of J248, use the [course hub](/boards/ocr/gcse/chemistry/) and the 
 - Adding a negative LCA value instead of subtracting it.
 - Giving one rusting condition instead of two.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this sub-topic](/resources/ocr-gcse-chemistry-improving-processes-and-products-revision-notes/)
 - [All free 10-minute diagnostics](/diagnostics/)

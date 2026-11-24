@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -221,7 +221,7 @@ Investigation:  Inquest examining in what circumstances she died
 - **Discuss**: evaluate the gap between Convention duties and domestic law, for example Osman against
   Hill, or the honest belief test against "absolutely necessary".
 
-## Related resources
+## More resources on this topic
 
 [Human Rights and English law revision notes](/resources/aqa-a-level-law-7162-human-rights-and-english-law-revision-notes/) |
 [Human Rights and English law practice questions](/resources/aqa-a-level-law-7162-human-rights-and-english-law-practice/) |

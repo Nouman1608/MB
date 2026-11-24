@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 3.2.3.1 (fiscal policy) and 3.2.3.2 (monetary policy) of the OxfordAQA International GCSE Economics specification (9214), first teaching September 2023, first examined May/June 2025. Both sit in section 3.2, How economies work. Supply-side policies and externalities (3.2.3.3 and 3.2.3.4) are separate units and are not repeated.
@@ -278,7 +278,7 @@ If the target is 2%, inflation is almost one percentage point too high, so the c
 - Applying monetary policy to cost-push inflation without noting its limits.
 - Forgetting to link every policy to an objective in the final sentence.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/oxfordaqa-igcse-economics-fiscal-and-monetary-policy-practice/) and use the [revision notes](/resources/oxfordaqa-igcse-economics-fiscal-and-monetary-policy-revision-notes/) to check recall.
 

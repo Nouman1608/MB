@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -239,7 +239,7 @@ Write "nucleophilic substitution" in full; "substitution" alone is incomplete. I
 **What goes wrong in ozone depletion equations?**
 Common losses are leaving radical dots off Cl• and ClO•, and writing steps in which Cl• is not regenerated. Show that the chlorine radical is a catalyst that is re-formed.
 
-## Next steps
+## More on this topic
 
 - Recap with the [halogenoalkanes revision notes](/resources/aqa-a-level-chemistry-halogenoalkanes-revision-notes/).
 - Reread the [halogenoalkanes study guide](/resources/aqa-a-level-chemistry-halogenoalkanes/).

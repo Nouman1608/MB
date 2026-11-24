@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ These questions cover **3.1.6.2 Maxwell–Boltzmann distribution** of the Oxford
 - Moving Ea when the temperature changes.
 - Interpreting with the height at Ea rather than the area beyond Ea.
 
-## Next steps
+## More on this topic
 
 - [Maxwell–Boltzmann study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-6-2/)
 - [Maxwell–Boltzmann revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-6-2-revision-notes/)

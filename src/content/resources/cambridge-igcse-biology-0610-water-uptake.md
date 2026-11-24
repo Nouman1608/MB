@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ The statement asks you to investigate the pathway through the **above-ground par
 - **Outline** the pathway: all four stages, in order, using the syllabus names.
 - **Describe** the investigation: plant, stain, time, sectioning, observation, conclusion.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [water uptake revision notes](/resources/cambridge-igcse-biology-0610-water-uptake-revision-notes/).
 - Marked questions: [water uptake practice questions](/resources/cambridge-igcse-biology-0610-water-uptake-practice/).

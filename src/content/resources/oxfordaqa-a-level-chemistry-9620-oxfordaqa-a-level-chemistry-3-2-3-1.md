@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -175,6 +175,6 @@ The three reasons the specification asks for:
 - **"State observations"**: give colours and physical states (gas, solid, solution), not just product names.
 - **"Explain why the silver nitrate is acidified"**: name the interfering ion (carbonate) and what it would do.
 
-## Next steps
+## More on this topic
 
 Condense this with the [trends in properties revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-3-1-revision-notes/), then try the [trends in properties practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-3-1-practice/). The reactions of chlorine with water and with alkali are in [uses of chlorine and chlorate(I)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-3-2/).

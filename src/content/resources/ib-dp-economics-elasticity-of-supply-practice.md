@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Yes. Stopping at the number loses marks, so say whether supply is relatively ela
 **What are common mistakes in IB Economics PES questions?**
 Common errors include putting price on top of the formula, using absolute rather than percentage changes, sketching diagrams without axis or curve labels, and naming a determinant without showing which way it moves PES.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ib-dp-economics-elasticity-of-supply-revision-notes/) for the gaps you found.
 - Return to the [study guide](/resources/ib-dp-economics-elasticity-of-supply/) for the full explanations.

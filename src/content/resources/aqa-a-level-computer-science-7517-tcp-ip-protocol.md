@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -150,7 +150,7 @@ Data is sent between server and web application as **JSON** or **XML**. Compared
 - For **"why"** questions (NAT, DHCP, IPv6), give the problem each solves.
 - For **comparisons**, give both sides of each point.
 
-## Related resources
+## More resources on this topic
 
 - [TCP/IP revision notes](/resources/aqa-a-level-computer-science-7517-tcp-ip-protocol-revision-notes/)
 - [TCP/IP practice questions](/resources/aqa-a-level-computer-science-7517-tcp-ip-protocol-practice/)

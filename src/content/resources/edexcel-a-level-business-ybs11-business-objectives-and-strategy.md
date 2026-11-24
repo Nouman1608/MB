@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -132,7 +132,7 @@ The more intense the forces, the lower the industry's profits. The model support
 
 For **analyse** questions, apply one model to the business and trace the chain, such as "new entrants threaten the firm because capital costs are low, which would cut prices and market share". In **assess** and essay answers, weigh which strategy fits the business's resources and risk, and use evidence such as a calculated share or growth target. Strong judgements say what the choice depends on, for instance the firm's cash reserves or the market's growth rate.
 
-## Related resources
+## More resources on this topic
 
 - [Business objectives and strategy revision notes](/resources/edexcel-a-level-business-ybs11-business-objectives-and-strategy-revision-notes/)
 - [Business objectives and strategy practice questions](/resources/edexcel-a-level-business-ybs11-business-objectives-and-strategy-practice/)

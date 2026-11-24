@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ constant. **[6]**
 - (Higher tier only) Stopping at "the temperature rises" and not explaining why it then becomes constant.
 - (Higher tier only) Leaving reflected radiation out of the Earth's balance.
 
-## Next steps
+## More on this topic
 
 - [Black body radiation study guide](/resources/aqa-gcse-physics-8463-black-body-radiation/)
 - [Black body radiation revision notes](/resources/aqa-gcse-physics-8463-black-body-radiation-revision-notes/)

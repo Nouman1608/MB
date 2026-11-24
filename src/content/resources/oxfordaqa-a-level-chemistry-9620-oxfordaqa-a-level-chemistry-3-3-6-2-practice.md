@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ D: C₃H₈N₂ **[1]**
 - Treating the molecular formula as if it gave the structure.
 - Ignoring other evidence (test tube results) when asked to suggest a structure.
 
-## Next steps
+## More on this topic
 
 - Recap the facts: [mass spectrometry revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-6-2-revision-notes/)
 - Relearn the method: [mass spectrometry study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-6-2/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Data where needed: 1 u = 1.661 × 10⁻²⁷ kg = 931.5 MeV/c²; 1 MeV = 1.602 �
 - Mixing random with spontaneous.
 - Giving a 2-digit answer where three significant figures are expected.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of-revision-notes/) and the [study guide](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of/).
 - Visit the [IB DP Physics hub](/boards/ib/ib-dp/physics/) and tick off topics on the [printable checklist](/checklists/ib/ib-dp/physics/).

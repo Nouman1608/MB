@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Monetary policy, sections 4.4.1 to 4.4.3, from the Cambridge O Level Economics 2281 syllabus for examination in 2026 (topic 4, Government and the macroeconomy). The syllabus is not tiered. The countries, firms and numbers here are all made up. For quick recall use the [revision notes](/resources/cambridge-o-level-economics-monetary-policy-revision-notes/), then test yourself with the [practice set](/resources/cambridge-o-level-economics-monetary-policy-practice/). The course [hub](/boards/cambridge/o-level/economics/) and [printable checklist](/checklists/cambridge/o-level/economics/) show the rest of the syllabus, and the free [diagnostics](/diagnostics/) show where you are weakest.
@@ -198,7 +198,7 @@ Diagram in words: draw a market for A-dollars with the exchange rate (B-dollars 
 - Describing tax and spending changes as monetary policy.
 - Giving effects with no chain of reasoning, or no evaluation when "discuss" or "evaluate" is asked.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/cambridge-o-level-economics-monetary-policy-revision-notes/) and then the [practice set](/resources/cambridge-o-level-economics-monetary-policy-practice/). The wider topic has its own [practice questions](/resources/o-level-economics-government-and-the-macroeconomy-practice/).
 

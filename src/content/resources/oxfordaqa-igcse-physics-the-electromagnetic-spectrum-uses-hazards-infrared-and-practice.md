@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -147,7 +147,7 @@ Order: **gamma rays, X-rays, ultraviolet, visible light, infrared, microwaves, r
 - Naming a hazard without naming the wave that causes it, or giving a protection measure that does not match the hazard.
 - Saying that X-rays "go through bone" rather than being absorbed by it.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and/).
 - Course pages: [OxfordAQA IGCSE Physics hub](/boards/oxfordaqa/igcse/physics/) and the [printable checklist](/checklists/oxfordaqa/igcse/physics/).

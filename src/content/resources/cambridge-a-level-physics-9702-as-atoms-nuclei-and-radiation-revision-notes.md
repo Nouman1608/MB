@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ Example: a carbon-14 nucleus (A = 14, Z = 6) has mass ≈ 14 × 1.66 × 10⁻²�
 
 **Answers:** 1. A tiny region of concentrated positive charge containing most of the atom's mass. 2. So that each α-particle is deflected by at most one nucleus. 3. 235 − 92 = 143. 4. Forms of the same element with the same number of protons but different numbers of neutrons. 5. About 5.5 × 10⁻⁴ u; +e. 6. An electron antineutrino. 7. A particle with the same mass but opposite charge to the corresponding particle. 8. ⁶⁰₂₈Ni, a β⁻ particle (⁰₋₁β) and an antineutrino. 9. Neither changes. 10. 7 α and 4 β⁻. 11. The energy released is shared between three bodies, and the (anti)neutrino takes a variable share. 12. 12 × 1.66 × 10⁻²⁷ = 1.99 × 10⁻²⁶ kg.
 
-## Related resources
+## More resources on this topic
 
 - [Particle physics revision notes](/resources/as-physics-particle-physics-revision-notes/) — the whole of Topic 11
 - [Fundamental particles revision notes](/resources/cambridge-a-level-physics-9702-as-fundamental-particles-revision-notes/) — subtopic 11.2

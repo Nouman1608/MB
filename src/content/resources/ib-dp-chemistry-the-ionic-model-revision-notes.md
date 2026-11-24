@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense **Structure 2.1, The ionic model**, for the final weeks before your exams. They follow the IB's Diploma Programme *Chemistry guide* (February 2023 edition, first assessment 2025) and cover understandings Structure 2.1.1, 2.1.2 and 2.1.3. All of it is common to **SL and HL**, because this sub-topic has no AHL extension.
@@ -233,7 +233,7 @@ Compare potassium sulfide, K₂S, with calcium sulfide, CaS. Both contain S²⁻
 11. Cu₂O is copper(I) oxide; CuO is copper(II) oxide.
 12. Five: two Ga³⁺ and three Se²⁻.
 
-## Next steps
+## More on this topic
 
 - [Study guide for Structure 2.1](/resources/ib-dp-chemistry-the-ionic-model/) and [Structure 2.1 practice questions](/resources/ib-dp-chemistry-the-ionic-model-practice/)
 - Wider course pages: the [syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/), the [IB chemistry hub](/boards/ib/ib-dp/chemistry/) and the [printable checklist](/checklists/ib/ib-dp/chemistry/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -210,7 +210,7 @@ inhibition makes it less likely. 5. The occipital lobe. 6. CT. 7. Thinking about
 was associated with more activity in frontal areas. 8. Each hemisphere's motor area controls the
 opposite side of the body. 9. Neurotransmitter is taken back into the presynaptic neuron, ending its effect. 10. The somatic nervous system. 11. Strength: shows brain activity without radiation. Limitation: expensive, or the person must stay very still, or activity is measured indirectly. 12. Difficulty understanding language, with speech that may be fluent but make little sense.
 
-## Related resources
+## More resources on this topic
 
 - [Brain and Neuropsychology study guide](/resources/aqa-gcse-psychology-8182-brain-and-neuropsychology/)
 - [Brain and Neuropsychology practice questions](/resources/aqa-gcse-psychology-8182-brain-and-neuropsychology-practice/)

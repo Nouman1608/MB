@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Shortest distance from A to L = sqrt(1.2^2 + 0.4^2) = sqrt(1.6) = 1.26 (3 s.f.)
 11. x = 5 is vertical, so the line is horizontal: **y = –2**
 12. Gradients 4/2 = 2 and (2 – 4)/(6 – 2) = –½; product –1: **yes**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [perpendicular lines study guide](/resources/cambridge-igcse-mathematics-0580-perpendicular-lines/).
 - Practise with the [perpendicular lines practice questions](/resources/cambridge-igcse-mathematics-0580-perpendicular-lines-practice/).

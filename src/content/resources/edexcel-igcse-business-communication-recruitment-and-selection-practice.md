@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover Topic 2 "People in business", sections 2.1 and 2.2, in the
 - Writing generally about discrimination instead of effects on the business's recruitment.
 - Ignoring figures given in the case study.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-business-communication-recruitment-and-selection-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-communication-recruitment-and-selection/).
 - Course hub: [4BS1 Business](/boards/edexcel/igcse/business/) and the [printable checklist](/checklists/edexcel/igcse/business/).

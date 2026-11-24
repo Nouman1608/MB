@@ -23,6 +23,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -153,7 +154,7 @@ Evaluation: "truly sustainable" may not exist anywhere, as every large city depe
 - Writing case studies as fact lists without linking to sustainability or residents' experience.
 - Ending an extended answer with no judgement, or with one not supported by earlier points.
 
-## Next steps
+## More on this topic
 
 Check weak areas against the [study guide](/resources/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments/). For data and statistical skills, use the [geographical and fieldwork skills guide](/resources/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills/). For timing and command words, see the [9635 exam preparation guide](/resources/oxfordaqa-a-level-geography-exam-preparation/). Try the [globalisation practice questions](/resources/oxfordaqa-a-level-geography-globalisation-practice/) for linked world city content. Find your gaps with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/).
 

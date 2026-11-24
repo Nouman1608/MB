@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ To see where this unit sits in the course, use the [IB DP chemistry hub](/boards
 - Drawing a second Maxwell–Boltzmann curve for a catalyst, or a hotter curve with a larger area.
 - Changing ΔH when adding the catalysed pathway to an energy profile.
 
-## Next steps
+## More on this topic
 
 - Go back over the [revision notes](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-revision-notes/)
 - Re-read the [study guide](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory/)

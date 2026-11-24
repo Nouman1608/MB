@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -197,7 +197,7 @@ These questions cover section 3.4.6, Electromotive force and internal resistance
 - Reasons for switching off that do not mention a change in ε or r.
 - Quoting a negative internal resistance from an intercept.
 
-## Next steps
+## More on this topic
 
 - Recap with the [emf and internal resistance revision notes](/resources/oxfordaqa-a-level-physics-9630-electromotive-force-and-internal-resistance-oxfordaqa-revision-notes/).
 - Re-read the [emf and internal resistance study guide](/resources/oxfordaqa-a-level-physics-9630-electromotive-force-and-internal-resistance-oxfordaqa/).

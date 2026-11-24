@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ your own society or a society you know about. [12 marks]*
   analysing policing, disadvantage and labelling.
 - Ignoring intersections between gender, class, age and ethnicity.
 
-## Next steps
+## More on this topic
 
 Condense with the [patterns of offending and victimisation revision notes](/resources/oxfordaqa-igcse-sociology-9292-patterns-of-offending-and-victimisation-revision-notes/)
 and practise with the [practice questions](/resources/oxfordaqa-igcse-sociology-9292-patterns-of-offending-and-victimisation-practice/).

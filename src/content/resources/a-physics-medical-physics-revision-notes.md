@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -178,7 +178,7 @@ Bone contains calcium, which has a much higher atomic number than the elements i
 **Is A-scan and B-scan terminology in the Cambridge 9702 syllabus?**
 No. The current 9702 syllabus no longer names A-scans and B-scans; it requires you to understand that pulse-echo reflection at tissue boundaries provides diagnostic information. The terms appear on this page only as background.
 
-## Related resources
+## More resources on this topic
 
 - [Medical Physics study guide](/resources/a-physics-medical-physics/) — the full explanation behind these condensed notes
 - [Cambridge AS & A Level Physics hub](/boards/cambridge/a-level/physics/) — syllabus 9702 topics and all Marlbridge Physics resources

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Read the [study guide](/resources/aqa-gcse-business-marketing/) and the [revisio
 - Calculating mark-up on the selling price instead of on the cost.
 - Evaluation answers with no judgement at the end.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-business-marketing-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-business-marketing/).
 - Tick off the topic on the [checklist](/checklists/aqa/gcse/business/) and visit the [course hub](/boards/aqa/gcse/business/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ Calculate the speed over successive equal intervals and show that it has stopped
 **How many significant figures should a dynamics answer have?**
 Give the final answer to a number of significant figures consistent with the data, usually 2 or 3. Too many or too few significant figures can cost a mark.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity-revision-notes/)
 - [Study guide](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ An answer that links water to energy, food and health shows the connections exam
 - **Describing problems without strategies,** or strategies without their limits.
 - **Ignoring groundwater,** which supplies a large share of irrigation water.
 
-## Related resources
+## More resources on this topic
 
 - [Water resources revision notes](/resources/oxfordaqa-igcse-pakistan-studies-9236-water-resources-management-revision-notes/)
 - [Water resources practice questions](/resources/oxfordaqa-igcse-pakistan-studies-9236-water-resources-management-practice/)

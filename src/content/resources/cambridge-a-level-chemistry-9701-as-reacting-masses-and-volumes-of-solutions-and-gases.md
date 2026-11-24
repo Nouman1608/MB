@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ When the equation is unknown, measure amounts of reactants and products, convert
 - Show each conversion on its own line, with units.
 - State the limiting reagent in words before calculating the product.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge 9701 Relative masses of atoms and molecules](/resources/cambridge-a-level-chemistry-9701-as-relative-masses-of-atoms-and-molecules/)
 - [AS Chemistry: Atoms, Molecules and Stoichiometry — Practice Questions](/resources/as-chem-stoichiometry-practice/)

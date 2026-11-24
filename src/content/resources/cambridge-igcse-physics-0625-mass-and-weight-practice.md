@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -161,6 +161,6 @@ Related: [study guide on mass and weight](/resources/cambridge-igcse-physics-062
 - Saying a beam balance gives a different reading on the Moon.
 - *(Extended)* Explaining equal acceleration only by "no air resistance", without the equal force per kilogram.
 
-## Next steps
+## More on this topic
 
 Revise the definitions again with the [revision notes on mass and weight](/resources/cambridge-igcse-physics-0625-mass-and-weight-revision-notes/), then try the [practice questions on density](/resources/cambridge-igcse-physics-0625-density-practice/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Paper 2 The Sociology of Crime and Deviance and
@@ -190,7 +190,7 @@ explanations of poverty, naming Townsend and Murray.
 - For every named sociologist, know which of the four perspectives
 they represent and be able to state their argument in one sentence.
 
-## Related resources
+## More resources on this topic
 
 [Crime, Deviance and Social Stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/) |
 [Crime, Deviance and Social Stratification practice questions](/resources/gcse-sociology-crime-stratification-practice/)

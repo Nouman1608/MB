@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -166,6 +166,6 @@ Reaction mechanisms are not required.
 9. Addition.
 10. 1,2-dibromoethane and 1,1-dibromoethane.
 
-## Next steps
+## More on this topic
 
 Work through the [organic chemistry introduction study guide](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry-introduction/) for the worked examples, then try the [practice questions](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry-introduction-practice/). Continue with the [crude oil study guide](/resources/edexcel-igcse-chemistry-4ch1-crude-oil/).

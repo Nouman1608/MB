@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ Data for this set: H = 1.0, C = 12.0, O = 16.0, Na = 23.0, S = 32.1, Cl = 35.5, 
 - Giving "wear goggles" when a specific hazard is named.
 - Leaving out the scale-up factor for a 25.0 cm³ portion of a 250 cm³ solution.
 
-## Next steps
+## More on this topic
 
 - [Unit 3 revision notes](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i-revision-notes/)
 - [Unit 3 study guide](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Divide (1 + nominal growth) by (1 + inflation) and subtract 1. Subtracting infla
 **Is a fall in the growth rate a recession?**
 No. A recession needs real GDP itself to fall. If growth falls from 3% to 1%, output is still rising.
 
-## Next steps
+## More on this topic
 
 - Re-read the [economic growth study guide](/resources/ocr-as-level-economics-h060-economic-growth/).
 - Move on to [employment and unemployment](/resources/ocr-as-level-economics-h060-employment-unemployment/).

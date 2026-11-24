@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Read the [study guide](/resources/oxfordaqa-igcse-mathematics-sequences-nth-term
 - Missing steps in "show that" questions, especially the algebra with brackets.
 - Confusing triangular numbers with square numbers, or forgetting that some numbers are both.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences/).
 - Return to the [OxfordAQA IGCSE Mathematics course page](/boards/oxfordaqa/igcse/mathematics/) and tick off topics on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).

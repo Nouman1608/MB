@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -164,6 +164,6 @@ Calculations like this turn a general point ("fracking uses a lot of water") int
 
 For **define**, give the syllabus wording. For **discuss**, aim for benefits and limitations in balance, each one explained, then a judgement that refers to the place in the source. Use the vocabulary of 1.1: shale is **impermeable**, which is why fracturing is needed.
 
-## Next steps
+## More on this topic
 
 Revise with the [Fracking revision notes](/resources/cambridge-igcse-environmental-management-0680-fracking-revision-notes/) and practise with the [Fracking practice questions](/resources/cambridge-igcse-environmental-management-0680-fracking-practice/). For the strategies that could be used instead, see the [Conservation and management of energy resources study guide](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy/).

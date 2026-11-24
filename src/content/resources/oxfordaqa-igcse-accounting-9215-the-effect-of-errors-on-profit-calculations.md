@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ The suspense account is neither income nor expense, so the suspense side of a jo
 - **"Explain"** an effect: name the account, say whether it was overstated or understated, and conclude what that did to profit.
 - Show **0** for errors with no profit effect when a table is asked for; it shows the examiner you considered them.
 
-## Next steps
+## More on this topic
 
 - Quick recall: [effect of errors on profit revision notes](/resources/oxfordaqa-igcse-accounting-9215-the-effect-of-errors-on-profit-calculations-revision-notes/).
 - Marked questions: [effect of errors on profit practice questions](/resources/oxfordaqa-igcse-accounting-9215-the-effect-of-errors-on-profit-calculations-practice/).

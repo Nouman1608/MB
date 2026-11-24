@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ low     | V               |                | Z              |
 - Giving recommendations with no reasons, or evaluation with no judgment.
 - Rounding too early in multi-step calculations.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/ib-dp-business-management-introduction-to-marketing-and-marketing-planning/) and [revision notes](/resources/ib-dp-business-management-introduction-to-marketing-and-marketing-planning-revision-notes/) again for any question you missed.
 - Check coverage on the [printable checklist](/checklists/ib/ib-dp/business/) and the [course hub](/boards/ib/ib-dp/business/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ Check any completed square by expanding it: 3(x + 2)² − 16 = 3x² + 12x + 12 
 - **Write in the form a(x + p)² + q:** state a, p and q clearly, with their signs. If the question gives the form (x + p)² + q, a is 1.
 - **Hence:** use the result you have just found, as in Worked example 6(b), rather than starting again.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [algebraic manipulation revision notes](/resources/cambridge-igcse-mathematics-0580-algebraic-manipulation-revision-notes/).
 - Exam-style questions with marked answers: [algebraic manipulation practice questions](/resources/cambridge-igcse-mathematics-0580-algebraic-manipulation-practice/).

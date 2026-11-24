@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -171,7 +171,7 @@ Applying the mark-up to the selling price instead of the cost. Show the mark-up 
 **How do you compare distribution channels or promotion methods using figures?**
 Say whether you are judging by profit per unit or by total profit, because they can point to different options. Then support your choice with the figures you have calculated.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/o-level-business-marketing-mix/) and the [revision notes](/resources/o-level-business-marketing-mix-revision-notes/).
 - Course pages: [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and [printable checklist](/checklists/cambridge/o-level/business/).

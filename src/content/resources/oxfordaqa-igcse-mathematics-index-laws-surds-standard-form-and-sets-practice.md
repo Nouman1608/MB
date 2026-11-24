@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -171,7 +171,7 @@ These questions are aligned to the OxfordAQA International GCSE Mathematics (926
 - Copying a calculator display (3.15E-4) instead of writing the full standard form.
 - Counting the overlap twice in a set problem, or filling the single-set regions first.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets/) for any question you missed.
 - Use the [revision notes](/resources/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets-revision-notes/) for a quick recap.

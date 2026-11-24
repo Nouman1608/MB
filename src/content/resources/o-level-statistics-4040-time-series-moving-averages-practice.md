@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -202,7 +202,7 @@ For each value, subtract the trend value (moving average or trend-line reading) 
 **How do you predict a future value from a time series?**
 Read or extend the trend line to the future time point, then add that season's mean seasonal component. The prediction assumes the trend stays linear and the seasonal pattern does not change.
 
-## Next steps
+## More on this topic
 
 - [Crude and standardised rates practice](/resources/o-level-statistics-4040-crude-and-standardised-rates-practice/)
 - [Index numbers practice](/resources/o-level-statistics-4040-index-numbers-practice/)

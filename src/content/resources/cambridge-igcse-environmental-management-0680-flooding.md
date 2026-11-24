@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,6 +155,6 @@ This shows numerically why urbanisation is a cause of flooding.
 - **Discuss**: a benefit and a limitation for each strategy, then a judgement, for example that zoning is cheap but hardest to apply where land is scarce.
 - In calculations, convert units first and show each step.
 
-## Next steps
+## More on this topic
 
 Revise with the [Flooding revision notes](/resources/cambridge-igcse-environmental-management-0680-flooding-revision-notes/), then practise with the [Flooding practice questions](/resources/cambridge-igcse-environmental-management-0680-flooding-practice/).

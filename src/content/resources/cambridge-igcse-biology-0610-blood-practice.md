@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ Hormones are carried in plasma from glands to ................ organs. **[3]**
 - Confusing fibrinogen and fibrin.
 - Rounding a mean to a whole number when the data do not justify it.
 
-## Next steps
+## More on this topic
 
 - Re-read the [blood study guide](/resources/cambridge-igcse-biology-0610-blood/) for any question you found hard.
 - Try whole-topic questions in the [transport in animals practice set](/resources/igcse-biology-0610-transport-in-animals-practice/).

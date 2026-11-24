@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ depth = 1200 / 2 = 600 m
 - **Calculate** from a trace: show the division count, the time-base setting and the conversion.
 - **Explain** a medical use: say what the ultrasound does and why it is suitable.
 
-## Next steps
+## More on this topic
 
 Try the [Sound and ultrasound practice questions](/resources/oxfordaqa-igcse-physics-9203-sound-and-ultrasound-oxfordaqa-practice/), and revisit the [General properties of waves study guide](/resources/oxfordaqa-igcse-physics-9203-general-properties-of-waves/) for wave terms and diffraction.
 

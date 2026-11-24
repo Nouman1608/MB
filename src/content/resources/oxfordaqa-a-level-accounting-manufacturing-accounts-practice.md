@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -233,7 +233,7 @@ cheaper, and review the decision before the lease expires [1]. **[10]**
 - Showing finished goods at transfer price in the statement of financial position.
 - Treating all factory costs as avoidable in a make-or-buy comment.
 
-## Next steps
+## More on this topic
 
 - [Manufacturing accounts revision notes](/resources/oxfordaqa-a-level-accounting-manufacturing-accounts-revision-notes/)
 - [Manufacturing accounts study guide](/resources/oxfordaqa-a-level-accounting-manufacturing-accounts/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-01
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Paper 4 Globalisation, Media and Religion**, an A
@@ -206,7 +206,7 @@ Cambridge International AS & A Level Sociology 9699 syllabus for
 2024, 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/636099-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1: Socialisation, Identity and Methods of Research](/resources/a-level-cambridge-sociology-socialisation-identity-methods/)
   — the first AS Level paper of 9699, a prerequisite for this paper

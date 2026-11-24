@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -114,7 +114,7 @@ Note that graphite conducts for the same reason metals do: delocalised electrons
 - **Explain** conductivity: delocalised electrons **free to move** through the structure and carry charge.
 - **Explain** malleability or ductility: **layers** of ions **slide**; **bonding remains** because the delocalised electrons still attract the ions.
 
-## Next steps
+## More on this topic
 
 - Use the [metallic bonding revision notes](/resources/cambridge-o-level-chemistry-5070-metallic-bonding-revision-notes/) for quick recall.
 - Practise with the [metallic bonding practice questions](/resources/cambridge-o-level-chemistry-5070-metallic-bonding-practice/).

@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -179,7 +179,7 @@ No. A higher power transfers energy faster, but it does not necessarily transfer
 **How should I answer energy resource comparison questions?**
 Avoid listing sources. Name the context, compare the benefits and drawbacks of each option, and explain the trade-off rather than declaring one source universally best.
 
-## Related resources
+## More resources on this topic
 
 - [Energy revision notes](/resources/oxfordaqa-igcse-physics-energy-revision-notes/)
 - [Energy practice questions](/resources/oxfordaqa-igcse-physics-energy-practice/)

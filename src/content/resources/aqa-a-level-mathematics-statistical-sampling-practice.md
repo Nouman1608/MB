@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -231,7 +231,7 @@ Say which group is over- or under-represented because of how the sample was chos
 **Which part of the AQA 7357 specification covers sampling?**
 Section K: Statistical sampling (K1) covers populations and samples, sampling techniques, informal inference and critiquing sampling methods. It is Paper 3 content.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Statistical sampling revision notes](/resources/aqa-a-level-mathematics-statistical-sampling-revision-notes/).
 - Re-read the [Statistical sampling study guide](/resources/aqa-a-level-mathematics-statistical-sampling/) for any method you missed.

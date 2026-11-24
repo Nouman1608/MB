@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ figure is the better guide to living standards, because it adjusts for differenc
 - **Assess:** weigh several indicators together; a country can grow quickly while running a widening current
   account deficit or experiencing rising inflation.
 
-## Related resources
+## More resources on this topic
 
 - [Measurement of macroeconomic performance revision notes](/resources/aqa-a-level-economics-macroeconomic-performance-revision-notes/)
 - [How the macroeconomy works study guide](/resources/aqa-a-level-economics-7136-how-the-macroeconomy-works/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,7 +170,7 @@ Pie chart segment      = percentage x 3.6 degrees
 
 **Answers:** 1. A label names a feature; an annotation explains it, often linking to a process. 2. Larger areas tend to have larger totals simply because of their size, so rates allow fair comparison. 3. (45 - 30) / (70 - 30) = 15 / 40 = 0.375 of 40 mm = 15 mm from X. 4. Four times the value needs twice the radius: 10 mm. 5. A flow line's width shows the volume along a route; a desire line is a straight line from origin to destination showing the pattern of trips. 6. A constant percentage rate of change. 7. When data are skewed or contain extreme values. 8. 600 / 2,400 x 100 = 25%. 9. A strong negative relationship, not yet shown to be significant. 10. (3 - 1) x (2 - 1) = 2. 11. Percentages hide sample size, so the test result would be invalid. 12. Contributors are not representative of the whole population (or accuracy varies, or privacy concerns).
 
-## Related resources
+## More resources on this topic
 
 - [Skills checklist study guide](/resources/oxfordaqa-a-level-geography-9635-geographical-skills-checklist/)
 - [Geographical and fieldwork skills revision notes](/resources/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills-revision-notes/)

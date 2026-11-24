@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -225,7 +225,7 @@ unlike pole in the nearest end of the bar [1].
 - **Explain** (for example, why an iron nail is attracted): include a reason, here that magnetism is induced with an unlike pole nearest the magnet.
 - **State/Give**: short recall, such as naming a magnetic metal. One word can be enough.
 
-## Related resources
+## More resources on this topic
 
 - [Magnetism revision notes](/resources/edexcel-igcse-physics-4ph1-magnetism-revision-notes/) for quick recall and a self-test
 - [Magnetism practice questions](/resources/edexcel-igcse-physics-4ph1-magnetism-practice/) with mark-scheme-style answers

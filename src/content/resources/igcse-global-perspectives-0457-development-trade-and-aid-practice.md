@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -169,7 +169,7 @@ Judgement, for example: Action 3 is most effective in the long term because it b
 - Evaluating courses of action without a clear judgement.
 - Choosing a coursework question that cannot divide opinion.
 
-## Next steps
+## More on this topic
 
 Check your answers, then try a timed source question from your school's past papers. Find gaps with the [diagnostics](/diagnostics/), or [Book a free trial class](/trial/) with a Global Perspectives teacher.
 

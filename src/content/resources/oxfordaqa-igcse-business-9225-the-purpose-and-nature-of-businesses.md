@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -148,7 +148,7 @@ The business world never stands still. A business that does not respond to chang
 
 **Define** and **state** questions need a short precise answer, usually with a key word such as "alternative" for opportunity cost. **Explain** questions need a point developed with a reason: an entrepreneur who is innovative might design a product rivals do not offer, which helps the business to stand out. When a case study gives an example, use its details. **Analyse** questions ask for a chain of reasoning, for example how a fall in raw material supply in the primary sector affects a secondary-sector firm and then its customers.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-the-purpose-and-nature-of-businesses-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-the-purpose-and-nature-of-businesses-practice/)

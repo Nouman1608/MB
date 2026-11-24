@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -261,7 +261,7 @@ Pair every feature with its effect (for lungs, the effect on diffusion), or comp
 **What is the most common calculation slip on this topic?**
 Forgetting to convert units before dividing, such as mm to µm or dm³ to cm³, and using the new value instead of the original as the denominator in a percentage change.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-revision-notes/)
 - [Study guide for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels/)

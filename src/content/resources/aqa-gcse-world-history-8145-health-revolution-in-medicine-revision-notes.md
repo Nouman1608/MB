@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -172,6 +172,6 @@ featured: false
 11. It was permissive, so many towns did nothing, and the General Board was abolished in 1854.
 12. Any two: germ theory and Snow's evidence; the Great Stink; working men's votes after 1867; changing views of the government's role.
 
-## Next steps
+## More on this topic
 
 Try the [revolution in medicine practice questions](/resources/aqa-gcse-world-history-8145-health-revolution-in-medicine-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -181,7 +181,7 @@ Use ideas about structure and bonding to explain the properties of A, B and C. *
 - Losing the negative sign on an exothermic energy change (Higher tier only).
 - Writing that mass or energy is "lost" instead of saying where it is transferred.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Key ideas revision notes](/resources/aqa-gcse-chemistry-8462-key-ideas-revision-notes/).
 - Relearn anything you missed in the [Key ideas study guide](/resources/aqa-gcse-chemistry-8462-key-ideas/).

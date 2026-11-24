@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -175,7 +175,7 @@ group from non-standard forms; Trudgill's Norwich study. 11. Lakoff saw women's 
 powerful; Tannen saw male and female styles as different but equal. 12. Convergence is adjusting speech towards a
 listener's; divergence is adjusting it away to stress difference.
 
-## Next steps
+## More on this topic
 
 Try the [Language and the Self practice questions](/resources/cambridge-a-level-english-language-9093-section-b-language-and-the-self-practice/),
 then the [Paper 4 revision notes](/resources/a-level-english-language-paper-4-language-topics-revision-notes/).

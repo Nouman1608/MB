@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,6 +155,6 @@ Judgement    more useful than police statistics for hidden, gendered
 - Treating victim surveys or self-report studies as complete; each misses certain crimes.
 - Offering no example from your own society when an extended question asks for one.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [Paper 2 research methods revision notes](/resources/oxfordaqa-igcse-sociology-9292-research-methods-paper2-revision-notes/) and practise with the [Paper 2 research methods practice questions](/resources/oxfordaqa-igcse-sociology-9292-research-methods-paper2-practice/). For the Paper 2 topic content these methods are applied to, see the [differences and inequalities guide](/resources/igcse-oxfordaqa-sociology-differences-and-inequalities/) and the [socialisation guide](/resources/igcse-oxfordaqa-sociology-socialisation/).

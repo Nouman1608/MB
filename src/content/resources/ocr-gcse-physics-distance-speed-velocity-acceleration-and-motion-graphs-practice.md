@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ No. Distance never decreases and is never negative. A negative sign belongs on a
 **How many significant figures should a motion answer have?**
 Match the precision of the data, usually 2 or 3 significant figures, and avoid rounding until the final step.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/).
 - Go to the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/).

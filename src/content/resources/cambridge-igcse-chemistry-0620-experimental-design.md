@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Applied example: when sand and salt solution are filtered, **sand** is the resid
 - **Describe** (a term): use the syllabus wording.
 - **Explain** (a choice): say why the alternative is worse.
 
-## Related resources
+## More resources on this topic
 
 - [Experimental design revision notes](/resources/cambridge-igcse-chemistry-0620-experimental-design-revision-notes/) – condensed recall and self-test
 - [Experimental design practice questions](/resources/cambridge-igcse-chemistry-0620-experimental-design-practice/) – original exam-style questions with answers

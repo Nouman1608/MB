@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -192,7 +192,7 @@ hydrogencarbonate solution; the same piece of pondweed, kept in the tube through
 - Recommending a greenhouse change without comparing income with cost.
 - Leaving out nitrate ions when explaining protein synthesis.
 
-## Next steps
+## More on this topic
 
 - [Photosynthesis study guide](/resources/oxfordaqa-igcse-biology-9201-photosynthesis/)
 - [Photosynthesis revision notes](/resources/oxfordaqa-igcse-biology-9201-photosynthesis-revision-notes/)

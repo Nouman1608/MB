@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **3.2.1 Technology** and **3.2.2 Ethical and
@@ -213,7 +213,7 @@ The specification lists them as related but separate headings. Environmental con
 **How should you structure an answer on an ethical or sustainability decision?**
 State the action, explain its cost to the business, explain its benefit, then give a reasoned judgement on balance. Arguing only one side ignores the trade-off the specification asks you to analyse.
 
-## Related resources
+## More resources on this topic
 
 - [Technology and Ethical/Environmental Considerations revision notes](/resources/aqa-gcse-business-technology-ethical-revision-notes/)
 - [Technology and Ethical/Environmental Considerations practice questions](/resources/aqa-gcse-business-technology-ethical-practice/)

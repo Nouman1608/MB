@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Applying material from the item and your knowledge, evaluate cultural/behavioura
 - Leaving out the global industry when a question on medicine invites it.
 - Ending a 16-mark answer without a judgement that answers the question set.
 
-## Next steps
+## More on this topic
 
 - Go back over any point you missed in the [Health study guide](/resources/aqa-a-level-sociology-7192-health/).
 - Reuse labelling ideas from the [AQA Crime and Deviance practice questions](/resources/a-level-aqa-sociology-crime-and-deviance-practice/).

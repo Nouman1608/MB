@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Possible responses: fewer management layers, delegation to local managers, centr
 11. Any one of: market too small; lack of finance; owners want to keep control.
 12. Remove layers of management, or delegate decisions to local managers.
 
-## Next steps
+## More on this topic
 
 Practise with the [economies and diseconomies of scale practice questions](/resources/edexcel-igcse-business-4bs1-economies-and-diseconomies-of-scale-practice/), then move on to the [production revision notes](/resources/edexcel-igcse-business-4bs1-production-revision-notes/).
 

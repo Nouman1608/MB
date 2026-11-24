@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-exp
 - Ignoring a stated condition such as k > 0 or n ∈ ℤ⁺.
 - Rounding to fewer than 3 significant figures, or rounding early in a multi-step calculation.
 
-## Next steps
+## More on this topic
 
 - Recap the key facts in the [revision notes](/resources/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof-revision-notes/).
 - Re-learn any weak method in the [study guide](/resources/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof/).

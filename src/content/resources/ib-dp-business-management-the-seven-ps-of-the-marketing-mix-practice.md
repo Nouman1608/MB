@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ These questions cover section 4.5, The seven Ps of the marketing mix, from the I
 - Ignoring the data in a table when recommending a strategy.
 - Missing cultural variation when discussing people in a service.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-business-management-the-seven-ps-of-the-marketing-mix-revision-notes/) and [study guide](/resources/ib-dp-business-management-the-seven-ps-of-the-marketing-mix/).
 - Visit the [IB DP Business Management hub](/boards/ib/ib-dp/business/) and the [syllabus checklist](/checklists/ib/ib-dp/business/).

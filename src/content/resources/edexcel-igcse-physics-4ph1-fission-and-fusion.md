@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -214,7 +214,7 @@ keeping the rate of fission, and so the power output, steady [1].
 - **Explain the difference** (7.23): make a direct comparison in one sentence, not two separate descriptions.
 - **Complete** (equations): balance both rows, remembering to multiply the neutron numbers.
 
-## Related resources
+## More resources on this topic
 
 - [Fission and fusion revision notes](/resources/edexcel-igcse-physics-4ph1-fission-and-fusion-revision-notes/) with a self-test
 - [Fission and fusion practice questions](/resources/edexcel-igcse-physics-4ph1-fission-and-fusion-practice/) with mark-scheme answers

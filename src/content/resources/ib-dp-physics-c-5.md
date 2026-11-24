@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Answer: **us ≈ 26 m s⁻¹, f ≈ 517 Hz**. Dividing the two equations removes
 - **Determine** a speed from a spectrum: show Δλ, the ratio, and state the direction.
 - **Calculate** (HL): write the formula with the sign chosen, substitute, then sense-check that approach gives a higher frequency.
 
-## Next steps
+## More on this topic
 
 - [C.5 revision notes](/resources/ib-dp-physics-c-5-revision-notes/)
 - [C.5 practice questions](/resources/ib-dp-physics-c-5-practice/)

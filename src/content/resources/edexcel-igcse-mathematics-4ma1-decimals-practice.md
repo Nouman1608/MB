@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Related: [section 1.3 study guide](/resources/edexcel-igcse-mathematics-4ma1-dec
 - Using 10x in question 9(b), so the repeating tails do not match.
 - Not reaching exactly 5/6 in question 10, which is needed for a "prove" question.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [section 1.3 revision notes](/resources/edexcel-igcse-mathematics-4ma1-decimals-revision-notes/).
 - For mixed fraction and decimal questions, try the [fractions and decimals practice questions](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals-practice/).

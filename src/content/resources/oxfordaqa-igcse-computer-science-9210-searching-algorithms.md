@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -226,7 +226,7 @@ the pseudocode with `←` and `ENDWHILE` as shown here.
   stated clearly.
 - **Suggest** questions about which search to use need a reason tied to the data (sorted or unsorted, long or short).
 
-## Next steps
+## More on this topic
 
 For a condensed summary and a self-test, use the [Searching algorithms revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-searching-algorithms-revision-notes/), and test yourself

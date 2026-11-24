@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Why it scores: each sentence names a structure, states the feature and links it 
 - **Describe** a route: put the structures in order and use the words "diffuses" and "concentration gradient" for gases.
 - Images on the practical papers may ask for a drawing: use clear single lines, no shading, and label with ruled lines.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [leaf structure revision notes](/resources/cambridge-igcse-biology-0610-leaf-structure-revision-notes/).
 - Twelve marked questions: [leaf structure practice questions](/resources/igcse-biology-0610-leaf-structure-subtopic-practice/).

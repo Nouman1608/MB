@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide is aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. It covers statements B6.2d, B6.2e, B6.2f and B6.2g in topic B6.2, Feeding the human race. Statement B6.2e is in bold in the specification, so it is **Higher Tier only**; the other three are assessed in both tiers. Food security, agricultural solutions and selective breeding (B6.2a to B6.2c) have their own pages and are not repeated here.
@@ -209,7 +209,7 @@ For the salmon example, suppose a conventional fish takes 28 months to reach mar
 - Giving only an advantage when asked to evaluate. Weigh both sides, then reach a judgement.
 - Mixing up the genome of the organism with the gene inserted.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food-revision-notes/), then try the [practice questions](/resources/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food-practice/). The [OCR GCSE Biology checklist](/checklists/ocr/gcse/biology/) lets you tick off each statement, and the [diagnostics](/diagnostics/) find weak spots.
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Evaluation: the view is strongest for a business competing on low prices with th
 - Listing advantages and disadvantages without weighing them for this business.
 - Ignoring the time period in the conflict between CSR and profit.
 
-## Next steps
+## More on this topic
 
 - Revisit the [CSR study guide](/resources/ocr-a-level-business-h431-corporate-social-responsibility/) for any gaps.
 - Try the [mission statement practice questions](/resources/ocr-a-level-business-h431-mission-statement-practice/).

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -195,7 +195,7 @@ Each call pushes a **stack frame** holding the **return address** (where to resu
 - Using global variables for values that should be passed as parameters.
 - Giving a variable a one-letter name and then failing to explain what it holds.
 
-## Next steps
+## More on this topic
 
 - [Programming concepts practice questions](/resources/oxfordaqa-a-level-computer-science-9645-programming-concepts-practice/)
 - [Procedural programming revision notes](/resources/a-computer-science-procedural-revision-notes/)

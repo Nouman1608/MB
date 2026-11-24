@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -209,7 +209,7 @@ L **Prokaryote** [1]; no nucleus, with circular DNA free in the cytoplasm / plas
 - Describing a virus as a cell or as a bacterium.
 - Naming an organism not listed in the key you were given.
 
-## Next steps
+## More on this topic
 
 - [Classification revision notes](/resources/o-level-biology-5090-classification-revision-notes/)
 - [Classification study guide](/resources/o-level-biology-5090-classification/)

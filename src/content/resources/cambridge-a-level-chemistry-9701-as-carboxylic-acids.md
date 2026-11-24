@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -182,7 +182,7 @@ aldehyde never changes the number of carbon atoms.
 - **Calculate:** write the equation first and use its mole ratio.
 - **Suggest** a route: count carbons, then pick reactions that change or keep the chain length.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [Carboxylic acids revision notes](/resources/cambridge-a-level-chemistry-9701-as-carboxylic-acids-revision-notes/)
 - Exam-style questions with full answers: [Carboxylic acids practice questions](/resources/cambridge-a-level-chemistry-9701-as-carboxylic-acids-practice/)

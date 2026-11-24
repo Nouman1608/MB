@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -216,7 +216,7 @@ Over 150 games: 150 × (−0.60) = **−£90** [1]
 - Forgetting to multiply by the number of plays for a total.
 - Using n × p when the probability changes between trials, as it does without replacement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-igcse-statistics-probability-distributions-and-expectation-revision-notes/) and the [study guide](/resources/cambridge-igcse-statistics-probability-distributions-and-expectation/).
 - Visit the [course hub](/boards/cambridge/igcse/statistics/) and the [printable checklist](/checklists/cambridge/igcse/statistics/).

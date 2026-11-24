@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -231,7 +231,7 @@ the effect. (The quotation is invented for this example.)
 - Correct errors with a single neat line through the mistake.
 - If time runs short, write a one-sentence conclusion that answers the question.
 
-## Related resources
+## More resources on this topic
 
 - [Writing skills revision notes](/resources/aqa-gcse-english-literature-8702-writing-skills-revision-notes/)
 - [Writing skills practice questions](/resources/aqa-gcse-english-literature-8702-writing-skills-practice/)

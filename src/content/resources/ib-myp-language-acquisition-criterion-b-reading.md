@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -221,7 +221,7 @@ The main idea is the point the whole text, or one section, makes, and it is rare
 **How do you answer a true or false question with justification?**
 Give the correct choice and the shortest quotation from the text that proves it. A tick alone, or a whole copied paragraph, does not show where you found the answer.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Criterion B revision notes](/resources/ib-myp-language-acquisition-criterion-b-reading-revision-notes/), then try the [Criterion B practice questions](/resources/ib-myp-language-acquisition-criterion-b-reading-practice/) and the [criteria in practice questions](/resources/ib-myp-language-acquisition-criteria-in-practice-practice/). Track progress with the [printable checklist](/checklists/ib/ib-myp/myp-language-acquisition/) and the [course hub](/boards/ib/ib-myp/myp-language-acquisition/).
 

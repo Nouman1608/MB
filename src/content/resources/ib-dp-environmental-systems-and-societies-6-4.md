@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 6.4 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 6.4 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Even after production stops, ODS keep reaching the stratosphere: old banks leak 
 - **Calculate** from data: show the formula, keep units (DU, ODP t, million km²) and use the starting value as the base for percentage change.
 - **Evaluate** or **to what extent** questions on the Montreal Protocol: give evidence of success, at least two reasons, at least two limitations, then a judgement that says how far the success can be copied for climate change.
 
-## Next steps
+## More on this topic
 
 Fix the facts with the [6.4 revision notes](/resources/ib-dp-environmental-systems-and-societies-6-4-revision-notes/), then test yourself with the [6.4 practice questions](/resources/ib-dp-environmental-systems-and-societies-6-4-practice/). For how the topic is examined, see the [ESS exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/).
 

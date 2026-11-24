@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **B10 (partial fractions)** and **B11 (functions in modelling)** from Section B of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section B is Paper 1 content, and Papers 2 and 3 can also assess any Paper 1 content. The specification states that a calculator is required in all assessments, but decompositions and "show that" steps need full algebra written down.
@@ -303,7 +303,7 @@ Evaluate each rule at the join. If both rules give the same value, the model has
 **What does the OT3 modelling cycle ask you to do?**
 Translate a situation into a model with simplifying assumptions, use the model with suitable inputs, interpret the outputs in context, and refine the model by considering its outputs and assumptions.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling-practice/), then keep the [revision notes](/resources/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling-revision-notes/) for the final weeks.
 

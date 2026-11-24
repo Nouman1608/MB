@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -171,7 +171,7 @@ Use this information to explain how these cells are adapted to their function. *
 - Saying an electron microscope is better only because it magnifies more, without resolution.
 - In a method question, missing the coverslip angle, the order of focusing, or the magnification scale.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Cell structure revision notes](/resources/aqa-gcse-biology-8461-cell-structure-revision-notes/).
 - Reread weak areas in the [Cell structure study guide](/resources/aqa-gcse-biology-8461-cell-structure/).

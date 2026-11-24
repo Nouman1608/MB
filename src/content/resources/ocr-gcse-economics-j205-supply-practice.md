@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ A drought reduces supply by 200 kg at every price.
 - Ignoring the difference between the short run and the long run.
 - Discussing consumers only when producers are also named.
 
-## Next steps
+## More on this topic
 
 - Recap with the [2.3 revision notes](/resources/ocr-gcse-economics-j205-supply-revision-notes/).
 - Move on to the [price practice questions](/resources/ocr-gcse-economics-j205-price-practice/).

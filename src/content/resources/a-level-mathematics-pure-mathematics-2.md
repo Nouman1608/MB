@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -181,7 +181,7 @@ Cambridge International AS & A Level Mathematics 9709 syllabus for
 2026 and 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Pure Mathematics 1: Quadratics and
   beyond](/resources/a-level-mathematics-pure-mathematics-1-quadratics/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ J-44 = **80%**, J-46 = **20%** [1]. **[3]**
 - Rounding before the last step, or giving the wrong number of decimal places.
 - Treating particles with the same mass number as isotopes.
 
-## Next steps
+## More on this topic
 
 - Recap with the [isotopes revision notes](/resources/cambridge-o-level-chemistry-5070-isotopes-revision-notes/).
 - Use relative atomic masses in the [relative masses of atoms and molecules practice questions](/resources/cambridge-o-level-chemistry-5070-relative-masses-of-atoms-and-molecules-practice/).

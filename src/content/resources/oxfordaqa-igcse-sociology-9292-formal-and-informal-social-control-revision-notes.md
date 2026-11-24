@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ public and at work, which helps explain their lower recorded crime. 11. Becker's
 group that campaigns to create or enforce a rule. 12. It ignores whose values become laws and assumes
 a consensus that may not exist.
 
-## Related resources
+## More resources on this topic
 
 - [Formal and informal social control: study guide](/resources/oxfordaqa-igcse-sociology-9292-formal-and-informal-social-control/)
 - [Formal and informal social control: practice questions](/resources/oxfordaqa-igcse-sociology-9292-formal-and-informal-social-control-practice/)

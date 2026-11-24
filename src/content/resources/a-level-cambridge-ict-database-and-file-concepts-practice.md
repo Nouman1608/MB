@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -195,7 +195,7 @@ Layout, Show as rows and Area as columns [1]; Glasshouse and Red Kite rows [1]; 
 - Leaving primary keys unmarked in normalised tables.
 - Removing a non-key dependency at 2NF, not 3NF.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/a-level-cambridge-ict-database-and-file-concepts-revision-notes/).
 - Re-read weak sections in the [study guide](/resources/a-level-cambridge-ict-database-and-file-concepts/).

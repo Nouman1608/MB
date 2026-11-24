@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 19, Relationships of organisms with one another and with the environment, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 19.1 Energy flow, 19.2 Nutrient cycles, 19.3 Ecosystems and biodiversity, 19.4 Effects of humans on ecosystems and 19.5 Conservation. The 5090 syllabus is not tiered, so every candidate studies all of it.
@@ -334,7 +334,7 @@ A **sustainable resource** (19.5.4) is one which is produced as rapidly as it is
 - Writing that algae use up the oxygen in eutrophication. It is the **decomposers'** aerobic respiration.
 - Defining biodiversity as "the number of organisms" instead of the number of **species**.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-revision-notes/), then the [practice questions](/resources/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-practice/). Fungi and bacteria as kingdoms are in [Classification](/resources/o-level-biology-5090-classification/).
 

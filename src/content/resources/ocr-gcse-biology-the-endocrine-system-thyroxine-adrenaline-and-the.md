@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers statements B3.2a to B3.2d of module B3.2 (Coordination and control: the endocrine system) in the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. Statements B3.2b and B3.2d are in bold in the specification, so they are tested in the Higher Tier papers only. They are labelled "Higher Tier only" below. B3.2a and B3.2c are for both tiers. Contraception, fertility treatment and plant hormones are separate statements (B3.2e onwards) and are not covered here.
@@ -241,7 +241,7 @@ To draw this table as a graph: put day on the x-axis (0 to 28, a linear scale, w
 - Mixing up the days: bleeding is the start of the cycle, not the end. The lining is thick at ovulation.
 - Writing "FSH makes the egg" or "LH makes the egg". FSH matures it; LH triggers its release.
 
-## Next steps
+## More on this topic
 
 Condense with the [revision notes](/resources/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the-practice/). For exam technique see [OCR GCSE Biology exam preparation](/resources/ocr-gcse-biology-exam-preparation/), and check gaps with the [free diagnostics](/diagnostics/).
 

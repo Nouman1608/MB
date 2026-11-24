@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ For explanations, read the [algebraic fractions study guide](/resources/cambridg
 - Leaving an answer that still has a common factor, as in Question 11.
 - Not factorising the quadratic denominators before choosing a common denominator.
 
-## Next steps
+## More on this topic
 
 - [Algebraic fractions study guide](/resources/cambridge-igcse-mathematics-0580-algebraic-fractions/)
 - [Algebraic fractions revision notes](/resources/cambridge-igcse-mathematics-0580-algebraic-fractions-revision-notes/)

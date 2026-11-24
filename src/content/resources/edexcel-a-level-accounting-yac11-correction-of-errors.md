@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ None of these errors needs suspense. In (ii) the undercast total was posted to b
 - **Calculate** (revised profit): show the starting figure and each adjustment with its direction.
 - **Explain** (why an error did not affect the trial balance): state that equal debits and credits were posted and link this to the specific error.
 
-## Related resources
+## More resources on this topic
 
 [Correction of errors revision notes](/resources/edexcel-a-level-accounting-yac11-correction-of-errors-revision-notes/) |
 [Correction of errors practice questions](/resources/edexcel-a-level-accounting-yac11-correction-of-errors-practice/) |

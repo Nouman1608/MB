@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These are recall notes for the HL part of **Structure 2.2, The covalent model**, as listed in the IB *Chemistry guide* for Diploma Programme candidates examined from 2025 (issued February 2023). They cover understandings Structure 2.2.11 to 2.2.16: resonance, benzene, expanded octets, formal charge, σ and π bonds, and hybridization. All six are additional higher level, so this whole page is **HL only**. The reasoning and longer examples behind each point are in the [study guide](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds/).
@@ -241,7 +241,7 @@ Shortcut: FC = V − (number of lone-pair electrons) − (number of bonds).
 11. Only one head-on overlap fits between two nuclei along the axis. The second bond comes from sideways overlap of parallel unhybridized p orbitals, which is a π bond.
 12. **Trigonal bipyramidal**; **90°** (axial to equatorial), **120°** (between equatorial) and **180°** (axial to axial).
 
-## Next steps
+## More on this topic
 
 - Work through the [practice questions](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-practice/) with full worked answers.
 - Go back over shaky topics in the [study guide](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds/).

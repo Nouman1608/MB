@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ In Year 2 Thornbury offered longer credit to win builder customers from a rival.
 * Describing ratio changes without linking them to case events.
 * Treating rising risk of insolvency as proof of insolvency.
 
-## Next steps
+## More on this topic
 
 * Review the [3.6 study guide](/resources/ib-dp-business-3-6/).
 * Re-read the [3.6 revision notes](/resources/ib-dp-business-3-6-revision-notes/).

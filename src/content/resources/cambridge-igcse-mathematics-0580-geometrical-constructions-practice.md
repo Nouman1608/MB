@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ Find the surface area and the volume of the prism. **[4]**
 - Using a slanted side instead of the perpendicular height in a triangular face.
 - Using the slant height as the vertical height of a pyramid.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [geometrical constructions study guide](/resources/cambridge-igcse-mathematics-0580-geometrical-constructions/).
 - Recap with the [geometrical constructions revision notes](/resources/cambridge-igcse-mathematics-0580-geometrical-constructions-revision-notes/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -165,7 +165,7 @@ many residents moved to the suburbs. 9. Benefit: new jobs and transport; critici
 did not suit many existing residents. 10. 10 per cent, because 1.1 x 1.1 = 1.21. 11. An office and
 retail centre that grows on the urban fringe, often near motorway junctions.
 
-## Related resources
+## More resources on this topic
 
 - [Urban environments study guide](/resources/ib-dp-geography-urban-environments-study-guide/)
 - [The variety of urban environments revision notes](/resources/ib-dp-geography-the-variety-of-urban-environments-revision-notes/)

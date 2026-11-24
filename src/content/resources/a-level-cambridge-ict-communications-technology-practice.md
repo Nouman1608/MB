@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ Learn the content first in the [study guide](/resources/a-level-cambridge-ict-co
 - Confusing MAC addresses (local delivery) with IP addresses (routing).
 - Leaving out the uplink or downlink in a satellite description.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/a-level-cambridge-ict-communications-technology-revision-notes/)
 - [Study guide](/resources/a-level-cambridge-ict-communications-technology/)

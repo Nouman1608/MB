@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -215,7 +215,7 @@ AB · AC = −2 + 4 − 2 = 0, so angle BAC = 90° [1]
 - Premature rounding in multi-step kinematics, which shifts the final 3 s.f. answer.
 - Dropping units (km, m s⁻¹, N) on final answers in context.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors-revision-notes/) for the formula and matrix tables.
 - Rework any weak section from the [study guide](/resources/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors/).

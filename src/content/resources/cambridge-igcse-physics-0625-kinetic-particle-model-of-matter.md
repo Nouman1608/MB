@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,6 +177,6 @@ Pressure and volume can be in any units, provided each is in the same units on b
 - **Explain** a pressure change: describe particle speed, frequency of collisions with the walls and the force of collisions.
 - **Calculate** *(Extended)*: write p₁V₁ = p₂V₂, substitute, give the unit.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes on the kinetic particle model of matter](/resources/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-revision-notes/) and test yourself with the [practice questions on the kinetic particle model of matter](/resources/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-practice/). The model is used again for thermal expansion and evaporation in the [study guide on thermal properties and temperature](/resources/cambridge-igcse-physics-0625-thermal-properties-and-temperature/).

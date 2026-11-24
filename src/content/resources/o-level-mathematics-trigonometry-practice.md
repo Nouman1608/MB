@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -149,7 +149,7 @@ Use degree mode. Leaving the calculator in radian mode is a common reason for wr
 **How do you find the angle between a line and a plane in 3D?**
 Find the right-angled triangle formed by the line, its projection on the plane and the vertical edge, then use a trigonometric ratio. Using the wrong edge in the 3D shape is a frequent error.
 
-## Next steps
+## More on this topic
 
 - [Study guide: O Level Mathematics trigonometry](/resources/o-level-mathematics-trigonometry/)
 - [Revision notes: O Level Mathematics trigonometry](/resources/o-level-mathematics-trigonometry-revision-notes/)

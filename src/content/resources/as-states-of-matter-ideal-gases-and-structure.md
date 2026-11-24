@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -222,7 +222,7 @@ In graphite each carbon atom has one delocalised outer electron, and these elect
 **Which syllabus points does this Cambridge 9701 guide cover?**
 It covers subtopics 4.1, The gaseous state: ideal and real gases and pV = nRT, and 4.2, Bonding and structure, from Topic 4 of Cambridge International AS & A Level Chemistry 9701.
 
-## Related resources
+## More resources on this topic
 
 - [States of Matter and Kinetic Particle Theory](/resources/states-of-matter-and-kinetic-particle-theory/) — the IGCSE/O Level qualitative model this resource builds on
 - [Chemical Bonding: Electronegativity, Ionic and Metallic Bonds](/resources/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds/) — the bonding models this resource applies to solid structures

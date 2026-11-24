@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ No. Draw and explain each school separately: Keynesian AS is flat, then rising, 
 **How are IB Economics 10-mark evaluate questions on fiscal policy marked?**
 Real papers are marked against IB markbands, not point by point. Credit goes to answers that explain constraints and strengths, apply them to the case and end with an overall judgment.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-economics-fiscal-policy-revision-notes/) and the [study guide](/resources/ib-dp-economics-fiscal-policy/).
 - Go to the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and tick off the [printable checklist](/checklists/ib/ib-dp/economics/).

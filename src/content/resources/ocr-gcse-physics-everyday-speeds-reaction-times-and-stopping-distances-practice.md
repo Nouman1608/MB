@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -126,7 +126,7 @@ Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](
 - Saying "friction" without linking it to the braking force that can be applied.
 - Giving an estimate with no stated values.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances-revision-notes/).
 - Re-read the [study guide](/resources/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances/).

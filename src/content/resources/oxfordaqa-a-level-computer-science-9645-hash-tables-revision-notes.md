@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -174,7 +174,7 @@ A table that is only just big enough fills up quickly, causing many collisions. 
 11. Each is a multiple of 10, so each MOD 10 gives 0.
 12. It cannot store another record.
 
-## Next steps
+## More on this topic
 
 - [Hash tables study guide](/resources/oxfordaqa-a-level-computer-science-9645-hash-tables/)
 - [Hash tables practice questions](/resources/oxfordaqa-a-level-computer-science-9645-hash-tables-practice/)

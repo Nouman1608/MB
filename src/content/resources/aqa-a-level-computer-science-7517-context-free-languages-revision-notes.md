@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -187,7 +187,7 @@ A string that follows the rules is **syntactically valid**. This is not the same
 9. It would need to remember how many brackets are open, which needs unbounded memory.
 10. It is precise, and its recursion can describe nested constructs.
 
-## Related resources
+## More resources on this topic
 
 - [Context-free languages study guide](/resources/aqa-a-level-computer-science-7517-context-free-languages/)
 - [Context-free languages practice questions](/resources/aqa-a-level-computer-science-7517-context-free-languages-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -175,7 +175,7 @@ D: It bends away from the normal.
 - Giving a unit for refractive index.
 - Describing an optical fibre application without a benefit when the question asks for both.
 
-## Next steps
+## More on this topic
 
 - Revise with the [refraction revision notes](/resources/oxfordaqa-igcse-physics-9203-refraction-and-total-internal-reflection-oxfordaqa-revision-notes/).
 - Re-read the [refraction study guide](/resources/oxfordaqa-igcse-physics-9203-refraction-and-total-internal-reflection-oxfordaqa/).

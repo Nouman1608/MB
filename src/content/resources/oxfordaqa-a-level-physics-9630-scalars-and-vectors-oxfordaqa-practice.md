@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -189,7 +189,7 @@ D: 11 N
 - Ignoring a sign when a vector reverses or an angle exceeds 90°.
 - Calling constant speed in a curve "equilibrium".
 
-## Next steps
+## More on this topic
 
 - [Moments practice questions](/resources/oxfordaqa-a-level-physics-9630-moments-practice/)
 - [Newton's laws of motion practice questions](/resources/oxfordaqa-a-level-physics-9630-newtons-laws-of-motion-oxfordaqa-practice/)

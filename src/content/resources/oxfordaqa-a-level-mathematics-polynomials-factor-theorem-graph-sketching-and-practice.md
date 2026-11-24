@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ x = (−1 ± √65)/2, so **x = 0, (−1 − √65)/2, (−1 + √65)/2** [1]
 - Transforming only some terms of the equation when asked for the image curve.
 - Leaving intercepts as single numbers when coordinates are asked for.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-mathematics-polynomials-factor-theorem-graph-sketching-and-revision-notes/).
 - Read the [study guide](/resources/oxfordaqa-a-level-mathematics-polynomials-factor-theorem-graph-sketching-and/) for any question you missed.

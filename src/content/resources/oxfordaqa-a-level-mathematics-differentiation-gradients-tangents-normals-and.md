@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers specification section P1.3 (Differentiation) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The content belongs to International AS Unit P1 (Pure Maths), which also counts towards the International A-level. The series line on this page reads: International AS exams from May/June 2018, A-level from May/June 2019. The spec labels no part of P1.3 as Core, Extension or Higher.
@@ -265,7 +265,7 @@ The second derivative is positive, so this is a minimum. The base is 4 m by 4 m,
 - In optimisation, reporting x and stopping, when the question asked for the area, cost or volume.
 - Ignoring the domain: a side length of −4 m is not a solution.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and-revision-notes/) to compress this into recall sheets, then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and-practice/) under timed conditions. For mixed Unit P1 work, see the [Unit P1 practice set](/resources/oxfordaqa-a-level-mathematics-p1-practice/). The [free diagnostics](/diagnostics/) show which topics need attention first.
 

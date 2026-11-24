@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -175,7 +175,7 @@ Measure both distances from the pencil baseline, not from the bottom edge of the
 **How should I describe control variables in an MYP Sciences design task?**
 List each control variable and say how it is kept constant. Listing variables without a method is a frequent way to lose credit.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-myp-sciences-states-and-properties-of-matter-revision-notes/) for weak areas.
 - [Study guide](/resources/ib-myp-sciences-states-and-properties-of-matter/) for full explanations.

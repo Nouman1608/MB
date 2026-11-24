@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers section 3.3 (Work, energy and power) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017: 3.3.1 work and conservation of energy, 3.3.2 kinetic and potential energies, and 3.3.3 power. H556 is the full A level.
 
@@ -256,7 +256,7 @@ No. With no resistive forces, mgh = ½mv², so the mass cancels and the speed de
 **How do you calculate efficiency?**
 Efficiency is the useful output energy or power divided by the total input, often expressed as a percentage. The rest of the input is transferred as wasted energy, such as thermal energy and sound.
 
-## Next steps
+## More on this topic
 
 Compress this guide into the [revision notes](/resources/ocr-a-level-physics-work-energy-power-and-efficiency-revision-notes/), and then work through the [practice questions](/resources/ocr-a-level-physics-work-energy-power-and-efficiency-practice/). Tick off 3.3 on the [checklist](/checklists/ocr/a-level/physics/).
 

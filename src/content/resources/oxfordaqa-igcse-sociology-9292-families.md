@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -164,6 +164,6 @@ Check your teacher's copy of the OxfordAQA command word list for 9292, as the sp
   <figcaption>The command word tells you how far to develop your answer.</figcaption>
 </figure>
 
-## Next steps
+## More on this topic
 
 Condense with the [families revision notes](/resources/oxfordaqa-igcse-sociology-9292-families-revision-notes/) and practise with the [families practice questions](/resources/oxfordaqa-igcse-sociology-9292-families-practice/). For methods in family research, see the [research methods study guide](/resources/oxfordaqa-igcse-sociology-9292-research-methods/).

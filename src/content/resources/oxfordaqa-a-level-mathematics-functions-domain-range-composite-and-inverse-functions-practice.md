@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Explanations are in the [study guide](/resources/oxfordaqa-a-level-mathematics-f
 * Giving crossing points when the question asks for an inequality, or joining a "between" answer with "or".
 * Leaving out the check that an algebraic solution lies in the domain of a composite.
 
-## Next steps
+## More on this topic
 
 * Revisit the [revision notes](/resources/oxfordaqa-a-level-mathematics-functions-domain-range-composite-and-inverse-functions-revision-notes/) for the methods and the quick self-test.
 * Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-functions-domain-range-composite-and-inverse-functions/) for any worked example you found hard.

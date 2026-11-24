@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,6 +141,6 @@ A laboratory version uses a microwave transmitter and a receiver. Rotating the r
 - **Suggest** a frequency for an ultrasound scan: state the trade-off between detail and depth and link it to the wavelength.
 - **Calculate** questions on electromagnetic waves: use c = 3.00 × 10⁸ m s⁻¹ unless a different medium is stated.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [longitudinal and transverse waves revision notes](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa-revision-notes/) and test yourself with the [longitudinal and transverse waves practice questions](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa-practice/). The phase and wave-equation skills you need come from the [progressive waves study guide](/resources/oxfordaqa-a-level-physics-9630-progressive-waves/).

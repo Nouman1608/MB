@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section 3.4.2, Strategic positioning: Choosing how to compete, in the 9725 specification for OxfordAQA International AS and A-level Business, Version 1.1 (International AS exams May/June 2027 onwards, International A-level exams May/June 2028 onwards). It follows the revised 9725 content only; if you are finishing the older 9625 course, work from your own 9625 specification instead. Everything here sits in 3.4 Business strategy, so it is **International A-level only**.
@@ -262,7 +262,7 @@ Only if customers believe they receive more benefits. A business offering the sa
 **Which OxfordAQA 9725 paper tests strategic positioning?**
 All of section 3.4 is examined in Unit 4: Business strategy, a 1 hour 45 minute written exam worth 80 marks and 30% of the International A-level. It has two compulsory sections, each built on one case study with questions worth 40 marks.
 
-## Next steps
+## More on this topic
 
 For quick recall use the [revision notes](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-revision-notes/), apply them in the [practice questions](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-practice/), and use [OxfordAQA A-level Business exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/) for case study technique. For AS positioning, see the [AS marketing guide](/resources/a-level-oxfordaqa-business-marketing/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -188,7 +188,7 @@ answer comes from the change in total variable cost.
 To sell one more unit the firm lowers the price on all units, so MR is the price of the extra unit minus the
 revenue lost on the earlier units.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-a-level-economics-7136-production-costs-and-revenue/) for any question you found difficult.
 - Move on to the [market failure and government intervention practice questions](/resources/aqa-a-level-economics-7136-market-mechanism-market-failure-and-government-intervention-practice/).

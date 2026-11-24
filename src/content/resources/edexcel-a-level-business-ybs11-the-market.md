@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,7 +170,7 @@ Here **the sign matters**. A positive YED shows a **normal good**; above +1 it i
 
 **Calculate** questions (4 marks) reward the formula, the substitution and the answer, so show every step. **Analyse** questions on demand and supply need a chain: the factor, the shift, the new price and quantity, and the consequence for the named business. **Assess** questions about pricing should use PED to predict revenue, then question the estimate and consider costs, rivals and brand before judging. Use figures from the source in every paragraph.
 
-## Related resources
+## More resources on this topic
 
 - [The Market revision notes](/resources/edexcel-a-level-business-ybs11-the-market-revision-notes/)
 - [The Market practice questions](/resources/edexcel-a-level-business-ybs11-the-market-practice/)

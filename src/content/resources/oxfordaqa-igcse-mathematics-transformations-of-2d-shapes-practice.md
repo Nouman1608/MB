@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ These questions cover reference G21 in section 3.3.3 of the OxfordAQA Internatio
 * Putting a negative enlargement on the same side of the centre as the object.
 * Combining transformations in the wrong order.
 
-## Next steps
+## More on this topic
 
 * Condense the topic with the [revision notes](/resources/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes-revision-notes/).
 * Revisit the explanations in the [study guide](/resources/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes/).

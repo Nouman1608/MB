@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -103,7 +103,7 @@ These questions cover section 5.7, Crisis management and contingency planning (H
 - Making generic points that fit any firm, not the details in the case.
 - Closing an evaluation with no judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only/) for any factor you found hard to apply.
 - Use the [revision notes](/resources/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only-revision-notes/) for the self-test.

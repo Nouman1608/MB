@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -148,7 +148,7 @@ Example sentence: "A recommendation system suggests films by comparing a user's 
 11. A system that says "healthy" to everyone would still score a high accuracy.
 12. A clinician.
 
-## Next steps
+## More on this topic
 
 - [Applications of AI study guide](/resources/oxfordaqa-a-level-computer-science-9645-applications-of-artificial-intelligence/)
 - [Applications of AI practice questions](/resources/oxfordaqa-a-level-computer-science-9645-applications-of-artificial-intelligence-practice/)

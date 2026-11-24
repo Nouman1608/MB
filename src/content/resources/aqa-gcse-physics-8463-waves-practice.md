@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -192,7 +192,7 @@ Learn the content first in the [study guide](/resources/aqa-gcse-physics-8463-wa
 - Radiation answers that say "dangerous" without "ionising", "mutation" or "cancer".
 - Black body answers that miss "best possible emitter".
 
-## Next steps
+## More on this topic
 
 - [Waves revision notes](/resources/aqa-gcse-physics-8463-waves-revision-notes/)
 - [Waves study guide](/resources/aqa-gcse-physics-8463-waves/)

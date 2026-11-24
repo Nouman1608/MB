@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Saying "it is streamlined" repeats the question. Describe the shape and say what
 - **Sketch**: label axes, show the correct curvature, and mark the horizontal sections clearly; values are not needed unless asked.
 - **Compare** two objects: make a comparative statement, such as "the larger card has more drag at the same speed, so it reaches a lower terminal velocity".
 
-## Next steps
+## More on this topic
 
 Try the [Forces and terminal velocity practice questions](/resources/oxfordaqa-igcse-physics-9203-forces-and-terminal-velocity-practice/), then move on to the [Centre of mass study guide](/resources/oxfordaqa-igcse-physics-9203-centre-of-mass-oxfordaqa/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -164,6 +164,6 @@ D: they react vigorously with cold water
 - Describing properties of iron without a comparative when the question says "compare".
 - Naming vanadium (the element) as the Contact process catalyst instead of vanadium(V) oxide.
 
-## Next steps
+## More on this topic
 
 Check any slips in the [Transition elements study guide](/resources/cambridge-o-level-chemistry-5070-transition-elements/), then try the [Noble gases practice questions](/resources/cambridge-o-level-chemistry-5070-noble-gases-practice/).

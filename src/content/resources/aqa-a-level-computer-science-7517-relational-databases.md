@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -181,7 +181,7 @@ A single large flat file would repeat the same data in many rows. That wastes st
 - For **"explain why a composite key is needed"**, show that each single attribute repeats but the pair does not.
 - Refer to data in the question's table; do not use general statements alone.
 
-## Related resources
+## More resources on this topic
 
 - [Relational databases revision notes](/resources/aqa-a-level-computer-science-7517-relational-databases-revision-notes/)
 - [Relational databases practice questions](/resources/aqa-a-level-computer-science-7517-relational-databases-practice/)

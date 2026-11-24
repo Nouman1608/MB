@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ Explain whether the data show that tourism causes higher rents. **[4]**
 - Calling correlation proof of cause.
 - Ending an evaluation without a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the routine in the [QS9 study guide](/resources/oxfordaqa-a-level-economics-9640-qs9-quantitative-skills/).
 - Recap with the [QS9 revision notes](/resources/oxfordaqa-a-level-economics-9640-qs9-quantitative-skills-revision-notes/).

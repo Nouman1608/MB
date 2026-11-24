@@ -21,7 +21,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -221,7 +221,7 @@ It gives the oxidation number of the element in the compound, so iron(III) oxide
 **Does Cambridge IGCSE redox include electrode potentials?**
 No. Electrode potentials and disproportionation are A Level Chemistry 9701 ideas and are not part of the 0620 or 5070 redox content.
 
-## Related resources
+## More resources on this topic
 
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/) — ionic charges used throughout oxidation-number rules
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — the manganate(VII) decolourisation test

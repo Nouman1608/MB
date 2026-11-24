@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -118,7 +118,7 @@ Learn the content first with the [selective breeding study guide](/resources/ede
 - Giving no reason when asked why variation is important.
 - Treating selective breeding as the same as genetic engineering.
 
-## Next steps
+## More on this topic
 
 - Re-read the [selective breeding study guide](/resources/edexcel-igcse-biology-4bi1-selective-breeding/).
 - Revise with the [selective breeding revision notes](/resources/edexcel-igcse-biology-4bi1-selective-breeding-revision-notes/).

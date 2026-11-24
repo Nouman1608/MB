@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ forwards (or keeps her moving against the drag) [1]
 - Saying a wet road increases thinking distance.
 - Third-law answers that put both forces on the swimmer.
 
-## Next steps
+## More on this topic
 
 - [Forces and motion study guide](/resources/aqa-gcse-physics-8463-forces-and-motion/)
 - [Forces and motion revision notes](/resources/aqa-gcse-physics-8463-forces-and-motion-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,7 +180,7 @@ electrons** [1]. **[3]**
 - Writing a comparison that only discusses one of the two substances.
 - Classifying noble gases as covalent.
 
-## Next steps
+## More on this topic
 
 - Recap with the [chemical bonds revision notes](/resources/aqa-gcse-chemistry-8462-chemical-bonds-revision-notes/).
 - Reread any weak area in the [chemical bonds study guide](/resources/aqa-gcse-chemistry-8462-chemical-bonds/).

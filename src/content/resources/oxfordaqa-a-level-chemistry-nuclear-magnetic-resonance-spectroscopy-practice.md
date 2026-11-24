@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -221,7 +221,7 @@ with four carbon environments [1].
 - Using the NMR alone in a combined question and ignoring the infrared or molecular formula.
 - Giving a structure without checking it against the molecular formula.
 
-## Next steps
+## More on this topic
 
 - [NMR revision notes](/resources/oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-revision-notes/)
 - [NMR study guide](/resources/oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy/)

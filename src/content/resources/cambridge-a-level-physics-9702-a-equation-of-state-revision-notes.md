@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,7 +121,7 @@ Against θ/°C, V or p is a straight line meeting the axis at about –273 °C.
 
 **Answers:** 1. A gas for which pV is proportional to the thermodynamic temperature. 2. k = R/N_A. 3. 8.31 ÷ 6.02 × 10²³ = 1.38 × 10⁻²³ J K⁻¹. 4. p = nRT/V = 0.50 × 8.31 × 300 ÷ 0.012 = 1.0 × 10⁵ Pa. 5. p₂ = 2.4 × 10⁵ × 313.15 ÷ 283.15 = 2.65 × 10⁵ Pa. 6. pV constant: 1.0 × 10⁵ × 60 ÷ 20 = 3.0 × 10⁵ Pa. 7. nR = 0.50 × 8.31 = 4.2 J K⁻¹. 8. N = pV/kT = 1.0 × 10⁵ × 1.0 × 10⁻³ ÷ (1.38 × 10⁻²³ × 300) = 2.4 × 10²² molecules. 9. The amount of gas, n, changes. 10. Low pressure and temperature well above the temperature at which it liquefies. 11. Pa × m³ = N m⁻² × m³ = N m = J. 12. n = pV/RT = 1.0 × 10⁵ × 0.10 ÷ (8.31 × 293.15) = 4.1 mol; m = 4.1 × 0.0040 = 0.016 kg.
 
-## Related resources
+## More resources on this topic
 
 - [Ideal Gases revision notes](/resources/a-physics-ideal-gases-revision-notes/) — the whole of Topic 15
 - [Equation of state practice questions](/resources/cambridge-a-level-physics-9702-a-equation-of-state-practice/)

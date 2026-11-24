@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -195,7 +195,7 @@ Validity of the hypothesis is how well the results support the prediction and re
 **How many marks is Criterion C worth in the on-screen examination?**
 The Investigation skills task is worth 50 marks, of which 25 are assessed against Criterion C.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion C revision notes](/resources/ib-myp-sciences-criterion-c-processing-and-evaluating-revision-notes/), then test yourself with the [Criterion C practice questions](/resources/ib-myp-sciences-criterion-c-processing-and-evaluating-practice/). Read about [investigation skills exam preparation](/resources/ib-myp-sciences-investigation-skills-exam-preparation/) and the [MYP Sciences syllabus guide](/resources/ib-myp-sciences-syllabus-guide/).
 

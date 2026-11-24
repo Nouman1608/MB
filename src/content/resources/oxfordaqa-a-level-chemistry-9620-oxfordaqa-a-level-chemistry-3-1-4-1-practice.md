@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -174,7 +174,7 @@ These questions cover **3.1.4.1 Enthalpy change** of the OxfordAQA International
 - Not halving ΔH when an equation forms two moles of product.
 - Giving heat released as a negative number.
 
-## Next steps
+## More on this topic
 
 - [Enthalpy change study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-4-1/)
 - [Enthalpy change revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-4-1-revision-notes/)

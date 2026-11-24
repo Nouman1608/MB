@@ -20,7 +20,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -222,7 +222,7 @@ The energy stored is W = ½QV, the area under a graph of p.d. against charge, wh
 **What equation combines Faraday's and Lenz's laws?**
 The induced e.m.f. is ε = −N(dφ/dt). Faraday's law gives its size as the rate of change of flux linkage, and the minus sign from Lenz's law shows it opposes the change causing it.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 4: Further Mechanics](/resources/edexcel-ial-physics-further-mechanics/) — the previous sub-topic
 - [Unit 4: Nuclear and Particle Physics](/resources/edexcel-ial-physics-nuclear-and-particle-physics/) — the next sub-topic

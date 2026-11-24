@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -128,7 +128,7 @@ These questions cover Unit 3, Business decisions and strategy (sections 3.3.1 to
 - Describing stakeholder and shareholder views without weighing them.
 - Ending an evaluate answer with no judgement, or with a judgement that states no condition.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-business-business-decisions-and-strategy-revision-notes/) and the [study guide](/resources/edexcel-ial-business-business-decisions-and-strategy/).
 - Check coverage on the [printable checklist](/checklists/edexcel/a-level/business/) and the [course hub](/boards/edexcel/a-level/business/).

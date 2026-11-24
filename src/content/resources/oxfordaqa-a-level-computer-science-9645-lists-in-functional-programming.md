@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -200,7 +200,7 @@ The colon takes an item on its left and a list on its right. The `++` operator t
 - Confusing `length`, which counts items, with `head`, which returns one.
 - Forgetting that `null` returns True for the **empty** list.
 
-## Next steps
+## More on this topic
 
 - [Lists in functional programming revision notes](/resources/oxfordaqa-a-level-computer-science-9645-lists-in-functional-programming-revision-notes/)
 - [Lists in functional programming practice questions](/resources/oxfordaqa-a-level-computer-science-9645-lists-in-functional-programming-practice/)

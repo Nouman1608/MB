@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -155,7 +155,7 @@ Judgement: approve with a binding water-recycling condition, after publishing th
 - In Question 10 style answers, describing actions without a final judgement.
 - Planning a Team Project action with no way to measure it.
 
-## Next steps
+## More on this topic
 
 - Check your answers against the [study guide](/resources/igcse-global-perspectives-0457-technology-industry-and-innovation/) and [revision notes](/resources/igcse-global-perspectives-0457-technology-industry-and-innovation-revision-notes/)
 - Try the [Global Perspectives practice set](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/)

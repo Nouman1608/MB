@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -140,6 +140,6 @@ Notice the structure: process, consequence, then a located refinement.
 
 **Answers:** 1. What is extreme for one species or society may be normal for another. 2. For example sparse cover, thin or saline soils, deep roots. 3. Precipitation divided by potential evapotranspiration. 4. 90 / 1,800 = 0.05. 5. 6.5 x 2 = 13 degrees Celsius. 6. Clear skies and dry air allow strong heating by day and rapid loss of heat by radiation at night. 7. Air descends in the subtropics, warms and becomes stable, so clouds and rain rarely form. 8. It cools and stabilises the air above, suppressing the uplift needed for rain. 9. The frozen ground beneath blocks drainage, so meltwater stays near the surface. 10. A plant that completes its life cycle quickly after rare rain. 11. 3,000 m difference gives about 19.5 degrees of cooling, so about 12 - 19.5 = -7.5 degrees Celsius. 12. It receives very little precipitation, so it is dry as well as cold.
 
-## Related resources
+## More resources on this topic
 
 - [Option C: Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/)

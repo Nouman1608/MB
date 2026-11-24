@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -152,7 +152,7 @@ Only for small height changes where the field is close to uniform. For large cha
 **How do you find a height from a distance from the centre?**
 Subtract the planet's radius: h = r − R. Stopping at r, the distance from the centre, when the question asks for a height above the surface is a common slip.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-physics-gravitational-potential-potential-energy-and-escape-revision-notes/) or the [study guide](/resources/ocr-a-level-physics-gravitational-potential-potential-energy-and-escape/).
 - Visit the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick off statements on the [checklist](/checklists/ocr/a-level/physics/).

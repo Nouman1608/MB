@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Each assumption gives a limitation to evaluate:
 
 Paper 3 is multiple choice, so practise finding the utility-maximising bundle quickly from a table.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [utility revision notes](/resources/cambridge-a-level-economics-9708-utility-revision-notes/).
 - Test yourself with the [utility practice questions](/resources/cambridge-a-level-economics-9708-utility-practice/).

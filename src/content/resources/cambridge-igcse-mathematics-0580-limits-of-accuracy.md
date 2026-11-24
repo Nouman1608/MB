@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ Work from the outside in. The outer operation is division, so the numerator need
 - **Calculate** or **Work out** the bound of a result (Extended): show the bounds you are using, such as "195 ÷ 24.65", so that a method mark is available even if the arithmetic slips.
 - **Explain** a choice of bounds: say which bound of each value you used and why, for example "the smallest distance divided by the largest time gives the smallest speed".
 
-## Next steps
+## More on this topic
 
 - Condensed rules and a self-test: the [limits of accuracy revision notes](/resources/cambridge-igcse-mathematics-0580-limits-of-accuracy-revision-notes/).
 - Exam-style questions with mark schemes: the [limits of accuracy practice questions](/resources/cambridge-igcse-mathematics-0580-limits-of-accuracy-practice/).

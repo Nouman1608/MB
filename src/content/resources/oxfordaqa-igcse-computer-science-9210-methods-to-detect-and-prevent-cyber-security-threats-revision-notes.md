@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,7 +168,7 @@ doing it automatically means the fix is applied quickly without the user having 
 9. They fix known vulnerabilities quickly, without the user having to remember.
 10. For example they use bandwidth, or can restart the device at an inconvenient time.
 
-## Related resources
+## More resources on this topic
 
 - [Methods to detect and prevent cyber security threats study guide](/resources/oxfordaqa-igcse-computer-science-9210-methods-to-detect-and-prevent-cyber-security-threats/)
 - [Methods to detect and prevent cyber security threats practice questions](/resources/oxfordaqa-igcse-computer-science-9210-methods-to-detect-and-prevent-cyber-security-threats-practice/)

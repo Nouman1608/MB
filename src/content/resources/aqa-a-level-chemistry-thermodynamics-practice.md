@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -246,7 +246,7 @@ Define it per mole of gaseous atoms formed from the element in its standard stat
 **What must a feasibility temperature answer include?**
 State the temperature and also whether the reaction is feasible above or below it. Giving the temperature alone is incomplete.
 
-## Next steps
+## More on this topic
 
 - [Thermodynamics revision notes](/resources/aqa-a-level-chemistry-thermodynamics-revision-notes/)
 - [Thermodynamics study guide](/resources/aqa-a-level-chemistry-thermodynamics/)

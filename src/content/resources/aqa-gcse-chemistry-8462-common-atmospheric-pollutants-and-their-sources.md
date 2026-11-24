@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -178,7 +178,7 @@ earns marks.
 - Carbon dioxide is a greenhouse gas but is **not** classed as a pollutant that causes acid rain or poisons people
   directly.
 
-## Next steps
+## More on this topic
 
 - [Common atmospheric pollutants revision notes](/resources/aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-revision-notes/)
 - [Common atmospheric pollutants practice questions](/resources/aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-practice/)

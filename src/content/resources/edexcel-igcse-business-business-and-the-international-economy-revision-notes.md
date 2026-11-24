@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes condense Topic 1, section 1.5 "Business and the international economy" (points 1.5.1 to 1.5.4) of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-business-business-and-the-international-economy/) first. Then try the [practice questions](/resources/edexcel-igcse-business-business-and-the-international-economy-practice/).
@@ -230,7 +230,7 @@ Short model for a judgement: "Becoming a multinational gives the firm access to 
 - Writing a long one-sided answer to an evaluate or justify question and ending without a judgement.
 - Repeating the same point in different words instead of adding a second distinct point.
 
-## Next steps
+## More on this topic
 
 Go back to the [study guide](/resources/edexcel-igcse-business-business-and-the-international-economy/) for any gap, work through the [practice questions](/resources/edexcel-igcse-business-business-and-the-international-economy-practice/), and tick off progress on the [checklist](/checklists/edexcel/igcse/business/). Use the [4BS1 Business hub](/boards/edexcel/igcse/business/) for other topics, and the [free diagnostics](/diagnostics/) to find weak areas.
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -116,7 +116,7 @@ Calculate the enthalpy change for 2NaHCO₃(s) → Na₂CO₃(s) + H₂O(l) + CO
 - Leaving off the sign of the final answer.
 - Drawing arrows in the wrong direction on a cycle.
 
-## Next steps
+## More on this topic
 
 - [Hess's law revision notes](/resources/aqa-a-level-chemistry-7405-applications-of-hesss-law-revision-notes/)
 - [Bond enthalpies study guide](/resources/aqa-a-level-chemistry-7405-bond-enthalpies/)

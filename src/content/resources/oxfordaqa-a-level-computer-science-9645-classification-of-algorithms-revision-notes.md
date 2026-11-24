@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -147,7 +147,7 @@ These notes condense sub-topic **3.13.5 Classification of algorithms** of Oxford
 11. Find an approximate, non-optimal solution, or change some of the problem constraints.
 12. If the program has not stopped yet, you cannot tell whether it will stop later or run for ever.
 
-## Next steps
+## More on this topic
 
 - [Classification of algorithms study guide](/resources/oxfordaqa-a-level-computer-science-9645-classification-of-algorithms/)
 - [Classification of algorithms practice questions](/resources/oxfordaqa-a-level-computer-science-9645-classification-of-algorithms-practice/)

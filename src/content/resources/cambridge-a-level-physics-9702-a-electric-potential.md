@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ r = 4.5 × 10⁻¹⁴ m
 - **Determine** (E from a V–r graph): draw a tangent, find its gradient, and change the sign.
 - **Explain** (why V is negative near a negative charge): the field attracts the positive test charge, so negative work is done by the external agent bringing it from infinity.
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields study guide](/resources/a-physics-electric-fields/) — the whole of Topic 18
 - [Electric potential revision notes](/resources/cambridge-a-level-physics-9702-a-electric-potential-revision-notes/)

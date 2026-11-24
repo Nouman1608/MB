@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -128,7 +128,7 @@ The syllabus asks for a **recent river flood event**: its causes, its impacts on
 
 **Answers:** 1. Impermeable surfaces and drains reduce infiltration and speed water to the channel. 2. Hard: dam or embankment. Soft: floodplain zoning or afforestation. 3. It moves water faster downstream and can worsen flooding there. 4. Interception and transpiration reduce and delay runoff. 5. Floodplain left to store flood water. 6. Attempts to reduce the impact of the flood. 7. Defences encourage development behind them, so losses are greater when they fail. 8. Intense, prolonged rainfall from Storm Desmond; saturated ground; steep, impermeable catchments. 9. Using woodland, leaky dams, wetlands and peat to slow and store water upstream. 10. A flood of that size has about a 1 per cent chance in any year. 11. Extreme rainfall combined with weak embankments, poor drainage, limited warnings and high vulnerability.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

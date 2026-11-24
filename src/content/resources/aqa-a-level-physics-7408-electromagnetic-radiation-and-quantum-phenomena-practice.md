@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Use h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹�
 - Claiming a photon can give part of its energy to an atom.
 - Saying faster electrons give larger diffraction rings.
 
-## Next steps
+## More on this topic
 
 Revisit the [quantum phenomena study guide](/resources/aqa-a-level-physics-7408-electromagnetic-radiation-and-quantum-phenomena/), then try the mixed [Particles and radiation practice questions](/resources/aqa-a-level-physics-particles-and-radiation-practice/). For the particle half of section 3.2, use the [Particles practice questions](/resources/aqa-a-level-physics-7408-particles-practice/).
 

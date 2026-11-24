@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ These questions follow section 3.1 (3.1.1 to 3.1.3) of the *OxfordAQA Internatio
 - Drawing extreme lines that miss error bars, or finding gradients from points close together.
 - Giving an order of magnitude with no stated assumptions or rounding the wrong way at the boundary.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of/).
 - Go to the [OxfordAQA A-level Physics hub](/boards/oxfordaqa/a-level/physics/) or the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

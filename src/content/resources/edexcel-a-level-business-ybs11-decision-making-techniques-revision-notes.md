@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,6 +144,6 @@ Contribution ignores fixed costs and capacity limits, and can tempt a firm to ac
 9. Any one: ignores cash flows after payback; ignores time value of money; no measure of profitability.
 10. Present value of the inflows exceeds the cost, so the project earns more than the discount rate; accept on financial grounds.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Decision-making techniques study guide](/resources/edexcel-a-level-business-ybs11-decision-making-techniques/), then practise with the [Decision-making techniques practice questions](/resources/edexcel-a-level-business-ybs11-decision-making-techniques-practice/).

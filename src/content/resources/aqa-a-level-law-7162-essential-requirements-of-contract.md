@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,6 +174,6 @@ Conclusion:   No contract between Rhys and Bea, whichever view is taken of
 
 Work through formation in strict time order: identify each communication, classify it (offer, invitation, counter-offer, inquiry, revocation, acceptance) with an authority, and decide when it took effect. For consideration and intention, state the general rule, then whether an exception applies.
 
-## Related resources
+## More resources on this topic
 
 [Essential requirements of contract revision notes](/resources/aqa-a-level-law-7162-essential-requirements-of-contract-revision-notes/) | [Essential requirements of contract practice questions](/resources/aqa-a-level-law-7162-essential-requirements-of-contract-practice/) | [Theory of contract law study guide](/resources/aqa-a-level-law-7162-theory-of-contract-law/)

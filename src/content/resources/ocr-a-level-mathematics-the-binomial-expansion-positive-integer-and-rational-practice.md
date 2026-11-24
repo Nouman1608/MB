@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Each expansion has its own range, and the combined result is valid only where al
 **How do you write the range of validity for a binomial expansion?**
 Give it as a range for x, not as |u| < 1. For (a + bx)ⁿ with a rational power, the expansion is valid for |x| < |a/b|.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational-revision-notes/) or relearn from the [study guide](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational/).
 - Tick off 1.04a to 1.04d on the [checklist](/checklists/ocr/a-level/mathematics/) and see the [course hub](/boards/ocr/a-level/mathematics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Angle PRQ = 90° (angle in a semicircle), so 5x = 90, x = 18, angle QPR = 54°.
 11. Reflex AOB = 256°, so AOB = **104°**
 12. Its two sides are radii of the same circle, so they are **equal in length**.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [circle theorems study guide](/resources/cambridge-igcse-mathematics-0580-circle-theorems/).
 - Practise with the [circle theorems practice questions](/resources/cambridge-igcse-mathematics-0580-circle-theorems-practice/).

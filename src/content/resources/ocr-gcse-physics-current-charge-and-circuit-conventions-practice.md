@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ State that there is only one path for the charge, so the current is the same eve
 **Do parallel branches share the potential difference?**
 No. Each branch is connected directly across the supply, so each branch has the same potential difference as the supply. It is the current that splits between the branches.
 
-## Next steps
+## More on this topic
 
 - Revise the key points in the [revision notes](/resources/ocr-gcse-physics-current-charge-and-circuit-conventions-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/ocr-gcse-physics-current-charge-and-circuit-conventions/).

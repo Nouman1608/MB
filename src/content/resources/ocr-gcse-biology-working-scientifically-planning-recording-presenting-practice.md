@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Links: [study guide](/resources/ocr-gcse-biology-working-scientifically-planning
 - Describing a graph without quoting values from it.
 - Giving a vague improvement such as "be more careful" instead of a specific change.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-biology-working-scientifically-planning-recording-presenting-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-working-scientifically-planning-recording-presenting/).
 - Check your coverage on the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and the [printable checklist](/checklists/ocr/gcse/biology/).

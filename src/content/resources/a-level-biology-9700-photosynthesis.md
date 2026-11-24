@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 13, Photosynthesis, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 13.1 (Photosynthesis as an energy transfer process) and 13.2 (Investigation of limiting factors). This is A Level content, not AS Level content: it is examined in Paper 4 (A Level Structured Questions), and the chromatography, redox-indicator and whole-plant investigations are the kind of practical work that Paper 5 (Planning, Analysis and Evaluation) builds on.
@@ -249,7 +249,7 @@ Use an aquatic plant such as pondweed in a solution of **sodium hydrogencarbonat
 - Measuring Rf from the bottom of the paper instead of the origin, or to the top of a spot.
 - Changing lamp distance without controlling heat from the lamp, so temperature changes too.
 
-## Next steps
+## More on this topic
 
 Condense this with the [photosynthesis revision notes](/resources/a-level-biology-9700-photosynthesis-revision-notes/), then work through the [photosynthesis practice questions](/resources/a-level-biology-9700-photosynthesis-practice/).
 

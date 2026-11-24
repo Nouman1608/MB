@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ The estimated mean call length is 22.5 minutes.
 - Giving a grouped answer with no word "estimate".
 - Justifying an average with a general statement that does not use the data in the question.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from-revision-notes/) or return to the [study guide](/resources/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from/).
 - Open the [Cambridge IGCSE Statistics hub](/boards/cambridge/igcse/statistics/) and the [printable checklist](/checklists/cambridge/igcse/statistics/).

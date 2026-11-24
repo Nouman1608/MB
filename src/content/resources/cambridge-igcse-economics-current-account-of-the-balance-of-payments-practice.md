@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ This set covers sections 6.4.1 to 6.4.4 of the Cambridge IGCSE Economics 0455 sy
 - Giving consequences without a chain of reasoning.
 - Stopping at one side of an argument when asked to evaluate.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-igcse-economics-current-account-of-the-balance-of-payments-revision-notes/) and re-read the [study guide](/resources/cambridge-igcse-economics-current-account-of-the-balance-of-payments/).
 - Tick off the topic on the [printable checklist](/checklists/cambridge/igcse/economics/) and see the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/).

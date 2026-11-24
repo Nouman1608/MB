@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -149,7 +149,7 @@ For the least force, the body is about to slip down, so friction acts up the slo
 **What happens after a body sliding up a rough slope stops?**
 Compare tan α with μ. If tan α ≤ μ the body stays at rest; otherwise it slides back down with friction now acting up the slope.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and/).
 - Go back to the [course hub](/boards/ocr/a-level/mathematics/) and tick off the [checklist](/checklists/ocr/a-level/mathematics/).

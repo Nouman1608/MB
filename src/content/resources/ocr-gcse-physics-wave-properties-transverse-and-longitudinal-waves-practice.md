@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ These questions cover statements P5.1a to P5.1e, P5.1j and P5.1k of OCR GCSE (9-
 - Saying the water or air "moves with" the wave, instead of vibrating about fixed positions.
 - Describing a speed measurement without stating what is measured, how, and what is calculated.
 
-## Next steps
+## More on this topic
 
 - Go back over the [revision notes](/resources/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves/).
 - See the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and tick off topics on the [checklist](/checklists/ocr/gcse/physics/).

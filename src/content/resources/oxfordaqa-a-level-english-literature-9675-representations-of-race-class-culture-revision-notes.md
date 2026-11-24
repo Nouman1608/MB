@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ the full explanation and a model paragraph are in the
 12. That the character moves between cultures or communities, often with a divided or layered
     identity.
 
-## Next steps
+## More on this topic
 
 Practise with the [race, class and culture practice questions](/resources/oxfordaqa-a-level-english-literature-9675-representations-of-race-class-culture-practice/)
 and the full tasks in [Literary Representations practice questions](/resources/a-level-oxfordaqa-english-literature-literary-representations-practice/).

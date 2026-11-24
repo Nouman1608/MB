@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the summaries of Tulving's gold memory study and Penfield's study against the course textbook."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the summaries of Tulving's gold memory study and Penfield's study against the course textbook. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -207,7 +207,7 @@ learning physically changes the brain.
 11. PET.
 12. They involve different areas: episodic towards the front of the cortex, semantic towards the back.
 
-## Related resources
+## More resources on this topic
 
 - [Biopsychology practice questions](/resources/oxfordaqa-igcse-psychology-9218-biopsychology-practice/)
 - [Memory revision notes](/resources/oxfordaqa-igcse-psychology-9218-memory-revision-notes/)

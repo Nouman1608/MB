@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Solve dy/dx > 0 and give the answer as an interval of x-values, not as the roots
 **Why check the end values in an optimisation question?**
 A local minimum or maximum is not always the least or greatest value over the allowed range. Compare it with the values at the ends of the range, and check the answer makes sense in context.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-mathematics-applications-of-differentiation-tangents-normals-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-applications-of-differentiation-tangents-normals/).
 - Go to the [course hub](/boards/ocr/a-level/mathematics/) and tick off the [checklist](/checklists/ocr/a-level/mathematics/).

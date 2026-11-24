@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -181,7 +181,7 @@ No algebraic method in the syllabus solves this equation, which is exactly why t
 - **"By drawing a suitable straight line"**: write the equation of the line you draw.
 - **"Estimate"**: one decimal place is usually right for a graph reading.
 
-## Next steps
+## More on this topic
 
 - [Graphs of functions revision notes](/resources/cambridge-igcse-mathematics-0580-graphs-of-functions-revision-notes/) for the key facts and a self-test.
 - [Graphs of functions practice questions](/resources/cambridge-igcse-mathematics-0580-graphs-of-functions-practice/) with marked answers.

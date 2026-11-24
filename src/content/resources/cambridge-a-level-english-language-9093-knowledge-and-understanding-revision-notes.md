@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -163,7 +163,7 @@ abbreviations. 9. It informs in order to persuade: the information is selected t
 such as "Not again." 12. The reader a text constructs and assumes, revealed by its address, assumptions and
 references.
 
-## Next steps
+## More on this topic
 
 Try the [Knowledge and understanding practice questions](/resources/cambridge-a-level-english-language-9093-knowledge-and-understanding-practice/),
 then the [Paper 1 Reading revision notes](/resources/a-english-language-reading-revision-notes/) for the whole paper.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ These questions follow sections 7.01a to 7.01c of the OCR GCSE (9-1) Mathematics
 - Leaving a decimal when an exact answer was requested.
 - Drawing a U-shape for a negative x² coefficient.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and/).
 - Open the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/).

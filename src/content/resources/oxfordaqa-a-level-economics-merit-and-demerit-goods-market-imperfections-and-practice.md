@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -138,7 +138,7 @@ These questions are matched to OxfordAQA International AS and A-level Economics 
 - Describing a policy fix when the question asks why the market fails.
 - Finishing an evaluation by repeating points without reaching a verdict.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and/).
 - Tick off outcomes on the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and visit the [course hub](/boards/oxfordaqa/a-level/economics/).

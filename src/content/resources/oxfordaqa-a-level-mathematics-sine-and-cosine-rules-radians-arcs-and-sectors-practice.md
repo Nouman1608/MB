@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -170,7 +170,7 @@ Segment = 92.73 − 48 = **44.7 cm²** [1]
 - Mixing up bearings: adding or subtracting 180° wrongly, or measuring the angle between legs from the wrong side.
 - Giving the period of y = sin 2x as 720° or 2π, instead of 180° or π.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-mathematics-sine-and-cosine-rules-radians-arcs-and-sectors-revision-notes/) for this unit.
 - Reread the [study guide](/resources/oxfordaqa-a-level-mathematics-sine-and-cosine-rules-radians-arcs-and-sectors/) where a question went wrong.

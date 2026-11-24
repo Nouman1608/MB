@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -150,6 +150,6 @@ Absenteeism                = days lost / total working days available x 100
 9. Any one: low pay; poor management; lack of promotion; poor working conditions; better offers elsewhere.
 10. Any one: the value depends on the share price; does little for low-paid or short-term staff; risk to employees' savings.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Assessing competitiveness study guide](/resources/edexcel-a-level-business-ybs11-assessing-competitiveness/), then practise with the [Assessing competitiveness practice questions](/resources/edexcel-a-level-business-ybs11-assessing-competitiveness-practice/).

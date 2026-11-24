@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Conclusion, e.g. valuable for practice but real flying hours are still needed [1
 - Writing "cheaper" or "safer" without saying than what.
 - Confusing a model's input with its output.
 
-## Next steps
+## More on this topic
 
 - [Modelling revision notes](/resources/a-level-cambridge-ict-modelling-revision-notes/)
 - [Modelling study guide](/resources/a-level-cambridge-ict-modelling/)

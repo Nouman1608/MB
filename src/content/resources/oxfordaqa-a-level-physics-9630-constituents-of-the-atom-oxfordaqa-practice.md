@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ These questions cover section 3.3.1, Constituents of the atom, of OxfordAQA Inte
 - Predictions with no reason, or reasons that mention attraction.
 - Stating the plum pudding model predicts no deflection.
 
-## Next steps
+## More on this topic
 
 - Recap with the [constituents of the atom revision notes](/resources/oxfordaqa-a-level-physics-9630-constituents-of-the-atom-oxfordaqa-revision-notes/).
 - Re-read the [constituents of the atom study guide](/resources/oxfordaqa-a-level-physics-9630-constituents-of-the-atom-oxfordaqa/).

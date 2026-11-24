@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 1.5, Set language and notation, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. Section 1.5 sits in topic 1, Numbers and the number system. Foundation statements 1.5 A–E are needed for both tiers; the Higher tier adds statements 1.5 A–D, marked **Higher tier only** below.
@@ -320,7 +320,7 @@ Read it as "not in A, and in B", which is the same as "in B only". List the elem
 **What does the symbol ∈ mean in set notation?**
 ∈ means "is an element of" and ∉ means "is not an element of". For example, if A = {multiples of 3}, then 9 ∈ A.
 
-## Next steps
+## More on this topic
 
 Condense this with the [set language revision notes](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-revision-notes/), then work through the [set language practice questions](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-practice/). Check your coverage of the rest of the course with the [4MA1 checklist](/checklists/edexcel/igcse/mathematics/).
 

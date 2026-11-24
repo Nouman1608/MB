@@ -34,7 +34,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -189,7 +189,7 @@ Satisficing is listed as a model of decision-making alongside utility theory and
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 2: Consumer Psychology — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Consumer Psychology revision notes](/resources/a-level-psychology-consumer-psychology-revision-notes/)
 - [Consumer Psychology practice questions](/resources/a-level-psychology-consumer-psychology-practice/)

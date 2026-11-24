@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ Related: the [3.4 study guide](/resources/cambridge-a-level-mathematics-9709-dif
 - Giving the tangent gradient when the normal was asked for.
 - Not justifying why a factor such as eˣ or cos t can be divided out.
 
-## Next steps
+## More on this topic
 
 - [3.4 study guide](/resources/cambridge-a-level-mathematics-9709-differentiation-3/)
 - [3.4 revision notes](/resources/cambridge-a-level-mathematics-9709-differentiation-3-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -251,7 +251,7 @@ be in standard form with the unit: a ship's momentum might be
 - **Determine** from a graph: read values off the axes with their units
   and convert before using them, for example a time axis in minutes.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [Units for forces and motion revision notes](/resources/edexcel-igcse-physics-4ph1-units-forces-and-motion-revision-notes/)
 - Original questions with full answers: [Units for forces and motion practice questions](/resources/edexcel-igcse-physics-4ph1-units-forces-and-motion-practice/)

@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -219,7 +219,7 @@ Each curly arrow must start at an electron pair, either a lone pair or the π bo
 **Do all ketones give a negative iodoform test?**
 No. A positive iodoform test depends on the structure: carbonyl compounds containing the CH₃CO– group give a positive result, whether they are aldehydes or ketones.
 
-## Related resources
+## More resources on this topic
 
 - [Alcohols: Reactions and Oxidation](/resources/as-alcohols-reactions-and-oxidation/) — the oxidation reactions that produce aldehydes and ketones
 - [Carboxylic Acids and Esters](/resources/as-carboxylic-acids-and-esters/) — where further oxidation of an aldehyde leads

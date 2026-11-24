@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -196,7 +196,7 @@ A resident is chosen at random.
 - Treating "A or B" as "A and B", or reading group AB as "A or B".
 - Not showing the rule or the sum, so a slip cannot be traced.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events-revision-notes/) and the [study guide](/resources/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events/).
 - Back to the [O Level Statistics hub](/boards/cambridge/o-level/statistics/) and the [printable checklist](/checklists/cambridge/o-level/statistics/).

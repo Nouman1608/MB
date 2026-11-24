@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -219,7 +219,7 @@ No. The route has to pass through an alcohol and then a carbonyl compound before
 **How should you approach planning a synthesis?**
 Compare the functional groups and carbon count of the starting material and target, then link known reactions step by step, giving reagents and conditions for each.
 
-## Related resources
+## More resources on this topic
 
 - [Addition Polymerisation](/resources/as-addition-polymerisation/) — the last individual organic reaction this synthesis toolkit draws on
 - [Halogenoalkanes: Nucleophilic Substitution and Elimination](/resources/as-halogenoalkanes/) — the substitution/elimination conditions used throughout

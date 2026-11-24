@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ Mass is measured in kilograms and does not change with location. Weight is a for
 **Where are marks usually lost on mechanics units questions?**
 Common losses include leaving grams, centimetres, kN or km h⁻¹ unconverted, giving weight in kg, writing m s⁻¹ for acceleration, using a different g from the one given, and rounding converted values too early.
 
-## Next steps
+## More on this topic
 
 - Recap the rules: [Quantities and units revision notes](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes/).
 - Full explanations: [Quantities and units study guide](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics/).

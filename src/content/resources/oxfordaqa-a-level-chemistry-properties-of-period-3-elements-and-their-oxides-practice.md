@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -254,7 +254,7 @@ intermolecular forces, so P₄O₁₀ melts lower [1]
 - Wrong mole ratios for chloride neutralisation (PCl₅ needs 8 NaOH).
 - Losing the lone pair on sulfur, or placing a charge on P or S, when drawing acids and anions.
 
-## Next steps
+## More on this topic
 
 - [Period 3 oxides and chlorides revision notes](/resources/oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-revision-notes/)
 - [Period 3 oxides and chlorides study guide](/resources/oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides/)

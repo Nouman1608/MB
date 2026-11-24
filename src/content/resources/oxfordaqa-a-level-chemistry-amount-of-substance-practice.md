@@ -34,7 +34,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ These questions cover section 3.1.2 (Amount of substance) of the OxfordAQA Inter
 - Describing high atom economy as "good for the environment" without saying why.
 - Leaving out state symbols or including spectator ions when an ionic equation is requested.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-chemistry-amount-of-substance-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-chemistry-amount-of-substance/).
 - Tick off what you have covered on the [printable checklist](/checklists/oxfordaqa/a-level/chemistry/) and browse the [course hub](/boards/oxfordaqa/a-level/chemistry/).

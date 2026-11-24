@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Country P has 3,200 m³ per person per year.
 - Blaming algae, rather than decomposers, for oxygen depletion.
 - Listing management measures without evaluating them or reaching a judgement.
 
-## Next steps
+## More on this topic
 
 - [Topic 4 Water revision notes](/resources/ib-dp-ess-water-systems-security-pollution-revision-notes/)
 - [Topic 4 Water study guide](/resources/ib-dp-ess-water-systems-security-pollution/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ Divide by the coefficient of x: ∫ 2/(2x + 1) dx = ln|2x + 1| + c. Writing 2 ln
 **How do you show every step in a "show that" integration question?**
 Write the antiderivative, substitute both limits and simplify line by line until you reach the given value. Stopping at the final result without the intermediate lines loses marks.
 
-## Next steps
+## More on this topic
 
 - Memorise the methods in the [revision notes](/resources/ocr-a-level-mathematics-techniques-of-integration-reverse-chain-rule-parts-revision-notes/) and reread the [study guide](/resources/ocr-a-level-mathematics-techniques-of-integration-reverse-chain-rule-parts/).
 - Check coverage on the [OCR A Level Mathematics hub](/boards/ocr/a-level/mathematics/) and the [printable checklist](/checklists/ocr/a-level/mathematics/).

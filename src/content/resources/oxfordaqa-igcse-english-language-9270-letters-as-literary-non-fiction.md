@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ with that context in mind. For the whole-text question, compare the opening and 
 letter or sequence and explain how the relationship or the writer's feelings have moved. Leave time
 for Section B, which carries the same 40 marks.
 
-## Related resources
+## More resources on this topic
 
 - [Letters as literary non-fiction revision notes](/resources/oxfordaqa-igcse-english-language-9270-letters-as-literary-non-fiction-revision-notes/)
 - [Letters as literary non-fiction practice questions](/resources/oxfordaqa-igcse-english-language-9270-letters-as-literary-non-fiction-practice/)

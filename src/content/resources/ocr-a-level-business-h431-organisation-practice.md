@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -110,7 +110,7 @@ Evaluation: the structure suits a business with distinct projects, as here, but 
 - Describing a structure without linking it to the business in the case.
 - Writing about culture in general terms without a cause or an effect.
 
-## Next steps
+## More on this topic
 
 - Revisit the [organisation study guide](/resources/ocr-a-level-business-h431-organisation/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

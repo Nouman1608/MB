@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -250,7 +250,7 @@ Banks, building societies and insurers enable saving, borrowing and investment, 
 **Do economies of scale reduce total cost?**
 No. Economies of scale reduce average cost, the cost per unit, as output rises. Total cost still rises as more is produced.
 
-## Related resources
+## More resources on this topic
 
 - [The Role of Markets and Money study guide](/resources/ocr-gcse-economics-the-role-of-markets-and-money/)
 - [The Role of Markets and Money practice questions](/resources/ocr-gcse-economics-markets-money-practice/)

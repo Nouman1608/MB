@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -126,7 +126,7 @@ Pay is an ethical issue as well as a motivational one. Questions include whether
 
 For **explain** and **analyse** questions, apply the concept to the business's own context, for instance "a role culture, with its strict procedures, is likely to be slow to respond to new competitors". In **discuss** and **assess** questions about conflict or ethics, weigh the short-term gain against the long-term risk, name the stakeholder groups affected and give a judgement that depends on the business's circumstances, such as how much its customers care about ethical sourcing or how exposed its brand is.
 
-## Related resources
+## More resources on this topic
 
 - [Influences on business decisions revision notes](/resources/edexcel-a-level-business-ybs11-influences-on-business-decisions-revision-notes/)
 - [Influences on business decisions practice questions](/resources/edexcel-a-level-business-ybs11-influences-on-business-decisions-practice/)

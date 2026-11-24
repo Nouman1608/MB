@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -159,6 +159,6 @@ Official statistics in many societies show four broad patterns. Describe them in
 - **Discuss**: for a theory question, give three developed points and a strength or limitation.
 - **Evaluate**: always include the statistics debate, plus at least one alternative explanation, and conclude.
 
-## Next steps
+## More on this topic
 
 Condense with the [key question 6.2 revision notes](/resources/cambridge-igcse-sociology-0495-kq-6-2-revision-notes/) and practise with the [crime patterns and explanations practice questions](/resources/igcse-cambridge-sociology-crime-patterns-and-explanations-practice/). Review the foundations in [what are crime, deviance and social control (key question 6.1)](/resources/cambridge-igcse-sociology-0495-kq-6-1/), then continue with [how crime is dealt with (key question 6.3)](/resources/cambridge-igcse-sociology-0495-kq-6-3/).

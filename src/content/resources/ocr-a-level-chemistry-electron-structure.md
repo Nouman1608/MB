@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches **2.2.1 Electron structure**, part of Module 2 (Foundations in chemistry) of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. All of 2.2.1(a) to (d) is taught here, along with the specification's additional guidance. There are no tiers in H432, so every candidate needs all of this content. Module 2 content can be examined in any of the three written components, 01, 02 and 03.
@@ -248,7 +248,7 @@ Species with the same electron configuration are called **isoelectronic**. SeÂ²â
 
 2.2.1 feeds directly into 2.2.2 (bonding and structure), where outer electrons explain ionic and covalent bonding, and into 3.1.1, where configurations explain the s-, p- and d-blocks and ionisation energy trends. In 5.3.1 you return to configurations for d-block atoms and ions.
 
-## Next steps
+## More on this topic
 
 - Recall: [electron structure revision notes](/resources/ocr-a-level-chemistry-electron-structure-revision-notes/)
 - Practise: [electron structure practice questions](/resources/ocr-a-level-chemistry-electron-structure-practice/)

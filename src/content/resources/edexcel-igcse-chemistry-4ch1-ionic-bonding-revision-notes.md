@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,6 +149,6 @@ Reminder: aluminium oxide forms when two Al atoms each lose 3 electrons (6 in to
 11. The ions are held in fixed positions in the lattice, so they cannot move to carry charge.
 12. It has a giant ionic lattice with many strong electrostatic attractions between Mg²⁺ and O²⁻ ions; a lot of energy is needed to overcome them.
 
-## Next steps
+## More on this topic
 
 Shared-pair bonding follows in the [covalent bonding revision notes](/resources/edexcel-igcse-chemistry-4ch1-covalent-bonding-revision-notes/); all three bonding types are summarised in the [ionic, covalent and metallic bonding revision notes](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-revision-notes/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ A diameter is a special chord; a radius is not a chord, because a chord has both
 - **Explain** why shapes are similar: compare every pair of corresponding lengths and state the common scale factor.
 - Learn the spellings of terms such as "isosceles", "parallelogram" and "trapezium", so your answer cannot be read as a different word.
 
-## Next steps
+## More on this topic
 
 - Recap with the [geometrical terms revision notes](/resources/cambridge-igcse-mathematics-0580-geometrical-terms-revision-notes/) and practise with the [geometrical terms practice questions](/resources/cambridge-igcse-mathematics-0580-geometrical-terms-practice/).
 - Use these terms in drawing work in the [geometrical constructions study guide](/resources/cambridge-igcse-mathematics-0580-geometrical-constructions/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Revise first with the [study guide](/resources/igcse-biology-0610-biological-mol
 - (Extended) Pairing A with C or G with T, or giving only "double helix" for a four-mark structure question.
 - (Extended) Forgetting that A = T and C = G before splitting the remaining percentage.
 
-## Next steps
+## More on this topic
 
 - Go back over the [biological molecules revision notes](/resources/igcse-biology-0610-biological-molecules-revision-notes/).
 - Re-read any weak section in the [biological molecules study guide](/resources/igcse-biology-0610-biological-molecules/).

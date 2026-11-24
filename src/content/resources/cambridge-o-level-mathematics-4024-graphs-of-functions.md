@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ Always give the units of a gradient in context: units of y per unit of x.
 - **By drawing a suitable straight line:** write the rearrangement so the line's equation is clear, then draw it.
 - **Estimate the gradient:** the tangent must be visible on the graph, with the two points you used clear.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [graphs of functions practice questions](/resources/cambridge-o-level-mathematics-4024-graphs-of-functions-practice/), then use the [graphs of functions revision notes](/resources/cambridge-o-level-mathematics-4024-graphs-of-functions-revision-notes/) for quick recall. Section 2.11 follows on with recognising shapes without a table; see [sketching curves](/resources/cambridge-o-level-mathematics-4024-sketching-curves/).
 

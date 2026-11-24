@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ CH₃COOH(aq) + NO₂⁻(aq) ⇌ CH₃COO⁻(aq) + HNO₂(aq) **[3]**
 - Sketching a pH curve whose steep section is not vertical, or whose end plateau reaches the pH of the titrant.
 - Saying neutral water must have pH 7 at all temperatures.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph/)

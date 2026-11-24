@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Specification Issue 3, April 2019. It covers section 6 of the Statistics 1 (S1) content, "The Normal distribution", which the specification numbers 5.1. The specification states that S1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
@@ -279,7 +279,7 @@ Yes. For a continuous random variable a single exact value has probability zero,
 **How many probability statements do you need to find μ and σ?**
 If only one of μ or σ is unknown, one statement is enough. If both are unknown, you need two statements, giving two simultaneous equations.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [revision notes](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-revision-notes/), then try the [practice questions](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-practice/). The [course hub](/boards/edexcel/a-level/mathematics/) and [checklist](/checklists/edexcel/a-level/mathematics/) show what else you need, and the [diagnostics](/diagnostics/) help you decide what to work on next.
 

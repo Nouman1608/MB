@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ These questions cover section 2.1.1 (a) to (k), Cell structure, of the OCR A Lev
 - Giving only one side of a prokaryote and eukaryote comparison.
 - Saying prokaryotes have no DNA instead of no nucleus.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-revision-notes/) and the [study guide](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus/).
 - Return to the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and tick off the [printable checklist](/checklists/ocr/a-level/biology/).

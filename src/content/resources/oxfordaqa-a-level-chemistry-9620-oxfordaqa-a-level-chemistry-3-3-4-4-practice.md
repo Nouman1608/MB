@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ D: Its C–H bonds are very polar. **[1]**
 - Hazards stated without a reason.
 - Forgetting that ring-opened products still have –OH and can react again.
 
-## Next steps
+## More on this topic
 
 - Recap the facts: [epoxyethane revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-4-4-revision-notes/)
 - Relearn the mechanism: [epoxyethane study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-4-4/)

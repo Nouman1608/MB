@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -197,7 +197,7 @@ Have two or three prepared, explained conflicts ready, such as growth against th
 **Is the use of national income data in AQA AS Economics?**
 No. 3.2.1.4 Uses of national income data, including its limits as a measure of living standards and the use of PPP exchange rates, is A-level only.
 
-## Related resources
+## More resources on this topic
 
 - [The Measurement of Macroeconomic Performance study guide](/resources/a-level-aqa-economics-measurement-of-macroeconomic-performance/)
 - [The Measurement of Macroeconomic Performance practice questions](/resources/aqa-a-level-economics-macroeconomic-performance-practice/)

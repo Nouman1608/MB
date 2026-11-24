@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ This is why E⦵ values compare fairly only under standard conditions, and why p
 - **Predict** whether a reaction occurs: compare the two E⦵ values, say which species is the oxidising agent, give the EMF and the balanced equation.
 - **Explain** the effect of a concentration change: name the equilibrium, its shift, the change in E for that electrode, then the effect on the EMF.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.9.1 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-9-1-revision-notes/), then try the [3.1.9.1 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-9-1-practice/). The next point, [commercial applications of cells (3.1.9.2)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-9-2/), applies these rules to batteries and fuel cells.
 

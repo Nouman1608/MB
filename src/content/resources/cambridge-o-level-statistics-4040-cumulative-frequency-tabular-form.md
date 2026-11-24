@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Check: the last total equals 40.
 - **Find the percentage**: divide by n, not by the number of classes.
 - **Estimate**: say it is an estimate and show the interpolation.
 
-## Next steps
+## More on this topic
 
 Condense the reading rules with the [revision notes on cumulative frequency tables](/resources/cambridge-o-level-statistics-4040-cumulative-frequency-tabular-form-revision-notes/), then practise with the [cumulative frequency table practice questions](/resources/cambridge-o-level-statistics-4040-cumulative-frequency-tabular-form-practice/). The graphs come next in [cumulative frequency in graphical form](/resources/cambridge-o-level-statistics-4040-cumulative-frequency-graphical-form/).
 

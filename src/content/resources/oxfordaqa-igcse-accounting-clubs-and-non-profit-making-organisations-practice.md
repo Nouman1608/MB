@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -160,7 +160,7 @@ Closing balance c/d = (1,150 plus 5,560) less 4,050 = **2,660** [1]. Both totals
 - Giving comments with no figure and no consequence.
 - Omitting the title and period or date on a statement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations/).

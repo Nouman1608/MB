@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -142,7 +142,7 @@ Constraints are **unequal**: the poorest often cannot afford to move far, so lon
 
 **Answers:** 1. Immigrants minus emigrants. 2. Later migrants follow earlier ones through family or community links. 3. Push: unemployment. Pull: higher wages. 4. Young adults. 5. Distance, cost, border controls, language. 6. Natural increase plus net migration. 7. Natural increase +500, net migration -300, so +200. 8. The fall in the number of migrants as distance increases. 9. Most migrants move short distances; migration proceeds in steps; each stream has a counter-stream. 10. They cannot afford the cost or meet visa requirements. 11. They assume rational, economic decisions and explain forced migration poorly.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

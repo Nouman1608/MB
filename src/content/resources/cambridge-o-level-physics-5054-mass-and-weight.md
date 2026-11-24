@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -194,7 +194,7 @@ N/kg when talking about weight and m/s² when talking about acceleration.
 
 **Do I need to know g on other planets?** No. Questions give any value other than 9.8 N/kg.
 
-## Related resources
+## More resources on this topic
 
 - [Mass and weight revision notes](/resources/cambridge-o-level-physics-5054-mass-and-weight-revision-notes/)
 - [Mass and weight practice questions](/resources/cambridge-o-level-physics-5054-mass-and-weight-practice/)

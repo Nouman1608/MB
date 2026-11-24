@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -180,6 +180,6 @@ A histogram or cumulative frequency curve that rises steeply and then flattens s
 - **Confusing correlation with cause.**
 - **Rounding too early.** Round only the final answer.
 
-## Next steps
+## More on this topic
 
 Condense this with the [statistical skills revision notes](/resources/oxfordaqa-igcse-geography-9230-statistical-skills-revision-notes/) and test yourself with the [statistical skills practice questions](/resources/oxfordaqa-igcse-geography-9230-statistical-skills-practice/).

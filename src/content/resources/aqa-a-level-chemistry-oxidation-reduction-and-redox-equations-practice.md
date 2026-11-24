@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ Leaving any electrons in the final equation, or H⁺ and H₂O on both sides, lo
 **Why do answers naming "hydrogen" or "chlorine" lose marks?**
 When a question asks for a species, name the exact ion or molecule, such as H⁺ or Br⁻. "Hydrogen" is ambiguous between H⁺ and H₂.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this section](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes/)
 - [Study guide for this section](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/)

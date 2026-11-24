@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Learn the method first in the [study guide](/resources/oxfordaqa-a-level-mathema
 - Ignoring a change in the direction of motion when finding total distance.
 - Calling a model unrealistic while naming neither the assumption nor its effect on the answer.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-mathematics-mathematical-modelling-and-kinematics-with-vectors-and-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-mathematics-mathematical-modelling-and-kinematics-with-vectors-and/).
 - Tick off M2.1 and M2.2 on the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and visit the course [hub](/boards/oxfordaqa/a-level/mathematics/).

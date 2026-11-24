@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -219,7 +219,7 @@ For judging sources by origin, purpose, value and limitation, read [source-evalu
 - Calling a change from 22% to 46% a "24% increase". It is 24 percentage points.
 - Writing a research question that is too broad or cannot be answered with sources you can reach.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/ib-myp-individuals-and-societies-industrialization-and-technology-revision-notes/) and [practice questions](/resources/ib-myp-individuals-and-societies-industrialization-and-technology-practice/). For the criteria, read [the four criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/), the [MYP Individuals and Societies subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/) and [the disciplines in MYP Individuals and Societies](/resources/ib-myp-individuals-societies-disciplines/). Related units: [settlement and urban morphology](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology/) and [demographics and human movements](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements/).
 

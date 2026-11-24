@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -268,7 +268,7 @@ CREATE TABLE OrderLine (
 - Check each clause order: SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY.
 - Check by working out the result for two or three rows of the sample data.
 
-## Related resources
+## More resources on this topic
 
 - [SQL revision notes](/resources/aqa-a-level-computer-science-7517-structured-query-language-sql-revision-notes/)
 - [SQL practice questions](/resources/aqa-a-level-computer-science-7517-structured-query-language-sql-practice/)

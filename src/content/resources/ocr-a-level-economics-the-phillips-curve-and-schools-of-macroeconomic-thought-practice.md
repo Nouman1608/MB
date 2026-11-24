@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Neither. NAIRU, the non-accelerating inflation rate of unemployment, is the rate
 **How should you compare the schools of macroeconomic thought in an answer?**
 Compare the Keynesian, neo-classical and Austrian views directly rather than describing each separately, and use the data in the question to judge which explanation fits best.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought/).
 - Browse the [OCR Economics hub](/boards/ocr/a-level/economics/) and tick off topics on the [checklist](/checklists/ocr/a-level/economics/).

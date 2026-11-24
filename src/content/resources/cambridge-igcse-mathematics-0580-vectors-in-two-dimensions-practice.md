@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ These questions cover subtopic E7.2, Vectors in two dimensions, in the Cambridge
 - Mixing up east (1, 0) and north (0, 1).
 - Solving only one of the two equations from a vector equation.
 
-## Next steps
+## More on this topic
 
 - Move on to lengths with the [magnitude of a vector study guide](/resources/cambridge-igcse-mathematics-0580-magnitude-of-a-vector/).
 - Mixed Topic 7 questions: [transformations and vectors practice](/resources/igcse-mathematics-transformations-and-vectors-practice/).

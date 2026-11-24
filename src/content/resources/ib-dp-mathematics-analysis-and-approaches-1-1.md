@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ written in the form a × 10ᵏ unless the question asks for it.
 - Rounding k instead of a, or rounding during the working.
 - Taking a square root without first making the power of 10 even.
 
-## Next steps
+## More on this topic
 
 - [Section 1.1 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-1-1-revision-notes/)
 - [Section 1.1 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-1-practice/)

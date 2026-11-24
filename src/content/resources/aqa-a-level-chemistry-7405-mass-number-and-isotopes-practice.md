@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the electron impact and electrospray detail and the flight-time calculations sit within 3.1.1.2, since the specification text names only the ionisation stage."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the electron impact and electrospray detail and the flight-time calculations sit within 3.1.1.2, since the specification text names only the ionisation stage. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -191,7 +191,7 @@ Maximum **[6]**.
 - Dividing by 100 when relative heights do not total 100.
 - Forgetting the extra proton in electrospray.
 
-## Next steps
+## More on this topic
 
 - [Mass number and isotopes revision notes](/resources/aqa-a-level-chemistry-7405-mass-number-and-isotopes-revision-notes/)
 - [Electron configuration practice questions](/resources/aqa-a-level-chemistry-7405-electron-configuration-practice/)

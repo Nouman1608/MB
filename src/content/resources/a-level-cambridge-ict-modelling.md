@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **topic 9, Modelling**, of Cambridge International AS & A Level Information Technology (9626). It follows the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), section 9.1 Modelling and simulations. Topic 9 is an **AS Level** topic, so it is part of both the AS Level and the full A Level. The syllabus bases **Paper 1 (Theory)** questions on sections 1–11 and **Paper 2 (Practical)** tasks on sections 8–11, so you can meet modelling in both papers. Paper 4 (Advanced Practical) may also include practical tasks from sections 8–10 within a problem-solving context.
@@ -243,7 +243,7 @@ In each case the model holds the rules (how the aircraft responds to its control
 - Using "model" and "simulation" as if they mean the same thing.
 - Giving only advantages when the question asks you to evaluate.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Modelling revision notes](/resources/a-level-cambridge-ict-modelling-revision-notes/), then test yourself on the [Modelling practice questions](/resources/a-level-cambridge-ict-modelling-practice/). For the sensors and control systems behind weather data, see [Monitoring and Control](/resources/a-level-cambridge-ict-monitoring-and-control/). For the hardware used to run large simulations, see [Hardware and Software](/resources/a-level-cambridge-ict-hardware-and-software/).
 

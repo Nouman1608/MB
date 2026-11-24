@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ State whether it is factual, conceptual or debatable and give the reason for you
 **How do area and volume change when a shape is enlarged?**
 If lengths are multiplied by a scale factor k, area is multiplied by k² and volume by k³. Forgetting this is a common slip in relationships questions.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and/) and the [revision notes](/resources/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and-revision-notes/).
 - Use the [MYP Mathematics hub](/boards/ib/ib-myp/mathematics/) and [printable checklist](/checklists/ib/ib-myp/mathematics/) to see what else to cover.

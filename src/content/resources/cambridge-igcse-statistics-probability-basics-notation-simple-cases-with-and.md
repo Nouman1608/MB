@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers outcomes 7.1 to 7.4 of Topic 7 (Probability) in the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. It teaches probability notation, probabilities in simple cases (including selecting with and without replacement), the complement rule and the addition rule. The syllabus has one set of content for all candidates, so there is no tier split. The remaining Topic 7 outcomes (mutually exclusive and independent events, conditional probability and tree diagrams) are a separate unit and are not taught here.
@@ -281,7 +281,7 @@ You can then find related probabilities. P(A ∩ B′) = 0.72 – 0.15 = 0.57 an
 - Leaving a probability above 1, or giving a negative probability. Both signal an arithmetic slip.
 - Mixing forms in a final answer, such as a percentage sign on a fraction. Give the form the question asks for.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and-practice/), then condense the unit with the [revision notes](/resources/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and-revision-notes/). Tick off each outcome on the [checklist](/checklists/cambridge/igcse/statistics/), and use the [diagnostics](/diagnostics/) to test yourself under time.
 

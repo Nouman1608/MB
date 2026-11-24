@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ These questions cover section 3.1.4 (Production, costs, revenue and profit) of T
 - Listing ethical problems with no response by the producer.
 - Giving benefits of growth only, with no cost and no judgement.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of-revision-notes/) and read the [study guide](/resources/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of/).
 - Visit the [course hub](/boards/oxfordaqa/igcse/economics/) and the [checklist](/checklists/oxfordaqa/igcse/economics/).

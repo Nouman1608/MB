@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ their circumstances; a public issue affects many and arises from the structure o
 12. Instead of blaming motivation, ask whether poverty, the need to earn, distance to school or gender
 norms affect many students in the same way, which would make early leaving a public issue.
 
-## Related resources
+## More resources on this topic
 
 - [Culture and the sociological imagination: study guide](/resources/oxfordaqa-igcse-sociology-9292-culture-and-sociological-imagination/)
 - [Culture and the sociological imagination: practice questions](/resources/oxfordaqa-igcse-sociology-9292-culture-and-sociological-imagination-practice/)

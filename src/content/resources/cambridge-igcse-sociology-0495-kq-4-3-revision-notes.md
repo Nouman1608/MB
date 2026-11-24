@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -136,6 +136,6 @@ Cohabitation (trial or permanent); singlehood (by choice); lone parents (divorce
 
 **Answers:** 1. Any three: contraception; women's education and careers; lower infant mortality; the cost of raising children; later marriage. 2. More generations are alive at once, producing long, thin beanpole families. 3. Middle-aged adults caring at the same time for their own children and their ageing parents. 4. It replaced the extended family with the isolated nuclear family, which suited the need for geographical mobility. 5. He found extended households were common in an early industrial town in 1851, because kin helped one another with work and housing. 6. Legislation; societal attitudes and values; the internet; secularisation; cultural expectations; changes in the status and power of women. 7. With less religious influence, marriage is less often seen as a sacred lifelong commitment, so divorce carries less moral stigma. 8. Any two: online dating widens the choice of partners; contact with new or former partners is easier; online support during separation. 9. Young and Willmott's term for a family in which partners share paid work, domestic tasks and leisure. 10. They are dependent for longer in education and cost a lot to raise, rather than earning for the family. 11. Any two: high housing costs; student debt; insecure or low-paid jobs; relationship breakdown. 12. Any two: childcare; economic support; wisdom and advice.
 
-## Next steps
+## More on this topic
 
 Try the [key question 4.3 practice questions](/resources/cambridge-igcse-sociology-0495-kq-4-3-practice/), then revise the earlier Family key questions with the [key question 4.1 revision notes](/resources/cambridge-igcse-sociology-0495-kq-4-1-revision-notes/) and [key question 4.2 revision notes](/resources/cambridge-igcse-sociology-0495-kq-4-2-revision-notes/).

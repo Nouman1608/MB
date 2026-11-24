@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide covers section S2.4 (Normal distribution) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit S2 (Statistics). It is not examined at International AS.
 
@@ -263,7 +263,7 @@ Decide which situation applies by reading the context. Several separate items fr
 - Giving the wrong sign to the z-value for a probability below 0.5 when solving for a parameter.
 - Rounding the z-value to one decimal place, which can move the final answer in the third significant figure.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/oxfordaqa-a-level-mathematics-the-normal-distribution-and-sums-of-normal-variables-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-mathematics-the-normal-distribution-and-sums-of-normal-variables-practice/). Check your coverage on the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and see the [course hub](/boards/oxfordaqa/a-level/mathematics/) for related units.
 

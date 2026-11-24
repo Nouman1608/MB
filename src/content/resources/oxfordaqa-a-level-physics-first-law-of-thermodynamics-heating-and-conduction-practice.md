@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-first-law-of-thermod
 - Using the diameter as the radius when finding the area of a rod.
 - Adding the U-values themselves instead of adding the products UA.
 
-## Next steps
+## More on this topic
 
 - Recheck the [revision notes](/resources/oxfordaqa-a-level-physics-first-law-of-thermodynamics-heating-and-conduction-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-first-law-of-thermodynamics-heating-and-conduction/).
 - Visit the [OxfordAQA A-level Physics course page](/boards/oxfordaqa/a-level/physics/) and the [checklist](/checklists/oxfordaqa/a-level/physics/).

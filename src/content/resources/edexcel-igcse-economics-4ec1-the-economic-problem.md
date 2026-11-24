@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ Do not confuse a move from inside the curve to the curve with growth. That is us
 - **Explain:** statement plus two developments, in the context given.
 - **Analyse / Assess / Evaluate:** develop chains and, for assess and evaluate, weigh factors and reach a judgement.
 
-## Next steps
+## More on this topic
 
 Condense this with the [economic problem revision notes](/resources/edexcel-igcse-economics-4ec1-the-economic-problem-revision-notes/), then apply it in the [economic problem practice questions](/resources/edexcel-igcse-economics-4ec1-the-economic-problem-practice/). The next section, [economic assumptions](/resources/edexcel-igcse-economics-4ec1-economic-assumptions/), looks at how consumers and producers are assumed to choose.
 

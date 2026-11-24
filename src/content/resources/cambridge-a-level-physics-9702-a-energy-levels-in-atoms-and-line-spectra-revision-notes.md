@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ hf = E₁ − E₂        λ = hc / (E₁ − E₂)
 
 **Answers:** 1. Only certain separate values are allowed, with no values in between. 2. Zero is defined as a free electron, and bound electrons have less energy than that. 3. Bright coloured lines at particular wavelengths on a dark background. 4. A continuous spectrum crossed by dark lines at particular wavelengths. 5. The re-emitted photons travel in all directions, so few continue along the original beam. 6. hf = E₁ − E₂. 7. ΔE = −0.85 − (−3.40) = 2.55 eV = 4.08 × 10⁻¹⁹ J. 8. λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 4.08 × 10⁻¹⁹ = 4.88 × 10⁻⁷ m. 9. 5 × 4 / 2 = 10. 10. Nearly all atoms are in the ground state, so absorption mainly occurs from that level only. 11. No: the gaps from the ground state are 10.2 eV (to n = 2) and 12.09 eV (to n = 3), and 11.0 eV matches neither, nor is it enough to ionise. 12. The atoms in a solid are close together, so their levels spread into ranges rather than staying sharp.
 
-## Related resources
+## More resources on this topic
 
 - [Quantum Physics revision notes](/resources/a-physics-quantum-physics-revision-notes/) — the whole of Topic 22
 - [Energy levels and line spectra practice questions](/resources/cambridge-a-level-physics-9702-a-energy-levels-in-atoms-and-line-spectra-practice/)

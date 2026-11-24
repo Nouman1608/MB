@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -182,7 +182,7 @@ Transfer to disposal 21,600 [1]. Opening 37,200 [1]. Charge 10,800 [1]. Balance 
 - Placing the profit or loss on disposal on the wrong side.
 - Describing depreciation as a cash reserve.
 
-## Next steps
+## More on this topic
 
 - Revisit the [depreciation study guide](/resources/edexcel-igcse-accounting-4ac1-depreciation/).
 - Try the combined [capital and revenue expenditure and depreciation practice questions](/resources/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation-practice/).

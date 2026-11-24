@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ first-to-last method uses all of it.
 - Rounding the least n down instead of up.
 - Treating nearly arithmetic data as exact without comment.
 
-## Next steps
+## More on this topic
 
 - [Section 1.2 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-1-2-revision-notes/)
 - [Section 1.2 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-2-practice/)

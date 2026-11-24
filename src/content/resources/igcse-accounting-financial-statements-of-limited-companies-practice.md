@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -216,7 +216,7 @@ Non-current assets, carrying value $104,400 [2]; net trade receivables $7,500 [1
 - Adding a general reserve transfer into the total column.
 - Confusing issued, called-up and paid-up share capital.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/igcse-accounting-financial-statements-of-limited-companies-revision-notes/) and [study guide](/resources/igcse-accounting-financial-statements-of-limited-companies/).
 - Use the [course hub](/boards/cambridge/igcse/accounting/) and [checklist](/checklists/cambridge/igcse/accounting/).

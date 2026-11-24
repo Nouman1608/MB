@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -157,7 +157,7 @@ day. 7. Primary pollutants are emitted directly; secondary pollutants form in th
 car. 10. A chain in which low income, poor housing, poor health and low qualifications reinforce each
 other. 11. Groundwater pumping has caused subsidence, adding to heavy rain and blocked drains.
 
-## Related resources
+## More resources on this topic
 
 - [Urban environments study guide](/resources/ib-dp-geography-urban-environments-study-guide/)
 - [Building sustainable urban systems for the future revision notes](/resources/ib-dp-geography-building-sustainable-urban-systems-for-the-future-revision-notes/)

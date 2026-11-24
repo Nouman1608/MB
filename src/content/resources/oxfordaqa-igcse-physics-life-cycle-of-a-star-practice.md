@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -123,7 +123,7 @@ These questions follow the OxfordAQA International GCSE Physics (9203) specifica
 - Describing the black dwarf as a black hole.
 - Leaving out the distribution of elements by the explosion in an origins answer.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star/).
 - See the [OxfordAQA IGCSE Physics hub](/boards/oxfordaqa/igcse/physics/) and the [printable checklist](/checklists/oxfordaqa/igcse/physics/).

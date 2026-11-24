@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples of desertification but does not fix the place. This page uses the Sahel. Check the dates and descriptions of the Great Green Wall (launched 2007) and the Niger and Burkina Faso farming examples against your own notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples of desertification but does not fix the place. This page uses the Sahel. Check the dates and descriptions of the Great Green Wall (launched 2007) and the Niger and Burkina Faso farming examples against your own notes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -147,6 +147,6 @@ The answer follows a chain: cause, vegetation loss, soil exposure, erosion, cons
 - **Mixing up hot desert and rainforest adaptations.** Drip tips are for heavy rain; waxy skins in cacti are to hold water.
 - **Using large-scale expensive strategies as the only answer.** Appropriate technology that local people can maintain is part of the specification.
 
-## Next steps
+## More on this topic
 
 Condense this with the [hot deserts revision notes](/resources/oxfordaqa-igcse-geography-9230-hot-deserts-revision-notes/) and test yourself with the [hot deserts practice questions](/resources/oxfordaqa-igcse-geography-9230-hot-deserts-practice/). Compare it with the [tropical rainforests study guide](/resources/oxfordaqa-igcse-geography-9230-tropical-rainforests/).

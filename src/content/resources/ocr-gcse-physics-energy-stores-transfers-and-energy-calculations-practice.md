@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ Links: [study guide](/resources/ocr-gcse-physics-energy-stores-transfers-and-ene
 - Rounding in the middle of a calculation, or giving too many significant figures at the end.
 - Leaving out units, or giving joules when kW h is asked for.
 
-## Next steps
+## More on this topic
 
 - Check your recall with the [revision notes](/resources/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations-revision-notes/).
 - Re-read the full explanations in the [study guide](/resources/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations/).

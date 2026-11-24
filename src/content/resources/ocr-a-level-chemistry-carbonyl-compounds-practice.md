@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Relative atomic masses for the calculations: Ag 107.9, H 1.0, O 16.0, C 12.0, N 
 - Naming hydroxynitriles with the OH carbon as C1.
 - Dividing product mass by reactant mass in yield questions.
 
-## Next steps
+## More on this topic
 
 - Carbonyl tables and mechanism steps in brief: [revision notes](/resources/ocr-a-level-chemistry-carbonyl-compounds-revision-notes/)
 - The full explanation of each outcome: [study guide](/resources/ocr-a-level-chemistry-carbonyl-compounds/)

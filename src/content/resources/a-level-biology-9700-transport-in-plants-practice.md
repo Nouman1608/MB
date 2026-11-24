@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ Before you start, you may want the [study guide](/resources/a-level-biology-9700
 - Saying sucrose itself is actively pumped.
 - Explaining mass flow with concentration only, not hydrostatic pressure.
 
-## Next steps
+## More on this topic
 
 - Recap the tables: [transport in plants revision notes](/resources/a-level-biology-9700-transport-in-plants-revision-notes/)
 - Relearn a weak area: [transport in plants study guide](/resources/a-level-biology-9700-transport-in-plants/)

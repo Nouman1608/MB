@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches topic 6, Computer systems, of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It covers specification sections 3.6.1 to 3.6.3.2. All of it is International AS content, listed under Unit 2: Concepts and principles of computer science, a written exam, so it also forms part of the full International A-level.
@@ -237,7 +237,7 @@ The virtual machine executes these; they are not machine code.
 - Describing virtual memory under memory allocation. The specification excludes it; describe how main memory is allocated.
 - Giving only "portable" when asked why bytecode is used. Learn all three reasons and both ways it is used.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/oxfordaqa-a-level-computer-science-computer-systems-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-computer-science-computer-systems-practice/). For how written theory papers reward precise terms, see [exam preparation for this course](/resources/oxfordaqa-a-level-computer-science-exam-preparation/).
 

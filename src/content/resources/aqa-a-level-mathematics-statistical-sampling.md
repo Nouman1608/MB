@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section K: Statistical sampling** (content reference K1) of the
@@ -342,7 +342,7 @@ Informal inference means using a sample statistic, such as a sample mean or prop
 **Do you need to know the large data set for AQA 7357?**
 Yes. The specification requires familiarity with a large data set, which AQA provides on its website, and expects you to analyse a subset or features of it using a calculator.
 
-## Next steps
+## More on this topic
 
 Condense this into recall with the
 [Statistical sampling revision notes](/resources/aqa-a-level-mathematics-statistical-sampling-revision-notes/),

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ The population first falls below 9,000 **after 5 years**. Show both trial values
 - **Is ... correct? Show how you decide**: carry out the calculation, then state yes or no with the comparison.
 - On the non-calculator papers (Paper 2 for Foundation and Paper 5 for Higher), expect friendly multipliers such as 1.1² = 1.21 or 0.9² = 0.81, worked by hand.
 
-## Next steps
+## More on this topic
 
 - Condense the methods with the [discrete growth and decay revision notes](/resources/ocr-gcse-mathematics-j560-discrete-growth-and-decay-revision-notes/).
 - Test yourself with the [discrete growth and decay practice questions](/resources/ocr-gcse-mathematics-j560-discrete-growth-and-decay-practice/).

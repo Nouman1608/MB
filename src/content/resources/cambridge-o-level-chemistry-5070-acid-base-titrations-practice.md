@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -187,7 +187,7 @@ HNO₃ + NaOH → NaNO₃ + H₂O
 - Saying that water in the flask makes the titre too low.
 - Giving burette readings to one decimal place.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [acid–base titrations study guide](/resources/cambridge-o-level-chemistry-5070-acid-base-titrations/).
 - Move on to the [chromatography practice questions](/resources/cambridge-o-level-chemistry-5070-chromatography-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Draw it as a horizontal line above the equilibrium wage, with wage on the vertic
 **How are 10-mark evaluate questions on supply-side policies judged?**
 A real answer is judged on the quality of the argument, not on counting points. Weigh strengths against constraints, say which objective each policy helps most, and reach a supported judgement.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-economics-supply-side-policies-revision-notes/) and re-read the [study guide](/resources/ib-dp-economics-supply-side-policies/).
 - Check the [Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/).

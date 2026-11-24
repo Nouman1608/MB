@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ Show the 3D arrangement with wedge and hashed bonds, and draw the second form as
 **Why is a racemic mixture optically inactive?**
 Answers must refer to equal amounts of the two enantiomers rotating plane-polarised light by equal and opposite angles, so the rotations cancel. Saying the mixture "has no chiral centre" is wrong, because each molecule is chiral.
 
-## Next steps
+## More on this topic
 
 - [Optical isomerism revision notes](/resources/aqa-a-level-chemistry-optical-isomerism-revision-notes/)
 - [Optical isomerism study guide](/resources/aqa-a-level-chemistry-optical-isomerism/)

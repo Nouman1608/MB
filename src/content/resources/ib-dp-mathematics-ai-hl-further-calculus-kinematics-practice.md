@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-ai-hl-
 - Confusing displacement with total distance, or giving a negative speed.
 - Rounding intermediate GDC values and losing 3 s.f. accuracy in the final answer.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-mathematics-ai-hl-further-calculus-kinematics-revision-notes/)
 - Reread the [study guide](/resources/ib-dp-mathematics-ai-hl-further-calculus-kinematics/)

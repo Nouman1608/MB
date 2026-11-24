@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -192,7 +192,7 @@ Watch the command terms. "Distinguish" asks you to make differences clear. "Eval
 - Treating all non-state actors as illegitimate, or all as legitimate. Apply the four areas.
 - Relying on old cases. The guide treats roughly the past two decades as contemporary.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/ib-dp-global-politics-core-legitimacy-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-global-politics-core-legitimacy-practice/). For exam technique, read [exam preparation](/resources/ib-dp-global-politics-exam-preparation/).
 

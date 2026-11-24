@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover OCR GCSE (9-1) Physics A (Gateway Science), J249, Version 
 - Giving a feature of one resource and not comparing it with the other in a compare question.
 - Writing "trend" answers without figures from the data.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity/).
 - Go to the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and tick off topics on the [checklist](/checklists/ocr/gcse/physics/).

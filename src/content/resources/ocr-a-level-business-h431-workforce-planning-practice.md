@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -110,7 +110,7 @@ Judgement: Hallam should use annualised hours for existing carers, perhaps with 
 - Assuming flexible working is good for everyone.
 - Not saying what the plan depends on.
 
-## Next steps
+## More on this topic
 
 - Revisit the [workforce planning study guide](/resources/ocr-a-level-business-h431-workforce-planning/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Give an exact form, such as ln 7, when the question asks for it, and avoid round
 **Why can you not take the logarithm of a negative number?**
 ln x and log_a x are only defined for x > 0, so an equation such as e^x = −3 has no solution. Taking the logarithm of zero or a negative number is a common slip.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [revision notes](/resources/ocr-a-level-mathematics-exponential-and-logarithmic-functions-e-x-a-x-ln-x-and-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-mathematics-exponential-and-logarithmic-functions-e-x-a-x-ln-x-and/) for any topic that cost you marks.

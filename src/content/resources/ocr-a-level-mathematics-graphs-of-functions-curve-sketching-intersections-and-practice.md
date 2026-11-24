@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ Find where the two graphs intersect, then decide which intervals satisfy the ine
 **Is a straight-line graph always a proportional relationship?**
 No. Direct proportion, y = kx, is a straight line through the origin. A linear graph with a non-zero intercept is not a proportional relationship.
 
-## Next steps
+## More on this topic
 
 - Review the method in the [revision notes](/resources/ocr-a-level-mathematics-graphs-of-functions-curve-sketching-intersections-and-revision-notes/).
 - Read the full explanations in the [study guide](/resources/ocr-a-level-mathematics-graphs-of-functions-curve-sketching-intersections-and/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ These questions cover sections 3.1.3.4 to 3.1.3.6 of the OxfordAQA International
 - Giving a factor with no explanation of why it matters.
 - Mixing old prices with new quantities in revenue sums.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and/).
 - Check coverage on the [printable checklist](/checklists/oxfordaqa/igcse/economics/) and visit the [course hub](/boards/oxfordaqa/igcse/economics/).

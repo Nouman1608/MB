@@ -22,7 +22,7 @@ author: "javaid-iqbal-sabri"
 reviewer: "zain-ud-din-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by zain-ud-din-ahmed on 2026-09-29; 2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by zain-ud-din-ahmed on 2026-09-29; 2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -263,7 +263,7 @@ No. Knowledge of specific accounting software or applications is not required, b
 **Are Limited Liability Partnerships examined in Cambridge 9706?**
 No. The syllabus states that questions on Limited Liability Partnerships will not be set.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge International AS & A Level Accounting subject hub](/subjects/accounting/)
 

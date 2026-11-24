@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Use e = 1.60 × 10⁻¹⁹ C, mₑ = 9.11 × 10⁻³¹ kg, mass of hydrogen ion 
 - Describing the STM without tunnelling, or the TEM without a thin sample.
 - Mixing reference frames in muon calculations.
 
-## Next steps
+## More on this topic
 
 - [Turning points revision notes](/resources/aqa-a-level-physics-turning-points-in-physics-revision-notes/)
 - [Turning points study guide](/resources/aqa-a-level-physics-turning-points-in-physics/)

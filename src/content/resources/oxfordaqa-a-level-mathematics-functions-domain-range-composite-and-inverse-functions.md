@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the first part of content area P2.1 (Algebra and functions) in the OxfordAQA *International AS and A-level Mathematics* specification, Version 5.2. The specification places this content in International A-level (A2) Unit P2 (Pure Maths). It is not examined at International AS. The other parts of P2.1 (graph transformations, rational functions, algebraic division and partial fractions) have their own pages and are not repeated here.
@@ -276,7 +276,7 @@ The curve y = |x² + 4x − 5| lies below y = 7 where −6 < x < −2 − √2 a
 * Accepting a modulus-equation solution without testing it.
 * Joining modulus inequality answers wrongly. A "between" answer is one interval, a, b with a < x < b. An "outside" answer needs the word "or": x < a or x > b.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-functions-domain-range-composite-and-inverse-functions-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-functions-domain-range-composite-and-inverse-functions-revision-notes/) as a final check. For earlier pure content, see the [Unit P1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/).
 

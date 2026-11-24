@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ shared pair in an overlap with one dot and one cross.
 11. It does not show the 3D shape of the molecule.
 12. A large number of repeat units joined in the chain.
 
-## Next steps
+## More on this topic
 
 - [Covalent bonding study guide](/resources/aqa-gcse-chemistry-8462-covalent-bonding/)
 - [Covalent bonding practice questions](/resources/aqa-gcse-chemistry-8462-covalent-bonding-practice/)

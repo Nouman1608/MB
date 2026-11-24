@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -129,7 +129,7 @@ Identify whether each statement is a mission statement, an aim, an objective, a 
 - Evaluating with no judgement or no reason for it.
 - Ignoring the data in the case.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business/) for any question you missed.
 - Use the [revision notes](/resources/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business-revision-notes/) for recall.

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ Down a group, ions with the same charge get larger because each has an extra she
 - **Describe** beam behaviour: give direction and relative size of deflection for each particle.
 - **Determine** particle numbers: set out protons, neutrons and electrons separately and show the charge adjustment.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge 9701 Isotopes study guide](/resources/cambridge-a-level-chemistry-9701-as-isotopes/) — the next subtopic, 1.2
 - [Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/) — sub-shells and ionisation energy

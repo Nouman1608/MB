@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ These questions are for OCR GCSE (9-1) Gateway Science Physics A (J249), Version
 - Method answers with no mention of what is kept constant or how readings are repeated.
 - Claiming that V = IR does not apply to non-linear components. It applies at every point.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics/).
 - Visit the course [hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/).

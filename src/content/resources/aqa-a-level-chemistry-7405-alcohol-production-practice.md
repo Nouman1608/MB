@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Maximum **[6]**.
 - Dividing and multiplying the wrong way when applying a yield.
 - One-sided "discuss" answers.
 
-## Next steps
+## More on this topic
 
 - [Alcohol production revision notes](/resources/aqa-a-level-chemistry-7405-alcohol-production-revision-notes/)
 - [Oxidation of alcohols practice questions](/resources/aqa-a-level-chemistry-7405-oxidation-of-alcohols-practice/)

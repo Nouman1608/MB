@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,6 +154,6 @@ The specification lists "applications of buffer solutions". Useful examples:
 - **"Calculate the pH of the buffer"**: write moles of HA and A⁻ on separate lines first; if acid or base has been added, do the reaction before substituting.
 - **"Suggest a use"**: give a specific context, not just "to keep pH constant".
 
-## Next steps
+## More on this topic
 
 Condense this with the [buffer action revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-6-revision-notes/), then try the [buffer action practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-6-practice/). The buffer region of a titration curve is explained in [pH curves, titrations and indicators](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-5/), and Ka itself in [weak acids and Ka](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-4/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -208,7 +208,7 @@ remains wide. Success depends on what is measured and which group is considered.
 - **Discuss** criticisms by naming the perspective and its argument, then responding.
 - **Evaluate** using both absolute and relative measures of success, then judge.
 
-## Next steps
+## More on this topic
 
 Revise with the
 [reducing social inequalities revision notes](/resources/cambridge-igcse-sociology-0495-kq-3-2-revision-notes/)

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -191,7 +191,7 @@ When revenue, purchases or cost of sales is missing, use the gross profit relati
 - Check by comparing net assets with closing capital. If they differ, find the error before moving on.
 - State assumptions when information is missing, for example "Assumed the loan was repaid on the last day of the year".
 
-## Related resources
+## More resources on this topic
 
 [Financial statements of organisations revision notes](/resources/edexcel-ial-accounting-financial-statements-of-organisations-revision-notes/) |
 [Incomplete records practice questions](/resources/edexcel-a-level-accounting-yac11-incomplete-records-practice/) |

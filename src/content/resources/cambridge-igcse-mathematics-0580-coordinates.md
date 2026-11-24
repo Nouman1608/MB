@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ T = (2, -3)
 - On a calculator paper, coordinates may be decimals such as (2.5, –1.5). The same subtraction rules apply.
 - When no diagram is given, a quick sketch with rough axes catches most sign errors before they cost marks.
 
-## Next steps
+## More on this topic
 
 - Recap with the [coordinates revision notes](/resources/cambridge-igcse-mathematics-0580-coordinates-revision-notes/), then try the [coordinates practice questions](/resources/cambridge-igcse-mathematics-0580-coordinates-practice/).
 - See the whole topic in the [Coordinate geometry study guide](/resources/igcse-mathematics-coordinate-geometry/) and the [Coordinate geometry revision notes](/resources/igcse-mathematics-coordinate-geometry-revision-notes/).

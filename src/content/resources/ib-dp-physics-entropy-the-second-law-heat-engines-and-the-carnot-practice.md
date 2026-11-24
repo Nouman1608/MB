@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ Related pages: the [course hub](/boards/ib/ib-dp/physics/) and the [printable ch
 - Saying "it breaks the second law" without a number or a named form.
 - Omitting units on ΔS (J K⁻¹) or on rates of entropy production (MW K⁻¹).
 
-## Next steps
+## More on this topic
 
 - Review the ideas in the [revision notes](/resources/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot-revision-notes/) and the [study guide](/resources/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot/).
 - Go to the [course hub](/boards/ib/ib-dp/physics/) or tick items off the [printable checklist](/checklists/ib/ib-dp/physics/).

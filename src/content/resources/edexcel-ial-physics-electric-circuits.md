@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -258,7 +258,7 @@ Edexcel IAL Physics uses I = nqvA to explain this: the number density of charge 
 **What is the I-V characteristic of a diode?**
 A diode passes almost no current until a threshold forward voltage is reached, then the current rises rapidly. It passes effectively no current in reverse, so its graph is not symmetrical.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 2: Waves and Particle Nature of Light](/resources/edexcel-ial-physics-waves-and-particle-nature-of-light/) — the previous sub-topic
 - [Unit 4: Further Mechanics, Fields and Particles](/resources/edexcel-ial-physics-further-mechanics/) — the first International A2 unit (Unit 3, Practical Skills in Physics I, comes between this unit and Unit 4)

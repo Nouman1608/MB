@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the sources, classifications and problem method chosen here match how centres teach it."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the sources, classifications and problem method chosen here match how centres teach it. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -172,6 +172,6 @@ The answer works because it classifies the contract before choosing the statute,
 
 Short "explain" questions on this row may ask about the sources of contract rules, the objective approach or the consumer/business distinction: give a definition, an authority and an example. In problem questions, the rules here are the skeleton of your answer. Headings such as "Formation", "Terms" and "Remedies" make it easy for the examiner to follow your reasoning.
 
-## Related resources
+## More resources on this topic
 
 [Rules of contract law revision notes](/resources/aqa-a-level-law-7162-the-rules-of-contract-law-revision-notes/) | [Rules of contract law practice questions](/resources/aqa-a-level-law-7162-the-rules-of-contract-law-practice/) | [Theory of contract law study guide](/resources/aqa-a-level-law-7162-theory-of-contract-law/)

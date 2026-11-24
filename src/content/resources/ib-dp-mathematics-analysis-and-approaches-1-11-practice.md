@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ Study the methods first in the [section 1.11 study guide](/resources/ib-dp-mathe
 - The combined validity given as the larger interval instead of the smaller.
 - The integration constant or the modulus signs missing from logarithms.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [section 1.11 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-1-11-revision-notes/).
 - Revise binomial series with the [section 1.10 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-10-practice/).

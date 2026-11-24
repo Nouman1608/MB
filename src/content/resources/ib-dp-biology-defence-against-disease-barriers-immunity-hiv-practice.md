@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Read the [study guide](/resources/ib-dp-biology-defence-against-disease-barriers
 - Failing to round a number of divisions up to a whole number.
 - Concluding that two trends moving together prove one caused the other.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-biology-defence-against-disease-barriers-immunity-hiv-revision-notes/) and the [study guide](/resources/ib-dp-biology-defence-against-disease-barriers-immunity-hiv/).
 - Go to the [IB DP Biology hub](/boards/ib/ib-dp/biology/) and tick off the [printable checklist](/checklists/ib/ib-dp/biology/).

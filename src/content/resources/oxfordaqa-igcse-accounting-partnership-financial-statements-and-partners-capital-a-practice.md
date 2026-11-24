@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,7 +204,7 @@ Mayu: debit entries correct [1]; credit entries correct and both sides 16,900 [1
 - Writing comments that name no figure from the question.
 - Treating a salary as a business expense in the income statement.
 
-## Next steps
+## More on this topic
 
 - Revisit the method in the [revision notes](/resources/oxfordaqa-igcse-accounting-partnership-financial-statements-and-partners-capital-a-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-accounting-partnership-financial-statements-and-partners-capital-a/).
 - Course home: [OxfordAQA IGCSE Accounting](/boards/oxfordaqa/igcse/accounting/) and the printable [checklist](/checklists/oxfordaqa/igcse/accounting/).

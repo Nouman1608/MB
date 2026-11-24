@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -148,7 +148,7 @@ Bargaining power of suppliers: one wholesaler supplies 80% of the stock [1], so 
 - Classifying an external fact as a strength or weakness in a SWOT.
 - Ending an evaluation with a summary, not a judgement.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/cambridge-a-level-business-business-strategy-revision-notes/) and [study guide](/resources/cambridge-a-level-business-business-strategy/).
 - Use the [hub](/boards/cambridge/a-level/business/), [checklist](/checklists/cambridge/a-level/business/) and [free 10-minute diagnostics](/diagnostics/).

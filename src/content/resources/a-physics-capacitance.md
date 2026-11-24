@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -274,7 +274,7 @@ Subtopic 19.3 of Cambridge 9702 covers discharging a capacitor and requires the 
 **Where does the energy stored in a capacitor come from on a graph?**
 The energy stored is the area under a graph of potential difference against charge. Because that graph is a straight line through the origin, the area is a triangle, giving W = ½QV = ½CV².
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields](/resources/a-physics-electric-fields/) — the previous A Level topic
 - [Magnetic Fields](/resources/a-physics-magnetic-fields/) — the next A Level topic

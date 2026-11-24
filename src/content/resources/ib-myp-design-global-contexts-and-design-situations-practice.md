@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -145,7 +145,7 @@ Improvements: rewrite the statement around new students' need with evidence, for
 - Success criteria with no number or no named group of testers.
 - Evaluations that quote an average and hide the users the context was chosen to serve.
 
-## Next steps
+## More on this topic
 
 - [Global contexts revision notes](/resources/ib-myp-design-global-contexts-and-design-situations-revision-notes/)
 - [Global contexts study guide](/resources/ib-myp-design-global-contexts-and-design-situations/)

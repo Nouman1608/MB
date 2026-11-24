@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ cotton, it is on the boundary but producing the wrong mix.
 - **Draw / illustrate:** label axes with the goods and units, label the boundaries and the points.
 - **Assess / Evaluate:** separate the positive evidence from the value judgements and reach a reasoned view.
 
-## Related resources
+## More resources on this topic
 
 - [Economic methodology, scarcity and production possibilities practice questions](/resources/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production-practice/)
 - [AQA AS Level Economics 7135 subject overview](/resources/aqa-as-level-economics-7135-subject-guide/)

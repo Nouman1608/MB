@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ Find the mean and variance of x first; then apply the rules. Transforming Σx² 
 - **Calculate**: write the transformation as y = bx + a before using the rules.
 - Keep units with every answer, and change them when the transformation changes units.
 
-## Next steps
+## More on this topic
 
 Revise the rules with the [revision notes on adding or multiplying by a constant](/resources/cambridge-o-level-statistics-4040-effect-of-adding-or-multiplying-by-a-constant-revision-notes/), then practise with the [practice questions on adding or multiplying by a constant](/resources/cambridge-o-level-statistics-4040-effect-of-adding-or-multiplying-by-a-constant-practice/). Choosing a and b to reach a given mean and standard deviation is section 6.2, in the [linear transformation guide](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -211,7 +211,7 @@ for all three relationships in terms of particles.
 **Is boiling the only way a liquid becomes a gas?** No. Evaporation also turns liquid into gas,
 from the surface and below the boiling point (subtopic 2.2).
 
-## Related resources
+## More resources on this topic
 
 - [Kinetic particle model of matter revision notes](/resources/cambridge-o-level-physics-5054-kinetic-particle-model-of-matter-revision-notes/)
 - [Kinetic particle model of matter practice questions](/resources/cambridge-o-level-physics-5054-kinetic-particle-model-of-matter-practice/)

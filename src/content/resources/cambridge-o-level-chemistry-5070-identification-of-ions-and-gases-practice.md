@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -205,7 +205,7 @@ D: sulfate
 - Mixing up flame colours for lithium (red) and calcium (orange-red).
 - Forgetting that the litmus must be damp.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [identification of ions and gases study guide](/resources/cambridge-o-level-chemistry-5070-identification-of-ions-and-gases/).
 - Go back to the start of this topic with the [experimental design practice questions](/resources/cambridge-o-level-chemistry-5070-experimental-design-practice/).

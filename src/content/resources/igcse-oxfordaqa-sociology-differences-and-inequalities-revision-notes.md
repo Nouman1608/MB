@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 updatedDate: 2026-11-16
 featured: false
-reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. These notes cover **3.2.1 Differences and inequalities** in Paper 2 of
@@ -224,7 +224,7 @@ that make inequality seem fair. 3. Intergenerational compares a person with thei
 intragenerational is movement within one person's working life. 4. Sylvia Walby. 5. It can create
 dependency, or serve the interests of donor countries. 6. Ascribed positions are given at birth; achieved positions are gained through effort or choice. 7. Position is fixed by birth and movement between castes is not allowed. 8. The dominant ideal of manhood, which ranks some men above other men and above women. 9. Private patriarchy is control of women within the household; public patriarchy is disadvantage in paid work and public life. 10. An identity that blends more than one culture, often among young people in diaspora communities. 11. Rewards may reflect power rather than importance, and inherited wealth means positions are not allocated purely on merit. 12. It misses people outside paid work and the very wealthy who live on assets rather than wages.
 
-## Related resources
+## More resources on this topic
 
 - [Differences and Inequalities practice questions](/resources/igcse-oxfordaqa-sociology-differences-and-inequalities-practice/)
 - [Socialisation revision notes](/resources/igcse-oxfordaqa-sociology-socialisation-revision-notes/)

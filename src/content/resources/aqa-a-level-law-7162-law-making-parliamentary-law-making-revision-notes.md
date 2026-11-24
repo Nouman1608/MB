@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -158,6 +158,6 @@ Condensed notes on **Law making: parliamentary law making** in AQA A-level Law (
 
 **Answers:** 1. A Green Paper sets out options for consultation; a White Paper sets out the government's firm proposals. 2. The ballot, the Ten Minute Rule and presentation. 3. Line-by-line scrutiny and amendment, usually by a Public Bill Committee, or for major constitutional Bills a Committee of the whole House. 4. Passing a Bill between the two Houses until they agree on the text. 5. Assent is normally notified to each House rather than given in person. 6. A statutory instrument made by a minister to bring an Act or part of it into force. 7. One year. 8. The Lords do not usually block, at second reading, government Bills carrying out manifesto commitments. 9. Gina Martin's campaign and the Voyeurism (Offences) Act 2019, or Finn's Law. 10. A later Act overrides an inconsistent earlier one, as in *Ellen Street Estates v Minister of Health* (1934). 11. That constitutional statutes cannot be impliedly repealed; only express words will do. 12. The Supreme Court in *Miller* (2017) held it is a political convention the courts cannot enforce, even though it appears in statute.
 
-## Related resources
+## More resources on this topic
 
 [Parliamentary Law Making study guide](/resources/aqa-a-level-law-7162-law-making-parliamentary-law-making/) | [Parliamentary Law Making practice questions](/resources/aqa-a-level-law-7162-law-making-parliamentary-law-making-practice/) | [Delegated Legislation revision notes](/resources/aqa-a-level-law-7162-law-making-delegated-legislation-revision-notes/)

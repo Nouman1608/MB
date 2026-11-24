@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -104,7 +104,7 @@ These questions cover section 3.3.3 The concept of quality of AQA GCSE Business 
 - Ignoring the specification's link between growth, outsourcing, franchising and quality.
 - Ending an evaluation without saying what would make quality more or less likely to be maintained.
 
-## Next steps
+## More on this topic
 
 - Review the TQM worked example in the [Concept of quality study guide](/resources/aqa-gcse-business-8132-the-concept-of-quality/).
 - Try the broader [Business operations practice set](/resources/aqa-gcse-business-business-operations-practice/).

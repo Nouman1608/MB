@@ -19,6 +19,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -203,7 +204,7 @@ Revise first with the [study guide for this unit](/resources/oxfordaqa-igcse-geo
 - Writing about fieldwork in general instead of your own titled enquiry in Section C.
 - Listing problems in an evaluation with no final judgement.
 
-## Next steps
+## More on this topic
 
 - Recheck weak areas in the [study guide](/resources/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills/) and [revision notes](/resources/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills-revision-notes/).
 - Practise reading landforms on maps with the [Living with the Physical Environment guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/), and plan for all three papers with [preparing for the 9230 exams](/resources/oxfordaqa-igcse-geography-exam-preparation/).

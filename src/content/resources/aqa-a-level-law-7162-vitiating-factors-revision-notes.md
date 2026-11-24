@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,7 +173,7 @@ impossibility of restitution. 11. Pressure with the practical effect of compulsi
 choice, which is illegitimate, and which is a significant cause of entering the contract. 12. They
 affirmed the contract by waiting eight months after the pressure ended before protesting.
 
-## Related resources
+## More resources on this topic
 
 [Vitiating factors study guide](/resources/aqa-a-level-law-7162-vitiating-factors/) |
 [Vitiating factors practice questions](/resources/aqa-a-level-law-7162-vitiating-factors-practice/) |

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -156,6 +156,6 @@ Tariff revenue          = tariff per unit x units imported
 9. The EU.
 10. Investment by a business in productive assets (such as a factory or a local firm) in another country.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Globalisation study guide](/resources/edexcel-a-level-business-ybs11-globalisation/), then practise with the [Globalisation practice questions](/resources/edexcel-a-level-business-ybs11-globalisation-practice/).

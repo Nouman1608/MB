@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers Pearson Edexcel International Advanced Level Mathematics (YMA01), aligned to the *International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics* specification (Issue 3, April 2019). It teaches Pure Mathematics 4 (P4) topics 6.2 and 6.3. The specification states that P3 and P4 are compulsory for IAL Mathematics and Pure Mathematics only; they are not part of IAS.
@@ -320,7 +320,7 @@ A repeated factor such as (x − 1)² gives the terms A/(x − 1) + B/(x − 1)�
 **Do you have to change the limits when using substitution?**
 For a definite integral you can either convert the limits to u-values and evaluate in u, or substitute back to x and use the original limits. What you must not do is use x-limits on an expression in u.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and-practice/). Tick off topics on the [checklist](/checklists/edexcel/a-level/mathematics/) and take a [free 10-minute diagnostic](/diagnostics/) when you want to see what is left.
 

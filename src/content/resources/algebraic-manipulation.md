@@ -24,7 +24,7 @@ author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-07-01
 updatedDate: 2026-08-18
 featured: false
@@ -345,7 +345,7 @@ Factor the coefficient out of the x² and x terms only, complete the square insi
 **What does "factorise fully" mean?**
 Keep factorising until no bracket can be broken down further. For example, 2x² + 4x should become 2x(x + 2), not x(2x + 4).
 
-## Related resources
+## More resources on this topic
 
 Once expanding, factorising and completing the square feel automatic, they
 carry straight into 2.5 Equations — solving quadratic equations by

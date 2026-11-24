@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -221,7 +221,7 @@ Unit 1 (Marketing and People) covers how a business identifies and meets custome
 - Name the four production methods and one advantage of just-in-time inventory.
 - Give one economic and one legislative external influence, and explain how each could affect a named business.
 
-## Related resources
+## More resources on this topic
 
 [Managing Business Activities study guide](/resources/a-level-edexcel-business-managing-business-activities/) |
 [Managing Business Activities practice questions](/resources/edexcel-a-level-business-managing-activities-practice/)

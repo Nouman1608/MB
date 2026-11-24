@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Topic 2, Classification, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 2.1 Concept and use of a classification system and 2.2 Features of organisms. The 5090 syllabus is not tiered, so everything here is examinable for every candidate. Subject content like this is assessed on Paper 1 (Multiple Choice, 1 hour) and Paper 2 (Theory, 1 hour 45 minutes); Papers 3 and 4 assess experimental skills.
@@ -232,7 +232,7 @@ A virus has no cytoplasm and none of the structures that a cell uses to make pro
 - Saying amphibians have scales, or that reptile eggs are laid in water.
 - Describing a virus as a bacterium or a prokaryote. A virus has no cell structure at all.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [classification revision notes](/resources/o-level-biology-5090-classification-revision-notes/), then try the [classification practice questions](/resources/o-level-biology-5090-classification-practice/). For the cell structures behind the kingdom features, revisit [cell structure and organisation](/resources/cell-structure-and-organisation/). You can check your overall readiness with our [free diagnostics](/diagnostics/).
 

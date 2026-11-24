@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 6.03a and 6.03b of the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026): solving linear equations and solving quadratic equations. Foundation and Higher tier learners both need the core methods. Statements the specification lists only for Higher tier are labelled "Higher tier only". Use it with the [revision notes](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-revision-notes/) and the [practice questions](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-practice/). Course pages: the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), the [checklist](/checklists/ocr/gcse/mathematics/), the [exam preparation guide](/resources/ocr-gcse-mathematics-exam-preparation/) and the [free 10-minute diagnostics](/diagnostics/).
@@ -356,7 +356,7 @@ The specification states that Paper 2 (Foundation) and Paper 5 (Higher) do not p
 - In the formula, using b instead of −b when b is itself negative, or squaring a negative b with the wrong sign.
 - Leaving a negative length as a final answer.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-practice/), then condense the methods with the [revision notes](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-revision-notes/).
 

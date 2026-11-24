@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ These questions cover **3.2.3 Energy resources**, statements a to d, of the Oxfo
 - Evaluations with no conclusion, or a conclusion with no reason.
 - Forgetting to multiply energy content by mass.
 
-## Next steps
+## More on this topic
 
 Revise from the [Energy resources revision notes](/resources/oxfordaqa-igcse-physics-9203-energy-resources-revision-notes/), then try the [General properties of waves practice questions](/resources/oxfordaqa-igcse-physics-9203-general-properties-of-waves-practice/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "zain-ud-din-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -196,7 +196,7 @@ Computerised systems apply the same double entry: one input posts both sides aut
 - **Explain**: link the concept or book to the transaction.
 - **Evaluate** or **advise** on keeping full records or computerising: give both sides and a justified decision for the business described.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [accounting system revision notes](/resources/cambridge-a-level-accounting-9706-the-accounting-system-revision-notes/) and test yourself with the [accounting system practice questions](/resources/cambridge-a-level-accounting-9706-the-accounting-system-practice/). For who owns the businesses whose records you are keeping, see [types of business entity](/resources/cambridge-a-level-accounting-9706-types-of-business-entity/).
 

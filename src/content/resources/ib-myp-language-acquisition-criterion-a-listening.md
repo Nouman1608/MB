@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -224,7 +224,7 @@ Explicit information is said directly, such as a time, price or place, and quest
 **How can images reinforce, add to or contrast with speech?**
 An image reinforces speech when it shows what is said, adds when it gives information the speech does not, and contrasts when image and speech seem to disagree, often for humour or criticism. In an answer, name the relationship, give the specific image and words, and explain the effect on the audience.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion A revision notes](/resources/ib-myp-language-acquisition-criterion-a-listening-revision-notes/), then test yourself with the [Criterion A practice questions](/resources/ib-myp-language-acquisition-criterion-a-listening-practice/). For how all four criteria compare, read [the four criteria in practice](/resources/ib-myp-language-acquisition-criteria-in-practice/).
 

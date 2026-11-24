@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -140,7 +140,7 @@ These questions cover section 3.1.1 (the economic problem and methodology) of th
 - Giving one-sided answers to questions asking for assessment or evaluation.
 - Leaving out units, or the good in which an opportunity cost is measured.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology/).
 - Course pages: [OxfordAQA economics hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/).

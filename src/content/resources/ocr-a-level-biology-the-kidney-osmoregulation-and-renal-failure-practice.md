@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover learning outcomes 5.1.2(c) to 5.1.2(f) of the OCR A Level 
 - Evaluating only one treatment, or not reaching a judgement.
 - Describing the control line of a pregnancy test as the result.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-biology-the-kidney-osmoregulation-and-renal-failure-revision-notes/) and the [study guide](/resources/ocr-a-level-biology-the-kidney-osmoregulation-and-renal-failure/).
 - Tick off outcomes on the [printable checklist](/checklists/ocr/a-level/biology/) and see the [course hub](/boards/ocr/a-level/biology/).

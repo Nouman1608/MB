@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 6.2.4, Carbon–carbon bond formation, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. You will find it in Module 6, Organic chemistry and analysis. Its four lettered outcomes, 6.2.4(a) to (d), each get an explanation and a worked example here. Because H432 is the full A level, this content carries no AS or A2 label. The specification assigns Module 6 to Synthesis and analytical techniques (02); Unified chemistry (03) draws on all six modules, this one included. This section has no PAG link.
@@ -237,7 +237,7 @@ To make 5.00 g of the acid (Mᵣ 132.0): 5.00 ÷ 132.0 = 0.03788 mol, so 0.03788
 - Writing Friedel–Crafts equations without the HCl product, or forgetting to regenerate the AlCl₃.
 - Calling the acylation product an aldehyde. It is a ketone.
 
-## Next steps
+## More on this topic
 
 - Condense this page: [Carbon–carbon bond formation revision notes](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation-revision-notes/)
 - Test yourself: [Carbon–carbon bond formation practice questions](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation-practice/)

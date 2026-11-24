@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -195,7 +195,7 @@ Discuss how far sociologists would agree that schools operate on meritocratic pr
 - In "discuss how far" questions, listing one side, or giving both sides with no final judgement.
 - Treating Willis as a functionalist or as supporting the idea of docile workers.
 
-## Next steps
+## More on this topic
 
 - Check any weak areas against the [Education study guide](/resources/aqa-gcse-sociology-8192-education/).
 - Find your gaps across the whole course with our free [diagnostics](/diagnostics/).

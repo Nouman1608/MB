@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 5.2.3, Redox and electrode potentials, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, covering outcomes 5.2.3(a) to (k). It sits in Module 5, which the specification assigns to Component 01 (Periodic table, elements and physical chemistry) and Component 03 (Unified chemistry). PAG8, electrochemical cells, is linked to 5.2.3(g).
@@ -277,7 +277,7 @@ In an acidic hydrogen fuel cell:
 - Forgetting the ×10 for a 25.0 cm³ portion taken from 250.0 cm³.
 - Doubling an E⦵ value when a half-equation is doubled.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials-revision-notes/), then try the [practice questions](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials-practice/). Titration technique also appears in [Acids (2.1.4)](/resources/ocr-a-level-chemistry-acids/).
 

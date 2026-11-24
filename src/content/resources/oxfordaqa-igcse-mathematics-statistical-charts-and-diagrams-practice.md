@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ If you get stuck, go to the [study guide](/resources/oxfordaqa-igcse-mathematics
 - Comparing box plots with no figures, or using only the median.
 - Quoting curve readings as exact. Say "about".
 
-## Next steps
+## More on this topic
 
 - Recap formulas and methods in the [revision notes](/resources/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams-revision-notes/).
 - Return to the [study guide](/resources/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams/) for any chart you found hard.

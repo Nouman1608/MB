@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ Judgement: the priority should depend on the current situation [1]: if inflation
 - Saying which targets were met without quoting the figures.
 - Giving a "discuss" answer that never states what the priority depends on.
 
-## Next steps
+## More on this topic
 
 - Recap the formulae in the [macroeconomic aims revision notes](/resources/cambridge-igcse-economics-0455-the-macroeconomic-aims-of-government-revision-notes/).
 - Reread the performance table example in the [macroeconomic aims study guide](/resources/cambridge-igcse-economics-0455-the-macroeconomic-aims-of-government/).

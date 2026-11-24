@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ Justify which option Granary Lane Bakery should choose. **[6]**
 - Ignoring the size and budget of the business when choosing a method.
 - Writing about social media in general without discussing the reliability of the data it gives.
 
-## Next steps
+## More on this topic
 
 - Re-read the [market research study guide](/resources/edexcel-igcse-business-4bs1-market-research/) for question design and reliability.
 - Recheck the methods table in the [market research revision notes](/resources/edexcel-igcse-business-4bs1-market-research-revision-notes/).

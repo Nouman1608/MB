@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ A glass thermometer at room temperature, 20 °C, is placed in 5.0 g of water at 
 - **Calculate** or **determine** (final temperature): write energy lost = energy gained, bracket each temperature difference so both sides are positive, solve and check the answer lies between the starting values.
 - **Suggest** (why a measured final temperature differs): energy exchanged with the surroundings or the container, or energy absorbed by the thermometer.
 
-## Related resources
+## More resources on this topic
 
 - [Temperature study guide](/resources/a-physics-temperature/) — the whole of Topic 14
 - [Thermal equilibrium revision notes](/resources/cambridge-a-level-physics-9702-a-thermal-equilibrium-revision-notes/)

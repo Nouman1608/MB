@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -215,7 +215,7 @@ For grouped discrete data such as 1–5, 6–10, the midpoint of 1–5 is (1 + 5
 - **"Calculate an estimate of the mean"** (Extended): add a midpoint column and an f × x column; a table earns method marks even if the final division slips.
 - On the calculator papers give non-exact means to 3 significant figures. On the non-calculator papers the totals are chosen to divide neatly.
 
-## Next steps
+## More on this topic
 
 - Quick recall: [averages and range revision notes](/resources/cambridge-igcse-mathematics-0580-averages-and-range-revision-notes/).
 - Marked questions: [averages and range practice questions](/resources/cambridge-igcse-mathematics-0580-averages-and-range-practice/).

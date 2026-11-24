@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -136,7 +136,7 @@ These questions cover section **3.3.6.1 Identification of functional groups by t
 - Using hydrochloric acid in the halide test.
 - Assuming dichromate on its own identifies an aldehyde.
 
-## Next steps
+## More on this topic
 
 - [Functional group tests revision notes](/resources/aqa-a-level-chemistry-7405-functional-group-test-tube-reactions-revision-notes/)
 - [Mass spectrometry practice questions](/resources/aqa-a-level-chemistry-7405-mass-spectrometry-practice/)

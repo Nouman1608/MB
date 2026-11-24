@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ drum speed = 4.0 × 60 = 240 revolutions per minute
 - **Describe** (effect of damping on a resonance curve): lower peak, broader peak, peak shifted slightly to lower frequency, smaller amplitude at all frequencies.
 - **Suggest** (why critical damping is chosen): fastest return to equilibrium without overshoot or continued oscillation.
 
-## Related resources
+## More resources on this topic
 
 - [Oscillations study guide](/resources/a-physics-oscillations/) — the whole of Topic 17
 - [Damped and forced oscillations revision notes](/resources/cambridge-a-level-physics-9702-a-damped-and-forced-oscillations-resonance-revision-notes/)

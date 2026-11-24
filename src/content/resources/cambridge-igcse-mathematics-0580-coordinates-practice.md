@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -208,7 +208,7 @@ Area of ABC = 36 – (6 + 6 + 9) = **15 square units** [1]
 - Giving one answer when the position of a point allows two.
 - Writing coordinates in the wrong order or without brackets.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [coordinates study guide](/resources/cambridge-igcse-mathematics-0580-coordinates/).
 - Recap with the [coordinates revision notes](/resources/cambridge-igcse-mathematics-0580-coordinates-revision-notes/).

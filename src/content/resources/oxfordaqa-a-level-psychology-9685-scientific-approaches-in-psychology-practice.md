@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -158,7 +158,7 @@ Make direct points of similarity and difference with linking words, rather than 
 **What are common mistakes in scientific approaches questions?**
 Students often call the sound the unconditioned stimulus in classical conditioning, treat negative reinforcement as punishment, and treat twin or brain scan evidence as proof of cause.
 
-## Next steps
+## More on this topic
 
 - Check gaps with the [approaches revision notes](/resources/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology-revision-notes/) and the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
 - Practise earlier units with the [Unit 2 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/), since Unit 4 is synoptic.

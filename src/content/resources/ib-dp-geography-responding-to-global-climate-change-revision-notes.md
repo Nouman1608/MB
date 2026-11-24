@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -177,7 +177,7 @@ firms trade allowances within it. 8. The cuts may not be real, permanent or addi
 direct air capture; stratospheric aerosol injection. 10. A court order requiring the Dutch state to cut
 emissions by at least 25 per cent from 1990 levels by the end of 2020. 11. Restoring mangroves.
 
-## Related resources
+## More resources on this topic
 
 - [Global Climate study guide](/resources/ib-dp-geography-global-climate/)
 - [Global Climate practice questions](/resources/ib-dp-geography-global-climate-practice/)

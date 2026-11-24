@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ D: A rise in consumers' incomes
 - Forgetting the time period when defining supply or labelling the quantity axis.
 - Explaining a shift without naming the cost change behind it.
 
-## Next steps
+## More on this topic
 
 - Re-read the [supply study guide](/resources/cambridge-o-level-economics-2281-supply/).
 - Revise from the [supply revision notes](/resources/cambridge-o-level-economics-2281-supply-revision-notes/).

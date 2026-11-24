@@ -45,7 +45,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches the probability and distributions unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 4.5–4.9 and 4.11–4.12 (SL and HL) and 4.13–4.14 (HL only). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -338,7 +338,7 @@ Paper 1 allows no technology, at SL and HL. Venn and tree problems, discrete dis
 - In a pdf question, integrating outside the interval where f is non-zero, or forgetting that each piece of a piecewise f needs its own integral.
 - Writing Var(aX + b) = aVar(X) + b.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/ib-dp-mathematics-aa-probability-distributions-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-aa-probability-distributions-practice/). The integration skills for 4.14 are taught in the [AA calculus study guide](/resources/ib-dp-mathematics-aa-calculus/). The [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/) helps you plan the final weeks.
 

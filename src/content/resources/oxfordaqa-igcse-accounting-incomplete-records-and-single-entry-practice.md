@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -117,7 +117,7 @@ These questions are aligned to the OxfordAQA International GCSE Accounting (9215
 - Giving a comment on systems with no link to the business in the question.
 - Saying double entry means there are no errors.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -163,7 +163,7 @@ location is not decisive. 8. Low water levels forced limits on the number of shi
 9. It doubles. 10. Transport links change how accessible places really are. 11. Trade can be diverted
 away from them.
 
-## Related resources
+## More resources on this topic
 
 - [Power, places and networks study guide](/resources/ib-dp-geography-power-places-networks-study-guide/)
 - [Global networks and flows revision notes](/resources/ib-dp-geography-global-networks-and-flows-revision-notes/)

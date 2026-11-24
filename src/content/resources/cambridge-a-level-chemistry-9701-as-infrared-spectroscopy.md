@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ decide between overlapping ranges.
 - **Deduce** a structure: combine IR evidence with the molecular formula and any chemical tests.
 - **Suggest** what a spectrum would show: list the absorptions present and absent.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and self-test: [Infrared spectroscopy revision notes](/resources/cambridge-a-level-chemistry-9701-as-infrared-spectroscopy-revision-notes/)
 - Exam-style questions with full answers: [Infrared spectroscopy practice questions](/resources/cambridge-a-level-chemistry-9701-as-infrared-spectroscopy-practice/)

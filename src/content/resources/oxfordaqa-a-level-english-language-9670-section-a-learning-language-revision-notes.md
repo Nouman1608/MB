@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification names no theories or theorists for Learning language; please confirm the selection here (Kroll, Gentry, Selinker, Krashen, Cummins, Cheshire and Kerswill) suits the unit."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification names no theories or theorists for Learning language; please confirm the selection here (Kroll, Gentry, Selinker, Krashen, Cummins, Cheshire and Kerswill) suits the unit. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -188,7 +188,7 @@ proficiency, which takes longer. 9. A phase in which a new learner listens and u
 and adolescent social categories. 12. Because deliberate non-standard spellings depend on knowing the standard
 forms, so texting can involve literacy skills rather than replace them.
 
-## Next steps
+## More on this topic
 
 Try the [Learning Language practice questions](/resources/oxfordaqa-a-level-english-language-9670-section-a-learning-language-practice/),
 then review the whole unit with the [Unit 3 revision notes](/resources/a-level-oxfordaqa-english-language-unit-3-revision-notes/).

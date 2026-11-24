@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Sub-topic **C6.1 Improving processes and products** opens Topic C6 Global challenges in OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026. This guide teaches every learning outcome from C6.1a to C6.1s, the mathematical learning outcomes CM6.1i to CM6.1iv, and the practical suggestions linked to PAG C1, PAG C2 and PAG C6. Outcomes C6.1c, C6.1d, C6.1e and C6.1f are **Higher Tier only**; the other statements can appear on either tier. The assessment overview places Topic C6 on Paper 2 (Foundation) and Paper 4 (Higher), and both papers include synoptic assessment.
@@ -310,7 +310,7 @@ To compare quantitatively, divide strength by density: composite 375, aluminium 
 - Not saying the sacrificial metal is **more reactive**.
 - Missing an LCA stage, often transport or disposal.
 
-## Next steps
+## More on this topic
 
 For a condensed version, open the [C6.1 revision notes](/resources/ocr-gcse-chemistry-improving-processes-and-products-revision-notes/); for exam-style questions, open the [C6.1 practice set](/resources/ocr-gcse-chemistry-improving-processes-and-products-practice/). Background: formulae and equations ([C3.1 guide](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/)), relative formula mass ([C2.1 guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/)) and bulk properties ([C2.3 guide](/resources/ocr-gcse-chemistry-properties-of-materials/)).
 

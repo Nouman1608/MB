@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -205,7 +205,7 @@ Deforestation also reduces biodiversity because the habitat of many species is d
 
 **Answers:** (1) Sulfur dioxide. (2) It combines with haemoglobin, so less oxygen is carried. (3) Methane and nitrous oxide (carbon dioxide from deforestation is also accepted). (4) The algal bloom blocks light, so they cannot photosynthesise. (5) Leaching of minerals and soil erosion.
 
-## Next steps
+## More on this topic
 
 Practise with the [practice questions for this sub-topic](/resources/edexcel-igcse-biology-4bi1-human-influences-on-the-environment-practice/). Revise with the [ecology and the environment revision notes](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment-revision-notes/). Tick off points on the [printable checklist](/checklists/edexcel/igcse/biology/).
 

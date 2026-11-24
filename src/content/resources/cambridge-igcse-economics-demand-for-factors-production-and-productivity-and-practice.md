@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ This set tests sections 3.6 and 3.8 of the Cambridge IGCSE Economics 0455 syllab
 - Mixing up the effect of competition on profit.
 - Using real-world claims that the question does not support, instead of the data given.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and/).
 - Tick off what you know on the [printable checklist](/checklists/cambridge/igcse/economics/) and see the [course hub](/boards/cambridge/igcse/economics/).

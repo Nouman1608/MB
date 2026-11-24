@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ Break a problem into smaller problems of the same kind, solve those (usually by 
 9. Split a problem into smaller problems of the same kind, solve those, and combine the answers.
 10. Bubble sort needs about n²/2 steps, while merge sort needs about n log₂ n; for a million items that is about 500 billion against about 20 million.
 
-## Related resources
+## More resources on this topic
 
 - [Sorting algorithms study guide](/resources/aqa-a-level-computer-science-7517-sorting-algorithms/)
 - [Sorting algorithms practice questions](/resources/aqa-a-level-computer-science-7517-sorting-algorithms-practice/)

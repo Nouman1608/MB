@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ For the +20 nC charge at r = 0.30 m, E = 179.8 / 0.30² = 2.0 × 10³ V m⁻¹. 
 - **Sketch** E and V graphs on the same r axis: label which is which, start both outside the charge, and make E fall faster.
 - **Calculate** from a graph: show the tangent or the counted area, with units of one square.
 
-## Related resources
+## More resources on this topic
 
 - [Electric potential revision notes](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa-revision-notes/)
 - [Electric potential practice questions](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -153,7 +153,7 @@ The total energy is proportional to the square of the amplitude, E = ½mω²A².
 **How do you describe resonance for full marks?**
 Say that resonance happens when the driving frequency equals the natural frequency of the oscillator, giving maximum amplitude. Writing only "the frequencies match" without naming driving and natural loses the mark.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-a-level-physics-simple-harmonic-motion-energy-damping-and-resonance-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-simple-harmonic-motion-energy-damping-and-resonance/).
 - Return to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick off the [checklist](/checklists/ocr/a-level/physics/).

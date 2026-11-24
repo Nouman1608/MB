@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -183,7 +183,7 @@ concepts for each view and asks for strengths and limitations of all three.
 12. Any one: girls outperform boys in many countries; ignores class and ethnic differences; underplays
     progress.
 
-## Related resources
+## More resources on this topic
 
 - [Study guide for key question 5.2](/resources/cambridge-o-level-sociology-2251-kq-5-2/)
 - [Practice questions for key question 5.2](/resources/cambridge-o-level-sociology-2251-kq-5-2-practice/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -163,7 +163,7 @@ Combining half equations: make the number of electrons equal. For aluminium oxid
 11. 2Br⁻ + Pb²⁺ → Br₂ + Pb (electrons cancel).
 12. Hydroxide ions lose electrons (oxidation) at the anode, producing oxygen and water.
 
-## Next steps
+## More on this topic
 
 - [Electrolysis study guide](/resources/aqa-gcse-chemistry-8462-electrolysis/)
 - [Electrolysis practice questions](/resources/aqa-gcse-chemistry-8462-electrolysis-practice/)

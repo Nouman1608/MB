@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ These questions cover sections 3.1 (Marketing and the market) and 3.2 (Market re
 - Describing a research method without saying whether it is primary or secondary.
 - Giving a "justify" answer that supports one side only and does not reach a decision.
 
-## Next steps
+## More on this topic
 
 - Condense the content with the [revision notes](/resources/igcse-business-0264-marketing-and-the-market-and-market-research-revision-notes/).
 - Go to the [Cambridge IGCSE Business hub](/boards/cambridge/igcse/business/) and tick topics off the [printable checklist](/checklists/cambridge/igcse/business/).

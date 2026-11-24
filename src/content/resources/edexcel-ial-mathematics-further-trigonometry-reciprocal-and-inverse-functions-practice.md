@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -206,7 +206,7 @@ No. Dividing by a trig function that can be zero loses the solutions where it is
 **How are marks usually lost on R-formula questions in Edexcel IAL P3?**
 Common slips are matching R cos α and R sin α to the wrong coefficients, so α comes out as 90° minus the correct value, and rounding α too early so the final angle shifts. Write the two matching equations before dividing to find tan α.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-revision-notes/) for any question you missed.
 - Reread the [study guide](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions/) for the matching worked examples.

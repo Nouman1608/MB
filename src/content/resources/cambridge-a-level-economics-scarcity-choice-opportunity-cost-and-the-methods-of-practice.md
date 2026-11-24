@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ These questions cover sections 1.1 and 1.2 of the Cambridge International AS & A
 - Defining the short run as a fixed number of months or years.
 - Giving two lists in an evaluation answer and no supported judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of/).
 - Return to the [course hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/).

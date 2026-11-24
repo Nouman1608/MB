@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ Read the [study guide](/resources/ib-dp-biology-membranes-and-membrane-transport
 - Treating cholesterol as only a stiffener (HL only).
 - Giving the sodium-potassium ratio as 2 out, 3 in (HL only).
 
-## Next steps
+## More on this topic
 - [Revision notes for this unit](/resources/ib-dp-biology-membranes-and-membrane-transport-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-biology-membranes-and-membrane-transport/)
 - [IB DP Biology hub](/boards/ib/ib-dp/biology/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is written for OCR GCSE (9-1) Mathematics (J560), using the specification Version 2.1 (August 2026). It covers section 7.04, Interpreting graphs: 7.04a real-world graphs, 7.04b gradients and 7.04c areas. Anything the specification lists for the Higher tier only is marked "Higher tier only"; the rest is for both tiers.
 
@@ -345,7 +345,7 @@ Here the curve is concave, so the trapezia fall short of it and the estimate is 
 - Using only the top value of a velocity-time graph as the height of a trapezium. Use parallel sides, with the time axis as the base.
 - Giving areas or gradients without units.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and-revision-notes/), then test yourself on the [practice questions](/resources/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and-practice/). The [free 10-minute diagnostics](/diagnostics/) show which topics need work, and the [checklist](/checklists/ocr/gcse/mathematics/) lets you tick off what you can do.
 

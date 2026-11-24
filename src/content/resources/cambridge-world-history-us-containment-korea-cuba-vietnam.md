@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Key question 2.5 asks how effectively the United States contained
@@ -216,7 +216,7 @@ an acceptable cost; after the Tet Offensive public opinion turned
 against it, and Nixon withdrew troops through Vietnamisation and the
 1973 Paris Peace Accords.
 
-## Related resources
+## More resources on this topic
 
 - [Containment revision notes](/resources/cambridge-world-history-us-containment-revision-notes/)
 - [Containment practice questions](/resources/cambridge-world-history-us-containment-practice/)

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ See also the [IGCSE Biology hub](/boards/cambridge/igcse/biology/) and the [0610
 - Leaving units off a rate of population growth.
 - Describing the stationary phase without saying births equal deaths or naming a limiting factor.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Organisms and their environment revision notes](/resources/igcse-biology-0610-organisms-and-their-environment-revision-notes/).
 - Reread weak sections in the [study guide](/resources/igcse-biology-0610-organisms-and-their-environment/).

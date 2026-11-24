@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -165,7 +165,7 @@ Many businesses use a mixture. A new shop assistant might have induction on day 
 
 For **state** questions, name the type of training. For **explain** questions, give a benefit with a reason: "off-the-job training teaches staff to use new software, so the business can adopt new technology faster". For **calculate** questions, show fees, lost output and totals. For **analyse** questions, trace the effect from training to productivity, quality or retention, then to profit. For **evaluate** questions, compare the methods against the business's size, budget and the skill being taught, and give a reasoned recommendation.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-training-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-training-practice/)

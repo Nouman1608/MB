@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -131,7 +131,7 @@ This is one of the most widely documented migration streams in the world. Use it
 
 **Answers:** 1. Entry decided by scoring factors like skills, language and age. 2. Quotas and border controls. 3. Irregular crossings, cost, human rights, differing views. 4. Causes, character, scale, pattern or impacts. 5. To fill labour shortages or offset an ageing population. 6. Settling migrants into society and the economy. 7. A 1942 to 1964 scheme recruiting Mexican farm workers to the USA, which built later migration networks. 8. Migrants shift to remote, dangerous routes such as deserts. 9. Organising and protecting overseas workers, bonding trained staff, or diaspora investment incentives. 10. Granting legal status to irregular residents; critics say it rewards irregular entry. 11. Fewer US jobs after the recession, tighter enforcement, and lower fertility in Mexico.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

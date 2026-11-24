@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ every point.
 - (Higher tier only) Reporting a greenhouse loss as a gain, or comparing yield instead of money.
 - Forgetting the heat shield, or not linking it to keeping temperature constant, in required practical 6.
 
-## Next steps
+## More on this topic
 
 - [Bioenergetics revision notes](/resources/aqa-gcse-biology-8461-bioenergetics-revision-notes/)
 - [Bioenergetics study guide](/resources/aqa-gcse-biology-8461-bioenergetics/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ D: in the direction of the planet's motion **[1]**
 - Drawing radial lines outwards, or near-surface lines unevenly spaced (Question 10).
 - Using the diameter instead of the radius in the volume of a sphere (Question 9).
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [gravitational field strength study guide](/resources/oxfordaqa-a-level-physics-9630-gravitational-field-strength-oxfordaqa/).
 - Continue with the [gravitational potential practice questions](/resources/oxfordaqa-a-level-physics-9630-gravitational-potential-oxfordaqa-practice/).

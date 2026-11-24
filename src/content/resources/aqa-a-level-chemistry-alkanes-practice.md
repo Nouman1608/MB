@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -250,7 +250,7 @@ Include UV light as the condition for initiation, and make sure each propagation
 **What units are needed when using pV = nRT in alkanes questions?**
 Pressure must be converted from kPa to Pa before substituting into pV = nRT. Leaving pressure in kPa is one of the most common ways to lose marks.
 
-## Next steps
+## More on this topic
 
 - [Alkanes revision notes](/resources/aqa-a-level-chemistry-alkanes-revision-notes/)
 - [Alkanes study guide](/resources/aqa-a-level-chemistry-alkanes/)

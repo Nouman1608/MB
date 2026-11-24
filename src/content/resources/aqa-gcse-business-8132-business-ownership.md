@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ For "evaluate which structure would be most appropriate":
 - Saying shareholders automatically keep control after selling new shares.
 - Ignoring the four issues and comparing structures on vague ideas such as "it is better".
 
-## Next steps
+## More on this topic
 
 Fix the key terms with the [business ownership revision notes](/resources/aqa-gcse-business-8132-business-ownership-revision-notes/), then try the [business ownership practice questions](/resources/aqa-gcse-business-8132-business-ownership-practice/). Next in the specification is [setting business aims and objectives](/resources/aqa-gcse-business-8132-setting-business-aims-and-objectives/).
 

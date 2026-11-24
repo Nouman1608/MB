@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ Judgement: a modest price rise, explained by the sustainable materials, is likel
 * Recommending a strategy that worsens another weak ratio without noticing.
 * Ignoring case details, such as the unsigned contract, when judging a strategy.
 
-## Next steps
+## More on this topic
 
 * Review the [3.5 study guide](/resources/ib-dp-business-3-5/).
 * Re-read the [3.5 revision notes](/resources/ib-dp-business-3-5-revision-notes/).

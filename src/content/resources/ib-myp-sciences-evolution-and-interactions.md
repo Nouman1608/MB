@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -264,7 +264,7 @@ When prey numbers rise there is more food, so predator numbers rise after a lag.
 **Are evolution and interactions between organisms in the IB MYP Sciences syllabus?**
 The IB MYP Sciences subject brief (from 2014) lists evolution and interactions between organisms among the topics explored in the on-screen examinations. Schools design their own units, so the depth may vary.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/ib-myp-sciences-evolution-and-interactions-revision-notes/), then test yourself with the [practice questions](/resources/ib-myp-sciences-evolution-and-interactions-practice/). For how the criteria are applied to real work, see [criteria in practice](/resources/ib-myp-sciences-criteria-in-practice/) and the [MYP Sciences subject guide](/resources/ib-myp-sciences-subject-guide/). Related units: [cells and organisms](/resources/ib-myp-sciences-cells-and-organisms/) and [cycles](/resources/ib-myp-sciences-cycles/).
 

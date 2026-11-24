@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ Evaluation: her local monopoly is real but weak, because the barriers to switchi
 - Recommending price cuts in an oligopoly without considering retaliation.
 - Defining the market too narrowly when judging a firm's power.
 
-## Next steps
+## More on this topic
 
 - Revisit the [market size and growth study guide](/resources/ocr-a-level-business-h431-the-market-market-size-and-growth/) for any gaps.
 - Review the wider topic in the [external influences study guide](/resources/ocr-a-level-business-external-influences/).

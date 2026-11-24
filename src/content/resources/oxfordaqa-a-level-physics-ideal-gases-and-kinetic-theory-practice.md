@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-ideal-gases-and-kine
 - Saying "faster molecules" to explain a change at constant temperature.
 - Saying that the molecules themselves can be seen in Brownian motion.
 
-## Next steps
+## More on this topic
 
 - Recheck the [revision notes](/resources/oxfordaqa-a-level-physics-ideal-gases-and-kinetic-theory-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-ideal-gases-and-kinetic-theory/).
 - Visit the [course page](/boards/oxfordaqa/a-level/physics/) and the [checklist](/checklists/oxfordaqa/a-level/physics/).

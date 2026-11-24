@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -160,7 +160,7 @@ State which quantities are varied and measured and which are kept constant, for 
 **How should you use Lenz's law in a written answer?**
 Name the change being opposed, such as the approach of a magnet's north pole, and say the induced current opposes that change. Saying the induced current "stops" the change is marked wrong.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-physics-electromagnetic-induction-generators-and-transformers-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-physics-electromagnetic-induction-generators-and-transformers/) for any question that cost you marks.

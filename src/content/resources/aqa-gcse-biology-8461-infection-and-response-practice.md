@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ every point.
 - Omitting the purpose of a placebo, or muddling preclinical testing (cells, tissues, animals) with clinical trials (volunteers and patients).
 - (Higher tier only) Leaving the hybridoma cell or single-cell cloning out of monoclonal antibody production.
 
-## Next steps
+## More on this topic
 
 - [Infection and response revision notes](/resources/aqa-gcse-biology-8461-infection-and-response-revision-notes/)
 - [Infection and response study guide](/resources/aqa-gcse-biology-infection-and-response/)

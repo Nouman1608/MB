@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ These questions cover the OxfordAQA International AS and A-level Physics (9630) 
 - Describing a couple as a force; its resultant force is zero.
 - Dropping units or writing N m for a force.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-physics-vectors-equilibrium-of-forces-and-moments-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-vectors-equilibrium-of-forces-and-moments/).
 - Visit the [Physics hub](/boards/oxfordaqa/a-level/physics/) and tick off the [checklist](/checklists/oxfordaqa/a-level/physics/).

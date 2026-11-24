@@ -34,7 +34,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -144,7 +144,7 @@ Specify the general features (aim, hypothesis, sample, procedure, ethics, validi
 - Suggesting a measure without explaining why it suits the person in the scenario.
 - Evaluating with generic points ("it lacks ecological validity") that could apply to any study.
 
-## Next steps
+## More on this topic
 
 Go back over weak areas in the [Health Psychology study guide](/resources/a-level-psychology-health-psychology/), and practise planning questions with the [Paper 2 Research Methods practice questions](/resources/a-level-psychology-research-methods-practice/).
 

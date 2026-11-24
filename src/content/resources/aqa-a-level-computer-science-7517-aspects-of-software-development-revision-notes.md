@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification does not itemise the evaluation criteria (4.13.1.5); the criteria listed (meets requirements, usability, robustness, efficiency, maintainability) are the commonly taught set. Check against current exam mark schemes."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification does not itemise the evaluation criteria (4.13.1.5); the criteria listed (meets requirements, usability, robustness, efficiency, maintainability) are the commonly taught set. Check against current exam mark schemes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -148,7 +148,7 @@ Use evidence (test results, user feedback), note limitations, and suggest improv
 11. For example: copes with changing requirements; users see working parts early.
 12. Otherwise there is nothing to compare the actual result with, so an error cannot be recognised.
 
-## Related resources
+## More resources on this topic
 
 - [Aspects of software development study guide](/resources/aqa-a-level-computer-science-7517-aspects-of-software-development/)
 - [Aspects of software development practice questions](/resources/aqa-a-level-computer-science-7517-aspects-of-software-development-practice/)

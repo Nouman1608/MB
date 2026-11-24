@@ -26,7 +26,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -156,7 +156,7 @@ These questions follow sections 3.2.9 and 3.2.10 of the OxfordAQA International 
 - Treating the gradient of a force-extension graph as E rather than k.
 - Measuring the height of a spring-launched object from the wrong position.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus/).
 - Tick off topics on the [checklist](/checklists/oxfordaqa/a-level/physics/) and visit the [course hub](/boards/oxfordaqa/a-level/physics/).

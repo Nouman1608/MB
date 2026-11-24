@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ echo fraction = 0.0147 × 0.159 = 2.3 × 10⁻³
 - **Calculate**: Z first if needed, then the reflection coefficient, then attenuation with the full path length.
 - **Describe** (how pulse reflections give diagnostic information): time delay gives depth; echo intensity gives the nature of the boundary.
 
-## Related resources
+## More resources on this topic
 
 - [Medical Physics study guide](/resources/a-physics-medical-physics/) — the whole of Topic 24
 - [Ultrasound revision notes](/resources/cambridge-a-level-physics-9702-a-production-and-use-of-ultrasound-revision-notes/)

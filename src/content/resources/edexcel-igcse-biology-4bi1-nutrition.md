@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sub-topic 2(e) Nutrition of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3 (September 2024): statements 2.18 to 2.33B. The qualification is untiered. Only 2.33B (the food energy practical) is in bold with a B reference, so it is **Paper 2 only**. Everything else can be examined on Paper 1 (2 hours, 110 marks) or Paper 2 (1 hour 15 minutes, 70 marks). A calculator may be used in both.
@@ -373,7 +373,7 @@ The result is too low: heat escapes to the air and glass, and burning may be inc
 - Calling bile an enzyme, or saying it digests fat.
 - Saying amylase makes glucose; amylase makes maltose and maltase makes glucose.
 
-## Next steps
+## More on this topic
 
 Use the [nutrition revision notes](/resources/edexcel-igcse-biology-4bi1-nutrition-revision-notes/), then the [nutrition practice questions](/resources/edexcel-igcse-biology-4bi1-nutrition-practice/). For enzyme action, see the [cell structure revision notes](/resources/edexcel-igcse-biology-cell-structure-revision-notes/) and [cell structure practice](/resources/edexcel-igcse-biology-cell-structure-practice/).
 

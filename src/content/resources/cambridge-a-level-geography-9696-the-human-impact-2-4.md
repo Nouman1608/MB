@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ In the exam, replace "my case study city" with the name of your city and add loc
 - **Explain**: link each human activity to a change in the energy budget or water budget.
 - **Evaluate** or **assess**: weigh strength of evidence, compare human and natural causes, or judge which urban effect is largest and most certain.
 
-## Related resources
+## More resources on this topic
 
 - [2.4 The human impact revision notes](/resources/a-level-geography-9696-atmosphere-human-impact-revision-notes/)
 - [2.4 The human impact practice questions](/resources/cambridge-a-level-geography-9696-the-human-impact-2-4-practice/)

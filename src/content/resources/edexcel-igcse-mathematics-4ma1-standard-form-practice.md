@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ Related: [section 1.9 study guide](/resources/edexcel-igcse-mathematics-4ma1-sta
 - Forgetting to convert kg to g in question 9.
 - Leaving 10 × 10ᵏ in question 12(b), where a = 10 is not allowed.
 
-## Next steps
+## More on this topic
 
 - Recap the rules in the [section 1.9 revision notes](/resources/edexcel-igcse-mathematics-4ma1-standard-form-revision-notes/).
 - For standard form mixed with bounds, try the [degree of accuracy and standard form practice questions](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-practice/).

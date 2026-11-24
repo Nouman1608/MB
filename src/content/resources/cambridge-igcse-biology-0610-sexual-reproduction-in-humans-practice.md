@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -195,7 +195,7 @@ D: vagina
 - (Extended) Describing a change in the data without saying which way substances diffuse.
 - (Extended) Saying the bloods of mother and fetus mix.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide for human reproduction](/resources/cambridge-igcse-biology-0610-sexual-reproduction-in-humans/).
 - Go on to the [sex hormones in humans practice questions](/resources/cambridge-igcse-biology-0610-sex-hormones-in-humans-practice/).

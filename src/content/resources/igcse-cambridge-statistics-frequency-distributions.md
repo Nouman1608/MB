@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: replaced doubtful claim that limits and boundaries coincide for continuous data, and unsupported most-common-error claim, with the 0479 syllabus wording; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: replaced doubtful claim that limits and boundaries coincide for continuous data, and unsupported most-common-error claim, with the 0479 syllabus wording; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -205,7 +205,7 @@ The 0479 syllabus states that frequency polygons will use groups with equal clas
 **How do you turn a cumulative frequency table back into a frequency table?**
 Subtract consecutive cumulative totals to recover the frequency of each class. Cumulative frequency is plotted against the upper class boundaries.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge IGCSE Statistics: Representation of Data (0479)](/resources/igcse-cambridge-statistics-representation-of-data/)
 - [Cambridge IGCSE Statistics: Data and Its Collection (0479)](/resources/igcse-cambridge-statistics-data-and-its-collection/)

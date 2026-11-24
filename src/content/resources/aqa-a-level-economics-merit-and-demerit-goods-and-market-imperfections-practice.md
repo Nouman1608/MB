@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Say which quantity is misallocated, such as a merit good being under-consumed, r
 **Is factor immobility only about labour?**
 No. Treating immobility as a labour-only issue, with no stated consequence, is a common way to lose marks; state the effect, such as structural unemployment or wasted resources.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections-revision-notes/) and [study guide](/resources/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections/).
 - Tick off progress on the [printable checklist](/checklists/aqa/a-level/economics/) and see the [AQA A-level Economics hub](/boards/aqa/a-level/economics/).

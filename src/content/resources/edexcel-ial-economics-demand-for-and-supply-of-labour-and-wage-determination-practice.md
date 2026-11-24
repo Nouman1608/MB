@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Compare the cost per unit of output, not total cost. Divide each method's daily 
 **Should you round during a staffing calculation?**
 Avoid rounding too early. Keep full figures through the working and round only the final answer, as early rounding is one of the listed ways marks are lost.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination/).
 - Course [hub](/boards/edexcel/a-level/economics/) and [checklist](/checklists/edexcel/a-level/economics/).

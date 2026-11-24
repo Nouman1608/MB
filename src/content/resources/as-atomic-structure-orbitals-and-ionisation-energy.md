@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -265,7 +265,7 @@ At Group 13 the electron is removed from a p sub-shell, which is higher in energ
 **How do successive ionisation energies give evidence for shells?**
 A large jump between successive ionisation energies shows that the next electron is being removed from a shell closer to the nucleus. The position of the jumps indicates how many electrons are in the outer shell.
 
-## Related resources
+## More resources on this topic
 
 - [Atomic Structure](/resources/atomic-structure/) — the IGCSE/O Level shell model this resource builds on
 - [Atomic Structure: Particles, Radius and Isotopes](/resources/as-atomic-structure-particles-radius-and-isotopes/) — subtopics 1.1–1.2, the rest of Topic 1

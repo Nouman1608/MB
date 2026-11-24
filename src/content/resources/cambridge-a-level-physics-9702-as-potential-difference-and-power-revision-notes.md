@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Two independent routes to the same charge are a quick way to catch an arithmetic
 
 **Answers:** 1. Energy transferred per unit charge passing through a component. 2. kg m² s⁻³ A⁻¹. 3. V = 18 ÷ 3.0 = 6.0 V. 4. V = IR, so P = (IR)I = I²R. 5. R = 230² ÷ 1200 = 44 Ω. 6. P = 207² ÷ 44.1 = 972 W, about 0.97 kW. 7. The 47 Ω resistor: the current is the same, and P = I²R increases with R. 8. The 10 Ω resistor: the p.d. is the same, and P = V²/R is larger for smaller R. 9. W = 1.60 × 10⁻¹⁹ × 250 = 4.0 × 10⁻¹⁷ J. 10. P = VI = 36 W. 11. V_max = √(2.0 × 50) = 10 V. 12. At lower voltage the filament is cooler, so its resistance is smaller than at its rated voltage, and P = V²/R is larger than if R had stayed the same.
 
-## Related resources
+## More resources on this topic
 
 - [Electricity revision notes](/resources/as-physics-electricity-revision-notes/) — the whole of Topic 9
 - [Electric current revision notes](/resources/cambridge-a-level-physics-9702-as-electric-current-revision-notes/) — subtopic 9.1

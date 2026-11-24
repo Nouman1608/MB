@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ D: Large permanent vacuole
 - Describing two cells separately when the question says **compare**.
 - Confusing a tissue (similar cells) with an organ (several tissues).
 
-## Next steps
+## More on this topic
 
 - Re-read the [cell structure study guide](/resources/cambridge-igcse-biology-0610-cell-structure/).
 - Move on to the [size of specimens practice questions](/resources/cambridge-igcse-biology-0610-size-of-specimens-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sub-topic **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026), where it belongs to Topic C3 Chemical reactions. It teaches learning outcomes C3.4a to C3.4e, the mathematical learning outcome CM3.4i and the practical suggestions tied to PAG C2. The half equations in C3.4d are printed in bold and are Higher Tier only; the rest of C3.4 applies to Foundation and Higher candidates alike. The assessment overview places Topic C3 in Paper 1 (Foundation Tier) and Paper 3 (Higher Tier).
@@ -277,7 +277,7 @@ For reliable masses, rinse each electrode gently with distilled water, dry it fu
 - Forgetting that copper electrodes change the anode reaction: the anode dissolves instead of giving oxygen.
 - Describing the chlorine test with dry litmus. The paper must be damp.
 
-## Next steps
+## More on this topic
 
 - Condense the content with the [Electrolysis revision notes](/resources/ocr-gcse-chemistry-electrolysis-revision-notes/).
 - Test yourself with the [Electrolysis practice questions](/resources/ocr-gcse-chemistry-electrolysis-practice/).

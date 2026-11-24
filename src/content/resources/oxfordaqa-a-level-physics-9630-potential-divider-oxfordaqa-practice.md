@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ These questions cover section 3.4.5, Potential divider, of OxfordAQA Internation
 - Not explaining the direction of a sensor's resistance change.
 - Mixing kΩ and Ω.
 
-## Next steps
+## More on this topic
 
 - Recap with the [potential divider revision notes](/resources/oxfordaqa-a-level-physics-9630-potential-divider-oxfordaqa-revision-notes/).
 - Re-read the [potential divider study guide](/resources/oxfordaqa-a-level-physics-9630-potential-divider-oxfordaqa/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ No. A molecule with polar bonds can be non-polar if its shape makes the dipoles 
 **How should comparison questions about melting points be answered?**
 Address both substances explicitly, naming the bonding or force in each and saying which is stronger. Describing only one substance does not explain the difference.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-chemistry-bonding-revision-notes/) and the [study guide](/resources/aqa-a-level-chemistry-bonding/).
 - See the [AQA A-level Chemistry hub](/boards/aqa/a-level/chemistry/) and [checklist](/checklists/aqa/a-level/chemistry/).

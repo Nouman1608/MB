@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ CH₃Br, shows peaks at 94 and 96 in a 1 : 1 ratio.
 - **Deduce** the number of carbons: substitute into the formula and round.
 - **Deduce** halogens: state the M : M+2 ratio and what it shows.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and self-test: [Mass spectrometry revision notes](/resources/cambridge-a-level-chemistry-9701-as-mass-spectrometry-revision-notes/)
 - Exam-style questions with full answers: [Mass spectrometry practice questions](/resources/cambridge-a-level-chemistry-9701-as-mass-spectrometry-practice/)

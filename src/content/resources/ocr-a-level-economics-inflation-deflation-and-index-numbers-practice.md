@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ These questions test the topic Inflation in Component 2, Macroeconomics, of the 
 - Concluding without a reasoned judgement.
 - Giving advantages of CPI or RPI with no reason.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-economics-inflation-deflation-and-index-numbers-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-inflation-deflation-and-index-numbers/).
 - Tick off outcomes on the [checklist](/checklists/ocr/a-level/economics/) and see the [course hub](/boards/ocr/a-level/economics/).

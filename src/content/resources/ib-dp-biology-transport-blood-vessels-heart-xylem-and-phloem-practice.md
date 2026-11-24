@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ These questions cover IB Diploma Programme Biology section B3.2 (Transport) from
 - Explaining valve positions without citing which pressure is greater.
 - Leaving out the reason behind each phloem adaptation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem-revision-notes/).
 - Review the [study guide](/resources/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem/).

@@ -22,6 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -153,7 +154,7 @@ Named place and dates [1]. Natural: drought described as the worst in 60 years [
 - Case study answers with no place, dates or figures.
 - "Evaluate" and "to what extent" answers with no final judgement.
 
-## Next steps
+## More on this topic
 
 - Check gaps on our free [diagnostics](/diagnostics/).
 - Re-read the [study guide](/resources/igcse-geography-0460-food-production/) for any question you found hard, then retry it.

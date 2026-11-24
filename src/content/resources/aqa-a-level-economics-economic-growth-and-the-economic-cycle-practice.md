@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ No. A recovery uses spare capacity, so it is a movement from inside the PPC towa
 **What must an answer about an economic shock say?**
 It must say which curve shifts, AD, SRAS or LRAS, and in which direction, then follow the effect through to output and prices.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-economic-growth-and-the-economic-cycle-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-economic-growth-and-the-economic-cycle/).
 - Visit the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

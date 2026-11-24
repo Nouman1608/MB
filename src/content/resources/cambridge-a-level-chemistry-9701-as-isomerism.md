@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ forms has two enantiomers, so there are **four stereoisomers**.
 - **Deduce** isomers: work systematically (chain length, then branching, then position, then other
   functional groups or rings, then stereoisomers) and give a name or clear structure for each.
 
-## Next steps
+## More on this topic
 
 - Recall tables and a self-test: [Isomerism revision notes](/resources/cambridge-a-level-chemistry-9701-as-isomerism-revision-notes/)
 - Exam-style questions with full answers: [Isomerism practice questions](/resources/cambridge-a-level-chemistry-9701-as-isomerism-practice/)

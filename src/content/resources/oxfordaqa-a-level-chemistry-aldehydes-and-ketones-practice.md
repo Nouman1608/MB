@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-chemistry-aldeh
 - Explaining a racemate without the planar carbonyl group and equal attack from either face.
 - Pairing a hazard with a control that does not address it.
 
-## Next steps
+## More on this topic
 
 - [Aldehydes and ketones revision notes](/resources/oxfordaqa-a-level-chemistry-aldehydes-and-ketones-revision-notes/)
 - [Aldehydes and ketones study guide](/resources/oxfordaqa-a-level-chemistry-aldehydes-and-ketones/)

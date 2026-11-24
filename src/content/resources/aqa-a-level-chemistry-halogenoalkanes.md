@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section **3.3.3 Halogenoalkanes** of the AQA AS and A-level Chemistry specification
@@ -448,7 +448,7 @@ Ozone absorbs ultraviolet radiation, reducing the amount of UV that reaches the 
 **How do you name a nitrile made from a halogenoalkane?**
 Count the C≡N carbon as part of the chain. For example, CH₃CH₂CN has three carbons, so it is propanenitrile, not ethanenitrile.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/aqa-a-level-chemistry-halogenoalkanes-revision-notes/),
 then try the [practice questions](/resources/aqa-a-level-chemistry-halogenoalkanes-practice/). The

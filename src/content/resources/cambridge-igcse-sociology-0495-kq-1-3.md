@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -254,7 +254,7 @@ Every choice is followed by a reason, and the plan is not evaluated, as the syll
 - For **evaluate** questions on a method, use 1.1 concepts — validity, reliability, representativeness
   — plus practical and ethical issues, and reach a judgement.
 
-## Next steps
+## More on this topic
 
 Revise with the
 [how sociologists investigate society revision notes](/resources/cambridge-igcse-sociology-0495-kq-1-3-revision-notes/)

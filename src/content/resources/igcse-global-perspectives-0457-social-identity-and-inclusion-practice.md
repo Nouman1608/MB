@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -198,7 +198,7 @@ Questions 8 and 9 are extended responses: the real exam marks these with levels 
 - Choosing an Individual Report title that does not divide opinion.
 - Proposing a Team Project action the team cannot carry out itself.
 
-## Next steps
+## More on this topic
 
 - Check gaps with the free [diagnostics](/diagnostics/).
 - More source practice: [Written Exam practice](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/), [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).

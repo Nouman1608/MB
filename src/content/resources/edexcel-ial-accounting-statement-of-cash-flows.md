@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers topic 2.3, Statement of cash flows, in Unit 2 (Corporate and Management Accounting) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015). It teaches both outcomes, 2.3.1 and 2.3.2. This is **Unit 2 (A2) only** content: it counts towards the full International A Level, not the International AS. All businesses and figures are invented, and amounts are in dollars.
@@ -281,7 +281,7 @@ Each has a cost. Faster collection may lose customers; delaying suppliers may lo
 - Treating an opening overdraft as positive cash in the final reconciliation.
 - Describing liquidity with ratios alone, without using the cash flows to explain why it changed.
 
-## Next steps
+## More on this topic
 
 Condense the method with the [revision notes](/resources/edexcel-ial-accounting-statement-of-cash-flows-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-accounting-statement-of-cash-flows-practice/). For exam technique across the whole course, see [Edexcel IAL Accounting exam preparation](/resources/edexcel-ial-accounting-exam-preparation/).
 

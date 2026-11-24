@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -195,7 +195,7 @@ To check the rest of the course, try a free [diagnostic](/diagnostics/). All uni
 - Identifying a structure from data without quoting the property that decides it.
 - Misordering negative temperatures when deciding states.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this section](/resources/oxfordaqa-igcse-chemistry-bonding-structure-and-properties-revision-notes/)
 - [Study guide for this section](/resources/oxfordaqa-igcse-chemistry-bonding-structure-and-properties/)

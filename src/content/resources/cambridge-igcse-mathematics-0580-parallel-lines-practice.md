@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ D: y = 0.5x **[2]**
 - Confusing lines parallel to the x-axis with lines parallel to the y-axis.
 - Concluding "trapezium" after checking only one pair of sides.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [parallel lines study guide](/resources/cambridge-igcse-mathematics-0580-parallel-lines/).
 - Recap with the [parallel lines revision notes](/resources/cambridge-igcse-mathematics-0580-parallel-lines-revision-notes/).

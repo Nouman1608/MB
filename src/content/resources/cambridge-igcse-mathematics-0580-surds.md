@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -187,7 +187,7 @@ In (a), −1 + √3 is the same as √3 − 1, so multiply by √3 + 1. When the
 - **Write in the form** a + b√c: state the values of a, b and c if asked, and check that c has no square factor.
 - **Rationalise the denominator**: the final answer must have a whole-number denominator, and be simplified.
 
-## Next steps
+## More on this topic
 
 - Condensed rules and a self-test: the [surds revision notes](/resources/cambridge-igcse-mathematics-0580-surds-revision-notes/).
 - Exam-style questions with mark schemes: the [surds practice questions](/resources/cambridge-igcse-mathematics-0580-surds-practice/).

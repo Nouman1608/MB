@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -235,7 +235,7 @@ A Hertzsprung-Russell diagram plots stellar luminosity against surface temperatu
 **Why is the Hubble constant controversial?**
 Edexcel IAL Physics requires you to understand the controversy over the value of the Hubble constant, because it affects estimates of the age and ultimate fate of the universe, together with the possible existence of dark matter.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 5: Oscillations](/resources/edexcel-ial-physics-oscillations-ial/) — the previous sub-topic
 - [Unit 4: Electric and Magnetic Fields](/resources/edexcel-ial-physics-electric-and-magnetic-fields/) — compare electric and gravitational fields

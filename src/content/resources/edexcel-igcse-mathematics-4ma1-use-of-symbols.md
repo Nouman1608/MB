@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ Write both sides as powers of the same base.
 - **"Work out" with fractional powers** on a calculator paper: you may check with the calculator, but give the exact answer (1/16, not 0.0625, if the question asks for a fraction).
 - When substituting a negative number, write it in brackets on your first line of working.
 
-## Next steps
+## More on this topic
 
 Test recall with the [use of symbols revision notes](/resources/edexcel-igcse-mathematics-4ma1-use-of-symbols-revision-notes/), then try the [use of symbols practice questions](/resources/edexcel-igcse-mathematics-4ma1-use-of-symbols-practice/). Section 2.2 builds directly on these rules: see the [algebraic manipulation study guide](/resources/edexcel-igcse-mathematics-4ma1-algebraic-manipulation/).
 

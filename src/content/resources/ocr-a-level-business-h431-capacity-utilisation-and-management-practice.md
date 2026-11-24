@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -127,7 +127,7 @@ Evaluation: the cost of idle capacity is smaller than the cost of failing to tre
 - Forgetting to recalculate costs when fixed costs change.
 - Ignoring whether the demand change is permanent.
 
-## Next steps
+## More on this topic
 
 - Revisit the [capacity utilisation and management study guide](/resources/ocr-a-level-business-h431-capacity-utilisation-and-management/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

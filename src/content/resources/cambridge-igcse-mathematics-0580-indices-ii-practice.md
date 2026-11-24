@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ For explanations, read the [Indices II study guide](/resources/cambridge-igcse-m
 - Multiplying only the first term of an index such as x + 1 by the outer power.
 - Taking the power before the root with fractional indices, which makes the numbers too large to handle without a calculator.
 
-## Next steps
+## More on this topic
 
 - [Indices II study guide](/resources/cambridge-igcse-mathematics-0580-indices-ii/)
 - [Indices II revision notes](/resources/cambridge-igcse-mathematics-0580-indices-ii-revision-notes/)

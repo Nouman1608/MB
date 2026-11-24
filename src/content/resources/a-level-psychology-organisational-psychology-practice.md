@@ -34,7 +34,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -150,7 +150,7 @@ For Landry et al. (2019) focus on study 1, and for Claypoole and Szalma (2019) f
 - Answering question 7(a) with "monitoring makes people work harder" without the social facilitation link.
 - Writing evaluation that never mentions the debate the question names.
 
-## Next steps
+## More on this topic
 
 Revisit model lists in the [Organisational Psychology revision notes](/resources/a-level-psychology-organisational-psychology-revision-notes/), and practise reliability and validity terms with the [Paper 2 Research Methods practice questions](/resources/a-level-psychology-research-methods-practice/).
 

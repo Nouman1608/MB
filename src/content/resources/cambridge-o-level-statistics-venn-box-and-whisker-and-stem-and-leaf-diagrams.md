@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027, version 1. It covers sections 2.2 (Venn diagrams, box-and-whisker diagrams and stem-and-leaf diagrams, including back-to-back), 2.3 (purpose, use, advantages and disadvantages of representations) and 2.4 (interpreting data in tabular, pictorial or diagrammatic form). The course is not tiered. Tables, bar-type charts, pie charts and pictograms are taught on separate pages.
@@ -267,7 +267,7 @@ For tables, check the headings, units and whether numbers are counts or percenta
 - Treating a number in a Venn pair total as the "only" region.
 - Describing a box plot's median as the mean.
 
-## Next steps
+## More on this topic
 
 Condense this into [the revision notes](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams-revision-notes/), then try [the practice set](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams-practice/). The [free diagnostics](/diagnostics/) show which topic to work on next.
 

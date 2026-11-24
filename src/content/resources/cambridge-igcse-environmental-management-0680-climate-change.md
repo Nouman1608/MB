@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -166,6 +166,6 @@ Why it scores: benefits and limitations for each strategy, each explained, and a
 
 **State** and **define** questions need the syllabus wording. **Describe and explain** impact questions want a chain: cause → change → effect on people or ecosystems. For **discuss the benefits and limitations**, cover each named strategy, link points to the context (a low-lying country, a farming region, a wealthy city) and give a judgement. In data questions on carbon dioxide or temperature, quote values with units and calculate percentage change from the earlier value.
 
-## Next steps
+## More on this topic
 
 Condense this with the [climate change revision notes](/resources/cambridge-igcse-environmental-management-0680-climate-change-revision-notes/) and test yourself with the [climate change practice questions](/resources/cambridge-igcse-environmental-management-0680-climate-change-practice/).

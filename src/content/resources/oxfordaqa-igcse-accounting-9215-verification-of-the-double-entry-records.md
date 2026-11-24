@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ So a business uses all four, regularly, for example every month. Even then, some
 - **"Identify which technique would reveal"** an error: name it and give the reason (which records disagree).
 - In longer answers, show that you know the **limits**: one sentence on an error that the technique would not reveal earns credit for understanding.
 
-## Next steps
+## More on this topic
 
 - Quick recall: [verification revision notes](/resources/oxfordaqa-igcse-accounting-9215-verification-of-the-double-entry-records-revision-notes/).
 - Marked questions: [verification practice questions](/resources/oxfordaqa-igcse-accounting-9215-verification-of-the-double-entry-records-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ light [1]
 - Magnification answers with units, or heights in different units.
 - Dose comparisons without a conclusion about risk.
 
-## Next steps
+## More on this topic
 
 - [Electromagnetic waves study guide](/resources/aqa-gcse-physics-8463-electromagnetic-waves/)
 - [Electromagnetic waves revision notes](/resources/aqa-gcse-physics-8463-electromagnetic-waves-revision-notes/)

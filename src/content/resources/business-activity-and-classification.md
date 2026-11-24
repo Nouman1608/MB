@@ -21,7 +21,7 @@ author: "asif-iqbal"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -236,7 +236,7 @@ Opportunity cost is the next-best alternative given up when a choice is made. Sc
 **Why does the importance of each economic sector change as a country develops?**
 Developing economies tend to have a larger share of primary activity, while developed economies shift towards a much larger tertiary sector as incomes rise and service industries grow.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O Level Business subject hub](/subjects/business/)
 

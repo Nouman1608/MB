@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -164,7 +164,7 @@ CH3CH2CH2COOH + CH3CH2OH → CH3CH2CH2COOCH2CH3 + H2O
 - **Write** (formula or equation): balance charges in salts, then atoms in the equation.
 - **Explain** (oxidation): ethanol gains oxygen and loses hydrogen, forming ethanoic acid.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [carboxylic acids revision notes](/resources/cambridge-o-level-chemistry-5070-carboxylic-acids-revision-notes/).
 - Test yourself with the [carboxylic acids practice questions](/resources/cambridge-o-level-chemistry-5070-carboxylic-acids-practice/).

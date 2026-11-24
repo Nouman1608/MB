@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sections 1.6 (Percentages) and 1.7 (Ratio and proportion) of topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. Section 1.6 has Foundation content that both tiers need plus two statements marked **Higher tier only**. Section 1.7 is the same for both tiers.
@@ -421,7 +421,7 @@ Set up the equation with an unknown multiplier and solve it. If £2500 grows to 
 **Can a percentage be more than 100%?**
 Yes. A percentage over 100 is allowed: 135% of a quantity is 1.35 times it, which is more than the whole quantity.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-practice/), which have mark-by-mark answers.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches critical path analysis for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics (YMA01), Specification Issue 3, April 2019. It covers unit D1 (Decision Mathematics 1), section 4, topics 4.1 to 4.4. The specification states that D1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
@@ -280,7 +280,7 @@ For activity (i, j) with duration d, the earliest start is eᵢ and the latest s
 **How do you build an activity-on-arc network?**
 Draw each activity as an arc with its letter and duration, use a single start and end event, add dummies where needed, and number events so every arc runs from a smaller number to a larger one.
 
-## Next steps
+## More on this topic
 
 Condense the method with the [revision notes](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-practice/). Tick topics off on the [checklist](/checklists/edexcel/a-level/mathematics/) and see the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) for related units.
 

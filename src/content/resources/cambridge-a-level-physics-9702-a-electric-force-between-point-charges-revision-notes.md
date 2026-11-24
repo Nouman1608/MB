@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ The ratios do not depend on r, because both forces are inverse-square.
 
 **Answers:** 1. The force between two point charges is proportional to the product of the charges and inversely proportional to the square of their separation. 2. 8.99 × 10⁹ × 15 × 10⁻¹² ÷ 0.040 = 3.4 N, attractive. 3. × 4. 4. 8.0 cm (0.080 m), centre to centre. 5. For points outside it, the uniformly spread surface charge produces the same field as a point charge at the centre. 6. +4 nC each. 7. From F = Q₁Q₂/(4πε₀r²), ε₀ = Q₁Q₂/(4πFr²): units C² N⁻¹ m⁻². 8. 1/x = 3/(0.40 − x) → x = 0.10 m from the +1.0 nC charge. 9. 5.0 μN. 10. Both forces are proportional to 1/r², so r cancels in the ratio. 11. Q = Fr²/(8.99 × 10⁹ × q) = 1.8 × 10⁻⁵ × 0.010 ÷ (8.99 × 10⁹ × 2.0 × 10⁻⁹) = 1.0 × 10⁻⁸ C (10 nC). 12. No: the forces are equal and opposite.
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields revision notes](/resources/a-physics-electric-fields-revision-notes/) — the whole of Topic 18
 - [Electric field of a point charge revision notes](/resources/cambridge-a-level-physics-9702-a-electric-field-of-a-point-charge-revision-notes/)

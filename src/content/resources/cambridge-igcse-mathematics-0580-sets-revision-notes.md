@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Example: n(ℰ) = 40, n(A) = 23, n(B) = 18, n(A ∪ B)′ = 6. Then n(A ∪ B) =
 11. 9 − 4 = 5.
 12. Any two primes from 2 to 13, for example C = {5, 13}.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [sets study guide](/resources/igcse-mathematics-0580-sets/).
 - Test yourself with the [sets practice questions](/resources/cambridge-igcse-mathematics-0580-sets-practice/).

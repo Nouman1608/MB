@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -149,6 +149,6 @@ Condensed notes for key question **6.3 How is crime dealt with in different soci
 
 **Answers:** 1. Protection of citizens, deterrence, retribution, incapacitation, rehabilitation. 2. Individual deterrence discourages the punished offender; general deterrence discourages everyone else. 3. Retribution. 4. Any two: high reoffending; high cost; school for crime; breaks family and job ties. 5. A fixed fine is a heavier burden for a poor person than for a rich one. 6. Any one: cheaper than prison; keeps family and work ties; supports rehabilitation; can repair harm to the community. 7. Any two: irreversible, so errors cannot be corrected; weak evidence of deterrence; applied unequally; human rights objections. 8. Exile forces the offender to leave the society; ostracism excludes them while they stay. 9. Simple societies used harsh retributive punishment; complex societies rely more on restitutive justice that repairs harm. 10. Reducing opportunities for crime, for example better street lighting, locks or CCTV. 11. Crime moving to another place, time or target when it is prevented in one. 12. Community policing builds trust and gathers local information through relationships; military style policing uses force and armed units to control disorder, but risks alienating communities.
 
-## Next steps
+## More on this topic
 
 Practise with the [key question 6.3 practice questions](/resources/cambridge-igcse-sociology-0495-kq-6-3-practice/), then revise the whole topic with the [family, education and crime revision notes](/resources/sociology-family-education-crime-revision-notes/).

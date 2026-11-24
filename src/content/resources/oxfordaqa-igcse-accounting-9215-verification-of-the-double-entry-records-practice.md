@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ D: a credit purchase of 420 entered as 240 in both the purchases account and the
 - In bank questions, putting a cash book item on the bank statement side or the other way round.
 - Giving the difference without saying which record is higher.
 
-## Next steps
+## More on this topic
 
 - Re-read the [verification of the double entry records study guide](/resources/oxfordaqa-igcse-accounting-9215-verification-of-the-double-entry-records/).
 - Practise preparing the trial balance itself with the [trial balance practice questions](/resources/oxfordaqa-igcse-accounting-9215-the-trial-balance-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -159,6 +159,6 @@ When a skydiver opens a parachute, drag suddenly becomes larger than weight. The
 - **Sketch**: shape and labelled axes; **plot**: points and a best-fit line.
 - **Explain** terminal velocity *(Extended)*: link speed → drag → resultant force → acceleration, in that order, and finish with "drag = weight".
 
-## Next steps
+## More on this topic
 
 Check recall with the [revision notes on motion](/resources/cambridge-igcse-physics-0625-motion-revision-notes/), then try the [practice questions on motion](/resources/cambridge-igcse-physics-0625-motion-practice/). The forces behind these graphs are covered in the [study guide on forces](/resources/cambridge-igcse-physics-0625-forces/), and the link between g and weight in the [study guide on mass and weight](/resources/cambridge-igcse-physics-0625-mass-and-weight/).

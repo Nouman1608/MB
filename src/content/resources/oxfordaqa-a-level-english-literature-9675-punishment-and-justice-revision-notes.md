@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ the full discussion and a model paragraph are in the
 12. The suspect has political protection, so the investigation must navigate Party power as well as
     evidence.
 
-## Next steps
+## More on this topic
 
 Try the [punishment and justice practice questions](/resources/oxfordaqa-a-level-english-literature-9675-punishment-and-justice-practice/),
 then the essay set in [Elements of Crime and Mystery practice questions](/resources/a-level-oxfordaqa-english-literature-elements-of-crime-and-mystery-practice/).

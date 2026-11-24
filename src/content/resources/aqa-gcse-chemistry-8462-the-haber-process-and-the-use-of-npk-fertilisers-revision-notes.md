@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -169,7 +169,7 @@ yield. 450 °C gives an acceptable rate and yield."
 A bag labelled 20 : 10 : 10 contains 20 % nitrogen, 10 % phosphorus and 10 % potassium compounds by the
 manufacturer's convention. In a 50 kg bag, 20 % is **10 kg** of nitrogen compound in terms of that label.
 
-## Next steps
+## More on this topic
 
 - [The Haber process and NPK fertilisers study guide](/resources/aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers/)
 - [The Haber process and NPK fertilisers practice questions](/resources/aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-practice/)

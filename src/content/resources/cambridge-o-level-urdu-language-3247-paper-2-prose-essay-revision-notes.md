@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, question wordings and self-test answers on this page."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, question wordings and self-test answers on this page. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -175,7 +175,7 @@ text you know thinly will not reach Level 4.
 10. No: the task asks you to be the character, so stay in the first person.
 11. Unless otherwise specified, the entire work should be studied.
 
-## Related resources
+## More resources on this topic
 
 - [Prose essay: practice questions](/resources/cambridge-o-level-urdu-language-3247-paper-2-prose-essay-practice/)
 - [Poetry essay revision notes](/resources/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay-revision-notes/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -143,6 +143,6 @@ Related: [Advertising study guide](/resources/cambridge-a-level-psychology-9990-
 - In question 5(a), describing Snyder and DeBono, which is not about children.
 - In question 9(c), naming "ethics" without saying what the researcher would do.
 
-## Next steps
+## More on this topic
 
 Check weaker areas in the [advertising study guide](/resources/cambridge-a-level-psychology-9990-advertising/), then try the mixed [Consumer Psychology practice questions](/resources/a-level-psychology-consumer-psychology-practice/).

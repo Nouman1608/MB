@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -172,6 +172,6 @@ Terror and informers; popularity of jobs and foreign-policy gains; parties and u
 11. Claus von Stauffenberg.
 12. Any two: fear of the Gestapo and camps; popularity of Nazi successes; parties and unions banned; opponents divided; the army's oath of loyalty.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [Nazi control and opposition practice questions](/resources/aqa-gcse-world-history-8145-nazi-control-and-opposition-practice/).

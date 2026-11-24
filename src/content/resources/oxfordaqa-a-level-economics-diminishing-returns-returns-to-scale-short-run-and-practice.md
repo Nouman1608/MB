@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ Related pages: [study guide](/resources/oxfordaqa-a-level-economics-diminishing-
 - Giving a percentage change without the sign, or using the wrong base year.
 - Giving a judgement with no condition or reason.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and/).
 - Visit the [course hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/).

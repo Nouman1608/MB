@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01) specification, Issue 3, April 2019. It covers unit S1 section 5, topics 5.1 to 5.4: the concept of a discrete random variable, the probability function and cumulative distribution function, the mean and variance, and the discrete uniform distribution. The specification states that S1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
 
@@ -335,7 +335,7 @@ A variable has a discrete uniform distribution when it takes n values and each i
 **Why must you not round E(X) before finding the variance?**
 Squaring a rounded mean carries the rounding error into Var(X). Keep the exact value of E(X) until the end.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-practice/) with the working covered, then use the [revision notes](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-revision-notes/) for the last few days. The [checklist](/checklists/edexcel/a-level/mathematics/) lets you tick off topics 5.1 to 5.4.
 

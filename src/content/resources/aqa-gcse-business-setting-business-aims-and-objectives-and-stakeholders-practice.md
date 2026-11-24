@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ Evaluate which plan Bramleigh Audio should follow. **[9]**
 - Describing what stakeholders want without explaining the conflict.
 - Finishing an evaluate or justify answer with no judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders-revision-notes/) for anything you missed.
 - Review the explanations in the [study guide](/resources/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders/).

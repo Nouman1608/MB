@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Use this guide to learn rate of reaction from scratch for OxfordAQA International GCSE Chemistry (9202). Its source is the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Section 3.8.1 is taught in full, statements a to h, together with the required practical linked to it. There are no tiers in this qualification, so nothing here is optional. Either Paper 1 or Paper 2 may test any part of the content, this unit included.
@@ -269,7 +269,7 @@ Together these **reduce costs**.
 - Mixing units: g/s for masses, cm³/s for gas volumes, mol/s only after converting to moles.
 - Saying a faster reaction makes more product. Only more reactant does that.
 
-## Next steps
+## More on this topic
 
 - Condense this unit with the [rate of reaction revision notes](/resources/oxfordaqa-igcse-chemistry-rate-of-reaction-revision-notes/).
 - Test yourself with the [rate of reaction practice questions](/resources/oxfordaqa-igcse-chemistry-rate-of-reaction-practice/).

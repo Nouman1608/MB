@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Load x from 150 [1]; subtract the immediate value 7 using #7 [1]; store the resu
 - Saying a virtual machine compiles bytecode.
 - Ending an "evaluate" answer without a conclusion.
 
-## Next steps
+## More on this topic
 
 - [Computer systems revision notes](/resources/oxfordaqa-a-level-computer-science-computer-systems-revision-notes/)
 - [Computer systems study guide](/resources/oxfordaqa-a-level-computer-science-computer-systems/)

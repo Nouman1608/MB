@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ When you redraft, rewrite every balance in its correct column and add both colum
 - **"Calculate the capital"**: show total debits, total credits without capital, and the subtraction.
 - **"Explain the use"** or **"limitations"**: give a use with its benefit, and a limitation with a named error type as an example.
 
-## Next steps
+## More on this topic
 
 - Quick recall: [trial balance revision notes](/resources/oxfordaqa-igcse-accounting-9215-the-trial-balance-revision-notes/).
 - Marked questions: [trial balance practice questions](/resources/oxfordaqa-igcse-accounting-9215-the-trial-balance-practice/).

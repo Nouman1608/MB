@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.1.3 (Ratio and proportion) in the OxfordAQA International GCSE Mathematics specification (9260), Version 5.1, for exams in May/June 2018 onwards. It teaches statements N16 to N20. All of it is Core content, and the specification states that Core content can also be assessed on the Extension papers. The Extension-only part of N20, exponential growth and decay, is taught elsewhere.
@@ -380,7 +380,7 @@ The overall change is not "-8% + 5% = -3%". Percentages of different amounts can
 - Adding percentage changes instead of multiplying the multipliers.
 - Stopping at a decimal such as 4.8 hours without converting to hours and minutes when asked.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion-practice/). Tick off the topic on the [checklist](/checklists/oxfordaqa/igcse/mathematics/) and run a [free diagnostic](/diagnostics/) to find weak spots.
 

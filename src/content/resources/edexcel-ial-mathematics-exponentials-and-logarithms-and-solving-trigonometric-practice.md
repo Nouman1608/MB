@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ If the angle is something like x − 20° or 2x, the solutions for the whole ang
 **Which topics does this Edexcel IAL Pure 2 page cover?**
 It covers Unit P2 topics 5.1 to 5.3 on exponentials and logarithms and 6.1 to 6.2 on trigonometric identities and equations in Pearson Edexcel International A Level Mathematics (YMA01).
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric/).

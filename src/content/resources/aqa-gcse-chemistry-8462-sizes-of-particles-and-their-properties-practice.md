@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -146,7 +146,7 @@ increases the total surface area for the same mass and volume [1]. **[2]**
 - Mixing up the 6 faces of a cube when calculating surface area.
 - Not converting nm and m to the same unit before dividing.
 
-## Next steps
+## More on this topic
 
 - Recap with the [sizes of particles revision notes](/resources/aqa-gcse-chemistry-8462-sizes-of-particles-and-their-properties-revision-notes/).
 - Reread any weak area in the [sizes of particles study guide](/resources/aqa-gcse-chemistry-8462-sizes-of-particles-and-their-properties/).

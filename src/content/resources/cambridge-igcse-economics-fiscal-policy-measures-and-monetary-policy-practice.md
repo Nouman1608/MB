@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ This set tests sections 4.3.7 to 4.3.9 and 4.4.1 to 4.4.3 of the Cambridge IGCSE
 - Listing evaluation points with no judgement or condition.
 - Using aggregate demand when the answer can be given through spending and jobs.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy/) for any part that cost you marks.
 - Revise from the [revision notes](/resources/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy-revision-notes/).

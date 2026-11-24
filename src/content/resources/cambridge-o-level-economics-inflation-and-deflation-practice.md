@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ These questions cover section 4.8 (4.8.1 to 4.8.5, inflation and deflation) of t
 - Listing policies with no chain to demand, costs and prices.
 - Evaluating with no judgement or without matching policy to cause.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-o-level-economics-inflation-and-deflation/) or the [revision notes](/resources/cambridge-o-level-economics-inflation-and-deflation-revision-notes/).
 - Check the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/).

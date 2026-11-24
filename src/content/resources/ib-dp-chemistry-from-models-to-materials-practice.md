@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Electronegativities are Pauling values given in each question. For masses, take 
 - (HL only) Keeping the H or OH that should have been lost at each condensation link.
 - (HL only) Counting N water molecules instead of N − 1 for a chain of N units.
 
-## Next steps
+## More on this topic
 
 - Review weak points in the [unit revision notes](/resources/ib-dp-chemistry-from-models-to-materials-revision-notes/)
 - Reread explanations in the [unit study guide](/resources/ib-dp-chemistry-from-models-to-materials/)

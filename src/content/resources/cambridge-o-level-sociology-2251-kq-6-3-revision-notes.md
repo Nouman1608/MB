@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -189,7 +189,7 @@ judge the **effectiveness**, and use examples from more than one society.
 12. Losing public cooperation leads police towards military-style policing, which alienates people
     further and reduces cooperation even more.
 
-## Related resources
+## More resources on this topic
 
 - [Study guide for key question 6.3](/resources/cambridge-o-level-sociology-2251-kq-6-3/)
 - [Practice questions for key question 6.3](/resources/cambridge-o-level-sociology-2251-kq-6-3-practice/)

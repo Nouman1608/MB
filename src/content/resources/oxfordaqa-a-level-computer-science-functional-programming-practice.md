@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -222,7 +222,7 @@ First call splits the head 'c' from the tail; [1] the third call matches the bas
 - Using 0 as the base case or start value for a product.
 - Describing a recursive function as higher-order when no function is passed or returned.
 
-## Next steps
+## More on this topic
 
 - Go back over the key facts in the [revision notes](/resources/oxfordaqa-a-level-computer-science-functional-programming-revision-notes/).
 - Revisit the matching part of the [study guide](/resources/oxfordaqa-a-level-computer-science-functional-programming/).

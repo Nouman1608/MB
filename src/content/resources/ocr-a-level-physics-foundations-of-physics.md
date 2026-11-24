@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -186,7 +186,7 @@ Write the base units of each side of the equation and check that they match. An 
 **When do you use sin and cos to resolve a vector?**
 Use F cos θ for the component along the axis from which the angle is measured, and F sin θ for the component perpendicular to that axis. Swapping them is one of the most common mechanics errors.
 
-## Related resources
+## More resources on this topic
 
 - [Foundations of Physics revision notes](/resources/ocr-a-level-physics-foundations-revision-notes/)
 - [Foundations of Physics practice questions](/resources/ocr-a-level-physics-foundations-practice/)

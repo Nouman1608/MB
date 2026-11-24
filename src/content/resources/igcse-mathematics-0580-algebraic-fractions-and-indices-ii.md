@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches two subtopics of Topic 2 (Algebra and graphs) in the Cambridge IGCSE Mathematics 0580 syllabus for exams in 2025, 2026 and 2027: **2.4 Indices II** and **2.3 Algebraic fractions**. Indices II appears in both tiers: Core (C2.4) covers positive, zero and negative indices, and Extended (E2.4) adds fractional indices. Algebraic fractions (E2.3) is **Extended only** -- the syllabus lists no Core content at C2.3. Core candidates sit Papers 1 (non-calculator) and 3 (calculator); Extended candidates sit Papers 2 (non-calculator) and 4 (calculator).
@@ -316,7 +316,7 @@ Since x⁰ = 1 for any non-zero x, 5x⁰ = 5 × 1 = 5. Thinking that x⁰ = 0, o
 **Can you cancel the x² terms in (x² + 3)/(x² − 1)?**
 No. Only whole factors cancel in an algebraic fraction, so factorise the numerator and denominator first and cancel only factors common to both.
 
-## Next steps
+## More on this topic
 
 - Practise with the [Algebra and graphs practice questions](/resources/igcse-mathematics-algebra-and-graphs-practice/) and the [Extended algebra practice](/resources/igcse-mathematics-algebra-extended-practice/), which also covers fractional equations (E2.5).
 - Recap the topic with the [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/).

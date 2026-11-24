@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -128,7 +128,7 @@ These questions cover section 5.4 (5.4.1) of the Cambridge O Level Economics (22
 - Treating a large population as always good or always bad.
 - Writing an evaluation with no conclusion, or a conclusion that ignores the points above it.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-o-level-economics-differences-in-economic-development-between-countries-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-differences-in-economic-development-between-countries/).
 - Open the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/).

@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Learn the methods in the [differential equations study guide](/resources/ib-dp-m
 - Eigenvectors matched to the wrong eigenvalues (questions 10 and 11).
 - Calling a saddle point "stable" (question 10).
 
-## Next steps
+## More on this topic
 
 - Recap the key facts in the [differential equations revision notes](/resources/ib-dp-mathematics-ai-hl-differential-equations-revision-notes/).
 - Re-learn any weak topic in the [differential equations study guide](/resources/ib-dp-mathematics-ai-hl-differential-equations/).

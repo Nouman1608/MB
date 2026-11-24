@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -229,7 +229,7 @@ Use Wien's displacement law with the peak wavelength of the star's spectrum to f
 **What units do you use for the Hubble constant in Cambridge 9702?**
 The Cambridge 9702 syllabus only requires SI units with Hubble's law, so use H₀ in s⁻¹ (about 2.3 × 10⁻¹⁸ s⁻¹) with distance in metres and speed in m s⁻¹.
 
-## Related resources
+## More resources on this topic
 
 - [Medical Physics](/resources/a-physics-medical-physics/) — the previous A Level topic
 - [Cambridge AS & A Level Physics hub](/boards/cambridge/a-level/physics/) — the complete syllabus, now fully covered

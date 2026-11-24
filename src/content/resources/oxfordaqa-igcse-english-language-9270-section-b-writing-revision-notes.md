@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -203,7 +203,7 @@ close. 9. Formal. 10. Pitch the register to the reader with most authority and a
 directly at points in the writing. 11. Any two: a call to action, a memorable final line, a rule of
 three summary, a direct appeal. 12. W4.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 2 Section B writing practice questions](/resources/oxfordaqa-igcse-english-language-9270-section-b-writing-practice/)
 - [Paper 2 revision notes](/resources/igcse-oxfordaqa-english-language-paper-2-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Write the error interval and compare the relevant limit with the value in the qu
 **Which bounds do you use for the maximum of a division?**
 Divide the upper bound of the first value by the lower bound of the second. Pairing upper bound with upper bound for a division or subtraction is a common Higher tier mistake.
 
-## Next steps
+## More on this topic
 
 - [Measures and accuracy revision notes](/resources/aqa-gcse-maths-8300-measures-and-accuracy-revision-notes/)
 - [Measures and accuracy study guide](/resources/aqa-gcse-maths-8300-measures-and-accuracy/)

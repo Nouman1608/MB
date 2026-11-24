@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -173,7 +173,7 @@ Real MYP work is judged against criterion level descriptors with achievement lev
 **Can I practise these writing tasks in my target language?**
 Yes. Model answers are in English, but the tasks can be repeated in your target language using the notes on the page.
 
-## Next steps
+## More on this topic
 
 - [Criterion D revision notes](/resources/ib-myp-language-acquisition-criterion-d-writing-revision-notes/)
 - [Criterion D study guide](/resources/ib-myp-language-acquisition-criterion-d-writing/)

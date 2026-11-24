@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,7 +187,7 @@ Step 2 (slow): H₂ + 2I → 2HI
 - Using °C instead of K, or mixing kJ and J, in the Arrhenius equation.
 - Dropping the minus sign from the gradient, so Ea comes out negative.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius-revision-notes/)
 - Revisit any weak area in the [study guide](/resources/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius/)

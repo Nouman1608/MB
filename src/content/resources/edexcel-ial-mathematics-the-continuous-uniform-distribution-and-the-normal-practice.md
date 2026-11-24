@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -179,7 +179,7 @@ The second parameter is the variance, not the standard deviation. Entering the s
 **How do you handle a strict inequality with a continuity correction?**
 Rewrite the event using whole numbers first: P(X < 45) means P(X ≤ 44), which becomes P(Y < 44.5). Using 45.5 is incorrect.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal/).
 - Visit the [course hub](/boards/edexcel/a-level/mathematics/) and [checklist](/checklists/edexcel/a-level/mathematics/).

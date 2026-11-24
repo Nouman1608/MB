@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide teaches topic 6, Space physics, from the Cambridge O Level Physics (5054) syllabus for examination in 2026, 2027 and 2028. It covers sections 6.1 (Earth and the Solar System) and 6.2 (Stars and the Universe) in full. The syllabus does not split this topic into tiers.
 
@@ -330,7 +330,7 @@ The Milky Way is one galaxy among many billions of galaxies in the Universe. Cal
 **What happens to stars of different masses at the end of their lives?**
 Less massive stars become red giants and end as white dwarfs, while more massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/o-level-physics-space-physics-practice/), then use the [revision notes](/resources/o-level-physics-space-physics-revision-notes/) for a quick recap. Check your progress against the [checklist](/checklists/cambridge/o-level/physics/) and the [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics/). If you want guided help, [book a free trial class](/trial/).
 

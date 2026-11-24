@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for International GCSE exams May/June 2026 onwards. It covers the first two content points of section 3.2 Verification of accounting records: verification of the double entry records, and preparing and understanding the use of a trial balance. All amounts in this guide are in dollars.
@@ -244,7 +244,7 @@ Case: the same purchase is entered in neither account. Both totals are missing t
 - Naming the error without stating whether the totals would still agree.
 - Adding the columns of a draft trial balance wrongly, then hunting for a ledger error that does not exist. Add both columns twice.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [trial balance revision notes](/resources/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala-revision-notes/), then attempt the [practice questions](/resources/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala-practice/). Tick off topics on the [checklist](/checklists/oxfordaqa/igcse/accounting/) and see all [free diagnostics](/diagnostics/).
 

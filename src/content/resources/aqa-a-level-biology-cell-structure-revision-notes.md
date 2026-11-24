@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -183,7 +183,7 @@ Ribosomes are not surrounded by a membrane. Mitochondria, chloroplasts, lysosome
 **What is the most common mistake in prokaryotic cell answers?**
 Describing prokaryotic cells only by what they lack, without covering the additional structures many of them have, such as plasmids, capsules and flagella.
 
-## Related resources
+## More resources on this topic
 
 [Eukaryotic and Prokaryotic Cell Structure study guide](/resources/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure/) |
 [Eukaryotic and Prokaryotic Cell Structure practice questions](/resources/aqa-a-level-biology-cell-structure-practice/)

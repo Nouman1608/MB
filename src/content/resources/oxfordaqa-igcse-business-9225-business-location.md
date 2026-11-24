@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -153,7 +153,7 @@ Notice the structure: factor, figure from the case, effect on sales and cost, th
 
 For **identify** and **state** questions, name the factor. For **explain** questions, link the factor to the business: "being near the fish market reduces transport costs for the fish processing firm because fresh fish spoils quickly". For **analyse** questions, follow the chain from the location factor to the cost or sales effect. For **evaluate** questions, weigh up the sites, decide which factors are most important for this business, and justify the final judgement.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-business-location-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-business-location-practice/)

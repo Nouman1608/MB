@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and worked examples, use the [Applying number and electronic calculators study guide](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators/).
@@ -335,7 +335,7 @@ Multiply by 10 000, because 1 m = 100 cm and the area factor is the length facto
 **How do you change euros back into pounds using an exchange rate?**
 If the rate is £1 = €1.16, multiply by 1.16 to go from pounds to euros and divide by 1.16 to go from euros to pounds. Check the direction: at this rate the number of euros should be bigger than the number of pounds.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice/), then revisit the [study guide](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators/) for any answer you got wrong. For wider topic 1 practice, use the [Numbers and the number system practice](/resources/edexcel-igcse-mathematics-number-practice/).
 

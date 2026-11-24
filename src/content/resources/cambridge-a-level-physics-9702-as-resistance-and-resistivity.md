@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ In both, more energy (from light or heating) frees more charge carriers, so n in
 - **Calculate** or **determine**: convert mm to m before squaring; quote ρ in Ω m.
 - **Describe** (the resistivity experiment): name instruments, what is measured, repeats, the graph plotted and how ρ is found from it.
 
-## Related resources
+## More resources on this topic
 
 - [Electricity study guide](/resources/as-physics-electricity/) — the whole of Topic 9
 - [Resistance and resistivity revision notes](/resources/cambridge-a-level-physics-9702-as-resistance-and-resistivity-revision-notes/)

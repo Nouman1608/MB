@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -191,7 +191,7 @@ it cannot form an amide this way: there is no hydrogen to lose.
 - **Suggest** an observation: steamy fumes of HCl for the reactions; a white precipitate with
   AgNO₃ for the hydrolysis comparison.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Acyl chlorides revision notes](/resources/cambridge-a-level-chemistry-9701-a-acyl-chlorides-revision-notes/),
 then test yourself with the [Acyl chlorides practice questions](/resources/cambridge-a-level-chemistry-9701-a-acyl-chlorides-practice/).

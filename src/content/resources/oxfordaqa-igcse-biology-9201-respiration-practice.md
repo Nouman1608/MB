@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ take up enough water and mineral ions or grow well (and ethanol may damage the c
 - Explaining exercise changes without linking them to oxygen, glucose and carbon dioxide.
 - Missing "oxidise" and "lactic acid" when explaining an oxygen debt.
 
-## Next steps
+## More on this topic
 
 - [Respiration study guide](/resources/oxfordaqa-igcse-biology-9201-respiration/)
 - [Respiration revision notes](/resources/oxfordaqa-igcse-biology-9201-respiration-revision-notes/)

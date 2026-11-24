@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -222,7 +222,7 @@ Iterations 1 and 2 correct [1]; iterations 3 and 4 correct [1]. From iteration 3
 - Merge sort answers that show the splits but not each sorted merge.
 - Comparing sorts on speed only when the question asks about time **and** memory.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-revision-notes/) for a fast recap
 - [Study guide](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms/) for full explanations and traces

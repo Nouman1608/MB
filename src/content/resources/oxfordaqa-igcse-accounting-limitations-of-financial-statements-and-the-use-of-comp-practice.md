@@ -25,7 +25,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ D the depreciation charge for the year
 - Using year-end figures as if they represented the whole year.
 - Giving only the advantages or only the disadvantages of computerised software.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp/) and the [revision notes](/resources/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp-revision-notes/).
 - Use the [hub](/boards/oxfordaqa/igcse/accounting/) and the [checklist](/checklists/oxfordaqa/igcse/accounting/) to plan what to revise next.

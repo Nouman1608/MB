@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense Topic 2, section 2.5 "Organisation structure and employees" (points 2.5.1 to 2.5.3) of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-business-organisation-structure-and-employees/). Then test yourself with the [practice questions](/resources/edexcel-igcse-business-organisation-structure-and-employees-practice/).
@@ -256,7 +256,7 @@ When you must justify or evaluate, write in this order.
 - Mixing up redundancy and dismissal.
 - Leaving out units or working in a wage calculation.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-igcse-business-organisation-structure-and-employees-practice/), reread the [study guide](/resources/edexcel-igcse-business-organisation-structure-and-employees/) for any weak point, and use the [free diagnostics](/diagnostics/). Tick off progress on the [checklist](/checklists/edexcel/igcse/business/).
 

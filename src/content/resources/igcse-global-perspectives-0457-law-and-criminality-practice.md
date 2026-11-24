@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -142,7 +142,7 @@ Judgement: reopen the youth centre, with short-term patrols, rather than a curfe
 - Assessing actions in isolation with no criteria and no comparison.
 - Choosing Team Project actions that are unsafe, unmeasurable or national in scale.
 
-## Next steps
+## More on this topic
 
 - Check your weaker skills with our [diagnostics](/diagnostics/).
 - Revise the method in the [Law and criminality study guide](/resources/igcse-global-perspectives-0457-law-and-criminality/) and the [Written Exam study guide](/resources/igcse-cambridge-global-perspectives-written-exam/).

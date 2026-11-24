@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,7 +168,7 @@ A 2D diagram shows a layer clearly but not how the layers stack.
 9. It has delocalised electrons that conduct electricity.
 10. Two.
 
-## Next steps
+## More on this topic
 
 - [Graphite study guide](/resources/aqa-gcse-chemistry-8462-graphite/)
 - [Graphite practice questions](/resources/aqa-gcse-chemistry-8462-graphite-practice/)

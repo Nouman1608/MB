@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ In the disconnected case the energy rises because you do work pulling apart plat
 - **Show that** the energy is ½QV: refer to the area under the Q–V graph, not just the formula.
 - **Explain** a change: state which quantity is constant, then follow each equation in turn.
 
-## Related resources
+## More resources on this topic
 
 - [Capacitors revision notes](/resources/oxfordaqa-a-level-physics-9630-capacitors-revision-notes/)
 - [Capacitors practice questions](/resources/oxfordaqa-a-level-physics-9630-capacitors-practice/)

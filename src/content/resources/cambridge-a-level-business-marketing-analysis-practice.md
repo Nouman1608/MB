@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -128,7 +128,7 @@ Judgement: going ahead looks sensible, as a modest rise raises revenue and contr
 - Listing R&D benefits with no cost, risk or payback time.
 - Naming forecasting methods with no link to the case, or evaluating with no conclusion.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/cambridge-a-level-business-marketing-analysis-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-marketing-analysis/).
 - Go to the [course hub](/boards/cambridge/a-level/business/) and the [checklist](/checklists/cambridge/a-level/business/).

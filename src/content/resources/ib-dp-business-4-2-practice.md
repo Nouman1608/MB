@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -117,7 +117,7 @@ Two large national brands compete heavily in the children's segment with frequen
 * Not using the calculated segment values in an evaluation.
 * Concluding without saying what the judgement depends on.
 
-## Next steps
+## More on this topic
 
 * Review the [4.2 study guide](/resources/ib-dp-business-4-2/).
 * Re-read the [4.2 revision notes](/resources/ib-dp-business-4-2-revision-notes/).

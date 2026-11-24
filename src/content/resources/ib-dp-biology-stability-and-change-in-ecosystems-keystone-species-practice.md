@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ These questions cover IB Diploma Programme Biology D4.2 Stability and change (D4
 - Not showing intermediate values in multi-step calculations.
 - Putting succession content into an SL answer.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species-revision-notes/)
 - [Study guide](/resources/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species/)

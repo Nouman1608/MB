@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Longer answers are marked against markbands, not point by point. Credit goes to 
 **Why should balance of payments answers mention retaliation?**
 A tariff may cut imports, but trading partners can retaliate with their own barriers, which reduces exports and can undo the improvement. Ignoring this is a common way to lose marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-economics-arguments-for-and-against-protection-revision-notes/) and [study guide](/resources/ib-dp-economics-arguments-for-and-against-protection/).
 - Return to the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and tick off the [printable checklist](/checklists/ib/ib-dp/economics/).

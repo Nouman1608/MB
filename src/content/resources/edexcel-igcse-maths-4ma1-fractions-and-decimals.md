@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sections **1.2 Fractions** and **1.3 Decimals** of Topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Section 1.2 is the same on both tiers: the Higher tier content simply says "See Foundation Tier". Section 1.3 has Foundation content that both tiers need, plus one extra statement, converting recurring decimals into fractions, which is **Higher tier only**. A calculator may be used on every 4MA1 paper, but fraction questions often ask you to show your working, so every method here is shown by hand.
@@ -351,7 +351,7 @@ Write "part over whole" with both quantities in the same units, then simplify. F
 **What is the reciprocal of a fraction?**
 The reciprocal of a/b is b/a, because (a/b) × (b/a) = 1. Multiplying by a unit fraction such as 1/5 has the same effect as dividing by 5, and dividing by 2/5 is the same as multiplying by 5/2.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [fractions and decimals revision notes](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals-revision-notes/), then try the [fractions and decimals practice questions](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals-practice/). For the rest of Topic 1, use the [Numbers and the number system revision notes](/resources/edexcel-igcse-mathematics-number-revision-notes/) and the [Numbers and the number system practice questions](/resources/edexcel-igcse-mathematics-number-practice/).
 

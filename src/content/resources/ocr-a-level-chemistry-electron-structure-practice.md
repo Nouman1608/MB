@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ One electron in each of the five 3d boxes [1]; a single electron in 4s, all six 
 - Totals that do not match Z adjusted for charge, especially for anions such as As³⁻ and Br⁻.
 - Counting unpaired electrons from the superscript alone (4p⁴ has two unpaired electrons, not four).
 
-## Next steps
+## More on this topic
 
 - [Electron structure revision notes](/resources/ocr-a-level-chemistry-electron-structure-revision-notes/)
 - [Electron structure study guide](/resources/ocr-a-level-chemistry-electron-structure/)

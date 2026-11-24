@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Any data you need is supplied in each question.
 - Counting the same isomer twice by numbering from the other end of the chain (questions 8 and 11).
 - Giving no judgement in an "evaluate" answer (question 11).
 
-## Next steps
+## More on this topic
 
 - Reasoning chains and a self-test: [Alkanes revision notes](/resources/ocr-a-level-chemistry-alkanes-revision-notes/)
 - Worked examples for every outcome: [Alkanes study guide](/resources/ocr-a-level-chemistry-alkanes/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ Outside the range of the data the pattern may not continue, so a prediction ther
 **Does r = 0 mean there is no relationship between the variables?**
 No. The product moment correlation coefficient only measures linear association, so points lying on a curve can have r = 0 while still having a clear relationship.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/edexcel-ial-mathematics-probability-and-correlation-and-regression-revision-notes/).
 - Reread the [study guide](/resources/edexcel-ial-mathematics-probability-and-correlation-and-regression/) for any question that went wrong.

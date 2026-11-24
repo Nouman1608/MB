@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ When a case asks whether a business should grow, weigh:
 - Naming a type of economy without explaining how it lowers cost per unit.
 - Ignoring the limits of growth that are not about cost, such as market size.
 
-## Next steps
+## More on this topic
 
 Condense this with the [economies and diseconomies of scale revision notes](/resources/edexcel-igcse-business-4bs1-economies-and-diseconomies-of-scale-revision-notes/), then try the [economies and diseconomies of scale practice questions](/resources/edexcel-igcse-business-4bs1-economies-and-diseconomies-of-scale-practice/).
 

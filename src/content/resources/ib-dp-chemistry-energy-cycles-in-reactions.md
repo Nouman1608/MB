@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Reactivity 1.2, "Energy cycles in reactions", from scratch. It follows the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023) and covers understandings Reactivity 1.2.1 to 1.2.5. The first two are for SL and HL; the last three sit in the additional higher level (AHL) part and are HL only. It applies to exams from 2025 onwards.
@@ -250,7 +250,7 @@ Interpreting the result: the MgI₂ lattice enthalpy is over three times that of
 - Writing a formation equation that makes two moles of product.
 - In Born–Haber cycles, forgetting IE₂ for a 2+ ion or failing to double the anion terms for MgX₂.
 
-## Next steps
+## More on this topic
 
 Read the [one-sitting summary notes](/resources/ib-dp-chemistry-energy-cycles-in-reactions-revision-notes/) next, then try the [practice set](/resources/ib-dp-chemistry-energy-cycles-in-reactions-practice/) with full worked answers. Use the [checklist](/checklists/ib/ib-dp/chemistry/) to tick off each understanding.
 

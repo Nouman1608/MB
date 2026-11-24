@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Unit 2 Place in Literary Texts**, the second of two
@@ -198,7 +198,7 @@ exam.
 - Revise Unit 1 and Unit 2 separately -- they assess different genres
 (tragedy vs place) with different text types (drama vs prose/poetry).
 
-## Related resources
+## More resources on this topic
 
 - [Place in Literary Texts revision notes](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts-revision-notes/)
 - [Place in Literary Texts practice questions](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts-practice/)

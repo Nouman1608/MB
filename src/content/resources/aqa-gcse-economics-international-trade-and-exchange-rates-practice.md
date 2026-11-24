@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -117,7 +117,7 @@ Finish the chain: say what happens to export or import prices and then to sales,
 **Can a firm be affected by the exchange rate as both an exporter and an importer?**
 Yes. A firm that exports and also buys imported materials gains on one side and loses on the other when the exchange rate changes, so consider both.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-international-trade-and-exchange-rates-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-international-trade-and-exchange-rates/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).

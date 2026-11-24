@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Final step: propylamine reacts with butanoyl chloride to give N-propylbutanamide
 - Giving "NH₃" for an amine with no mention of excess or ethanol.
 - Missing the structure of an intermediate in a multi-stage route.
 
-## Next steps
+## More on this topic
 
 - Recap the key facts: [6.2.5 revision notes](/resources/ocr-a-level-chemistry-6-2-5-organic-synthesis-revision-notes/)
 - Relearn a method: [6.2.5 study guide](/resources/ocr-a-level-chemistry-6-2-5-organic-synthesis/)

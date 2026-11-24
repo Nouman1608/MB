@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the facts quoted for Typhoon Haiyan (Philippines, November 2013): wind speed at landfall, storm surge height, deaths, people displaced, homes damaged and the aftermath. Figures are approximate and vary by source."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the facts quoted for Typhoon Haiyan (Philippines, November 2013): wind speed at landfall, storm surge height, deaths, people displaced, homes damaged and the aftermath. Figures are approximate and vary by source. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,6 +167,6 @@ The Philippines is a lower-middle-income country. High population density on the
 - **Stating climate change will definitely increase frequency.** The evidence suggests intensity is more certain than frequency.
 - **Giving an example without specific details.** Name the storm, the place and the date, and give at least two facts.
 
-## Next steps
+## More on this topic
 
 Condense this with the [weather hazards revision notes](/resources/oxfordaqa-igcse-geography-9230-weather-hazards-revision-notes/) and test yourself with the [weather hazards practice questions](/resources/oxfordaqa-igcse-geography-9230-weather-hazards-practice/). Related: the [climate change study guide](/resources/oxfordaqa-igcse-geography-9230-climate-change/) and the [natural hazards study guide](/resources/oxfordaqa-igcse-geography-9230-natural-hazards/).

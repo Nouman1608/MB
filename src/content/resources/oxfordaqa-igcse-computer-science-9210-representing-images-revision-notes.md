@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -176,7 +176,7 @@ each pixel, so the file is larger; reducing 24 bits to 8 bits makes the file one
 9. Top row black, white; bottom row white, black: a diagonal.
 10. Each pixel uses fewer bits, so there are fewer bits to store in total.
 
-## Related resources
+## More resources on this topic
 
 - [Representing images study guide](/resources/oxfordaqa-igcse-computer-science-9210-representing-images/)
 - [Representing images practice questions](/resources/oxfordaqa-igcse-computer-science-9210-representing-images-practice/)

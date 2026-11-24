@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,7 +155,7 @@ Browse → select and add to basket → checkout and delivery details → choose
 
 **Where do discounts appear in the syllabus?** Trade and cash discounts are financial terms in Topic 5 (5.4.1), but they are applied on invoices and quotations in 2.5.
 
-## Next steps
+## More on this topic
 
 Practise sequencing and calculations with the [trading documents practice questions](/resources/cambridge-o-level-commerce-7100-trading-documents-practice/).
 

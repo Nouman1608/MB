@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specificat
 - Explaining scatter in a coin or dice model by "mistakes" instead of random behaviour.
 - Reading half-life from only one interval on a table or graph.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power-revision-notes/)
 - [Study guide](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power/)

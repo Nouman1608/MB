@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ Frustum volume = 810 - 30 = 780 cm^3
 - **Explain**: say which lengths correspond and that the ratios are equal.
 - On Paper 2 use exact fractions such as 3/2 and 25/9; on Paper 4 keep full calculator values until the final 3 significant figures.
 
-## Next steps
+## More on this topic
 
 - Recap with the [similarity revision notes](/resources/cambridge-igcse-mathematics-0580-similarity-revision-notes/) and practise with the [similarity practice questions](/resources/cambridge-igcse-mathematics-0580-similarity-practice/).
 - Similar shapes link to scale factors in the [scale drawings study guide](/resources/cambridge-igcse-mathematics-0580-scale-drawings/) and to enlargement in the [Transformations and vectors study guide](/resources/igcse-mathematics-transformations-and-vectors/).

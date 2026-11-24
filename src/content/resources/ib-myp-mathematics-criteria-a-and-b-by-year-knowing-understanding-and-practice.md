@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ No. Checks verify a rule for particular cases; a proof is an algebraic argument 
 **How should you round when finding the first whole value that passes a limit?**
 Round in the direction the context needs, usually up, and check the whole values on either side. If t > 12.23 hours, the first whole hour that passes the limit is 13, not 12.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and-revision-notes/).
 - Re-read the [study guide](/resources/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and/).

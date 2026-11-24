@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ These questions cover statements 7.1 to 7.8 (aerobic and anaerobic respiration, 
 - Using the respirometer reading without absorber as the oxygen used.
 - Not giving a limiting factor to explain a plateau.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-biology-aerobic-and-anaerobic-respiration-revision-notes/)
 - [Study guide](/resources/edexcel-ial-biology-aerobic-and-anaerobic-respiration/)

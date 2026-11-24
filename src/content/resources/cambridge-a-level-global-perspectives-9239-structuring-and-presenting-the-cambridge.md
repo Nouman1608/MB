@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ To protect yourself:
 - The research log is a separate document.
 - The proposal form and the Declaration of Authenticity are ready.
 
-## Related resources
+## More resources on this topic
 
 - [Structuring and presenting the report: practice questions](/resources/cambridge-a-level-global-perspectives-9239-structuring-and-presenting-the-cambridge-practice/)
 - [Perspectives study guide](/resources/cambridge-a-level-global-perspectives-9239-perspectives/)

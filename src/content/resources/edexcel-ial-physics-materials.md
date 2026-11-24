@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -242,7 +242,7 @@ Elastic strain energy is Eel = ½FΔx while the material obeys Hooke's law. More
 **How does temperature affect viscosity?**
 Viscosity is temperature dependent: for a liquid it typically decreases as the liquid warms. Stokes' law uses the viscosity at the temperature of the fluid.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 1: Mechanics](/resources/edexcel-ial-physics-mechanics/) — the previous sub-topic
 - [Unit 2: Waves and Particle Nature of Light](/resources/edexcel-ial-physics-waves-and-particle-nature-of-light/) — the next unit

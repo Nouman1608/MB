@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -146,6 +146,6 @@ Each point is named in its first sentence and then developed with a reason linki
 - **Discuss** questions such as "Discuss the Marxist view of the role of the family": three developed points, each with evidence, plus brief evaluation.
 - **Evaluate** questions such as "Evaluate the view that the family benefits all its members": use functionalism for the view, Marxism and feminism against it, and conclude on whether benefits depend on gender, class or age.
 
-## Next steps
+## More on this topic
 
 Revise with the [key question 4.2 revision notes](/resources/cambridge-igcse-sociology-0495-kq-4-2-revision-notes/) and practise with the [key question 4.2 practice questions](/resources/cambridge-igcse-sociology-0495-kq-4-2-practice/). Then move on to [how family life is changing (key question 4.3)](/resources/cambridge-igcse-sociology-0495-kq-4-3/), or review [types of families (key question 4.1)](/resources/cambridge-igcse-sociology-0495-kq-4-1/).

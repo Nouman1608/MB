@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -165,7 +165,7 @@ of significance are the most common way marks are lost on this topic.
   <figcaption>Knowledge plus significance, with one specific habit per topic.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge IGCSE Islamiyat: Paper 2 (0493)](/resources/igcse-cambridge-islamiyat-paper-2/)
 - [IGCSE Islamiyat: Paper 1 (Cambridge 0493)](/resources/igcse-islamiyat-paper-1/)

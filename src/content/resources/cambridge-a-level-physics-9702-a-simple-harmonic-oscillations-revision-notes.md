@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Mass on spring: F = −kx → a = −(k/m)x → SHM with ω² = k/m.
 
 **Answers:** 1. Acceleration proportional to displacement from a fixed point; directed towards that point. 2. T = 12.0/30 = 0.40 s; f = 2.5 Hz; ω = 2π × 2.5 = 15.7 rad s⁻¹. 3. 4.5 cm. 4. Only a = −16x. 5. ω = 4.0 rad s⁻¹; T = 2π/4.0 = 1.6 s. 6. v₀ = 30 × 0.020 = 0.60 m s⁻¹; a_max = 30² × 0.020 = 18 m s⁻². 7. v = 30 × √(0.020² − 0.012²) = 30 × 0.016 = 0.48 m s⁻¹. 8. At equilibrium (x = 0). 9. π rad (antiphase). 10. (0.50/2.0) × 2π = π/2 rad. 11. −ω². 12. F = −kx so a = −(k/m)x; k/m is a positive constant, so this has the form a = −ω²x with ω² = k/m.
 
-## Related resources
+## More resources on this topic
 
 - [Oscillations revision notes](/resources/a-physics-oscillations-revision-notes/) — the whole of Topic 17
 - [Simple harmonic oscillations practice questions](/resources/cambridge-a-level-physics-9702-a-simple-harmonic-oscillations-practice/)

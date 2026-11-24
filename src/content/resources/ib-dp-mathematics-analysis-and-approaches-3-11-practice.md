@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,6 +165,6 @@ These questions cover syllabus section 3.11 of IB DP Mathematics: Analysis and A
 - Giving a sketch instead of an identity-based argument when asked to show a result.
 - Stopping after the partner solution instead of adding or subtracting periods.
 
-## Next steps
+## More on this topic
 
 Review the relationships in the [3.11 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-11/), then try mixed HL questions in the [circular functions practice questions](/resources/ib-dp-mathematics-aa-circular-functions-trig-identities-practice/).

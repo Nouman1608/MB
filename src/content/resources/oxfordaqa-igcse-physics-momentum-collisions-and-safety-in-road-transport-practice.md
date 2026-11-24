@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -147,7 +147,7 @@ These questions cover sections 3.1.4 (Momentum) and 3.1.5 (Safety in public tran
 - Using only one object's mass after two objects stick together, or doubling braking distance when speed doubles (it is four times).
 - Saying a safety feature "reduces the momentum" or "absorbs the force" rather than increasing the time.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-revision-notes/) and [study guide](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport/).
 - Go to the [OxfordAQA International GCSE Physics hub](/boards/oxfordaqa/igcse/physics/) and the [checklist](/checklists/oxfordaqa/igcse/physics/).

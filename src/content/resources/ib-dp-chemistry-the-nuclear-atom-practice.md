@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ x = 0.040, so ¹¹³In = **4.0%** [1]
 - *(HL only)* Describing how a mass spectrometer works when asked to interpret a spectrum.
 - *(HL only)* Identifying the element from the tallest peak alone instead of from the calculated Ar.
 
-## Next steps
+## More on this topic
 
 - [Nuclear atom revision notes](/resources/ib-dp-chemistry-the-nuclear-atom-revision-notes/)
 - [Nuclear atom study guide](/resources/ib-dp-chemistry-the-nuclear-atom/)

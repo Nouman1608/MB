@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ All nine debit items in the debit column [2], all four credit items in the credi
 - Showing totals without the adding, so one slip hides the method.
 - Forcing totals to agree by changing a figure.
 
-## Next steps
+## More on this topic
 
 - [Trial balance revision notes](/resources/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala-revision-notes/)
 - [Trial balance study guide](/resources/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala/)

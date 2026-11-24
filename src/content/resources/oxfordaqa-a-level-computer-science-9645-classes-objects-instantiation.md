@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -257,7 +257,7 @@ Mark schemes for this kind of question usually reward: the class header, a const
 - Calling the constructor like a normal method (`red.__init__(...)`) instead of instantiating with the class name.
 - Saying that a constructor returns the object. It sets up the new object; the language returns it.
 
-## Next steps
+## More on this topic
 
 - [Classes, objects and instantiation revision notes](/resources/oxfordaqa-a-level-computer-science-9645-classes-objects-instantiation-revision-notes/)
 - [Classes, objects and instantiation practice questions](/resources/oxfordaqa-a-level-computer-science-9645-classes-objects-instantiation-practice/)

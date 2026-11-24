@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ These questions test the Cambridge O Level Economics 2281 syllabus for examinati
 - Not checking that the consumer and producer shares add to total revenue.
 - Giving a reason for spending but no effect, or an effect with no reason.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/cambridge-o-level-economics-government-budget-spending-and-taxation-revision-notes/).
 - Re-read the [study guide](/resources/cambridge-o-level-economics-government-budget-spending-and-taxation/).

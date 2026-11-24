@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ The specification asks you to suggest chromatographic methods. Good suggestions:
 - **Suggest** a method for purity: count spots, compare with a pure reference, or use a second solvent.
 - **Calculate** Rf: show both distances and give the answer to two decimal places.
 
-## Next steps
+## More on this topic
 
 - Condense this with the [purity and chromatography revision notes](/resources/oxfordaqa-igcse-chemistry-9202-purity-and-chromatography-revision-notes/).
 - Practise with the [purity and chromatography practice questions](/resources/oxfordaqa-igcse-chemistry-9202-purity-and-chromatography-practice/).

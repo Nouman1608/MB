@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -126,7 +126,7 @@ These questions cover sections 3.1.1 and 3.1.2 of the OxfordAQA International GC
 - Stopping an evaluation question at "it depends" with no decision.
 - Leaving out working in a calculation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost/).
 - Tick off topics on the [checklist](/checklists/oxfordaqa/igcse/economics/) and visit the [course hub](/boards/oxfordaqa/igcse/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -186,7 +186,7 @@ places first, whose views it quotes, its headline and its vocabulary. 11. It rec
 audience and attitude for each text, so pairs can be compared quickly. 12. The Section B writing task
 is linked with the reading sources from Section A.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 2 Section A reading practice questions](/resources/oxfordaqa-igcse-english-language-9270-section-a-reading-practice/)
 - [Paper 2 revision notes](/resources/igcse-oxfordaqa-english-language-paper-2-revision-notes/)

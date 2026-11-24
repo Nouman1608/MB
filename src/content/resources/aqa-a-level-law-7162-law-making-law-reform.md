@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -142,6 +142,6 @@ Removing obsolete and unnecessary laws. The Commission prepares **Statute Law (R
 
 For **explain** questions, define each function and give a specific example. For **discuss** or **evaluate**, weigh independence and expertise against dependence on government, using implemented and unimplemented reports, and conclude on how effective reform through the Commission is.
 
-## Next steps
+## More on this topic
 
 Revise with the [Law Reform revision notes](/resources/aqa-a-level-law-7162-law-making-law-reform-revision-notes/) and test yourself with the [Law Reform practice questions](/resources/aqa-a-level-law-7162-law-making-law-reform-practice/). The Commission's place among influences on Parliament is covered in [Parliamentary Law Making](/resources/aqa-a-level-law-7162-law-making-parliamentary-law-making/).

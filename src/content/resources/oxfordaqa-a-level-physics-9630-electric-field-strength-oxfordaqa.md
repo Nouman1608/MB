@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ E at 0.50 m = 4.5 × 10⁴ × (0.20/0.50)² = **7.2 × 10³ N C⁻¹**.
 - **Calculate** a trajectory: list the steps (E, F, a, t, y) and keep unrounded values between them.
 - **Explain** a parabolic path: constant velocity along the plates, constant acceleration across them, as for a projectile.
 
-## Related resources
+## More resources on this topic
 
 - [Electric field strength revision notes](/resources/oxfordaqa-a-level-physics-9630-electric-field-strength-oxfordaqa-revision-notes/)
 - [Electric field strength practice questions](/resources/oxfordaqa-a-level-physics-9630-electric-field-strength-oxfordaqa-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ A negative gradient means the y-quantity is decreasing. Always state the units w
 11. The change in x is 0, and **you cannot divide by 0**
 12. –1.8/1.2 = **–1.5**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [gradient of linear graphs study guide](/resources/cambridge-igcse-mathematics-0580-gradient-of-linear-graphs/).
 - Practise with the [gradient practice questions](/resources/cambridge-igcse-mathematics-0580-gradient-of-linear-graphs-practice/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ N₂(g) + 2O₂(g) → N₂O₄(g)        ΔH = +9
 - Reversing an equation without changing the sign.
 - Unlabelled cycle arrows, or arrows pointing the wrong way.
 
-## Next steps
+## More on this topic
 
 - [Hess's law study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-4-3/)
 - [Hess's law revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-4-3-revision-notes/)

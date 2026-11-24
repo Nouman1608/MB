@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -184,7 +184,7 @@ Credit balances: sales 68,400; purchases returns 760; trade payables 4,350; loan
 - Not carrying a change in profit into capital on the statement of financial position.
 - Leaving out a line in the suspense account, so it does not clear.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/igcse-accounting-the-trial-balance-and-correction-of-errors-revision-notes/) and the [study guide](/resources/igcse-accounting-the-trial-balance-and-correction-of-errors/).
 - Practise the rest of the topic in the [earlier verification practice set](/resources/igcse-accounting-verification-practice/).

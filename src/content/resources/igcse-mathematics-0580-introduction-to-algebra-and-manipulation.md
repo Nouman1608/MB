@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers sections **2.1 Introduction to algebra** and **2.2 Algebraic manipulation** of the Cambridge IGCSE Mathematics 0580 syllabus for examination in 2025, 2026 and 2027. Sections C2.1/E2.1 and outcomes 1–3 of C2.2/E2.2 are the same for Core and Extended. Outcomes 4 and 5 of E2.2 (factorising five special forms, and completing the square) are **Extended only**. Core candidates take Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates take Paper 2 (non-calculator) and Paper 4 (calculator). This algebra is tested on both papers of your tier, including the non-calculator one, so you need to do it by hand.
@@ -377,7 +377,7 @@ The −2 multiplies both terms, so −2(x − 4) = −2x + 8. Losing the sign on
 **Can you collect 3x² + 2x into one term?**
 No. 3x² and 2x are unlike terms because the powers of x differ, so they cannot be combined into 5x³.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [Algebra and graphs practice questions](/resources/igcse-mathematics-algebra-and-graphs-practice/), then the [Extended algebra practice](/resources/igcse-mathematics-algebra-extended-practice/) if you are taking Papers 2 and 4. Use the [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/) for quick recall, and the [Core diagnostic](/practice/0580/diagnostic/core/) or [Extended diagnostic](/practice/0580/diagnostic/extended/) to see which other resources for syllabus 0580 to work on next.
 

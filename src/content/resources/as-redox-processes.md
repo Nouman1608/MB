@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -198,7 +198,7 @@ Find the change in oxidation number for the element oxidised and the element red
 **How do you spot a disproportionation reaction?**
 Check the oxidation number of the element in every product. If the same element is both oxidised and reduced, the reaction is disproportionation, even if the products look like normal salts.
 
-## Related resources
+## More resources on this topic
 
 - [Redox Reactions](/resources/redox-reactions/) — the IGCSE/O Level oxidation-number rules and Core/Supplement treatment this resource builds on
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle](/resources/as-chemical-equilibria/) — the Contact process, itself a redox reaction run reversibly

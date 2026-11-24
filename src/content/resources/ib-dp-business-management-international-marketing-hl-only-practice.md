@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Analyse three threats that Gallowby faces in this plan. **[6]**
 - Recommending an option with no stated reason or condition.
 - Giving an "evaluate" answer with one side only.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-business-management-international-marketing-hl-only-revision-notes/) and the [study guide](/resources/ib-dp-business-management-international-marketing-hl-only/).
 - Open the [IB DP Business Management hub](/boards/ib/ib-dp/business/) and the [syllabus checklist](/checklists/ib/ib-dp/business/).

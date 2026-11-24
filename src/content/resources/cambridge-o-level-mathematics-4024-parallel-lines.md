@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -210,7 +210,7 @@ A line parallel to the x-axis through (a, b) is y = b. A line parallel to the y-
 - **Show that** two lines are parallel: calculate both gradients and state that they are equal.
 - Always test your answer by substituting the given point into the final equation.
 
-## Next steps
+## More on this topic
 
 Try the [parallel lines practice questions](/resources/cambridge-o-level-mathematics-4024-parallel-lines-practice/) and then recap with the [parallel lines revision notes](/resources/cambridge-o-level-mathematics-4024-parallel-lines-revision-notes/).
 

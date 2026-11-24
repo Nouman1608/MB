@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -146,6 +146,6 @@ Condensed notes on **Nature of law: law and morality** in AQA A-level Law (7162)
 
 **Answers:** 1. Any three: source (state versus religion or conscience), certainty, enforcement (sanctions versus disapproval), speed of change, scope. 2. A society of many moral outlooks; there is no shared code, so enforcing one view imposes it on others. 3. Driving on the left, or company registration rules. 4. Lying to a friend, breaking a non-contractual promise, or failing to rescue a stranger. 5. That it is not true law but a corruption of law. 6. Law is valid because of how it was made; its morality is a separate question. 7. Any three: general, public, prospective, clear, non-contradictory, possible to obey, stable, applied as announced. 8. Power can rightly be exercised over a person against their will only to prevent harm to others. 9. Whether the reasonable person would regard it with intolerance, indignation and disgust. 10. In *Wilson* consensual branding between spouses led to no liability, while in *Brown* consensual sadomasochistic injury was criminal; critics see the distinction as a moral judgement about the relationship. 11. The Supreme Court treated the moral question of assisted suicide as primarily for Parliament, showing judicial restraint. 12. It abolished the crime of suicide but kept assisting suicide as an offence, withdrawing moral enforcement against the individual while protecting the vulnerable.
 
-## Related resources
+## More resources on this topic
 
 [Law and Morality study guide](/resources/aqa-a-level-law-7162-nature-of-law-law-and-morality/) | [Law and Morality practice questions](/resources/aqa-a-level-law-7162-nature-of-law-law-and-morality-practice/) | [Law and Justice revision notes](/resources/aqa-a-level-law-7162-nature-of-law-law-and-justice-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -177,7 +177,7 @@ Name the specific hazard, say who or what could be harmed and how, and give a co
 **Why must you subtract the background count?**
 The Geiger-Muller tube also records background radiation, so measure the background count rate with the source absent and subtract it. Not stating that background was subtracted is a common reason for lost marks.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques/).
 - Practise planning and analysis in [Development of practical skills practice](/resources/ocr-a-level-physics-practical-skills-practice/).

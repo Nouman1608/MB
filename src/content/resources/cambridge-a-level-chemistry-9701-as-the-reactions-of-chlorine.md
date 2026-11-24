@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ The cold-alkali reaction is the water reaction with the acids neutralised: HCl a
 - **Recognise**: name the reaction type, disproportionation, and justify it.
 - **Explain** (water purification): give both equations and name HOCl and ClO⁻ as the species that kill bacteria.
 
-## Related resources
+## More resources on this topic
 
 - [The reactions of chlorine: revision notes](/resources/cambridge-a-level-chemistry-9701-as-the-reactions-of-chlorine-revision-notes/)
 - [The reactions of chlorine: practice questions](/resources/cambridge-a-level-chemistry-9701-as-the-reactions-of-chlorine-practice/)

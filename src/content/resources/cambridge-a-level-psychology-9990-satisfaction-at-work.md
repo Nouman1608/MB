@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus asks for Blau and Boal's types of absence; this page describes the four commitment categories and absence only in general terms, so please check and add the named absence types if a teacher can confirm them."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus asks for Blau and Boal's types of absence; this page describes the four commitment categories and absence only in general terms, so please check and add the named absence types if a teacher can confirm them. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,7 +174,7 @@ The model predicts that the category affects how much absence occurs and why. In
 
 **Describe** questions on theories should include both parts (hygiene and motivators; characteristics and states). **Evaluate** using the syllabus issues: cultural differences and reductionism for 4.5.1; psychometrics, validity and reliability for 4.5.2; individual and situational explanations for 4.5.3. **Suggest** questions should name a technique and link it to the theory that predicts it will work.
 
-## Related resources
+## More resources on this topic
 
 - [Satisfaction at work revision notes](/resources/cambridge-a-level-psychology-9990-satisfaction-at-work-revision-notes/)
 - [Satisfaction at work practice questions](/resources/cambridge-a-level-psychology-9990-satisfaction-at-work-practice/)

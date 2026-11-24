@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ These questions cover section 3.1.8 Inorganic ions of the AQA AS and A-level Bio
 - Giving only DNA when asked for molecules containing phosphate.
 - Naming the ion without stating its role in the context.
 
-## Next steps
+## More on this topic
 
 - [3.1.8 study guide](/resources/aqa-a-level-biology-7402-inorganic-ions/)
 - [3.1.8 revision notes](/resources/aqa-a-level-biology-7402-inorganic-ions-revision-notes/)

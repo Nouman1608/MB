@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -175,7 +175,7 @@ strong cross-links between chains, so they do not melt."
 | Reinforced concrete | Strong in compression and tension for buildings |
 | Plywood | Strong across the sheet, does not split easily |
 
-## Next steps
+## More on this topic
 
 - [Using materials study guide](/resources/aqa-gcse-chemistry-8462-using-materials/)
 - [Using materials practice questions](/resources/aqa-gcse-chemistry-8462-using-materials-practice/)

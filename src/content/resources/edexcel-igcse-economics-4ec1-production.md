@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Use "tends to" in answers. A country rich in oil or minerals may keep a large pr
 - **Explain:** a cause of structural change plus two developments, such as rising incomes → demand for services rises → firms and jobs move to the tertiary sector.
 - **Assess:** weigh the pattern against exceptions using the data given.
 
-## Next steps
+## More on this topic
 
 Condense this with the [production revision notes](/resources/edexcel-igcse-economics-4ec1-production-revision-notes/), then apply it in the [production practice questions](/resources/edexcel-igcse-economics-4ec1-production-practice/). The next section, [productivity and division of labour](/resources/edexcel-igcse-economics-4ec1-productivity-and-division-of-labour/), looks at how the factors can be made to produce more.
 

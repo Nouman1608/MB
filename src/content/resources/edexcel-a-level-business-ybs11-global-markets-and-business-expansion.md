@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ Compared with setting up alone, these routes are faster and can be cheaper, but 
 
 For **explain** questions, give one factor and develop it with evidence from the source, such as a wage rate, an incentive or a political risk. For **analyse**, link cause and effect: "lower wages cut unit costs, but poor infrastructure raises transport costs, so the net saving is smaller". For **discuss** and **assess**, compare options (for instance exporting, FDI or a joint venture), weigh risk, cost and control, and judge in terms of the firm's resources and the market's stability.
 
-## Related resources
+## More resources on this topic
 
 - [Global markets and business expansion revision notes](/resources/edexcel-a-level-business-ybs11-global-markets-and-business-expansion-revision-notes/)
 - [Global markets and business expansion practice questions](/resources/edexcel-a-level-business-ybs11-global-markets-and-business-expansion-practice/)

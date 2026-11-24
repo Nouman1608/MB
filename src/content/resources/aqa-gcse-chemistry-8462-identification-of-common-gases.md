@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -198,7 +198,7 @@ the gas.*
   (4.6.1: collecting gas) and **ion tests** (4.8.3: carbonates).
 - Knowing the products of each reaction helps you predict the gas before you test it.
 
-## Next steps
+## More on this topic
 
 - [Identification of common gases revision notes](/resources/aqa-gcse-chemistry-8462-identification-of-common-gases-revision-notes/)
 - [Identification of common gases practice questions](/resources/aqa-gcse-chemistry-8462-identification-of-common-gases-practice/)

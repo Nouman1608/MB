@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -179,7 +179,7 @@ recorded, so the link is broken.
 9. Two people could have the same name, so it may not be unique.
 10. Each fact is stored once in its own table and other tables refer to it with a key, so it is not repeated.
 
-## Related resources
+## More resources on this topic
 
 - [Relational databases study guide](/resources/oxfordaqa-igcse-computer-science-9210-relational-databases/)
 - [Relational databases practice questions](/resources/oxfordaqa-igcse-computer-science-9210-relational-databases-practice/)

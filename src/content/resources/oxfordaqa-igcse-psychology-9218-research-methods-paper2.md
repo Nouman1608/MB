@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -217,7 +217,7 @@ human characteristics, such as height, are roughly normally distributed.
 - Calculating the median without putting the scores in order first.
 - Saying qualitative data is always better or always worse; each has different strengths.
 
-## Related resources
+## More resources on this topic
 
 - [Research Methods (Paper 2) revision notes](/resources/oxfordaqa-igcse-psychology-9218-research-methods-paper2-revision-notes/)
 - [Research Methods (Paper 2) practice questions](/resources/oxfordaqa-igcse-psychology-9218-research-methods-paper2-practice/)

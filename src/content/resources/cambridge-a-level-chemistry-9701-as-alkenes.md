@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ solution rapidly. An alkane leaves it orange (it reacts with bromine only in UV 
 - **Deduce** the alkene from oxidation products: identify each end separately, then join them.
 - **Describe** a test: reagent, conditions and the observation for both possible results.
 
-## Next steps
+## More on this topic
 
 - Recall tables and self-test: [Alkenes revision notes](/resources/cambridge-a-level-chemistry-9701-as-alkenes-revision-notes/)
 - Exam-style questions with full answers: [Alkenes practice questions](/resources/cambridge-a-level-chemistry-9701-as-alkenes-practice/)

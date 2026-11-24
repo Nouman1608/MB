@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ Respiration is also accepted as an alternative: the robot has no cells, so no ch
 - Describing the trend in a table without quoting figures and units.
 - Concluding "not alive" without naming a characteristic that is missing.
 
-## Next steps
+## More on this topic
 
 - Re-read the [characteristics of living organisms study guide](/resources/cambridge-igcse-biology-0610-characteristics-of-living-organisms/).
 - Move on to [classification systems practice questions](/resources/cambridge-igcse-biology-0610-concept-and-uses-of-classification-systems-practice/).

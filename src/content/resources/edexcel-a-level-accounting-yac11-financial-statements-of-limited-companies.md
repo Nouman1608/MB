@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -185,7 +185,7 @@ Why it matters: past profit that came from a discontinued division will not recu
 - For **evaluate**, consider benefits and limits of audit (cost, sampling, dependence on information) and reach a judgement.
 - Use the exact word "true and fair" when describing an auditor's opinion.
 
-## Related resources
+## More resources on this topic
 
 [Limited companies revision notes](/resources/edexcel-ial-accounting-limited-companies-revision-notes/) |
 [Financial statements of limited companies practice questions](/resources/edexcel-a-level-accounting-yac11-financial-statements-of-limited-companies-practice/) |

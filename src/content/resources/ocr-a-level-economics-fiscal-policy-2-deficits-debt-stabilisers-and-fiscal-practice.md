@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ These questions cover the second half of Fiscal policy in the OCR A Level Econom
 - Evaluating fiscal rules with a single sentence such as "they can be broken".
 - Leaving out the context, such as the stage of the cycle.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal/).
 - Open the [OCR Economics hub](/boards/ocr/a-level/economics/) and tick off the [checklist](/checklists/ocr/a-level/economics/).

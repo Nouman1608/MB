@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sub-topic 3(a), **Reproduction** (specification points 3.1–3.13), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Point 3.10B is bold with a **B** reference in the specification and is examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.
@@ -370,7 +370,7 @@ Pubic and underarm hair grows in many people of all sexes; adrenal androgens con
 - Saying oestrogen maintains the lining. Oestrogen repairs and thickens it; progesterone maintains it.
 - Naming FSH or LH as made by the ovary. Both come from the pituitary gland (Paper 2 only content).
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/edexcel-igcse-biology-4bi1-reproduction-revision-notes/), then the [practice questions](/resources/edexcel-igcse-biology-4bi1-reproduction-practice/).
 

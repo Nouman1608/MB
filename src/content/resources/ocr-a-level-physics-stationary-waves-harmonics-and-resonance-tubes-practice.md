@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -179,7 +179,7 @@ Mention reflection, so that two progressive waves of the same frequency and simi
 **Which harmonic is the second resonance in a resonance tube?**
 The tube is closed at the water surface, so the first resonance is the fundamental and the second is the 3rd harmonic. Closed tubes have no even harmonics.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes/).
 - Return to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick items off the [checklist](/checklists/ocr/a-level/physics/).

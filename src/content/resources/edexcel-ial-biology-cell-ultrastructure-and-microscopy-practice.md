@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -156,7 +156,7 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 - Drawings with shading, crossing label lines or no magnification.
 - Using one graticule calibration for every objective lens.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-biology-cell-ultrastructure-and-microscopy-revision-notes/) and the [study guide](/resources/edexcel-ial-biology-cell-ultrastructure-and-microscopy/).
 - Visit the [Edexcel A Level Biology hub](/boards/edexcel/a-level/biology/) and tick off topics on the [checklist](/checklists/edexcel/a-level/biology/).

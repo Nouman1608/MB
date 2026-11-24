@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -162,7 +162,7 @@ The [patient–practitioner relationship study guide](/resources/cambridge-a-lev
 11. An external reward, such as money, time off work or avoiding duty.
 12. One person cannot be generalised from, and records may be unreliable because the patient lies about their history.
 
-## Related resources
+## More resources on this topic
 
 - [The patient–practitioner relationship study guide](/resources/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship/)
 - [The patient–practitioner relationship practice questions](/resources/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship-practice/)

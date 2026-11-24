@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ then 9.0 = 4.5 + 4.5 I₂   →   I₂ = 1.0 A,   I₃ = 4.0 A
 - **Derive** or **show that**: name which law gives "same current" or "same p.d.", write the sum, and divide through.
 - **Calculate** or **determine**: label currents on the diagram (or describe them), write one junction equation and enough loop equations, solve, then check with a loop you have not used.
 
-## Related resources
+## More resources on this topic
 
 - [D.C. circuits study guide](/resources/as-physics-dc-circuits/) — the whole of Topic 10
 - [Kirchhoff's laws revision notes](/resources/cambridge-a-level-physics-9702-as-kirchhoffs-laws-revision-notes/)

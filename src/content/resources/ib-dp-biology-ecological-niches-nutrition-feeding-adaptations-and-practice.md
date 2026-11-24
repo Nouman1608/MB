@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ These questions cover sub-topic B4.2, Ecological niches (statements B4.2.1 to B4
 - Forgetting that dentition is an inference, not proof of diet.
 - Calculating percentage change without the direction.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and/) for any gaps.
 - Condense with the [revision notes](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and-revision-notes/).

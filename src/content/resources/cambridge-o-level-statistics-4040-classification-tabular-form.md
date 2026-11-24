@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -174,7 +174,7 @@ To compare the two age groups, convert each row to percentages of its own row to
 - **Compare**: quote figures from both groups and use a percentage or proportion when group sizes differ.
 - **Criticise a table**: name the specific fault (overlap at 20; no class above 60; no unit).
 
-## Next steps
+## More on this topic
 
 Condense the method with the [revision notes on classification and tables](/resources/cambridge-o-level-statistics-4040-classification-tabular-form-revision-notes/), then work through the [practice questions on classification and tables](/resources/cambridge-o-level-statistics-4040-classification-tabular-form-practice/). Turning tables into diagrams is the subject of [representation in pictorial or diagrammatic form](/resources/cambridge-o-level-statistics-4040-representation-pictorial-diagrammatic/).
 

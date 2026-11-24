@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ No. Only temperature changes Kp; a catalyst affects how fast equilibrium is reac
 **How should temperature effects on Kp be explained?**
 Name the endothermic or exothermic direction and say which way the equilibrium shifts. Explanations that never name the direction lose marks.
 
-## Next steps
+## More on this topic
 
 - Recheck formulas in the [Kp revision notes](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes/).
 - Reread the worked examples in the [Kp study guide](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems/).

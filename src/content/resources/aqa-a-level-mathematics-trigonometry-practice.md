@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -194,7 +194,7 @@ Expand R cos(x − α), match coefficients so that R cos α = a and R sin α = b
 **Which part of AQA A-level Maths covers trigonometry?**
 Section E: Trigonometry (E1 to E9) of the AQA 7357 specification covers radians, small angle approximations, graphs and exact values, reciprocal and inverse functions, identities, R-form, equations, proof and trigonometry in context.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Trigonometry revision notes](/resources/aqa-a-level-mathematics-trigonometry-revision-notes/).
 - Re-read any weak section in the [Trigonometry study guide](/resources/aqa-a-level-mathematics-trigonometry/).

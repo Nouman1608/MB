@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -113,7 +113,7 @@ Evaluate which proposal the owner should choose. **[10]**
 - Evaluation questions answered with no judgement, no criterion or no condition.
 - Ignoring the numbers in the case study when they are plainly relevant.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-business-choosing-strategic-direction-revision-notes/) and the [study guide](/resources/aqa-a-level-business-choosing-strategic-direction/).
 - Use the [checklist](/checklists/aqa/a-level/business/) and the [course hub](/boards/aqa/a-level/business/).

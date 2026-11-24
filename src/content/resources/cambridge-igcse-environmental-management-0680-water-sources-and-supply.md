@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -196,6 +196,6 @@ A reservoir holds 12 million m³ of water. A town uses 40,000 m³ a day. (Figure
 
 **Describe and interpret** the water cycle: name stores and transfers precisely. **Compare** availability: use "whereas" and give a reason for each difference. **Discuss** desalination or dams: benefits and limitations linked to the place in the source, then a judgement.
 
-## Next steps
+## More on this topic
 
 Revise with the [Water sources and supply revision notes](/resources/cambridge-igcse-environmental-management-0680-water-sources-and-supply-revision-notes/) and practise with the [Water sources and supply practice questions](/resources/cambridge-igcse-environmental-management-0680-water-sources-and-supply-practice/). For the whole of Topic 3, see the [Water study guide](/resources/igcse-cambridge-environmental-management-water/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,6 +185,6 @@ When a relatively large fraction of the acid dissociates, for example with a ver
 **Why does Ka have units of mol dm⁻³?**
 Its expression has two concentrations multiplied on top and one below, so (mol dm⁻³)² ÷ mol dm⁻³ leaves mol dm⁻³.
 
-## Next steps
+## More on this topic
 
 Revise the key facts with the [weak acids and Ka revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-4-revision-notes/), then test yourself with the [weak acids and Ka practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-4-practice/). The next points in the section, [pH curves, titrations and indicators](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-5/) and [buffer action](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-6/), both build on Ka.

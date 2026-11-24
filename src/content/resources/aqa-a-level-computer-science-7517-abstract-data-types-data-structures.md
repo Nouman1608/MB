@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ All four keys hash to slot 1, so each insertion takes longer than the last: **cl
 - **Explain an advantage**: give the consequence ("no memory is wasted on unused slots").
 - **Describe creation and maintenance**: initial pointer values, the tests before each operation, and how pointers change.
 
-## Related resources
+## More resources on this topic
 
 - [Abstract data types revision notes](/resources/aqa-a-level-computer-science-7517-abstract-data-types-data-structures-revision-notes/)
 - [Abstract data types practice questions](/resources/aqa-a-level-computer-science-7517-abstract-data-types-data-structures-practice/)

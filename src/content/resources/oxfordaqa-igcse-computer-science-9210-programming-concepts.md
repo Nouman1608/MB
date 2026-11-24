@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -227,7 +227,7 @@ Names like `x`, `a2` or `temp` force the reader to work out their purpose from h
 - When tracing nested loops, add a column for each loop counter and complete the inner loop fully before moving
   the outer counter on.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [programming concepts revision notes](/resources/oxfordaqa-igcse-computer-science-9210-programming-concepts-revision-notes/)
 and apply it in the [programming concepts practice questions](/resources/oxfordaqa-igcse-computer-science-9210-programming-concepts-practice/).

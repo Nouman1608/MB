@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Naming a stakeholder is not enough; say what each one looks for in the accounts 
 **How do I earn full marks when assessing a recommendation?**
 Use your calculated figures, cover every area the question names, such as stakeholders, the economy and the environment, and end with a final, conditional judgement.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-revision-notes/)
 - [Study guide for this topic](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info/)

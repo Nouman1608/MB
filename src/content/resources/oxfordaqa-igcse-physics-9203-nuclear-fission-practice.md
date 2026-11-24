@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ D: hydrogen-2
 - Stating "a lot of energy" without comparing with a chemical reaction of similar mass.
 - Writing a one-sided evaluation.
 
-## Next steps
+## More on this topic
 
 - Revise with the [fission revision notes](/resources/oxfordaqa-igcse-physics-9203-nuclear-fission-revision-notes/).
 - Re-read the [fission study guide](/resources/oxfordaqa-igcse-physics-9203-nuclear-fission/).

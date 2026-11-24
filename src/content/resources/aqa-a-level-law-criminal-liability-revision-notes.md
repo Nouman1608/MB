@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -160,7 +160,7 @@ Not exactly. A strict liability offence removes the need to prove mens rea for a
 **How should you lay out a timed criminal liability answer?**
 Label each element as you address it, such as actus reus, mens rea, doctrine and conclusion, so the structure is visible rather than blurred in continuous prose.
 
-## Related resources
+## More resources on this topic
 
 [General Elements of Liability study guide](/resources/a-level-aqa-law-general-elements-of-criminal-liability/) |
 [General Elements of Liability practice questions](/resources/aqa-a-level-law-criminal-liability-practice/)

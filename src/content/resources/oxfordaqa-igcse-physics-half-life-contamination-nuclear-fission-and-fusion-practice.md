@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -145,7 +145,7 @@ These questions follow the OxfordAQA International GCSE Physics (9203) specifica
 - Saying control rods stop the reaction, rather than keeping it at one neutron per fission.
 - Giving temperature and pressure for fusion without the repulsion between positive nuclei.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion/).
 - Tick off the topics on the [printable checklist](/checklists/oxfordaqa/igcse/physics/) and visit the [course hub](/boards/oxfordaqa/igcse/physics/).

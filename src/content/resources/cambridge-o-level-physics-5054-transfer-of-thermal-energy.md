@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -209,7 +209,7 @@ energy to a room by convection, so its colour matters less than its position and
 **Does an infrared thermometer send out radiation?** No. It detects infrared radiation emitted by
 the object.
 
-## Related resources
+## More resources on this topic
 
 - [Transfer of thermal energy revision notes](/resources/cambridge-o-level-physics-5054-transfer-of-thermal-energy-revision-notes/)
 - [Transfer of thermal energy practice questions](/resources/cambridge-o-level-physics-5054-transfer-of-thermal-energy-practice/)

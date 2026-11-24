@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ These questions cover section 1.3.3, Marketing mix and strategy, in Unit 1 (Mark
 - Ending an evaluation with no decision, or a decision that ignores the facts of the case.
 - Treating a shorter channel as only a benefit and forgetting the extra tasks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-ial-business-marketing-mix-and-strategy-revision-notes/) and the [study guide](/resources/edexcel-ial-business-marketing-mix-and-strategy/).
 - Tick off the topic on the [checklist](/checklists/edexcel/a-level/business/) and return to the [course hub](/boards/edexcel/a-level/business/).

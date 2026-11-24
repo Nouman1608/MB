@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ The points lie on a straight line through the origin with gradient 0.60 ÷ 0.050
 - **"Plot"**: label axes with quantity and unit, choose a sensible scale, and draw one best-fit line.
 - **"What can you conclude"**: state the conclusion and quote the evidence; say what the data cannot show.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [1.1.3 revision notes](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-1-3-revision-notes/)
 - Test yourself: [1.1.3 practice questions](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-1-3-practice/)

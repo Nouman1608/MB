@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ These questions cover Productive and allocative efficiency, Market failure and E
 - Treating monopoly as always worse without considering scale economies or dynamic gains.
 - Leaving out units, such as thousands of units and £ thousand.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure/)
 - Course hub: [OCR A Level Economics](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/)

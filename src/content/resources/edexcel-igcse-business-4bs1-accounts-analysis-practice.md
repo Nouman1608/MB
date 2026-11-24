@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Analyse one concern these figures would raise for a supplier deciding whether to
 - Saying a ratio is weak without comparing it with a previous year or rival.
 - Giving a judgement on performance that ignores liquidity, or one that ignores profitability.
 
-## Next steps
+## More on this topic
 
 - Re-read the [accounts analysis study guide](/resources/edexcel-igcse-business-4bs1-accounts-analysis/) for the full interpretation.
 - Revisit the statements in the [financial documents practice questions](/resources/edexcel-igcse-business-4bs1-financial-documents-practice/).

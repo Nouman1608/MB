@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ Related: the [Market research study guide](/resources/cambridge-o-level-business
 - Failing to explain why the sample in question 11 is unrepresentative, rather than just "too small".
 - Defining secondary research as "free".
 
-## Next steps
+## More on this topic
 
 Review sampling and accuracy in the [Market research study guide](/resources/cambridge-o-level-business-7115-market-research/), then try the [Achieving quality production practice questions](/resources/cambridge-o-level-business-7115-achieving-quality-production-practice/).
 

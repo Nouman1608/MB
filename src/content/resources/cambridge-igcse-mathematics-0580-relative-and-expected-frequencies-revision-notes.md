@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ Sample: 18 of 120 left-handed; school of 950  →  0.15 × 950 = 142.5 ≈ 143 l
 11. 12/80 = 0.15; 0.15 × 6000 = **900**
 12. Every outcome is **equally likely**.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [relative and expected frequencies study guide](/resources/cambridge-igcse-mathematics-0580-relative-and-expected-frequencies/).
 - Revise single-event probability with the [introduction to probability revision notes](/resources/cambridge-igcse-mathematics-0580-introduction-to-probability-revision-notes/).

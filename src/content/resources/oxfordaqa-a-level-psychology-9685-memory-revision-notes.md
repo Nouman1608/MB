@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -172,7 +172,7 @@ Explanations of forgetting are not listed in this section.
 
 **Answers:** 1. Mainly acoustic; about 7 plus or minus 2 items; about 18-30 seconds without rehearsal. 2. They had participants count backwards in threes. 3. STM codes mainly acoustically and LTM mainly semantically. 4. KF had impaired verbal STM but better visual STM, so STM seems to have separate components. 5. The phonological store and the articulatory process. 6. More short words than long words are recalled; the loop holds about two seconds of speech. 7. To explain how information from different components and LTM is combined into single episodes. 8. Tasks using the same component interfere; tasks using different components do not. 9. Episodic is personal experience tied to time and place; semantic is general knowledge. 10. 40.5 mph and 31.8 mph. 11. 71% of witnesses who discussed the event reported details they had not seen, against 0% of controls. 12. Cues present when the memory was formed help retrieval.
 
-## Related resources
+## More resources on this topic
 
 - [Memory study guide](/resources/oxfordaqa-a-level-psychology-9685-memory/)
 - [Introductory topics revision notes](/resources/oxfordaqa-a-level-psychology-revision-notes/)

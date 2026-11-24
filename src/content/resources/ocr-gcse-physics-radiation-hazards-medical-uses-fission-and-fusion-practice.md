@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specificat
 - Leaving out the neutron that starts fission, or the neutrons that continue the chain.
 - Writing a bare "it balances" for a conservation check without both totals.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion-revision-notes/)
 - [Study guide](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion/)

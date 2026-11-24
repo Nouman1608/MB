@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 9, Gas exchange, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers the single section 9.1 The gas exchange system, learning outcomes 1 to 7. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content. The microscope skills in this topic also connect to the practical papers.
@@ -226,7 +226,7 @@ The oxygen gradient almost disappears by the end of the capillary: blood has nea
 - Describing the alveolar wall as "one cell thick" without saying the capillary wall is also one cell thick.
 - Drawing cells or shading in a plan diagram.
 
-## Next steps
+## More on this topic
 
 - Recall drills and a self-test: [Gas exchange revision notes](/resources/a-level-biology-9700-gas-exchange-revision-notes/)
 - Original exam-style questions: [Gas exchange practice](/resources/a-level-biology-9700-gas-exchange-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ These questions cover section 3.13.6, Data communication systems, of the AQA AS 
 - Forgetting synchronisation bits or the number of channels in TDM.
 - Recommending a medium without a reason.
 
-## Next steps
+## More on this topic
 
 - Recap with the [data communication systems revision notes](/resources/aqa-a-level-physics-7408-data-communication-systems-revision-notes/).
 - Re-read the [data communication systems study guide](/resources/aqa-a-level-physics-7408-data-communication-systems/).

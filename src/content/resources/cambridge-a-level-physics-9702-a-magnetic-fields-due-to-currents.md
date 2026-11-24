@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ When a large current is switched on in a loosely wound solenoid (a "slinky" spri
 - **Determine** (the direction): give the field direction of one wire at the other, then apply the left-hand rule, and state that the forces are equal and opposite.
 - **Suggest** (why a core is soft iron): it is magnetised strongly while the current flows and loses its magnetism when the current stops.
 
-## Related resources
+## More resources on this topic
 
 - [Magnetic Fields study guide](/resources/a-physics-magnetic-fields/) — the whole of Topic 20
 - [Magnetic fields due to currents revision notes](/resources/cambridge-a-level-physics-9702-a-magnetic-fields-due-to-currents-revision-notes/)

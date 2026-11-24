@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -206,7 +206,7 @@ Pearson Edexcel International Advanced Subsidiary/Advanced Level
 Mathematics (YMA01) specification, Issue 3 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Mathematics/2018/Specification-and-Sample-Assessment/international-a-level-maths-spec.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Unit P1: Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/)
   — the first compulsory Pure Mathematics unit of YMA01, a prerequisite

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -161,6 +161,6 @@ If percentages are shown, they should add up for each stage. Roughly 30% of inco
 
 **State** and **name** questions on layers and composition need exact terms and figures. **Define** questions on climate need the syllabus phrase. **Describe** the natural greenhouse effect is marked by steps, so write one sentence per step. In calculation questions, show the percentage working and give units, such as cm³ or degrees.
 
-## Next steps
+## More on this topic
 
 Revise with the [atmosphere revision notes](/resources/cambridge-igcse-environmental-management-0680-the-atmosphere-revision-notes/) and test yourself with the [atmosphere practice questions](/resources/cambridge-igcse-environmental-management-0680-the-atmosphere-practice/). The next sub-topic, the [climate change study guide](/resources/cambridge-igcse-environmental-management-0680-climate-change/), builds directly on the greenhouse effect.

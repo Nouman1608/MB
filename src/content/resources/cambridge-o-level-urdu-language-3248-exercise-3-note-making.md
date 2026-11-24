@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that the original Urdu article, the headings and every example note on this page are correct and natural."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that the original Urdu article, the headings and every example note on this page are correct and natural. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -179,7 +179,7 @@ notes are accurate, most of the selection work for the summary is already done.
 - Check each note against its heading: "is this really a benefit / difficulty / piece of advice?"
 - Keep moving: Exercise 3 is 9 of the paper's 50 marks, and Exercise 5 carries 14.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 3 Note-making: revision notes](/resources/cambridge-o-level-urdu-language-3248-exercise-3-note-making-revision-notes/)
 - [Exercise 3 Note-making: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-3-note-making-practice/)

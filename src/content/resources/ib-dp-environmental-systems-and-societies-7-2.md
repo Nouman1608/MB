@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.2 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.2 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Savings can be partly cancelled by the **rebound effect**: when a service become
 - **Evaluate** an energy strategy: emissions, cost, reliability, security, social acceptance and wider environmental impact, then a judgement for the country in the question.
 - **To what extent** questions on a transition: consider the timescale, who gains and who loses, and the value systems behind each option.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [7.2 revision notes](/resources/ib-dp-environmental-systems-and-societies-7-2-revision-notes/), then try the [7.2 practice questions](/resources/ib-dp-environmental-systems-and-societies-7-2-practice/). Links to emissions and climate policy are in the [Topic 6 study guide](/resources/ib-dp-ess-atmosphere-climate-change-ozone/).
 

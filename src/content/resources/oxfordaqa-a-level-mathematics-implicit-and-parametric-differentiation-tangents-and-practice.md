@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -140,7 +140,7 @@ Related pages: [study guide](/resources/oxfordaqa-a-level-mathematics-implicit-a
 - Not giving the answer in the form asked.
 - Ignoring the condition that dx/dt must be non-zero for a horizontal tangent.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-implicit-and-parametric-differentiation-tangents-and/) for any method you found hard.
 - Condense it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-implicit-and-parametric-differentiation-tangents-and-revision-notes/).

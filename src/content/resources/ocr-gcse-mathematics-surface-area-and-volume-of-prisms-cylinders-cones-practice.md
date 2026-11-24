@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -121,7 +121,7 @@ Read the [study guide](/resources/ocr-gcse-mathematics-surface-area-and-volume-o
 - Giving a decimal when the question asks for the answer in terms of π.
 - Rounding down on a "how many tins" question when you need to round up.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones/).
 - Tick off the skills on the [OCR GCSE Mathematics checklist](/checklists/ocr/gcse/mathematics/) and see the [course hub](/boards/ocr/gcse/mathematics/).

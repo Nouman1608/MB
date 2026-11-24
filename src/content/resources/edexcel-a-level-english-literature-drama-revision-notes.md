@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -131,7 +131,7 @@ Rather than trying to recall context from memory under exam pressure, build a sh
 
 **Answers:** 1. 25 marks per section, 50 total, over a 2-hour exam. 2. AO1, AO2, AO3, AO5. 3. Pre-1900: usually engaging with original genre conventions (e.g. the morality-play structure of *Doctor Faustus*, Restoration comedy for *The Rover*, Shakespearean tragedy for *Othello*). Post-1900: usually situating the play in its immediate social/political moment. 4. Because AO5 specifically rewards awareness of differing interpretations — an essay that argues only one fixed reading, however well-argued, leaves this objective largely unaddressed. 5. Because drama is written to be performed, not read as prose — meaning is made through staging and performance choices, so analysing them strengthens AO2 (form and structure) responses. 6. Its original performance context (when/where first staged, for what audience) and at least two documented critical or directorial readings that differ from each other.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 2 Drama study guide](/resources/a-level-edexcel-english-literature-drama/)
 - [Unit 2 Drama practice questions](/resources/edexcel-a-level-english-literature-drama-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -307,7 +307,7 @@ Acid rain damages buildings and statues made of limestone, harms trees and plant
 - Saying nitrogen oxides come from nitrogen in the fuel. At GCSE, the nitrogen comes from the air.
 - Unbalanced combustion equations. Check each element before moving on.
 
-## Next steps
+## More on this topic
 
 Go to the [revision notes](/resources/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-revision-notes/) for a condensed version and a quick self-test, then try the [practice questions](/resources/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-practice/) with full mark schemes. To find gaps across the whole course, take one of the [free 10-minute diagnostics](/diagnostics/).
 

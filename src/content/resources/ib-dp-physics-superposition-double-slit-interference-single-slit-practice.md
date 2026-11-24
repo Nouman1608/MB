@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -123,7 +123,7 @@ These questions cover **C.3 Wave phenomena (second half)** in the IB *Physics gu
 - Not explaining coherence in terms of constant phase difference.
 - Giving angles in the wrong order for violet and red.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-dp-physics-superposition-double-slit-interference-single-slit-revision-notes/)
 - [Study guide](/resources/ib-dp-physics-superposition-double-slit-interference-single-slit/)

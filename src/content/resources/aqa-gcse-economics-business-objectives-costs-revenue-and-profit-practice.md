@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ No. A higher price raises profit per unit but may cut sales, so compare total re
 **What should an ethics answer in AQA GCSE Economics include?**
 Say who is harmed and how the firm gains, then weigh both sides and reach a judgement rather than listing points.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-business-objectives-costs-revenue-and-profit-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-business-objectives-costs-revenue-and-profit/).
 - Tick off topics on the [printable checklist](/checklists/aqa/gcse/economics/) and see the [course hub](/boards/aqa/gcse/economics/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -154,7 +154,7 @@ This set covers fiscal policy, section 3.2.4.2 of the OxfordAQA International AS
 - Ignoring the starting position of the economy when judging a stimulus.
 - Ending an evaluation without a conclusion.
 
-## Next steps
+## More on this topic
 
 - Go back over weak points in the [revision notes](/resources/oxfordaqa-a-level-economics-fiscal-policy-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-fiscal-policy/).
 - Tick off what you can do on the [checklist](/checklists/oxfordaqa/a-level/economics/); the [course hub](/boards/oxfordaqa/a-level/economics/) lists related pages.

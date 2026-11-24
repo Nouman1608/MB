@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Data for this set: C = 12.0, H = 1.0, O = 16.0, F = 19.0, Cl = 35.5, Ca = 40.1. 
 - Naming the minor product as the major one in Markownikoff questions.
 - Keeping C=C in a repeat unit or putting a side group into the main chain.
 
-## Next steps
+## More on this topic
 
 - Recap the key facts: [revision notes for 4.1.3](/resources/ocr-a-level-chemistry-alkenes-revision-notes/)
 - Relearn a method: [study guide for 4.1.3](/resources/ocr-a-level-chemistry-alkenes/)

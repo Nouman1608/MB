@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ Set the reaction at the support that is about to lose contact to zero, then take
 **What distance is used when taking moments?**
 Use the perpendicular distance from the pivot to the line of action of the force, not simply the distance along the rod when the force is not at right angles to it.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and-revision-notes/) for the key results and methods.
 - Reread the [study guide](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and/) for the worked examples behind each topic.

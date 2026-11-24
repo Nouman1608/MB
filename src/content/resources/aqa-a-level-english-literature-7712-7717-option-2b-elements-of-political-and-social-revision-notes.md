@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,7 +177,7 @@ Remember: Section C must use two texts you did not use in Section B.
     tavern and the court in *Henry IV Part I*.
 12. No; it was published in 1985, so it can only be the further text.
 
-## Next steps
+## More on this topic
 
 Use the [Option 2B practice questions](/resources/a-level-aqa-english-literature-b-political-and-social-protest-writing-practice/)
 for full unseen and essay practice, and the

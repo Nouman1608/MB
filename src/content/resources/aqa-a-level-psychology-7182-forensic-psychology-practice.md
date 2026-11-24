@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -163,7 +163,7 @@ A crime scene feature describes what is found at the scene, such as evidence lef
 **How are the extended Forensic Psychology questions marked?**
 The real exam marks extended answers with levels of response, not point by point. In applied questions, refer to the person in the scenario throughout to reach the top level.
 
-## Next steps
+## More on this topic
 
 - Check your weak spots with a [free diagnostic](/diagnostics/).
 - Revisit the [study guide](/resources/aqa-a-level-psychology-7182-forensic-psychology/) and the [Approaches practice set](/resources/aqa-a-level-psychology-approaches-practice/) for linked biological and learning ideas, and the [Issues and debates guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/) for determinism and reductionism.

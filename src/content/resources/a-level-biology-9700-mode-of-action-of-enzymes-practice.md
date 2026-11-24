@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Plot volume against time and find the **initial rate** from a tangent at t = 0 [
 - Saying a colorimeter "measures colour" without naming absorbance, the filter, the blank or the calibration curve.
 - Writing "the enzyme is used up" when a reaction stops; the substrate is used up.
 
-## Next steps
+## More on this topic
 
 - [3.1 revision notes](/resources/a-level-biology-9700-mode-of-action-of-enzymes-revision-notes/)
 - [3.1 study guide](/resources/a-level-biology-9700-mode-of-action-of-enzymes/)

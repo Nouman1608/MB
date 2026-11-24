@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Avoid one-sided verdicts. Give a judgement with conditions, such as leakage, tie
 **Which part of AQA 7136 do these questions practise?**
 They practise the content point Economic growth and development: indicators including HDI, barriers to development, policies, and the role of aid and trade.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-economic-growth-and-development-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-economic-growth-and-development/).
 - Visit the [course hub](/boards/aqa/a-level/economics/) and the [printable checklist](/checklists/aqa/a-level/economics/).

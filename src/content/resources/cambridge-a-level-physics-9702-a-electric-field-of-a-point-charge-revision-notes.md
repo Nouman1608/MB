@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Compare two equal like charges: at the midpoint the fields cancel and E = 0.
 
 **Answers:** 1. F = Qq/(4πε₀r²) on test charge q; E = F/q = Q/(4πε₀r²). 2. 8.99 × 10⁹ × 3.0 × 10⁻⁹ ÷ 0.0025 = 1.1 × 10⁴ N C⁻¹, towards the charge. 3. 800/16 = 50 N C⁻¹. 4. r = √(8.99 × 10⁹ × 5.0 × 10⁻⁶ ÷ 2.0 × 10⁵) = 0.47 m. 5. 8.99 × 10⁹ × 2.0 × 10⁻⁸ ÷ 0.010 = 1.8 × 10⁴ N C⁻¹. 6. One ninth: 2.0 × 10³ N C⁻¹. 7. √16/x = √1/(0.50 − x) → 4(0.50 − x) = x → x = 0.40 m from the +16 nC charge. 8. Both fields point towards the negative charge there, so they add. 9. The field obeys an inverse-square law (consistent with a point charge). 10. 8.99 × 10⁹ × 1.60 × 10⁻¹⁹ ÷ 10⁻²⁰ = 1.4 × 10¹¹ N C⁻¹. 11. 5.0 × 10³ N C⁻¹. 12. For the same surface field, Q = 4πε₀R²E increases with R².
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields revision notes](/resources/a-physics-electric-fields-revision-notes/) — the whole of Topic 18
 - [Electric force between point charges revision notes](/resources/cambridge-a-level-physics-9702-a-electric-force-between-point-charges-revision-notes/)

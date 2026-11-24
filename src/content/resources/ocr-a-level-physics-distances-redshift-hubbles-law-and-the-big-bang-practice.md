@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ Describe it as microwave radiation reaching us equally from all directions with 
 **What is the difference between dark matter and dark energy?**
 Dark matter does not emit light but has gravitational effects, such as galaxies rotating faster than visible matter can explain. Dark energy is the name for whatever is making the expansion of the universe accelerate.
 
-## Next steps
+## More on this topic
 
 * Re-read the [study guide](/resources/ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang/) and the [revision notes](/resources/ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang-revision-notes/).
 * Go to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick off the [printable checklist](/checklists/ocr/a-level/physics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -147,6 +147,6 @@ Related: [study guide on thermal properties and temperature](/resources/cambridg
 - Explaining evaporative cooling without the most energetic particles escaping.
 - *(Extended)* Giving the same factor twice when asked for three conditions.
 
-## Next steps
+## More on this topic
 
 Check any gaps in the [study guide on thermal properties and temperature](/resources/cambridge-igcse-physics-0625-thermal-properties-and-temperature/), then try the [practice questions on transfer of thermal energy](/resources/cambridge-igcse-physics-0625-transfer-of-thermal-energy-practice/).

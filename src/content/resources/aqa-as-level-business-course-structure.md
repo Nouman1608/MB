@@ -35,7 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-25
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 An overview of how AQA AS Business (7137) is put together, for students
@@ -175,7 +175,7 @@ Paper 2 focuses on Unit 3.2 plus sections 3.1.1 and 3.1.2, but questions can dra
 **Is the external environment in AQA AS Business 7137?**
 No. Under 7137 and 7138 the external environment has moved into the A-level-only Unit 3.3, so it is no longer part of the AS course, unlike the previous specification 7131.
 
-## Related resources
+## More resources on this topic
 
 - [AQA AS-Level Business: What Is Business? (3.1.1-3.1.2)](/resources/aqa-as-level-business-what-is-business/) — business and objectives, and forms of business and stakeholders
 - [Business subject hub](/subjects/business/)

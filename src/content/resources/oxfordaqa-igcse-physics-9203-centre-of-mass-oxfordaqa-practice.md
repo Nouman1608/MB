@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ These questions cover **3.1.7 Centre of mass** (P), statements a to c, of the Ox
 - Assuming the centre of mass must be inside the material.
 - Placing a suspended object's centre of mass level with the pivot.
 
-## Next steps
+## More on this topic
 
 Revise from the [Centre of mass revision notes](/resources/oxfordaqa-igcse-physics-9203-centre-of-mass-oxfordaqa-revision-notes/), then try the [Moments and levers practice questions](/resources/oxfordaqa-igcse-physics-9203-moments-and-levers-oxfordaqa-practice/).
 

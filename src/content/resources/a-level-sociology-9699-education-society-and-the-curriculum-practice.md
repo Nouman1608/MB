@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ Give arguments against the view in the quotation, as the question asks. Arguing 
 **What are common mistakes in 9699 Education practice questions?**
 Students often give one detailed point when two or three are asked for, ignore the source in source-based questions, and confuse percentages with percentage points.
 
-## Next steps
+## More on this topic
 
 - Check gaps in your knowledge with our [diagnostics](/diagnostics/).
 - Sharpen your evaluation skills with the [Paper 1 socialisation and methods practice questions](/resources/a-sociology-socialisation-methods-practice/).

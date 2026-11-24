@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.7, Firms' costs, revenue and objectives, of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. It sits inside Topic 3, Microeconomic decision makers, and the syllabus is not tiered. The official text says marginal cost and marginal revenue are not required, so this guide does not use them. All figures are invented and illustrative, and all money amounts are in dollars.
@@ -254,7 +254,7 @@ Objectives often conflict. Profit now may reduce growth later, and social goals 
 - Assuming a price cut always raises TR, or always reduces it.
 - Giving a list of objectives without linking one to the firm in the question.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms-revision-notes/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms-practice/). Tick off the topic on the [checklist](/checklists/cambridge/igcse/economics/), or try a [free diagnostic](/diagnostics/).
 

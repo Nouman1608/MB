@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ Data: 1/4πε₀ = 8.99 × 10⁹ N m² C⁻²; e = 1.60 × 10⁻¹⁹ C; electro
 - Leaving energies in MeV or kV in an SI calculation.
 - Taking zero field to mean zero potential.
 
-## Next steps
+## More on this topic
 
 - [Electric fields revision notes](/resources/aqa-a-level-physics-7408-electric-fields-revision-notes/)
 - [Electric fields study guide](/resources/aqa-a-level-physics-7408-electric-fields/)

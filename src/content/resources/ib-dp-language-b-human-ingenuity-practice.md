@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ A close with a call to action [1]. **[8]**
 - Right content, wrong text type in extended writing.
 - In the oral, describing the image and never connecting it to a target-language culture.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Human ingenuity revision notes](/resources/ib-dp-language-b-human-ingenuity-revision-notes/).
 - Reread the [Human ingenuity study guide](/resources/ib-dp-language-b-human-ingenuity/), with its worked examples.

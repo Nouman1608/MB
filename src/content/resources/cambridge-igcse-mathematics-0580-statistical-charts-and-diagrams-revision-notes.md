@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Because the values are in order you can read off: smallest 23, largest 45, range
 11. **No**: 90° is a quarter of each school, so **75** walk at P and **225** at Q.
 12. **6.8.**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [statistical charts and diagrams study guide](/resources/igcse-mathematics-0580-statistical-charts-and-diagrams/).
 - Try the [statistical charts practice questions](/resources/cambridge-igcse-mathematics-0580-statistical-charts-and-diagrams-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -165,7 +165,7 @@ Both midpoints are at the same vector ½(**a** + **c**) from P, so they are the 
 * Giving one numerical example when a general proof was needed.
 * Writing →AB when the working shows →BA.
 
-## Next steps
+## More on this topic
 
 * Re-read the [revision notes](/resources/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry-revision-notes/) for the key facts and the proof table.
 * Go back to the [study guide](/resources/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry/) for any step that felt unfamiliar.

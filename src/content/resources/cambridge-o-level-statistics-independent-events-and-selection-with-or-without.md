@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers part of topic 11, "Elementary ideas of probability", in the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027. The syllabus text for this topic asks for the treatment of independent events, and for selections made with or without replacement. The course is not tiered. Mutually exclusive events are the other half of the same topic and are not taught here.
@@ -270,7 +270,7 @@ This is a common pattern in probability questions: independence between separate
 - Confusing independent with mutually exclusive. Independent events can happen together. Mutually exclusive events cannot happen together, so if both have non-zero probability they are not independent.
 - Rounding too early. Keep fractions or full decimals until the last line.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/cambridge-o-level-statistics-independent-events-and-selection-with-or-without-revision-notes/), then test yourself with the [practice questions](/resources/cambridge-o-level-statistics-independent-events-and-selection-with-or-without-practice/). Tick off what you have covered on the [checklist](/checklists/cambridge/o-level/statistics/), and use the [free diagnostics](/diagnostics/) to find your weak spots. Back to the [subject hub](/boards/cambridge/o-level/statistics/).
 

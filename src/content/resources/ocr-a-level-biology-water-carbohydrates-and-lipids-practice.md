@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ These questions cover learning outcomes 2.1.2(a) to 2.1.2(j) of the OCR A Level 
 - Explaining the bilayer without saying which region faces water.
 - Giving a percentage change without stating the starting value used.
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/ocr-a-level-biology-water-carbohydrates-and-lipids-revision-notes/) or the [study guide](/resources/ocr-a-level-biology-water-carbohydrates-and-lipids/).
 - Visit the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/).

@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -317,7 +317,7 @@ There is still much about the universe that is not understood:
 - Thinking a faster satellite goes further out. For a stable orbit, faster means **smaller** radius.
 - Describing red-shift as "light turns red". The **wavelength increases**, and further galaxies show a bigger increase.
 
-## Next steps
+## More on this topic
 
 Go to the [revision notes](/resources/aqa-gcse-physics-8463-space-physics-revision-notes/) for condensed recall and a quick self-test. Then work through the [practice questions](/resources/aqa-gcse-physics-8463-space-physics-practice/). The [free diagnostics](/diagnostics/) help you find weak topics across the course.
 

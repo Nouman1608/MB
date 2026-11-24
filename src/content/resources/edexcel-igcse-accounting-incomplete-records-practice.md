@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ She took 8,000 from the bank as drawings and goods that cost 600 for her own use
 - Forgetting that other receivables go on the assets side and other payables on the liabilities side.
 - Not checking that equity equals net assets.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [revision notes](/resources/edexcel-igcse-accounting-incomplete-records-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/edexcel-igcse-accounting-incomplete-records/).

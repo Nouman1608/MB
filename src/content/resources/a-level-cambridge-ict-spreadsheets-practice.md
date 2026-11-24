@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ The answers show one acceptable response with a [1] for each creditworthy point.
 - Choosing a chart without saying why it fits the purpose.
 - Describing a pivot table and a subtotal as the same thing.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Spreadsheets revision notes](/resources/a-level-cambridge-ict-spreadsheets-revision-notes/).
 - Re-read weak sections in the [Spreadsheets study guide](/resources/a-level-cambridge-ict-spreadsheets/).

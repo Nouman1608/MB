@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ The two radii to the ends of the chord make an isosceles triangle, whose line of
 **When do I add and when do I subtract distances for two chords?**
 Add when the chords are on opposite sides of the centre and subtract when they are on the same side. Draw both cases if the question does not say which.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [Circle theorems II study guide](/resources/igcse-mathematics-0580-circle-theorems-ii/).
 - Recap with the [Circle theorems II revision notes](/resources/cambridge-igcse-mathematics-0580-circle-theorems-ii-revision-notes/).

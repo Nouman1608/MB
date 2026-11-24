@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ For teaching and worked examples, read the [algebraic manipulation study guide](
 - In completing the square with a ≠ 1, not multiplying the subtracted square by a.
 - In "show that" questions, jumping to the printed answer without the expansions.
 
-## Next steps
+## More on this topic
 
 - [Algebraic manipulation study guide](/resources/cambridge-igcse-mathematics-0580-algebraic-manipulation/)
 - [Algebraic manipulation revision notes](/resources/cambridge-igcse-mathematics-0580-algebraic-manipulation-revision-notes/)

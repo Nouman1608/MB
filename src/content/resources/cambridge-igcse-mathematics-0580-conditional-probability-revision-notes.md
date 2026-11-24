@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ Given that a person chose toast, P(under 18) = 9 ÷ (9 + 18) = **1/3**. The toas
 11. 0.3 ÷ 0.4 = **3/4**
 12. The **denominators differ**: one uses the total for B, the other the total for A.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [conditional probability study guide](/resources/cambridge-igcse-mathematics-0580-conditional-probability/).
 - Revise tree diagrams with the [combined events revision notes](/resources/cambridge-igcse-mathematics-0580-probability-of-combined-events-revision-notes/).

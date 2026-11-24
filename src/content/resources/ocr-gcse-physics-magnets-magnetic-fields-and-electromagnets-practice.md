@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ These questions cover topic P4.1, Magnets and magnetic fields (P4.1a to P4.1g), 
 - Giving "bigger" or "stronger" with no variable named when asked how to change an electromagnet.
 - Writing about the compass without saying that it is a small magnet.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets-revision-notes/)
 - [Study guide](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets/)

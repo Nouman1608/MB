@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -198,7 +198,7 @@ No. An ionic equation must leave out spectator ions, such as sulfate ions in a n
 **What moves through an electrolyte during electrolysis?**
 Ions move through the electrolyte, not electrons. Also remember that in aqueous solutions the product at the cathode is not always the metal.
 
-## Next steps
+## More on this topic
 
 - [Chemical changes revision notes](/resources/aqa-gcse-chemistry-8462-chemical-changes-revision-notes/)
 - [Chemical changes study guide](/resources/aqa-gcse-chemistry-8462-chemical-changes/)

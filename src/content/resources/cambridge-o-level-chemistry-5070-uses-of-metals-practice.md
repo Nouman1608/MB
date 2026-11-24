@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,6 +161,6 @@ D: good thermal conductivity and high melting point
 - Confusing thermal and electrical conductivity for wiring.
 - Dropping units or mixing grams and kilograms in density calculations.
 
-## Next steps
+## More on this topic
 
 Check any slips in the [Uses of metals study guide](/resources/cambridge-o-level-chemistry-5070-uses-of-metals/), then try the [Alloys and their properties practice questions](/resources/cambridge-o-level-chemistry-5070-alloys-and-their-properties-practice/).

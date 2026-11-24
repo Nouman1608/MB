@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **topic 5, eSecurity**, of Cambridge International AS & A Level Information Technology (9626). It follows the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), sections 5.1 Personal data and 5.2 Malware. Topic 5 is an **AS Level** topic, so it is part of both the AS Level and the full A Level. It is examined in **Paper 1 (Theory)**, which is based on sections 1–11; Paper 2 (Practical) also expects you to apply knowledge from sections 1–7.
@@ -217,7 +217,7 @@ A rootkit runs with administrator-level access [1], so it can alter the operatin
 - Saying a trojan spreads itself. Worms self-replicate; trojans rely on the user installing them.
 - Confusing anonymising (removing identifiers from each record) with aggregating (combining records into totals).
 
-## Next steps
+## More on this topic
 
 Test recall with the [revision notes](/resources/a-level-cambridge-ict-esecurity-revision-notes/), then try the [practice questions](/resources/a-level-cambridge-ict-esecurity-practice/). See also [Hardware and Software](/resources/a-level-cambridge-ict-hardware-and-software/).
 

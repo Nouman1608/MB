@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -182,7 +182,7 @@ Var(X) = E(X²) − [E(X)]². Writing E(X²) − E(X) without squaring the mean 
 **Which unit covers continuous random variables in Edexcel IAL Maths?**
 Continuous random variables are section 2 (topics 2.1 to 2.5) of Unit S2 in Pearson Edexcel International A Level Mathematics (YMA01).
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode-revision-notes/).
 - Tick off the unit on the [printable checklist](/checklists/edexcel/a-level/mathematics/) and see the [course hub](/boards/edexcel/a-level/mathematics/).

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sections 1.10 (Applying number) and 1.11 (Electronic calculators) of topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. Both sections are Foundation Tier content. The Higher Tier content for 1.10 and 1.11 simply says "See Foundation Tier", so everything here applies to both tiers and nothing is Higher tier only.
@@ -378,7 +378,7 @@ Convert one price into the other currency first, then compare. A jacket costing 
 **How should money answers be written in Edexcel IGCSE Maths 4MA1?**
 Give money to the nearest penny, with 2 decimal places, unless the question says otherwise. If the calculator shows 96.1, write £96.10.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-revision-notes/) for quick recall, then test yourself with the [practice questions](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice/). For percentages, ratio and bounds questions, try the [Numbers and the number system practice](/resources/edexcel-igcse-mathematics-number-practice/) and [revision notes](/resources/edexcel-igcse-mathematics-number-revision-notes/).
 

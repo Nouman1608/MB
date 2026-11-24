@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ You will not be asked to recall examples of nanoparticles or their properties. Q
 - **Explain** a use: name the property in the information, link it to the surface area to volume ratio or to particle size, then to the use.
 - **Evaluate**: if information gives both a benefit and a concern, discuss both and state which the evidence supports.
 
-## Next steps
+## More on this topic
 
 - Condense this with the [nanoparticles revision notes](/resources/oxfordaqa-igcse-chemistry-9202-nanoparticles-revision-notes/).
 - Practise with the [nanoparticles practice questions](/resources/oxfordaqa-igcse-chemistry-9202-nanoparticles-practice/).

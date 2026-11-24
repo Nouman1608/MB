@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. It is International A2 (IA2) content: Unit 4 (Rates, Equilibria and Further Organic Chemistry) is where you meet it. Within that unit it forms part of Topic 15: Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality.
@@ -277,7 +277,7 @@ The organic by-product is sodium 2-methylpropanoate. From 2.58 g of the ketone (
 - Claiming 2,4-DNPH tells aldehydes from ketones. It only shows C=O; use Tollens' or Fehling's for that.
 - Saying every aldehyde gives iodoform. Only ethanal does.
 
-## Next steps
+## More on this topic
 
 Next, read the condensed [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) and then try the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/). Use the [checklist](/checklists/edexcel/a-level/chemistry/) to tick off each outcome, and take a free [diagnostic](/diagnostics/).
 

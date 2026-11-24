@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ These questions cover the OxfordAQA International AS and A-level Economics speci
 - Saying technology cuts costs with no mention of output.
 - Listing patent points with no consequence or judgement.
 
-## Next steps
+## More on this topic
 
 - Go through the [revision notes](/resources/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change-revision-notes/) and then the [study guide](/resources/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change/).
 - Visit the [course hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/).

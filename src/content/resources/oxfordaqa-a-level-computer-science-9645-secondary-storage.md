@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -154,7 +154,7 @@ The specification defines **cloud storage** as storage of data on **servers at a
 - Giving "cheaper" as an advantage of cloud storage without a reason. Compare like with like: no hardware to buy, but a recurring fee.
 - Forgetting to link the answer to the situation described in the question.
 
-## Next steps
+## More on this topic
 
 - [Secondary storage revision notes](/resources/oxfordaqa-a-level-computer-science-9645-secondary-storage-revision-notes/)
 - [Secondary storage practice questions](/resources/oxfordaqa-a-level-computer-science-9645-secondary-storage-practice/)

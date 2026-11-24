@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers statements P1.1a to P1.1f of Topic P1 (Matter) in the OCR GCSE (9-1) Physics A (Gateway Science) specification (J249), Version 5.0 (July 2026). None of these statements is in bold in the specification, so all of them are assessed in both the Foundation Tier and Higher Tier papers. It teaches the history of the atomic model, the structure and size of an atom, and density, including density across the states of matter. Use it with the [revision notes](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-practice/). The wider topic is in [OCR GCSE Physics: Matter](/resources/ocr-gcse-physics-matter/).
@@ -242,7 +242,7 @@ Measure its mass on a balance, then find its volume from the water it displaces 
 **Why does ice float on water?**
 Ice is less dense than liquid water, because the arrangement of the particles in ice takes up more space than in liquid water. Most solids, by contrast, are slightly denser than their liquids.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-practice/), then condense with the [revision notes](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-revision-notes/). The other density material for this course is in [OCR GCSE Physics: Matter revision notes](/resources/ocr-gcse-physics-matter-revision-notes/) and [Matter practice questions](/resources/ocr-gcse-physics-matter-practice/).
 

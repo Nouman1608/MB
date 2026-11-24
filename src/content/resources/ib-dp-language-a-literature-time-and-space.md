@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Time and space**, the second of the three areas of exploration in IB Diploma
@@ -259,7 +259,7 @@ Your teacher will share the assessment criteria for each component. For exam tec
 - **Guessing context in Paper 1.** Stating a precise date or country for an unseen passage the text does
   not support.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [revision notes](/resources/ib-dp-language-a-literature-time-and-space-revision-notes/),
 then test yourself with the [practice questions](/resources/ib-dp-language-a-literature-time-and-space-practice/),

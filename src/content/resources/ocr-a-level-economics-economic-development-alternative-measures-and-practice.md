@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Way 2: effect on resource use [1]. Services tend to use fewer raw materials, low
 - Writing about the three organisations as if they were one body.
 - Saying "it depends" without stating on what.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-economic-development-alternative-measures-and/) and the [revision notes](/resources/ocr-a-level-economics-economic-development-alternative-measures-and-revision-notes/).
 - Check progress against the [printable checklist](/checklists/ocr/a-level/economics/) and the [course hub](/boards/ocr/a-level/economics/).

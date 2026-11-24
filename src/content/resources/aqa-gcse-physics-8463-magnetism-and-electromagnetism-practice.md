@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -177,7 +177,7 @@ Explain how closing the switch in circuit A starts the motor, and what happens w
 - Transformer explanations that leave out "alternating" or "changing".
 - Saying high-voltage transmission reduces resistance.
 
-## Next steps
+## More on this topic
 
 - [Magnetism and electromagnetism revision notes](/resources/aqa-gcse-physics-8463-magnetism-and-electromagnetism-revision-notes/)
 - [Magnetism and electromagnetism study guide](/resources/aqa-gcse-physics-8463-magnetism-and-electromagnetism/)

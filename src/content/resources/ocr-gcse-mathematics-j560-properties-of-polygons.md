@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -175,7 +175,7 @@ Each step names its reason, letters stand for the unknown angles, and the final 
 - **Find** a length or angle in a shape: write each property you use beside the step.
 - **Prove** (formal proofs, Higher tier only): introduce letters for unknown angles, give a reason for every line, and finish by stating the result.
 
-## Next steps
+## More on this topic
 
 - Condense the properties with the [properties of polygons revision notes](/resources/ocr-gcse-mathematics-j560-properties-of-polygons-revision-notes/).
 - Test yourself with the [properties of polygons practice questions](/resources/ocr-gcse-mathematics-j560-properties-of-polygons-practice/).

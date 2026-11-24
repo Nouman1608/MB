@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide is aligned to the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It covers statements N11 (section 3.1.1) and N12 to N14 (section 3.1.2). The specification says all content can be assessed on the Extension Tier question papers, so Core content is also Extension content. Statements that appear only in the Extension column are marked "Extension only" below.
 
@@ -344,7 +344,7 @@ Results above 1 or above 100% are correct when the first quantity is bigger. Swa
 - Putting the wrong quantity on the bottom in N14: the quantity after "of" or "compared with" is the denominator.
 - Mixing minutes with hours, or cm with m, in a comparison.
 
-## Next steps
+## More on this topic
 
 Read the [revision notes](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal-practice/). The wider topic is in the [Number study guide](/resources/igcse-oxfordaqa-mathematics-number/).
 

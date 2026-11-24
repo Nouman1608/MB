@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Supernormal profit is the area between price (average revenue) and average total
 **Does monopoly always harm consumers?**
 Not necessarily. Monopoly can lead to higher prices and a deadweight loss, but where economies of scale are large a monopolist may have lower costs, and supernormal profit can fund innovation. A strong answer on OCR A Level Economics (H460) reaches a final judgement rather than listing pros and cons.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination/).

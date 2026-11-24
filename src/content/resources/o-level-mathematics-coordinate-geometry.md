@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide teaches topic 3, Coordinate geometry, from the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. It covers sections 3.1 to 3.7. There are no tiers: every candidate studies all of it. The syllabus says Paper 1 is a non-calculator paper and Paper 2 is a calculator paper, and each paper is based on the subject content, so you need to handle every skill here both with and without a calculator.
 
@@ -321,7 +321,7 @@ Find the midpoint of the segment, find the gradient of the segment and take its 
 **How do you prove that an angle is a right angle using coordinates?**
 Find the gradients of the two lines that meet at the angle and show that their product is −1. Then state the conclusion that the lines are perpendicular, so the angle is 90°.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/o-level-mathematics-coordinate-geometry-revision-notes/), try the [practice set](/resources/o-level-mathematics-coordinate-geometry-practice/), and take a [free diagnostic](/diagnostics/) to find any gaps.
 

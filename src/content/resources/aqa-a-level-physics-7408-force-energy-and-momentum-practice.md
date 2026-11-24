@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ These questions cover section 3.4.1 Force, energy and momentum (3.4.1.1 to 3.4.1
 - Using the peak force × time instead of the area of a triangle for impulse.
 - Leaving out the weight component when a vehicle climbs a slope.
 
-## Next steps
+## More on this topic
 
 Review the [force, energy and momentum study guide](/resources/aqa-a-level-physics-7408-force-energy-and-momentum/), then continue with [Materials](/resources/aqa-a-level-physics-7408-materials/). The [Mechanics and materials practice questions](/resources/aqa-a-level-physics-mechanics-and-materials-practice/) mix both halves of section 3.4.
 

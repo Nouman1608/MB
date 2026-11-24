@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Mini example: 75 cm³ per beat × 80 beats per minute = 6000 cm³/min = 6 dm³/m
 11. 18 ÷ 15 × 60 = 72 beats per minute.
 12. 3600 cm³ ÷ 60 = 60 cm³ per second.
 
-## Next steps
+## More on this topic
 
 - Worked explanations: [heart and blood vessels study guide](/resources/aqa-gcse-biology-8461-the-heart-and-blood-vessels/)
 - Questions with mark schemes: [heart and blood vessels practice questions](/resources/aqa-gcse-biology-8461-the-heart-and-blood-vessels-practice/)

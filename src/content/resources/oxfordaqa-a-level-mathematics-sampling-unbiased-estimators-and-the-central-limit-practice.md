@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -144,7 +144,7 @@ T₁ = (X₁ + X₂ + X₃)/3, T₂ = (X₁ + 2X₂ + 3X₃)/6, T₃ = (X₁ + X
 - Mixing up statistic and parameter, or leaving out the context (the 1,200 nurses, the packs, the waiting times).
 - Giving an explanation without referring to n, such as "averaging reduces variation".
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-sampling-unbiased-estimators-and-the-central-limit/) for any question that cost you marks.
 - Condense the unit with the [revision notes](/resources/oxfordaqa-a-level-mathematics-sampling-unbiased-estimators-and-the-central-limit-revision-notes/).

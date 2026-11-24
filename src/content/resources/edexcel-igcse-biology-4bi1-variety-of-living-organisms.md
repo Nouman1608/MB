@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -201,7 +201,7 @@ When you meet yeast later, remember that it is a fungus, not a bacterium and not
 
 **Answers:** (1) Glycogen. (2) Chitin. (3) A bacterium has no nucleus and has plasmids and a circular chromosome, whereas a plant cell has a nucleus, chloroplasts and a cellulose wall. (4) They can reproduce only inside living cells. (5) Protoctist: *Plasmodium*. Bacterium: *Pneumococcus*. Virus: influenza virus (or HIV, or tobacco mosaic virus).
 
-## Next steps
+## More on this topic
 
 Revise with the [Topic 1 revision notes](/resources/igcse-edexcel-biology-nature-variety-revision-notes/). Then test yourself with the [variety of living organisms practice questions](/resources/edexcel-igcse-biology-4bi1-variety-of-living-organisms-practice/). Before this guide, read the [characteristics of living organisms study guide](/resources/edexcel-igcse-biology-4bi1-characteristics-of-living-organisms/).
 

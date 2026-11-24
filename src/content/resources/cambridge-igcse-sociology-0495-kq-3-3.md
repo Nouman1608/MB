@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -236,7 +236,7 @@ Feminists argue that global inequality is also gendered:
 - **Evaluate** — weigh evidence that globalisation increases inequality against evidence that it
   reduces it, and judge.
 
-## Next steps
+## More on this topic
 
 Revise with the
 [globalisation and global inequality revision notes](/resources/cambridge-igcse-sociology-0495-kq-3-3-revision-notes/)

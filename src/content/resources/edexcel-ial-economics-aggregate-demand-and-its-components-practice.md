@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ No. A lower exchange rate cuts the foreign-currency price of exports and raises 
 **How do you avoid an "it depends" conclusion with no marks?**
 Name the factor the outcome depends on, such as spare capacity, confidence or the size of an elasticity, and explain why it matters in the case given.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-aggregate-demand-and-its-components-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-aggregate-demand-and-its-components/).
 - Return to the [course hub](/boards/edexcel/a-level/economics/) and the [checklist](/checklists/edexcel/a-level/economics/).

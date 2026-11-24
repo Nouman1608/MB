@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -150,7 +150,7 @@ These questions cover economic growth in section 2.1.1 a) of the Pearson Edexcel
 - Forgetting the base for a percentage fall.
 - Concluding without weighing the points in an evaluation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle/).
 - Check the [course hub](/boards/edexcel/igcse/economics/) and the [printable checklist](/checklists/edexcel/igcse/economics/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Fundamentals of communication and networking (section 4.9 of AQA A-Level Computer Science 7517) covers how
@@ -233,7 +233,7 @@ temporary number chosen by the client's operating system for a single connection
 The 32-bit IPv4 address space allows about 4.3 billion addresses, which was not enough for every connected
 device. IPv6 uses 128-bit addresses.
 
-## Related resources
+## More resources on this topic
 
 [Communication and networking study guide](/resources/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide/) |
 [Communication and networking practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-practice/) |

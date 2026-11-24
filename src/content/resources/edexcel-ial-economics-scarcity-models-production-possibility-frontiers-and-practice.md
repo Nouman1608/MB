@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Links: [study guide](/resources/edexcel-ial-economics-scarcity-models-production
 - Listing functions of money, advantages or roles of the state without explaining them.
 - Evaluating without a conclusion.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and/) and use the [revision notes](/resources/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and-revision-notes/).
 - Tick off coverage on the [printable checklist](/checklists/edexcel/a-level/economics/) or the [hub](/boards/edexcel/a-level/economics/).

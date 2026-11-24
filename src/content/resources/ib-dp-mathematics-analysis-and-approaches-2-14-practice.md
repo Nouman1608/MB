@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ This set covers **section 2.14 (AHL only)** of IB DP Mathematics: Analysis and A
 - Not clearing the inner fractions before simplifying f(f(x)).
 - Writing √(x²) = x without noting that x ≥ 0.
 
-## Next steps
+## More on this topic
 
 - Review the combination rules in the [odd, even and self-inverse study guide](/resources/ib-dp-mathematics-analysis-and-approaches-2-14/).
 - Practise graphs of f(\|x\|), which are always even, in the [modulus and related graphs practice set](/resources/ib-dp-mathematics-analysis-and-approaches-2-16-practice/).

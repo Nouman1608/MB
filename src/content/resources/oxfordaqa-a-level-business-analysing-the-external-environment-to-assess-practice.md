@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -127,7 +127,7 @@ No. Answers should weigh the benefits against the costs and risks for the busine
 **Which OxfordAQA 9725 section do these questions cover?**
 They cover section 3.3.4 of OxfordAQA International AS and A-level Business (9725), Analysing the external environment to assess opportunities and threats, which is tested in Unit 3: Business analysis.
 
-## Next steps
+## More on this topic
 
 - Revise the methods: [revision notes](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess-revision-notes/)
 - Go back over the teaching: [study guide](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess/)

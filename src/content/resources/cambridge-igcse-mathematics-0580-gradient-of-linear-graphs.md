@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ When the axes are real quantities, the gradient has units: the y-unit **per** x-
 - **Show that** three points are collinear: give both gradients and say that the lines share a point.
 - On Paper 2 (Extended, non-calculator), leave answers as fractions in lowest terms. On Paper 4 a decimal is fine if it is exact; otherwise give 3 significant figures.
 
-## Next steps
+## More on this topic
 
 - Recap with the [gradient revision notes](/resources/cambridge-igcse-mathematics-0580-gradient-of-linear-graphs-revision-notes/) and test yourself with the [gradient practice questions](/resources/cambridge-igcse-mathematics-0580-gradient-of-linear-graphs-practice/).
 - Gradient feeds straight into the [equations of linear graphs study guide](/resources/cambridge-igcse-mathematics-0580-equations-of-linear-graphs/) and the [parallel lines study guide](/resources/cambridge-igcse-mathematics-0580-parallel-lines/).

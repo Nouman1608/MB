@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ Three of the metals are transition metals and two are Group 1 metals.
 - Confusing the percentage removed with the percentage left.
 - "Compare" answers that describe one metal only.
 
-## Next steps
+## More on this topic
 
 - [Transition metals revision notes](/resources/oxfordaqa-igcse-chemistry-transition-metals-revision-notes/)
 - [Transition metals study guide](/resources/oxfordaqa-igcse-chemistry-transition-metals/)

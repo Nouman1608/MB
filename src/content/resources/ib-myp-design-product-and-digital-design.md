@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -218,7 +218,7 @@ Your unit will also sit in one of the six global contexts. For example, the plan
 - In combined projects, planning and testing only one of the two parts.
 - Quoting a mean when the specification talks about a percentage of users.
 
-## Next steps
+## More on this topic
 
 Recall the key points with the [revision notes](/resources/ib-myp-design-product-and-digital-design-revision-notes/), try the [practice questions](/resources/ib-myp-design-product-and-digital-design-practice/), and plan your folder with [ePortfolio exam preparation](/resources/ib-myp-design-eportfolio-exam-preparation/) and the [syllabus guide](/resources/ib-myp-design-syllabus-guide/).
 

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -224,7 +224,7 @@ Fish farms raise large numbers of fish as a source of protein. The methods deal 
 
 **Answers:** (1) Any two of: higher temperature, extra carbon dioxide, protection from pests and weather, longer growing season. (2) Carbon dioxide. (3) Advantage: no chemical residues (or specific to the pest). Disadvantage: slow (or may not remove all pests). (4) To stop other microorganisms competing for nutrients or spoiling the product. (5) To reduce larger fish eating smaller ones of the same species.
 
-## Next steps
+## More on this topic
 
 Practise with the [food production practice questions](/resources/edexcel-igcse-biology-4bi1-food-production-practice/) and revise with the [food production revision notes](/resources/edexcel-igcse-biology-4bi1-food-production-revision-notes/). The next sub-topic is [selective breeding](/resources/edexcel-igcse-biology-4bi1-selective-breeding/).
 

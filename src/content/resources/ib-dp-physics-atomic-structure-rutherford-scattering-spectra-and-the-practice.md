@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Related: [study guide](/resources/ib-dp-physics-atomic-structure-rutherford-scat
 * Stating that deviations occur at high energy without naming the strong nuclear force or the approach to the nuclear radius.
 * Using a positive sign for Bohr energy levels.
 
-## Next steps
+## More on this topic
 
 * Revise from the [revision notes](/resources/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the-revision-notes/) and re-read the [study guide](/resources/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the/).
 * Go to the [IB Physics course hub](/boards/ib/ib-dp/physics/) and tick off the [printable checklist](/checklists/ib/ib-dp/physics/).

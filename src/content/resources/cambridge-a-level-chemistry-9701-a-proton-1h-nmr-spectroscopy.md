@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -197,7 +197,7 @@ structure. Examiners credit the reasoning steps.
 **State** the need for a deuterated solvent: one clear reason is enough, linked to the solvent's own ¹H
 signal.
 
-## Related resources
+## More resources on this topic
 
 - [Carbon-13 NMR spectroscopy study guide](/resources/cambridge-a-level-chemistry-9701-a-carbon-13-nmr-spectroscopy/) — subtopic 37.3
 - [Analytical Techniques: IR and Mass Spectrometry](/resources/as-analytical-techniques-ir-and-mass-spectrometry/) — molecular formula and functional-group evidence used with NMR

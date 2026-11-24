@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ E = BLv                (rod of length L moving at v ⊥ B)
 
 **Answers:** 1. The product of the magnetic flux density and the cross-sectional area perpendicular to the field. 2. 1 Wb = 1 T m². 3. 500 × 0.080 × 3.0 × 10⁻⁴ = 0.012 Wb. 4. 0.012 / 0.15 = 0.080 V. 5. 0.12 × 1.5 × 10⁻³ × cos 60° = 9.0 × 10⁻⁵ Wb. 6. The magnitude of the induced e.m.f. is proportional to the rate of change of magnetic flux linkage. 7. The induced e.m.f. acts in a direction to oppose the change producing it; conservation of energy. 8. BLv = 0.40 × 0.15 × 5.0 = 0.30 V. 9. Zero. 10. No: the flux passes through the coil the other way, so the linkage goes from +NBA to −NBA, a change of 2NBA. 11. The moving magnet induces currents in the copper; by Lenz's law these produce fields that oppose its motion. Plastic is an insulator, so no current flows. 12. South (it attracts the magnet, opposing its withdrawal).
 
-## Related resources
+## More resources on this topic
 
 - [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-revision-notes/) — the whole of Topic 20
 - [Electromagnetic induction practice questions](/resources/cambridge-a-level-physics-9702-a-electromagnetic-induction-practice/)

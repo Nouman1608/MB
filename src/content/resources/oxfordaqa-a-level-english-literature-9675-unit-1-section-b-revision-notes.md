@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,7 +178,7 @@ Five moments, each tagged to two aspects, give enough flexibility for any questi
     memory.
 12. Reach a judgement on the question and say what the play leaves the audience understanding.
 
-## Next steps
+## More on this topic
 
 Try the [Unit 1 Section B practice questions](/resources/oxfordaqa-a-level-english-literature-9675-unit-1-section-b-practice/),
 then revise the passage skills in the

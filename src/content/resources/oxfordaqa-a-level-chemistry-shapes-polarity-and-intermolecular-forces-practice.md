@@ -40,7 +40,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -193,7 +193,7 @@ The force is **electrostatic attraction** between oppositely charged ions. [1] *
 - Using "weaker forces" without saying which forces are weaker, or comparing only one substance.
 - Drawing dative bonds as plain lines or lattices with like ions side by side.
 
-## Next steps
+## More on this topic
 
 - Revisit the [bonding revision notes](/resources/oxfordaqa-a-level-chemistry-shapes-polarity-and-intermolecular-forces-revision-notes/).
 - Reread the [shapes, polarity and forces guide](/resources/oxfordaqa-a-level-chemistry-shapes-polarity-and-intermolecular-forces/) and the [bonding and structure guide](/resources/oxfordaqa-a-level-chemistry-bonding-and-structure/).

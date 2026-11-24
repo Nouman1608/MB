@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -218,7 +218,7 @@ light from galaxies moving away from us is shifted to longer wavelengths
 - **Explain** the Doppler effect: describe the wavefronts bunching (or
   spreading), then the effect on wavelength, then on frequency.
 
-## Next steps
+## More on this topic
 
 - [Properties of waves revision notes](/resources/edexcel-igcse-physics-4ph1-properties-of-waves-revision-notes/)
 - [Properties of waves practice questions](/resources/edexcel-igcse-physics-4ph1-properties-of-waves-practice/)

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ f₁ = v/2l = 219 / 0.96 = **228 Hz** [1]
 - Plotting f against T and expecting a straight line, instead of f² against T.
 - Using "fundamental" or "overtone" when the question asks for the first or other harmonic.
 
-## Next steps
+## More on this topic
 
 - Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves/).

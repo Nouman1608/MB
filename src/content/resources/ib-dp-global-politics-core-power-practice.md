@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -141,7 +141,7 @@ Learn the content first in the [study guide](/resources/ib-dp-global-politics-co
 - In the 12-mark evaluation, summarising sources with no own knowledge or judgement.
 - In the essay, never showing how structural and relational power interact.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-dp-global-politics-core-power-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-global-politics-core-power/)

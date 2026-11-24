@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -135,7 +135,7 @@ These questions cover section **3.1.4.1 Enthalpy change** of the AQA AS and A-le
 - Forgetting to convert grams to moles before using ΔH.
 - Quoting kJ instead of kJ mol⁻¹.
 
-## Next steps
+## More on this topic
 
 - [Enthalpy change revision notes](/resources/aqa-a-level-chemistry-7405-enthalpy-change-revision-notes/)
 - [Calorimetry study guide](/resources/aqa-a-level-chemistry-7405-calorimetry/)

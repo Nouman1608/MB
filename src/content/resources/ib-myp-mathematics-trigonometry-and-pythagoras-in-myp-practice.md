@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ If the calculator is in radians when the question uses degrees, every sin, cos a
 **How do you check an answer in a trigonometry context question?**
 Check that the answer fits the situation, for example that a ramp is longer than its rise, and include units or the degree sign. In IB MYP Mathematics, not checking that an answer fits the context weakens criterion D evidence.
 
-## Next steps
+## More on this topic
 
 - Revise the method: [revision notes](/resources/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp-revision-notes/)
 - Learn the content in full: [study guide](/resources/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp/)

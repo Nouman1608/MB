@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ where a, b ∈ ℝ.
 - Counterexamples stated with no calculation showing why they fail.
 - General solutions replaced by a single particular solution.
 
-## Next steps
+## More on this topic
 
 - Recap the key facts in the [revision notes for this unit](/resources/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems-revision-notes/).
 - Re-learn any weak topic in the [study guide for this unit](/resources/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems/).

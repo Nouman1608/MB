@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Fraction transmitted = 1 − I_R/I₀.
 
 **Answers:** 1. It changes shape (becomes thicker or thinner). 2. An e.m.f. is generated across it. 3. The crystal must expand and contract repeatedly to produce a wave of that frequency. 4. So the crystal can stop and receive echoes, and so the echo time can be measured. 5. The product of the density of a medium and the speed of sound in it, Z = ρc. 6. 1040 × 1570 = 1.63 × 10⁶ kg m⁻² s⁻¹. 7. d = 1540 × 32 × 10⁻⁶ / 2 = 0.025 m. 8. Air between transducer and skin would reflect almost all the ultrasound because their Z values are very different; gel has Z close to skin, so most is transmitted. 9. (0.37)² / (3.05)² = 0.015. 10. e^(−23 × 0.050) = 0.32. 11. A large fraction is reflected at the tissue-bone boundary and much of the rest is absorbed in bone, so little reaches the organ. 12. 2.5 cm (the same calculation as Question 7).
 
-## Related resources
+## More resources on this topic
 
 - [Medical Physics revision notes](/resources/a-physics-medical-physics-revision-notes/) — the whole of Topic 24
 - [Ultrasound practice questions](/resources/cambridge-a-level-physics-9702-a-production-and-use-of-ultrasound-practice/)

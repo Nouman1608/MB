@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ Use 24.0 dm³ mol⁻¹ for the molar gas volume at RTP.
 - Forgetting the CO₂ in carbonate equations, as in questions 8 and 9.
 - Mixing up rate and amount of gas (questions 7 and 10).
 
-## Next steps
+## More on this topic
 
 - Find weak spots across the course: [all free 10-minute diagnostics](/diagnostics/)
 - Recap the tables and methods: [Group 2 revision notes](/resources/ocr-a-level-chemistry-group-2-revision-notes/)

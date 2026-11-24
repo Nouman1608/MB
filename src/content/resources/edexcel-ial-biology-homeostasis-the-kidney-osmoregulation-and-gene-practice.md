@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ These questions cover statements 7.16 to 7.22 (feedback, homeostasis, the kidney
 - Saying a peptide hormone enters the nucleus.
 - Quoting no figures when describing a table.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene-revision-notes/)
 - [Study guide](/resources/edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -150,7 +150,7 @@ When the question asks you to evaluate a stock or supplier decision for a busine
 
 For **state** questions, name the stock method or supplier factor. For **explain** questions, link the method to a cost or benefit: "JIT reduces storage costs because the business holds very little stock". For **calculate** questions, show each cost separately before totalling. For **evaluate** questions, say which type of business JIT or a buffer suits, balance cost against risk, and give a judgement based on the facts given.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-the-role-of-procurement-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-the-role-of-procurement-practice/)

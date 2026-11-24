@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ D: the food store of a germinating seed **[1]**
 - Treating every leaf as a source.
 - Explaining a role switch without saying what the part does at each stage.
 
-## Next steps
+## More on this topic
 
 - Go back over the [translocation revision notes](/resources/cambridge-igcse-biology-0610-translocation-revision-notes/).
 - Re-read the [xylem and phloem study guide](/resources/cambridge-igcse-biology-0610-xylem-and-phloem/) to secure the 8.1 positions of phloem.

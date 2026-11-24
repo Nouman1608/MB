@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers topic 6 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027: section 6.1, the effect on the mean and standard deviation of adding a constant to each observation and of multiplying each observation by a constant, and section 6.2, the linear transformation of data to a given mean and standard deviation. The syllabus does not split content into tiers, so everything here applies to every candidate. Test yourself afterwards with the [revision notes](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-revision-notes/) and the [practice questions](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-practice/). The [Cambridge O Level Statistics hub](/boards/cambridge/o-level/statistics/) and the [printable checklist](/checklists/cambridge/o-level/statistics/) show where this topic sits in the course. If you are unsure which topics need work first, take a [free 10-minute diagnostic](/diagnostics/).
@@ -249,7 +249,7 @@ If you want the order of the data to flip, so that a high score becomes a low sc
 - Writing a negative standard deviation when b is negative.
 - Forgetting units. After a conversion such as °C to °F, the new mean and standard deviation are in the new unit.
 
-## Next steps
+## More on this topic
 
 Read the [revision notes](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-revision-notes/) for a short version, then work through the [practice questions](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-practice/). Show every line of working. Essential working must be shown for full marks to be awarded, according to the instructions printed in the syllabus for each paper.
 

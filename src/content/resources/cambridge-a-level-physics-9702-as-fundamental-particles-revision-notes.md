@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ In both descriptions the nucleon number is unchanged: a baryon (three quarks) be
 
 **Answers:** 1. Up, down, strange, charm, top, bottom. 2. Down, strange, bottom. 3. −⅔. 4. Proton uud; neutron udd. 5. Baryon: three quarks; meson: one quark and one antiquark. 6. −⅓ + ⅓ = 0. 7. The largest possible is a +⅔ quark with a +⅓ antiquark, which gives +1. 8. An up quark changes to a down quark. 9. Electron and neutrino. 10. No: it is made of three quarks (udd). 11. ū d̄ d̄ (charge 0). 12. −1.
 
-## Related resources
+## More resources on this topic
 
 - [Particle physics revision notes](/resources/as-physics-particle-physics-revision-notes/) — the whole of Topic 11
 - [Atoms, nuclei and radiation revision notes](/resources/cambridge-a-level-physics-9702-as-atoms-nuclei-and-radiation-revision-notes/) — subtopic 11.1

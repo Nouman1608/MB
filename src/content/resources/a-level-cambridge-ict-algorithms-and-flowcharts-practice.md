@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -265,7 +265,7 @@ Count and Passes set to 0 before the loop [1]; first INPUT before the loop and `
 - Wrong symbol: calculations in parallelograms, START in a plain rectangle.
 - Trace tables that skip rows or record values the algorithm never produces.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/a-level-cambridge-ict-algorithms-and-flowcharts-revision-notes/)
 - [Study guide for this topic](/resources/a-level-cambridge-ict-algorithms-and-flowcharts/)

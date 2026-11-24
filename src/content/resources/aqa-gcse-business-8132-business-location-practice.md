@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,7 +121,7 @@ These questions cover section 3.1.5 Business location of AQA GCSE Business (8132
 - Writing an evaluation that weighs only one factor.
 - Ending with "it depends" and no clear decision.
 
-## Next steps
+## More on this topic
 
 - Reread the sections you found hard in the [Business location study guide](/resources/aqa-gcse-business-8132-business-location/).
 - Widen your practice with the [Business location and Business planning practice set](/resources/aqa-gcse-business-business-location-and-business-planning-practice/).

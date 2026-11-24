@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -183,7 +183,7 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-biology-4b
 - Swapping the roles of oestrogen and progesterone.
 - Putting the source of FSH and LH in the ovary.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-biology-4bi1-reproduction-revision-notes/).
 - Reread any weak section in the [study guide](/resources/edexcel-igcse-biology-4bi1-reproduction/).

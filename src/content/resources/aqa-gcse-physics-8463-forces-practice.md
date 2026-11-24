@@ -37,7 +37,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -200,7 +200,7 @@ Learn the content first in the [Forces study guide](/resources/aqa-gcse-physics-
 - (Higher tier only) Dropping the combined mass in a "stick together" momentum question.
 - Leaving out units, or giving pressure in N instead of Pa.
 
-## Next steps
+## More on this topic
 
 - [Forces revision notes](/resources/aqa-gcse-physics-8463-forces-revision-notes/)
 - [Forces study guide](/resources/aqa-gcse-physics-8463-forces/)

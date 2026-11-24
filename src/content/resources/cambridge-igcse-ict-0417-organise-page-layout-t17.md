@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ The practical paper uses instructions such as *set*, *change* and *insert*. Do e
 5. Which break lets a title span the page above two columns on the same page? *A continuous section break.*
 6. How do you find a break to delete it? *Show formatting marks so it appears as a labelled dotted line.*
 
-## Next steps
+## More on this topic
 
 Revise with the [organise page layout revision notes](/resources/cambridge-igcse-ict-0417-organise-page-layout-t17-revision-notes/), then try the [organise page layout practice questions](/resources/cambridge-igcse-ict-0417-organise-page-layout-t17-practice/).
 

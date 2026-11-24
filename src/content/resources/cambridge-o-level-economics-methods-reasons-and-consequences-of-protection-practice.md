@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ These questions cover sections 6.2.4 to 6.2.6 (methods, reasons and consequences
 - Ignoring the data and giving a general answer to an evaluation.
 - Leaving out a judgement at the end.
 
-## Next steps
+## More on this topic
 
 - Return to the [revision notes](/resources/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection/).
 - Check your coverage on the [printable checklist](/checklists/cambridge/o-level/economics/) and the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/).

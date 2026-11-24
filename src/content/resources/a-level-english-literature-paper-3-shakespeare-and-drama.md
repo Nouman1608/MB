@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: added 2027 set plays (Henry IV Part 1, Our Country's Good replace Hamlet, Long Day's Journey), FAQ, shorter description; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added 2027 set plays (Henry IV Part 1, Our Country's Good replace Hamlet, Long Day's Journey), FAQ, shorter description; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Paper 3 -- Shakespeare and Drama is one of two papers exclusive to the
@@ -167,7 +167,7 @@ Students moving from the 2026 to the 2027 list keep *The Taming of the
 Shrew*, *Sweat* and *Kongi's Harvest*.
 
 
-## Related resources
+## More resources on this topic
 
 - [Paper 3 – Shakespeare and Drama practice questions](/resources/a-level-english-literature-paper-3-shakespeare-and-drama-practice/)
 - [Paper 1 – Drama and Poetry](/resources/a-level-english-literature-paper-1-drama-and-poetry/)

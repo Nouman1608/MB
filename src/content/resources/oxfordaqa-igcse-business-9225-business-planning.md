@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -146,7 +146,7 @@ Once a business has started, the plan is used to:
 
 For **state** and **identify** questions, give the section or term. For **explain** questions, link a section to a purpose: "the financial plan shows the bank how much money is needed and when the loan can be repaid". For **calculate** questions, show each step: revenue, then costs, then profit. For **evaluate** questions, such as whether a new business should write a plan, weigh the time cost and the risk of inaccurate forecasts against the benefits for raising finance and avoiding mistakes, then decide on the evidence given.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-business-planning-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-business-planning-practice/)

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sections **3.1.2.3 The ideal gas equation** and **3.1.2.4 Empirical and molecular
@@ -334,7 +334,7 @@ Treat the percentages as masses in a 100 g sample, divide each by its Ar, divide
 **Which AQA papers test the ideal gas equation?**
 Section 3.1.2 sits in the physical chemistry listed for Paper 1 and Paper 2 at both AS and A-level, and A-level Paper 3 can cover any content.
 
-## Next steps
+## More on this topic
 
 - Recall drill: [ideal gas and formula revision notes](/resources/aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula-revision-notes/)
 - Exam-style work: [ideal gas and formula practice questions](/resources/aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula-practice/)

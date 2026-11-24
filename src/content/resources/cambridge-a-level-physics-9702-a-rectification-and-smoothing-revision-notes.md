@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Example: V₀ = 15 V, 50 Hz full-wave, R = 2.2 kΩ, C = 220 μF → RC = 0.48 s,
 
 **Answers:** 1. It has a very high resistance, so (almost) no current flows. 2. One. 3. 100 Hz. 4. Two. 5. In each half-cycle a different pair of diodes conducts, and both pairs route the current through the load from the same terminal (P) to the other (N). 6. In parallel with the load. 7. The input p.d. falls faster than the capacitor p.d., so the diodes become reverse-biased. 8. Increase the capacitance; increase the load resistance. 9. t = 0.010 s; V_min = 10e^(−0.010) = 9.90 V; ripple ≈ 0.10 V. 10. The time between peaks is halved, so the capacitor discharges for less time. 11. It increases (RC smaller, so faster discharge). 12. No: the capacitor always discharges a little through the load between peaks.
 
-## Related resources
+## More resources on this topic
 
 - [Alternating Currents revision notes](/resources/a-physics-alternating-currents-revision-notes/) — the whole of Topic 21
 - [Rectification and smoothing practice questions](/resources/cambridge-a-level-physics-9702-a-rectification-and-smoothing-practice/)

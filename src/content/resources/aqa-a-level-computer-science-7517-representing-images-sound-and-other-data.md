@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,7 +144,7 @@ All other ciphers rely on **computational security**: they could in theory be br
 - **Compression**: state what is lost (lossy) or not lost (lossless) and why that matters.
 - **Encryption**: use the terms plaintext, ciphertext and key, and explain the weakness or strength.
 
-## Related resources
+## More resources on this topic
 
 - [Representing images, sound and other data revision notes](/resources/aqa-a-level-computer-science-7517-representing-images-sound-and-other-data-revision-notes/)
 - [Representing images, sound and other data practice questions](/resources/aqa-a-level-computer-science-7517-representing-images-sound-and-other-data-practice/)

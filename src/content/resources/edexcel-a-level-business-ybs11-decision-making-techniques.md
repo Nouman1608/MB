@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -170,7 +170,7 @@ If there is spare capacity and the order will not affect normal sales, accepting
 
 For **calculate** questions, show each stage; a wrong answer can still earn marks for method. For interpretation, state the decision rule (for example, "positive NPV, so accept") and then at least one limitation or non-financial point. In longer answers, say what the numbers do not show, such as risk, and make a judgement that depends on the firm's priorities.
 
-## Related resources
+## More resources on this topic
 
 - [Decision-making techniques revision notes](/resources/edexcel-a-level-business-ybs11-decision-making-techniques-revision-notes/)
 - [Decision-making techniques practice questions](/resources/edexcel-a-level-business-ybs11-decision-making-techniques-practice/)

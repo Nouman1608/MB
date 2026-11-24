@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ These questions cover section 1.1 of OCR A Level Biology A (H420, Version 4.1, A
 - Dividing by the wrong value in percentage error and percentage change.
 - Writing "human error" without naming a cause.
 
-## Next steps
+## More on this topic
 
 Revisit the [revision notes](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating-revision-notes/) and [study guide](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating/), then try the [all free 10-minute diagnostics](/diagnostics/). Use the [course hub](/boards/ocr/a-level/biology/) and [checklist](/checklists/ocr/a-level/biology/) to track coverage. [Book a free trial class](/trial/).
 

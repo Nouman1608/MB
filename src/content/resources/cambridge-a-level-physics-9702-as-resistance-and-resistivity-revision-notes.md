@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ Reason for LDR and thermistor: more charge carriers are released, so n increases
 
 **Answers:** 1. The ratio of the p.d. across a component to the current in it. 2. For a metallic conductor at constant temperature, current is directly proportional to p.d. 3. ρ = RA/L, so units are Ω × m² ÷ m = Ω m. 4. 8.0 Ω and 20 Ω. 5. Larger current raises the filament's temperature, so the ions vibrate more and the electrons collide with them more often. 6. Practically zero current for all reverse p.d.s shown (a line along the V axis). 7. R ∝ L/d², so 2 ÷ 4 = half: the resistance halves. 8. Length × 2 and area ÷ 2, so R × 4 = 12 Ω. 9. A large current would heat the wire, changing its resistivity. 10. ρ/A. 11. It decreases. 12. ρ = RA/L = 5.0 × 2.0 × 10⁻⁷ ÷ 2.0 = 5.0 × 10⁻⁷ Ω m.
 
-## Related resources
+## More resources on this topic
 
 - [Electricity revision notes](/resources/as-physics-electricity-revision-notes/) — the whole of Topic 9
 - [Potential difference and power revision notes](/resources/cambridge-a-level-physics-9702-as-potential-difference-and-power-revision-notes/) — subtopic 9.2

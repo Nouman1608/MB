@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -250,7 +250,7 @@ change in sea volume; isostatic is a local rise or fall of the land. 10. Submerg
 salt-tolerant plants colonise and trap more sediment, the surface rises and a succession of plants
 follows. 12. Hold the line, advance the line, managed realignment and no active intervention.
 
-## Related resources
+## More resources on this topic
 
 - [Physical Geography 1 study guide](/resources/a-level-oxfordaqa-geography-physical-geography-1/)
 - [Physical Geography 1 revision notes (whole unit)](/resources/oxfordaqa-a-level-geography-physical-revision-notes/)

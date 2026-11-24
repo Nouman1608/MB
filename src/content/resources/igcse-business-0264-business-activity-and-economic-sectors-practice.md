@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ This set covers sections 1.1 (Business activity) and 1.2 (Economic sectors) of t
 - Mixing up the primary, secondary and tertiary classification with private and public.
 - Evaluating one side only, or deciding with no reason.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/igcse-business-0264-business-activity-and-economic-sectors/) for questions you missed.
 - Revise from the [revision notes](/resources/igcse-business-0264-business-activity-and-economic-sectors-revision-notes/).

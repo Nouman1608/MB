@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -205,7 +205,7 @@ The array version above is **static**: its size is fixed, so it needs a full tes
 - **Explain why a stack is suitable**: point to the need for the most recent item first (reverse order).
 - **State the result of peek**: the value only; the stack is unchanged.
 
-## Related resources
+## More resources on this topic
 
 - [Stacks revision notes](/resources/aqa-a-level-computer-science-7517-stacks-revision-notes/)
 - [Stacks practice questions](/resources/aqa-a-level-computer-science-7517-stacks-practice/)

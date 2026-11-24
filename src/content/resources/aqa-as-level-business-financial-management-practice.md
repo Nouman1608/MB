@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ These questions cover **3.1.4 Financial management** in AQA AS Business (7137), 
 - Mixing up margin of safety and break-even output.
 - One-sided "evaluate" answers with no reasoned judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-as-level-business-financial-management/) and [revision notes](/resources/aqa-as-level-business-financial-management-revision-notes/).
 - Course hub: [AQA AS Business](/boards/aqa/as-level/business/).

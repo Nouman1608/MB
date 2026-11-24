@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Place the specific groups from the case on the grid by their power and interest,
 **Which OxfordAQA 9725 section do these questions cover?**
 They cover section 3.3.1 Mission, objective and SWOT analysis of OxfordAQA International AS and A-level Business (9725), which is examined in Unit 3: Business analysis.
 
-## Next steps
+## More on this topic
 
 - Revise the formulas: [revision notes](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis-revision-notes/)
 - Relearn the content: [study guide](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis/)

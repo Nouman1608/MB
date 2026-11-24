@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -186,7 +186,7 @@ These data are illustrative.
 - **Case study** parts: name the source and receiving countries, give dates and specific impacts on
   each side.
 
-## Next steps
+## More on this topic
 
 Revise the terms with the
 [Migration revision notes](/resources/cambridge-o-level-geography-migration-revision-notes/) and

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Distance = 4.636 + (4.636 + 5.780) [1] = **15.1 m** [1]. Total: 7
 - Claiming a collision when the two components are zero at different times.
 - Finding the time of least speed but not the speed itself.
 
-## Next steps
+## More on this topic
 
 - Re-read the [kinematics revision notes](/resources/oxfordaqa-a-level-mathematics-9660-m2-kinematics-revision-notes/).
 - Return to the [kinematics study guide](/resources/oxfordaqa-a-level-mathematics-9660-m2-kinematics/) for the exponential and circular examples.

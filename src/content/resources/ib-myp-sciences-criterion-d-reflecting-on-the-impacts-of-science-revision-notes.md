@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ Long enough to explain the science, develop the implications and reach a judgmen
 **Can I use a source from the internet?**
 Yes, if you judge its reliability and cite it using a recognised system.
 
-## Next steps
+## More on this topic
 
 Work through the [Criterion D practice questions](/resources/ib-myp-sciences-criterion-d-reflecting-on-the-impacts-of-science-practice/). Then read [the four criteria in practice](/resources/ib-myp-sciences-criteria-in-practice/) and the [MYP Sciences global contexts page](/resources/ib-myp-sciences-global-contexts/).
 

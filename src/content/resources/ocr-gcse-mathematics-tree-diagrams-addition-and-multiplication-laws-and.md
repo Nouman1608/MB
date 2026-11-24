@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers tree diagrams, the addition law, the multiplication law and conditional probability for OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), content references 11.02d, 11.02e and 11.02f. Most of it is for both tiers. The parts marked **Higher tier only** are conditional probability from first principles, the formula p(A and B) = p(A given B)p(B) and the test for independence. Work through the [revision notes](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and-revision-notes/) for a quick recap and the [practice questions](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and-practice/) to test yourself. Course pages: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [checklist](/checklists/ocr/gcse/mathematics/) and the [free diagnostics](/diagnostics/).
 
@@ -309,7 +309,7 @@ In example 6, p(diamond given red) = 1/2 but p(diamond) = 1/4. The two are diffe
 - Treating p(A given B) and p(B given A) as the same. In general they differ.
 - Giving route probabilities that do not sum to 1 and not checking.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and-practice/), then tick the unit off the [checklist](/checklists/ocr/gcse/mathematics/). The [diagnostics](/diagnostics/) show where else to revise.
 

@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -322,7 +322,7 @@ The major product forms through the more stable carbocation. With hydrogen bromi
 **How do you test for a C=C double bond?**
 Add aqueous bromine: an alkene decolourises it, while an alkane gives no change. This test is part of the Cambridge International AS & A Level Chemistry 9701 hydrocarbons content.
 
-## Related resources
+## More resources on this topic
 
 - [Organic Mechanisms: An Introduction](/resources/organic-mechanisms-an-introduction/) — the mechanism vocabulary and curly-arrow notation this resource assumes
 - [Halogenoalkanes: Nucleophilic Substitution and Elimination](/resources/as-halogenoalkanes/) — halogenoalkanes made from alkanes and alkenes, and their own reactions

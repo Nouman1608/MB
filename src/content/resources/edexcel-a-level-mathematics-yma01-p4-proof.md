@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ The proof does **not** claim that N is prime. For example, 2 × 3 × 5 × 7 × 1
 - **"Use proof by contradiction to show ..." in an unfamiliar setting**: look for parity (even cannot equal odd), size (a number smaller than the smallest) or a square that would have to be negative.
 - Write in sentences. Proof marks reward the logic between the lines of algebra.
 
-## Related resources
+## More resources on this topic
 
 - [P4 proof revision notes](/resources/edexcel-a-level-mathematics-yma01-p4-proof-revision-notes/)
 - [P4 proof practice questions](/resources/edexcel-a-level-mathematics-yma01-p4-proof-practice/)

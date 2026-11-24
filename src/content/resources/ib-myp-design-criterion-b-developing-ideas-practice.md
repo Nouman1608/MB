@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -153,7 +153,7 @@ Learn the skills first with the [study guide](/resources/ib-myp-design-criterion
 - Digital projects that show a polished screen but no navigation flowchart.
 - Justifications that praise the chosen idea without saying why the others were weaker.
 
-## Next steps
+## More on this topic
 
 - [Criterion B revision notes](/resources/ib-myp-design-criterion-b-developing-ideas-revision-notes/)
 - [Criterion B study guide](/resources/ib-myp-design-criterion-b-developing-ideas/)

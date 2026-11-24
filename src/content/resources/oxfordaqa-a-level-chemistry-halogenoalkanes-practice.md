@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -208,7 +208,7 @@ listing it twice suggests you have not checked for duplicates.
 - Counting equivalent alkenes twice, or missing E and Z forms.
 - Rounding moles too early, which shifts a percentage yield in the last figure.
 
-## Next steps
+## More on this topic
 
 - [Halogenoalkanes: condensed notes](/resources/oxfordaqa-a-level-chemistry-halogenoalkanes-revision-notes/)
 - [Halogenoalkanes: full study guide](/resources/oxfordaqa-a-level-chemistry-halogenoalkanes/)

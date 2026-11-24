@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the second half of **sub-topic C.3, Wave phenomena**, from the IB *Physics guide*, first assessment 2025: superposition, double-source interference and Young's double slit (standard and higher level), then single-slit diffraction, its modulation of the double-slit pattern, and multiple slits and diffraction gratings (additional higher level, **HL only**). Wavefronts, rays, reflection, refraction and the diffraction of waves around bodies and apertures are taught in a separate unit and are not repeated here.
@@ -230,7 +230,7 @@ Compared with two slits, a grating with many slits gives **narrower, sharper and
 - Stating the white central maximum is coloured.
 - Calling the half-width of the central maximum its width: the angle θ = λ/b is to the first minimum, so the full width is twice as much.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ib-dp-physics-superposition-double-slit-interference-single-slit-practice/), then use the [revision notes](/resources/ib-dp-physics-superposition-double-slit-interference-single-slit-revision-notes/) for quick recall.
 

@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Name the axes, with price on the vertical axis and quantity on the horizontal ax
 **What are the common mistakes in Edexcel IGCSE Economics elasticity questions?**
 Common slips include using the later figure as the base of a percentage change, defining elasticity as "how much" without the idea of responsiveness, dropping the minus sign for an inferior good, and naming a factor without linking it to the product in the question.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use-revision-notes/) or re-read the [study guide](/resources/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use/).
 - Tick off statements on the [printable checklist](/checklists/edexcel/igcse/economics/) and browse the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/).

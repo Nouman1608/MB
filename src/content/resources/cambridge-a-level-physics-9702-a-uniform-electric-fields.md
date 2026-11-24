@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ distance = E_k / F = 0.042 m
 - **Show that** (V m⁻¹ = N C⁻¹): write each unit in terms of J, C, N and m step by step.
 - **Suggest** (how to increase the deflection): name a change and give its effect on a or t.
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields study guide](/resources/a-physics-electric-fields/) — the whole of Topic 18
 - [Uniform electric fields revision notes](/resources/cambridge-a-level-physics-9702-a-uniform-electric-fields-revision-notes/)

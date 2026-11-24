@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -154,7 +154,7 @@ Look at g′ at the root: the iteration converges if |g′(α)| < 1. Judging con
 **How do you explain whether the trapezium rule over- or underestimates?**
 Give a reason based on the shape of the curve: for a convex curve (f″ > 0) it overestimates, and for a concave curve (f″ < 0) it underestimates.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-numerical-methods-locating-roots-iteration-newton-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-mathematics-numerical-methods-locating-roots-iteration-newton/).

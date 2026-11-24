@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ Use four tests to evaluate any strategy:
 4. Give one benefit of encouraging immigration in an ageing HIC. *It adds young workers quickly.*
 5. A population of 8 million grows at 2%. What is the increase in one year? *160 000.*
 
-## Related resources
+## More resources on this topic
 
 - [Managing human population size revision notes](/resources/cambridge-o-level-environmental-management-5014-managing-human-population-size-5014-2027-revision-notes/)
 - [Managing human population size practice questions](/resources/cambridge-o-level-environmental-management-5014-managing-human-population-size-5014-2027-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -219,7 +219,7 @@ Every inference needs a quoted or described piece of evidence, such as specific 
 **Is listening assessed on screen in the IB MYP Language Acquisition eAssessment?**
 Yes. Criterion A Listening is part of the on-screen examination, which is worth 96 marks: 32 for each of Criteria A, B and D. Criterion A is assessed in Tasks 1 and 2, 16 marks in each. Speaking (Criterion C) is a separate individual examination, internally assessed and externally moderated.
 
-## Next steps
+## More on this topic
 
 Try the [Criterion A practice questions](/resources/ib-myp-language-acquisition-criterion-a-listening-practice/). For how listening compares with the other criteria, see the [criteria in practice revision notes](/resources/ib-myp-language-acquisition-criteria-in-practice-revision-notes/) and the [assessment revision notes](/resources/ib-myp-language-acquisition-assessment-revision-notes/).
 

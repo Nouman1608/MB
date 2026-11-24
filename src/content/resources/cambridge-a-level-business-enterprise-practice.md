@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -137,7 +137,7 @@ These questions cover section 1.1 Enterprise (1.1.1 to 1.1.3) of the Cambridge I
 - Analysing failure with generic causes and no figures from the case.
 - Ending an evaluate or justify answer without a clear, reasoned judgement.
 
-## Next steps
+## More on this topic
 
 - Recap the topic with the [revision notes](/resources/cambridge-a-level-business-enterprise-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/cambridge-a-level-business-enterprise/).

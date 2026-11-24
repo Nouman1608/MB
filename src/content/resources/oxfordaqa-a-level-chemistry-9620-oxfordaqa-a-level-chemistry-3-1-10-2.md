@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ A pH meter is used in [required practical 7](/resources/oxfordaqa-a-level-chemis
 - **Explain** why the pH changes on dilution: [H⁺] falls, so −log₁₀[H⁺] rises; tenfold dilution of a strong acid adds 1.
 - **Deduce** a concentration: rearrange with 10^(−pH), then use n = cV if a mass or volume is needed.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.10.2 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-2-revision-notes/), then try the [3.1.10.2 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-2-practice/). For alkalis, where [H⁺] must be found from [OH⁻], move on to the [ionic product of water (3.1.10.3)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-3/).
 

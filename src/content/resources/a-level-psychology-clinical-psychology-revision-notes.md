@@ -34,7 +34,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -187,7 +187,7 @@ The issues are similar (nature–nurture, reductionism, determinism), but examin
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 1: Clinical Psychology — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Clinical Psychology study guide](/resources/a-level-psychology-clinical-psychology/)
 - [Clinical Psychology practice questions](/resources/a-level-psychology-clinical-psychology-practice/)

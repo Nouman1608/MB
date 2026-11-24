@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ may eat a few leaves before it is affected. **[2]**
 - Describing a data trend without quoting values.
 - Explaining poor growth without the link through photosynthesis to glucose.
 
-## Next steps
+## More on this topic
 
 - [Plant disease study guide](/resources/aqa-gcse-biology-8461-plant-disease/)
 - [Plant disease revision notes](/resources/aqa-gcse-biology-8461-plant-disease-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ The 2147 command words are **describe** (state the main points or features) and 
 **Is 1848 a Paper 2 topic in 2024–2026?**
 No. The prescribed Option A topics for those years are other key questions, so 1848 is examined on Paper 1.
 
-## Related resources
+## More resources on this topic
 
 - [Revolutions of 1848 revision notes](/resources/cambridge-o-level-world-history-2147-revolutions-1848-revision-notes/)
 - [Revolutions of 1848 practice questions](/resources/cambridge-o-level-world-history-2147-revolutions-1848-practice/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches equilibrium and two industrial processes for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.8.2 Factors affecting equilibrium (a to e) and section 3.8.3 Production of ammonia and sulfuric acid (a to d). No required practical belongs to these two sections. The qualification is untiered, so all of it applies to every candidate, and the specification allows content from any part of the course on either paper.
@@ -267,7 +267,7 @@ Calculate the maximum mass of sulfuric acid that can be made from 8.0 tonnes of 
 - Explaining 450 °C with "higher temperature gives more product". For an exothermic forward reaction it gives less; 450 °C is chosen for rate.
 - Giving the contact process a high pressure, or swapping the two catalysts. Haber uses iron at about 200 atmospheres; Stage 2 uses vanadium(V) oxide at atmospheric pressure.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-practice/). Related: [rate of reaction](/resources/oxfordaqa-igcse-chemistry-rate-of-reaction/), [energy changes](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change/) and the [exam preparation page](/resources/oxfordaqa-igcse-chemistry-exam-preparation/). The [free diagnostics](/diagnostics/) will show which other topics need work.
 

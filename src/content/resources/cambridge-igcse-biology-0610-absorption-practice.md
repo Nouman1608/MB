@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ D: capillaries: fatty acids and glycerol; lacteal: glucose and amino acids **[1]
 - (Extended) Saying "more surface area" without linking it to faster absorption.
 - Dividing the wrong way round in surface-area ratio questions; the larger area goes on top.
 
-## Next steps
+## More on this topic
 
 - Go back over the [absorption revision notes](/resources/cambridge-igcse-biology-0610-absorption-revision-notes/).
 - Re-read the [absorption study guide](/resources/cambridge-igcse-biology-0610-absorption/) for any question you dropped marks on.

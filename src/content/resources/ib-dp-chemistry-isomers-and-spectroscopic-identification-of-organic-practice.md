@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ New to the content? Begin with the [study guide](/resources/ib-dp-chemistry-isom
 - Counting hydrogens on the same carbon, or across a carbon with no H, when applying the n + 1 rule.
 - Treating 1.33 in a mole ratio as 1 instead of multiplying through by 3.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic/).
 - Try all free 10-minute [diagnostics](/diagnostics/).

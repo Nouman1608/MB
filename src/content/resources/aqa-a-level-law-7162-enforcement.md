@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -219,7 +219,7 @@ four months.
 - **Discuss**: evaluate effectiveness, for example the Strasbourg backlog, slow execution in Hirst, the
   permission filter in judicial review and the limited damages under section 8.
 
-## Related resources
+## More resources on this topic
 
 [Enforcement revision notes](/resources/aqa-a-level-law-7162-enforcement-revision-notes/) |
 [Enforcement practice questions](/resources/aqa-a-level-law-7162-enforcement-practice/) |

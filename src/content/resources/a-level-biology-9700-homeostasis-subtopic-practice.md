@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ This set differs from the topic-level [homeostasis practice questions](/resource
 - Saying glucagon acts on muscle cells.
 - Calling ABA, not Ca²⁺, the second messenger.
 
-## Next steps
+## More on this topic
 
 - [Homeostasis revision notes](/resources/a-level-biology-9700-homeostasis-revision-notes/)
 - [Homeostasis study guide](/resources/a-level-biology-9700-homeostasis/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the polynomial, graph and transformation content listed under P1.1 (Algebra): manipulating polynomials, algebraic division by (x − a), the Remainder Theorem and Factor Theorem, sketching linear, quadratic and cubic curves, solving equations from intersections, and the transformations y = af(x), y = f(x) + a, y = f(x + a) and y = f(ax). The specification places this content in International AS, Unit P1 (Pure Maths). It gives no Core, Extension or Higher labels. The specification applies to International AS exams from May/June 2018 and International A-level exams from May/June 2019.
@@ -279,7 +279,7 @@ The vertex moves from (1, −4) to (4, −6), which agrees with adding (3, −2)
 
 Examiners usually give credit for method shown. When you use the Factor Theorem, write the substitution (for example f(2) = 0) and state the conclusion, because a bare final factorisation is harder to credit if one factor is wrong. In a sketch, clear labelled intercepts and the correct end behaviour usually matter more than neat drawing.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-polynomials-factor-theorem-graph-sketching-and-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-polynomials-factor-theorem-graph-sketching-and-revision-notes/) for quick recall. Tick off topics on the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and see the [course hub](/boards/oxfordaqa/a-level/mathematics/).
 

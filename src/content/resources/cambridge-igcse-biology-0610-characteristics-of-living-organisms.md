@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Both **movement** (the whole organism changes place) and **sensitivity** (it det
 - **Suggest:** apply the definitions to something unfamiliar, such as a robot or a virus-like particle, and justify your choice.
 - **Identify:** pick out the characteristic shown in a description or image.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [revision notes](/resources/cambridge-igcse-biology-0610-characteristics-of-living-organisms-revision-notes/).
 - Try the [practice questions with worked answers](/resources/cambridge-igcse-biology-0610-characteristics-of-living-organisms-practice/).

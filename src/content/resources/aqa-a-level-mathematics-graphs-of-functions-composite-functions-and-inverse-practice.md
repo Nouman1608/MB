@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ x must be in the domain of f, and f(x) must be in the domain of g. For g(x) = �
 **What is a self-inverse function?**
 A function for which f⁻¹ = f, so ff(x) = x. If finding the inverse gives back the same rule, say so explicitly.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse-revision-notes/).
 - Reread the [study guide](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -220,7 +220,7 @@ subscriptions alone.
 - **Advise** a committee on, for example, raising subscriptions by referring to the
   surplus or deficit and the club's bank balance.
 
-## Next steps
+## More on this topic
 
 Use the
 [5.5 revision notes](/resources/cambridge-igcse-accounting-0452-clubs-and-societies-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -210,7 +210,7 @@ was strong evidence for the Big Bang.
 - **Explain** (8.18P): link three ideas: all galaxies red-shifted → further ones faster → space expanding.
 - **Describe evidence** (8.14P): for each piece of evidence, state the observation, then what it shows.
 
-## Related resources
+## More resources on this topic
 
 - [Cosmology revision notes](/resources/edexcel-igcse-physics-4ph1-cosmology-revision-notes/) with a self-test
 - [Cosmology practice questions](/resources/edexcel-igcse-physics-4ph1-cosmology-practice/), including red-shift calculations

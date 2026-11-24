@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -119,7 +119,7 @@ A different judgment is acceptable if it follows from the weighing you have show
 **Is the number of implications important?**
 Depth matters more than number. Two developed implications are better than five single-line points.
 
-## Next steps
+## More on this topic
 
 - [Criterion D revision notes](/resources/ib-myp-sciences-criterion-d-reflecting-on-the-impacts-of-science-revision-notes/)
 - [Criterion D study guide](/resources/ib-myp-sciences-criterion-d-reflecting-on-the-impacts-of-science/)

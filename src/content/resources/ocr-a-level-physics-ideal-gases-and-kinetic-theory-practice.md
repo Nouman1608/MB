@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -171,7 +171,7 @@ Start the curve at the origin, rise to a peak and fall with a long tail towards 
 **What must you say about temperature in a Boyle's law method?**
 State how temperature is kept constant, for example by changing the volume slowly and waiting after each change so the gas returns to room temperature. Omitting this is a common reason for lost marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-ideal-gases-and-kinetic-theory-revision-notes/).
 - Return to the [study guide](/resources/ocr-a-level-physics-ideal-gases-and-kinetic-theory/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.2 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.2 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ This set covers subtopic 7.2, Energy sources -- uses and management, from Topic 
 - Ignoring the rebound effect in efficiency questions.
 - One-sided discussions of nuclear power or renewables.
 
-## Next steps
+## More on this topic
 
 - [7.2 study guide](/resources/ib-dp-environmental-systems-and-societies-7-2/)
 - [7.2 revision notes](/resources/ib-dp-environmental-systems-and-societies-7-2-revision-notes/)

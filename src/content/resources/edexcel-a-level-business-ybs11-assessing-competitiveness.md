@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -152,7 +152,7 @@ High turnover and absence raise recruitment, training and temporary staffing cos
 
 **Calculate** answers need the formula, the figures and a result with a percentage sign or ratio form. For **analyse**, link the ratio to a cause and an effect on the business. **Assess** answers should use several ratios together, mention limitations, and judge competitiveness on balance, for instance "profitability is weakening, but liquidity is the more urgent threat".
 
-## Related resources
+## More resources on this topic
 
 - [Assessing competitiveness revision notes](/resources/edexcel-a-level-business-ybs11-assessing-competitiveness-revision-notes/)
 - [Assessing competitiveness practice questions](/resources/edexcel-a-level-business-ybs11-assessing-competitiveness-practice/)

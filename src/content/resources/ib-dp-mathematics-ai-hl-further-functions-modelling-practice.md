@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ Revise first from the [study guide](/resources/ib-dp-mathematics-ai-hl-further-f
 - Answering a "least number of sessions" question with a decimal or by rounding down.
 - Reading a log-graph intercept as a instead of log₁₀ a.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-dp-mathematics-ai-hl-further-functions-modelling-revision-notes/).
 - [Study guide](/resources/ib-dp-mathematics-ai-hl-further-functions-modelling/).

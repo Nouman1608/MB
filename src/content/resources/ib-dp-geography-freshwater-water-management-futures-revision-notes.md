@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -144,6 +144,6 @@ With little land to collect rain, Singapore combines four sources: water from lo
 
 **Answers:** 1. Supply: dams, desalination; demand: metering, leak repair. 2. Supply and demand measures, with all stakeholders. 3. Does it protect future supply? Does it share costs and benefits fairly? 4. It changes rainfall, snowpack and extremes, so past flows are a poor guide. 5. Secures supply but may displace communities and alter downstream ecology. 6. Upstream use affects downstream users, so the whole basin must be considered together. 7. Benefits: hydropower, flood control (also navigation); costs: relocation of over a million people, sediment trapping (also flooded heritage). 8. Shares were set using flows from an unusually wet period. 9. By capping use and buying water entitlements from farmers, and funding efficient irrigation. 10. Local catchment water, imported water, NEWater and desalinated water. 11. Deliberately putting surplus water back into an aquifer for later use. 12. For example storing flood water and filtering pollutants.
 
-## Related resources
+## More resources on this topic
 
 - [Option A: Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/)

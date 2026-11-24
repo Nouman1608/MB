@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ D: halving both charges and halving the separation
 - Using the thread length rather than the separation in a hanging-sphere question.
 - Copying the value in a "show that" without an unrounded answer to one more significant figure.
 
-## Next steps
+## More on this topic
 
 - Revisit the explanations in the [Coulomb's law study guide](/resources/oxfordaqa-a-level-physics-9630-coulombs-law-oxfordaqa/).
 - Move on to the [electric field strength practice questions](/resources/oxfordaqa-a-level-physics-9630-electric-field-strength-oxfordaqa-practice/).

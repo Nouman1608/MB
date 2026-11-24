@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. It covers Topic 4, section 4.4 "The calculation and interpretation of accounting ratios", points (a) to (c). The specification places topics 4 and 5 in Paper 2, so this material belongs to the financial statements paper. You will need the income statement and the statement of financial position from earlier in the topic, because every ratio is built from figures on those two statements.
@@ -199,7 +199,7 @@ Useful comparisons are with the previous year, with a target, or with a similar 
 - Describing a change ("it went up") without a reason or consequence.
 - Saying a high profit means good liquidity, which confuses the two ideas in 4.4 (a).
 
-## Next steps
+## More on this topic
 
 Condense the formulas with the [revision notes](/resources/edexcel-igcse-accounting-accounting-ratios-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-accounting-accounting-ratios-practice/). Return to the [4AC1 Accounting hub](/boards/edexcel/igcse/accounting/) or tick off progress on the [checklist](/checklists/edexcel/igcse/accounting/). Find weak spots with the [free diagnostics](/diagnostics/).
 

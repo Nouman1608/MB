@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Calculate the fixed element at both the high and the low output levels before bu
 **How do I earn marks on an evaluation question about break-even?**
 Back the judgement with figures from earlier parts of the question, such as the change in profit, and finish with a recommendation. Pros and cons with no decision limit the credit.
 
-## Next steps
+## More on this topic
 
 - [Break-even revision notes](/resources/edexcel-ial-accounting-break-even-analysis-revision-notes/)
 - [Break-even study guide](/resources/edexcel-ial-accounting-break-even-analysis/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ HL Paper 3 also allows technology.
 11. About 6 × 10⁸ ÷ 3 × 10³ = 2 × 10⁵.
 12. It is an integer.
 
-## Next steps
+## More on this topic
 
 - [Section 1.1 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-1-1/)
 - [Section 1.1 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-1-practice/)

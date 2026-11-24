@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -199,7 +199,7 @@ Write one sentence naming the audience and one naming the purpose, then check ev
 **How many marks is technical accuracy worth in Paper 2 Section B?**
 Technical accuracy (W4) is worth 10 of Section B's 40 marks, a quarter of the section, so it should not be neglected under time pressure.
 
-## Related resources
+## More resources on this topic
 
 - [Source-based Reading and Directed Writing study guide](/resources/igcse-oxfordaqa-english-language-paper-2/)
 - [Source-based Reading and Directed Writing practice questions](/resources/oxfordaqa-english-language-paper-2-practice/)

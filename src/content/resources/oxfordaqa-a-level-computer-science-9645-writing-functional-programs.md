@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -226,7 +226,7 @@ The same techniques exist outside Haskell. Python has `map`, `filter` and `funct
 - Starting a product fold from 0, which always gives 0.
 - Confusing `filter`, which selects items, with `map`, which transforms every item.
 
-## Next steps
+## More on this topic
 
 - [Writing functional programs revision notes](/resources/oxfordaqa-a-level-computer-science-9645-writing-functional-programs-revision-notes/)
 - [Writing functional programs practice questions](/resources/oxfordaqa-a-level-computer-science-9645-writing-functional-programs-practice/)

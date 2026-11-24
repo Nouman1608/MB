@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 6.4 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 6.4 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ This set covers subtopic 6.4, Stratospheric ozone, from Topic 6 of IB DP Environ
 - Inventing a clean-up method for stratospheric ODS.
 - Essays that describe one treaty and never judge whether it works as a model.
 
-## Next steps
+## More on this topic
 
 - [6.4 study guide](/resources/ib-dp-environmental-systems-and-societies-6-4/)
 - [6.4 revision notes](/resources/ib-dp-environmental-systems-and-societies-6-4-revision-notes/)

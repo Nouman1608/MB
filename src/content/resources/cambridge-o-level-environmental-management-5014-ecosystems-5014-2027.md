@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ The pyramid of numbers has a narrow base (1 tree), a wide second bar (4,000 cate
 
 **Describe** questions on components need a definition plus, where possible, an example. **Describe and interpret** questions on food webs need you to use the organisms given: name them, trace the arrows, and predict effects of removing one. **Describe, interpret and explain** questions on pyramids need the shape, what it shows and the reason for it. For the carbon cycle, name each process and the direction carbon moves.
 
-## Next steps
+## More on this topic
 
 - Recall tables and a self-test: [ecosystems revision notes](/resources/cambridge-o-level-environmental-management-5014-ecosystems-5014-2027-revision-notes/).
 - Exam-style questions with full answers: [ecosystems practice questions](/resources/cambridge-o-level-environmental-management-5014-ecosystems-5014-2027-practice/).

@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -176,7 +176,7 @@ A best-fit line passes close to (7.0, 0.24) and (11.0, 1.88).
 - Describing a diffraction change without linking it to momentum and wavelength.
 - Omitting the phosphor in the fluorescent tube.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-physics-electron-collisions-photoelectric-effect-and-wave-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-physics-electron-collisions-photoelectric-effect-and-wave/).
 - Tick off the [OxfordAQA A-level Physics checklist](/checklists/oxfordaqa/a-level/physics/) and visit the [course hub](/boards/oxfordaqa/a-level/physics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu grammar example and self-test answer on this page."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu grammar example and self-test answer on this page. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -217,7 +217,7 @@ that the 20-mark extended writing and the 15-mark translation get the time they 
 11. *کمرے*.
 12. *تھیں*: a respected woman takes the plural form, even though she is one person.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 2 cloze: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze-practice/)
 - [Paper 2 revision notes](/resources/o-level-urdu-second-language-paper-2-revision-notes/)

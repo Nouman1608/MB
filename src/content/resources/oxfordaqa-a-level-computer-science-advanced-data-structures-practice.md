@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -255,7 +255,7 @@ A search stops when it finds a match or reaches an empty position. Stopping at t
 **What is a common mistake with directed graph adjacency matrices?**
 Copying each edge into both cells, as for an undirected graph. In a directed graph, read the row as from and the column as to, so the matrix is not symmetric.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ Add the two steps and NO₂ and NO cancel, leaving SO₂ + ½O₂ → SO₃. Add
 - **Interpret**: read off values with signs and units, and say which route is catalysed and why.
 - **State** (type of catalyst): give the type and the phase evidence, for example "heterogeneous: the solid catalyst is in a different phase from the gaseous reactants".
 
-## Related resources
+## More resources on this topic
 
 - [Homogeneous and heterogeneous catalysts: revision notes](/resources/cambridge-a-level-chemistry-9701-as-homogeneous-and-heterogeneous-catalysts-revision-notes/)
 - [Homogeneous and heterogeneous catalysts: practice questions](/resources/cambridge-a-level-chemistry-9701-as-homogeneous-and-heterogeneous-catalysts-practice/)

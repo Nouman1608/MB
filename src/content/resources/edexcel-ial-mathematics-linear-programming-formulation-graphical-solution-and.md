@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches linear programming for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics (YMA01), Specification Issue 3, April 2019. It covers unit D1 (Decision Mathematics 1), section 5, topics 5.1 to 5.3. The specification states that D1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
@@ -235,7 +235,7 @@ Solve the equations of the two boundary lines that meet there simultaneously. Re
 **Why must you interpret a linear programming answer in context?**
 The Edexcel IAL D1 specification expects you to model and interpret situations, so a final answer should state the best plan in words, its objective value, and any resource left unused, not just the numbers.
 
-## Next steps
+## More on this topic
 
 Condense the method with the [revision notes](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-practice/). Tick topics off on the [checklist](/checklists/edexcel/a-level/mathematics/) and see the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) for related units.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ These questions cover section 6.1 (6.1.1 and 6.1.2, international specialisation
 - Giving only advantages when the question asks about both sides.
 - Ending an evaluation without a judgement or a "depends on" point.
 
-## Next steps
+## More on this topic
 
 - Return to the [revision notes](/resources/cambridge-o-level-economics-international-specialisation-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-international-specialisation/).
 - Check your coverage on the [printable checklist](/checklists/cambridge/o-level/economics/) and the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/).

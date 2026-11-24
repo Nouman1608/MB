@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -150,6 +150,6 @@ The stages are often summarised as: traditional diets high in starchy staples ->
 
 **Answers:** 1. Availability, access, utilisation, stability. 2. Stunting is low height for age; wasting is low weight for height. 3. 70 / 3.0625 = 22.9. 4. Years of life lost to early death and years lived with disability. 5. They hide inequality between groups and regions. 6. A shift to more processed, fat- and sugar-rich diets as incomes and urbanisation rise. 7. Deficiency of micronutrients such as iron or vitamin A, even when calories are adequate. 8. Undernutrition and overweight or obesity existing together in the same population or household. 9. Incidence counts new cases in a period; prevalence counts all existing cases at one time. 10. Undernourishment, child stunting, child wasting and child mortality. 11. 36 / 2,400 x 1,000 = 15 per 1,000 live births. 12. For example it hides distribution within households and ignores dietary quality.
 
-## Related resources
+## More resources on this topic
 
 - [Option F: Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/)

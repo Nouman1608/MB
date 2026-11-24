@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,6 +127,6 @@ These questions cover syllabus section 3.13 of IB DP Mathematics: Analysis and A
 - Ignoring the sign of the scalar product, so an obtuse angle is reported as acute.
 - In proofs, not stating that the vectors are non-zero, or not naming the property used.
 
-## Next steps
+## More on this topic
 
 Revise any method in the [3.13 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-13/), then try the [3.14 vector equation of a line practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-3-14-practice/).

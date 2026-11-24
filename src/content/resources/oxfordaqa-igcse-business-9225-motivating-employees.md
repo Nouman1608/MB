@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -200,7 +200,7 @@ The garage must decide whether $24,960 is worth the gain in motivation, or wheth
 
 For **state** and **identify** questions, name the method. For **explain** questions, state the method and its effect on the employee, then the effect on the business: "commission encourages sales staff to sell more, which raises revenue". For **calculate** questions, show each part of pay. For **evaluate** questions, weigh the cost to the business against the likely gain in productivity and retention, consider the type of employee, and give a reasoned recommendation.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-motivating-employees-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-motivating-employees-practice/)

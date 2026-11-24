@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -203,7 +203,7 @@ named society. In 8-mark **explain** questions, develop each point with a conseq
 **evaluate** questions, compare functionalist, Marxist and interactionist readings and finish with
 a judgement.
 
-## Next steps
+## More on this topic
 
 - [Individuals and society revision notes](/resources/oxfordaqa-a-level-sociology-9690-individuals-and-society-revision-notes/)
 - [Individuals and society practice questions](/resources/oxfordaqa-a-level-sociology-9690-individuals-and-society-practice/)

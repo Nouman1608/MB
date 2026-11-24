@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -115,7 +115,7 @@ When SRAS and LRAS shift right and AD is unchanged, the new equilibrium has **hi
 
 The distinction between market-based and interventionist supply-side policy is A Level content (section 10.3), so at AS focus on the named tools and their effect on LRAS.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [supply-side policy revision notes](/resources/cambridge-a-level-economics-9708-supply-side-policy-as-revision-notes/).
 - Test yourself with the [supply-side policy practice questions](/resources/cambridge-a-level-economics-9708-supply-side-policy-as-practice/).

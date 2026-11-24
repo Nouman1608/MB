@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -174,7 +174,7 @@ Both parties need the key, but sending it over an insecure channel risks interce
 - Saying asymmetric ciphers "do not use keys".
 - Writing XOR results that fail the check: ciphertext XOR key must give back the plaintext.
 
-## Next steps
+## More on this topic
 
 - [Basic encryption methods revision notes](/resources/oxfordaqa-a-level-computer-science-9645-basic-encryption-methods-revision-notes/)
 - [Basic encryption methods practice questions](/resources/oxfordaqa-a-level-computer-science-9645-basic-encryption-methods-practice/)

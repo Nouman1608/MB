@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ These questions cover section 3.8, Investment appraisal, of the IB *Business man
 - Giving a recommendation with no counter-point, or one that ignores the figures in the case.
 - Missing units, such as years, percentage or dollars.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-business-management-investment-appraisal-revision-notes/) and the [study guide](/resources/ib-dp-business-management-investment-appraisal/).
 - Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/) and the [checklist](/checklists/ib/ib-dp/business/).

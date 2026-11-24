@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Identify which solid is pure T, which is impure T, and which is a different pure
 - Leaving out "damp" before litmus, or the bleaching step for chlorine.
 - Using smell to tell ammonia from chlorine.
 
-## Next steps
+## More on this topic
 
 - Recap fast with the [revision notes for this unit](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-revision-notes/).
 - Re-learn anything you missed in the [study guide for this unit](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/).

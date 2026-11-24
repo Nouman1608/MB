@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **These notes compress Section 3 Power of Cambridge O Level Pakistan Studies 2059 Paper 2 into
@@ -168,7 +168,7 @@ dioxide while running.
 Industry, irrigation tubewells, hospitals, schools and telecommunications all need reliable,
 affordable energy, so shortages slow growth and cost jobs.
 
-## Related resources
+## More resources on this topic
 
 - [Power study guide](/resources/o-level-pakistan-studies-power/)
 - [Power practice questions](/resources/o-level-pakistan-studies-power-practice/)

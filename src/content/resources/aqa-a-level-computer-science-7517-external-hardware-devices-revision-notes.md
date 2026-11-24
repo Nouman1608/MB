@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -160,7 +160,7 @@ State the priority, then match it with a reason:
 11. 60 ÷ 4.7 = 12.8, so 13.
 12. Any one of: higher cost per byte; limited number of erase cycles.
 
-## Related resources
+## More resources on this topic
 
 - [External hardware devices study guide](/resources/aqa-a-level-computer-science-7517-external-hardware-devices/)
 - [External hardware devices practice questions](/resources/aqa-a-level-computer-science-7517-external-hardware-devices-practice/)

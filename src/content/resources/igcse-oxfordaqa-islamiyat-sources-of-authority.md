@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -157,7 +157,7 @@ distinct stages.
 - Practise the point-evidence-explain-link structure for "importance of"
 questions.
 
-## Related resources
+## More resources on this topic
 
 - [Sources of Authority in Islam revision notes](/resources/igcse-oxfordaqa-islamiyat-sources-of-authority-revision-notes/)
 - [Sources of Authority in Islam practice questions](/resources/igcse-oxfordaqa-islamiyat-sources-of-authority-practice/)

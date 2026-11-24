@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ To decide whether the chemical is a carcinogen, scientists would also look for a
 - Treating a risk factor as a certain cause.
 - Using 2 × n instead of 2ⁿ for repeated division.
 
-## Next steps
+## More on this topic
 
 - Exam-style questions: [cancer practice questions](/resources/aqa-gcse-biology-8461-cancer-practice/)
 - Condensed recall: [cancer revision notes](/resources/aqa-gcse-biology-8461-cancer-revision-notes/)

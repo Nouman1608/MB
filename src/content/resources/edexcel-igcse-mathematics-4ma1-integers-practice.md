@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -186,7 +186,7 @@ Related: [section 1.1 study guide](/resources/edexcel-igcse-mathematics-4ma1-int
 - Stopping the prime test at 7 in question 6 without reaching √187.
 - Giving the mean in question 9(c) without the negative temperatures subtracted.
 
-## Next steps
+## More on this topic
 
 - Recap the rules in the [section 1.1 revision notes](/resources/edexcel-igcse-mathematics-4ma1-integers-revision-notes/).
 - For HCF, LCM and prime factorisation questions, try the [integers, powers and roots practice questions](/resources/edexcel-igcse-maths-4ma1-integers-powers-and-roots-practice/).

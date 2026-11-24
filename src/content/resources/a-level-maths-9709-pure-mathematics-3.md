@@ -45,7 +45,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -294,7 +294,7 @@ Check that their direction vectors are not multiples of each other, so they are 
 **Which derivatives are not required in Pure Mathematics 3?**
 sin⁻¹ x and cos⁻¹ x are not required. MF19 lists the derivatives of eˣ, ln x, the six trigonometric functions and tan⁻¹ x.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/a-level-maths-9709-pure-mathematics-3-revision-notes/) for formula tables and a self-test, then the practice sets on [algebra and calculus](/resources/a-level-mathematics-pure-3-algebra-calculus-practice/) and [trigonometry, vectors and complex numbers](/resources/a-level-mathematics-pure-3-trig-vectors-complex-practice/). Their questions differ from the examples here.
 

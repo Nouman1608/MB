@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ Reflecting in y = x swaps the coordinates of every point: (1, 2) → (2, 1), (4,
 - **Sketch**: neat but not accurate; label every given fact.
 - **Give a reason**: quote the property or convention, for example "opposite angles of a parallelogram are equal".
 
-## Next steps
+## More on this topic
 
 - Condense the terms with the [conventions, notation and terms revision notes](/resources/ocr-gcse-mathematics-j560-conventions-notation-and-terms-revision-notes/).
 - Test yourself with the [conventions, notation and terms practice questions](/resources/ocr-gcse-mathematics-j560-conventions-notation-and-terms-practice/).

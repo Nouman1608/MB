@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -239,7 +239,7 @@ Three assets debited [1]. Payables and loan credited [1]. Capital 19,000 − 6,6
 - Balancing or adding the discount columns into cash or bank.
 - Missing journal narratives, or a capital figure that ignores liabilities.
 
-## Next steps
+## More on this topic
 
 - Revisit the [books of original entry study guide](/resources/edexcel-igcse-accounting-4ac1-books-of-original-entry/).
 - See where the entries go next in the [ledger accounting study guide](/resources/edexcel-igcse-accounting-ledger-accounting/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 4.4.1 Wave motion, statements (a) to (g), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. It is full A level content in Module 4, Electrons, waves and photons. Module 4 content is assessed in Exploring physics (component 02) and in Unified physics (component 03), and all components include synoptic assessment.
@@ -240,7 +240,7 @@ Polarisation confines oscillations to one plane containing the direction of trav
 **How is intensity related to amplitude?**
 Intensity is proportional to the square of the amplitude, so doubling the amplitude gives four times the intensity. Intensity itself is power per unit area, I = P/A, in W m⁻².
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-a-level-physics-wave-motion-polarisation-and-wave-effects-practice/), then condense the section with the [revision notes](/resources/ocr-a-level-physics-wave-motion-polarisation-and-wave-effects-revision-notes/). The [diagnostics](/diagnostics/) help you decide what to revise next.
 

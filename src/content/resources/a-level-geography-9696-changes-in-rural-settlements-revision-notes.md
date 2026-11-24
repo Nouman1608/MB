@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -133,7 +133,7 @@ A contrasting LIC or MIC case, such as villages in inland China that lost young 
 
 **Answers:** 1. Loss of rural population, usually by out-migration. 2. A village whose residents work in a nearby town or city. 3. Incomers with higher incomes increase demand. 4. Community-run shops, rural transport, broadband or affordable housing. 5. Nucleated, dispersed, linear. 6. Young adults leave, so a larger share of those remaining are old. 7. The minimum number of customers needed to keep a service open. 8. Population loss pushes services below threshold, closures make the area less attractive, so more people leave. 9. High birth rates can outweigh out-migration. 10. A village where over half the residents are 65 or older and community life is hard to sustain. 11. Strength: attracted firms and residents through broadband. Limitation: small numbers, hard to copy without local leadership.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

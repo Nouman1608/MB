@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,7 +144,7 @@ For mixed questions, use the [Decay, the carbon cycle and human effects practice
 - Giving the percentage as a mass, or dividing by the final mass instead of the starting mass.
 - Ignoring combustion in carbon cycle answers.
 
-## Next steps
+## More on this topic
 
 - [Decay and the carbon cycle study guide](/resources/oxfordaqa-igcse-biology-9201-decay-and-the-carbon-cycle/)
 - [Decay and the carbon cycle revision notes](/resources/oxfordaqa-igcse-biology-9201-decay-and-the-carbon-cycle-revision-notes/)

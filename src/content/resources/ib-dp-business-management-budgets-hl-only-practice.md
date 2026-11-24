@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -119,7 +119,7 @@ Judgment: the budget and variances were important because they made the problem 
 - Listing benefits of budgeting that are not linked to the business in the case.
 - Stopping an "evaluate" or "recommend" answer without weighing both sides or reaching a judgment.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ib-dp-business-management-budgets-hl-only-revision-notes/) and the [study guide](/resources/ib-dp-business-management-budgets-hl-only/).
 - See the [IB DP Business Management hub](/boards/ib/ib-dp/business/) and the [syllabus checklist](/checklists/ib/ib-dp/business/).

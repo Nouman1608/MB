@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -165,7 +165,7 @@ In this order frequency **increases** and wavelength **decreases**, so red has t
 - **Calculate:** write the equation, substitute, and give the answer with a unit (degrees or m/s) to 2 or 3 significant figures.
 - **Draw / complete a ray diagram:** use a ruler, put arrows on rays, use dashed lines only for virtual rays, and show where you read the image position.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Light revision notes](/resources/cambridge-igcse-physics-0625-light-revision-notes/), then test yourself with the [Light practice questions](/resources/cambridge-igcse-physics-0625-light-practice/). The [Waves revision notes](/resources/igcse-physics-waves-revision-notes/) cover the rest of Topic 3, and the next subtopic is the [electromagnetic spectrum study guide](/resources/cambridge-igcse-physics-0625-electromagnetic-spectrum/).
 

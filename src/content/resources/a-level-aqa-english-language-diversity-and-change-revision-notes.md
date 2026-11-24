@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -233,7 +233,7 @@ Useful named ideas include Aitchison's damp spoon, crumbling castle and infectio
 **Can language data appear in the exam instead of a text?**
 Yes. The specification names collections of language data, such as dictionaries and corpora, and research findings such as tables, graphs and statistics, so practise interpreting simple data sets with the same diversity and change lenses.
 
-## Related resources
+## More resources on this topic
 
 - [Language Diversity and Change study guide](/resources/a-level-aqa-english-language-diversity-and-change/)
 - [Language Diversity and Change practice questions](/resources/aqa-english-language-diversity-and-change-practice/)

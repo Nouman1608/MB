@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ A is a quadratic in x with a negative x² coefficient, so its graph is an upside
 - **"Show that"** a formula for area or volume: start from the given lengths and build the expression step by step before differentiating.
 - Use units in context: velocity in m/s, acceleration in m/s², area in m².
 
-## Next steps
+## More on this topic
 
 Revise with the [calculus revision notes](/resources/edexcel-igcse-mathematics-4ma1-calculus-revision-notes/), then try the [calculus practice questions](/resources/edexcel-igcse-mathematics-4ma1-calculus-practice/). For drawing tangents and recognising curve shapes, see the [graphs study guide](/resources/edexcel-igcse-mathematics-4ma1-graphs/).
 

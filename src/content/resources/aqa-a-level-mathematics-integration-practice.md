@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Use integration by parts twice, taking u = x² first and then u = 2x, to get eˣ
 **How should you comment on a differential equation model's long-term behaviour?**
 Let t → ∞ and state the limit in context, then give a limitation linked to the situation, such as a factor the model ignores.
 
-## Next steps
+## More on this topic
 
 - [Integration revision notes](/resources/aqa-a-level-mathematics-integration-revision-notes/)
 - [Integration study guide](/resources/aqa-a-level-mathematics-integration/)

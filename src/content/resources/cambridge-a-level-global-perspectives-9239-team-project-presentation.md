@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,7 +170,7 @@ The passage states the solution, links it to a cause, evaluates two sources in p
 - **Specialist language** that a non-specialist audience cannot follow.
 - **Running over 10 minutes**, so the final part, often the solution, is not assessed.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Team Project presentation revision notes](/resources/cambridge-a-level-global-perspectives-9239-team-project-presentation-revision-notes/) and practise it with the [Team Project presentation practice questions](/resources/cambridge-a-level-global-perspectives-9239-team-project-presentation-practice/). For the 10-mark written part of the component, see [the reflective paper](/resources/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper/).
 

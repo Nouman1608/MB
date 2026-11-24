@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ Interpretation questions ask what a sketch tells you without further calculation
 - **Find:** show working, such as completing the square or solving for roots.
 - **Show that:** finish with the exact expression in the question.
 
-## Next steps
+## More on this topic
 
 Try the [sketching curves practice questions](/resources/cambridge-o-level-mathematics-4024-sketching-curves-practice/) and revise from the [sketching curves revision notes](/resources/cambridge-o-level-mathematics-4024-sketching-curves-revision-notes/). For plotting accurate graphs from tables, see [graphs of functions](/resources/cambridge-o-level-mathematics-4024-graphs-of-functions/).
 

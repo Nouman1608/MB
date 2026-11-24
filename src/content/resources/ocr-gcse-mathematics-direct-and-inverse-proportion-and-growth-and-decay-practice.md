@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -159,7 +159,7 @@ Support pages: the [study guide](/resources/ocr-gcse-mathematics-direct-and-inve
 - Giving a decay multiplier as the percentage itself, for example 0.15 instead of 0.85.
 - Not interpreting a formula or a trial result in the words of the question.
 
-## Next steps
+## More on this topic
 
 - Recap quickly with the [revision notes](/resources/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay-revision-notes/)
 - Re-read the worked examples in the [study guide](/resources/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section **3.1.3 The double entry model** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. All of 3.1.3 is International AS content. The specification lists it in the content assessed by both Paper 1 and Paper 2, and the International A-level papers build on it. All amounts below are in dollars, and every business is invented.
@@ -282,7 +282,7 @@ Net assets equal equity, so the statement balances.
 - Forgetting to deduct the irrecoverable debt from receivables before calculating the provision.
 - Putting drawings in the income statement. Drawings reduce equity only.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/oxfordaqa-a-level-accounting-the-double-entry-model-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-accounting-the-double-entry-model-practice/). Exam technique is in the [OxfordAQA A-level Accounting exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/).
 

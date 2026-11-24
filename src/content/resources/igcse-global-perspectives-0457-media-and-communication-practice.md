@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -153,7 +153,7 @@ Using all the sources, assess which action would be most effective in keeping Ar
 - Assessing actions one by one without comparing them or reaching a judgement.
 - Team Project plans with no measure of success.
 
-## Next steps
+## More on this topic
 
 Try the general [Global Perspectives practice](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/). Find your weaker skills with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/).
 

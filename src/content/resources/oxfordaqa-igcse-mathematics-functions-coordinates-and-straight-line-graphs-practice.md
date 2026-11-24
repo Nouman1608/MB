@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -162,7 +162,7 @@ These questions follow the OxfordAQA International GCSE Mathematics (9260) speci
 - Drawing a line through only two points, so that a slip is not caught.
 - Leaving an equation in a different form from the one the question asks for.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs/) and the [revision notes](/resources/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs-revision-notes/) again for any question you missed.
 - Visit the [course hub](/boards/oxfordaqa/igcse/mathematics/) and tick off the [checklist](/checklists/oxfordaqa/igcse/mathematics/).

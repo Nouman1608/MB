@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -217,7 +217,7 @@ to show how much damage an attacker could do, and to test whether the existing s
 - **Penetration testing**: state that it is authorised, that it tries to gain access, and that its purpose is to find
   weaknesses; give both types.
 
-## Next steps
+## More on this topic
 
 For a condensed summary and a self-test, use the [Cyber security threats revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-cyber-security-threats-revision-notes/), and practise with the

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -163,7 +163,7 @@ Real MYP work is judged against criterion level descriptors with levels 1–8 in
 **Why does the MYP speaking task need me to ask questions back?**
 The brief calls the speaking task interactive, so it should be a two-way conversation. Not asking anything back means the exchange is not truly interactive.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-myp-language-acquisition-criterion-c-speaking-revision-notes/) for weak areas.
 - [Study guide](/resources/ib-myp-language-acquisition-criterion-c-speaking/) for full explanations.

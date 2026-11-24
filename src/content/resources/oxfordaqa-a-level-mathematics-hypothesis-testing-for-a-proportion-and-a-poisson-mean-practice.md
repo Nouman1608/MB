@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -154,7 +154,7 @@ The actual significance level is 0.0107, about 1%, which is well below 5%. The d
 - Leaving the Poisson mean unscaled.
 - A conclusion with no context, or one that treats "do not reject" as proof of H₀.
 
-## Next steps
+## More on this topic
 
 - Tighten your method with the [revision notes](/resources/oxfordaqa-a-level-mathematics-hypothesis-testing-for-a-proportion-and-a-poisson-mean-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-hypothesis-testing-for-a-proportion-and-a-poisson-mean/) for any unfamiliar step.

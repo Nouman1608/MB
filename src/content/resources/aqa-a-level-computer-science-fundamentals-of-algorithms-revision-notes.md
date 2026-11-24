@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Fundamentals of algorithms (section 4.3 of AQA A-Level Computer Science 7517) covers the standard
@@ -213,7 +213,7 @@ Post-order traversal, because each operator is output after both of its operands
 - State the complexity of all five searching and sorting algorithms.
 - Trace Dijkstra on a five-node graph and read off one shortest route.
 
-## Related resources
+## More resources on this topic
 
 [Fundamentals of Algorithms study guide](/resources/aqa-a-level-computer-science-fundamentals-of-algorithms/) |
 [Fundamentals of Algorithms practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-algorithms-practice/) |

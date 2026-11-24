@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 3.1.1 (Understanding the nature and purpose of business) and 3.1.2 (Understanding different business forms) of the AQA A-level Business (7132) specification, for first teaching from September 2023. The specification says all content is assessed across the three A-level papers, so this material can appear anywhere. See the [course hub](/boards/aqa/a-level/business/) and the [printable checklist](/checklists/aqa/a-level/business/).
@@ -263,7 +263,7 @@ Performance is judged differently too. A plc is judged on profit and share price
 - Saying a charity cannot make a surplus. It can; it does not distribute it to owners.
 - Describing forms without linking them to an owner's need or situation.
 
-## Next steps
+## More on this topic
 
 Move on to the [revision notes](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-revision-notes/) and then the [practice set](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-practice/).
 

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -133,7 +133,7 @@ The model was developed from work by Warren Thompson (1929) and Frank Notestein 
 
 **Answers:** 1. Stage 2. 2. Better food, sanitation, medicine and public health. 3. Low birth and death rates, large stable population. 4. Birth rate below death rate, ageing population, natural decrease. 5. European basis; ignores migration; assumes one path. 6. Imported medical technology cut death rates quickly. 7. Fertility depends on slowly changing attitudes and needs, and parents wait until children are sure to survive. 8. A base narrower than the middle, with a large elderly share. 9. Japan: falling population and a very old age structure. 10. The shift from infectious to chronic, age-related disease as the main causes of death. 11. Falling infant deaths lower the death rate and later encourage parents to have fewer children.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

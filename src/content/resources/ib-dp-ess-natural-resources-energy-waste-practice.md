@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ against the IB's criteria, which your teacher will share.
 - Dropping units (t, TWh, kg per person per year) from calculated answers.
 - In HL lens questions, giving general environmental points without economic reasoning.
 
-## Next steps
+## More on this topic
 
 - Recap the definitions with the [revision notes](/resources/ib-dp-ess-natural-resources-energy-waste-revision-notes/).
 - Re-learn anything you missed from the [study guide](/resources/ib-dp-ess-natural-resources-energy-waste/).

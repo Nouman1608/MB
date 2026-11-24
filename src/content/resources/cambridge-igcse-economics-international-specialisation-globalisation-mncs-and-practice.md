@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Judgement: the balance depends on how much is bought locally, the pay and traini
 - Giving consumer benefits when the question asks for producers or the economy.
 - Not weighing costs against benefits in discuss questions.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and-revision-notes/) for any weak areas.
 - Reread the [study guide](/resources/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and/).

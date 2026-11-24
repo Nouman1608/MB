@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers specification section M2.4 (Newton's Law of Motion) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit M2 (Mechanics), which is part of the International A-level only and is not examined at International AS. Unit M2 is a written paper of 1 hour 30 minutes, 80 marks, with a calculator allowed. The same unit also contains M2.2 (kinematics with calculus) and M2.3 (statics and forces), which you will use throughout.
@@ -199,7 +199,7 @@ The specification expects you to comment on terms such as particle, smooth surfa
 - Dropping the vector structure: an answer to "find the velocity" should be a vector, not a number.
 - Forgetting the weight term in a three-dimensional problem where k is vertical.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/oxfordaqa-a-level-mathematics-newtons-laws-inclined-planes-and-variable-acceleration-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-newtons-laws-inclined-planes-and-variable-acceleration-practice/). Return to the [course hub](/boards/oxfordaqa/a-level/mathematics/) or the [checklist](/checklists/oxfordaqa/a-level/mathematics/) to see what else is in Unit M2, and use the [diagnostics](/diagnostics/) to find weaker topics.
 

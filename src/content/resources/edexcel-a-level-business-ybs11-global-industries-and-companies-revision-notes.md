@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,6 +144,6 @@ The best control combines laws with public pressure and the MNC's own standards.
 9. Any one: boycotting a brand; choosing ethical alternatives; posting complaints on social media.
 10. Any one: depends on the MNC's honesty; may be used for public relations; no independent enforcement.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Global industries and companies study guide](/resources/edexcel-a-level-business-ybs11-global-industries-and-companies/), then practise with the [practice questions](/resources/edexcel-a-level-business-ybs11-global-industries-and-companies-practice/).

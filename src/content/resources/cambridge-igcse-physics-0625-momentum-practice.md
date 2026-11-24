@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -135,6 +135,6 @@ Related: [study guide on momentum](/resources/cambridge-igcse-physics-0625-momen
 - Saying a safety feature "absorbs momentum" instead of increasing the stopping time.
 - Giving a final velocity without its direction.
 
-## Next steps
+## More on this topic
 
 Look back at the [study guide on momentum](/resources/cambridge-igcse-physics-0625-momentum/) for the worked methods, then try the [practice questions on energy, work and power](/resources/cambridge-igcse-physics-0625-energy-work-and-power-practice/).

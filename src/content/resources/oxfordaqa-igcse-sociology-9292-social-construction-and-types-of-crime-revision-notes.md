@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ panic. 11. Reaction to deviance that makes it seem larger and can increase it. 1
 to detect; victims may not know they are victims; it is often handled by regulators rather than
 police; companies have the resources to defend themselves.
 
-## Related resources
+## More resources on this topic
 
 - [Social construction and types of crime: study guide](/resources/oxfordaqa-igcse-sociology-9292-social-construction-and-types-of-crime/)
 - [Social construction and types of crime: practice questions](/resources/oxfordaqa-igcse-sociology-9292-social-construction-and-types-of-crime-practice/)

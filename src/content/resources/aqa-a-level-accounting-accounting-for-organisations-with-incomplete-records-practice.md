@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -261,7 +261,7 @@ Using a mark-up percentage on sales as though it were a margin, and forgetting g
 **How should I answer an evaluation of single entry records?**
 Apply each point to the business in the question, such as its credit customers or loans, and finish with a supported conclusion. Answers with no final judgement are a common reason marks are lost.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-revision-notes/)
 - [Study guide](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records/)

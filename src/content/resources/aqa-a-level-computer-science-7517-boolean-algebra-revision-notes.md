@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -166,7 +166,7 @@ Simplify `¬(A ∨ B) ∨ (¬A ∧ B)`.
 11. It needs fewer gates, so the circuit is cheaper and uses less power.
 12. A ∨ B (De Morgan, then double negation).
 
-## Related resources
+## More resources on this topic
 
 - [Boolean algebra study guide](/resources/aqa-a-level-computer-science-7517-boolean-algebra/)
 - [Boolean algebra practice questions](/resources/aqa-a-level-computer-science-7517-boolean-algebra-practice/)

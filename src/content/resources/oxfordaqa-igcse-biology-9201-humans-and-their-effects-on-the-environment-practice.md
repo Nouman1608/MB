@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -154,7 +154,7 @@ For mixed questions, use the [Decay, the carbon cycle and human effects practice
 - Concluding that correlation proves cause.
 - Evaluating a method without mentioning repeats, validity or reliability.
 
-## Next steps
+## More on this topic
 
 - [Humans and their effects on the environment study guide](/resources/oxfordaqa-igcse-biology-9201-humans-and-their-effects-on-the-environment/)
 - [Decay, the carbon cycle and human effects revision notes](/resources/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the-revision-notes/)

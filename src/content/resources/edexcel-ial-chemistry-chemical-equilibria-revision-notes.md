@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes are the short version. Every idea here is explained step by step, with longer examples, in the [chemical equilibria study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/).
@@ -217,7 +217,7 @@ These are rough guides. A large K does not mean a fast reaction: kinetic stabili
 - Mixing kJ and J in ΔSsurroundings.
 - Treating a large K as proof that a reaction is fast.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/edexcel-ial-chemistry-chemical-equilibria-practice/), return to the [study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/) for anything that is still shaky, and mark progress on the [checklist](/checklists/edexcel/a-level/chemistry/). Revisit your [Topic 12 entropy notes](/resources/edexcel-ial-chemistry-entropy-revision-notes/) if ΔSsystem and ΔSsurroundings feel rusty.
 

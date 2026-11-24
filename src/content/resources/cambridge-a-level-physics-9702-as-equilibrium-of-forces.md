@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ The force at that support has zero moment about it, so one unknown disappears fr
 **What does a closed vector triangle show?**
 That three forces have zero resultant, which is the first condition for equilibrium.
 
-## Related resources
+## More resources on this topic
 
 - [Equilibrium of forces revision notes](/resources/cambridge-a-level-physics-9702-as-equilibrium-of-forces-revision-notes/)
 - [Equilibrium of forces practice questions](/resources/cambridge-a-level-physics-9702-as-equilibrium-of-forces-practice/)

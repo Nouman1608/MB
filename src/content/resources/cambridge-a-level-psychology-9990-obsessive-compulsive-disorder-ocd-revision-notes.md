@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,7 +170,7 @@ featured: false
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 1, 1.5 Obsessive-compulsive disorder (OCD) — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [OCD study guide](/resources/cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd/)
 - [OCD practice questions](/resources/cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd-practice/)

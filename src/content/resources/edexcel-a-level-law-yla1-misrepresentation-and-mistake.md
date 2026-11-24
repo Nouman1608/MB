@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,6 +174,6 @@ Bars        act promptly and do not affirm (Long v Lloyd)
 
 Paper 2 is built on scenarios. Use **IRAC** for each issue: identify the statement, test each element with a case, decide the type, then give the remedy and any bar. For **evaluate** questions, weigh how fairly the law balances the party who made the statement against the party who relied on it.
 
-## Next steps
+## More on this topic
 
 Condense with the [misrepresentation and mistake revision notes](/resources/edexcel-a-level-law-yla1-misrepresentation-and-mistake-revision-notes/) and practise with the [misrepresentation and mistake practice questions](/resources/edexcel-a-level-law-yla1-misrepresentation-and-mistake-practice/).

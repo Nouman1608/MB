@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ D: A highly profitable employer
 - Forgetting that labour cost per unit depends on output as well as on wages.
 - Ending a discussion without a supported judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [trade unions study guide](/resources/cambridge-o-level-economics-2281-trade-unions/).
 - Revise from the [trade unions revision notes](/resources/cambridge-o-level-economics-2281-trade-unions-revision-notes/).

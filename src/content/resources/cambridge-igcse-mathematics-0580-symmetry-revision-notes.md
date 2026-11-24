@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ Quick method for a prism: take the lines of symmetry of the cross-section (each 
 11. Order **3**.
 12. A plane across the middle would have to swap the apex with the circular base, and those are different shapes, so the two halves are not mirror images.
 
-## Next steps
+## More on this topic
 
 - Work through the full explanations and grid examples in the [symmetry study guide](/resources/igcse-mathematics-0580-symmetry/).
 - Test yourself with the [symmetry practice questions](/resources/cambridge-igcse-mathematics-0580-symmetry-practice/).

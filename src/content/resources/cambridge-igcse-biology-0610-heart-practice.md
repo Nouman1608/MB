@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ D: vena cava
 - Explaining activity and heart rate with "more energy needed" and no mention of oxygen, glucose or carbon dioxide.
 - Placing the semilunar valves between atria and ventricles.
 
-## Next steps
+## More on this topic
 
 - Re-read the [heart study guide](/resources/cambridge-igcse-biology-0610-heart/) for any question you found hard.
 - Move on to the [blood vessels practice questions](/resources/cambridge-igcse-biology-0610-blood-vessels-practice/).

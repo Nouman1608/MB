@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ No. A deficit is the gap between spending and revenue in one year; the national 
 **What should I write when asked to state a tax or spending area?**
 Name a specific one, such as VAT or health, rather than a general answer such as tax goes on services.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect/) and the [revision notes](/resources/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect-revision-notes/).
 - Go to the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/) and tick off topics on the [checklist](/checklists/aqa/gcse/economics/).

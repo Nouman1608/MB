@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ The specification assesses three objectives: AO1 knowledge and understanding of 
 - Adding up all the alternatives as the opportunity cost.
 - Describing each economic group separately when the question asks how they interact.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [economic foundations revision notes](/resources/oxfordaqa-igcse-economics-9214-economic-foundations-revision-notes/), then test yourself with the [economic foundations practice questions](/resources/oxfordaqa-igcse-economics-9214-economic-foundations-practice/). The next section, 3.1.2, is covered in the [resource allocation study guide](/resources/oxfordaqa-igcse-economics-9214-resource-allocation/).
 

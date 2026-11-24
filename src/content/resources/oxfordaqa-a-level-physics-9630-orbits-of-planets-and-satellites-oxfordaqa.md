@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,6 +153,6 @@ t = 7.2 × 10⁷ / 3.00 × 10⁸ = 0.24 s
 - **Discuss** the energy of a satellite: state which of Ek, Ep and E increase or decrease, with the formulas.
 - **Explain** the significance of a geosynchronous orbit: link the fixed position to fixed ground dishes and continuous coverage, and mention at least one limitation if asked to evaluate.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [orbits revision notes](/resources/oxfordaqa-a-level-physics-9630-orbits-of-planets-and-satellites-oxfordaqa-revision-notes/) and test yourself with the [orbits practice questions](/resources/oxfordaqa-a-level-physics-9630-orbits-of-planets-and-satellites-oxfordaqa-practice/). The potential energy used here comes from the [gravitational potential study guide](/resources/oxfordaqa-a-level-physics-9630-gravitational-potential-oxfordaqa/).

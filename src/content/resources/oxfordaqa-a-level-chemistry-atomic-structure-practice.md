@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ Calculate the relative atomic mass to 4 significant figures. **[3]**
 - Explaining the Group 2 trend without both shielding and distance.
 - Describing a dip in ionisation energy without naming the sub-shell or stating what it shows.
 
-## Next steps
+## More on this topic
 
 - [Atomic structure revision notes](/resources/oxfordaqa-a-level-chemistry-atomic-structure-revision-notes/)
 - [Atomic structure study guide](/resources/oxfordaqa-a-level-chemistry-atomic-structure/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ These questions cover section 1.1, Solids, liquids and gases, of the Cambridge O
 - Giving the freezing point as a temperature below the plateau.
 - In gas questions, not saying which variable is held constant, or not linking speed to collisions with the walls.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [solids, liquids and gases study guide](/resources/cambridge-o-level-chemistry-5070-solids-liquids-and-gases/).
 - Move on to the [diffusion practice questions](/resources/cambridge-o-level-chemistry-5070-diffusion-practice/).

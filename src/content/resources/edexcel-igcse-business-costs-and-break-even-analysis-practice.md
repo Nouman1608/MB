@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Course links: [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/) and 
 - Listing limitations without saying what they do to the business's decision.
 - In Justify and Evaluate answers, calculating well but giving no recommendation or conclusion.
 
-## Next steps
+## More on this topic
 
 - Recap the formulas in the [revision notes](/resources/edexcel-igcse-business-costs-and-break-even-analysis-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-igcse-business-costs-and-break-even-analysis/).

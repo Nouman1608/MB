@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -132,7 +132,7 @@ and the [revision notes](/resources/aqa-gcse-chemistry-8462-using-the-earths-res
 - Not converting cm³ to dm³.
 - Mixing up phytomining (plants) and bioleaching (bacteria).
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water-revision-notes/).
 - Reread any weak area in the [study guide](/resources/aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water/).

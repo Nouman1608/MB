@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ These questions cover sections 3.2.10 and 3.2.11 and Required practical 4 of the
 - Concluding from correlation alone that a risk factor causes cancer.
 - Dividing by dividing cells only when finding the mitotic index.
 
-## Next steps
+## More on this topic
 
 - Revise: [revision notes](/resources/oxfordaqa-a-level-biology-cell-division-mutation-and-cancer-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-biology-cell-division-mutation-and-cancer/)
 - Course: [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/) and [checklist](/checklists/oxfordaqa/a-level/biology/)

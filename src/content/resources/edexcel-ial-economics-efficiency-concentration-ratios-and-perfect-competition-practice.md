@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ It produces where marginal cost equals marginal revenue, which equals the market
 **Do perfectly competitive firms earn zero profit in the long run?**
 They earn normal profit, with no supernormal profit. Describing long-run profit as zero, rather than normal, loses marks in Edexcel International A Level Economics questions.
 
-## Next steps
+## More on this topic
 
 - Condense the topic with the [revision notes](/resources/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition-revision-notes/) or reread the [study guide](/resources/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition/).
 - Open the [Edexcel A Level Economics hub](/boards/edexcel/a-level/economics/) and the [printable checklist](/checklists/edexcel/a-level/economics/).

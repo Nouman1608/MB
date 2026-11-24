@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -208,7 +208,7 @@ Bonus shares are transferred at nominal value, never at market price.
 **How do I earn marks on an evaluation question about published accounts?**
 Link each point to the concern of the stakeholder named in the question, such as a supplier wanting to be paid, and finish with a judgement. Generic limitations with no link to the question score less.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-accounting-accounting-for-limited-companies-revision-notes/).
 - Re-read the [study guide](/resources/aqa-a-level-accounting-accounting-for-limited-companies/) for any weak area.

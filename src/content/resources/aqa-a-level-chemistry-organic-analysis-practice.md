@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,7 +200,7 @@ Show the precise-mass sum for every candidate formula and compare each with the 
 **How do you interpret an infrared spectrum for full marks?**
 Match each absorption to a named bond and its data range. "1710 shows an acid" skips the bond and is not a full interpretation.
 
-## Next steps
+## More on this topic
 
 - [Organic analysis revision notes](/resources/aqa-a-level-chemistry-organic-analysis-revision-notes/)
 - [Organic analysis study guide](/resources/aqa-a-level-chemistry-organic-analysis/)

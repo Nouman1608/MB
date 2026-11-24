@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -178,7 +178,7 @@ which is more than 2,000 kB. A number can only be compared when both sizes use t
 9. 0.5 GB (500 MB).
 10. b is a bit and B is a byte, which is 8 bits.
 
-## Related resources
+## More resources on this topic
 
 - [Units of information study guide](/resources/oxfordaqa-igcse-computer-science-9210-units-of-information/)
 - [Units of information practice questions](/resources/oxfordaqa-igcse-computer-science-9210-units-of-information-practice/)

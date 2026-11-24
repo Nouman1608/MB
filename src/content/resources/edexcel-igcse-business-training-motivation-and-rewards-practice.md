@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ Justify which option the owner should choose. **[8]**
 - Ignoring the survey data in a case study.
 - Failing to weigh the other option before deciding.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-business-training-motivation-and-rewards-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-training-motivation-and-rewards/).
 - Course hub: [4BS1 Business](/boards/edexcel/igcse/business/) and the [printable checklist](/checklists/edexcel/igcse/business/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,6 +144,6 @@ These questions cover sub-topic 1(f) Ionic bonding of the Pearson Edexcel Intern
 - Using "molecules" or "covalent bonds" for ionic compounds.
 - Saying electrons carry the current in molten salts.
 
-## Next steps
+## More on this topic
 
 Go back to the [ionic bonding study guide](/resources/edexcel-igcse-chemistry-4ch1-ionic-bonding/) for any weak points, then try the mixed [ionic, covalent and metallic bonding practice questions](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice/).

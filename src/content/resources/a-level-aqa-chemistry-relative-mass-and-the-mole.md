@@ -23,7 +23,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 updatedDate: 2026-11-22
 featured: false
@@ -253,7 +253,7 @@ Convert the volume to dm³, find the amount in moles from concentration × volum
 **What are common mistakes in mole calculations?**
 Common mistakes are forgetting to convert cm³ to dm³, giving an answer to more significant figures than the least accurate value in the question allows, and confusing the amount in moles with the number of particles.
 
-## Related resources
+## More resources on this topic
 
 [Relative Mass, the Mole and the Avogadro Constant revision notes](/resources/aqa-a-level-chemistry-mole-revision-notes/) |
 [Relative Mass, the Mole and the Avogadro Constant practice questions](/resources/aqa-a-level-chemistry-mole-practice/) |

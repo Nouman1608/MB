@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ C: 6x − 2y = 1
 - Writing x² + y² = r instead of r², or giving only the positive root when a circle is cut at two points.
 - Using the gradient of the radius as the gradient of the tangent.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-straight-line-graphs-parallel-and-perpendicular-lines-revision-notes/) for any method that cost you marks.
 - Go back to the [study guide](/resources/ocr-gcse-mathematics-straight-line-graphs-parallel-and-perpendicular-lines/) for the worked examples.

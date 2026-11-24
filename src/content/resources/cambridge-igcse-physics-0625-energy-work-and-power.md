@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -196,6 +196,6 @@ Two people climbing the same stairs do the same work if they have the same weigh
 - **Explain** why a figure is less than expected: name the wasted energy and where it went.
 - **Discuss / compare** resources: use the five criteria words and make each point comparative.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes on energy, work and power](/resources/cambridge-igcse-physics-0625-energy-work-and-power-revision-notes/) and the [practice questions on energy, work and power](/resources/cambridge-igcse-physics-0625-energy-work-and-power-practice/). The forces that do work are in the [study guide on forces](/resources/cambridge-igcse-physics-0625-forces/), and kinetic energy in collisions in the [study guide on momentum](/resources/cambridge-igcse-physics-0625-momentum/).

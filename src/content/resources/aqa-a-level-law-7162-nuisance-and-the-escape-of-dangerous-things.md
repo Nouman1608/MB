@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,6 +148,6 @@ Remedies:        damages for plants; injunction limiting hours of noisy work
 
 Organise nuisance answers around the parties (who can sue, who can be sued) and then the balancing factors; organise *Rylands* answers element by element. Many problem questions include both torts on the same facts: deal with each separately and say which is easier for the claimant.
 
-## Related resources
+## More resources on this topic
 
 [Nuisance and Rylands v Fletcher revision notes](/resources/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things-revision-notes/) | [Nuisance and Rylands v Fletcher practice questions](/resources/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things-practice/) | [Tort overview](/resources/aqa-a-level-law-tort/)

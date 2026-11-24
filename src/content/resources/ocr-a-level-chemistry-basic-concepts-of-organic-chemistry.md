@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 4.1.1, Basic concepts of organic chemistry, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It opens Module 4, Core organic chemistry, and every lettered outcome, 4.1.1(a) to (i), is covered below. H432 is the full A level; according to the specification, Module 4 is assessed in Synthesis and analytical techniques (02) and in Unified chemistry (03). This section has no PAG.
@@ -316,7 +316,7 @@ The new O–C bond forms as the C–I bond breaks, so carbon never exceeds eight
 - Leaving the dot off a radical such as CH₃•.
 - Starting a curly arrow from an atom or a δ+ end.
 
-## Next steps
+## More on this topic
 
 Next, read the [revision notes](/resources/ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-revision-notes/) for fast recall; the [practice questions](/resources/ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-practice/) come with marked answers.
 

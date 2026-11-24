@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ Two variables can be correlated because a third variable affects both. Hot weath
 11. **No**: bigger fires need more fire engines **and** cause more damage; the size of the fire explains the link.
 12. **No.**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [scatter diagrams study guide](/resources/cambridge-igcse-mathematics-0580-scatter-diagrams/).
 - Try the [scatter diagrams practice questions](/resources/cambridge-igcse-mathematics-0580-scatter-diagrams-practice/).

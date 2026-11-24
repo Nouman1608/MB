@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -174,7 +174,7 @@ name a fixed set of factors to choose from.
 - Confirm exactly which Section A society and Section B theme your
 centre has taught before revising further.
 
-## Related resources
+## More resources on this topic
 
 - [Studies in Change revision notes](/resources/igcse-oxfordaqa-world-history-studies-in-change-revision-notes/)
 - [Studies in Change practice questions](/resources/igcse-oxfordaqa-world-history-studies-in-change-practice/)

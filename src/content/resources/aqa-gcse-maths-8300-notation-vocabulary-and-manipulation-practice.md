@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,7 +204,7 @@ The function written next to x acts first, so for fg(x) apply g first and then f
 **Which part of AQA GCSE Maths covers algebraic notation and manipulation?**
 Section 3.2.1 Notation, vocabulary and manipulation (A1 to A7) of AQA GCSE Mathematics 8300 covers notation, substitution, vocabulary, simplifying, expanding, factorising, rearranging formulae, proof and functions.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this section](/resources/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation-revision-notes/)
 - [Study guide for this section](/resources/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation/)

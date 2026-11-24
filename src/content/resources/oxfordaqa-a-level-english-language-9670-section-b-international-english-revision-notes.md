@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification names no theories or theorists for International English; please confirm the selection here (Kachru, Quirk, Widdowson, Jenkins, Seidlhofer, Modiano, Schneider) suits the unit."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification names no theories or theorists for International English; please confirm the selection here (Kachru, Quirk, Widdowson, Jenkins, Seidlhofer, Modiano, Schneider) suits the unit. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -181,7 +181,7 @@ international language. 10. The belief that native speakers are inherently bette
 widely codified and used in testing. Against: most interactions involve non-native speakers, so intelligibility
 matters more. 12. It is a systematic coinage formed by analogy, established within a variety with its own norms.
 
-## Next steps
+## More on this topic
 
 Try the [International English practice questions](/resources/oxfordaqa-a-level-english-language-9670-section-b-international-english-practice/),
 then review the whole unit with the [Unit 3 revision notes](/resources/a-level-oxfordaqa-english-language-unit-3-revision-notes/).

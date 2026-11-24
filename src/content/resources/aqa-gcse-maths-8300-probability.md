@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 5, **Probability** (specification references P1 to P9), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Probability can be tested on any of the three papers at Foundation or Higher tier. P1 to P8 are for both tiers; P9, conditional probability, is Higher tier only and is labelled where it appears. Exams run every May/June and November.
@@ -303,7 +303,7 @@ Put the number in both sets into the overlap first, subtract it from each set to
 **How much of AQA GCSE Maths is probability and statistics?**
 Probability and statistics together make up about 15% of the marks at both Foundation and Higher tier in AQA GCSE Mathematics 8300.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/aqa-gcse-maths-8300-probability-revision-notes/), then test yourself with the [practice questions](/resources/aqa-gcse-maths-8300-probability-practice/). The [AQA GCSE Mathematics hub](/boards/aqa/gcse/mathematics/) links the other topics.
 

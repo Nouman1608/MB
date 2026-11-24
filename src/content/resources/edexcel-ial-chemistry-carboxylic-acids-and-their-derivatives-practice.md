@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ Use these values throughout. Relative atomic masses: H = 1.0, C = 12.0, N = 14.0
 - Showing HCl as a product with ammonia or an amine instead of the ammonium or alkylammonium salt.
 - Giving the free acid when sodium hydroxide is the reagent; with excess alkali you get the sodium salt.
 
-## Next steps
+## More on this topic
 
 - [Carboxylic acids revision notes](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-revision-notes/)
 - [Carboxylic acids study guide](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives/)

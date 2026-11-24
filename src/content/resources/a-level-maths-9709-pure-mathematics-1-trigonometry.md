@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -314,7 +314,7 @@ No. sin⁻¹x is the inverse function, which gives a principal value between −
 **When is it safe to divide a trigonometric equation by cos x?**
 Only when cos x = 0 cannot be a solution of the original equation. If sin x or cos x is a common factor, factorise instead so you keep the zero solutions.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/a-level-maths-9709-pure-mathematics-1-trigonometry-revision-notes/) for tables, method boxes and a quick self-test, then work through the [trigonometry practice set](/resources/a-level-maths-9709-pure-mathematics-1-trigonometry-practice/). Trigonometry also appears in the [Pure Mathematics 1 mixed practice](/resources/a-level-mathematics-pure-1-mixed-practice/). If you go on to [Pure Mathematics 2](/resources/a-level-mathematics-pure-mathematics-2/) or [Pure Mathematics 3](/resources/a-level-maths-9709-pure-mathematics-3/), these skills are the base for sec, cosec, cot and the compound-angle formulae.
 

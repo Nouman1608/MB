@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -165,7 +165,7 @@ The formulae look similar, but the structures are very different. This is a popu
 9. Silicon dioxide has covalent bonds to break; carbon dioxide has only weak intermolecular forces to overcome.
 10. It cannot show all the bonds in three dimensions, or it shows only part of the structure.
 
-## Next steps
+## More on this topic
 
 - [Giant covalent structures study guide](/resources/aqa-gcse-chemistry-8462-giant-covalent-structures/)
 - [Giant covalent structures practice questions](/resources/aqa-gcse-chemistry-8462-giant-covalent-structures-practice/)

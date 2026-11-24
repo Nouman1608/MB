@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -168,7 +168,7 @@ An answer that says only "digital is clearer" will not score: name the regenerat
 - **Suggest:** apply the order to an unfamiliar case, for example a region between two named ones.
 - **Calculate:** convert prefixes first, then use v = fλ with 3.0 × 10⁸ m/s.
 
-## Next steps
+## More on this topic
 
 Condense this with the [electromagnetic spectrum revision notes](/resources/cambridge-igcse-physics-0625-electromagnetic-spectrum-revision-notes/) and practise with the [electromagnetic spectrum practice questions](/resources/cambridge-igcse-physics-0625-electromagnetic-spectrum-practice/). The previous subtopic is [Light](/resources/cambridge-igcse-physics-0625-light/) and the next is [Sound](/resources/cambridge-igcse-physics-0625-sound/).
 

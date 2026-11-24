@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -153,7 +153,7 @@ A traversal from one start vertex only reaches its own connected part. To cover 
 9. It minimises the number of edges, not the total weight.
 10. Repeat the traversal from every vertex that has not yet been visited.
 
-## Related resources
+## More resources on this topic
 
 - [Graph-traversal study guide](/resources/aqa-a-level-computer-science-7517-graph-traversal/)
 - [Graph-traversal practice questions](/resources/aqa-a-level-computer-science-7517-graph-traversal-practice/)

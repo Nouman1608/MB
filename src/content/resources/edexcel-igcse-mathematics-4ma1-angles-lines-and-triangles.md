@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ Name the angle you are finding with three letters (angle ABC means the angle at 
 - **"Diagram NOT accurately drawn"**: never measure with a protractor; calculate.
 - Mark each angle you find on the diagram as you go; it shows the examiner your route.
 
-## Next steps
+## More on this topic
 
 Revise with the [angles, lines and triangles revision notes](/resources/edexcel-igcse-mathematics-4ma1-angles-lines-and-triangles-revision-notes/), then try the [angles, lines and triangles practice questions](/resources/edexcel-igcse-mathematics-4ma1-angles-lines-and-triangles-practice/). The triangle angle sum is the starting point for the angle sum of any polygon in the [polygons study guide](/resources/edexcel-igcse-mathematics-4ma1-polygons/).
 

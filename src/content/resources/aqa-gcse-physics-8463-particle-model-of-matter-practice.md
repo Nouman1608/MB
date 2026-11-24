@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -172,7 +172,7 @@ constant temperature to 0.050 m³. Calculate its final pressure. **[3]**
 - Writing gas explanations with "more collisions" but no "per second" or "harder".
 - Applying pV = constant when the temperature changes, or mixing kPa with Pa between p₁ and p₂.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Particle model of matter revision notes](/resources/aqa-gcse-physics-8463-particle-model-of-matter-revision-notes/)
 - Relearn weak areas in the [Particle model of matter study guide](/resources/aqa-gcse-physics-8463-particle-model-of-matter/)

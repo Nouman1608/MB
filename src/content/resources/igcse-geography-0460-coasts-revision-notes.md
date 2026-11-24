@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -226,7 +226,7 @@ water lowers salinity and sediment reduces the light corals need. 11. They trapp
 south by longshore drift, so beaches further south were starved of sand and cliffs were less
 protected.
 
-## Related resources
+## More resources on this topic
 
 - [Coasts study guide](/resources/igcse-geography-coasts/)
 - [The Natural Environment revision notes (whole theme)](/resources/igcse-geography-natural-environment-revision-notes/)

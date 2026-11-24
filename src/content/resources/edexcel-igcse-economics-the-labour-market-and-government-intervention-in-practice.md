@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ No. It only causes a surplus of labour if it is set above the equilibrium wage. 
 **What do you need for a strong Edexcel IGCSE Economics evaluate answer on pollution policy?**
 Explain how the policy works with a chain, weigh its advantages against its disadvantages using the numbers in the question, and finish with a conclusion. Comparing it with an alternative policy, such as regulation or permits, helps support the judgement.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-igcse-economics-the-labour-market-and-government-intervention-in-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-the-labour-market-and-government-intervention-in/).
 - Go to the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and the [printable checklist](/checklists/edexcel/igcse/economics/).

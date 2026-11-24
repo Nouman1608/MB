@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -174,7 +174,7 @@ Part (c) substitutes the known value and then solves a simple equation. A formul
 - **Work out** or **Calculate** the value of an expression: show the substitution line with brackets round negative values, so a method mark is available.
 - **Explain** why an expression is always even, odd or a multiple of a number: describe the structure (for example "2n is a multiple of 2") rather than testing one value.
 
-## Next steps
+## More on this topic
 
 - Condensed rules and a self-test: the [introduction to algebra revision notes](/resources/cambridge-igcse-mathematics-0580-introduction-to-algebra-revision-notes/).
 - Exam-style questions with mark schemes: the [introduction to algebra practice questions](/resources/cambridge-igcse-mathematics-0580-introduction-to-algebra-practice/).

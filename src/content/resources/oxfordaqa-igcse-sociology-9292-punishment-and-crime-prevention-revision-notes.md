@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ behaviour for profit, extending control beyond the state. 12. Any two: displacem
 rather than prevent; invasion of privacy; unequal targeting of groups or areas; it does not address
 causes of crime.
 
-## Related resources
+## More resources on this topic
 
 - [Punishment and crime prevention: study guide](/resources/oxfordaqa-igcse-sociology-9292-punishment-and-crime-prevention/)
 - [Punishment and crime prevention: practice questions](/resources/oxfordaqa-igcse-sociology-9292-punishment-and-crime-prevention-practice/)

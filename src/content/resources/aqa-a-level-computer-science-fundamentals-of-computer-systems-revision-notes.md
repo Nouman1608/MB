@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Fundamentals of computer systems (section 4.6 of AQA A-Level Computer Science 7517) covers how software is
@@ -187,7 +187,7 @@ compiler suits finished software that must run fast and be distributed without i
 It stores a single bit. On the clock's triggering edge it copies the D input to its Q output and holds that
 value until the next triggering edge.
 
-## Related resources
+## More resources on this topic
 
 [Fundamentals of computer systems study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide/) |
 [Fundamentals of computer systems practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-computer-systems-practice/) |

@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -254,7 +254,7 @@ It depends on the buffer pH compared with the amino acid's isoelectric point. Ab
 **What does LiAlH₄ do to an amide?**
 LiAlH₄ reduces the C=O group of an amide to give an amine, for example CH₃CONH₂ to CH₃CH₂NH₂. This is one of the routes for making amines.
 
-## Related resources
+## More resources on this topic
 
 - [Carboxylic Acids and Acyl
   Chlorides](/resources/a-carboxylic-acids-and-acyl-chlorides/) — the

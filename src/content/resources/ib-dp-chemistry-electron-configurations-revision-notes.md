@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These are recall notes for **Structure 1.3, Electron configurations**, from the IB *Chemistry guide* for the Diploma Programme (published February 2023; first assessment 2025). Understandings 1.3.1 to 1.3.7 are all here. Sections 1.3.1 to 1.3.5 are SL and HL; 1.3.6 and 1.3.7 are additional higher level, so **HL only**. Stuck on a point? Go back to the [study guide](/resources/ib-dp-chemistry-electron-configurations/), which gives the full reasoning and longer examples.
@@ -252,7 +252,7 @@ First IE = 8.62 × 10⁻¹⁹ × 6.02 × 10²³ = 5.19 × 10⁵ J mol⁻¹ = 519
 11. Energy per atom = 376 000 ÷ (6.02 × 10²³) = 6.246 × 10⁻¹⁹ J; f = E ÷ h = **9.42 × 10¹⁴ Hz**.
 12. The large jump is between the first and second values, so one outer electron: **group 1**.
 
-## Next steps
+## More on this topic
 
 Work through the [Structure 1.3 practice questions](/resources/ib-dp-chemistry-electron-configurations-practice/), then go back to the [study guide](/resources/ib-dp-chemistry-electron-configurations/) for any topic you missed. Tick off progress on the [printable checklist](/checklists/ib/ib-dp/chemistry/).
 

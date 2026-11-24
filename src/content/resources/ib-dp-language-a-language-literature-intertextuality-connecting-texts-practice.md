@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -236,7 +236,7 @@ covers Passage A in full and then Passage C leaves the connection unargued.
 - Losing the guiding question in an extended answer and drifting into general description.
 - Long, dropped-in quotations instead of short phrases embedded in your own sentence.
 
-## Next steps
+## More on this topic
 
 - [Intertextuality revision notes](/resources/ib-dp-language-a-language-literature-intertextuality-connecting-texts-revision-notes/)
 - [Intertextuality study guide](/resources/ib-dp-language-a-language-literature-intertextuality-connecting-texts/)

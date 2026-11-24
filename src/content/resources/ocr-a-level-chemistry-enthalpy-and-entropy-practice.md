@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ CuSO₄·5H₂O(s) → CuSO₄(s) + 5H₂O(g)
 - Explaining entropy as "chaos" with no reference to energy dispersal.
 - Treating a negative ∆G as proof that a reaction is fast (questions 4 and 11).
 
-## Next steps
+## More on this topic
 
 - Recap: [Enthalpy and entropy revision notes](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-revision-notes/)
 - Full explanations: [Enthalpy and entropy study guide](/resources/ocr-a-level-chemistry-enthalpy-and-entropy/)

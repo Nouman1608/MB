@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -195,7 +195,7 @@ Plot each cumulative frequency at the upper class boundary. Using mid-points or 
 **How do you describe skewness from a box-and-whisker plot?**
 Compare the two halves of the box. If Q₃ − median is larger than median − Q₁, the distribution has positive skew; if it is smaller, negative skew.
 
-## Next steps
+## More on this topic
 
 - [Probability & Statistics 1 revision notes](/resources/a-level-maths-9709-probability-statistics-1-revision-notes/)
 - [Probability & Statistics 1 study guide](/resources/a-level-maths-9709-probability-statistics-1/)

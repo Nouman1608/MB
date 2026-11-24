@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025. For full explanations read the [study guide](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/). Tick off outcomes on the [checklist](/checklists/ocr/a-level/biology/) and find the rest of the course on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/). The [free diagnostics](/diagnostics/) are a quick way to find weak spots. Background on ATP is in [nucleotides and ATP](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-revision-notes/).
@@ -256,7 +256,7 @@ Reduced NAD and reduced FAD deliver hydrogen and electrons to oxidative phosphor
 - Giving cristae as "where respiration happens" without saying they increase the surface area.
 - Not converting mm to µm in a magnification calculation.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/), or return to the [study guide](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle/).
 

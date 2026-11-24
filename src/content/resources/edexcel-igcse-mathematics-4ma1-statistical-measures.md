@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -210,7 +210,7 @@ A good comparison gives **one average** and **one measure of spread**, each with
 - Using class widths or upper bounds instead of midpoints.
 - Reading quartiles on a cumulative frequency diagram from the vertical axis value instead of the horizontal one.
 
-## Next steps
+## More on this topic
 
 Condense the formulae with the [Statistical measures revision notes](/resources/edexcel-igcse-mathematics-4ma1-statistical-measures-revision-notes/), then practise with the [Statistical measures practice questions](/resources/edexcel-igcse-mathematics-4ma1-statistical-measures-practice/). Drawing the diagrams themselves is covered in the [Graphical representation of data study guide](/resources/edexcel-igcse-mathematics-4ma1-graphical-representation-of-data/).
 

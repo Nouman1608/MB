@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification names no studies for crowd behaviour; please check that the supporting studies cited match the course textbook's treatment."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification names no studies for crowd behaviour; please check that the supporting studies cited match the course textbook's treatment. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ for conformity and obedience, see the
 12. Any one: increase identifiability (cameras, lighting, stewards); limit alcohol; promote positive
     group norms.
 
-## Related resources
+## More resources on this topic
 
 - [Prosocial and antisocial behaviour in crowds practice questions](/resources/oxfordaqa-igcse-psychology-9218-crowd-behaviour-practice/)
 - [Factors affecting bystander intervention revision notes](/resources/oxfordaqa-igcse-psychology-9218-bystander-intervention-factors-revision-notes/)

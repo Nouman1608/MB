@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -183,7 +183,7 @@ These questions cover **3.1.3.4 Bonding and physical properties** of the OxfordA
 - Drawing the wrong number of particles, or leaving particles unlabelled.
 - Answering "stronger bonds" without naming the bond or force and why it is stronger.
 
-## Next steps
+## More on this topic
 
 - [Bonding and physical properties study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-3-4/)
 - [Bonding and physical properties revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-3-4-revision-notes/)

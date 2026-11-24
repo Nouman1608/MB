@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Evaluate whether 2026 was a successful year for Wyndham Ales. **[9]**
 - Judging success by profit alone.
 - Evaluations without a final, justified judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [aims and objectives study guide](/resources/aqa-gcse-business-8132-setting-business-aims-and-objectives/).
 - Recap with the [aims and objectives revision notes](/resources/aqa-gcse-business-8132-setting-business-aims-and-objectives-revision-notes/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ A closing call to action [1]. **[8]**
 - Rewrites that change some words but leave the old register in place.
 - Comparisons written as two separate descriptions.
 
-## Next steps
+## More on this topic
 
 - Recap with the [conceptual understanding revision notes](/resources/ib-dp-language-b-conceptual-understanding-revision-notes/).
 - Reread the [conceptual understanding study guide](/resources/ib-dp-language-b-conceptual-understanding/) and its worked examples.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -181,6 +181,6 @@ A study measured soil lost from four plots on the same slope over one year. (Dat
 
 **Describe** a cause or impact: state it and add one detail. **Describe and explain** a strategy: what it is, then how it works, using the syllabus mechanism. In source-based questions, match strategies to the conditions given: slope, rainfall, wind, vegetation.
 
-## Next steps
+## More on this topic
 
 Revise with the [Soil erosion revision notes](/resources/cambridge-igcse-environmental-management-0680-soil-erosion-revision-notes/) and practise with the [Soil erosion practice questions](/resources/cambridge-igcse-environmental-management-0680-soil-erosion-practice/). To see how the three sub-topics of Topic 2 connect, use the [Land revision notes](/resources/environmental-management-land-revision-notes/).

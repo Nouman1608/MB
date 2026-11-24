@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-23: total marks (37) stated and examiner notes added (audit C2)"
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-23: total marks (37) stated and examiner notes added (audit C2) 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -191,7 +191,7 @@ D: 0.5 mol of CH₄
 - Not using standard form, or giving too many significant figures.
 - Forgetting to use the mole ratio from the equation before converting to mass.
 
-## Next steps
+## More on this topic
 
 - Rework the conversions in the [mole concept study guide](/resources/oxfordaqa-igcse-chemistry-9202-the-mole-concept/).
 - Recheck key values in the [mole concept revision notes](/resources/oxfordaqa-igcse-chemistry-9202-the-mole-concept-revision-notes/).

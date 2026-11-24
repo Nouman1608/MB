@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -229,7 +229,7 @@ IF answer = "Y" OR answer = "y" THEN
 - For loops, check what happens on the pass when each part of the condition changes, since the loop stops when the
   whole condition changes.
 
-## Next steps
+## More on this topic
 
 For condensed recall and a self-test, use the [Boolean operations revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-boolean-operations-revision-notes/), and practise with the

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ materials. **[4]**
 - Describing compass plotting without moving the compass tail to the previous mark.
 - Calling the Earth's magnetic pole in the Arctic a north magnetic pole.
 
-## Next steps
+## More on this topic
 
 - [Permanent and induced magnetism study guide](/resources/aqa-gcse-physics-8463-permanent-and-induced-magnetism/)
 - [Permanent and induced magnetism revision notes](/resources/aqa-gcse-physics-8463-permanent-and-induced-magnetism-revision-notes/)

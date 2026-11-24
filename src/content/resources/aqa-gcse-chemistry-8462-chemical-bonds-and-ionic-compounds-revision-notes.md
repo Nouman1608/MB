@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the
@@ -278,7 +278,7 @@ Count the ions, find the simplest whole-number ratio and write the metal first, 
 **Which ionic structure do you need to know for AQA GCSE Chemistry?**
 You need to know the structure of sodium chloride, where Na⁺ and Cl⁻ ions alternate in a regular cubic lattice. Other ionic structures will be given in a diagram if they are used.
 
-## Related resources
+## More resources on this topic
 
 - [Chemical bonds and ionic compounds study guide](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds/)
 - [Chemical bonds and ionic compounds practice questions](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-practice/)

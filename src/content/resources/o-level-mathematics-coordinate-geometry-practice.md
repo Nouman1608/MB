@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -167,7 +167,7 @@ Yes. Method marks are awarded for correct working even when the final answer is 
 **Which coordinate geometry questions are non-calculator in 4024?**
 The questions marked no calculator on this page are in the style of Paper 1; the others allow a calculator, as in Paper 2.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/o-level-mathematics-coordinate-geometry-revision-notes/)
 - [Study guide for this topic](/resources/o-level-mathematics-coordinate-geometry/)

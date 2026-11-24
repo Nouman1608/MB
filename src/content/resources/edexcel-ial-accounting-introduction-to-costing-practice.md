@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ First Canteen and Stores rows correct [1]; repeated rows until a negligible bala
 - Re-apportioning only one service department, or ignoring the service each gives to the other.
 - Not stating whether an over or under absorption increases or reduces profit.
 
-## Next steps
+## More on this topic
 
 - [Costing revision notes](/resources/edexcel-ial-accounting-introduction-to-costing-revision-notes/)
 - [Introduction to costing study guide](/resources/edexcel-ial-accounting-introduction-to-costing/)

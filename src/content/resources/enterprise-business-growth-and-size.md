@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-01
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopic **1.3 Enterprise, business growth and size**, from Topic 1, Understanding
@@ -211,7 +211,7 @@ Common forms of support include grants that do not need to be repaid, training s
 **Why do some businesses choose to stay small?**
 The owner may prefer to keep personal control, the market may be small, such as a niche product or a very local service, or the extra risk and complexity of growth may not be worth it to the owner.
 
-## Related resources
+## More resources on this topic
 
 - [Business Activity and Classification](/resources/business-activity-and-classification/)
 - [Cambridge O Level Business subject hub](/subjects/business/)

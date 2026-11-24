@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Evaluate which method the gardener should use (i) to grow a large number of flow
 - Giving a probability as a decimal that is rounded too early.
 - Leaving out the situation in an evaluate question.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid/).
 - Open the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and tick off statements on the [printable checklist](/checklists/ocr/gcse/biology/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ D: becomes zero **[1]**
 - Using the full 44.6° as θ (Question 11).
 - Saying light "does not diffract" through a doorway; it does, but the spreading is negligible (Question 6).
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [diffraction study guide](/resources/oxfordaqa-a-level-physics-9630-diffraction/).
 - Try the [interference practice questions](/resources/oxfordaqa-a-level-physics-9630-interference-practice/) for Young's slits and coherence.

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ The solution depends on the cause. A **temporary** problem (seasonal sales) suit
 
 For **define** and **state** questions, give the meaning. For **calculate** questions, show net cash flow and closing balance for each month. For **explain** questions, link cash to consequences: "if the business cannot pay its suppliers, they may refuse to deliver, so the business cannot make products". For **evaluate** questions, such as the best way to cover a shortage, compare at least two solutions in terms of cost, speed and risk, with figures from the case, and recommend one.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-cash-flow-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-cash-flow-practice/)

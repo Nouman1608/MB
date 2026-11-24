@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers section 8.05 (Circles) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). The circle vocabulary in 8.05a is for both tiers. The theorems in 8.05b to 8.05h appear only in the Higher tier column of the specification, where each is "apply and prove", so this page marks them **Higher tier only**.
@@ -309,7 +309,7 @@ Angle between tangent and CB = 90° - 56° = 34°
 
 Start from the given facts. Name any line you add to the diagram. Give a reason beside every statement. End with the sentence you set out to prove. In a proof, a final numerical answer is not needed: the last line states the result in angle letters.
 
-## Next steps
+## More on this topic
 
 Work through the [practice set](/resources/ocr-gcse-mathematics-circle-theorems-and-proofs-practice/) and use the [revision notes](/resources/ocr-gcse-mathematics-circle-theorems-and-proofs-revision-notes/) to recall the reasons.
 

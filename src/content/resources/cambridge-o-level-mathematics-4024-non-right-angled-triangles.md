@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -220,7 +220,7 @@ Both triangles fit the information: in the first, C is acute, and in the second,
 - **Show that**: work to a greater accuracy than the stated answer.
 - Check that the largest angle is opposite the longest side.
 
-## Next steps
+## More on this topic
 
 Work through the [non-right-angled triangles practice questions](/resources/cambridge-o-level-mathematics-4024-non-right-angled-triangles-practice/) and recap with the [non-right-angled triangles revision notes](/resources/cambridge-o-level-mathematics-4024-non-right-angled-triangles-revision-notes/).
 

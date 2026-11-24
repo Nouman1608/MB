@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -145,7 +145,7 @@ Many start-ups close within a few years. Typical reasons are:
 
 For **explain** questions, state the objective and give a reason it suits the business: a new restaurant may aim for survival because it needs to build customers and cannot afford losses. For **analyse** questions, link objectives to decisions and results. For **evaluate** questions, such as whether profit is the best measure of success, weigh profit against other measures and reach a judgement based on the type and stage of the business.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-setting-business-aims-and-objectives-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-setting-business-aims-and-objectives-practice/)

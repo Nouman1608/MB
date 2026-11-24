@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Evaluate this plan, using your knowledge of the nitrogen cycle. **[9]**
 - Missing the idea that insects are ectotherms in pest questions.
 - Saying that gases "trap heat" without absorbing and re-radiating infrared.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-biology-nutrient-cycles-carbon-and-nitrogen-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-a-level-biology-nutrient-cycles-carbon-and-nitrogen/).
 - Course hub: [OxfordAQA A-level Biology](/boards/oxfordaqa/a-level/biology/). Checklist: [OxfordAQA A-level Biology checklist](/checklists/oxfordaqa/a-level/biology/).

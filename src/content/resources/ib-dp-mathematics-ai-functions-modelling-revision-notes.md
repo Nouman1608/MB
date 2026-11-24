@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and worked examples, read the [functions and modelling study guide](/resources/ib-dp-mathematics-ai-functions-modelling/) first. These notes are for the final weeks.
@@ -237,7 +237,7 @@ Example: h(t) = −12 cos(18t) + 15 has amplitude 12, period 20, principal axis 
 - Missing the second intersection point because the viewing window was too narrow.
 - Giving an answer to 2 s.f. or to an unrequested number of decimal places instead of 3 s.f.
 
-## Next steps
+## More on this topic
 
 Try the full [functions and modelling practice set](/resources/ib-dp-mathematics-ai-functions-modelling-practice/) with worked answers. Go back to the [study guide](/resources/ib-dp-mathematics-ai-functions-modelling/) for any topic you missed. For paper structure and exam technique, see [IB Maths AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/) and the [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/).
 

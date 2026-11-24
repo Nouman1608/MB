@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -125,7 +125,7 @@ These questions cover section 5.4 (Location) of Unit 5 in the IB *Business manag
 - Ending an evaluation with a repeat of the points and no judgement.
 - Forgetting that outsourcing and insourcing can be national as well as international.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-business-management-location-revision-notes/) and the [study guide](/resources/ib-dp-business-management-location/).
 - Return to the [course hub](/boards/ib/ib-dp/business/) and tick off the [printable checklist](/checklists/ib/ib-dp/business/).

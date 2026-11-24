@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -175,7 +175,7 @@ Each contextual point should change how a specific line or moment reads.
 11. Contrast heightens the shock and pity of the catastrophe, and can comment ironically on it.
 12. About an hour, since Unit 1 lasts 2 hours for two answers of equal value.
 
-## Next steps
+## More on this topic
 
 Test the method on the
 [Unit 1 Section A practice questions](/resources/oxfordaqa-a-level-english-literature-9675-unit-1-section-a-practice/),

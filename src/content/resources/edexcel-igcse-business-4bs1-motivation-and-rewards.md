@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Why it works: uses the case's clues (pay already high, repetitive work), applies
 - Treating commission and bonus as the same: commission is a percentage of sales, a bonus is for meeting a target.
 - Recommending a costly financial method for a business that the case shows is short of cash.
 
-## Next steps
+## More on this topic
 
 Condense this with the [motivation and rewards revision notes](/resources/edexcel-igcse-business-4bs1-motivation-and-rewards-revision-notes/), then apply it in the [motivation and rewards practice questions](/resources/edexcel-igcse-business-4bs1-motivation-and-rewards-practice/).
 

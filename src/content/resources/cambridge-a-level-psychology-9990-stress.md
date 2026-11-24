@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the summary of Budzynski et al. (1969) (EMG feedback of forehead muscle tension) matches the paper the syllabus intends."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the summary of Budzynski et al. (1969) (EMG feedback of forehead muscle tension) matches the paper the syllabus intends. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -151,7 +151,7 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 
 **Describe** the GAS by naming and explaining each stage with a physiological detail. **Evaluate** measures using the syllabus methods for 3.4.2: questionnaires, psychometrics, subjective and objective data, validity and reliability. **Suggest** questions in Paper 4 often ask which measure suits a scenario; justify by linking to what needs to be known, for example cortisol for a long-term stressor and heart rate for a moment-by-moment response.
 
-## Related resources
+## More resources on this topic
 
 - [Stress revision notes](/resources/cambridge-a-level-psychology-9990-stress-revision-notes/)
 - [Stress practice questions](/resources/cambridge-a-level-psychology-9990-stress-practice/)

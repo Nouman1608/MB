@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers the first five statements of Unit P1, topic 1 (Algebra and functions): topics 1.1 to 1.5. The specification lists P1 as a compulsory unit for IAS Mathematics, IAL Mathematics and Pure Mathematics, so every candidate meets this material. Simultaneous equations and inequalities (1.6 onwards) are taught elsewhere and are not repeated here.
@@ -348,7 +348,7 @@ No. A negative discriminant means the quadratic has no real roots at all and the
 **Which topics are in Edexcel IAL Maths P1 section 1?**
 Unit P1 section 1 of the Edexcel IAL Mathematics specification (YMA01) covers the laws of indices for rational exponents, surds including rationalising denominators, quadratic functions and their graphs, the discriminant and completing the square.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-practice/), then use the [revision notes](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-revision-notes/) before a test. Related material for the wider unit is in [Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/), the [Pure 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/) and the [Pure 1 practice questions](/resources/edexcel-a-level-mathematics-pure1-practice/).
 

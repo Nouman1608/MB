@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -166,7 +166,7 @@ official aid and go directly to households. 9. In design, branding and software.
 national averages hide internal divides, and weighting is a choice. 11. Unequal access to internet
 and digital technology.
 
-## Related resources
+## More resources on this topic
 
 - [Power, places and networks study guide](/resources/ib-dp-geography-power-places-networks-study-guide/)
 - [Human and physical influences on global interactions revision notes](/resources/ib-dp-geography-human-and-physical-influences-on-global-interactions-revision-notes/)

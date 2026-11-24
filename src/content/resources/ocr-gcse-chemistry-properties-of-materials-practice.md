@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Identify the type of structure in each material: ionic, simple molecular, giant 
 - Dividing by the wrong number after leaving out an anomalous result.
 - Listing nanoparticle risks without linking them to size or surface area.
 
-## Next steps
+## More on this topic
 
 - Return to the [study guide](/resources/ocr-gcse-chemistry-properties-of-materials/) for any statement where you dropped marks.
 - Use the [revision notes](/resources/ocr-gcse-chemistry-properties-of-materials-revision-notes/) for a final recap.

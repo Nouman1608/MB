@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Convert cents to dollars, or dollars to cents, before dividing, and do not mix t
 **What are the most common mistakes in A Level ratio questions?**
 Common errors include using revenue instead of credit sales for receivables days, leaving non-current liabilities out of gearing, using profit for the year in interest cover, and using the final dividend alone for dividend per share.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a-revision-notes/) and the [study guide](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a/).
 - Course hub: [Cambridge A Level Accounting](/boards/cambridge/a-level/accounting/); printable [checklist](/checklists/cambridge/a-level/accounting/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -168,7 +168,7 @@ Investigation: strong source evaluation still depends on being able to
 bring accurate contextual knowledge to bear on what a source says and
 omits.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 2 revision notes](/resources/edexcel-igcse-world-history-paper-2-revision-notes/)
 - [Paper 2 practice questions](/resources/edexcel-igcse-world-history-paper-2-practice/)

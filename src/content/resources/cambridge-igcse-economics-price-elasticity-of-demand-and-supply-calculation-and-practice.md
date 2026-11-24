@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ This set tests sections 2.7 and 2.8 of the Cambridge IGCSE Economics 0455 syllab
 - Treating the steepness of a straight line as the same thing as elasticity at every point.
 - Writing a one-sided answer to an evaluation question and not reaching a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and/).
 - Visit the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/) and use the [printable checklist](/checklists/cambridge/igcse/economics/) to record progress.

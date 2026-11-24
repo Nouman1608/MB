@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -146,7 +146,7 @@ The strong version includes all five steps of the sequence, names the argument t
 - **Irrelevant further research**: suggestions that would not help answer the question.
 - **Summary posing as reflection**: restating both perspectives and calling it a personal view.
 
-## Next steps
+## More on this topic
 
 Condense this with the [essay reflection revision notes](/resources/cambridge-a-level-global-perspectives-9239-essay-reflection-revision-notes/) and practise it with the [essay reflection practice questions](/resources/cambridge-a-level-global-perspectives-9239-essay-reflection-practice/). The companion unit on [selecting, assessing and justifying sources](/resources/cambridge-a-level-global-perspectives-9239-essay-sources/) covers the AO1 points that reflection builds on.
 

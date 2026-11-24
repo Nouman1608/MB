@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -189,6 +189,6 @@ k(cat) / k(uncat) = e^[(80 000 − 60 000) / (8.31 × 310)] = e^7.76 = 2.4 × 10
 - **"Deduce the units of k"**: show the cancelling, not just the answer.
 - **"Explain the effect of temperature on k"**: link the increase in k to the larger proportion of molecules with at least Ea.
 
-## Next steps
+## More on this topic
 
 Condense this with the [rate equations revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-11-1-revision-notes/), then try the [rate equations practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-11-1-practice/). Move on to [determination of rate equation](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-11-2/) to find orders from experimental data.

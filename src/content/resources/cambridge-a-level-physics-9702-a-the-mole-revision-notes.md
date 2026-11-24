@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Molecular spacing estimate: volume per molecule = (volume of one mole) ÷ N_A; s
 
 **Answers:** 1. The mole (mol). 2. The amount of substance containing a number of particles equal to the Avogadro constant (6.02 × 10²³). 3. mol⁻¹. 4. 64 ÷ 32 = 2.0 mol. 5. 2.0 × 6.02 × 10²³ = 1.2 × 10²⁴ molecules. 6. 2.4 × 10²⁴ atoms. 7. 0.0040 ÷ 6.02 × 10²³ = 6.6 × 10⁻²⁷ kg. 8. 3.01 × 10²⁴ ÷ 6.02 × 10²³ = 5.0 mol. 9. 1.66 × 10⁻²⁷ kg × 6.02 × 10²³ mol⁻¹ = 1.00 × 10⁻³ kg mol⁻¹ = 1.00 g mol⁻¹. 10. Each mole has the same number of atoms, but each lead atom has a much greater mass. 11. 6.02 × 10²³ ÷ 0.024 = 2.5 × 10²⁵ m⁻³. 12. Helium, by a factor of 10.
 
-## Related resources
+## More resources on this topic
 
 - [Ideal Gases revision notes](/resources/a-physics-ideal-gases-revision-notes/) — the whole of Topic 15
 - [The mole practice questions](/resources/cambridge-a-level-physics-9702-a-the-mole-practice/)

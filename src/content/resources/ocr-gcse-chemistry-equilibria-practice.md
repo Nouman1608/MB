@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Plan an experiment to test the prediction that adding more of either reactant ma
 - Linking a temperature rise to the exothermic direction.
 - In plans, leaving out the control or the step that keeps dilution the same.
 
-## Next steps
+## More on this topic
 
 - Recap the key words in the [Equilibria revision notes](/resources/ocr-gcse-chemistry-equilibria-revision-notes/).
 - Go back to the [Equilibria study guide](/resources/ocr-gcse-chemistry-equilibria/) for anything that went wrong.

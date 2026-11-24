@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -212,7 +212,7 @@ Extra facts worth knowing:
 - One-sided answers on debated questions, such as whether China is a superpower.
 - Comparing organisations one after the other without a shared criterion.
 
-## Next steps
+## More on this topic
 
 - Go back to the [study guide](/resources/ib-myp-individuals-and-societies-superpowers-empires-alliances/) for anything you got wrong.
 - Try the [practice questions](/resources/ib-myp-individuals-and-societies-superpowers-empires-alliances-practice/).

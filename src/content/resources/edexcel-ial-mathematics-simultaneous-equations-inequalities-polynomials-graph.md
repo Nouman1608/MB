@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers Unit P1: Pure Mathematics 1, section 1 (Algebra and functions), topics 1.6 to 1.12. According to the specification, P1 and P2 are compulsory in IAS Mathematics, in IAL Mathematics and in IAL Pure Mathematics; no tier labels apply.
@@ -254,7 +254,7 @@ Rearrange the equation into two simpler functions, sketch both on the same axes,
 **Are combined transformations part of Edexcel IAL Maths P1?**
 No. In Unit P1 only one transformation is applied at a time; combinations of transformations are covered in Unit P3 topic 1.4.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-practice/), then use the [revision notes](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-revision-notes/) to check recall. The [diagnostics](/diagnostics/) show which topics need more work.
 

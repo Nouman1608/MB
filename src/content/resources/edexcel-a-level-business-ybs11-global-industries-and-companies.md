@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -115,7 +115,7 @@ The most effective control combines several: laws set minimum standards, pressur
 
 For **explain**, choose one effect (for example, tax revenue) and show its size or direction using a figure from the source. For **analyse**, set out the chain: "the MNC buys from local suppliers, which increases their sales and jobs, but makes them dependent on one customer". For **discuss** and **assess**, weigh benefits and costs for the host country, and give a judgement that depends on factors such as the MNC's tax deal, what the alternative would be, and the strength of local laws.
 
-## Related resources
+## More resources on this topic
 
 - [Global industries and companies revision notes](/resources/edexcel-a-level-business-ybs11-global-industries-and-companies-revision-notes/)
 - [Global industries and companies practice questions](/resources/edexcel-a-level-business-ybs11-global-industries-and-companies-practice/)

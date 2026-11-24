@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -187,7 +187,7 @@ It cannot be pre-learned, so practise regularly on unfamiliar poems with a consi
 **How many modern texts can be studied for Paper 2 Section A?**
 Centres choose from 12 modern prose or drama texts, such as An Inspector Calls, Lord of the Flies and Animal Farm. Know the world the text was written into, not just its plot.
 
-## Related resources
+## More resources on this topic
 
 - [Modern Texts and Poetry study guide](/resources/aqa-gcse-english-literature-paper-2/)
 - [Modern Texts and Poetry practice questions](/resources/aqa-gcse-english-literature-paper-2-practice/)

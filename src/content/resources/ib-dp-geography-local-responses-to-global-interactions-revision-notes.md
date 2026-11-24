@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -155,7 +155,7 @@ integration; alter-globalisation seeks fairer global rules. 9. Farmers co-own Di
 in profits and decisions. 10. For example legal rights, organisation, media attention or economic
 dependence. 11. Some gain jobs while others bear environmental costs.
 
-## Related resources
+## More resources on this topic
 
 - [Human development and diversity study guide](/resources/ib-dp-geography-human-development-diversity-study-guide/)
 - [Changing identities and cultures revision notes](/resources/ib-dp-geography-changing-identities-and-cultures-revision-notes/)

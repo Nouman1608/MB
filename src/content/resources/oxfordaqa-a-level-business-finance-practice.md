@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Payables days are trade payables divided by cost of sales, multiplied by 365. Pu
 **Which section of OxfordAQA 9725 do these finance questions cover?**
 They cover section 3.2.3 Finance of OxfordAQA International AS and A-level Business (9725): sources of finance, break-even analysis, profit and margins, budgeting and cash flow.
 
-## Next steps
+## More on this topic
 
 - [Finance revision notes](/resources/oxfordaqa-a-level-business-finance-revision-notes/)
 - [Finance study guide](/resources/oxfordaqa-a-level-business-finance/)

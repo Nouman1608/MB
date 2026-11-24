@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ Yes. Giving an angle with no theorem or angle fact named weakens the reasoning, 
 **Why should you avoid rounding in the middle of a geometry problem?**
 Rounding intermediate values can push the final answer away from the correct value. Keep full calculator values and round only at the end, with the correct units.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure-revision-notes/) for formulas and methods.
 - Reread the [study guide](/resources/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure/) for the worked examples.

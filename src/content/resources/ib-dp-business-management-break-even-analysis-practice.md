@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ Questions 2 to 10 use Pellindor Honey, which sells jars of honey at a price of 8
 * Naming a limitation without explaining why it weakens the result.
 * Answering "evaluate" with numbers alone and no reasoned judgement.
 
-## Next steps
+## More on this topic
 
 * Read the [5.5 revision notes](/resources/ib-dp-business-management-break-even-analysis-revision-notes/) for condensed formulas.
 * Review the [5.5 study guide](/resources/ib-dp-business-management-break-even-analysis/) for worked examples.

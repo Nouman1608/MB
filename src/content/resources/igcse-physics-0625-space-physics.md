@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -258,7 +258,7 @@ Most stars expand into red giants, which form a planetary nebula with a white dw
 **How is the Hubble constant used to estimate the age of the Universe?**
 The Hubble constant is H₀ = v / d, the speed a galaxy moves away divided by its distance. The quantity 1 / H₀ estimates the age of the Universe, which supports the idea that all its matter was once at a single point.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/igcse-physics-0625-space-physics-revision-notes/) self-test, then the [practice questions](/resources/igcse-physics-0625-space-physics-practice/). For the whole course, try the free [Core diagnostic](/practice/0625/diagnostic/core/) or [Extended diagnostic](/practice/0625/diagnostic/extended/).
 

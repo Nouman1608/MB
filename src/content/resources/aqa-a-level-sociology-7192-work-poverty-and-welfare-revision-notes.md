@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense the [Work, Poverty and Welfare study guide](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare/). Read that first if a term here is new to you.
@@ -196,7 +196,7 @@ For every point, the specification asks for both the evidence and the sociologic
 - Inventing or misremembering statistics; describe the pattern if you are unsure of the number.
 - Listing studies with no application to the question or the item, which limits AO2 credit.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare-practice/). For evaluating the research methods behind poverty studies, see the [Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/). For links between deprivation and achievement, see the [AQA Education revision notes](/resources/aqa-a-level-sociology-education-revision-notes/). For links between poverty and crime, see the [Crime and Deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/). For class, life chances and the transnational capitalist class, see [Stratification and Differentiation](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation/); for state policy and domestic labour, see [Families and Households](/resources/aqa-a-level-sociology-7192-families-and-households/).
 

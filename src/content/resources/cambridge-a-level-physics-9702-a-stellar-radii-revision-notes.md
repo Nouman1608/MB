@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -116,7 +116,7 @@ Stars are treated as **black bodies** (ideal emitters with a spectrum set only b
 
 **Answers:** 1. The wavelength at which maximum power is emitted is inversely proportional to the surface (thermodynamic) temperature. 2. T = 2.9 × 10⁻³ / 725 × 10⁻⁹ = 4000 K. 3. The luminosity of a star equals its surface area multiplied by σ and by the fourth power of its surface temperature. 4. Its spectrum is close to a black-body spectrum; temperatures and radii found are estimates. 5. P's peak wavelength is half Q's. 6. The luminous star has 10 times the radius. 7. L = 4π × 5.67 × 10⁻⁸ × (2.1 × 10⁹)² × 4500⁴ = 1.3 × 10²⁷ W. 8. r = √(2.0 × 10²⁷ / (4π × 5.67 × 10⁻⁸ × 4000⁴)) = 3.3 × 10⁹ m. 9. L ∝ r², so a very large surface area compensates for the low power per unit area. 10. Equal: X has (12 000/6000)⁴ = 16 times more per unit area but (1.5/6.0)² = 1/16 of the area. 11. L = 4πd²F; T from Wien's law; r from L = 4πσr²T⁴. 12. λ_max = 2.9 × 10⁻³ / 3500 = 8.3 × 10⁻⁷ m (830 nm).
 
-## Related resources
+## More resources on this topic
 
 - [Astronomy and Cosmology revision notes](/resources/a-physics-astronomy-cosmology-revision-notes/) — the whole of Topic 25
 - [Stellar radii practice questions](/resources/cambridge-a-level-physics-9702-a-stellar-radii-practice/)

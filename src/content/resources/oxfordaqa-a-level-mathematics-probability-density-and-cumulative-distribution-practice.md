@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -147,7 +147,7 @@ f(x) = kx for 0 ≤ x < 2, f(x) = k(6 − x)/2 for 2 ≤ x ≤ 6, and f(x) = 0 o
 - Leaving out the range of the pdf or the "0 otherwise" statement.
 - Rounding intermediate values before subtracting.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution/) for the sections you found hardest.
 - Use the [revision notes](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution-revision-notes/) for the method boxes.

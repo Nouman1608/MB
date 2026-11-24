@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 4.2.3, Organic synthesis, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 4, Core organic chemistry, and its learning outcomes are 4.2.3(a) to (c), all covered below with worked examples. H432 is the full A level. The specification states that Module 4 content is assessed in Synthesis and analytical techniques (02) and Unified chemistry (03). Outcome (a) is linked to PAG5, Synthesis of an organic liquid.
@@ -220,7 +220,7 @@ The specification says you should devise two-stage routes using transformations 
 - Trying to oxidise a tertiary alcohol in a route.
 - Using a reagent that also attacks a group you wanted to keep.
 
-## Next steps
+## More on this topic
 
 - Condensed tables and a quick self-test: [Organic synthesis revision notes](/resources/ocr-a-level-chemistry-organic-synthesis-revision-notes/)
 - Original questions with marked answers: [Organic synthesis practice questions](/resources/ocr-a-level-chemistry-organic-synthesis-practice/)

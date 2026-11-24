@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ A proton and an alpha particle are placed in the same uniform field. The alpha p
 - **Calculate**: use F = qE, then a = F/m if motion is asked for; state the direction separately.
 - **Explain** (why gravity can be ignored): compare mg with qE numerically.
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields study guide](/resources/a-physics-electric-fields/) — the whole of Topic 18
 - [Electric fields and field lines revision notes](/resources/cambridge-a-level-physics-9702-a-electric-fields-and-field-lines-revision-notes/)

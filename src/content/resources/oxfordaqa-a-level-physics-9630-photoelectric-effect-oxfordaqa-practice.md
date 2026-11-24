@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ D: the charge of the electron **[1]**
 - Using the kinetic energy in eV directly in ½mv² (Question 11).
 - Treating Ek(max) as the energy of every photoelectron (Question 6).
 
-## Next steps
+## More on this topic
 
 - Review the reasoning in the [photoelectric effect study guide](/resources/oxfordaqa-a-level-physics-9630-photoelectric-effect-oxfordaqa/).
 - Continue with the [wave-particle duality practice questions](/resources/oxfordaqa-a-level-physics-9630-wave-particle-duality-oxfordaqa-practice/).

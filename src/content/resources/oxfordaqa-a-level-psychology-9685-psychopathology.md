@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -146,7 +146,7 @@ CBT aims to identify and **challenge irrational or negative thoughts** and repla
 - Confusing Beck's triad (self, world, future) with Ellis's ABC.
 - Evaluating CBT without evidence.
 
-## Related resources
+## More resources on this topic
 
 - [Psychopathology revision notes](/resources/oxfordaqa-a-level-psychology-9685-psychopathology-revision-notes/)
 - [Psychopathology practice questions](/resources/oxfordaqa-a-level-psychology-9685-psychopathology-practice/)

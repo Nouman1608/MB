@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,7 +160,7 @@ On Paper 3, short questions often ask you to **outline** a symptom or **describe
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 1: Clinical Psychology, 1.1 Schizophrenia — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Schizophrenia revision notes](/resources/cambridge-a-level-psychology-9990-schizophrenia-revision-notes/)
 - [Schizophrenia practice questions](/resources/cambridge-a-level-psychology-9990-schizophrenia-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the description of Nisbett and Miyamoto against the course textbook, as sources present this cultural research in slightly different ways."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the description of Nisbett and Miyamoto against the course textbook, as sources present this cultural research in slightly different ways. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -201,7 +201,7 @@ if everyone in them perceives the same way.
 - **Apply:** in a scenario (a hungry shopper, a reader expecting a word), name the factor and the
   matching study.
 
-## Related resources
+## More resources on this topic
 
 - [Perception revision notes](/resources/oxfordaqa-igcse-psychology-9218-perception-revision-notes/)
 - [Perception practice questions](/resources/oxfordaqa-igcse-psychology-9218-perception-practice/)

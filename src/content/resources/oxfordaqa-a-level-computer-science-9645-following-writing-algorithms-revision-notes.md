@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -187,7 +187,7 @@ Rules that save marks: write the starting values in the first row, change only o
 11. Putting the new character first reverses the order.
 12. The structure and the order of the statements.
 
-## Next steps
+## More on this topic
 
 - [Following and writing algorithms study guide](/resources/oxfordaqa-a-level-computer-science-9645-following-writing-algorithms/)
 - [Following and writing algorithms practice questions](/resources/oxfordaqa-a-level-computer-science-9645-following-writing-algorithms-practice/)

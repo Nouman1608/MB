@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,6 +173,6 @@ Each step names the rule, gives the authority and applies the facts. Notice that
 
 In Paper 2 problem questions, use a heading for each element and say which elements are in real doubt; spend your time there. For "explain" questions on a single element, give the rule, a leading case and a contrasting case (for example *Hughes* and *Doughty* on remoteness). For evaluation, link to the theory of tort: the objective standard and the *Caparo* policy limb are named in the specification.
 
-## Related resources
+## More resources on this topic
 
 [Negligence for physical injury and property damage revision notes](/resources/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-revision-notes/) | [Negligence for physical injury and property damage practice questions](/resources/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-practice/) | [Theory of tort law study guide](/resources/aqa-a-level-law-7162-theory-of-tort-law/)

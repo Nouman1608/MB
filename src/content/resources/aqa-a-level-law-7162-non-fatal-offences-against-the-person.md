@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,6 +152,6 @@ The 1861 Act is criticised for outdated language ("maliciously", "grievous"), fo
 
 Start with the injury: classify it as ABH, wound or GBH, then test offences from the top of the ladder down. For each, give the actus reus, the mens rea and an authority, apply to the facts and conclude before moving on. For evaluation, use correspondence and fair labelling with case examples, and refer to the Law Commission proposals.
 
-## Related resources
+## More resources on this topic
 
 [Non-fatal offences revision notes](/resources/aqa-a-level-law-7162-non-fatal-offences-against-the-person-revision-notes/) | [Non-fatal offences practice questions](/resources/aqa-a-level-law-7162-non-fatal-offences-against-the-person-practice/)

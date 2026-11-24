@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -191,7 +191,7 @@ they show that "chloromethyl" is a single substituent. If unsure, draw the struc
 - **Deduce the molecular formula**: count atoms methodically, ring corner by ring corner.
 - **Identify** the functional groups: name them precisely ("acyl chloride", not "chloride").
 
-## Related resources
+## More resources on this topic
 
 - [Naming revision notes](/resources/cambridge-a-level-chemistry-9701-a-formulas-functional-groups-and-the-naming-of-organic-revision-notes/)
 - [Naming practice questions](/resources/cambridge-a-level-chemistry-9701-a-formulas-functional-groups-and-the-naming-of-organic-practice/)

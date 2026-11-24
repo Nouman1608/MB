@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -162,7 +162,7 @@ These questions cover section 3.3 The marketing mix (3.3.1 to 3.3.6) of the Camb
 - Writing both sides of a channel decision but giving no final judgement.
 - Confusing price discrimination (different groups, different prices) with dynamic pricing (price changes over time or with demand).
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-business-the-marketing-mix-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-the-marketing-mix/).
 - Go to the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/) and the [checklist](/checklists/cambridge/a-level/business/).

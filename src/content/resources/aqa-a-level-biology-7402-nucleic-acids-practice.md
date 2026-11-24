@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ These questions cover section 3.1.5 (3.1.5.1 Structure of DNA and RNA and 3.1.5.
 - Confusing the percentage of G with the percentage of C–G pairs.
 - Saying DNA is "simple, so it cannot carry information" without the idea of sequence.
 
-## Next steps
+## More on this topic
 
 - [3.1.5 study guide](/resources/aqa-a-level-biology-7402-nucleic-acids/)
 - [3.1.5 revision notes](/resources/aqa-a-level-biology-7402-nucleic-acids-revision-notes/)

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ Use the [study guide](/resources/a-level-aqa-biology-eukaryotic-and-prokaryotic-
 - Giving only one side of a comparison, such as "bacteria have no nucleus" without stating what the other cell has.
 - Slips in unit conversion between µm and mm.
 
-## Next steps
+## More on this topic
 
 - [Study guide: eukaryotic and prokaryotic cell structure](/resources/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure/)
 - [Revision notes](/resources/aqa-a-level-biology-cell-structure-revision-notes/)

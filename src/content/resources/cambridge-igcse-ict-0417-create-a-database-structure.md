@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ Radio buttons, check boxes and drop-down menus reduce typing, so they reduce err
 
 In the practical paper, follow field names, data types and formats exactly, and take screenshots of the table design and relationships as evidence. On the theory paper, *describe* a key by its characteristics (unique, links tables), *compare* flat file and relational databases point by point, and *explain* form design choices by saying how each one helps the user or reduces errors.
 
-## Next steps
+## More on this topic
 
 Revise with the [create a database structure revision notes](/resources/cambridge-igcse-ict-0417-create-a-database-structure-revision-notes/), then try the [create a database structure practice questions](/resources/cambridge-igcse-ict-0417-create-a-database-structure-practice/). The next section, searching and calculating, is in the [manipulate data study guide](/resources/cambridge-igcse-ict-0417-manipulate-data/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ c_r.m.s. = √(3kT / m) = √(3RT / M)
 
 **Answers:** 1. Any four: very large number of identical molecules in random motion; elastic collisions; molecular volume negligible compared with gas volume; no intermolecular forces except during collisions; collision time negligible compared with time between collisions. 2. Molecules hit the walls and change momentum; the wall exerts a force on each, so each exerts an equal and opposite force on the wall; many collisions give a steady force; pressure is force per unit area. 3. 2mcₓ. 4. Motion is random, so the mean squares of the three components are equal and add to ⟨c²⟩. 5. ⟨c²⟩ = (1 + 4 + 9 + 16) × 10⁴ ÷ 4 = 7.5 × 10⁴ m² s⁻²; c_r.m.s. = 274 m s⁻¹. 6. ⅓Nm⟨c²⟩ = NkT, so m⟨c²⟩ = 3kT and ½m⟨c²⟩ = ³⁄₂kT. 7. 1.5 × 1.38 × 10⁻²³ × 300 = 6.2 × 10⁻²¹ J. 8. c_H/c_O = √(32/2) = 4. 9. 1200 K. 10. √(3 × 1.0 × 10⁵ ÷ 0.18) = 1.3 × 10³ m s⁻¹. 11. The mean velocity is zero because motion is random in all directions; squaring removes the sign, and ⟨c²⟩ is the quantity that arises in the derivation. 12. Zero.
 
-## Related resources
+## More resources on this topic
 
 - [Ideal Gases revision notes](/resources/a-physics-ideal-gases-revision-notes/) — the whole of Topic 15
 - [Kinetic theory of gases practice questions](/resources/cambridge-a-level-physics-9702-a-kinetic-theory-of-gases-practice/)

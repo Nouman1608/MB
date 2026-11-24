@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -162,7 +162,7 @@ Motivated staff produce more, make fewer errors, are absent less often and are l
 
 For **explain** (4 marks), give one point with two developed steps and a detail from the source. For **analyse** (6 marks), build two chains or one longer chain, linking the theory to a consequence for the named business. For **discuss** and **assess**, weigh a method against an alternative, using the source's figures such as turnover, wage costs or spans of control, and state what your judgement depends on.
 
-## Related resources
+## More resources on this topic
 
 - [Managing People revision notes](/resources/edexcel-a-level-business-ybs11-managing-people-revision-notes/)
 - [Managing People practice questions](/resources/edexcel-a-level-business-ybs11-managing-people-practice/)
