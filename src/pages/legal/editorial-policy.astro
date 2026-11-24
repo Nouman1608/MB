@@ -3,7 +3,7 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
-import { getResources, getArticles } from '../../utils/content/collections';
+import { getResources, getArticles, getPublishedResourceTotal } from '../../utils/content/collections';
 // D-448: the dated, per-resource check record the review ledger reads.
 import verification from '../../../docs/reports/academic-review/pending-review-2026-10-04.json';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
@@ -18,7 +18,7 @@ const lastUpdated = '15 November 2026';
 const TEAM_ID = 'marlbridge-academic-team';
 const allResources = await getResources();
 const allArticles = await getArticles();
-const totalResources = allResources.length;
+const totalResources = await getPublishedResourceTotal();
 const teamResources = allResources.filter((r) => r.data.author?.id === TEAM_ID).length;
 const namedResources = totalResources - teamResources;
 const teamPercent = totalResources > 0 ? Math.round((teamResources / totalResources) * 100) : 0;

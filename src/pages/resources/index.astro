@@ -25,12 +25,13 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import CourseFinder from '../../components/tools/CourseFinder.astro';
-import { getArticles, getResources, getSubjects, resourceCategoryMeta, type ResourceCategory } from '../../utils/content/collections';
+import { getArticles, getPublishedResourceTotal, getResources, getSubjects, resourceCategoryMeta, type ResourceCategory } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
 import { apLibraryBuilt, apUrls } from '../../utils/ap/library';
 import { AP_TRADEMARK_ATTRIBUTION } from '../../data/ap/config';
 
 const resources = await getResources();
+const resourceTotal = await getPublishedResourceTotal();
 const subjects = await getSubjects();
 const types = (Object.keys(resourceCategoryMeta) as ResourceCategory[]);
 const count = (type: ResourceCategory, subjectId: string) =>
@@ -51,11 +52,11 @@ const rows = subjects
 <PageLayout
   translationKey="resources"
   title="Free IGCSE, O Level, A Level & IB Revision Notes"
-  description={`${resources.length.toLocaleString('en-GB')} free study guides, revision notes and practice questions for Cambridge, Edexcel, AQA, OCR, OxfordAQA and IB courses. Pick your course and topic; no sign-up.`}
+  description={`${resourceTotal.toLocaleString('en-GB')} free study guides, revision notes and practice questions for Cambridge, Edexcel, AQA, OCR, OxfordAQA and IB courses. Pick your course and topic; no sign-up.`}
   path={routes.resources}
   eyebrow="Study resources"
   heading="Find study resources"
-  lead={`Free study guides, revision notes and practice questions for IGCSE, O Level, AS and A Level, GCSE and IB courses, organised by course and by syllabus topic. ${resources.length.toLocaleString('en-GB')} published so far, free to read with no sign-up.`}
+  lead={`Free study guides, revision notes and practice questions for IGCSE, O Level, AS and A Level, GCSE and IB courses, organised by course and by syllabus topic. ${resourceTotal.toLocaleString('en-GB')} published so far, free to read with no sign-up.`}
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Study resources', href: routes.resources }]}
 >
   <Section surface="white" spacing="md">

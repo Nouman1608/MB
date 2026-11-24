@@ -33,6 +33,17 @@ export const getResources = async (
 };
 
 /**
+ * The ONE site-wide resource total (SEO audit S4.3). Every page that states how many
+ * resources Marlbridge has published (About, editorial policy, /resources/ hub and its
+ * description) reads it from here, so the figure cannot drift between pages: each
+ * resource is counted once, however many courses list it. Per-course and per-subject
+ * counts stay separate; a resource listed under two courses is counted once here.
+ * Same rule as getResources(): every entry whose reviewStatus is not 'draft'.
+ */
+export const getPublishedResourceTotal = async (): Promise<number> =>
+  (await allResourceEntries()).filter((r) => r.data.reviewStatus !== 'draft').length;
+
+/**
  * D-501 -- build-time cache for the resources collection. Astro's
  * getCollection() rebuilds every entry object on each call, and a resource
  * page called it (directly or through getResources()) about five times, each
