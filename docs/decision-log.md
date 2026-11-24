@@ -16877,3 +16877,17 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 
 - Owner, 24 Nov 2026: the teacher has reviewed `cambridge-igcse-chemistry-0620-moles-exam-style-questions-practice`; reviewer named as Nouman Ahmed (Chemistry Teacher). Set to `reviewStatus: reviewed`, `reviewer: nouman-ahmed`, `reviewedDate: 2026-11-24` with a dated `reviewNote`.
 - Cloudflare check (24 Nov 2026): no cache rule affects the main site's HTML; after PR 239 deployed, the live pages updated with no purge. The earlier "cache rule" theory in `SEO-FIX-REPORT.md` is corrected there.
+
+## D-529 - SEO round 3: best-practice decisions on the open items (24 Nov 2026)
+
+Owner (24 Nov 2026, non-technical): "look for what are best practices, and apply them". Decisions, with the evidence used:
+
+- **AP titles.** AP resource page titles now lead with the AP name when it fits in 60 characters, e.g. "AP Chemistry 1.1: Moles and Molar Mass Study Guide" (`src/utils/ap/search-title.ts`). Reason: people search "AP Chemistry ..."; these pages already earned 34,381 impressions and 196 clicks (Search Console, 6 Oct to 21 Nov) under titles that never said AP. Titles that cannot fit keep the earlier form.
+- **Checklists kept indexable.** 179 checklist pages earned 382 clicks and 6,767 impressions (26 Aug to 21 Nov), so noindexing them would throw away real traffic. They have their own content, not a copy of the board pages.
+- **Descriptions.** Three reviewed resources got a full stop or lost an ellipsis in the description (a dated review note records it). The five "missing description" pages reported by the S6 check were a false alarm: they have descriptions that contain the symbols > and <.
+- **Left as they are, on purpose.**
+  - Titles over 60 characters (about 7,200): Google shortens the display and does not penalise long titles; mass-shortening hand-written titles risks making them worse and duplicating each other. The code already picks the shortest sensible variant where it adds the course.
+  - Social image cards: every page already has a branded image; about 200 custom cards is a design project, not a fix.
+  - AP URL move: changing 3,270 live URLs loses search history for no ranking gain; the title change above delivers the "AP" signal without it.
+  - R2 image renames: file names have no ranking value worth the risk of broken images; nothing is renamed.
+  - "No weekly limit": not stated anywhere on the site and no quota was found in code, but a new public promise should only be made by the owner; the existing "free, no sign-up" wording stays.

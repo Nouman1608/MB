@@ -17,14 +17,14 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "graphs-of-equations-and-functions-ocr-gcse-maths"
     subtopic: "straight-line-graphs-ocr-gcse-maths"
-description: "Original practice questions with worked answers on straight-line graphs, parallel and perpendicular lines, inequalities and circles for OCR GCSE Maths J560"
+description: "Original practice questions with worked answers on straight-line graphs, parallel and perpendicular lines, inequalities and circles for OCR GCSE Maths J560."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17). 2026-11-24: meta description wording only (ending punctuation); content unchanged."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
