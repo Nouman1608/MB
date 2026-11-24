@@ -75,7 +75,7 @@ lipoprotein data, and weighing the benefits and risks of CVD treatments
 such as statins and anticoagulants
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
   <figcaption>Where each vessel and valve sits and which way blood flows.</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ The **Bohr effect**: a higher concentration of carbon dioxide (as found in activ
 **Fetal haemoglobin (HbF)** has a different quaternary structure from adult haemoglobin and a **higher affinity for oxygen** at any given partial pressure — its dissociation curve sits to the **left** of the adult curve. This allows the fetus to take oxygen from the mother's blood across the placenta, where the oxygen partial pressure is too low for maternal haemoglobin to release much oxygen but still high enough for fetal haemoglobin to load it.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--04-oxygen-dissociation.webp" width="900" height="1010" alt="Graph of haemoglobin saturation against pO2: the S-shaped adult curve, the same curve shifted right by high CO2 (Bohr shift) and a fetal curve to the left. The lesson numbers show 97% in the lungs and 45% or 30% at 3 kPa, releasing 10.4 or 13.4 cm3 per 100 cm3." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-mammals--04-oxygen-dissociation.webp" width="900" height="1035" alt="Graph of haemoglobin saturation against pO2: the S-shaped adult curve, the same curve shifted right by high CO2 (Bohr shift) and a fetal curve to the left. The lesson numbers show 97% in the lungs and 45% or 30% at 3 kPa, releasing 10.4 or 13.4 cm3 per 100 cm3." loading="lazy">
   <figcaption>Higher CO2 shifts the curve right so more oxygen is unloaded.</figcaption>
 </figure>
 
@@ -122,12 +122,12 @@ to link a molecular or structural fact to its real-world health
 consequence.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--03-co2-transport.webp" width="900" height="800" alt="Numbered flow inside a red cell: CO2 enters, carbonic anhydrase makes H2CO3, which splits to H+ and HCO3-. H+ forms haemoglobinic acid and releases O2; HCO3- leaves while Cl- enters; some CO2 binds Hb directly." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-mammals--03-co2-transport.webp" width="900" height="800" alt="Numbered flow inside a red cell: CO2 enters, carbonic anhydrase makes H2CO3, which splits to H+ and HCO3-. H+ forms haemoglobinic acid and releases O2; HCO3- leaves while Cl- enters; some CO2 binds Hb directly." loading="lazy">
   <figcaption>How a red cell carries CO2 and why chloride moves in.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--07-heart-conduction.webp" width="900" height="820" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-mammals--07-heart-conduction.webp" width="900" height="830" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
   <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
 </figure>
 

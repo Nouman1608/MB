@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 985" width="900" height="985" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="985" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Two models of fit</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Does the active site change shape?</text>
+<rect x="40" y="120" width="820" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="64" y="158" font-size="22" font-weight="700" fill="#2f6f8f" text-anchor="start">Lock and key: rigid site</text>
+<path d="M190.46908844915757 235.73333333333335 A56 56 0 1 0 190.46908844915757 284.26666666666665 L177.33333333333334 284.26666666666665 L177.33333333333334 270.26666666666665 L162.4 270.26666666666665 L162.4 249.73333333333332 L177.33333333333334 249.73333333333332 L177.33333333333334 235.73333333333335 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3" stroke-linejoin="round"/>
+<rect x="282" y="250" width="16" height="20" fill="#f2c9b0" stroke="#b5602e" stroke-width="2"/><rect x="298" y="238" width="44" height="44" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="400" y1="202" x2="352" y2="202" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="398" y1="260" x2="462" y2="260" stroke="#8a6d0d" stroke-width="6" marker-end="url(#ahO)"/>
+<path d="M640.4690884491575 235.73333333333335 A56 56 0 1 0 640.4690884491575 284.26666666666665 L627.3333333333334 284.26666666666665 L627.3333333333334 270.26666666666665 L612.4000000000001 270.26666666666665 L612.4000000000001 249.73333333333332 L627.3333333333334 249.73333333333332 L627.3333333333334 235.73333333333335 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3" stroke-linejoin="round"/>
+<rect x="610" y="250" width="16" height="20" fill="#f2c9b0" stroke="#b5602e" stroke-width="2"/><rect x="626" y="238" width="44" height="44" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="620" y="352" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">exact fit, fixed shape</text>
+<rect x="40" y="390" width="820" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="64" y="428" font-size="22" font-weight="700" fill="#b5602e" text-anchor="start">Induced fit: flexible site</text>
+<path d="M190.46908844915757 505.73333333333335 A56 56 0 1 0 190.46908844915757 554.2666666666667 L181.06666666666666 554.2666666666667 L173.60000000000002 537.4666666666667 L164.26666666666668 535.6 L164.26666666666668 524.4 L173.60000000000002 522.5333333333333 L181.06666666666666 505.73333333333335 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3" stroke-linejoin="round"/>
+<rect x="282" y="520" width="16" height="20" fill="#f2c9b0" stroke="#b5602e" stroke-width="2"/><rect x="298" y="508" width="44" height="44" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="400" y1="472" x2="352" y2="472" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="398" y1="530" x2="462" y2="530" stroke="#8a6d0d" stroke-width="6" marker-end="url(#ahO)"/>
+<path d="M640.4690884491575 505.73333333333335 A56 56 0 1 0 640.4690884491575 554.2666666666667 L627.3333333333334 554.2666666666667 L627.3333333333334 540.2666666666667 L612.4000000000001 540.2666666666667 L612.4000000000001 519.7333333333333 L627.3333333333334 519.7333333333333 L627.3333333333334 505.73333333333335 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3" stroke-linejoin="round"/>
+<rect x="610" y="520" width="16" height="20" fill="#f2c9b0" stroke="#b5602e" stroke-width="2"/><rect x="626" y="508" width="44" height="44" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<path d="M614 464 l12 0 l-6 14 z" fill="#b5602e"/>
+<path d="M614 596 l12 0 l-6 -14 z" fill="#b5602e"/>
+<text x="130" y="622" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">close, not exact</text>
+<text x="620" y="622" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">site moulds round substrate</text>
+<rect x="40" y="660" width="820" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="64" y="698" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Specificity: wrong shape</text>
+<path d="M190.46908844915757 775.7333333333333 A56 56 0 1 0 190.46908844915757 824.2666666666667 L177.33333333333334 824.2666666666667 L177.33333333333334 810.2666666666667 L162.4 810.2666666666667 L162.4 789.7333333333333 L177.33333333333334 789.7333333333333 L177.33333333333334 775.7333333333333 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="320" cy="800" r="30" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<path d="M304 784 l32 32 M336 784 l-32 32" stroke="#b5602e" stroke-width="4" stroke-linecap="round"/>
+<text x="130" y="892" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">cannot fit the site</text>
+<text x="640" y="794" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">No complementary shape,</text>
+<text x="640" y="824" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">no binding</text>
+<text x="450" y="950" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">Induced fit also strains bonds, lowering Ea</text>
+</svg>

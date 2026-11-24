@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="900" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">sin is height, cos is across</text>
+
+<path d="M150 780 L770 780 A620 620 0 0 0 150 160 Z" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<line x1="150" y1="780" x2="810" y2="780" stroke="#1e2a44" stroke-width="3"/>
+<line x1="150" y1="780" x2="150" y2="110" stroke="#1e2a44" stroke-width="3"/>
+<line x1="150" y1="780" x2="460.00000000000006" y2="243.06424965364806" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="150" y1="243.06424965364806" x2="460.00000000000006" y2="243.06424965364806" stroke="#2e6b62" stroke-width="2.5" stroke-dasharray="10 7"/>
+<line x1="460.00000000000006" y1="243.06424965364806" x2="460.00000000000006" y2="780" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="10 7"/>
+<circle cx="460.00000000000006" cy="243.06424965364806" r="8" fill="#1e2a44" stroke="#fff" stroke-width="2"/>
+<text x="486.00000000000006" y="221.06424965364806" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">60°</text>
+<text x="138" y="250.06424965364806" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="end">√3/2</text>
+<text x="460.00000000000006" y="814" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">1/2</text>
+<line x1="150" y1="780" x2="588.4062043356595" y2="341.5937956643406" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="150" y1="341.5937956643406" x2="588.4062043356595" y2="341.5937956643406" stroke="#2e6b62" stroke-width="2.5" stroke-dasharray="10 7"/>
+<line x1="588.4062043356595" y1="341.5937956643406" x2="588.4062043356595" y2="780" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="10 7"/>
+<circle cx="588.4062043356595" cy="341.5937956643406" r="8" fill="#1e2a44" stroke="#fff" stroke-width="2"/>
+<text x="614.4062043356595" y="319.5937956643406" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">45°</text>
+<text x="138" y="348.5937956643406" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="end">√2/2</text>
+<text x="588.4062043356595" y="814" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">√2/2</text>
+<line x1="150" y1="780" x2="686.935750346352" y2="470.00000000000006" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="150" y1="470.00000000000006" x2="686.935750346352" y2="470.00000000000006" stroke="#2e6b62" stroke-width="2.5" stroke-dasharray="10 7"/>
+<line x1="686.935750346352" y1="470.00000000000006" x2="686.935750346352" y2="780" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="10 7"/>
+<circle cx="686.935750346352" cy="470.00000000000006" r="8" fill="#1e2a44" stroke="#fff" stroke-width="2"/>
+<text x="712.935750346352" y="448.00000000000006" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">30°</text>
+<text x="138" y="477.00000000000006" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="end">1/2</text>
+<text x="686.935750346352" y="814" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">√3/2</text>
+<text x="138" y="167" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">1</text>
+<text x="138" y="787" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">0</text>
+<text x="150" y="814" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">0</text>
+<text x="770" y="814" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">1</text>
+<text x="610" y="200" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">sin = height</text>
+<text x="610" y="232" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">radius = 1</text>
+<text x="460" y="864" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">cos = distance across</text>
+</svg>

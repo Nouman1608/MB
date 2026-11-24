@@ -1,0 +1,20 @@
+[
+ {
+  "file": "physics-motion-forces-and-energy--08-sankey-diagram.webp",
+  "width": 900,
+  "height": 935,
+  "after": "## Conservation of energy",
+  "alt": "A Sankey diagram: 100 J enters; 10 J, 50 J and 5 J are wasted at the boiler, turbine and generator, leaving 35 J electrical. Efficiency is 35 / 100 = 35%.",
+  "caption": "A Sankey diagram shows energy flow with arrow width in proportion to energy; efficiency = useful / total.",
+  "bytes": 51532
+ },
+ {
+  "file": "physics-motion-forces-and-energy--07-stretching-a-spring.webp",
+  "width": 900,
+  "height": 920,
+  "after": "## P2.3c: force and extension",
+  "alt": "A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m.",
+  "caption": "Up to the limit of proportionality force is proportional to extension: F = kx.",
+  "bytes": 65358
+ }
+]

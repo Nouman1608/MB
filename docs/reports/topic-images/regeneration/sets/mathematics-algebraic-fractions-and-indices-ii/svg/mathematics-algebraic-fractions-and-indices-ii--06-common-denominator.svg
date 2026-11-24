@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980" width="900" height="980" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="980" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Add and subtract: common denominator</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">(2x + 1)/4 − (x − 3)/6</text>
+<rect x="30" y="130" width="840" height="410" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="174" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Cut both into twelfths</text>
+<text x="90" y="230" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">One quarter = 3 twelfths</text>
+<rect x="90" y="242" width="60" height="54" fill="#b5d3cf" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="150" y="242" width="60" height="54" fill="#b5d3cf" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="210" y="242" width="60" height="54" fill="#b5d3cf" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="270" y="242" width="60" height="54" fill="#dfeceb" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="330" y="242" width="60" height="54" fill="#dfeceb" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="390" y="242" width="60" height="54" fill="#dfeceb" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="450" y="242" width="60" height="54" fill="#b5d3cf" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="510" y="242" width="60" height="54" fill="#b5d3cf" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="570" y="242" width="60" height="54" fill="#b5d3cf" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="630" y="242" width="60" height="54" fill="#dfeceb" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="690" y="242" width="60" height="54" fill="#dfeceb" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="750" y="242" width="60" height="54" fill="#dfeceb" stroke="#5f7f7b" stroke-width="1.5"/>
+<rect x="90" y="242" width="180" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="180" y="322" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/4</text>
+<rect x="270" y="242" width="180" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="360" y="322" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/4</text>
+<rect x="450" y="242" width="180" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="540" y="322" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/4</text>
+<rect x="630" y="242" width="180" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="720" y="322" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/4</text>
+<text x="90" y="380" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="start">One sixth = 2 twelfths</text>
+<rect x="90" y="392" width="60" height="54" fill="#f2e7b8" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="150" y="392" width="60" height="54" fill="#f2e7b8" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="210" y="392" width="60" height="54" fill="#fbf5dc" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="270" y="392" width="60" height="54" fill="#fbf5dc" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="330" y="392" width="60" height="54" fill="#f2e7b8" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="390" y="392" width="60" height="54" fill="#f2e7b8" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="450" y="392" width="60" height="54" fill="#fbf5dc" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="510" y="392" width="60" height="54" fill="#fbf5dc" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="570" y="392" width="60" height="54" fill="#f2e7b8" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="630" y="392" width="60" height="54" fill="#f2e7b8" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="690" y="392" width="60" height="54" fill="#fbf5dc" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="750" y="392" width="60" height="54" fill="#fbf5dc" stroke="#a89a5c" stroke-width="1.5"/>
+<rect x="90" y="392" width="120" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="150" y="472" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/6</text>
+<rect x="210" y="392" width="120" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="270" y="472" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/6</text>
+<rect x="330" y="392" width="120" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="390" y="472" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/6</text>
+<rect x="450" y="392" width="120" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="510" y="472" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/6</text>
+<rect x="570" y="392" width="120" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="630" y="472" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/6</text>
+<rect x="690" y="392" width="120" height="54" rx="4" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="750" y="472" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1/6</text>
+<text x="450" y="520" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Lowest common denominator: 12</text>
+<rect x="30" y="560" width="840" height="390" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="602" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Then combine the numerators</text>
+<text x="60" y="674" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="start">3(2x + 1) − 2(x − 3)</text>
+<text x="60" y="736" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="start">= 6x + 3 − 2x + 6</text>
+<text x="480" y="736" font-size="21" font-weight="700" fill="#c0643a" text-anchor="start">(−2) × (−3) = +6</text>
+<text x="60" y="798" font-size="28" font-weight="700" fill="#2e6b62" text-anchor="start">= 4x + 9</text>
+<text x="60" y="880" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Answer:</text>
+<text x="250" y="862" font-size="30" font-weight="700" fill="#2e6b62" text-anchor="middle">4x + 9</text><line x1="180" y1="876" x2="320" y2="876" stroke="#1e2a44" stroke-width="3"/><text x="250" y="910.5" font-size="30" font-weight="700" fill="#2e6b62" text-anchor="middle">12</text>
+</svg>

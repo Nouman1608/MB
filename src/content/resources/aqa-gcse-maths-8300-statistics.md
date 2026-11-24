@@ -182,7 +182,7 @@ Example: Class A has median 62 and range 30. Class B has median 55 and range 48.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--03-grouped-mean-midpoints.webp" width="900" height="932" alt="Heights of 40 students in four 10 cm classes. Each class midpoint (155, 165, 175, 185) times its frequency totals 6740, giving an estimated mean of 168.5 cm. The modal class is 160 to under 170." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-statistics--03-grouped-mean-midpoints.webp" width="900" height="902" alt="Heights of 40 students in four 10 cm classes. Each class midpoint (155, 165, 175, 185) times its frequency totals 6740, giving an estimated mean of 168.5 cm. The modal class is 160 to under 170." loading="lazy">
   <figcaption>Use the midpoint of each class, not a boundary, so the mean is only an estimate.</figcaption>
 </figure>
 
@@ -250,22 +250,22 @@ The values here come from straight lines between the points. A curve gives sligh
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="756" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
   <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="800" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="760" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
   <figcaption>Each running total adds the new class to the total so far, and the last must equal the total frequency.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="770" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="690" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
   <figcaption>Plot each running total at the upper class boundary, start at (0, 0) and join with a smooth curve.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="836" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
   <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
 </figure>
 
@@ -293,7 +293,7 @@ To compare two box plots, compare the medians (average) and the IQRs (consistenc
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--06-comparing-groups.webp" width="900" height="1070" alt="Two curves on one grid: teachers have median 26 and IQR 11, students median 30 and IQR about 17. Bars show the middle half of each group. Teachers were faster and more consistent." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--06-comparing-groups.webp" width="900" height="950" alt="Two curves on one grid: teachers have median 26 and IQR 11, students median 30 and IQR about 17. Bars show the middle half of each group. Teachers were faster and more consistent." loading="lazy">
   <figcaption>Compare a lower median (faster) and a smaller IQR (more consistent), in context.</figcaption>
 </figure>
 

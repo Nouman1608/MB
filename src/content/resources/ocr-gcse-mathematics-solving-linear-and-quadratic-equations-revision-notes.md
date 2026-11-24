@@ -129,7 +129,7 @@ Write down the values of x that make a denominator zero. Check that your answer 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="980" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
   <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ x = −1 ± √8 = −1 ± 2√2
 When a is not 1, factor a out of the two terms containing x, leaving the constant outside the bracket. For 2x² − 8x + 3 the form is 2(x − 2)² − 5.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="830" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
   <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
 </figure>
 

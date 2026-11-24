@@ -83,8 +83,8 @@ The specification names the endodermis and not the suberin band. The band is the
 | Limit | A small push. Cannot explain water reaching the top of a tall tree |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--04-root-pressure.webp" width="900" height="990" alt="Cells next to the xylem use ion pumps (active transport, using ATP) to move mineral ions into the xylem. The sap then has a lower water potential, so water follows from the cortex by osmosis, building a positive pressure that pushes sap up. Evidence: sap oozing from a cut stump and guttation drops at leaf edges at night." loading="lazy">
-  <figcaption>Root pressure: ions pumped into the xylem draw water in by osmosis and push sap upwards (OxfordAQA).</figcaption>
+  <img src="https://img.marlbridge.com/biology-transport-in-plants--04-root-pressure.webp" width="900" height="990" alt="Cells next to the xylem use ion pumps (active transport, using ATP) to move mineral ions into the xylem. The sap then has a lower water potential, so water follows from the cortex by osmosis, building a positive pressure that pushes sap up. Evidence: sap oozing from a cut stump and guttation drops at leaf edges at night." loading="lazy">
+  <figcaption>Root pressure: ions pumped into the xylem draw water in by osmosis and push sap upwards.</figcaption>
 </figure>
 
 
@@ -215,7 +215,7 @@ When you read data:
 11. 54 ÷ 9.0 = 6.0 mm min⁻¹; 6.0 × 60 ÷ 1000 = 0.36 m h⁻¹.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--06-xerophyte-leaf.webp" width="900" height="830" alt="An annotated transverse section of a rolled marram grass leaf. A thick waxy cuticle covers the outside, the leaf is rolled around a space of humid air, stomata lie in sunken pits on the inner surface, and hairs there trap still humid air. Each reduces the water vapour potential gradient between leaf and air." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-plants--06-xerophyte-leaf.webp" width="900" height="720" alt="An annotated transverse section of a rolled marram grass leaf. A thick waxy cuticle covers the outside, the leaf is rolled around a space of humid air, stomata lie in sunken pits on the inner surface, and hairs there trap still humid air. Each reduces the water vapour potential gradient between leaf and air." loading="lazy">
   <figcaption>Marram grass reduces water loss by rolling, sunken stomata, hairs and a thick cuticle, all of which cut the vapour gradient.</figcaption>
 </figure>
 
@@ -233,7 +233,7 @@ When you read data:
 - Calling the potometer a measure of transpiration rather than water uptake.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--01-plan-diagrams.webp" width="900" height="1090" alt="Three plan diagrams of herbaceous dicot sections. Stem: a ring of vascular bundles near the outside, xylem towards the centre and phloem towards the outside in each. Root: a central xylem star with phloem groups between the arms, inside the endodermis. Leaf: midrib bundle with xylem on the upper side and phloem on the lower side, plus small veins." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-plants--01-plan-diagrams.webp" width="900" height="1050" alt="Three plan diagrams of herbaceous dicot sections. Stem: a ring of vascular bundles near the outside, xylem towards the centre and phloem towards the outside in each. Root: a central xylem star with phloem groups between the arms, inside the endodermis. Leaf: midrib bundle with xylem on the upper side and phloem on the lower side, plus small veins." loading="lazy">
   <figcaption>Plan diagrams show tissue distribution only: xylem inside phloem in stems, a central xylem star in roots, xylem above phloem in leaves.</figcaption>
 </figure>
 

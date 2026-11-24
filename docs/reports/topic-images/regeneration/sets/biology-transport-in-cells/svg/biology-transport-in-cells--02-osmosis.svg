@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 906" width="900" height="906" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="906" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Osmosis</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Water diffuses through a partially permeable membrane</text>
+<rect x="60" y="140" width="780" height="380" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="60" y="140" width="390" height="380" rx="14" fill="#dce9e7"/>
+<rect x="450" y="140" width="390" height="380" rx="14" fill="#f2e7b8"/>
+<rect x="443" y="148" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="182" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="216" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="250" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="284" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="318" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="352" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="386" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="420" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="454" width="14" height="22" rx="4" fill="#1e2a44"/>
+<rect x="443" y="488" width="14" height="22" rx="4" fill="#1e2a44"/>
+<text x="80" y="176" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">Dilute solution</text>
+<text x="80" y="202" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">more water, less solute</text>
+<text x="820" y="176" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">Concentrated solution</text>
+<text x="820" y="202" font-size="17" font-weight="400" fill="#4a5568" text-anchor="end">less water, more solute</text>
+<circle cx="110" cy="230" r="8" fill="#5b8fd6"/>
+<circle cx="170" cy="260" r="8" fill="#5b8fd6"/>
+<circle cx="240" cy="220" r="8" fill="#5b8fd6"/>
+<circle cx="300" cy="270" r="8" fill="#5b8fd6"/>
+<circle cx="370" cy="230" r="8" fill="#5b8fd6"/>
+<circle cx="130" cy="320" r="8" fill="#5b8fd6"/>
+<circle cx="210" cy="340" r="8" fill="#5b8fd6"/>
+<circle cx="280" cy="360" r="8" fill="#5b8fd6"/>
+<circle cx="350" cy="325" r="8" fill="#5b8fd6"/>
+<circle cx="400" cy="390" r="8" fill="#5b8fd6"/>
+<circle cx="120" cy="410" r="8" fill="#5b8fd6"/>
+<circle cx="190" cy="440" r="8" fill="#5b8fd6"/>
+<circle cx="260" cy="430" r="8" fill="#5b8fd6"/>
+<circle cx="330" cy="450" r="8" fill="#5b8fd6"/>
+<circle cx="390" cy="470" r="8" fill="#5b8fd6"/>
+<circle cx="150" cy="480" r="8" fill="#5b8fd6"/>
+<circle cx="240" cy="490" r="8" fill="#5b8fd6"/>
+<circle cx="200" cy="410" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="330" cy="410" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="520" cy="240" r="8" fill="#5b8fd6"/>
+<circle cx="610" cy="220" r="8" fill="#5b8fd6"/>
+<circle cx="700" cy="260" r="8" fill="#5b8fd6"/>
+<circle cx="790" cy="230" r="8" fill="#5b8fd6"/>
+<circle cx="560" cy="360" r="8" fill="#5b8fd6"/>
+<circle cx="680" cy="340" r="8" fill="#5b8fd6"/>
+<circle cx="770" cy="410" r="8" fill="#5b8fd6"/>
+<circle cx="520" cy="470" r="8" fill="#5b8fd6"/>
+<circle cx="640" cy="480" r="8" fill="#5b8fd6"/>
+<circle cx="750" cy="490" r="8" fill="#5b8fd6"/>
+<circle cx="570" cy="280" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="680" cy="290" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="780" cy="310" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="600" cy="410" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="710" cy="410" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="560" cy="485" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="690" cy="482" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="300" y1="572" x2="600" y2="572" stroke="#5b8fd6" stroke-width="6" marker-end="url(#ah)"/>
+<text x="450" y="612" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Net movement of water: dilute → concentrated</text>
+<circle cx="110" cy="656" r="8" fill="#5b8fd6"/>
+<text x="128" y="662" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">water molecule: passes through</text>
+<circle cx="510" cy="656" r="19" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="538" y="662" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">sucrose: too large to pass</text>
+<text x="450" y="706" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">Partially permeable membrane · no energy needed</text>
+<rect x="60" y="736" width="252" height="138" rx="14" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="186" y="770" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Solution more dilute</text>
+<text x="186" y="794" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">than the cell contents</text>
+<text x="186" y="830" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">cells gain water:</text>
+<text x="186" y="854" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="middle">tissue gains mass</text>
+<rect x="334" y="736" width="252" height="138" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="460" y="770" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Same concentration</text>
+<text x="460" y="794" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">as the cell contents</text>
+<text x="460" y="830" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">no net movement:</text>
+<text x="460" y="854" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="middle">mass does not change</text>
+<rect x="608" y="736" width="252" height="138" rx="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="734" y="770" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Solution more</text>
+<text x="734" y="794" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">concentrated</text>
+<text x="734" y="830" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">cells lose water:</text>
+<text x="734" y="854" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="middle">tissue loses mass</text>
+</svg>

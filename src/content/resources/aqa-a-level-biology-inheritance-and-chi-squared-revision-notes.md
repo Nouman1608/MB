@@ -93,7 +93,7 @@ For a probability question, work gene by gene and multiply: P(both events) = P(A
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-inheritance--04-sex-linkage.webp" width="900" height="960" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters." loading="lazy">
   <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ Worked reminder: in a flower, pigment needs allele K, and a second gene turns it
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-inheritance--09-continuous-variation.webp" width="900" height="1115" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
   <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
 </figure>
 

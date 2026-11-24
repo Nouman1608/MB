@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" width="900" height="720" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="720" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">The transformer</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Step-down: fewer turns on the secondary</text>
+<path d="M196 128 H730 V384 H196 Z M258 168 V328 H668 V168 Z" fill="#f2e7b8" fill-rule="evenodd" stroke="#1e2a44" stroke-width="3"/>
+<text x="463" y="156" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">soft-iron core</text>
+<ellipse cx="227" cy="176" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="185.4" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="194.8" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="204.2" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="213.6" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="223" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="232.4" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="241.8" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="251.2" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="260.6" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="270" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="279.4" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="288.8" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="298.2" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="307.6" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="317" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="227" cy="326.4" rx="44" ry="6" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="699" cy="256" rx="44" ry="8" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<text x="104" y="216" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">Primary</text>
+<text x="104" y="244" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">920 turns</text>
+<text x="104" y="300" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">230 V</text>
+<text x="104" y="330" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">a.c. in</text>
+<text x="818" y="216" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">Secondary</text>
+<text x="818" y="244" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">48 turns</text>
+<text x="818" y="300" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">12 V</text>
+<text x="818" y="330" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">a.c. out</text>
+<rect x="30" y="420" width="840" height="140" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="474" font-size="32" font-weight="700" fill="#2e6b62" text-anchor="middle">V<tspan dy="5" font-size="70%">s</tspan><tspan dy="-5" dx="5">= 230 × 48 ÷ 920 = 12 V</tspan></text>
+<text x="450" y="510" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">V<tspan dy="5" font-size="70%">p</tspan><tspan dy="-5" dx="4">/ V</tspan><tspan dy="5" font-size="70%">s</tspan><tspan dy="-5" dx="4">= N</tspan><tspan dy="5" font-size="70%">p</tspan><tspan dy="-5" dx="4">/ N</tspan><tspan dy="5" font-size="70%">s</tspan></text>
+<text x="450" y="542" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">1 loop drawn ≈ 48 turns</text>
+<rect x="30" y="578" width="840" height="120" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="626" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Power in = power out</text>
+<text x="450" y="672" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">230 V × 0.078 A = 12 V × 1.5 A = 18 W</text>
+</svg>

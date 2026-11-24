@@ -175,17 +175,17 @@ Method in steps for a fractional power of a product: deal with the number and ea
 Worked reminder: 2a⁻³ × 3a⁵ = 6a², and (16x⁸)^(3/4) = 8x⁶, because 16^(3/4) = 8 and x⁸ to the power ¾ is x⁶.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1030" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
   <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="962" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="938" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
   <figcaption>Each step down divides by 2, which makes x^0 = 1 and x^-n = 1/x^n.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1020" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
   <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
 </figure>
 

@@ -104,7 +104,7 @@ Combining powers and roots (Higher tier only): √x = x^(1/2), ∛x = x^(1/3), 1
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="970" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
   <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
 </figure>
 

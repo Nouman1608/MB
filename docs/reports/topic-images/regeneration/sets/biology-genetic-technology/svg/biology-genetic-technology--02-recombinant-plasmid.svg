@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1060" width="900" height="1060" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1060" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Building a recombinant plasmid</text>
+
+<defs><marker id="ahRu" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker>
+<marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker></defs><path d="M250.6 149.5 A85 85 0 1 1 209.4 149.5" fill="none" stroke="#2e6b62" stroke-width="13" stroke-linejoin="round" stroke-linecap="butt" />
+<circle cx="250.6" cy="149.5" r="8" fill="#c0643a"/>
+<circle cx="209.4" cy="149.5" r="8" fill="#c0643a"/>
+<text x="230" y="240" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">4700 bp</text>
+<text x="230" y="369" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">Plasmid cut once</text>
+<rect x="590" y="208" width="184" height="44" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="590" cy="230" r="8" fill="#c0643a"/><circle cx="774" cy="230" r="8" fill="#c0643a"/>
+<text x="682" y="239" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1150 bp</text>
+<text x="682" y="369" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Gene, same enzyme</text>
+<text x="450" y="412" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">+ DNA ligase</text>
+<line x1="450" y1="432" x2="450" y2="484" stroke="#1e2a44" stroke-width="6" marker-end="url(#ahBig)"/>
+<circle cx="450" cy="750" r="130" fill="none" stroke="#2e6b62" stroke-width="16"/>
+<path d="M374.7 644.0 A130 130 0 0 1 525.3 644.0" fill="none" stroke="#8a6d0d" stroke-width="16" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M427.4 878.0 A130 130 0 0 1 329.5 798.7" fill="none" stroke="#2e6f8e" stroke-width="22" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M362.0 626.1 v-24 h28" fill="none" stroke="#c0643a" stroke-width="4"/><path d="M388.0 593.1 l12 9 l-12 9 z" fill="#c0643a"/>
+<text x="331.98253348394644" y="576.0769368192692" font-size="21" font-weight="700" fill="#c0643a" text-anchor="middle">Promoter</text>
+<path d="M538.0 626.1 v-26 M520.0 600.1 h36" fill="none" stroke="#1e2a44" stroke-width="4"/>
+<text x="568.0174665160537" y="608.0769368192692" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Terminator</text>
+<text x="450" y="678" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">Gene</text>
+<text x="450" y="746" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">5850 bp</text>
+<text x="450" y="782" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">4700 + 1150</text>
+<text x="345" y="918" font-size="20" font-weight="700" fill="#2e6f8e" text-anchor="end">Marker gene:</text>
+<text x="345" y="946" font-size="20" font-weight="400" fill="#2e6f8e" text-anchor="end">antibiotic resistance</text>
+<text x="616" y="859" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">Plasmid copies itself</text><text x="616" y="885" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">when host divides</text>
+<rect x="40" y="970" width="820" height="66" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="1013" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Promoter and terminator must work in the host</text>
+</svg>

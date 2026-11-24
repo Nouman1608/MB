@@ -62,7 +62,7 @@ B1.2d and B1.2e are Higher Tier only. Everything else is for both tiers.
 Example: 35% thymine gives 35% adenine, 70% in total, 30% left, so **15% each of G and C**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--07-dna-percentages.webp" width="900" height="900" alt="If 34% of the bases are C, G is also 34%. A plus T is 100 minus 68 = 32%, so A and T are each 16%. The four add to 100." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-biological-molecules--07-dna-percentages.webp" width="900" height="945" alt="If 34% of the bases are C, G is also 34%. A plus T is 100 minus 68 = 32%, so A and T are each 16%. The four add to 100." loading="lazy">
   <figcaption>Pairing means A equals T and C equals G.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Swap every base for its partner: A↔T, G↔C. Example: GGATC pairs with **CCTAG
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-biological-molecules--06-dna-structure.webp" width="900" height="960" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
   <figcaption>A pairs with T, C pairs with G.</figcaption>
 </figure>
 
@@ -171,12 +171,12 @@ Optimum conditions differ between enzymes. Not every enzyme has an optimum of 37
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-enzymes--01-enzyme-action.webp" width="900" height="920" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
   <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--02-specificity.webp" width="900" height="780" alt="Lipase is shown with two molecules. Fat has a complementary shape, fits the active site and reacts. Starch, a chain of beads, has a different shape, does not fit and nothing happens." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-enzymes--02-specificity.webp" width="900" height="690" alt="Lipase is shown with two molecules. Fat has a complementary shape, fits the active site and reacts. Starch, a chain of beads, has a different shape, does not fit and nothing happens." loading="lazy">
   <figcaption>Only a substrate with a complementary shape fits the active site.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ Optimum conditions differ between enzymes. Not every enzyme has an optimum of 37
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--05-temperature-collisions.webp" width="900" height="910" alt="Two panels at temperatures below the optimum. Cooler: slow substrate molecules, short arrows, one enzyme has a substrate bound. Warmer: more kinetic energy, long arrows, more frequent effective collisions, three enzymes have substrates bound." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-enzymes--05-temperature-collisions.webp" width="900" height="860" alt="Two panels at temperatures below the optimum. Cooler: slow substrate molecules, short arrows, one enzyme has a substrate bound. Warmer: more kinetic energy, long arrows, more frequent effective collisions, three enzymes have substrates bound." loading="lazy">
   <figcaption>More kinetic energy gives more frequent effective collisions and more enzyme-substrate complexes per unit time.</figcaption>
 </figure>
 

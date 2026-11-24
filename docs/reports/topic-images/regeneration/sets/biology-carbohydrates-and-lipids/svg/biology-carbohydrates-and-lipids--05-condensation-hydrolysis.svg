@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1360" width="900" height="1360" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1360" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Condensation and hydrolysis</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Join: lose water. Split: add water.</text>
+<rect x="30" y="140" width="840" height="600" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="56" y="180" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Sugars: glycosidic bond</text>
+<polygon points="101.2,249.6 156.64,249.6 187.6,300 156.64,350.4 101.2,350.4 72.4,300" fill="#dce9e7" stroke="none"/><path d="M72.4,300 L101.2,249.6 L156.64,249.6 L187.6,300 L156.64,350.4 L101.2,350.4 Z" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><line x1="101.2" y1="249.6" x2="101.2" y2="219.35999999999999" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="101.2" y="212.16" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">CH₂OH</text><circle cx="156.64" cy="249.6" r="13.799999999999999" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/><text x="156.64" y="256.08" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text><line x1="156.64" y1="350.4" x2="156.64" y2="379.2" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="156.64" y="397.2" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">OH</text><line x1="101.2" y1="350.4" x2="101.2" y2="325.91999999999996" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="105.2" y="323.03999999999996" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">OH</text><line x1="72.4" y1="300" x2="72.4" y2="328.8" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="72.4" y="346.8" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="end">OH</text><line x1="187.6" y1="300" x2="203.44" y2="265.44" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><line x1="187.6" y1="300" x2="203.44" y2="334.56" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><rect x="197.44" y="330.56" width="34.480000000000004" height="30" rx="6" fill="#f2e7b8" stroke="#d4b02e" stroke-width="1.5"/><text x="203.44" y="261.44" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">H</text><text x="203.44" y="352.56" font-size="18" font-weight="700" fill="#8a6d0d" text-anchor="start">OH</text>
+<text x="260" y="308" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="middle">+</text>
+<polygon points="356.2,249.6 411.64,249.6 442.6,300 411.64,350.4 356.2,350.4 327.4,300" fill="#dce9e7" stroke="none"/><path d="M327.4,300 L356.2,249.6 L411.64,249.6 L442.6,300 L411.64,350.4 L356.2,350.4 Z" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><line x1="356.2" y1="249.6" x2="356.2" y2="219.35999999999999" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="356.2" y="212.16" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">CH₂OH</text><circle cx="411.64" cy="249.6" r="13.799999999999999" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/><text x="411.64" y="256.08" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text><line x1="411.64" y1="350.4" x2="411.64" y2="379.2" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="411.64" y="397.2" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">OH</text><line x1="356.2" y1="350.4" x2="356.2" y2="325.91999999999996" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="360.2" y="323.03999999999996" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">OH</text><line x1="327.4" y1="300" x2="327.4" y2="328.8" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><rect x="297.4" y="331.8" width="18" height="24" rx="6" fill="#f2e7b8" stroke="#d4b02e" stroke-width="1.5"/><text x="327.4" y="346.8" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="end">HO</text><line x1="442.6" y1="300" x2="458.44" y2="265.44" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><line x1="442.6" y1="300" x2="458.44" y2="334.56" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="458.44" y="261.44" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">H</text><text x="458.44" y="352.56" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">OH</text>
+<polygon points="101.2,509.6 156.64,509.6 187.6,560 156.64,610.4 101.2,610.4 72.4,560" fill="#dce9e7" stroke="none"/><path d="M72.4,560 L101.2,509.6 L156.64,509.6 L187.6,560 L156.64,610.4 L101.2,610.4 Z" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><line x1="101.2" y1="509.6" x2="101.2" y2="479.36" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="101.2" y="472.16" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">CH₂OH</text><circle cx="156.64" cy="509.6" r="13.799999999999999" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/><text x="156.64" y="516.08" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text><line x1="156.64" y1="610.4" x2="156.64" y2="639.1999999999999" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="156.64" y="657.1999999999999" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">OH</text><line x1="101.2" y1="610.4" x2="101.2" y2="585.92" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="105.2" y="583.04" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">OH</text><line x1="72.4" y1="560" x2="72.4" y2="588.8" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="72.4" y="606.8" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="end">OH</text>
+<polygon points="280.4,509.6 335.84,509.6 366.79999999999995,560 335.84,610.4 280.4,610.4 251.6,560" fill="#dce9e7" stroke="none"/><path d="M251.6,560 L280.4,509.6 L335.84,509.6 L366.79999999999995,560 L335.84,610.4 L280.4,610.4 Z" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><line x1="280.4" y1="509.6" x2="280.4" y2="479.36" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="280.4" y="472.16" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">CH₂OH</text><circle cx="335.84" cy="509.6" r="13.799999999999999" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/><text x="335.84" y="516.08" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text><line x1="335.84" y1="610.4" x2="335.84" y2="639.1999999999999" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="335.84" y="657.1999999999999" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">OH</text><line x1="280.4" y1="610.4" x2="280.4" y2="585.92" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="284.4" y="583.04" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">OH</text><line x1="366.79999999999995" y1="560" x2="382.63999999999993" y2="525.44" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><line x1="366.79999999999995" y1="560" x2="382.63999999999993" y2="594.56" stroke="#1e2a44" stroke-width="2.8" stroke-linecap="round"/><text x="382.63999999999993" y="521.44" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">H</text><text x="382.63999999999993" y="612.56" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">OH</text>
+<path d="M187.6 560 L219.6 582 L251.6 560" fill="none" stroke="#8a6d0d" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="219.6" cy="582" r="15" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<text x="219.6" y="589" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">O</text>
+<line x1="219.6" y1="597" x2="219.6" y2="680" stroke="#8a6d0d" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="109.6" y="680" width="220" height="42" rx="21" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="219.6" y="708" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">glycosidic bond</text>
+<line x1="560" y1="215" x2="560" y2="470" stroke="#1e2a44" stroke-width="5" marker-end="url(#ah)"/>
+<text x="585" y="330" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">condensation</text>
+<text x="585" y="360" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">− H₂O</text>
+<rect x="660" y="400" width="150" height="56" rx="28" fill="#cfe3ea" stroke="#2b5a9a" stroke-width="3"/>
+<text x="735" y="437" font-size="26" font-weight="700" fill="#2b5a9a" text-anchor="middle">H₂O</text>
+<text x="585" y="530" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">Maltose: Mr 342</text>
+<text x="585" y="562" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">180 + 180 − 18</text>
+<rect x="30" y="770" width="840" height="560" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="56" y="810" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Amino acids: peptide bond</text>
+<text x="60" y="852" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">Gly</text>
+<text x="78" y="938" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">H₂N</text>
+<path d="M104 926 L140 904 L190 934" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M140 904 L140 866" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="140" y="858" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<path d="M185 934 L185 980" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M195 934 L195 980" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="190" y="1006" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<path d="M190 934 L228 912" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="228" y="888" width="48" height="34" rx="6" fill="#f2e7b8" stroke="#d4b02e" stroke-width="1.5"/>
+<text x="252" y="913" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">OH</text>
+<text x="330" y="940" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="middle">+</text>
+<text x="410" y="852" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">Ala</text>
+<rect x="396" y="888" width="20" height="34" rx="6" fill="#f2e7b8" stroke="#d4b02e" stroke-width="1.5"/>
+<text x="400" y="913" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">H</text>
+<text x="415" y="913" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">₂N</text>
+<path d="M452 910 L490 934 L540 904 L580 926" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M490 934 L490 974" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="490" y="1002" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">CH₃</text>
+<path d="M535 904 L535 860" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M545 904 L545 860" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="540" y="852" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<text x="600" y="934" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">OH</text>
+<text x="78" y="1158" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">H₂N</text>
+<path d="M104 1146 L140 1124 L185 1154" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M140 1124 L140 1086" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="140" y="1078" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<path d="M180 1154 L180 1200" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M190 1154 L190 1200" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="185" y="1226" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<path d="M185 1152 L230 1126" fill="none" stroke="#8a6d0d" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<text x="242" y="1132" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">N</text>
+<path d="M242 1108 L242 1088" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="242" y="1080" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<path d="M256 1128 L295 1154 L345 1124 L385 1146" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M295 1154 L295 1194" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="295" y="1222" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">CH₃</text>
+<path d="M340 1124 L340 1080" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M350 1124 L350 1080" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="345" y="1072" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<text x="405" y="1154" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">OH</text>
+<line x1="212" y1="1142" x2="212" y2="1250" stroke="#8a6d0d" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="102" y="1250" width="220" height="42" rx="21" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="212" y="1278" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">peptide bond</text>
+<line x1="690" y1="880" x2="690" y2="1030" stroke="#1e2a44" stroke-width="5" marker-end="url(#ah)"/>
+<text x="712" y="950" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">condensation</text>
+<text x="712" y="978" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">− H₂O</text>
+<rect x="640" y="1060" width="150" height="56" rx="28" fill="#cfe3ea" stroke="#2b5a9a" stroke-width="3"/>
+<text x="715" y="1097" font-size="26" font-weight="700" fill="#2b5a9a" text-anchor="middle">H₂O</text>
+<text x="520" y="1175" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">Gly−Ala: Mr 146</text>
+<text x="520" y="1205" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">75 + 89 − 18</text>
+<text x="520" y="1250" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">Hydrolysis = reverse:</text><text x="520" y="1276" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">add H₂O, bond breaks</text>
+</svg>

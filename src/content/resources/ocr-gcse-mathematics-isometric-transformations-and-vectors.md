@@ -82,7 +82,7 @@ The rule agrees: 2b − y = −2 − 4 = −6.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="792" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
   <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ The image has vertices (3, −4), (3, −7) and (5, −7).
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="864" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
   <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ A vector has size and direction but no fixed position. Write a 2D vector as a co
 Reversing direction changes the sign: **BA** = −**AB** = (−3 over 4).  A single letter such as **a** is the usual label (bold in print, underlined by hand).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
   <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
 </figure>
 
@@ -305,17 +305,17 @@ Check: **SR** = (5 over −3) = **PQ**.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1020" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1010" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
   <figcaption>p + q means do p, then q; add the tops and add the bottoms.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1026" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1010" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
   <figcaption>p − q is p plus the opposite of q.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
   <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
 </figure>
 
@@ -370,7 +370,7 @@ PR = OR − OP = 6a + 9b = 3(2a + 3b) = 3PQ
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="945" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="906" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
   <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
 </figure>
 

@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980" width="900" height="980" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="980" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Estimating a population</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Mark, release, recapture</text>
+<rect x="30" y="139" width="300" height="470" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="360" y="139" width="510" height="470" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="180" y="186" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">Catch 1</text>
+<text x="180" y="221" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">n<tspan baseline-shift="sub" font-size="70%">1</tspan> = 48, all marked</text>
+<circle cx="75" cy="274" r="16" fill="#2e6b62"/>
+<circle cx="117" cy="274" r="16" fill="#2e6b62"/>
+<circle cx="159" cy="274" r="16" fill="#2e6b62"/>
+<circle cx="201" cy="274" r="16" fill="#2e6b62"/>
+<circle cx="243" cy="274" r="16" fill="#2e6b62"/>
+<circle cx="285" cy="274" r="16" fill="#2e6b62"/>
+<circle cx="75" cy="316" r="16" fill="#2e6b62"/>
+<circle cx="117" cy="316" r="16" fill="#2e6b62"/>
+<circle cx="159" cy="316" r="16" fill="#2e6b62"/>
+<circle cx="201" cy="316" r="16" fill="#2e6b62"/>
+<circle cx="243" cy="316" r="16" fill="#2e6b62"/>
+<circle cx="285" cy="316" r="16" fill="#2e6b62"/>
+<circle cx="75" cy="358" r="16" fill="#2e6b62"/>
+<circle cx="117" cy="358" r="16" fill="#2e6b62"/>
+<circle cx="159" cy="358" r="16" fill="#2e6b62"/>
+<circle cx="201" cy="358" r="16" fill="#2e6b62"/>
+<circle cx="243" cy="358" r="16" fill="#2e6b62"/>
+<circle cx="285" cy="358" r="16" fill="#2e6b62"/>
+<circle cx="75" cy="400" r="16" fill="#2e6b62"/>
+<circle cx="117" cy="400" r="16" fill="#2e6b62"/>
+<circle cx="159" cy="400" r="16" fill="#2e6b62"/>
+<circle cx="201" cy="400" r="16" fill="#2e6b62"/>
+<circle cx="243" cy="400" r="16" fill="#2e6b62"/>
+<circle cx="285" cy="400" r="16" fill="#2e6b62"/>
+<circle cx="75" cy="442" r="16" fill="#2e6b62"/>
+<circle cx="117" cy="442" r="16" fill="#2e6b62"/>
+<circle cx="159" cy="442" r="16" fill="#2e6b62"/>
+<circle cx="201" cy="442" r="16" fill="#2e6b62"/>
+<circle cx="243" cy="442" r="16" fill="#2e6b62"/>
+<circle cx="285" cy="442" r="16" fill="#2e6b62"/>
+<circle cx="75" cy="484" r="16" fill="#2e6b62"/>
+<circle cx="117" cy="484" r="16" fill="#2e6b62"/>
+<circle cx="159" cy="484" r="16" fill="#2e6b62"/>
+<circle cx="201" cy="484" r="16" fill="#2e6b62"/>
+<circle cx="243" cy="484" r="16" fill="#2e6b62"/>
+<circle cx="285" cy="484" r="16" fill="#2e6b62"/>
+<circle cx="75" cy="526" r="16" fill="#2e6b62"/>
+<circle cx="117" cy="526" r="16" fill="#2e6b62"/>
+<circle cx="159" cy="526" r="16" fill="#2e6b62"/>
+<circle cx="201" cy="526" r="16" fill="#2e6b62"/>
+<circle cx="243" cy="526" r="16" fill="#2e6b62"/>
+<circle cx="285" cy="526" r="16" fill="#2e6b62"/>
+<circle cx="75" cy="568" r="16" fill="#2e6b62"/>
+<circle cx="117" cy="568" r="16" fill="#2e6b62"/>
+<circle cx="159" cy="568" r="16" fill="#2e6b62"/>
+<circle cx="201" cy="568" r="16" fill="#2e6b62"/>
+<circle cx="243" cy="568" r="16" fill="#2e6b62"/>
+<circle cx="285" cy="568" r="16" fill="#2e6b62"/>
+<text x="615" y="186" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">Catch 2, later</text>
+<text x="615" y="221" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">n<tspan baseline-shift="sub" font-size="70%">2</tspan> = 60, m<tspan baseline-shift="sub" font-size="70%">2</tspan> = 12 marked</text>
+<circle cx="405" cy="294" r="16" fill="#2e6b62"/>
+<circle cx="451" cy="294" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="497" cy="294" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="543" cy="294" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="589" cy="294" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="635" cy="294" r="16" fill="#2e6b62"/>
+<circle cx="681" cy="294" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="727" cy="294" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="773" cy="294" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="819" cy="294" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="405" cy="340" r="16" fill="#2e6b62"/>
+<circle cx="451" cy="340" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="497" cy="340" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="543" cy="340" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="589" cy="340" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="635" cy="340" r="16" fill="#2e6b62"/>
+<circle cx="681" cy="340" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="727" cy="340" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="773" cy="340" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="819" cy="340" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="405" cy="386" r="16" fill="#2e6b62"/>
+<circle cx="451" cy="386" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="497" cy="386" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="543" cy="386" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="589" cy="386" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="635" cy="386" r="16" fill="#2e6b62"/>
+<circle cx="681" cy="386" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="727" cy="386" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="773" cy="386" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="819" cy="386" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="405" cy="432" r="16" fill="#2e6b62"/>
+<circle cx="451" cy="432" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="497" cy="432" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="543" cy="432" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="589" cy="432" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="635" cy="432" r="16" fill="#2e6b62"/>
+<circle cx="681" cy="432" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="727" cy="432" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="773" cy="432" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="819" cy="432" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="405" cy="478" r="16" fill="#2e6b62"/>
+<circle cx="451" cy="478" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="497" cy="478" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="543" cy="478" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="589" cy="478" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="635" cy="478" r="16" fill="#2e6b62"/>
+<circle cx="681" cy="478" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="727" cy="478" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="773" cy="478" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="819" cy="478" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="405" cy="524" r="16" fill="#2e6b62"/>
+<circle cx="451" cy="524" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="497" cy="524" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="543" cy="524" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="589" cy="524" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="635" cy="524" r="16" fill="#2e6b62"/>
+<circle cx="681" cy="524" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="727" cy="524" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="773" cy="524" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="819" cy="524" r="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<text x="615" y="582" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">12 of 60 marked = 1 in 5</text>
+<text x="450" y="662" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">So the 48 marked are 1 in 5 of all</text>
+<rect x="60" y="688" width="156" height="70" rx="0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="138" y="732" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">48</text>
+<rect x="216" y="688" width="156" height="70" rx="0" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="294" y="732" font-size="23" font-weight="700" fill="#4a5568" text-anchor="middle">?</text>
+<rect x="372" y="688" width="156" height="70" rx="0" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="732" font-size="23" font-weight="700" fill="#4a5568" text-anchor="middle">?</text>
+<rect x="528" y="688" width="156" height="70" rx="0" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="606" y="732" font-size="23" font-weight="700" fill="#4a5568" text-anchor="middle">?</text>
+<rect x="684" y="688" width="156" height="70" rx="0" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="762" y="732" font-size="23" font-weight="700" fill="#4a5568" text-anchor="middle">?</text>
+<text x="450" y="802" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">N = 5 × 48 = 240</text>
+<rect x="60" y="844" width="780" height="100" rx="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="450" y="905" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">N = n<tspan baseline-shift="sub" font-size="70%">1</tspan> × n<tspan baseline-shift="sub" font-size="70%">2</tspan> ÷ m<tspan baseline-shift="sub" font-size="70%">2</tspan> = 48 × 60 ÷ 12 = 240</text>
+</svg>

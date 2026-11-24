@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 890" width="900" height="890" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="890" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Area is distance</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Cyclist: triangle, rectangle, triangle</text>
+<rect x="150" y="140" width="700" height="520" fill="#ffffff"/>
+<line x1="191.2" y1="140" x2="191.2" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="232.4" y1="140" x2="232.4" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="273.6" y1="140" x2="273.6" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="314.8" y1="140" x2="314.8" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="356" y1="140" x2="356" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="397.20000000000005" y1="140" x2="397.20000000000005" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="438.40000000000003" y1="140" x2="438.40000000000003" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="479.6" y1="140" x2="479.6" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="520.8" y1="140" x2="520.8" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="562" y1="140" x2="562" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="603.2" y1="140" x2="603.2" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="644.4000000000001" y1="140" x2="644.4000000000001" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="685.6" y1="140" x2="685.6" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="726.8000000000001" y1="140" x2="726.8000000000001" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="768" y1="140" x2="768" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="809.2" y1="140" x2="809.2" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="850.4000000000001" y1="140" x2="850.4000000000001" y2="660" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="150" y1="590.8" x2="850" y2="590.8" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="150" y1="521.6" x2="850" y2="521.6" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="150" y1="452.4" x2="850" y2="452.4" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="150" y1="383.2" x2="850" y2="383.2" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="150" y1="314" x2="850" y2="314" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="150" y1="244.79999999999995" x2="850" y2="244.79999999999995" stroke="#dbe4e3" stroke-width="1.5"/>
+<line x1="150" y1="175.59999999999997" x2="850" y2="175.59999999999997" stroke="#dbe4e3" stroke-width="1.5"/>
+<polygon points="150,660 314.8,244.79999999999995 726.8000000000001,244.79999999999995 850.4000000000001,660" fill="#dfeceb" fill-opacity="0.85"/>
+<line x1="314.8" y1="244.79999999999995" x2="314.8" y2="660" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="7 5"/>
+<line x1="726.8000000000001" y1="244.79999999999995" x2="726.8000000000001" y2="660" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="7 5"/>
+<line x1="150" y1="140" x2="150" y2="660" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="150" y1="660" x2="850" y2="660" stroke="#1e2a44" stroke-width="3.5"/>
+<polyline points="150,660 314.8,244.79999999999995 726.8000000000001,244.79999999999995 850.4000000000001,660" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linejoin="round"/>
+<text x="150" y="694" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<text x="314.8" y="694" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">8</text>
+<text x="726.8000000000001" y="694" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">28</text>
+<text x="850.4000000000001" y="694" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">34</text>
+<text x="136" y="667" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<text x="136" y="528.6" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">4</text>
+<text x="136" y="390.2" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">8</text>
+<text x="136" y="251.79999999999995" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">12</text>
+<text x="500" y="736" font-size="20" font-weight="700" fill="#4a5a78" text-anchor="middle">time (s)</text>
+<text transform="translate(40 400) rotate(-90)" font-size="20" font-weight="700" fill="#4a5a78" text-anchor="middle">speed (m/s)</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="263.3" y="563.2" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">48 m</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="520.8" y="459.4" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">240 m</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="772.12" y="563.2" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">36 m</text>
+<text x="162" y="188" font-size="20" font-weight="700" fill="#c0643a" text-anchor="start">a = 12 ÷ 8 = 1.5 m/s<tspan font-size="65%" dy="-0.6em">2</tspan></text>
+<text x="850" y="226.79999999999995" font-size="20" font-weight="700" fill="#c0643a" text-anchor="end">slows 2 m/s<tspan font-size="65%" dy="-0.6em">2</tspan></text>
+<rect x="150" y="770" width="392" height="40" rx="20" fill="#2e6b62"/><text x="346" y="797" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Total: 48 + 240 + 36 = 324 m</text>
+<rect x="150" y="826" width="392" height="40" rx="20" fill="#8a6d0d"/><text x="346" y="853" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Average: 324 ÷ 34 = 9.53 m/s</text>
+</svg>

@@ -70,7 +70,7 @@ Scientists checked and built on each other's work, and that teamwork is part of 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-nuclear-physics--02-alpha-scattering.webp" width="900" height="770" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
   <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ Most solids are slightly denser than their liquids because the regular arrangeme
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-thermal-physics--01-particle-states.webp" width="900" height="980" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
   <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
 </figure>
 

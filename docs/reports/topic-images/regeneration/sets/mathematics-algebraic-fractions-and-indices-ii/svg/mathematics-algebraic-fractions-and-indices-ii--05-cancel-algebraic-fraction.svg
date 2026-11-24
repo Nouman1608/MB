@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1090" width="900" height="1090" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1090" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Simplify by cancelling brackets</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Factorise first, then cancel whole factors</text>
+<rect x="30" y="130" width="840" height="330" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="174" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">1 Factorise top and bottom</text>
+<text x="60" y="260" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">2x<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">+ 5x − 3</tspan></text>
+<line x1="60" y1="300" x2="290" y2="300" stroke="#1e2a44" stroke-width="3"/>
+<text x="60" y="378" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">4x<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">− 1</tspan></text>
+<text x="310" y="260" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="middle">=</text>
+<text x="310" y="378" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="middle">=</text>
+<rect x="340" y="208" width="150" height="64" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="415" y="247.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">(2x − 1)</text>
+<rect x="510" y="208" width="130" height="64" rx="8" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><text x="575" y="247.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">(x + 3)</text>
+<line x1="340" y1="300" x2="640" y2="300" stroke="#1e2a44" stroke-width="3"/>
+<rect x="340" y="320" width="150" height="64" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="415" y="359.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">(2x − 1)</text>
+<rect x="510" y="320" width="150" height="64" rx="8" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><text x="585" y="359.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">(2x + 1)</text>
+<text x="690" y="364" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">difference of</text>
+<text x="690" y="392" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">two squares</text>
+<rect x="30" y="480" width="840" height="250" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="524" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">2 Cancel the matching bracket</text>
+<rect x="60" y="556" width="150" height="64" rx="8" fill="#faf3dc" stroke="#d8c98f" stroke-width="2.5"/><text x="135" y="595.92" font-size="22" font-weight="700" fill="#9aa1ab" text-anchor="middle">(2x − 1)</text>
+<rect x="60" y="630" width="150" height="64" rx="8" fill="#faf3dc" stroke="#d8c98f" stroke-width="2.5"/><text x="135" y="669.92" font-size="22" font-weight="700" fill="#9aa1ab" text-anchor="middle">(2x − 1)</text>
+<line x1="135" y1="548" x2="135" y2="702" stroke="#c0643a" stroke-width="5"/>
+<rect x="230" y="556" width="130" height="64" rx="8" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><text x="295" y="595.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">(x + 3)</text>
+<rect x="230" y="630" width="150" height="64" rx="8" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><text x="305" y="669.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">(2x + 1)</text>
+<text x="444" y="626" font-size="36" font-weight="700" fill="#1e2a44" text-anchor="middle">=</text>
+<text x="565" y="600" font-size="36" font-weight="700" fill="#2e6b62" text-anchor="middle">x + 3</text><line x1="488" y1="614" x2="642" y2="614" stroke="#1e2a44" stroke-width="3"/><text x="565" y="655.4" font-size="36" font-weight="700" fill="#2e6b62" text-anchor="middle">2x + 1</text>
+<rect x="30" y="750" width="840" height="130" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="802" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Check x = 5:</text>
+<text x="278" y="802" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">72/99 = 8/11 and 8/11 ✓</text>
+<text x="60" y="850" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">Both forms give the same value</text>
+<rect x="30" y="900" width="840" height="160" rx="14" fill="#ffffff" stroke="#c0643a" stroke-width="2.5"/>
+<text x="60" y="964" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">(x<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">+ 3) / (x</tspan><tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">− 1)</tspan></text>
+<path d="M648 932 L672 964 M676 930 L650 966" stroke="#c0643a" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+<text x="60" y="1020" font-size="21" font-weight="700" fill="#c0643a" text-anchor="start">Cannot cancel x<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em">: it is added, not a factor</tspan></text>
+</svg>

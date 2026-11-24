@@ -181,7 +181,7 @@ A line with gradient m has direction (1, m): one step right and m steps up. Turn
 The product rule fails when a gradient is 0 or undefined, because you cannot take the reciprocal of 0. A horizontal line (y = k) is perpendicular to every vertical line (x = h). So the line perpendicular to y = 4 through (5, 1) is x = 5, and the line perpendicular to x = 2 through (−3, 6) is y = 6.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="940" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
   <figcaption>Perpendicular gradients multiply to -1.</figcaption>
 </figure>
 
@@ -279,7 +279,7 @@ Check that the midpoint lies on the line: 3(2) − 2(4) + 2 = 6 − 8 + 2 = 0.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1050" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1040" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
   <figcaption>Combine gradient, perpendicular rule, midpoint and y = mx + c.</figcaption>
 </figure>
 

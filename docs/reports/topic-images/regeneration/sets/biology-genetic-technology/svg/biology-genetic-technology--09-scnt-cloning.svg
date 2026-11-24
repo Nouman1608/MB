@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1260" width="900" height="1260" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1260" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Cloning an adult: SCNT</text>
+
+<defs><marker id="ahRu" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker>
+<marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker></defs><circle cx="190" cy="190" r="70" fill="#ddebe9" stroke="#2e6b62" stroke-width="3.5"/><circle cx="190" cy="190" r="25" fill="#2e6b62" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="190" y="299" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Body cell</text>
+<text x="190" y="329" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">diploid nucleus</text>
+<circle cx="700" cy="190" r="70" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3.5"/><circle cx="700" cy="190" r="25" fill="#8a6d0d" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="700" y="299" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Egg from donor</text>
+<text x="700" y="329" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">own nucleus</text>
+<line x1="700" y1="344" x2="700" y2="400" stroke="#c0643a" stroke-width="6" marker-end="url(#ahRu)"/>
+<text x="660" y="379" font-size="20" font-weight="700" fill="#c0643a" text-anchor="end">remove nucleus</text>
+<circle cx="700" cy="480" r="70" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3.5"/><circle cx="700" cy="480" r="24" fill="none" stroke="#4a5a78" stroke-width="2.5" stroke-dasharray="5 4"/>
+<text x="700" y="584" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Enucleated egg</text>
+<polyline points="190,354 190,480 600,480" fill="none" stroke="#1e2a44" stroke-width="4"/>
+<line x1="560" y1="480" x2="618" y2="480" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<text x="210" y="429" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">body nucleus</text><text x="210" y="459" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">moved in</text>
+<line x1="700" y1="602" x2="700" y2="660" stroke="#1e2a44" stroke-width="6" marker-end="url(#ahBig)"/>
+<text x="660" y="644" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">electric pulse</text>
+<circle cx="700" cy="730" r="70" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3.5"/><circle cx="700" cy="730" r="25" fill="#2e6b62" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="700" y="821" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Egg + body nucleus</text>
+<line x1="632" y1="730" x2="428" y2="730" stroke="#2e6b62" stroke-width="5" marker-end="url(#ahT)"/>
+<text x="530" y="703" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">divides</text>
+<circle cx="340" cy="705" r="21" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="380" cy="705" r="21" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="340" cy="750" r="21" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="380" cy="750" r="21" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="360" cy="720" r="21" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="360" y="821" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Early embryo</text>
+<line x1="310" y1="730" x2="206" y2="730" stroke="#2e6b62" stroke-width="5" marker-end="url(#ahT)"/>
+<rect x="28" y="684" width="172" height="92" rx="24" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<text x="114" y="724" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Surrogate</text>
+<text x="114" y="756" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">mother</text>
+<text x="450" y="884" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">Clone nuclear DNA = body-cell donor</text>
+<text x="30" y="949" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">How often it works (trial)</text>
+<text x="300" y="997" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">reconstructed eggs</text>
+<rect x="316" y="970" width="440" height="38" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="768" y="998" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">150</text>
+<text x="300" y="1043" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">embryos</text>
+<rect x="316" y="1016" width="176" height="38" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="504" y="1044" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">60</text>
+<text x="300" y="1089" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">pregnancies</text>
+<rect x="316" y="1062" width="35.2" height="38" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="363.2" y="1090" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">12</text>
+<text x="300" y="1135" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">births</text>
+<rect x="316" y="1108" width="14.666666666666666" height="38" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="342.6666666666667" y="1136" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">5</text>
+<text x="300" y="1181" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">alive at 1 year</text>
+<rect x="316" y="1154" width="8.8" height="38" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="336.8" y="1182" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">3</text>
+<text x="450" y="1234" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">3 ÷ 150 × 100 = 2% give a surviving animal</text>
+</svg>

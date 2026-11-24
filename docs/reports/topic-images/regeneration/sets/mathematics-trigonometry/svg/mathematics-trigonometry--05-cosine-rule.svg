@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 830" width="900" height="830" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="830" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">The cosine rule</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Two sides and the angle between them</text>
+<polygon points="248,400 550,400 175.7,201.3" fill="#ffffff"/>
+<line x1="175.7" y1="201.3" x2="550.0" y2="400.0" stroke="#2e6b62" stroke-width="6" stroke-linecap="round"/>
+<line x1="248.0" y1="400.0" x2="175.7" y2="201.3" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/>
+<line x1="248.0" y1="400.0" x2="550.0" y2="400.0" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/>
+<path d="M306.0 400.0 A58 58 0 0 0 228.2 345.5" fill="none" stroke="#1e2a44" stroke-width="4"/>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="155.69694170095363" y="189.34897996585894" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">B</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="228" y="428" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="578" y="414" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<text x="306" y="328" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">110°</text>
+<text x="180" y="300" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">7</text>
+<text x="436" y="428" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">10</text>
+<text x="428" y="286" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">BC = ?</text>
+<rect x="95" y="502" width="536.4" height="64" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="631.4" y="502" width="172.44" height="64" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="363.2" y="542" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">7<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">+ 10</tspan><tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">= 149</tspan></text>
+<text x="717.62" y="542" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">+47.9</text>
+<path d="M95 574 v24 M95 586 H803.8 M803.8 574 v24" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="632" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">BC<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">= 196.9</tspan></text>
+<text x="450" y="692" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">cos 110° is negative, so the term adds</text>
+<text x="450" y="743" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">BC<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">= 7</tspan><tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">+ 10</tspan><tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">− 2 × 7 × 10 × cos 110°</tspan></text>
+<text x="450" y="796" font-size="28" font-weight="700" fill="#2e6b62" text-anchor="middle">BC = √196.9 = 14.0 cm</text>
+</svg>

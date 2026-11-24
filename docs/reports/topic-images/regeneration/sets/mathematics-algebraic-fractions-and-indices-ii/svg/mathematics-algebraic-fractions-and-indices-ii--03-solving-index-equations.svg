@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 880" width="900" height="880" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="880" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Solving 2<tspan font-size="65%" dy="-0.6em">x</tspan><tspan dy="0.39em" dx="0.28em">= a number</tspan></text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Match the powers: same base, equal indices</text>
+<rect x="30" y="115" width="840" height="488" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="110" y1="459" x2="830" y2="459" stroke="#c9d6d4" stroke-width="2"/>
+<line x1="110" y1="383" x2="830" y2="383" stroke="#c9d6d4" stroke-width="2"/>
+<line x1="110" y1="307" x2="830" y2="307" stroke="#c9d6d4" stroke-width="2"/>
+<line x1="110" y1="231" x2="830" y2="231" stroke="#c9d6d4" stroke-width="2"/>
+<line x1="110" y1="155" x2="830" y2="155" stroke="#c9d6d4" stroke-width="2"/>
+<text x="96" y="542" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<text x="96" y="466" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">8</text>
+<text x="96" y="390" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">16</text>
+<text x="96" y="314" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">24</text>
+<text x="96" y="238" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">32</text>
+<text x="96" y="162" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">40</text>
+<text x="110" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">−5</text>
+<text x="175.39999999999998" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">−4</text>
+<text x="240.8" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">−3</text>
+<text x="306.2" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">−2</text>
+<text x="371.6" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">−1</text>
+<text x="437" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<text x="502.4" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="567.8" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<text x="633.2" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">3</text>
+<text x="698.6" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<text x="764" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<text x="829.4" y="569" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">6</text>
+<line x1="110" y1="535" x2="830" y2="535" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="437" y1="535" x2="437" y2="143" stroke="#1e2a44" stroke-width="3.5"/>
+<text x="855" y="543" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">x</text>
+<text x="453" y="151" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">y = 2<tspan font-size="65%" dy="-0.6em">x</tspan></text>
+<polyline points="110.0,534.7 113.3,534.7 116.5,534.7 119.8,534.7 123.1,534.7 126.3,534.6 129.6,534.6 132.9,534.6 136.2,534.6 139.4,534.6 142.7,534.6 146.0,534.6 149.2,534.6 152.5,534.5 155.8,534.5 159.0,534.5 162.3,534.5 165.6,534.5 168.9,534.4 172.1,534.4 175.4,534.4 178.7,534.4 181.9,534.4 185.2,534.3 188.5,534.3 191.7,534.3 195.0,534.3 198.3,534.2 201.6,534.2 204.8,534.2 208.1,534.2 211.4,534.1 214.6,534.1 217.9,534.1 221.2,534.0 224.4,534.0 227.7,534.0 231.0,533.9 234.3,533.9 237.5,533.9 240.8,533.8 244.1,533.8 247.3,533.7 250.6,533.7 253.9,533.6 257.1,533.6 260.4,533.5 263.7,533.5 267.0,533.4 270.2,533.4 273.5,533.3 276.8,533.3 280.0,533.2 283.3,533.1 286.6,533.1 289.8,533.0 293.1,532.9 296.4,532.9 299.7,532.8 302.9,532.7 306.2,532.6 309.5,532.5 312.7,532.5 316.0,532.4 319.3,532.3 322.5,532.2 325.8,532.1 329.1,532.0 332.4,531.9 335.6,531.8 338.9,531.6 342.2,531.5 345.4,531.4 348.7,531.3 352.0,531.1 355.2,531.0 358.5,530.9 361.8,530.7 365.1,530.6 368.3,530.4 371.6,530.3 374.9,530.1 378.1,529.9 381.4,529.7 384.7,529.5 387.9,529.4 391.2,529.2 394.5,528.9 397.8,528.7 401.0,528.5 404.3,528.3 407.6,528.0 410.8,527.8 414.1,527.5 417.4,527.3 420.6,527.0 423.9,526.7 427.2,526.4 430.5,526.1 433.7,525.8 437.0,525.5 440.3,525.2 443.5,524.8 446.8,524.5 450.1,524.1 453.3,523.7 456.6,523.3 459.9,522.9 463.2,522.5 466.4,522.0 469.7,521.6 473.0,521.1 476.2,520.6 479.5,520.1 482.8,519.6 486.0,519.0 489.3,518.5 492.6,517.9 495.9,517.3 499.1,516.6 502.4,516.0 505.7,515.3 508.9,514.6 512.2,513.9 515.5,513.2 518.7,512.4 522.0,511.6 525.3,510.8 528.6,509.9 531.8,509.0 535.1,508.1 538.4,507.2 541.6,506.2 544.9,505.2 548.2,504.1 551.4,503.0 554.7,501.9 558.0,500.8 561.3,499.5 564.5,498.3 567.8,497.0 571.1,495.7 574.3,494.3 577.6,492.8 580.9,491.3 584.1,489.8 587.4,488.2 590.7,486.6 594.0,484.9 597.2,483.1 600.5,481.3 603.8,479.4 607.0,477.4 610.3,475.4 613.6,473.3 616.8,471.1 620.1,468.8 623.4,466.5 626.7,464.1 629.9,461.6 633.2,459.0 636.5,456.3 639.7,453.5 643.0,450.7 646.3,447.7 649.5,444.6 652.8,441.4 656.1,438.1 659.4,434.7 662.6,431.2 665.9,427.5 669.2,423.7 672.4,419.8 675.7,415.7 679.0,411.5 682.2,407.2 685.5,402.7 688.8,398.0 692.1,393.2 695.3,388.2 698.6,383.0 701.9,377.6 705.1,372.1 708.4,366.3 711.7,360.4 714.9,354.2 718.2,347.9 721.5,341.3 724.8,334.4 728.0,327.4 731.3,320.0 734.6,312.5 737.8,304.6 741.1,296.5 744.4,288.1 747.6,279.4 750.9,270.4 754.2,261.0 757.5,251.4 760.7,241.4 764.0,231.0 767.3,220.3 770.5,209.2 773.8,197.7 777.1,185.8 780.3,173.5 783.6,160.7" fill="none" stroke="#2e6b62" stroke-width="4"/>
+<polyline points="437,231 764,231 764,535" fill="none" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="9 6"/>
+<circle cx="764" cy="231" r="9" fill="#8a6d0d" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="425" y="239" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="end">32</text>
+<text x="465" y="213" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="start">2<tspan font-size="65%" dy="-0.6em">x</tspan><tspan dy="0.39em" dx="0.28em">= 32 = 2</tspan><tspan font-size="65%" dy="-0.6em">5</tspan></text>
+<text x="750" y="515" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="end">x = 5</text>
+<line x1="175.39999999999998" y1="535" x2="175.39999999999998" y2="402" stroke="#c0643a" stroke-width="2.5" stroke-dasharray="9 6"/>
+<circle cx="175.39999999999998" cy="534.40625" r="9" fill="#c0643a" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="126" y="345" font-size="21" font-weight="700" fill="#c0643a" text-anchor="start">2<tspan font-size="65%" dy="-0.6em">x</tspan><tspan dy="0.39em" dx="0.28em">= 1/16 = 2</tspan><tspan font-size="65%" dy="-0.6em">−4</tspan></text>
+<text x="126" y="377" font-size="21" font-weight="700" fill="#c0643a" text-anchor="start">x = −4</text>
+<rect x="30" y="625" width="840" height="230" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="670" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Rewrite as one base, then equate indices</text>
+<text x="60" y="732" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">3<tspan font-size="65%" dy="-0.6em">x</tspan><tspan dy="0.39em" dx="0.28em">= 81 = 3</tspan><tspan font-size="65%" dy="-0.6em">4</tspan><tspan dy="0.39em" dx="0.28em">→ x = 4</tspan></text>
+<text x="60" y="783" font-size="24" font-weight="700" fill="#8a6d0d" text-anchor="start">5<tspan font-size="65%" dy="-0.6em">x−1</tspan><tspan dy="0.39em" dx="0.28em">= 125 = 5</tspan><tspan font-size="65%" dy="-0.6em">3</tspan><tspan dy="0.39em" dx="0.28em">→ x − 1 = 3 → x = 4</tspan></text>
+<text x="60" y="834" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">2<tspan font-size="65%" dy="-0.6em">x</tspan><tspan dy="0.39em" dx="0.28em">= 1/16 = 2</tspan><tspan font-size="65%" dy="-0.6em">−4</tspan><tspan dy="0.39em" dx="0.28em">→ x = −4</tspan></text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1135" width="900" height="1135" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1135" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Why fish gills use counter-current flow</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Oxygen saturation (%) in a gill lamella, 5-segment model</text>
+<defs>
+<marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+<marker id="ahBigT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+<marker id="ahBigR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker>
+<marker id="ahBigO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+<marker id="ahT2" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="20" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+</defs><text x="450" y="148" font-size="27" font-weight="700" fill="#1e2a44" text-anchor="middle">Parallel flow</text>
+<line x1="128" y1="246" x2="734" y2="246" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahBigT)"/>
+<text x="430" y="232" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">Water flow</text>
+<rect x="140" y="258" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="197" y="313" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="260" y="258" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="317" y="313" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="380" y="258" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="437" y="313" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="500" y="258" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="557" y="313" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="620" y="258" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="677" y="313" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="140" y="364" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="197" y="419" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="260" y="364" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="317" y="419" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="380" y="364" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="437" y="419" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="500" y="364" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="557" y="419" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="620" y="364" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="677" y="419" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<text x="112" y="312" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="end">Water</text>
+<text x="112" y="418" font-size="22" font-weight="700" fill="#c0643a" text-anchor="end">Blood</text>
+<line x1="128" y1="476" x2="734" y2="476" stroke="#c0643a" stroke-width="4" marker-end="url(#ahBigR)"/>
+<text x="430" y="520" font-size="20" font-weight="700" fill="#c0643a" text-anchor="middle">Blood flow</text>
+<text x="450" y="577" font-size="23" font-weight="700" fill="#c0643a" text-anchor="middle">Blood ends at 50%: gradient lost</text>
+<text x="450" y="638" font-size="27" font-weight="700" fill="#1e2a44" text-anchor="middle">Counter-current flow</text>
+<line x1="128" y1="736" x2="734" y2="736" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahBigT)"/>
+<text x="430" y="722" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">Water flow</text>
+<rect x="140" y="748" width="114" height="90" fill="#4f8189" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="197" y="803" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">83</text>
+<rect x="260" y="748" width="114" height="90" fill="#6f9c98" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="317" y="803" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">67</text>
+<rect x="380" y="748" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="437" y="803" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="500" y="748" width="114" height="90" fill="#b5cbc8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="557" y="803" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">33</text>
+<rect x="620" y="748" width="114" height="90" fill="#d6e3e1" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="677" y="803" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">17</text>
+<rect x="140" y="854" width="114" height="90" fill="#4f8189" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="197" y="909" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">83</text>
+<rect x="260" y="854" width="114" height="90" fill="#6f9c98" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="317" y="909" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">67</text>
+<rect x="380" y="854" width="114" height="90" fill="#93b3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="437" y="909" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<rect x="500" y="854" width="114" height="90" fill="#b5cbc8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="557" y="909" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">33</text>
+<rect x="620" y="854" width="114" height="90" fill="#d6e3e1" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="677" y="909" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">17</text>
+<text x="112" y="802" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="end">Water</text>
+<text x="112" y="908" font-size="22" font-weight="700" fill="#c0643a" text-anchor="end">Blood</text>
+<line x1="734" y1="966" x2="128" y2="966" stroke="#c0643a" stroke-width="4" marker-end="url(#ahBigR)"/>
+<text x="430" y="1010" font-size="20" font-weight="700" fill="#c0643a" text-anchor="middle">Blood flow</text>
+<text x="450" y="1067" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">Blood ends at 83%: gradient kept</text>
+<text x="450" y="1108" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Water in at 100% each time</text>
+</svg>

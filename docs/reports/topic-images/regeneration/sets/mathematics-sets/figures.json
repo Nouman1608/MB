@@ -1,0 +1,20 @@
+[
+ {
+  "file": "mathematics-sets--04-subset-or-not.webp",
+  "width": 900,
+  "height": 990,
+  "after": "## Set notation in brief",
+  "alt": "Three Venn diagrams. A circle for {2, 4} sits wholly inside a circle for {1, 2, 3, 4}, so A ⊆ B. A = {2, 6} overlaps B but 6 is outside B, so A ⊈ B. Two separate circles show A ∩ B = ∅.",
+  "caption": "A is a subset of B only if no element of A lies outside B.",
+  "bytes": 76770
+ },
+ {
+  "file": "mathematics-sets--05-three-set-venn.webp",
+  "width": 900,
+  "height": 990,
+  "after": "### Answers",
+  "alt": "A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26.",
+  "caption": "Fill the centre first; the eight regions then add to 60.",
+  "bytes": 76320
+ }
+]

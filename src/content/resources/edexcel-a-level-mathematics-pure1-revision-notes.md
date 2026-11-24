@@ -112,12 +112,12 @@ Perpendicular gradients multiply to **−1**; parallel lines have **equal** grad
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="940" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
   <figcaption>Perpendicular gradients multiply to -1.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1050" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1040" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
   <figcaption>Combine gradient, perpendicular rule, midpoint and y = mx + c.</figcaption>
 </figure>
 

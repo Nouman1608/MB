@@ -57,12 +57,12 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 **Both methods (only these examples are required):** malarial parasites (asexual in humans, sexual in mosquitoes); fungi (asexual spores, sexual for variation); plants (seeds sexually; runners in strawberries, bulb division in daffodils).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Also shown: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-reproduction--01-asexual-sexual.webp" width="900" height="1220" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Also shown: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
   <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1220" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
   <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-biological-molecules--06-dna-structure.webp" width="900" height="960" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
   <figcaption>A pairs with T, C pairs with G.</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1044" alt="Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
   <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1170" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
   <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
 </figure>
 

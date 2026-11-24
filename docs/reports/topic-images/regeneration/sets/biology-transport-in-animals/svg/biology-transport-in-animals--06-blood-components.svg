@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1110" width="900" height="1110" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1110" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">What blood is made of</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Schematic cells, not to scale</text>
+<circle cx="100" cy="230" r="40" fill="#f2cdb4" stroke="#b5602e" stroke-width="3.5"/>
+<circle cx="100" cy="230" r="16" fill="#fbe6dc" stroke="#fbe6dc" stroke-width="1"/>
+<circle cx="200" cy="238" r="40" fill="#f2cdb4" stroke="#b5602e" stroke-width="3.5"/>
+<circle cx="200" cy="238" r="16" fill="#fbe6dc" stroke="#fbe6dc" stroke-width="1"/>
+<circle cx="290" cy="224" r="40" fill="#f2cdb4" stroke="#b5602e" stroke-width="3.5"/>
+<circle cx="290" cy="224" r="16" fill="#fbe6dc" stroke="#fbe6dc" stroke-width="1"/>
+<text x="400" y="190" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="start">Red blood cells</text>
+<text x="400" y="242" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Carry oxygen (haemoglobin)</text><text x="400" y="276" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">No nucleus, pale centre</text>
+<line x1="30" y1="332" x2="870" y2="332" stroke="#c9d6d4" stroke-width="2.5"/>
+<circle cx="95" cy="452" r="68" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="75" cy="428" r="18" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<circle cx="112" cy="442" r="18" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<circle cx="90" cy="476" r="18" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<line x1="80" y1="432" x2="90" y2="470" stroke="#2e6b62" stroke-width="10"/>
+<line x1="85" y1="436" x2="110" y2="444" stroke="#2e6b62" stroke-width="10"/>
+<circle cx="250" cy="452" r="60" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="250" cy="452" r="46" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<text x="95" y="554" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Phagocyte</text>
+<text x="250" y="554" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Lymphocyte</text>
+<text x="400" y="394" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="start">White blood cells</text>
+<text x="400" y="446" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Phagocytosis, antibodies</text><text x="400" y="480" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Each has a nucleus</text>
+<text x="400" y="544" font-size="22" font-weight="400" fill="#2e6b62" text-anchor="start">Lymphocytes: make antibodies</text><text x="400" y="578" font-size="22" font-weight="400" fill="#2e6b62" text-anchor="start">Phagocytes: engulf pathogens</text>
+<line x1="30" y1="652" x2="870" y2="652" stroke="#c9d6d4" stroke-width="2.5"/>
+<path d="M72 730.2 L81.6 723 L96 729 L91.2 747 L75.6 743.4 Z" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<path d="M225 734 L237 725 L255 732.5 L249 755 L229.5 750.5 Z" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<path d="M149 768.6 L157.8 762 L171 767.5 L166.6 784 L152.3 780.7 Z" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<path d="M111 796.4 L118.2 791 L129 795.5 L125.4 809 L113.7 806.3 Z" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<text x="400" y="714" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="start">Platelets</text>
+<text x="400" y="766" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Small fragments of cells</text><text x="400" y="800" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Help blood to clot</text>
+<line x1="30" y1="862" x2="870" y2="862" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="40" y="890" width="270" height="150" rx="18" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="90" cy="925" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="210" cy="920" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="150" cy="945" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="270" cy="940" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="110" cy="980" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="180" cy="995" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="250" cy="985" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="80" cy="1015" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="145" cy="1020" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="225" cy="1020" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<text x="175" y="1074" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Dissolved substances</text>
+<text x="400" y="924" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="start">Plasma</text>
+<text x="400" y="976" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Liquid part of blood</text><text x="400" y="1010" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Carries blood cells, ions,</text><text x="400" y="1044" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">nutrients, urea, hormones, CO₂</text>
+</svg>

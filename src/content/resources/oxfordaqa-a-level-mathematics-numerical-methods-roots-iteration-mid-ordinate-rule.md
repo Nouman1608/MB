@@ -157,17 +157,17 @@ x₅ = 39.2385
 The values climb away from α in a diverging staircase.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1220" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
   <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--04-newton-raphson-tangent.webp" width="900" height="880" alt="On y = x^3+2x-9 the tangent at x1 = 1.5 meets the axis at x2 = 1.8, the tangent there meets it at x3 = 1.7631, and x4 = 1.7625." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--04-newton-raphson-tangent.webp" width="900" height="860" alt="On y = x^3+2x-9 the tangent at x1 = 1.5 meets the axis at x2 = 1.8, the tangent there meets it at x3 = 1.7631, and x4 = 1.7625." loading="lazy">
   <figcaption>Each step replaces the curve by its tangent and moves to where the tangent meets the x-axis.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="920" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="890" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
   <figcaption>Starting at or near a stationary point sends Newton-Raphson away from the root you want.</figcaption>
 </figure>
 
@@ -191,7 +191,7 @@ h = (2 − 0)/4 = 0.5. Midpoints: 0.25, 0.75, 1.25, 1.75.
 Sum = 1.63386. Estimate = 0.5 × 1.63386 = **0.817** (3 d.p.). The exact value is ½ ln 5 = 0.805, so the estimate is slightly high.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="890" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="840" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
   <figcaption>Each mid-ordinate rectangle equals the trapezium under the tangent at the midpoint, so a convex curve is under-estimated.</figcaption>
 </figure>
 
@@ -231,12 +231,12 @@ The estimate is **0.808**, closer to 0.805 than the mid-ordinate result.
 **Check the strip count.** A table with 4 ordinates has only 3 strips, so Simpson's rule cannot be applied directly. You need an odd number of ordinates (5, 7, 9 ...). Check the count before you start.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--06-trapezium-rule.webp" width="900" height="1180" alt="ln x on 1 to 3 with 4 strips gives 1.2821 against the exact 1.2958. A magnified first strip shows the chord below the curve, so the rule under-estimates a concave curve." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--06-trapezium-rule.webp" width="900" height="1140" alt="ln x on 1 to 3 with 4 strips gives 1.2821 against the exact 1.2958. A magnified first strip shows the chord below the curve, so the rule under-estimates a concave curve." loading="lazy">
   <figcaption>For a concave curve the chords lie below it so the trapezium rule under-estimates; for a convex curve it over-estimates.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--09-simpsons-rule.webp" width="900" height="980" alt="A parabola through the ordinates 1, 1/2, 1/3 of 1/x gives Simpson 1.1111 for 2 strips, compared with mid-ordinate 1.0667 and exact 1.0986." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--09-simpsons-rule.webp" width="900" height="920" alt="A parabola through the ordinates 1, 1/2, 1/3 of 1/x gives Simpson 1.1111 for 2 strips, compared with mid-ordinate 1.0667 and exact 1.0986." loading="lazy">
   <figcaption>Simpson's rule integrates the parabola through three ordinates, weights 1, 4, 1, and needs an even number of strips.</figcaption>
 </figure>
 

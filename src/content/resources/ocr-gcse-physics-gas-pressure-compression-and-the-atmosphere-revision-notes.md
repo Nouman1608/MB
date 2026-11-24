@@ -67,7 +67,7 @@ Also useful: the [practice questions](/resources/ocr-gcse-physics-gas-pressure-c
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-thermal-physics--02-gas-pressure.webp" width="900" height="960" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
   <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Also useful: the [practice questions](/resources/ocr-gcse-physics-gas-pressure-c
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-thermal-physics--01-particle-states.webp" width="900" height="980" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
   <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
 </figure>
 

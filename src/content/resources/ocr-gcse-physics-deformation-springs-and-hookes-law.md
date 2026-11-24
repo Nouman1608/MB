@@ -103,7 +103,7 @@ Always give the axes with units: force in newtons (N) and extension in metres (m
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="920" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
   <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
 </figure>
 

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 850" width="900" height="850" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="850" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Where the ATP comes from</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">ATP per glucose, using 2.5 and 1.5 ATP per reduced NAD and FAD</text>
+<text x="50" y="166" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Aerobic</text>
+<rect x="50" y="186" width="76" height="62" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="88" y="226" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">4</text>
+<rect x="126" y="186" width="475" height="62" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/>
+<text x="363.5" y="226" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">25</text>
+<rect x="601" y="186" width="57" height="62" fill="#1e2a44" stroke="#1e2a44" stroke-width="2"/>
+<text x="629.5" y="226" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="676" y="230" font-size="32" font-weight="700" fill="#2e6b62" text-anchor="start">32 ATP</text>
+<rect x="62" y="286" width="26" height="26" rx="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="100" y="306" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">substrate-level: 4</text>
+<rect x="62" y="330" width="26" height="26" rx="5" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/>
+<text x="100" y="350" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">10 reduced NAD × 2.5 = 25</text>
+<rect x="62" y="374" width="26" height="26" rx="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="2"/>
+<text x="100" y="394" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">2 reduced FAD × 1.5 = 3</text>
+<text x="50" y="486" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Anaerobic</text>
+<rect x="50" y="506" width="38" height="62" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="69" y="546" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">2</text>
+<text x="104" y="550" font-size="32" font-weight="700" fill="#8a6d0d" text-anchor="start">2 ATP</text>
+<text x="50" y="614" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">glycolysis only</text>
+<rect x="30" y="670" width="840" height="150" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="56" y="718" font-size="26" font-weight="700" fill="#2e6b62" text-anchor="start">32 ÷ 2 = 16 times as much ATP</text>
+<text x="56" y="762" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">Textbook values differ (about 30 to 38):</text><text x="56" y="792" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">use the figures given in the question</text>
+</svg>

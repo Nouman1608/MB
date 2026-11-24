@@ -147,7 +147,7 @@ mRNA: AUG GGA CUU ACA AAG CCU UAG. Amino acids: Met - Gly - Leu - Thr - Lys - Pr
 - **Deletion of the fifth base of the mRNA sequence** (the G of GGA, corresponding to a C on the template): reading in threes gives AUG GAC UUA CAA AGC CUU, which is Met - Asp - Leu - Gln - Ser - Leu. Four of the five amino acids after the first have changed; the third happens to be Leu again because UUA and CUU both code for it.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
   <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
 </figure>
 

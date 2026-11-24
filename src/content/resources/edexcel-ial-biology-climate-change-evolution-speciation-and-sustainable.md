@@ -113,7 +113,7 @@ Changing rainfall patterns and changes in seasonal cycles alter the conditions o
 - **Rainfall.** Drought reduces plant growth and food supplies, and flooding may drown roots.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="984" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
   <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
 </figure>
 
@@ -163,12 +163,12 @@ Evolution is a change in allele frequency in a population over generations.
 **Worked example.** In a bacterial culture the resistance allele has frequency 0.001. An antibiotic kills 90% of susceptible cells and no resistant cells. Fraction resistant after one round, assuming regrowth to the same size: 0.001 ÷ (0.001 + 0.999 × 0.1) = 0.0099. After a second round, 0.091. After a third, 0.50.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1070" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
   <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--04-antibiotic-resistance.webp" width="900" height="1100" alt="A rare bacterium already carries a resistance allele, the antibiotic kills the susceptible cells, and the survivors divide. A log-scale chart shows the resistant share rising from 0.001 to 0.0099, 0.091 and 0.50 over three doses that each kill 90 percent of susceptible cells." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--04-antibiotic-resistance.webp" width="900" height="1056" alt="A rare bacterium already carries a resistance allele, the antibiotic kills the susceptible cells, and the survivors divide. A log-scale chart shows the resistant share rising from 0.001 to 0.0099, 0.091 and 0.50 over three doses that each kill 90 percent of susceptible cells." loading="lazy">
   <figcaption>Antibiotics select for resistance alleles that mutation had already produced.</figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ A species is a group whose members interbreed and produce fertile offspring. Gen
 - **Sympatric speciation:** populations live in the same area, but reproductive isolation arises. Examples: different flowering times, a switch to a different host or food source, courtship differences, and polyploidy in plants (extra chromosome sets cause instant isolation).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--08-speciation.webp" width="900" height="1034" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
   <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ Human needs (food, timber, fuel, land) conflict with conservation. Effective man
 - Saying mutations happen "to" help; they are random.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--09-dna-relatedness.webp" width="900" height="850" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
   <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
 </figure>
 

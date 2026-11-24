@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 750" width="900" height="750" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="750" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Below 2000 fish?</text>
+
+<line x1="130" y1="515" x2="850" y2="515" stroke="#c9d6d4" stroke-width="2"/><line x1="130" y1="390" x2="850" y2="390" stroke="#c9d6d4" stroke-width="2"/><line x1="130" y1="265" x2="850" y2="265" stroke="#c9d6d4" stroke-width="2"/><line x1="130" y1="140" x2="850" y2="140" stroke="#c9d6d4" stroke-width="2"/>
+<line x1="130" y1="640" x2="850" y2="640" stroke="#1e2a44" stroke-width="3"/><line x1="130" y1="640" x2="130" y2="134" stroke="#1e2a44" stroke-width="3"/>
+<text x="118" y="647" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">0</text>
+<text x="118" y="522" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">1 000</text>
+<text x="118" y="397" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">2 000</text>
+<text x="118" y="272" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">3 000</text>
+<text x="118" y="147" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">4 000</text>
+<line x1="130" y1="640" x2="130" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="130" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">0</text>
+<line x1="232.85714285714286" y1="640" x2="232.85714285714286" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="232.85714285714286" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">2</text>
+<line x1="335.7142857142857" y1="640" x2="335.7142857142857" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="335.7142857142857" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">4</text>
+<line x1="438.57142857142856" y1="640" x2="438.57142857142856" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="438.57142857142856" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">6</text>
+<line x1="541.4285714285714" y1="640" x2="541.4285714285714" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="541.4285714285714" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">8</text>
+<line x1="644.2857142857143" y1="640" x2="644.2857142857143" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="644.2857142857143" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">10</text>
+<line x1="747.1428571428571" y1="640" x2="747.1428571428571" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="747.1428571428571" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">12</text>
+<line x1="850" y1="640" x2="850" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="850" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">14</text>
+<text x="490" y="712" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Years</text>
+<line x1="130" y1="390" x2="850" y2="390" stroke="#b5602e" stroke-width="3.5" stroke-dasharray="12 8"/>
+<text x="850" y="376" font-size="21" font-weight="700" fill="#b5602e" text-anchor="end">Target 2000</text>
+<path d="M130 190 L181.42857142857144 217 L232.85714285714286 242.38000000000005 L284.2857142857143 266.23720000000003 L335.7142857142857 288.6629680000001 L387.14285714285717 309.74318992000013 L438.57142857142856 329.5585985248001 L490 348.18508261331215 L541.4285714285714 365.6939776565134 L592.8571428571429 382.1523389971226 L644.2857142857143 397.6231986572953 L695.7142857142858 412.16580673785757 L747.1428571428571 425.8358583335861 L798.5714285714286 438.685706833571 L850 450.76456442355675" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="130" cy="190" r="5" fill="#2e6b62"/>
+<circle cx="181.42857142857144" cy="217" r="5" fill="#2e6b62"/>
+<circle cx="232.85714285714286" cy="242.38000000000005" r="5" fill="#2e6b62"/>
+<circle cx="284.2857142857143" cy="266.23720000000003" r="5" fill="#2e6b62"/>
+<circle cx="335.7142857142857" cy="288.6629680000001" r="5" fill="#2e6b62"/>
+<circle cx="387.14285714285717" cy="309.74318992000013" r="5" fill="#2e6b62"/>
+<circle cx="438.57142857142856" cy="329.5585985248001" r="5" fill="#2e6b62"/>
+<circle cx="490" cy="348.18508261331215" r="5" fill="#2e6b62"/>
+<circle cx="541.4285714285714" cy="365.6939776565134" r="5" fill="#2e6b62"/>
+<circle cx="592.8571428571429" cy="382.1523389971226" r="5" fill="#2e6b62"/>
+<circle cx="644.2857142857143" cy="397.6231986572953" r="5" fill="#2e6b62"/>
+<circle cx="695.7142857142858" cy="412.16580673785757" r="5" fill="#2e6b62"/>
+<circle cx="747.1428571428571" cy="425.8358583335861" r="5" fill="#2e6b62"/>
+<circle cx="798.5714285714286" cy="438.685706833571" r="5" fill="#2e6b62"/>
+<circle cx="850" cy="450.76456442355675" r="5" fill="#2e6b62"/>
+<circle cx="592.8571428571429" cy="382.1523389971226" r="9" fill="#2e6b62" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="644.2857142857143" cy="397.6231986572953" r="9" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<text x="578.8571428571429" y="448" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Year 9: 2063</text>
+<text x="614.2857142857143" y="486" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">Year 10: 1939</text>
+<text x="150" y="160" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">3600 × 0.94<tspan dy="-8" font-size="70%">n</tspan></text>
+<text x="150" y="194" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">6% fewer fish a year</text>
+</svg>

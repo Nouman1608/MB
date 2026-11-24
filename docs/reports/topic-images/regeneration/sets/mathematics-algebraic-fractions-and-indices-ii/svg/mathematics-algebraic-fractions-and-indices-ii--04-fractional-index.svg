@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1020" width="900" height="1020" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1020" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Fractional index: root, then power</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Denominator = root, numerator = power</text>
+<rect x="30" y="130" width="840" height="130" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="300" y="206" font-size="40" font-weight="700" fill="#2e6b62" text-anchor="start">x<tspan font-size="65%" dy="-0.6em">m/n</tspan><tspan dy="0.39em" dx="0.28em">=</tspan></text>
+<text x="420" y="206" font-size="40" font-weight="700" fill="#2e6b62" text-anchor="start">(</text>
+<text x="444" y="190" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">n</text>
+<path d="M448 196 L458 204 L468 176 L512 176" fill="none" stroke="#2e6b62" stroke-width="3.5"/>
+<text x="474" y="206" font-size="40" font-weight="700" fill="#2e6b62" text-anchor="start">x</text>
+<text x="520" y="206" font-size="40" font-weight="700" fill="#2e6b62" text-anchor="start">)<tspan font-size="65%" dy="-0.6em">m</tspan></text>
+<text x="450" y="244" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">n is the root, m is the power</text>
+<rect x="30" y="290" width="840" height="500" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="344" font-size="36" font-weight="700" fill="#1e2a44" text-anchor="start">64<tspan font-size="65%" dy="-0.6em">2/3</tspan></text>
+<text x="60" y="388" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">root first keeps numbers small</text>
+<path d="M70 520 l76 -76 h152 l-76 76 z" fill="#dfeceb" stroke="#1e2a44" stroke-width="3"/><path d="M222 520 l76 -76 v152 l-76 76 z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><path d="M70 520 h152 v152 h-152 z" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<path d="M108 520 v152 M70 558 h152 M108 520 l76 -76 M89 501 h152 M241 501 v152 M222 558 l76 -76 M146 520 v152 M70 596 h152 M146 520 l76 -76 M108 482 h152 M260 482 v152 M222 596 l76 -76 M184 520 v152 M70 634 h152 M184 520 l76 -76 M127 463 h152 M279 463 v152 M222 634 l76 -76" fill="none" stroke="#5f9c95" stroke-width="2"/>
+<path d="M70 520 l76 -76 h152 l-76 76 z" fill="none" stroke="#1e2a44" stroke-width="3"/><path d="M222 520 l76 -76 v152 l-76 76 z" fill="none" stroke="#1e2a44" stroke-width="3"/><path d="M70 520 h152 v152 h-152 z" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="184" y="430" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">edge = 4</text>
+<text x="146" y="712" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">64 small cubes</text>
+<text x="60" y="752" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">(∛64)<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">= 4</tspan><tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">= 16</tspan></text>
+<line x1="330" y1="590" x2="414" y2="590" stroke="#8a6d0d" stroke-width="5"/><polygon points="446,590 412,574 412,606" fill="#8a6d0d"/>
+<text x="386" y="558" font-size="34" font-weight="700" fill="#8a6d0d" text-anchor="middle">∛</text>
+<text x="386" y="634" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">cube root</text>
+<rect x="470" y="450" width="144" height="144" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3"/>
+<path d="M506 450 v144 M470 486 h144" stroke="#8a6d0d" stroke-width="2"/>
+<path d="M542 450 v144 M470 522 h144" stroke="#8a6d0d" stroke-width="2"/>
+<path d="M578 450 v144 M470 558 h144" stroke="#8a6d0d" stroke-width="2"/>
+<text x="542" y="434" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">4 × 4</text>
+<text x="542" y="632" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">squared = 16</text>
+<text x="654" y="538" font-size="50" font-weight="700" fill="#2e6b62" text-anchor="start">= 16</text>
+<rect x="30" y="820" width="840" height="170" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="890" font-size="34" font-weight="700" fill="#2e6b62" text-anchor="start">64<tspan font-size="65%" dy="-0.6em">−2/3</tspan><tspan dy="0.39em" dx="0.28em">= 1 / 64</tspan><tspan font-size="65%" dy="-0.6em">2/3</tspan><tspan dy="0.39em" dx="0.28em">= 1/16</tspan></text>
+<text x="60" y="944" font-size="21" font-weight="400" fill="#4a5568" text-anchor="start">The negative index means "one over"</text>
+</svg>

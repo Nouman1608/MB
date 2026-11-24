@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 890" width="900" height="890" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="890" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Water potential of potato tissue</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Percentage change in mass in sucrose</text>
+<line x1="140" y1="670" x2="820" y2="670" stroke="#d6e2e0" stroke-width="1.5"/>
+<text x="128" y="676" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">−10</text>
+<line x1="140" y1="583.3333333333334" x2="820" y2="583.3333333333334" stroke="#d6e2e0" stroke-width="1.5"/>
+<text x="128" y="589.3333333333334" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">−6</text>
+<line x1="140" y1="496.6666666666667" x2="820" y2="496.6666666666667" stroke="#d6e2e0" stroke-width="1.5"/>
+<text x="128" y="502.6666666666667" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">−2</text>
+<line x1="140" y1="410" x2="820" y2="410" stroke="#d6e2e0" stroke-width="1.5"/>
+<text x="128" y="416" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">+2</text>
+<line x1="140" y1="323.33333333333337" x2="820" y2="323.33333333333337" stroke="#d6e2e0" stroke-width="1.5"/>
+<text x="128" y="329.33333333333337" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">+6</text>
+<line x1="140" y1="236.66666666666663" x2="820" y2="236.66666666666663" stroke="#d6e2e0" stroke-width="1.5"/>
+<text x="128" y="242.66666666666663" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">+10</text>
+<line x1="140" y1="150" x2="820" y2="150" stroke="#d6e2e0" stroke-width="1.5"/>
+<text x="128" y="156" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">+14</text>
+<line x1="140" y1="453.3333333333333" x2="820" y2="453.3333333333333" stroke="#1e2a44" stroke-width="3"/>
+<line x1="140" y1="130" x2="140" y2="670" stroke="#1e2a44" stroke-width="3"/>
+<text x="140" y="700" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.0</text>
+<text x="276" y="700" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.1</text>
+<text x="412" y="700" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.2</text>
+<text x="548" y="700" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.3</text>
+<text x="684" y="700" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.4</text>
+<text x="820" y="700" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.5</text>
+<text x="480" y="736" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Sucrose concentration / mol dm⁻³</text>
+<text transform="translate(76 410) rotate(-90)" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Change in mass / %</text>
+<path d="M140 210.66666666666669 L276 303.83333333333337 L412 401.3333333333333 L548 496.6666666666667 L684 581.1666666666667 L820 635.3333333333334" fill="none" stroke="#1e2a44" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="480" y1="453.3333333333333" x2="480" y2="670" stroke="#2e6b62" stroke-width="2.5" stroke-dasharray="8 6"/>
+<circle cx="140" cy="210.66666666666669" r="9" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="276" cy="303.83333333333337" r="9" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="412" cy="401.3333333333333" r="9" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="548" cy="496.6666666666667" r="9" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="684" cy="581.1666666666667" r="9" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="820" cy="635.3333333333334" r="9" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="480" cy="453.3333333333333" r="10" fill="#fff" stroke="#b5602e" stroke-width="3.5"/>
+<text x="498" y="413.3333333333333" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">≈ 0.25</text>
+<text x="498" y="437.3333333333333" font-size="18" font-weight="400" fill="#b5602e" text-anchor="start">no net movement</text>
+<text x="684" y="193.33333333333337" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">Gains water</text>
+<text x="221.6" y="639.6666666666666" font-size="19" font-weight="700" fill="#b5602e" text-anchor="middle">Loses water</text>
+<rect x="200" y="758" width="500" height="60" rx="30" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="450" y="798" font-size="24" font-weight="700" fill="#8a6d0d" text-anchor="middle">Tissue ψ ≈ −680 kPa</text>
+<text x="450" y="856" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">Halfway between supplied −540 kPa (0.2) and −820 kPa (0.3)</text>
+</svg>

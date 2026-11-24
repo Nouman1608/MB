@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1300" width="900" height="1300" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1300" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">How the heart pumps</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Simplified: one heartbeat in three steps</text>
+<rect x="520" y="150" width="30" height="26" rx="4" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="562" y="171" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">contracting</text>
+<rect x="154" y="196" width="40" height="44" rx="0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="90" y="240" width="170" height="92" rx="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="5"/>
+<line x1="104" y1="336" x2="126" y2="362" stroke="#1e2a44" stroke-width="5"/>
+<line x1="246" y1="336" x2="224" y2="362" stroke="#1e2a44" stroke-width="5"/>
+<rect x="90" y="366" width="170" height="120" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="164" y="486" width="42" height="30" rx="0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="160" y1="488" x2="210" y2="488" stroke="#1e2a44" stroke-width="6"/>
+<line x1="175" y1="206" x2="175" y2="432" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="340" y="196" width="40" height="44" rx="0" fill="#f2cdb4" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="276" y="240" width="170" height="92" rx="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="5"/>
+<line x1="290" y1="336" x2="312" y2="362" stroke="#1e2a44" stroke-width="5"/>
+<line x1="432" y1="336" x2="410" y2="362" stroke="#1e2a44" stroke-width="5"/>
+<rect x="276" y="366" width="170" height="120" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="350" y="486" width="42" height="30" rx="0" fill="#f2cdb4" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="346" y1="488" x2="396" y2="488" stroke="#1e2a44" stroke-width="6"/>
+<line x1="361" y1="206" x2="361" y2="432" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="270" y1="240" x2="270" y2="496" stroke="#1e2a44" stroke-width="5"/>
+<text x="30" y="354" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">AV</text>
+<text x="30" y="494" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">SL</text>
+<circle cx="519" cy="292" r="19" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/><text x="519" y="299" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="554" y="300" font-size="27" font-weight="700" fill="#1e2a44" text-anchor="start">Atria contract</text>
+<text x="500" y="356" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Blood pushed into</text><text x="500" y="390" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">ventricles through</text><text x="500" y="424" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">open AV valves</text>
+<line x1="30" y1="540" x2="870" y2="540" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="154" y="546" width="40" height="44" rx="0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="90" y="590" width="170" height="92" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="88" y1="698" x2="262" y2="698" stroke="#1e2a44" stroke-width="6"/>
+<rect x="90" y="716" width="170" height="120" rx="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="5"/>
+<rect x="164" y="836" width="42" height="30" rx="0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="185" y1="732" x2="185" y2="862" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="340" y="546" width="40" height="44" rx="0" fill="#f2cdb4" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="276" y="590" width="170" height="92" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="274" y1="698" x2="448" y2="698" stroke="#1e2a44" stroke-width="6"/>
+<rect x="276" y="716" width="170" height="120" rx="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="5"/>
+<rect x="350" y="836" width="42" height="30" rx="0" fill="#f2cdb4" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="371" y1="732" x2="371" y2="862" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="270" y1="590" x2="270" y2="846" stroke="#1e2a44" stroke-width="5"/>
+<text x="30" y="704" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">AV</text>
+<text x="30" y="844" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">SL</text>
+<circle cx="519" cy="642" r="19" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/><text x="519" y="649" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="554" y="650" font-size="27" font-weight="700" fill="#1e2a44" text-anchor="start">Ventricles contract</text>
+<text x="500" y="706" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">AV valves close</text><text x="500" y="740" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">SL valves open:</text><text x="500" y="774" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">blood leaves in arteries</text>
+<line x1="30" y1="888" x2="870" y2="888" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="154" y="896" width="40" height="44" rx="0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="90" y="940" width="170" height="92" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="104" y1="1036" x2="126" y2="1062" stroke="#1e2a44" stroke-width="5"/>
+<line x1="246" y1="1036" x2="224" y2="1062" stroke="#1e2a44" stroke-width="5"/>
+<rect x="90" y="1066" width="170" height="120" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="164" y="1186" width="42" height="30" rx="0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="164" y1="1186" x2="206" y2="1216" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="206" y1="1186" x2="164" y2="1216" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="160" y1="1188" x2="210" y2="1188" stroke="#1e2a44" stroke-width="6"/>
+<line x1="175" y1="902" x2="175" y2="976" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="340" y="896" width="40" height="44" rx="0" fill="#f2cdb4" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="276" y="940" width="170" height="92" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="290" y1="1036" x2="312" y2="1062" stroke="#1e2a44" stroke-width="5"/>
+<line x1="432" y1="1036" x2="410" y2="1062" stroke="#1e2a44" stroke-width="5"/>
+<rect x="276" y="1066" width="170" height="120" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="350" y="1186" width="42" height="30" rx="0" fill="#f2cdb4" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="350" y1="1186" x2="392" y2="1216" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="392" y1="1186" x2="350" y2="1216" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="346" y1="1188" x2="396" y2="1188" stroke="#1e2a44" stroke-width="6"/>
+<line x1="361" y1="902" x2="361" y2="976" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="270" y1="940" x2="270" y2="1196" stroke="#1e2a44" stroke-width="5"/>
+<text x="30" y="1054" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">AV</text>
+<text x="30" y="1194" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">SL</text>
+<circle cx="519" cy="992" r="19" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/><text x="519" y="999" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="554" y="1000" font-size="27" font-weight="700" fill="#1e2a44" text-anchor="start">Ventricles relax</text>
+<text x="500" y="1056" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">SL valves close:</text><text x="500" y="1090" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">no back-flow from</text><text x="500" y="1124" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">arteries into ventricles</text>
+<text x="450" y="1270" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">AV = atrioventricular, SL = semilunar; closing valves make heart sounds</text>
+</svg>

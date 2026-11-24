@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 566" width="900" height="566" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="566" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Square the change</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">y = kx², shown as area with k = 1</text>
+<rect x="204" y="258" width="52" height="52" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3.5"/>
+<text x="230" y="348" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x = 1</text>
+<text x="230" y="376" font-size="20" font-weight="700" fill="#b5602e" text-anchor="middle">y = 1</text>
+<rect x="348" y="206" width="104" height="104" fill="#dce9e7" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="400" y1="206" x2="400" y2="310" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="348" y1="258" x2="452" y2="258" stroke="#1e2a44" stroke-width="1.5"/>
+<text x="400" y="348" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x = 2</text>
+<text x="400" y="376" font-size="20" font-weight="700" fill="#b5602e" text-anchor="middle">y = 4</text>
+<rect x="562" y="154" width="156" height="156" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="614" y1="154" x2="614" y2="310" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="562" y1="206" x2="718" y2="206" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="666" y1="154" x2="666" y2="310" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="562" y1="258" x2="718" y2="258" stroke="#1e2a44" stroke-width="1.5"/>
+<text x="640" y="348" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x = 3</text>
+<text x="640" y="376" font-size="20" font-weight="700" fill="#b5602e" text-anchor="middle">y = 9</text>
+<rect x="150" y="439" width="300" height="42" rx="21" fill="#2e6b62"/><text x="300" y="467" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">x × 2 gives y × 4</text>
+<rect x="470" y="439" width="300" height="42" rx="21" fill="#2e6b62"/><text x="620" y="467" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">x × 3 gives y × 9</text>
+<text x="450" y="528" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Not × 2 or × 3: the multiplier is squared.</text>
+</svg>

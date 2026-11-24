@@ -74,7 +74,7 @@ Symbols to recognise: CO₂, H₂O, O₂, C₆H₁₂O₆.
 - (Higher tier only) Protein chains fold into a unique shape; a mutation may change the shape so an enzyme no longer fits its substrate or a structural protein loses strength.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-enzymes--01-enzyme-action.webp" width="900" height="920" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
   <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Symbols to recognise: CO₂, H₂O, O₂, C₆H₁₂O₆.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-biological-molecules--06-dna-structure.webp" width="900" height="960" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
   <figcaption>A pairs with T, C pairs with G.</figcaption>
 </figure>
 
@@ -204,7 +204,7 @@ Symbols to recognise: CO₂, H₂O, O₂, C₆H₁₂O₆.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1170" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
   <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
 </figure>
 

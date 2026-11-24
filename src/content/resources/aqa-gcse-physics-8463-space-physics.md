@@ -142,7 +142,7 @@ Fusion processes in stars produce **all of the naturally occurring elements**:
 - The supernova explosion **distributes the elements throughout the universe**. That material can later form new stars and planets.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-space-physics--05-star-life-cycle.webp" width="900" height="1100" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
   <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
 </figure>
 

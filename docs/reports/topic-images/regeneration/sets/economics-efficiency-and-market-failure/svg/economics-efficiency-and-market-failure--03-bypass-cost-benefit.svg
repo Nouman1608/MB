@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 870" width="900" height="870" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="870" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Cost-benefit analysis: a bypass</text>
+
+<rect x="90" y="217.5" width="170" height="302.5" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="175" y="375.75" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">55</text>
+<text x="276" y="375.75" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">time saved by drivers</text>
+<rect x="90" y="162.5" width="170" height="55" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="175" y="197" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">10</text>
+<text x="276" y="197" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">fewer accidents</text>
+<text x="175" y="146.5" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">Social benefit = 65</text>
+<rect x="470" y="245" width="170" height="275" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="555" y="389.5" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">50</text>
+<text x="656" y="389.5" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">construction</text>
+<rect x="470" y="179" width="170" height="66" fill="#efdfa8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="555" y="219" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">12</text>
+<text x="656" y="219" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">noise and pollution</text>
+<text x="555" y="163" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">Social cost = 62</text>
+<line x1="60" y1="520" x2="840" y2="520" stroke="#1e2a44" stroke-width="3"/>
+<rect x="60" y="544" width="780" height="64" rx="14" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="450" y="584" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Net social benefit = 65 − 62 = +3, so the bypass is worth building</text>
+<rect x="60" y="640" width="380" height="168" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="80" y="674" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">Toll 20: a transfer</text>
+<text x="80" y="714" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">Drivers</text>
+<line x1="160" y1="708" x2="300" y2="708" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<text x="310" y="714" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">Operator</text>
+<text x="230" y="696" font-size="17" font-weight="700" fill="#8a6d0d" text-anchor="middle">20</text>
+<text x="80" y="752" font-size="16" font-weight="400" fill="#4a5568" text-anchor="start">Paid by one group, received by another:</text><text x="80" y="773" font-size="16" font-weight="400" fill="#4a5568" text-anchor="start">it cancels out, so it is not counted</text><text x="80" y="794" font-size="16" font-weight="400" fill="#4a5568" text-anchor="start">in social benefit.</text>
+<rect x="460" y="640" width="380" height="168" rx="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="480" y="674" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">The private operator's view</text>
+<text x="480" y="716" font-size="19" font-weight="700" fill="#b5602e" text-anchor="start">toll 20 − construction 50 = −30</text>
+<text x="480" y="752" font-size="16" font-weight="400" fill="#4a5568" text-anchor="start">A private firm would not build it,</text><text x="480" y="773" font-size="16" font-weight="400" fill="#4a5568" text-anchor="start">even though society gains +3.</text>
+<text x="450" y="846" font-size="16" font-weight="400" fill="#4a5568" text-anchor="middle" font-style="italic">Fictional town, all figures in CU millions</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 840" width="900" height="840" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="840" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Bigger means smaller SA:V</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Volume grows faster than surface area</text>
+<path d="M60 285 l4.8 -4.8 h15 l-4.8 4.8 z" fill="#eef5f4" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><path d="M75 300 v-15 l4.8 -4.8 v15 z" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><rect x="60" y="285" width="15" height="15" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="69.9" y="334" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">0.5 cm</text>
+<text x="69.9" y="376" font-size="26" font-weight="700" fill="#2e6b62" text-anchor="middle">12 : 1</text>
+<path d="M170 270 l9.6 -9.6 h30 l-9.6 9.6 z" fill="#eef5f4" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><path d="M200 300 v-30 l9.6 -9.6 v30 z" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><rect x="170" y="270" width="30" height="30" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="189.8" y="334" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">1 cm</text>
+<text x="189.8" y="376" font-size="26" font-weight="700" fill="#2e6b62" text-anchor="middle">6 : 1</text>
+<path d="M320 240 l19.2 -19.2 h60 l-19.2 19.2 z" fill="#eef5f4" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><path d="M380 300 v-60 l19.2 -19.2 v60 z" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><rect x="320" y="240" width="60" height="60" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="359.6" y="334" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">2 cm</text>
+<text x="359.6" y="376" font-size="26" font-weight="700" fill="#2e6b62" text-anchor="middle">3 : 1</text>
+<path d="M560 180 l38.4 -38.4 h120 l-38.4 38.4 z" fill="#eef5f4" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><path d="M680 300 v-120 l38.4 -38.4 v120 z" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><rect x="560" y="180" width="120" height="120" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="639.2" y="334" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">4 cm</text>
+<text x="639.2" y="376" font-size="26" font-weight="700" fill="#b5602e" text-anchor="middle">1.5 : 1</text>
+<line x1="80" y1="440" x2="820" y2="440" stroke="#b5602e" stroke-width="4" marker-end="url(#ahR)"/>
+<text x="450" y="482" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Each doubling of side halves SA:V</text>
+<rect x="40" y="530" width="820" height="280" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="64" y="570" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Same idea, different shape</text>
+<path d="M90 712 l12.16 -12.16 h152 l-12.16 12.16 z" fill="#eef5f4" stroke="#2e6b62" stroke-width="2.5"/>
+<path d="M242 750 v-38 l12.16 -12.16 v38 z" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="90" y="712" width="152" height="38" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="172" y="686" font-size="26" font-weight="700" fill="#2e6b62" text-anchor="middle">4.5 : 1</text>
+<text x="172" y="782" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">4 × 1 × 1 cm</text>
+<path d="M360 674 l24.32 -24.32 h76 l-24.32 24.32 z" fill="#eef5f4" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><path d="M436 750 v-76 l24.32 -24.32 v76 z" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><rect x="360" y="674" width="76" height="76" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="410" y="634" font-size="26" font-weight="700" fill="#b5602e" text-anchor="middle">3 : 1</text>
+<text x="410" y="782" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">2 cm cube</text>
+<text x="560" y="650" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">Long and thin</text><text x="560" y="678" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">keeps a high</text><text x="560" y="706" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">SA:V</text>
+</svg>

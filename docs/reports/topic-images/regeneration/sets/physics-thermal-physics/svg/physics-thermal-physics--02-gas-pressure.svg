@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 960" width="900" height="960" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="960" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Why a gas pushes on its container</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Pressure comes from particles hitting the walls</text>
+<rect x="40" y="140" width="480" height="230" rx="0" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<line x1="142" y1="188" x2="142" y2="162" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="142" cy="200" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="278" y1="190" x2="252" y2="190" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="290" cy="190" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="257" y1="235" x2="257" y2="209" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="257" cy="247" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="433.733126291999" y1="217.3665631459995" x2="456.9882332579968" y2="228.9941166289984" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="423" cy="212" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="133.17394906513033" y1="274.28991510855053" x2="146.550838706246" y2="296.58473117707666" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="127" cy="264" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="125.50608457734619" y1="321.4481746267961" x2="100.60260116159625" y2="328.91921965152113" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="137" cy="318" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="273" y1="310" x2="247" y2="310" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="285" cy="310" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="423.76696810829105" y1="296.3533936216582" x2="449.26206567625496" y2="301.452413135251" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="412" cy="294" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="560" y="180" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="start">Start</text>
+<text x="560" y="216" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">pressure</text>
+<rect x="560" y="290" width="70" height="44" rx="0" fill="#2e6b62"/>
+<line x1="558" y1="338" x2="700" y2="338" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="40" y="420" width="480" height="230" rx="0" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<line x1="142" y1="468" x2="142" y2="424" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="142" cy="480" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="278" y1="470" x2="234" y2="470" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="290" cy="470" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="257" y1="515" x2="257" y2="471" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="257" cy="527" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="433.733126291999" y1="497.3665631459995" x2="473.0879226959953" y2="517.0439613479977" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="423" cy="492" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="133.17394906513033" y1="554.2899151085505" x2="155.8117623039415" y2="592.0196038399025" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="127" cy="544" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="125.50608457734619" y1="601.4481746267961" x2="83.36172802761553" y2="614.0914815917154" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="137" cy="598" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="273" y1="590" x2="229" y2="590" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="285" cy="590" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="423.76696810829105" y1="576.3533936216583" x2="466.91251783869154" y2="584.9825035677383" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="412" cy="574" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="560" y="460" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="start">Hotter</text>
+<text x="560" y="496" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">pressure</text>
+<rect x="560" y="530" width="70" height="88" rx="0" fill="#2e6b62"/>
+<line x1="558" y1="618" x2="700" y2="618" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="650" y="570" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">doubled</text>
+<text x="560" y="650" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">faster particles</text>
+<rect x="40" y="700" width="480" height="230" rx="12" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="40" y="700" width="240" height="230" rx="0" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<rect x="280" y="692" width="22" height="246" rx="0" fill="#3b4558"/>
+<line x1="410" y1="815" x2="312" y2="815" stroke="#1e2a44" stroke-width="4.5" marker-end="url(#ah)"/>
+<line x1="103" y1="748" x2="103" y2="722" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="103" cy="760" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="153" y1="750" x2="127" y2="750" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="165" cy="750" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="146.55182537320385" y1="796.5060845773462" x2="139.08078034847887" y2="771.6026011615962" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="150" cy="808" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="230.73312629199899" y1="777.3665631459995" x2="253.9882332579968" y2="788.9941166289984" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="220" cy="772" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="101.17394906513032" y1="834.2899151085505" x2="114.55083870624601" y2="856.5847311770767" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="95" cy="824" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="88.50608457734619" y1="881.4481746267961" x2="63.60260116159625" y2="888.9192196515211" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="100" cy="878" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="150" y1="870" x2="124" y2="870" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="162" cy="870" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="227.76696810829105" y1="856.3533936216583" x2="253.26206567625496" y2="861.4524131352509" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/><circle cx="216" cy="854" r="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="560" y="740" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="start">Squeezed</text>
+<text x="560" y="776" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">pressure</text>
+<rect x="560" y="810" width="70" height="88" rx="0" fill="#2e6b62"/>
+<line x1="558" y1="898" x2="700" y2="898" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="650" y="850" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">doubled</text>
+<text x="560" y="930" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">smaller volume</text>
+</svg>

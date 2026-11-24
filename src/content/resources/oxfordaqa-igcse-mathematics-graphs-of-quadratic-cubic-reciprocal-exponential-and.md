@@ -121,7 +121,7 @@ Points with equal y-values are the same distance from the axis, so the axis is x
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is an extra step beyond the sketch." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1150" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is an extra step beyond the sketch." loading="lazy">
   <figcaption>A sketch shows shape, roots, y-intercept and symmetry; the turning point is an extra.</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ Ends:        the x³ coefficient is +1, so the curve rises on the far right
 Starting low on the left, the curve crosses the axis at −4 and peaks above it between −4 and 0. It crosses at 0, dips below the axis until 2, then crosses again and keeps rising. Label the three roots on the axis. Expanded, the equation is y = x³ + 2x² − 8x, whose constant term is 0, matching the intercept.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
   <figcaption>Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.</figcaption>
 </figure>
 
@@ -242,7 +242,7 @@ x = −1:  y = 5⁻¹ = 1/5 = 0.2
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1200" alt="Two sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
   <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
 </figure>
 
@@ -266,12 +266,12 @@ Solve cos x = −0.4 for 0° ≤ x ≤ 360°.
 The inverse cosine gives x = 113.6° (1 decimal place). The cosine curve is symmetrical about 180°, so the second solution is 360° − 113.6° = **246.4°**. Both solutions are where the horizontal line y = −0.4 meets the curve.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--06-cos-tan-solutions.webp" width="900" height="1040" alt="Top: cosine curve crossed by y = 0.4 at 66.4 and 293.6 degrees (x and 360 minus x). Bottom: tangent curve crossed by y = 1 over root 3 at 30 and 210 degrees (x and x plus 180)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exact-trigonometric-values-and-trigonometric-functions--06-cos-tan-solutions.webp" width="900" height="1030" alt="Top: cosine curve crossed by y = 0.4 at 66.4 and 293.6 degrees (x and 360 minus x). Bottom: tangent curve crossed by y = 1 over root 3 at 30 and 210 degrees (x and x plus 180)." loading="lazy">
   <figcaption>Cosine uses 360 minus x and tangent uses x plus 180 for the second solution.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp" width="900" height="850" alt="The sine curve with dashed lines at y = 1/2 and y = minus 1/2. The lines cross at 30 and 150 degrees, and 210 and 330 degrees, showing x and 180 minus x, then 180 plus x and 360 minus x." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp" width="900" height="845" alt="The sine curve with dashed lines at y = 1/2 and y = minus 1/2. The lines cross at 30 and 150 degrees, and 210 and 330 degrees, showing x and 180 minus x, then 180 plus x and 360 minus x." loading="lazy">
   <figcaption>Draw a horizontal line across the graph; each crossing is a solution.</figcaption>
 </figure>
 
@@ -286,12 +286,12 @@ Solve tan x = 2 for 0° ≤ x ≤ 360°. The first solution is x = 63.4°. The t
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
   <figcaption>Sin and cos are waves between -1 and 1 that repeat every 360 degrees.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
   <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
 </figure>
 

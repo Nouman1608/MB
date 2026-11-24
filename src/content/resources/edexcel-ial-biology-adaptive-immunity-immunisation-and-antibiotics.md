@@ -86,7 +86,7 @@ Rate, second response = (104 - 3) / (56 - 51) = 101 / 5 = 20.2 AU per day
 Explain the difference: B memory cells formed after the first exposure are already selected, so no time is spent finding a matching B cell. They divide and form plasma cells at once, giving a faster rise, in this case 20.2 compared with 0.8 AU per day, and a higher peak.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--07-hiv-replication.webp" width="900" height="1270" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
   <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Immunity is **active** if you make your own antibodies and memory cells, and **p
 - A **vaccine** contains the antigen (for example a weakened pathogen, an inactivated pathogen, a treated toxin or a purified surface protein) but cannot cause the disease. It triggers a primary response, so memory cells are ready. A **booster** dose gives a secondary response and raises the level of memory cells.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--08-herd-immunity.webp" width="900" height="890" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
   <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ X stops growth, so it is bacteriostatic. Y reduces the number of living cells, s
 Mutation produces a resistant bacterium by chance. The antibiotic kills the sensitive bacteria, so the resistant ones reproduce with less competition. Resistance alleles pass to offspring and, by plasmids, to other bacteria. Methicillin-resistant Staphylococcus aureus (MRSA) is an example.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--01-bacterium-vs-virus.webp" width="900" height="1060" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
   <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
 </figure>
 

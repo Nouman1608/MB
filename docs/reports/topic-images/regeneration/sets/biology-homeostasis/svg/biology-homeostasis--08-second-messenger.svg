@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" width="900" height="1000" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1000" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Glucagon: a second messenger</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">The hormone stays outside the liver cell</text>
+<rect x="0" y="114" width="900" height="150" rx="0" fill="#dde9f0"/>
+<rect x="0" y="264" width="900" height="40" rx="0" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2"/>
+<rect x="0" y="304" width="900" height="740" rx="0" fill="#dce9e7"/>
+<text x="30" y="154" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">Outside the cell</text>
+<text x="30" y="434" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">Inside the liver cell</text>
+<polygon points="120,210 140,176 160,210" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="140" y1="214" x2="140" y2="244" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="118" y="246" width="44" height="74" rx="12" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="140" cy="284" r="17" fill="#1e2a44"/><text x="140" y="290.12" font-size="16.15" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<rect x="298" y="246" width="44" height="74" rx="12" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="320" cy="284" r="17" fill="#1e2a44"/><text x="320" y="290.12" font-size="16.15" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<circle cx="230" cy="364" r="27" fill="#d7ebe7" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="230" cy="364" r="17" fill="#1e2a44"/><text x="230" y="370.12" font-size="16.15" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<line x1="150" y1="324" x2="205" y2="349" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="255" y1="349" x2="300" y2="324" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="320" y1="324" x2="320" y2="380" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="270" y="384" width="100" height="40" rx="20" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="320" y="411" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">ATP</text>
+<line x1="320" y1="426" x2="320" y2="464" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="260" y="468" width="120" height="44" rx="22" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="320" y="497" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">cAMP</text>
+<line x1="320" y1="514" x2="320" y2="552" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="320" cy="584" r="30" fill="#d7ebe7" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="320" cy="584" r="18" fill="#1e2a44"/><text x="320" y="590.48" font-size="17.099999999999998" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<line x1="320" y1="616" x2="320" y2="648" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="320" y1="668" x2="260" y2="728" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="320" y1="668" x2="320" y2="728" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="320" y1="668" x2="380" y2="728" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="260" y1="728" x2="183" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="260" y1="728" x2="218" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="260" y1="728" x2="252" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="320" y1="728" x2="286" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="320" y1="728" x2="320" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="320" y1="728" x2="354" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="380" y1="728" x2="388" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="380" y1="728" x2="422" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<line x1="380" y1="728" x2="456" y2="796" stroke="#1e2a44" stroke-width="1.8"/>
+<circle cx="320" cy="668" r="13" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="260" cy="728" r="12" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="320" cy="728" r="12" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="380" cy="728" r="12" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="183" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="218" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="252" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="286" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="320" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="354" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="388" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="422" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="456" cy="796" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="320" y="852" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">e.g. 50 each: 50<tspan baseline-shift="super" font-size="68%">3</tspan> = 125 000</text>
+<line x1="320" y1="864" x2="320" y2="908" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<line x1="184" y1="936" x2="236" y2="960" stroke="#2e6b62" stroke-width="2"/><line x1="184" y1="960" x2="236" y2="936" stroke="#2e6b62" stroke-width="2"/><polygon points="194.0,936.0 189.0,944.7 179.0,944.7 174.0,936.0 179.0,927.3 189.0,927.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="194.0,960.0 189.0,968.7 179.0,968.7 174.0,960.0 179.0,951.3 189.0,951.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="220.0,948.0 215.0,956.7 205.0,956.7 200.0,948.0 205.0,939.3 215.0,939.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="246.0,936.0 241.0,944.7 231.0,944.7 226.0,936.0 231.0,927.3 241.0,927.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="246.0,960.0 241.0,968.7 231.0,968.7 226.0,960.0 231.0,951.3 241.0,951.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="248" y1="948" x2="334" y2="948" stroke="#8a6d0d" stroke-width="4.5" marker-end="url(#ahO)"/>
+<polygon points="395.0,946.0 390.0,954.7 380.0,954.7 375.0,946.0 380.0,937.3 390.0,937.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="413.0,936.0 408.0,944.7 398.0,944.7 393.0,936.0 398.0,927.3 408.0,927.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="413.0,958.0 408.0,966.7 398.0,966.7 393.0,958.0 398.0,949.3 408.0,949.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="520" cy="214" r="20" fill="#1e2a44"/><text x="520" y="221.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="552" y="221" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Glucagon binds receptor</text>
+<circle cx="520" cy="364" r="20" fill="#1e2a44"/><text x="520" y="371.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="552" y="371" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">G-protein activated</text>
+<circle cx="520" cy="446" r="20" fill="#1e2a44"/><text x="520" y="453.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="552" y="453" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Cyclase makes cAMP from ATP</text>
+<circle cx="520" cy="584" r="20" fill="#1e2a44"/><text x="520" y="591.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="552" y="591" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">cAMP activates kinase A</text>
+<circle cx="520" cy="728" r="20" fill="#1e2a44"/><text x="520" y="735.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="552" y="735" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Each enzyme activates many</text>
+<circle cx="520" cy="949" r="20" fill="#1e2a44"/><text x="520" y="956.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="552" y="956" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Glycogen to glucose</text>
+</svg>

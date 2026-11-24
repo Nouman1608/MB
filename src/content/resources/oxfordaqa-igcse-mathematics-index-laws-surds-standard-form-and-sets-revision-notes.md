@@ -87,17 +87,17 @@ Reminder: 4a³ × 6a⁻⁷ = 24a⁻⁴ = 24/a⁴. The coefficients multiply (4 �
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="970" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
   <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1020" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
   <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--03-solving-index-equations.webp" width="900" height="920" alt="Graph of y=2^x: y=32 meets the curve at x=5 and y=1/16 at x=-4. Three solved examples write both sides as one base and equate the indices." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--03-solving-index-equations.webp" width="900" height="880" alt="Graph of y=2^x: y=32 meets the curve at x=5 and y=1/16 at x=-4. Three solved examples write both sides as one base and equate the indices." loading="lazy">
   <figcaption>Write both sides as powers of one base, then equate indices.</figcaption>
 </figure>
 
@@ -131,12 +131,12 @@ Reminder: 9/√6 = 9√6/6 = 3√6/2. Cancel after rationalising.
 Reminder for a two-term denominator: 8/(4 + √3) = 8(4 − √3)/13 = (32 − 8√3)/13. There is nothing to cancel here, because 13 does not divide 32 and 8.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="900" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
   <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="779" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
   <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
 </figure>
 
@@ -258,7 +258,7 @@ Try these without looking at the answers. Questions 4 to 7 are Extension only.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
   <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
 </figure>
 

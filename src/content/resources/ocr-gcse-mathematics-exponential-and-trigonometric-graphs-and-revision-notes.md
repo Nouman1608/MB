@@ -73,7 +73,7 @@ These notes condense OCR GCSE (9-1) Mathematics J560 statements 7.01b, 7.01d, 7.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1200" alt="Two sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
   <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
 </figure>
 
@@ -107,17 +107,17 @@ x is an angle in degrees.
 Draw the line y = c on your sketch and count the crossings. For 0 < c < 1, there are two per 360°. So sin x = 0.4 has four solutions between 0° and 720°.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
   <figcaption>Sin and cos are waves between -1 and 1 that repeat every 360 degrees.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
   <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp" width="900" height="850" alt="The sine curve with dashed lines at y = 1/2 and y = minus 1/2. The lines cross at 30 and 150 degrees, and 210 and 330 degrees, showing x and 180 minus x, then 180 plus x and 360 minus x." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp" width="900" height="845" alt="The sine curve with dashed lines at y = 1/2 and y = minus 1/2. The lines cross at 30 and 150 degrees, and 210 and 330 degrees, showing x and 180 minus x, then 180 plus x and 360 minus x." loading="lazy">
   <figcaption>Draw a horizontal line across the graph; each crossing is a solution.</figcaption>
 </figure>
 

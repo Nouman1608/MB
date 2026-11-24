@@ -70,8 +70,8 @@ Rods: many connect to one bipolar neurone, giving high sensitivity and low detai
 CNS = brain and spinal cord. PNS = all neurones outside, including sensory neurones and motor neurones.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--01-reflex-arc.webp" width="900" height="1270" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
-  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector (Edexcel adds roots and grey/white matter).</figcaption>
+  <img src="https://img.marlbridge.com/biology-control-and-coordination--01-reflex-arc.webp" width="900" height="1200" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
+  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector, with the spinal cord roots and grey and white matter.</figcaption>
 </figure>
 
 

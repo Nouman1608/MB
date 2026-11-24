@@ -86,7 +86,7 @@ Energy through food chains: if 10% passes to the next stage, then 40 000 kJ in p
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1160" alt="Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
   <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Energy through food chains: if 10% passes to the next stage, then 40 000 kJ in p
 - Resistance: a few pests are resistant by chance, they survive, they breed, and resistance spreads.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1170" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
   <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
 </figure>
 

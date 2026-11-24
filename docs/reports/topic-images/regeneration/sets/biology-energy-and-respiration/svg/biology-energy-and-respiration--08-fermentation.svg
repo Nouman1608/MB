@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1010" width="900" height="1010" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1010" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">No oxygen: keep glycolysis going</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Pyruvate takes the hydrogen from reduced NAD</text>
+<rect x="60" y="140" width="780" height="128" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="102" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="126" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="150" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="174" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="198" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="222" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="90" y="246" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">glucose</text>
+<line x1="272" y1="202" x2="320" y2="202" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="340,202 320,214 320,190" fill="#1e2a44"/>
+<text x="450" y="210" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">Glycolysis</text>
+<text x="450" y="244" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">net 2 ATP</text>
+<line x1="558" y1="202" x2="606" y2="202" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="626,202 606,214 606,190" fill="#1e2a44"/>
+<circle cx="652" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="676" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="700" cy="200" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="690" y="246" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">pyruvate</text>
+<line x1="450" y1="268" x2="254.67589442970348" y2="342.8438161531043" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="236,350 250.38218412156604,331.63827949528223 258.9696047378409,354.04935281092634" fill="#1e2a44"/>
+<line x1="450" y1="268" x2="645.3241055702965" y2="342.8438161531043" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="664,350 641.0303952621591,354.04935281092634 649.6178158784339,331.63827949528223" fill="#1e2a44"/>
+<rect x="30" y="350" width="410" height="470" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="235" y="396" font-size="25" font-weight="700" fill="#2e6b62" text-anchor="middle">Lactate</text>
+<text x="235" y="426" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">animals</text>
+<rect x="460" y="350" width="410" height="470" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="665" y="396" font-size="25" font-weight="700" fill="#2e6b62" text-anchor="middle">Ethanol</text>
+<text x="665" y="426" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">yeast, plants</text>
+<circle cx="62" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="86" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="110" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="50" y="546" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">pyruvate</text>
+<line x1="158" y1="500" x2="210" y2="500" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="230,500 210,512 210,488" fill="#1e2a44"/>
+<circle cx="262" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="286" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="310" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="250" y="546" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">lactate</text>
+<rect x="70" y="590" width="266" height="38" rx="19" fill="#dce9e7" stroke="#1e2a44" stroke-width="2"/><text x="203" y="616" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">reduced NAD → NAD</text>
+<text x="235" y="692" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">no CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5"></tspan></text>
+<text x="235" y="740" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">lactate can return to</text><text x="235" y="770" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">pyruvate (liver)</text>
+<circle cx="492" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="516" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="540" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="480" y="546" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">pyruvate</text>
+<line x1="588" y1="500" x2="620" y2="500" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="640,500 620,512 620,488" fill="#1e2a44"/>
+<circle cx="662" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="686" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="692" y="546" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">ethanal</text>
+<line x1="704" y1="500" x2="746" y2="500" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="766,500 746,512 746,488" fill="#1e2a44"/>
+<circle cx="784" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="808" cy="500" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="814" y="546" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">ethanol</text>
+<line x1="638" y1="484" x2="638" y2="462" stroke="#b5602e" stroke-width="3.5" stroke-linecap="round"/><polygon points="638,446 647.6,462 628.4,462" fill="#b5602e"/>
+<text x="660" y="456" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">out</tspan></text>
+<rect x="560" y="590" width="266" height="38" rx="19" fill="#dce9e7" stroke="#1e2a44" stroke-width="2"/><text x="693" y="616" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">reduced NAD → NAD</text>
+<text x="665" y="692" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">cannot be reversed</text>
+<rect x="30" y="850" width="840" height="130" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="900" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">NAD is regenerated, so glycolysis can continue</text>
+<text x="450" y="942" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Only the net 2 ATP from glycolysis; none from this step</text>
+</svg>

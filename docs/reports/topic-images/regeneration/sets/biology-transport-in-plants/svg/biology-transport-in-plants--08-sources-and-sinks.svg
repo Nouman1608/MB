@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1270" width="900" height="1270" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1270" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Sucrose moves from source to sink</text>
+
+<rect x="0" y="700" width="900" height="10" fill="#d8c7a0"/>
+<rect x="430" y="290" width="38" height="410" rx="0" fill="#cfe8c8" stroke="#3f8a4a" stroke-width="3"/>
+<line x1="449" y1="640" x2="449" y2="340" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<circle cx="449" cy="278" r="30" fill="#5fb3a8" stroke="#1e2a44" stroke-width="3"/>
+<ellipse cx="240" cy="470" rx="125" ry="52" fill="#d4b02e" stroke="#8a6d0d" stroke-width="3" transform="rotate(-22 240 470)"/>
+<path d="M300 495 Q360 520 426 520" fill="none" stroke="#8a6d0d" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="410" y1="520" x2="428" y2="520" stroke="#8a6d0d" stroke-width="4.5" marker-end="url(#ahO)"/>
+<path d="M470 590 Q520 585 570 570" fill="none" stroke="#8a6d0d" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="556" y1="574" x2="574" y2="568" stroke="#8a6d0d" stroke-width="4.5" marker-end="url(#ahO)"/>
+<circle cx="620" cy="558" r="46" fill="#5fb3a8" stroke="#1e2a44" stroke-width="3"/>
+<line x1="449" y1="705" x2="360" y2="900" stroke="#8a6d4e" stroke-width="4.5"/>
+<line x1="449" y1="705" x2="540" y2="900" stroke="#8a6d4e" stroke-width="4.5"/>
+<line x1="449" y1="705" x2="449" y2="920" stroke="#8a6d4e" stroke-width="4.5"/>
+<line x1="449" y1="720" x2="449" y2="895" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<circle cx="360" cy="900" r="18" fill="#5fb3a8" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="540" cy="900" r="18" fill="#5fb3a8" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="449" cy="930" r="18" fill="#5fb3a8" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="30" y="258" width="102" height="38" rx="19" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/><text x="81" y="284" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">SOURCE</text>
+<text x="30" y="330" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Mature leaf</text>
+<text x="30" y="360" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">releases sucrose</text>
+<rect x="580" y="190" width="78" height="38" rx="19" fill="#5fb3a8" stroke="#2e6b62" stroke-width="2.5"/><text x="619" y="216" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">SINK</text>
+<text x="580" y="262" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Shoot tip</text>
+<text x="580" y="292" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">uses sucrose</text>
+<text x="590" y="638" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Fruit</text>
+<text x="590" y="668" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">uses or stores it</text>
+<text x="600" y="872" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Roots</text>
+<text x="600" y="902" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">use or store it</text>
+<text x="70" y="786" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">Phloem carries sucrose</text><text x="70" y="814" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">and amino acids</text>
+<line x1="40" y1="1000" x2="860" y2="1000" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="450" y="1048" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="middle">The same leaf can change role</text>
+<ellipse cx="170" cy="1160" rx="62" ry="24" fill="#5fb3a8" stroke="#2e6b62" stroke-width="3" transform="rotate(-15 170 1160)"/>
+<line x1="170" y1="1070" x2="170" y2="1124" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<text x="170" y="1230" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Young leaf: sink</text>
+<line x1="310" y1="1160" x2="560" y2="1160" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<text x="435" y="1140" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">grows up</text>
+<ellipse cx="730" cy="1140" rx="112" ry="44" fill="#d4b02e" stroke="#8a6d0d" stroke-width="3" transform="rotate(-22 730 1140)"/>
+<line x1="770" y1="1124" x2="822" y2="1072" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<text x="730" y="1230" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Mature leaf: source</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1014" width="900" height="1014" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1014" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Glucose tolerance test</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Blood glucose after a glucose drink (example data)</text>
+<rect x="120" y="377.75" width="720" height="48.75" rx="0" fill="#f2e7b8"/>
+<line x1="112" y1="524" x2="120" y2="524" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="530" font-size="18" font-weight="400" fill="#4a5568" text-anchor="end">0</text>
+<line x1="112" y1="426.5" x2="120" y2="426.5" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="432.5" font-size="18" font-weight="400" fill="#4a5568" text-anchor="end">4</text>
+<line x1="112" y1="329" x2="120" y2="329" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="335" font-size="18" font-weight="400" fill="#4a5568" text-anchor="end">8</text>
+<line x1="112" y1="231.5" x2="120" y2="231.5" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="237.5" font-size="18" font-weight="400" fill="#4a5568" text-anchor="end">12</text>
+<line x1="112" y1="134" x2="120" y2="134" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="140" font-size="18" font-weight="400" fill="#4a5568" text-anchor="end">16</text>
+<line x1="120" y1="524" x2="120" y2="532" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="120" y="556" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">0</text>
+<line x1="300" y1="524" x2="300" y2="532" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="300" y="556" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">30</text>
+<line x1="480" y1="524" x2="480" y2="532" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="480" y="556" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">60</text>
+<line x1="660" y1="524" x2="660" y2="532" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="660" y="556" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">90</text>
+<line x1="840" y1="524" x2="840" y2="532" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="840" y="556" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">120</text>
+<line x1="120" y1="134" x2="120" y2="524" stroke="#1e2a44" stroke-width="3"/>
+<line x1="120" y1="524" x2="850" y2="524" stroke="#1e2a44" stroke-width="3"/>
+<text transform="rotate(-90 36 329)" x="36" y="329" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Glucose (mmol dm<tspan baseline-shift="super" font-size="68%">−3</tspan>)</text>
+<text x="480" y="596" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Time after the drink (min)</text>
+<line x1="120" y1="343.625" x2="840" y2="343.625" stroke="#b5602e" stroke-width="2" stroke-dasharray="9 6"/>
+<path d="M120 343.625 L300 202.25 L480 182.75 L660 229.0625 L840 270.5" fill="none" stroke="#b5602e" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" /><circle cx="120" cy="343.625" r="8" fill="#ffffff" stroke="#b5602e" stroke-width="3.5"/><circle cx="300" cy="202.25" r="8" fill="#ffffff" stroke="#b5602e" stroke-width="3.5"/><circle cx="480" cy="182.75" r="8" fill="#ffffff" stroke="#b5602e" stroke-width="3.5"/><circle cx="660" cy="229.0625" r="8" fill="#ffffff" stroke="#b5602e" stroke-width="3.5"/><circle cx="840" cy="270.5" r="8" fill="#ffffff" stroke="#b5602e" stroke-width="3.5"/>
+<path d="M120 404.5625 L300 333.875 L480 363.125 L660 392.375 L840 404.5625" fill="none" stroke="#2e6b62" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" /><circle cx="120" cy="404.5625" r="8" fill="#ffffff" stroke="#2e6b62" stroke-width="3.5"/><circle cx="300" cy="333.875" r="8" fill="#ffffff" stroke="#2e6b62" stroke-width="3.5"/><circle cx="480" cy="363.125" r="8" fill="#ffffff" stroke="#2e6b62" stroke-width="3.5"/><circle cx="660" cy="392.375" r="8" fill="#ffffff" stroke="#2e6b62" stroke-width="3.5"/><circle cx="840" cy="404.5625" r="8" fill="#ffffff" stroke="#2e6b62" stroke-width="3.5"/>
+<text x="852" y="278.5" font-size="22" font-weight="700" fill="#b5602e" text-anchor="start">B</text>
+<text x="852" y="412.5625" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">A</text>
+<text x="480" y="160.75" font-size="20" font-weight="700" fill="#b5602e" text-anchor="middle">B: peaks higher, stays high</text>
+<text x="808" y="329.625" font-size="19" font-weight="700" fill="#b5602e" text-anchor="end">still 3.0 above start</text>
+<text x="300" y="367.875" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="start">+59%</text>
+<text x="130" y="448.5" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">normal fasting 4–6</text>
+<text x="778" y="477.6875" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="end">A: back to start</text>
+<rect x="30" y="654" width="400" height="330" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="470" y="654" width="400" height="330" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="50" y="698" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Type 1</text>
+<circle cx="120" cy="786" r="29" fill="none" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="5 4"/>
+<path d="M107 773 L133 799 M133 773 L107 799" fill="none" stroke="#b5602e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="200" cy="786" r="29" fill="none" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="5 4"/>
+<path d="M187 773 L213 799 M213 773 L187 799" fill="none" stroke="#b5602e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="280" cy="786" r="29" fill="none" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="5 4"/>
+<path d="M267 773 L293 799 M293 773 L267 799" fill="none" stroke="#b5602e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="360" cy="786" r="30" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<text x="240" y="854" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Beta cells</text>
+<text x="230" y="904" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Beta cells destroyed</text>
+<text x="230" y="940" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Little or no insulin</text>
+<text x="490" y="698" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Type 2</text>
+<text x="608" y="694" font-size="19" font-weight="400" fill="#8a6d0d" text-anchor="start">insulin</text>
+<line x1="498" y1="764" x2="842" y2="764" stroke="#2e6b62" stroke-width="5"/>
+<polygon points="527,736 540,710 553,736" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<polygon points="531,740 549,740 540,758" fill="#1e2a44"/>
+<polygon points="529,768 551,768 540,794" fill="none" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 3"/>
+<polygon points="627,736 640,710 653,736" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<polygon points="631,740 649,740 640,758" fill="#1e2a44"/>
+<polygon points="629,768 651,768 640,794" fill="none" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 3"/>
+<polygon points="727,736 740,710 753,736" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<polygon points="731,740 749,740 740,758" fill="#1e2a44"/>
+<polygon points="729,768 751,768 740,794" fill="none" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="626" y="830" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Unresponsive receptors</text>
+<text x="670" y="904" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Cells respond poorly</text>
+<text x="670" y="940" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">to insulin</text>
+</svg>

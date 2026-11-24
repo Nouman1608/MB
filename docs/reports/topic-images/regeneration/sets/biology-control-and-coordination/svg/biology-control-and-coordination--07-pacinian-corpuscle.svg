@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1100" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">From pressure to impulse</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Pacinian corpuscle: a pressure receptor</text>
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d9a"/></marker>
+<marker id="ahRb" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker>
+<marker id="ahRr" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker></defs><text x="210" y="161" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">Pressure</text>
+<line x1="150" y1="174" x2="150" y2="240" stroke="#b5402e" stroke-width="6" marker-end="url(#ahRr)"/>
+<line x1="210" y1="174" x2="210" y2="240" stroke="#b5402e" stroke-width="6" marker-end="url(#ahRr)"/>
+<line x1="270" y1="174" x2="270" y2="240" stroke="#b5402e" stroke-width="6" marker-end="url(#ahRr)"/>
+<ellipse cx="210" cy="380" rx="130" ry="102" fill="#f0e2bf" stroke="#1e2a44" stroke-width="3"/>
+<ellipse cx="210" cy="380" rx="104" ry="80" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<ellipse cx="210" cy="380" rx="78" ry="60" fill="#f0e2bf" stroke="#1e2a44" stroke-width="3"/>
+<ellipse cx="210" cy="380" rx="52" ry="42" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="210" y1="390" x2="210" y2="515" stroke="#2e7d9a" stroke-width="7"/>
+<ellipse cx="210" cy="380" rx="30" ry="20" fill="#d6e7ef" stroke="#2e7d9a" stroke-width="3"/>
+<line x1="124" y1="432" x2="75" y2="540" stroke="#1e2a44" stroke-width="2"/><circle cx="75" cy="540" r="5" fill="#1e2a44"/>
+<text x="30" y="559" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">Lamellae (layers)</text>
+<line x1="300" y1="406" x2="340" y2="538" stroke="#1e2a44" stroke-width="2"/><circle cx="340" cy="538" r="5" fill="#1e2a44"/>
+<text x="290" y="559" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Gel between layers</text>
+<line x1="214" y1="504" x2="262" y2="614" stroke="#1e2a44" stroke-width="2"/><circle cx="262" cy="614" r="5" fill="#1e2a44"/>
+<text x="30" y="634" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="start">Sensory neurone ending (centre)</text>
+<text x="670" y="134" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">No pressure: channel narrow</text>
+<rect x="480" y="220" width="188" height="34" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="672" y="220" width="188" height="34" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="648" y1="237" x2="692" y2="237" stroke="#b5402e" stroke-width="4"/>
+<circle cx="670" cy="195" r="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><text x="670" y="201" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="middle">Na<tspan font-size="11" dy="-7">+</tspan></text>
+<text x="670" y="304" font-size="19" font-weight="700" fill="#b5402e" text-anchor="middle">Pressure: channel stretched wide</text>
+<rect x="480" y="390" width="160" height="34" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="700" y="390" width="160" height="34" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="560" y1="407" x2="496" y2="407" stroke="#b5402e" stroke-width="4" marker-end="url(#ahRr)"/>
+<line x1="780" y1="407" x2="844" y2="407" stroke="#b5402e" stroke-width="4" marker-end="url(#ahRr)"/>
+<circle cx="670" cy="346" r="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><text x="670" y="352" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="middle">Na<tspan font-size="11" dy="-7">+</tspan></text>
+<line x1="670" y1="370" x2="670" y2="452" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<circle cx="670" cy="490" r="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><text x="670" y="496" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="middle">Na<tspan font-size="11" dy="-7">+</tspan></text>
+<text x="700" y="578" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">Stretch-mediated Na⁺ channel</text>
+<text x="30" y="692" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Depolarisation (generator potential)</text>
+<line x1="130" y1="970" x2="130" y2="718" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="130" y1="970" x2="846" y2="970" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<text x="118" y="977" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">0</text>
+<text x="118" y="917" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">5</text>
+<text x="118" y="857" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">10</text>
+<text x="118" y="797" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">15</text>
+<text x="118" y="737" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">20</text>
+<text transform="translate(40 850) rotate(-90)" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">mV</text>
+<line x1="130" y1="790" x2="826" y2="790" stroke="#8a6d0d" stroke-width="3" stroke-dasharray="10 6"/>
+<text x="145" y="778" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">15 mV needed</text>
+<rect x="190" y="898" width="120" height="72" fill="#8aa6b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="250" y="886" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">+6</text>
+<text x="250" y="1004" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">0.5 kPa</text>
+<rect x="410" y="826" width="120" height="144" fill="#8aa6b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="470" y="814" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">+12</text>
+<text x="470" y="1004" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1.0 kPa</text>
+<rect x="630" y="754" width="120" height="216" fill="#b5402e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="690" y="742" font-size="20" font-weight="700" fill="#b5402e" text-anchor="middle">+18</text>
+<text x="690" y="1004" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1.5 kPa</text>
+<rect x="130" y="1041" width="22" height="22" fill="#8aa6b8" stroke="#1e2a44" stroke-width="2"/>
+<text x="162" y="1059" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">too small: no impulse</text>
+<rect x="470" y="1041" width="22" height="22" fill="#b5402e" stroke="#1e2a44" stroke-width="2"/>
+<text x="502" y="1059" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">threshold: action potential</text>
+</svg>

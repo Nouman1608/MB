@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 940" width="900" height="940" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="940" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">3D: angle between a line and a plane</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Find the right-angled triangle inside the box</text>
+<line x1="172.0" y1="393.0" x2="172.0" y2="168.0" stroke="#4a5a78" stroke-width="2.5" stroke-dasharray="8 6" stroke-linecap="round"/>
+<line x1="172.0" y1="393.0" x2="70.0" y2="480.0" stroke="#4a5a78" stroke-width="2.5" stroke-dasharray="8 6" stroke-linecap="round"/>
+<line x1="172.0" y1="393.0" x2="532.0" y2="393.0" stroke="#c8c8b8" stroke-width="2.5" stroke-dasharray="8 6" stroke-linecap="round"/>
+<polygon points="70.0,480.0 532.0,393.0 532.0,168.0" fill="#f2e7b8" fill-opacity="0.85"/>
+<line x1="70.0" y1="480.0" x2="430.0" y2="480.0" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/>
+<line x1="430.0" y1="480.0" x2="430.0" y2="255.0" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/>
+<line x1="430.0" y1="255.0" x2="70.0" y2="255.0" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/>
+<line x1="70.0" y1="255.0" x2="70.0" y2="480.0" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/>
+<line x1="70.0" y1="255.0" x2="172.0" y2="168.0" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/>
+<line x1="172.0" y1="168.0" x2="532.0" y2="168.0" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/>
+<line x1="430.0" y1="480.0" x2="532.0" y2="393.0" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/>
+<line x1="430.0" y1="255.0" x2="532.0" y2="168.0" stroke="#c8c8b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="70.0" y1="480.0" x2="532.0" y2="393.0" stroke="#8a6d0d" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="532.0" y1="393.0" x2="532.0" y2="168.0" stroke="#8a6d0d" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="70.0" y1="480.0" x2="532.0" y2="168.0" stroke="#8a6d0d" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M130.9 468.5 A62 62 0 0 0 121.4 445.3" fill="none" stroke="#c0643a" stroke-width="3.5"/>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="52" y="492" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="556" y="397" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="556" y="158" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<text x="250" y="520" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">8 cm</text>
+<text x="498" y="467" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">6 cm</text>
+<text x="550" y="290" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">5 cm</text>
+<text x="655" y="200" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">AC<tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">= 8</tspan><tspan font-size="65%" dy="-0.6em">2</tspan><tspan dy="0.39em" dx="0.28em">+ 6</tspan><tspan font-size="65%" dy="-0.6em">2</tspan></text>
+<text x="655" y="238" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="start">AC = 10 cm</text>
+<text x="655" y="302" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">tan x = 5 ÷ 10</text>
+<text x="655" y="340" font-size="22" font-weight="700" fill="#c0643a" text-anchor="start">x = 26.6°</text>
+<text x="450" y="594" font-size="23" font-weight="700" fill="#4a5568" text-anchor="middle">The same triangle, flat</text>
+<polygon points="120,880 620,880 620,630" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="4"/>
+<path d="M596 880 v-24 h24" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M210.0 880.0 A90 90 0 0 0 200.5 839.8" fill="none" stroke="#c0643a" stroke-width="4"/>
+<text x="252" y="858" font-size="22" font-weight="700" fill="#c0643a" text-anchor="middle">x</text>
+<text x="290" y="750" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">AG = 11.2</text>
+<text x="648" y="754" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">CG = 5</text>
+<text x="305" y="908" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">AC = 10</text>
+</svg>

@@ -125,8 +125,8 @@ Conclusion: the statin lowered cholesterol and was linked to fewer heart attacks
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Further labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
-  <figcaption>Left side of the heart is on the right of the page; gold labels mark extra detail.</figcaption>
+  <img src="https://img.marlbridge.com/biology-transport-in-animals--02-heart-structure.webp" width="900" height="1165" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Further labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page.</figcaption>
 </figure>
 
 

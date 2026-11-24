@@ -1,0 +1,29 @@
+[
+ {
+  "file": "economics-efficiency-and-market-failure--01-allocative-efficiency.webp",
+  "width": 900,
+  "height": 920,
+  "after": "## 7.3.1 and 7.3.2 Productive and allocative efficiency",
+  "alt": "Demand and marginal cost curves cross at quantity Q*, where price equals marginal cost: allocative efficiency. Below Q*, price is above marginal cost, so too little is made because the last unit is worth more than it costs. Above Q*, price is below marginal cost, so too much is made. With externalities the condition becomes marginal social benefit equals marginal social cost.",
+  "caption": "Allocative efficiency is where price equals marginal cost.",
+  "bytes": 94514
+ },
+ {
+  "file": "economics-efficiency-and-market-failure--02-monopoly-welfare-loss.webp",
+  "width": 900,
+  "height": 934,
+  "after": "## 7.3.1 and 7.3.2 Productive and allocative efficiency",
+  "alt": "A monopolist sets marginal revenue equal to marginal cost at output 40 and charges price 10, where marginal cost is 6. The allocatively efficient output, where price equals marginal cost, is 60 at a price of 8. The welfare loss triangle between demand and marginal cost from 40 to 60 has area one half times 4 times 20, which is 40.",
+  "caption": "The monopolist stops at 40, losing the units worth more than they cost: a welfare loss of 40.",
+  "bytes": 110202
+ },
+ {
+  "file": "economics-efficiency-and-market-failure--03-bypass-cost-benefit.webp",
+  "width": 900,
+  "height": 870,
+  "after": "### Worked example: a bypass",
+  "alt": "Social benefit of a bypass is 65 (time saved by drivers 55 plus fewer accidents 10) and social cost is 62 (construction 50 plus noise and pollution 12), so the net social benefit is plus 3. The toll of 20 is a transfer from drivers to the operator and cancels out for society. A private operator sees toll 20 minus construction 50, which is minus 30, and would not build. All figures are CU millions for a fictional town.",
+  "caption": "Society gains 3, but a private operator would lose 30: the toll is only a transfer.",
+  "bytes": 93802
+ }
+]

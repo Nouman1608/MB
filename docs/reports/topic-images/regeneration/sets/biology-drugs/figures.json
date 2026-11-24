@@ -1,0 +1,29 @@
+[
+ {
+  "file": "biology-drugs--07-bacteria-doubling.webp",
+  "width": 900,
+  "height": 660,
+  "after": "### Answers",
+  "alt": "Worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards.",
+  "caption": "A resistant strain can become common very quickly because numbers double with every division.",
+  "bytes": 50046
+ },
+ {
+  "file": "biology-drugs--04-resistance-develops.webp",
+  "width": 900,
+  "height": 1036,
+  "after": "### Antibiotic resistance in bacteria",
+  "alt": "Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works.",
+  "caption": "The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.",
+  "bytes": 122732
+ },
+ {
+  "file": "biology-drugs--05-only-when-essential.webp",
+  "width": 900,
+  "height": 816,
+  "after": "## How to approach it",
+  "alt": "A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working.",
+  "caption": "Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.",
+  "bytes": 105698
+ }
+]

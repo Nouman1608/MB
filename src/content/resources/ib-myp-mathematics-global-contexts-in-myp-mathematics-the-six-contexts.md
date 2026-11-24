@@ -178,7 +178,7 @@ Tessellations are in the standard column of the framework. A designer tiles a fl
 Conclusion: lengths scale by 1.5 but area scales by 2.25, so ordering tiles by edge length underestimates the material needed. Possible SOI: understanding how shapes fit together and scale gives designers freedom. Key concept form; related concepts patterns and space.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1040" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
   <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
 </figure>
 
@@ -196,7 +196,7 @@ The capacity first falls below 80% by the end of year 8. (Extended: logarithms g
 Conclusion: the model assumes a constant yearly percentage loss. Real batteries may not behave this way, so state that the model is a simplification. Possible SOI: simplifying a pattern into a model helps us test an innovation. Key concept relationships; related concepts models and simplification.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="740" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="750" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
   <figcaption>Show the years either side of the target to prove which year first passes it.</figcaption>
 </figure>
 

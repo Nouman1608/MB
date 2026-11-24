@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 970" width="900" height="970" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="970" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Hardy–Weinberg as areas</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">400 animals, 16 show the recessive trait</text>
+<text x="294" y="188" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">A: p = 0.8</text>
+<text x="524" y="188" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">a: q = 0.2</text>
+<text transform="translate(88 394) rotate(-90)" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">A: p = 0.8</text>
+<text transform="translate(88 624) rotate(-90)" font-size="18" font-weight="700" fill="#8a6d0d" text-anchor="middle">a: 0.2</text>
+<rect x="110" y="210" width="368" height="368" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="478" y="210" width="92" height="368" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="110" y="578" width="368" height="92" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="478" y="578" width="92" height="92" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="294" y="390" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="middle">AA</text>
+<text x="294" y="424" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">p² = 0.64</text>
+<text x="524" y="388" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Aa</text>
+<text x="524" y="416" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">0.16</text>
+<text x="294" y="632" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Aa 0.16</text>
+<text x="524" y="614" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">aa</text>
+<text x="524" y="640" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.04</text>
+<text x="640" y="280" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Of 400 animals:</text>
+<rect x="640" y="305" width="220" height="62" rx="14" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="662" y="345" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">AA</text>
+<text x="838" y="345" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="end">256</text>
+<rect x="640" y="385" width="220" height="62" rx="14" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="662" y="425" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Aa</text>
+<text x="838" y="425" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="end">128</text>
+<rect x="640" y="465" width="220" height="62" rx="14" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="662" y="505" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">aa</text>
+<text x="838" y="505" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="end">16</text>
+<rect x="40" y="740" width="820" height="190" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="450" y="792" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">q² = 16/400 = 0.04</text>
+<text x="450" y="840" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">q = 0.2, so p = 1 − 0.2 = 0.8</text>
+<text x="450" y="888" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">2pq = 0.32, so 128 carriers</text>
+</svg>

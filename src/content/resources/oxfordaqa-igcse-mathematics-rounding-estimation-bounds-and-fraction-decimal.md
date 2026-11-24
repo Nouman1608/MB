@@ -275,7 +275,7 @@ The whole number 1 stays. 0.2̇4̇ = 24/99 = 8/33, so the number is 1 8/33, or 4
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="860" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
   <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
 </figure>
 

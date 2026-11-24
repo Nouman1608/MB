@@ -90,7 +90,7 @@ Give every measurement a unit and convert before you calculate.
 Worked example. A micrograph of a cell is 45 mm long at a magnification of ×900. Actual length = image length ÷ magnification = 45 ÷ 900 = 0.05 mm. Multiply by 1000: **50 µm**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1164" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
   <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
 </figure>
 

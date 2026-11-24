@@ -95,7 +95,7 @@ These are quick-recall notes for topic B5.2 Natural selection and evolution in O
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--08-dna-similarity.webp" width="900" height="930" alt="A sketch tree: A and B share a recent common ancestor, C an older one. Invented base sequences show B differs from A at 1 base and C at 4. The more recently two groups shared an ancestor, the more similar their DNA." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-characteristics-and-classification-of-living-organisms--08-dna-similarity.webp" width="900" height="880" alt="A sketch tree: A and B share a recent common ancestor, C an older one. Invented base sequences show B differs from A at 1 base and C at 4. The more recently two groups shared an ancestor, the more similar their DNA." loading="lazy">
   <figcaption>More recent common ancestor means more similar DNA.</figcaption>
 </figure>
 
@@ -169,12 +169,12 @@ Reducing resistance: do not use antibiotics for viral infections, finish prescri
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1170" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
   <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-drugs--04-resistance-develops.webp" width="900" height="1036" alt="Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
   <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
 </figure>
 

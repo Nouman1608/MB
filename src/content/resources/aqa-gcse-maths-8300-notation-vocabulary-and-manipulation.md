@@ -183,7 +183,7 @@ Work out the numbers and the powers separately.
 Zero and negative integer indices (a⁰ = 1, a⁻ⁿ = 1/aⁿ) come from N7 in the Number section. Fractional indices are Higher tier only (N7).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1030" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
   <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
 </figure>
 
@@ -294,7 +294,7 @@ To add or subtract, use a common denominator, exactly as with number fractions.
 ```
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1090" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
   <figcaption>Factorise, then cancel whole brackets only.</figcaption>
 </figure>
 
@@ -304,7 +304,7 @@ To add or subtract, use a common denominator, exactly as with number fractions.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="980" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
   <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
 </figure>
 

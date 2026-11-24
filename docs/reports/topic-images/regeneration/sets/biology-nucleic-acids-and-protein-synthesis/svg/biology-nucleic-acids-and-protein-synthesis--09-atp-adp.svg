@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 915" width="900" height="915" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="915" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">ATP</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Schematic: a nucleotide with three phosphates</text>
+<defs><marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+<marker id="ahBigT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+<marker id="ahRu" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker></defs><path d="M60 172 v-12 H254 v12" fill="none" stroke="#4a5a78" stroke-width="2"/>
+<text x="157" y="150" font-size="20" font-weight="400" fill="#4a5a78" text-anchor="middle">adenosine</text>
+<polygon points="130.0,190.0 156.6,209.3 146.5,240.7 113.5,240.7 103.4,209.3" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><polygon points="110.2,230.0 86.0,244.0 61.8,230.0 61.8,202.0 86.0,188.0 110.2,202.0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><text x="86" y="225" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text><line x1="156" y1="216" x2="190" y2="216" stroke="#1e2a44" stroke-width="4"/><polygon points="214.0,182.0 250.1,208.3 236.3,250.7 191.7,250.7 177.9,208.3" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="250" y1="216" x2="400" y2="216" stroke="#1e2a44" stroke-width="4"/>
+<circle cx="298" cy="216" r="24" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><text x="298" y="223" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">P</text>
+<circle cx="360" cy="216" r="24" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><text x="360" y="223" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">P</text>
+<circle cx="422" cy="216" r="24" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><text x="422" y="223" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">P</text>
+<text x="108" y="298" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">adenine</text>
+<text x="214" y="298" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">ribose</text>
+<text x="362" y="290" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">3 phosphates</text>
+<text x="678" y="232" font-size="36" font-weight="700" fill="#1e2a44" text-anchor="middle">ATP</text>
+<line x1="300" y1="340" x2="300" y2="440" stroke="#1e2a44" stroke-width="5"/><polygon points="300,478 280,438 320,438" fill="#1e2a44"/>
+<text x="336" y="360" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">hydrolysis</text>
+<text x="336" y="391" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">ATP hydrolase</text>
+<path d="M148 350 C138 366 132 376 132 386 a16 16 0 0 0 32 0 C164 376 158 366 148 350 z" fill="#d6e7ef" stroke="#1e2a44" stroke-width="2"/>
+<text x="182" y="390" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">+ H<tspan font-size="70%" dy="0.3em">2</tspan><tspan dy="-0.3em">O</tspan></text>
+<line x1="560" y1="470" x2="560" y2="374" stroke="#2e6b62" stroke-width="5"/><polygon points="560,334 540,374 580,374" fill="#2e6b62"/>
+<text x="596" y="360" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">condensation</text>
+<text x="596" y="391" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">ATP synthase</text>
+<text x="596" y="422" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">respiration or</text>
+<text x="596" y="450" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">photosynthesis</text>
+<polygon points="130.0,546.0 156.6,565.3 146.5,596.7 113.5,596.7 103.4,565.3" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><polygon points="110.2,586.0 86.0,600.0 61.8,586.0 61.8,558.0 86.0,544.0 110.2,558.0" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><text x="86" y="581" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text><line x1="156" y1="572" x2="190" y2="572" stroke="#1e2a44" stroke-width="4"/><polygon points="214.0,538.0 250.1,564.3 236.3,606.7 191.7,606.7 177.9,564.3" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="250" y1="572" x2="340" y2="572" stroke="#1e2a44" stroke-width="4"/>
+<circle cx="298" cy="572" r="24" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><text x="298" y="579" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">P</text>
+<circle cx="360" cy="572" r="24" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><text x="360" y="579" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">P</text>
+<circle cx="458" cy="572" r="24" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><text x="458" y="579" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">P<tspan font-size="65%" dy="0.3em">i</tspan></text>
+<text x="458" y="634" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">inorganic phosphate</text>
+<text x="682" y="582" font-size="36" font-weight="700" fill="#1e2a44" text-anchor="middle">ADP</text>
+<rect x="30" y="710" width="840" height="170" rx="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="450" y="756" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Hydrolysis releases energy: 30.5 kJ per mole</text>
+<text x="450" y="801" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">coupled to a reaction needing 14.0 kJ per mole</text>
+<text x="450" y="848" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">net: 30.5 − 14.0 = 16.5 kJ per mole released</text>
+</svg>

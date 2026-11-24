@@ -262,7 +262,7 @@ Adding all seven regions: 8 + 7 + 5 + 5 + 4 + 2 + 3 = 34. So 40 − 34 = 6 play 
 Exactly two sports means 5 + 4 + 2 = 11 pupils, so P = 11/40.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
   <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
 </figure>
 

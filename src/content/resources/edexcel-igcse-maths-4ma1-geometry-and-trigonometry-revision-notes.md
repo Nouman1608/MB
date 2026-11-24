@@ -202,17 +202,17 @@ Keep arcs visible. Scale drawings: real length = map length × scale factor, the
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="1030" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="980" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
   <figcaption>Radius, chord and tangent in one circle, with sector and segment shaded separately.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--04-equal-tangents.webp" width="900" height="900" alt="Circle with centre O and external point P. Tangents PA and PB are marked equal, each 12. Radii OA and OB (5) meet them at right angles, and OP is 13. Two tangents drawn from the same outside point P touch the circle at A and B and have equal lengths; each is perpendicular to its radius." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-circle-theorems-ii--04-equal-tangents.webp" width="900" height="760" alt="Circle with centre O and external point P. Tangents PA and PB are marked equal, each 12. Radii OA and OB (5) meet them at right angles, and OP is 13. Two tangents drawn from the same outside point P touch the circle at A and B and have equal lengths; each is perpendicular to its radius." loading="lazy">
   <figcaption>Tangents from an external point are equal in length (here PA = PB = 12).</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp" width="900" height="850" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-circle-theorems-ii--02-chord-bisector.webp" width="900" height="820" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
   <figcaption>The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.</figcaption>
 </figure>
 
@@ -222,12 +222,12 @@ Keep arcs visible. Scale drawings: real length = map length × scale factor, the
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometry--04-angle-at-centre.webp" width="900" height="820" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
   <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="830" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
   <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
 </figure>
 
@@ -366,7 +366,7 @@ Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Spec
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--02-elevation-depression.webp" width="900" height="950" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-trigonometry--02-elevation-depression.webp" width="900" height="870" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
   <figcaption>Elevation and depression are both measured from the horizontal and are equal for the same line of sight.</figcaption>
 </figure>
 

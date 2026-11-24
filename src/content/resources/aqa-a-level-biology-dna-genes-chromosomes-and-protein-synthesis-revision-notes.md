@@ -80,7 +80,7 @@ Eukaryotic nuclear DNA also contains non-coding multiple repeats between genes, 
 | Sugar and base | Ribose, uracil | Ribose, uracil |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1215" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
   <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ Mitochondria and chloroplasts each contain their own DNA. Like prokaryotic DNA i
 In eukaryotes the mRNA leaves the nucleus through a nuclear pore before translation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1170" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
   <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
 </figure>
 

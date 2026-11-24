@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1100" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Life cycle of a star</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Mass decides the ending</text>
+<circle cx="430" cy="158" r="26" fill="#b9c6d6" stroke="#8a9ab0" stroke-width="2"/>
+<circle cx="462" cy="142" r="30" fill="#b9c6d6" stroke="#8a9ab0" stroke-width="2"/>
+<circle cx="478" cy="170" r="22" fill="#b9c6d6" stroke="#8a9ab0" stroke-width="2"/>
+<circle cx="446" cy="176" r="22" fill="#b9c6d6" stroke="#8a9ab0" stroke-width="2"/>
+<text x="374" y="164" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="end">Gas and dust cloud</text>
+<line x1="450" y1="210" x2="450" y2="262" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="450" cy="310" r="40" fill="none" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="5 5"/>
+<circle cx="450" cy="310" r="17" fill="#e3903e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="514" y="308" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Protostar</text><text x="514" y="340" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">gravity pulls in, heats up</text>
+<line x1="450" y1="358" x2="450" y2="422" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="450" cy="464" r="29" fill="#e9c33a" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="502" y="462" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Stable star</text><text x="502" y="494" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">gravity in = heat out</text>
+<line x1="430" y1="502" x2="150" y2="618" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="470" y1="502" x2="512" y2="608" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<text x="16" y="580" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Less massive</text>
+<text x="584" y="580" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">More massive</text>
+<circle cx="130" cy="688" r="47" fill="#c8553a" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="200" y="696" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Red giant</text>
+<circle cx="520" cy="688" r="58" fill="#9c2d22" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="602" y="696" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Red supergiant</text>
+<line x1="130" y1="736" x2="130" y2="780" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="520" y1="748" x2="520" y2="782" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="130" cy="850" r="44" fill="none" stroke="#7ea7d8" stroke-width="9"/>
+<circle cx="130" cy="850" r="7" fill="#ffffff" stroke="#1e2a44" stroke-width="2"/>
+<text x="210" y="858" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Planetary nebula</text>
+<polygon points="518.0,792.0 526.4,829.7 559.0,809.0 538.3,841.6 576.0,850.0 538.3,858.4 559.0,891.0 526.4,870.3 518.0,908.0 509.6,870.3 477.0,891.0 497.7,858.4 460.0,850.0 497.7,841.6 477.0,809.0 509.6,829.7" fill="#e9c33a" stroke="#b5602e" stroke-width="2.5"/>
+<text x="600" y="858" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Supernova</text>
+<line x1="130" y1="900" x2="130" y2="982" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="130" cy="1008" r="11" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="166" y="1016" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">White dwarf</text>
+<line x1="510" y1="912" x2="484" y2="974" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="530" y1="908" x2="718" y2="980" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="480" cy="1008" r="9" fill="#3b4558" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="480" y="1070" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Neutron star</text>
+<circle cx="720" cy="1008" r="24" fill="#ffffff" stroke="#8a6d0d" stroke-width="3.5"/>
+<circle cx="720" cy="1008" r="15" fill="#000000" stroke="#1e2a44" stroke-width="1"/>
+<text x="720" y="1070" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Black hole</text>
+<path d="M572 810 H872 V158 H530" fill="none" stroke="#2e6b62" stroke-width="3" stroke-dasharray="9 6" marker-end="url(#ahT)"/>
+<text x="852" y="590" font-size="20" fill="#2e6b62" text-anchor="middle" transform="rotate(-90 852 590)">may form new stars</text>
+</svg>

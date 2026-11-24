@@ -116,7 +116,7 @@ Reflexes are **automatic and rapid** and bypass the conscious brain.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Further panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Further panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
   <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
 </figure>
 
@@ -142,12 +142,12 @@ Monitored by the **thermoregulatory centre** in the brain (blood temperature) pl
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-coordination-and-response--02-synapse.webp" width="900" height="980" alt="A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
   <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1250" alt="Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
   <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
 </figure>
 
@@ -209,12 +209,12 @@ Pituitary (brain, "master gland") · thyroid (neck) · pancreas · adrenal gland
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-excretion-in-humans--04-nephron.webp" width="900" height="1230" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
   <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1060" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
   <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
 </figure>
 
@@ -243,12 +243,12 @@ FSH and LH → several eggs mature → eggs collected → fertilised in the lab 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-reproduction--08-menstrual-cycle.webp" width="900" height="1000" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
   <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1040" alt="Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
   <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
 </figure>
 

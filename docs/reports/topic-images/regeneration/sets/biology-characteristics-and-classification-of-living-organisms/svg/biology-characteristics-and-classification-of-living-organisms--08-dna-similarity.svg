@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 880" width="900" height="880" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="880" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">DNA shows relationships</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Sketch tree with example sequences</text>
+<path d="M250 210 H440 M250 370 H440 M250 210 V370 M90 290 H250 M90 530 H440 M90 290 V530" stroke="#1e2a44" stroke-width="4.5" fill="none" stroke-linejoin="round"/>
+<circle cx="250" cy="290" r="17" fill="#1e2a44"/><text x="250" y="296" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<circle cx="90" cy="410" r="17" fill="#1e2a44"/><text x="90" y="416" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="470" y="168" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Species A</text>
+<rect x="470" y="186" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="491" y="219" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="516" y="186" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="537" y="219" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="562" y="186" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="583" y="219" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="608" y="186" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="629" y="219" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="654" y="186" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="675" y="219" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="700" y="186" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="721" y="219" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="746" y="186" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="767" y="219" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="792" y="186" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="813" y="219" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">A</text>
+<text x="470" y="266" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">Compare the others with A</text>
+<text x="470" y="328" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Species B</text>
+<rect x="470" y="346" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="491" y="379" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="516" y="346" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="537" y="379" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="562" y="346" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="583" y="379" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="608" y="346" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="629" y="379" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="654" y="346" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="675" y="379" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="700" y="346" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="721" y="379" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="746" y="346" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="767" y="379" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="792" y="346" width="42" height="48" rx="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="813" y="379" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">T</text>
+<text x="470" y="426" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">1 difference from A</text>
+<text x="470" y="488" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Species C</text>
+<rect x="470" y="506" width="42" height="48" rx="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="491" y="539" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="516" y="506" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="537" y="539" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="562" y="506" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="583" y="539" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="608" y="506" width="42" height="48" rx="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="629" y="539" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="654" y="506" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="675" y="539" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="700" y="506" width="42" height="48" rx="6" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="721" y="539" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="746" y="506" width="42" height="48" rx="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="767" y="539" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="792" y="506" width="42" height="48" rx="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="813" y="539" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">T</text>
+<text x="470" y="586" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">4 differences from A</text>
+<rect x="40" y="650" width="820" height="200" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="84" cy="696" r="17" fill="#1e2a44"/><text x="84" y="702" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="120" y="703" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Older common ancestor of A, B and C</text>
+<circle cx="84" cy="750" r="17" fill="#1e2a44"/><text x="84" y="756" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="120" y="757" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Recent common ancestor of A and B</text>
+<text x="450" y="816" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">Closer ancestor = more similar DNA</text>
+</svg>

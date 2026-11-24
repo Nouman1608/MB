@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1190" width="900" height="1190" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1190" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Repaying the oxygen debt</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">After vigorous exercise</text>
+<g transform="translate(0 30)"><ellipse cx="140" cy="200" rx="90" ry="44" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
+<text x="140" y="207" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Muscle</text>
+<path d="M105 131 l9 9 l-9 9 l-9 -9 z" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<path d="M140 117 l9 9 l-9 9 l-9 -9 z" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<path d="M175 131 l9 9 l-9 9 l-9 -9 z" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="234" y1="200" x2="388" y2="200" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<path d="M290 191 l9 9 l-9 9 l-9 -9 z" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<path d="M340 191 l9 9 l-9 9 l-9 -9 z" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<path d="M450 252 C410 220 380 190 390 160 C400 132 440 132 450 160 C460 132 500 132 510 160 C520 190 490 220 450 252 Z" fill="#e8b4a0" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="450" y="290" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Heart</text>
+<circle cx="450" cy="102" r="17" fill="#1e2a44"/><text x="450" y="108" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<line x1="522" y1="200" x2="690" y2="200" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<path d="M580 191 l9 9 l-9 9 l-9 -9 z" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<path d="M630 191 l9 9 l-9 9 l-9 -9 z" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<path d="M705 175 C720 150 830 145 860 165 C880 180 870 230 840 238 C800 248 730 245 712 228 C700 215 698 190 705 175 Z" fill="#e8b4a0" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="785" y="207" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Liver</text>
+<circle cx="860" cy="146" r="17" fill="#1e2a44"/><text x="860" y="152" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<path d="M76 289 l9 9 l-9 9 l-9 -9 z" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="96" y="305" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="start">lactic acid</text>
+<line x1="450" y1="320" x2="450" y2="356" stroke="#1e2a44" stroke-width="4"/>
+<ellipse cx="418" cy="410" rx="28" ry="56" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<ellipse cx="482" cy="410" rx="28" ry="56" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="494" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Lungs</text>
+<circle cx="380" cy="338" r="17" fill="#2e6b62"/><text x="380" y="344" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<path d="M514 400 C640 400 740 340 762 266" fill="none" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<text x="690" y="430" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">extra oxygen</text>
+<circle cx="60" cy="546" r="17" fill="#1e2a44"/><text x="60" y="552" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="92" y="553" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Heart rate stays fast: lactic acid goes to the liver</text>
+<circle cx="60" cy="590" r="17" fill="#2e6b62"/><text x="60" y="596" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="92" y="597" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Breathing stays deeper and faster: more oxygen</text>
+<circle cx="60" cy="634" r="17" fill="#1e2a44"/><text x="60" y="640" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="92" y="641" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Liver breaks lactic acid down by aerobic respiration</text>
+<text x="40" y="700" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Heart rate (beats per minute)</text>
+<line x1="140" y1="714" x2="140" y2="830" stroke="#1e2a44" stroke-width="2.5"/><line x1="140" y1="830" x2="820" y2="830" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="133" y1="830" x2="140" y2="830" stroke="#1e2a44" stroke-width="2"/>
+<text x="128" y="836" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="133" y1="775" x2="140" y2="775" stroke="#1e2a44" stroke-width="2"/>
+<text x="128" y="781" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">100</text>
+<line x1="133" y1="720" x2="140" y2="720" stroke="#1e2a44" stroke-width="2"/>
+<text x="128" y="726" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">200</text>
+<line x1="140" y1="794.8" x2="820" y2="794.8" stroke="#1e2a44" stroke-width="2" stroke-dasharray="8 6"/>
+<path d="M180 794.8 L380 735.4 L580 765.1 L780 793.7" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="180" cy="794.8" r="11" fill="#1e2a44"/>
+<text x="180" y="776.8" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">64</text>
+<circle cx="380" cy="735.4" r="11" fill="#1e2a44"/>
+<text x="380" y="717.4" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">172</text>
+<circle cx="580" cy="765.1" r="11" fill="#1e2a44"/>
+<text x="580" y="747.1" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">118</text>
+<circle cx="780" cy="793.7" r="11" fill="#1e2a44"/>
+<text x="780" y="775.7" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">66</text>
+<text x="40" y="900" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Breathing rate (breaths per minute)</text>
+<line x1="140" y1="914" x2="140" y2="1030" stroke="#1e2a44" stroke-width="2.5"/><line x1="140" y1="1030" x2="820" y2="1030" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="133" y1="1030" x2="140" y2="1030" stroke="#1e2a44" stroke-width="2"/>
+<text x="128" y="1036" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="133" y1="975" x2="140" y2="975" stroke="#1e2a44" stroke-width="2"/>
+<text x="128" y="981" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">25</text>
+<line x1="133" y1="920" x2="140" y2="920" stroke="#1e2a44" stroke-width="2"/>
+<text x="128" y="926" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">50</text>
+<line x1="140" y1="999.2" x2="820" y2="999.2" stroke="#1e2a44" stroke-width="2" stroke-dasharray="8 6"/>
+<path d="M180 999.2 L380 942 L580 972.8 L780 997" fill="none" stroke="#2e6b62" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="170" y="989.2" width="20" height="20" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<text x="180" y="981.2" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">14</text>
+<rect x="370" y="932" width="20" height="20" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<text x="380" y="924" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">40</text>
+<rect x="570" y="962.8" width="20" height="20" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<text x="580" y="954.8" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">26</text>
+<rect x="770" y="987" width="20" height="20" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<text x="780" y="979" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<text x="180" y="1060" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">Rest</text>
+<text x="380" y="1060" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">End of</text>
+<text x="380" y="1084" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">sprint</text>
+<text x="580" y="1060" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">5 min</text>
+<text x="580" y="1084" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">after</text>
+<text x="780" y="1060" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">15 min</text>
+<text x="780" y="1084" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">after</text>
+<text x="450" y="1130" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">Dashed line = resting value. Example from the lesson</text></g>
+</svg>

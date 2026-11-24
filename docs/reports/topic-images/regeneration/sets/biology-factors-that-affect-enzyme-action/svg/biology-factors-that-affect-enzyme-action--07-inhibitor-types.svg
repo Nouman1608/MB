@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 930" width="900" height="930" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="930" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Two kinds of reversible inhibitor</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Where does the inhibitor bind?</text>
+<rect x="40" y="120" width="820" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="64" y="158" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">No inhibitor</text>
+<path d="M192.2715558937703 244.86666666666667 A58 58 0 1 0 192.2715558937703 295.1333333333333 L178.66666666666666 295.1333333333333 L178.66666666666666 280.6333333333333 L163.2 280.6333333333333 L163.2 259.3666666666667 L178.66666666666666 259.3666666666667 L178.66666666666666 244.86666666666667 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3" stroke-linejoin="round"/>
+<rect x="162" y="260" width="16" height="20" fill="#f2c9b0" stroke="#b5602e" stroke-width="2"/><rect x="178" y="248" width="44" height="44" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="430" y="256" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Substrate fits the</text><text x="430" y="284" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">active site: product made</text>
+<rect x="40" y="390" width="820" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="64" y="428" font-size="22" font-weight="700" fill="#b5602e" text-anchor="start">Competitive</text>
+<path d="M192.2715558937703 514.8666666666667 A58 58 0 1 0 192.2715558937703 565.1333333333333 L178.66666666666666 565.1333333333333 L178.66666666666666 550.6333333333333 L163.2 550.6333333333333 L163.2 529.3666666666667 L178.66666666666666 529.3666666666667 L178.66666666666666 514.8666666666667 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3" stroke-linejoin="round"/>
+<rect x="162" y="530" width="16" height="20" fill="#f2c9b0" stroke="#b5602e" stroke-width="2"/><rect x="178" y="518" width="44" height="44" fill="#f2c9b0" stroke="#b5602e" stroke-width="2.5"/><text x="200" y="547" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">I</text>
+<rect x="300" y="518" width="44" height="44" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2" stroke-dasharray="5 4"/><path d="M306 524 l32 32 M338 524 l-32 32" stroke="#b5602e" stroke-width="3.5" stroke-linecap="round"/>
+<text x="430" y="526" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Inhibitor sits in the</text><text x="430" y="554" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">active site; more substrate wins</text>
+<rect x="40" y="660" width="820" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="64" y="698" font-size="22" font-weight="700" fill="#2f6f8f" text-anchor="start">Non-competitive</text>
+<path d="M192.2715558937703 784.8666666666667 A58 58 0 1 0 192.2715558937703 835.1333333333333 L186.39999999999998 833.1333333333333 L169 821.6 L176.73333333333332 811.9333333333333 L163.2 800.3333333333334 L184.46666666666667 786.8666666666667 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="140" cy="746" r="19" fill="#f2c9b0" stroke="#b5602e" stroke-width="2.5"/>
+<text x="140" y="753" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">I</text>
+<rect x="290" y="788" width="44" height="44" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2" stroke-dasharray="5 4"/><path d="M296 794 l32 32 M328 794 l-32 32" stroke="#b5602e" stroke-width="3.5" stroke-linecap="round"/>
+<text x="430" y="782" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Binds elsewhere, reshapes</text><text x="430" y="810" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">the site; more substrate</text><text x="430" y="838" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">does not help</text>
+</svg>

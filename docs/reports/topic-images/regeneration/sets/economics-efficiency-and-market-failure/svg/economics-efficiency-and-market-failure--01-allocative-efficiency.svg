@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 920" width="900" height="920" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="920" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Allocative efficiency</text>
+
+<line x1="110" y1="640" x2="810" y2="640" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/><line x1="110" y1="640" x2="110" y2="140" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/><text x="806" y="674" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="end">Quantity</text><text x="96" y="134" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="start">Price, cost</text>
+<path d="M150 200 L750 560" fill="none" stroke="#2b5a9a" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M150 580 L750 200" fill="none" stroke="#b5602e" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="758" y="566" font-size="20" font-weight="700" fill="#2b5a9a" text-anchor="start">D</text>
+<text x="758" y="206" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">MC</text>
+<line x1="458.10810810810807" y1="384.86486486486484" x2="458.10810810810807" y2="640" stroke="#1e2a44" stroke-width="2" stroke-dasharray="6 6"/>
+<line x1="110" y1="384.86486486486484" x2="458.10810810810807" y2="384.86486486486484" stroke="#1e2a44" stroke-width="2" stroke-dasharray="6 6"/>
+<circle cx="458.10810810810807" cy="384.86486486486484" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="458.10810810810807" y="672" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Q*</text>
+<text x="500.10810810810807" y="392.86486486486484" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">P = MC</text>
+<line x1="280" y1="278" x2="280" y2="497.6666666666667" stroke="#2e6b62" stroke-width="5"/>
+<text x="268" y="435.83333333333337" font-size="18" font-weight="700" fill="#2e6b62" text-anchor="end">P &gt; MC</text>
+<line x1="670" y1="512" x2="670" y2="250.66666666666669" stroke="#8a6d0d" stroke-width="5"/>
+<text x="682" y="388.33333333333337" font-size="18" font-weight="700" fill="#8a6d0d" text-anchor="start">P &lt; MC</text>
+<rect x="60" y="700" width="780" height="166" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="80" y="736" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">Allocative efficiency: price = marginal cost (P = MC).</text>
+<text x="80" y="766" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">The last unit is worth exactly what it costs to make.</text>
+<text x="80" y="796" font-size="17" font-weight="400" fill="#2e6b62" text-anchor="start">Below Q*, P &gt; MC: too little is made; extra units are worth more than they cost.</text>
+<text x="80" y="824" font-size="17" font-weight="400" fill="#8a6d0d" text-anchor="start">Above Q*, P &lt; MC: too much is made; those units cost more than they are worth.</text>
+<text x="80" y="852" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">With externalities the condition becomes MSB = MSC.</text>
+<text x="450" y="898" font-size="16" font-weight="400" fill="#4a5568" text-anchor="middle" font-style="italic">Illustrative, shape only</text>
+</svg>

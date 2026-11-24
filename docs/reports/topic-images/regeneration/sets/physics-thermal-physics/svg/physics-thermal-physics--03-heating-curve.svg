@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 890" width="900" height="890" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="890" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Heating water: where does the energy go?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">On the flat parts the temperature does not rise</text>
+<line x1="150" y1="473" x2="848" y2="473" stroke="#c9d6d4" stroke-width="2" stroke-dasharray="9 7"/><line x1="150" y1="195" x2="848" y2="195" stroke="#c9d6d4" stroke-width="2" stroke-dasharray="9 7"/>
+<line x1="150" y1="118" x2="150" y2="530" stroke="#1e2a44" stroke-width="3"/>
+<line x1="150" y1="530" x2="852" y2="530" stroke="#1e2a44" stroke-width="3"/>
+<text x="136" y="203" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">100</text>
+<text x="136" y="481" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<text transform="rotate(-90 70 325)" x="70" y="325" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">Temperature (°C)</text>
+<text x="500" y="574" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">Energy supplied (not to scale)</text>
+<path d="M158 530 L284 473 H394 L587 195 H738 L830 140" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="338" y1="483" x2="338" y2="526" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="4 4"/><line x1="662" y1="205" x2="662" y2="526" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="4 4"/>
+<rect x="160" y="610" width="120" height="120" rx="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="220" y="766" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Ice</text>
+<rect x="282" y="610" width="110" height="120" rx="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="337" y="766" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Melting</text>
+<rect x="394" y="610" width="192" height="120" rx="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="490" y="766" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Water</text>
+<rect x="588" y="610" width="142" height="120" rx="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="659" y="766" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Boiling</text>
+<rect x="730" y="610" width="108" height="120" rx="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="784" y="766" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Steam</text>
+<circle cx="183" cy="632" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="208" cy="632" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="233" cy="632" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="258" cy="632" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="183" cy="657" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="208" cy="657" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="233" cy="657" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="258" cy="657" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="183" cy="682" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="208" cy="682" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="233" cy="682" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="258" cy="682" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="183" cy="707" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="208" cy="707" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="233" cy="707" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="258" cy="707" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="304" cy="633" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="338" cy="646" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="371" cy="632" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="313" cy="686" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="338" cy="686" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="363" cy="686" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="313" cy="711" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="338" cy="711" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="363" cy="711" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="415" cy="636" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="440" cy="636" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="465" cy="636" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="489" cy="638" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="516" cy="636" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="541" cy="636" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="565" cy="636" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="427" cy="669" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="452" cy="668" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="477" cy="668" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="503" cy="668" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="528" cy="668" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="554" cy="669" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="415" cy="702" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="440" cy="702" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="464" cy="701" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="489" cy="701" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="515" cy="702" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="540" cy="702" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="565" cy="702" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="617" cy="627" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="670" cy="634" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="716" cy="624" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="626" cy="671" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="650" cy="671" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="675" cy="669" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="700" cy="671" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="612" cy="704" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="637" cy="699" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="662" cy="702" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="687" cy="699" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="712" cy="705" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="757" cy="644" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="808" cy="635" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="772" cy="697" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="818" cy="700" r="11" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="450" y="850" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Flat parts: energy changes the arrangement, not the temperature</text>
+</svg>

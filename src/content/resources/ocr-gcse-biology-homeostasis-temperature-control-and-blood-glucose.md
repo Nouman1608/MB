@@ -175,7 +175,7 @@ Blood glucose falls from 5.0 to 4.4 mmol/dm³ in 8 hours without food.
 2. The fall is small because the falling level stimulates glucagon secretion. Glucagon makes the liver convert glycogen to glucose and release it, which slows the fall.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1250" alt="Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
   <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
 </figure>
 

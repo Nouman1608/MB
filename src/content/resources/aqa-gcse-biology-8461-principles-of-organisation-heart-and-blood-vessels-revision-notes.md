@@ -122,8 +122,8 @@ Check: every chamber appears once, and the route crosses the lungs between the r
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Further labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
-  <figcaption>Left side of the heart is on the right of the page; gold labels mark extra detail.</figcaption>
+  <img src="https://img.marlbridge.com/biology-transport-in-animals--02-heart-structure.webp" width="900" height="1165" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Further labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page.</figcaption>
 </figure>
 
 
@@ -137,12 +137,12 @@ Check: every chamber appears once, and the route crosses the lungs between the r
 - Trace it as a figure of eight: body -> right side -> lungs -> left side -> body.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-animals--01-circulation.webp" width="900" height="1275" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
   <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
   <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ Air route: trachea -> bronchi -> alveoli. Blood route: pulmonary artery (deoxyge
 alveoli -> pulmonary vein (oxygenated).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Also shown: the trachea has rings of cartilage." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="850" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Also shown: the trachea has rings of cartilage." loading="lazy">
   <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
 </figure>
 
@@ -188,7 +188,7 @@ alveoli -> pulmonary vein (oxygenated).
 | Capillary | Wall one cell thick; narrow | Short diffusion distance for exchange with body cells |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Further notes link structure to pressure and function." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-animals--04-blood-vessels.webp" width="900" height="1200" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Further notes link structure to pressure and function." loading="lazy">
   <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
 </figure>
 

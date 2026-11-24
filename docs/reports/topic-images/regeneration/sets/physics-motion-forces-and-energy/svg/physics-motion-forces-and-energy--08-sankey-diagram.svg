@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 935" width="900" height="935" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="935" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Where the energy goes</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Illustrative power station, not real data</text>
+<rect x="40" y="200" width="210" height="300" fill="#b5d3cf"/><path d="M250 470 H280 V690 H250 Z" fill="#f2e7b8" stroke="#b5602e" stroke-width="2.5"/><path d="M236 690 H294 L265 724 Z" fill="#b5602e"/><rect x="250" y="200" width="30" height="270" fill="#b5d3cf"/><rect x="280" y="200" width="170" height="270" fill="#b5d3cf"/><path d="M450 320 H600 V690 H450 Z" fill="#f2e7b8" stroke="#b5602e" stroke-width="2.5"/><path d="M436 690 H614 L525 724 Z" fill="#b5602e"/><rect x="450" y="200" width="150" height="120" fill="#b5d3cf"/><rect x="600" y="200" width="50" height="120" fill="#b5d3cf"/><path d="M650 305 H665 V690 H650 Z" fill="#f2e7b8" stroke="#b5602e" stroke-width="2.5"/><path d="M636 690 H679 L657.5 724 Z" fill="#b5602e"/><rect x="650" y="200" width="15" height="105" fill="#b5d3cf"/><rect x="665" y="200" width="115" height="105" fill="#b5d3cf"/><path d="M780 180 L850 252.5 L780 325 Z" fill="#2e6b62"/>
+<text x="265" y="178" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Boiler</text>
+<text x="265" y="760" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">10 J</text>
+<text x="525" y="178" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Turbine</text>
+<text x="525" y="760" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">50 J</text>
+<text x="657.5" y="178" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Generator</text>
+<text x="657.5" y="760" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">5 J</text>
+<text x="60" y="240" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Fuel: 100 J</text>
+<text x="690" y="345" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">35 J electrical</text>
+<rect x="90" y="800" width="720" height="60" rx="12" fill="#1e2a44"/>
+<text x="450" y="840" font-size="25" font-weight="700" fill="#fff" text-anchor="middle">Efficiency = 35 ÷ 100 = 35%</text>
+<text x="450" y="900" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Arrow width shows the amount of energy.</text>
+</svg>

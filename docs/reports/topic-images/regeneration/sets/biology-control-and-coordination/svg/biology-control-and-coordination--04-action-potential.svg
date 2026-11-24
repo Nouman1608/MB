@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980" width="900" height="980" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="980" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">The action potential</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Membrane potential (inside relative to outside)</text>
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d9a"/></marker>
+<marker id="ahRb" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker>
+<marker id="ahRr" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker></defs><rect x="313" y="190" width="108" height="520" fill="#f5e1dc"/>
+<rect x="421" y="190" width="110" height="520" fill="#e3ecee"/>
+<rect x="531" y="190" width="109" height="520" fill="#ece8f1"/>
+<line x1="130" y1="375" x2="860" y2="375" stroke="#b8bfc6" stroke-width="2" stroke-dasharray="5 5"/>
+<line x1="130" y1="579.6" x2="860" y2="579.6" stroke="#8a6d0d" stroke-width="3" stroke-dasharray="10 6"/>
+<text x="855" y="569.6" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">threshold −55 mV</text>
+<line x1="130" y1="710" x2="130" y2="178" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="130" y1="710" x2="876" y2="710" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<text x="116" y="233.2" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">+40</text>
+<text x="116" y="382" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">0</text>
+<text x="116" y="586.6" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">−55</text>
+<text x="116" y="642.4000000000001" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">−70</text>
+<text transform="translate(44 445) rotate(-90)" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">potential (mV)</text>
+<text x="495" y="748" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">time (not to scale)</text>
+<path d="M130 635.4000000000001 L222 635.4000000000001 C262 635.4000000000001 292 605.64 313 579.6 C350 486.6 375 226.2 403 226.2 C440 226.2 468 561 492 654 C503 676.3199999999999 512 672.6 522 672.6 C600 661.44 700 639.12 860 635.4000000000001" fill="none" stroke="#1e2a44" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="220,642 209,668 231,668" fill="#8a6d0d"/>
+<text x="234" y="690" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">stimulus</text>
+<text x="352" y="282" font-size="20" font-weight="700" fill="#b5402e" text-anchor="end">Depolarisation</text>
+<text x="352" y="309" font-size="19" font-weight="400" fill="#b5402e" text-anchor="end">Na⁺ flood in</text>
+<text x="462" y="320" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="start">Repolarisation</text>
+<text x="462" y="347" font-size="19" font-weight="400" fill="#2e7d9a" text-anchor="start">K⁺ flow out</text>
+<text x="550" y="478" font-size="20" font-weight="700" fill="#5b4a8a" text-anchor="start">Hyperpolarisation</text>
+<text x="550" y="506" font-size="19" font-weight="400" fill="#5b4a8a" text-anchor="start">K⁺ channels slow to close</text>
+<line x1="604" y1="520" x2="540" y2="664" stroke="#1e2a44" stroke-width="2"/><circle cx="540" cy="664" r="5" fill="#1e2a44"/>
+<path d="M403 166 V186 M403 176 H640 M640 166 V186" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="521" y="160" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">refractory period</text>
+<text x="130" y="781" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">voltage-gated channels open</text>
+<rect x="130" y="790" width="730" height="38" fill="#ebeeee"/><rect x="130" y="840" width="730" height="38" fill="#ebeeee"/>
+<rect x="285" y="790" width="128" height="38" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="413" y="840" width="210" height="38" fill="#2e6b62" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="116" y="816" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">Na⁺ </text>
+<text x="116" y="866" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="end">K⁺ </text>
+<text x="450" y="938" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">Refractory 2.5 ms → max 1 ÷ 0.0025 s = 400 impulses per s</text>
+</svg>

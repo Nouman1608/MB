@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 660" width="900" height="660" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="660" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">One bacterium becomes 256</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Divides every 30 minutes; all offspring survive</text>
+<line x1="140" y1="460" x2="800" y2="460" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="140" y1="360" x2="800" y2="360" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="140" y1="260" x2="800" y2="260" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="140" y1="160" x2="800" y2="160" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="140" y1="560" x2="800" y2="560" stroke="#1e2a44" stroke-width="3"/>
+<line x1="140" y1="150" x2="140" y2="560" stroke="#1e2a44" stroke-width="3"/>
+<line x1="140" y1="560" x2="140" y2="568" stroke="#1e2a44" stroke-width="2"/>
+<text x="140" y="592" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="305" y1="560" x2="305" y2="568" stroke="#1e2a44" stroke-width="2"/>
+<text x="305" y="592" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="470" y1="560" x2="470" y2="568" stroke="#1e2a44" stroke-width="2"/>
+<text x="470" y="592" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="635" y1="560" x2="635" y2="568" stroke="#1e2a44" stroke-width="2"/>
+<text x="635" y="592" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">3</text>
+<line x1="800" y1="560" x2="800" y2="568" stroke="#1e2a44" stroke-width="2"/>
+<text x="800" y="592" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<text x="126" y="566" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<text x="126" y="466" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">64</text>
+<text x="126" y="366" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">128</text>
+<text x="126" y="266" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">192</text>
+<text x="126" y="166" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">256</text>
+<text x="470" y="628" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Time (hours)</text>
+<text transform="translate(70 360) rotate(-90)" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Number of bacteria</text>
+<path d="M140 558.4375 L222.5 556.875 L305 553.75 L387.5 547.5 L470 535 L552.5 510 L635 460 L717.5 360 L800 160" fill="none" stroke="#2e6b62" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="140" cy="558.4375" r="7" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="222.5" cy="556.875" r="7" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="305" cy="553.75" r="7" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="387.5" cy="547.5" r="7" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="470" cy="535" r="7" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="552.5" cy="510" r="7" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="635" cy="460" r="7" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="717.5" cy="360" r="7" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="800" cy="160" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="800" cy="160" r="15" fill="none" stroke="#8a6d0d" stroke-width="3"/>
+<text x="776" y="134" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">256 after 4 h</text>
+<text x="160" y="194" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">8 divisions: 2⁸ = 256</text>
+</svg>

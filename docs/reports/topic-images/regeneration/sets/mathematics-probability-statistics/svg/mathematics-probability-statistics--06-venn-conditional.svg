@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 990" width="900" height="990" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="990" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Conditional probability on a Venn</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">P(A) = 0.55, P(B) = 0.35, P(A′ ∩ B′) = 0.2</text>
+<text x="40" y="164" font-size="23" font-weight="700" fill="#8a6d0d" text-anchor="start">Given B: only the B circle counts</text>
+<rect x="40" y="180" width="520" height="300" rx="10" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/>
+<defs><clipPath id="cA180"><circle cx="215" cy="330" r="112"/></clipPath><clipPath id="cB180"><circle cx="365" cy="330" r="112"/></clipPath></defs>
+<circle cx="365" cy="330" r="112" fill="#f2e7b8"/><circle cx="215" cy="330" r="112" fill="#ffffff"/>
+<circle cx="365" cy="330" r="112" fill="#d4b02e" clip-path="url(#cA180)"/>
+<circle cx="215" cy="330" r="112" fill="none" stroke="#2e6b62" stroke-width="4"/><circle cx="365" cy="330" r="112" fill="none" stroke="#1e2a44" stroke-width="4"/>
+<text x="80" y="226" font-size="25" font-weight="700" fill="#2e6b62" text-anchor="middle">A</text>
+<text x="520" y="226" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">B</text>
+<text x="165" y="339" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">0.45</text>
+<text x="290" y="339" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">0.10</text>
+<text x="400" y="339" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">0.25</text>
+<text x="510" y="460" font-size="22" font-weight="700" fill="#4a5568" text-anchor="middle">0.20</text>
+<text x="590" y="272" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">P(A | B)</text>
+<text x="590" y="322" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">= 0.10 / 0.35</text>
+<text x="590" y="370" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">= 2/7</text>
+<text x="590" y="418" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">≈ 0.286</text>
+<text x="40" y="574" font-size="23" font-weight="700" fill="#8a6d0d" text-anchor="start">Given A′: only outside the A circle counts</text>
+<rect x="40" y="590" width="520" height="300" rx="10" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3.5"/>
+<defs><clipPath id="cA590"><circle cx="215" cy="740" r="112"/></clipPath><clipPath id="cB590"><circle cx="365" cy="740" r="112"/></clipPath></defs>
+<circle cx="365" cy="740" r="112" fill="#d4b02e"/><circle cx="215" cy="740" r="112" fill="#ffffff"/>
+<circle cx="215" cy="740" r="112" fill="none" stroke="#2e6b62" stroke-width="4"/><circle cx="365" cy="740" r="112" fill="none" stroke="#1e2a44" stroke-width="4"/>
+<text x="80" y="636" font-size="25" font-weight="700" fill="#2e6b62" text-anchor="middle">A</text>
+<text x="520" y="636" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">B</text>
+<text x="165" y="749" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">0.45</text>
+<text x="290" y="749" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">0.10</text>
+<text x="400" y="749" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">0.25</text>
+<text x="510" y="870" font-size="22" font-weight="700" fill="#4a5568" text-anchor="middle">0.20</text>
+<text x="590" y="682" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">P(B | A′)</text>
+<text x="590" y="732" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">= 0.25 / 0.45</text>
+<text x="590" y="780" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">= 5/9</text>
+<text x="590" y="828" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">≈ 0.556</text>
+<rect x="212" y="924" width="476" height="44" rx="22" fill="#1e2a44"/><text x="450" y="954" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Dark gold part ÷ light gold space</text>
+</svg>

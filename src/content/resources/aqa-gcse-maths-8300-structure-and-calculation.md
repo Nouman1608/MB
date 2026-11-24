@@ -259,7 +259,7 @@ The index laws for integer powers are in the [Number study guide](/resources/aqa
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="970" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
   <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
 </figure>
 
@@ -305,7 +305,7 @@ Perimeter = two radii + quarter of circumference
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="900" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
   <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
 </figure>
 

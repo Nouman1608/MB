@@ -68,7 +68,7 @@ Put it into practice with the [practice set](/resources/oxfordaqa-igcse-mathemat
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--06-comparing-groups.webp" width="900" height="1070" alt="Two curves on one grid: teachers have median 26 and IQR 11, students median 30 and IQR about 17. Bars show the middle half of each group. Teachers were faster and more consistent." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--06-comparing-groups.webp" width="900" height="950" alt="Two curves on one grid: teachers have median 26 and IQR 11, students median 30 and IQR about 17. Bars show the middle half of each group. Teachers were faster and more consistent." loading="lazy">
   <figcaption>Compare a lower median (faster) and a smaller IQR (more consistent), in context.</figcaption>
 </figure>
 
@@ -122,22 +122,22 @@ Put it into practice with the [practice set](/resources/oxfordaqa-igcse-mathemat
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="756" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
   <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="770" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="690" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
   <figcaption>Plot each running total at the upper class boundary, start at (0, 0) and join with a smooth curve.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="836" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
   <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--05-time-to-number.webp" width="900" height="918" alt="Starting at 35 minutes and reading up then across gives about 77 students. Starting at 45 gives about 103, so more than 45 minutes is 120 minus 103 = 17 students, about 14%." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--05-time-to-number.webp" width="900" height="856" alt="Starting at 35 minutes and reading up then across gives about 77 students. Starting at 45 gives about 103, so more than 45 minutes is 120 minus 103 = 17 students, about 14%." loading="lazy">
   <figcaption>From a time, go up to the curve then across; for &quot;more than&quot;, subtract from the total.</figcaption>
 </figure>
 
@@ -284,7 +284,7 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="800" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="760" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
   <figcaption>Each running total adds the new class to the total so far, and the last must equal the total frequency.</figcaption>
 </figure>
 

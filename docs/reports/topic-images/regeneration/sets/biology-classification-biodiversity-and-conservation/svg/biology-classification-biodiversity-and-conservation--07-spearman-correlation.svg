@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1014" width="900" height="1014" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1014" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Is there a correlation?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Moss cover against light</text>
+<line x1="124" y1="514" x2="130" y2="514" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="520" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="124" y1="434" x2="130" y2="434" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="440" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">20</text>
+<line x1="124" y1="354" x2="130" y2="354" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="360" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">40</text>
+<line x1="124" y1="274" x2="130" y2="274" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="280" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">60</text>
+<line x1="124" y1="194" x2="130" y2="194" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="200" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">80</text>
+<line x1="130" y1="514" x2="130" y2="521" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="130" y="546" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="280" y1="514" x2="280" y2="521" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="280" y="546" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">10</text>
+<line x1="430" y1="514" x2="430" y2="521" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="430" y="546" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">20</text>
+<line x1="580" y1="514" x2="580" y2="521" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="580" y="546" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">30</text>
+<line x1="730" y1="514" x2="730" y2="521" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="730" y="546" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">40</text>
+<line x1="130" y1="514" x2="130" y2="134" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="130" y1="514" x2="830" y2="514" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<text transform="rotate(-90 38 354)" x="38" y="354" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Moss cover (%)</text>
+<text x="470" y="594" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Light intensity (arbitrary units)</text>
+<line x1="130" y1="218.50615901455768" x2="790" y2="484.83837252706235" stroke="#8a6d0d" stroke-width="3" stroke-dasharray="10 7"/>
+<circle cx="160" cy="234" r="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="205" cy="218" r="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="265" cy="294" r="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="340" cy="322" r="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="430" cy="314" r="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="520" cy="394" r="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="625" cy="426" r="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="745" cy="454" r="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<rect x="120" y="716" width="86.46000000000001" height="72" rx="0" fill="#d3e5ec"/>
+<rect x="693.54" y="716" width="86.46000000000004" height="72" rx="0" fill="#d3e5ec"/>
+<line x1="120" y1="754" x2="780" y2="754" stroke="#1e2a44" stroke-width="3"/>
+<line x1="120" y1="740" x2="120" y2="768" stroke="#1e2a44" stroke-width="3"/>
+<line x1="206.46" y1="740" x2="206.46" y2="768" stroke="#1e2a44" stroke-width="3"/>
+<line x1="450" y1="740" x2="450" y2="768" stroke="#1e2a44" stroke-width="3"/>
+<line x1="693.54" y1="740" x2="693.54" y2="768" stroke="#1e2a44" stroke-width="3"/>
+<line x1="780" y1="740" x2="780" y2="768" stroke="#1e2a44" stroke-width="3"/>
+<text x="120" y="800" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">−1</text>
+<text x="200.46" y="800" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">−0.738</text>
+<text x="450" y="800" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">0</text>
+<text x="693.54" y="800" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">0.738</text>
+<text x="780" y="800" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">+1</text>
+<polygon points="120.84000000000003,704 150.84000000000003,704 135.84000000000003,730" fill="#8a6d0d"/>
+<text x="125.84000000000003" y="692" font-size="23" font-weight="700" fill="#8a6d0d" text-anchor="start">r<tspan baseline-shift="sub" font-size="70%">s</tspan> = −0.952</text>
+<text x="450" y="854" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Shaded = significant (n = 8, p = 0.05)</text>
+<rect x="60" y="894" width="780" height="90" rx="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="450" y="948" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Correlation does not show cause</text>
+</svg>

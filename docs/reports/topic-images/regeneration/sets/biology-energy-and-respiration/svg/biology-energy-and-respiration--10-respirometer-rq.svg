@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1160" width="900" height="1160" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1160" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Respirometer and RQ</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Gas volume = πr² × distance the drop moves</text>
+<rect x="30" y="290" width="620" height="400" rx="16" fill="#e3eeee" stroke="#9fc0bb" stroke-width="2.5" stroke-dasharray="9 7"/>
+<text x="370" y="680" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">water bath</text>
+<path d="M115 300 V230 H390" fill="none" stroke="#1e2a44" stroke-width="8" stroke-linejoin="round"/><path d="M115 300 V230 H390" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round"/>
+<line x1="185" y1="240" x2="185" y2="256" stroke="#1e2a44" stroke-width="2"/>
+<line x1="245" y1="240" x2="245" y2="256" stroke="#1e2a44" stroke-width="2"/>
+<line x1="305" y1="240" x2="305" y2="256" stroke="#1e2a44" stroke-width="2"/>
+<line x1="365" y1="240" x2="365" y2="256" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="360" cy="230" r="9" fill="none" stroke="#1e2a44" stroke-width="2" stroke-dasharray="3 3"/>
+<circle cx="150" cy="230" r="10" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="360" y1="204" x2="174" y2="204" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/><polygon points="146,204 174,187.2 174,220.8" fill="#b5602e"/>
+<text x="255" y="186" font-size="24" font-weight="700" fill="#b5602e" text-anchor="middle">36 mm</text>
+<path d="M70 330 V545 a55 55 0 0 0 110 0 V330" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<path d="M71.5 480 V545 a53.5 53.5 0 0 0 107 0 V480 Z" fill="#f2d4d2"/>
+<line x1="72" y1="478" x2="178" y2="478" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="6 4"/>
+<circle cx="99" cy="462" r="11" fill="#8a6d0d" stroke="#1e2a44" stroke-width="2"/><circle cx="121" cy="462" r="11" fill="#8a6d0d" stroke="#1e2a44" stroke-width="2"/><circle cx="143" cy="462" r="11" fill="#8a6d0d" stroke="#1e2a44" stroke-width="2"/>
+<rect x="60" y="310" width="130" height="20" rx="4" fill="#9aa3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="125" y="656" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">with KOH</text>
+<path d="M545 300 V230 H820" fill="none" stroke="#1e2a44" stroke-width="8" stroke-linejoin="round"/><path d="M545 300 V230 H820" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round"/>
+<line x1="615" y1="240" x2="615" y2="256" stroke="#1e2a44" stroke-width="2"/>
+<line x1="675" y1="240" x2="675" y2="256" stroke="#1e2a44" stroke-width="2"/>
+<line x1="735" y1="240" x2="735" y2="256" stroke="#1e2a44" stroke-width="2"/>
+<line x1="795" y1="240" x2="795" y2="256" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="790" cy="230" r="9" fill="none" stroke="#1e2a44" stroke-width="2" stroke-dasharray="3 3"/>
+<circle cx="740" cy="230" r="10" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="790" y1="204" x2="764" y2="204" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/><polygon points="736,204 764,187.2 764,220.8" fill="#b5602e"/>
+<text x="775" y="186" font-size="24" font-weight="700" fill="#b5602e" text-anchor="middle">9 mm</text>
+<path d="M500 330 V545 a55 55 0 0 0 110 0 V330" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<path d="M501.5 480 V545 a53.5 53.5 0 0 0 107 0 V480 Z" fill="#cfe0ec"/>
+<line x1="502" y1="478" x2="608" y2="478" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="6 4"/>
+<circle cx="529" cy="462" r="11" fill="#8a6d0d" stroke="#1e2a44" stroke-width="2"/><circle cx="551" cy="462" r="11" fill="#8a6d0d" stroke="#1e2a44" stroke-width="2"/><circle cx="573" cy="462" r="11" fill="#8a6d0d" stroke="#1e2a44" stroke-width="2"/>
+<rect x="490" y="310" width="130" height="20" rx="4" fill="#9aa3b0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="555" y="656" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">with water</text>
+<line x1="178" y1="456" x2="246" y2="436" stroke="#1e2a44" stroke-width="2"/>
+<text x="250" y="442" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">seeds on gauze</text>
+<text x="70" y="726" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">KOH absorbs CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5">:</tspan></text><text x="70" y="756" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">drop = O<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">in</tspan></text>
+<text x="500" y="726" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">no absorber:</text><text x="500" y="756" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">drop = O<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">in − CO</tspan><tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">out</tspan></text>
+<rect x="30" y="800" width="840" height="330" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="56" y="848" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">Capillary radius r = 0.50 mm</text>
+<text x="56" y="896" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">O<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">in = πr² × 36 = 28.3 mm³</tspan></text>
+<text x="56" y="946" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">O<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">in − CO</tspan><tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">out = πr² × 9 = 7.07 mm³</tspan></text>
+<text x="56" y="996" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">out = 28.3 − 7.07 = 21.2 mm³</tspan></text>
+<text x="56" y="1058" font-size="28" font-weight="700" fill="#2e6b62" text-anchor="start">RQ = CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">÷ O</tspan><tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">= 21.2 ÷ 28.3 = 0.75</tspan></text>
+<text x="56" y="1102" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">between 0.7 and 1.0: a mixture of lipid and carbohydrate</text>
+</svg>

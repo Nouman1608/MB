@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1090" width="900" height="1090" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1090" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Cholinergic synapse</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">ACh = acetylcholine</text>
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d9a"/></marker>
+<marker id="ahRb" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker>
+<marker id="ahRr" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker></defs><rect x="340" y="148" width="100" height="50" fill="#ddebe9" stroke="#2e6b62" stroke-width="3"/>
+<rect x="100" y="190" width="560" height="290" rx="60" fill="#ddebe9" stroke="#2e6b62" stroke-width="3"/>
+<rect x="343" y="186" width="94" height="10" fill="#ddebe9"/>
+<line x1="390" y1="116" x2="390" y2="178" stroke="#b5402e" stroke-width="4" marker-end="url(#ahRr)"/>
+<circle cx="450" cy="156" r="17" fill="#8a6d0d"/><text x="450" y="163" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="130" y="234" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">Presynaptic knob</text>
+<ellipse cx="190" cy="304" rx="55" ry="30" fill="#f3d2bd" stroke="#c0643a" stroke-width="2.5"/>
+<polyline points="150,308 172,288 192,316 214,290 232,308" fill="none" stroke="#c0643a" stroke-width="2.5"/>
+<text x="108" y="362" font-size="20" font-weight="700" fill="#c0643a" text-anchor="start">Mitochondrion</text>
+<text x="150" y="392" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Vesicles of ACh</text>
+<circle cx="190" cy="435" r="28" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="181" cy="428" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="199" cy="428" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="190" cy="445" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="285" cy="442" r="28" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="276" cy="435" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="294" cy="435" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="285" cy="452" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<path d="M530 480 A30 30 0 0 1 590 480" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="550" cy="457" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="570" cy="457" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="560" cy="470" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="560" cy="404" r="17" fill="#8a6d0d"/><text x="560" y="411" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="378" y="462" width="16" height="36" rx="5" fill="#ddebe9" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="404" y="462" width="16" height="36" rx="5" fill="#ddebe9" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="399" y1="532" x2="399" y2="452" stroke="#c0643a" stroke-width="4" marker-end="url(#ah)"/>
+<circle cx="399" cy="408" r="24" fill="#c0643a" stroke="#1e2a44" stroke-width="2"/><text x="399" y="414" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Ca<tspan font-size="11" dy="-7">2+</tspan></text>
+<circle cx="399" cy="558" r="24" fill="#c0643a" stroke="#1e2a44" stroke-width="2"/><text x="399" y="564" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Ca<tspan font-size="11" dy="-7">2+</tspan></text>
+<circle cx="455" cy="438" r="17" fill="#8a6d0d"/><text x="455" y="445" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="354" y="567" font-size="20" font-weight="700" fill="#c0643a" text-anchor="end">Ca²⁺ channel</text>
+<text x="110" y="508" font-size="20" font-weight="700" fill="#4a5568" text-anchor="start">Synaptic cleft 20 nm</text>
+<circle cx="545" cy="519" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="524" cy="547" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="579" cy="548" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="498" cy="572" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<circle cx="470" cy="582" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<rect x="60" y="640" width="780" height="270" fill="#e7eef7" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="60" y="600" width="780" height="40" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="272" y="588" width="56" height="62" rx="10" fill="#ddebe9" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="300" cy="590" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<line x1="300" y1="654" x2="300" y2="700" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<circle cx="300" cy="726" r="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><text x="300" y="732" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="middle">Na<tspan font-size="11" dy="-7">+</tspan></text>
+<rect x="412" y="588" width="56" height="62" rx="10" fill="#ddebe9" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="440" cy="590" r="7" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.5"/>
+<line x1="440" y1="654" x2="440" y2="700" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<circle cx="440" cy="726" r="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><text x="440" y="732" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="middle">Na<tspan font-size="11" dy="-7">+</tspan></text>
+<circle cx="370" cy="726" r="17" fill="#8a6d0d"/><text x="370" y="733" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="370" y="790" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">ACh receptors = Na⁺ channels</text>
+<path d="M800 560 L770 548 A40 40 0 1 1 772 578 Z" fill="#e8c55e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="868" cy="548" r="17" fill="#8a6d0d"/><text x="868" y="555" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<line x1="810" y1="598" x2="810" y2="672" stroke="#1e2a44" stroke-width="2"/><circle cx="810" cy="672" r="5" fill="#1e2a44"/>
+<text x="820" y="704" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">Acetylcholinesterase</text>
+<text x="820" y="760" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Postsynaptic neurone</text>
+<line x1="636" y1="584" x2="636" y2="432" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)" stroke-dasharray="10 7"/>
+<circle cx="690" cy="438" r="17" fill="#8a6d0d"/><text x="690" y="445" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="656" y="501" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">choline back in</text>
+<circle cx="58" cy="940" r="17" fill="#8a6d0d"/><text x="58" y="947" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="86" y="947" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Action potential reaches the knob</text>
+<circle cx="498" cy="940" r="17" fill="#8a6d0d"/><text x="498" y="947" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="526" y="947" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Ca²⁺ enters through channels</text>
+<circle cx="58" cy="990" r="17" fill="#8a6d0d"/><text x="58" y="997" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="86" y="997" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Vesicles fuse: ACh released</text>
+<circle cx="498" cy="990" r="17" fill="#8a6d0d"/><text x="498" y="997" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="526" y="997" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">ACh binds: Na⁺ in, depolarises</text>
+<circle cx="58" cy="1040" r="17" fill="#8a6d0d"/><text x="58" y="1047" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="86" y="1047" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Enzyme splits ACh</text>
+<circle cx="498" cy="1040" r="17" fill="#8a6d0d"/><text x="498" y="1047" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="526" y="1047" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Choline taken back in</text>
+</svg>

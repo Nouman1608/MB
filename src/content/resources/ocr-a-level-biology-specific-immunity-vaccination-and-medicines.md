@@ -80,7 +80,7 @@ T cells provide the **cell-mediated** response, because the cells themselves act
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--07-hiv-replication.webp" width="900" height="1270" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
   <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ The specificity comes from tertiary structure in the variable region, as with an
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--08-herd-immunity.webp" width="900" height="890" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
   <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ Active immunity is slow to start and long-lasting, because memory cells form. Pa
 An **autoimmune disease** happens when the immune system fails to distinguish self from non-self and attacks the body's own tissues. In **rheumatoid arthritis**, the immune system attacks tissues in the joints, causing inflammation, pain and damage to cartilage. Treatment often uses drugs that suppress immune activity. The cost is a greater risk of infection.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--02-four-diseases.webp" width="900" height="1140" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
   <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
 </figure>
 

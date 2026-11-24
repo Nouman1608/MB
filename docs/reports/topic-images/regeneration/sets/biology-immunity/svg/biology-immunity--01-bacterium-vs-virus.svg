@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1060" width="900" height="1060" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1060" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Bacterium or virus?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Both can cause disease. Only one is a cell.</text>
+<text x="40" y="150" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">Bacterium: a living cell</text>
+<rect x="90" y="176" width="400" height="190" rx="95" fill="#b5d3cf" stroke="#1e2a44" stroke-width="5"/>
+<rect x="104" y="190" width="372" height="162" rx="81" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<path d="M206 236 C230 214 300 222 318 246 C334 270 318 300 288 304 C258 306 240 290 214 292 C194 294 190 252 206 236 Z" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="398" cy="296" r="19" fill="none" stroke="#b5602e" stroke-width="4"/>
+<circle cx="364" cy="218" r="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="420" cy="226" r="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="170" cy="296" r="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="154" cy="318" r="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="186" cy="330" r="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="230" cy="335" r="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="330" cy="325" r="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="460" y1="198" x2="552" y2="208" stroke="#1e2a44" stroke-width="2"/>
+<text x="560" y="214" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Cell wall</text>
+<text x="560" y="244" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">peptidoglycan</text>
+<line x1="348" y1="274" x2="552" y2="268" stroke="#1e2a44" stroke-width="2"/>
+<text x="560" y="274" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Circular DNA</text>
+<text x="560" y="304" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">free in cytoplasm</text>
+<line x1="414" y1="304" x2="552" y2="350" stroke="#1e2a44" stroke-width="2"/>
+<text x="560" y="358" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Plasmid</text>
+<line x1="170" y1="324" x2="170" y2="390" stroke="#1e2a44" stroke-width="2"/>
+<text x="66" y="418" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Ribosomes (70S)</text>
+<text x="40" y="520" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">HIV: not a cell, no cytoplasm</text>
+<line x1="315.82701300335793" y1="612.5913448806386" x2="322.58177025039004" y2="579.2690812340363" stroke="#b5602e" stroke-width="4"/><circle cx="322.58177025039004" cy="579.2690812340363" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="368.5498783460644" y1="636.4146892082739" x2="389.0936926827274" y2="609.3231463858225" stroke="#b5602e" stroke-width="4"/><circle cx="389.0936926827274" cy="609.3231463858225" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="405.71497693129487" y1="680.754374728678" x2="435.97889397486426" y2="665.2593650423323" stroke="#b5602e" stroke-width="4"/><circle cx="435.97889397486426" cy="665.2593650423323" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="419.96130518422217" y1="736.8283829339783" x2="453.95118500163403" y2="735.9988830859419" stroke="#b5602e" stroke-width="4"/><circle cx="453.95118500163403" cy="735.9988830859419" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="408.46720307460396" y1="793.5305687965348" x2="439.4509331095004" y2="807.5308714048593" stroke="#b5602e" stroke-width="4"/><circle cx="439.4509331095004" cy="807.5308714048593" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="373.5092184911617" y1="839.6303689995948" x2="395.35009101961936" y2="865.6875424302581" stroke="#b5602e" stroke-width="4"/><circle cx="395.35009101961936" cy="865.6875424302581" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="322.01120901219144" y1="865.9971527359955" x2="330.38337136922615" y2="898.9502542207944" stroke="#b5602e" stroke-width="4"/><circle cx="330.38337136922615" cy="898.9502542207944" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="264.17298699664207" y1="867.4086551193614" x2="257.41822974960996" y2="900.7309187659637" stroke="#b5602e" stroke-width="4"/><circle cx="257.41822974960996" cy="900.7309187659637" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="211.45012165393558" y1="843.5853107917261" x2="190.9063073172726" y2="870.6768536141775" stroke="#b5602e" stroke-width="4"/><circle cx="190.9063073172726" cy="870.6768536141775" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="174.28502306870513" y1="799.245625271322" x2="144.0211060251357" y2="814.7406349576677" stroke="#b5602e" stroke-width="4"/><circle cx="144.0211060251357" cy="814.7406349576677" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="160.03869481577786" y1="743.1716170660217" x2="126.04881499836594" y2="744.0011169140581" stroke="#b5602e" stroke-width="4"/><circle cx="126.04881499836594" cy="744.0011169140581" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="171.53279692539604" y1="686.4694312034651" x2="140.54906689049963" y2="672.4691285951407" stroke="#b5602e" stroke-width="4"/><circle cx="140.54906689049963" cy="672.4691285951407" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="206.49078150883832" y1="640.3696310004052" x2="184.64990898038064" y2="614.3124575697419" stroke="#b5602e" stroke-width="4"/><circle cx="184.64990898038064" cy="614.3124575697419" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="257.98879098780856" y1="614.0028472640045" x2="249.61662863077385" y2="581.0497457792056" stroke="#b5602e" stroke-width="4"/><circle cx="249.61662863077385" cy="581.0497457792056" r="8" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="290" cy="740" r="130" fill="#dce9e7" stroke="#1e2a44" stroke-width="5"/><circle cx="290" cy="740" r="116" fill="none" stroke="#2e6b62" stroke-width="2.5"/>
+<polygon points="220,668 360,688 322,808 260,808" fill="#ffffff" stroke="#1e2a44" stroke-width="4"/>
+<path d="M252 698 C236 726 266 750 246 782" fill="none" stroke="#2e6b62" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M276 694 C260 722 290 746 270 778" fill="none" stroke="#2e6b62" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="310" cy="708" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="328" cy="735" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="310" cy="762" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="396" y1="610" x2="552" y2="590" stroke="#1e2a44" stroke-width="2"/>
+<text x="560" y="596" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Glycoproteins</text>
+<text x="560" y="626" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">bind host receptors</text>
+<line x1="404" y1="668" x2="552" y2="684" stroke="#1e2a44" stroke-width="2"/>
+<text x="560" y="690" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Envelope</text>
+<text x="560" y="720" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">from the host membrane</text>
+<line x1="336" y1="735" x2="552" y2="762" stroke="#1e2a44" stroke-width="2"/>
+<text x="560" y="768" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Enzymes in capsid</text>
+<text x="560" y="798" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">reverse transcriptase</text>
+<line x1="326" y1="798" x2="552" y2="842" stroke="#1e2a44" stroke-width="2"/>
+<text x="560" y="848" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Capsid (protein coat)</text>
+<line x1="262" y1="776" x2="552" y2="902" stroke="#1e2a44" stroke-width="2"/>
+<text x="560" y="908" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">RNA, two copies</text>
+<text x="40" y="1000" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">HIV is about 120 nm across; the bacterium is about 17 times longer.</text>
+<text x="40" y="1030" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">Not to scale.</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 990" width="900" height="990" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="990" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Root pressure</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Pushing sap up from the root</text>
+<text x="30" y="140" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">Ions pumped in, water follows</text>
+<rect x="500" y="190" width="110" height="360" rx="4" fill="#cfe3ea" stroke="#8a5a2e" stroke-width="4"/>
+<line x1="555" y1="186" x2="555" y2="110" stroke="#1e2a44" stroke-width="5" marker-end="url(#ah)"/>
+<text x="572" y="120" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">pressure</text>
+<rect x="30" y="200" width="280" height="74" rx="14" fill="#dcebe9" stroke="#2a6f97" stroke-width="2.5"/>
+<line x1="60" y1="237" x2="290" y2="237" stroke="#2a6f97" stroke-width="2.5" marker-end="url(#ahT)"/>
+<line x1="310" y1="237" x2="470" y2="237" stroke="#4f5f7f" stroke-width="2"/>
+<circle cx="470" cy="237" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<text x="470" y="244" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">P</text>
+<line x1="486" y1="237" x2="520" y2="237" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<rect x="30" y="288" width="280" height="74" rx="14" fill="#dcebe9" stroke="#2a6f97" stroke-width="2.5"/>
+<line x1="60" y1="325" x2="290" y2="325" stroke="#2a6f97" stroke-width="2.5" marker-end="url(#ahT)"/>
+<line x1="310" y1="325" x2="470" y2="325" stroke="#4f5f7f" stroke-width="2"/>
+<circle cx="470" cy="325" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<text x="470" y="332" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">P</text>
+<line x1="486" y1="325" x2="520" y2="325" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<rect x="30" y="376" width="280" height="74" rx="14" fill="#dcebe9" stroke="#2a6f97" stroke-width="2.5"/>
+<line x1="60" y1="413" x2="290" y2="413" stroke="#2a6f97" stroke-width="2.5" marker-end="url(#ahT)"/>
+<line x1="310" y1="413" x2="470" y2="413" stroke="#4f5f7f" stroke-width="2"/>
+<circle cx="470" cy="413" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<text x="470" y="420" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">P</text>
+<line x1="486" y1="413" x2="520" y2="413" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<rect x="30" y="464" width="280" height="74" rx="14" fill="#dcebe9" stroke="#2a6f97" stroke-width="2.5"/>
+<line x1="60" y1="501" x2="290" y2="501" stroke="#2a6f97" stroke-width="2.5" marker-end="url(#ahT)"/>
+<line x1="310" y1="501" x2="470" y2="501" stroke="#4f5f7f" stroke-width="2"/>
+<circle cx="470" cy="501" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<text x="470" y="508" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">P</text>
+<line x1="486" y1="501" x2="520" y2="501" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<circle cx="530" cy="230" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="560" cy="252" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="590" cy="320" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="540" cy="350" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="575" cy="400" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="535" cy="440" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="580" cy="480" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="560" cy="528" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<circle cx="600" cy="220" r="6" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/>
+<text x="30" y="584" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">cells next to xylem</text>
+<text x="30" y="612" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">P = ion pump (active transport)</text>
+<text x="555" y="584" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">xylem</text>
+<circle cx="670" cy="250" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="670" y="257" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="698" y="257" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">ions pumped in</text>
+<text x="698" y="285" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">(uses ATP)</text>
+<circle cx="670" cy="370" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="670" y="377" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="698" y="377" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">sap: lower ψ</text>
+<circle cx="670" cy="490" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="670" y="497" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="698" y="497" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">water follows</text>
+<text x="698" y="525" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">by osmosis</text>
+<line x1="30" y1="650" x2="870" y2="650" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="30" y="700" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">Evidence</text>
+<rect x="60" y="860" width="330" height="50" fill="#a88e62"/>
+<text x="80" y="894" font-size="20" font-weight="700" fill="#fff" text-anchor="start">soil</text>
+<path d="M150 760 V860 H270 V760" fill="#e6cf9a" stroke="#8a5a2e" stroke-width="3"/>
+<ellipse cx="210" cy="760" rx="60" ry="12" fill="#e6cf9a" stroke="#8a5a2e" stroke-width="3"/>
+<circle cx="200" cy="704" r="7" fill="#3a8fc0" stroke="#3a8fc0" stroke-width="1"/>
+<circle cx="228" cy="690" r="7" fill="#3a8fc0" stroke="#3a8fc0" stroke-width="1"/>
+<circle cx="210" cy="736" r="7" fill="#3a8fc0" stroke="#3a8fc0" stroke-width="1"/>
+<circle cx="184" cy="720" r="7" fill="#3a8fc0" stroke="#3a8fc0" stroke-width="1"/>
+<text x="225" y="950" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">sap oozes from cut stump</text>
+<path d="M520 780 H860 V860 L835 840 L810 860 L785 840 L760 860 L735 840 L710 860 L685 840 L660 860 L635 840 L610 860 L585 840 L560 860 L535 840 L520 855 Z" fill="#a9cfc9" stroke="#1e2a44" stroke-width="3"/>
+<circle cx="585" cy="848" r="9" fill="#3a8fc0" stroke="#3a8fc0" stroke-width="1"/>
+<circle cx="660" cy="848" r="9" fill="#3a8fc0" stroke="#3a8fc0" stroke-width="1"/>
+<circle cx="735" cy="848" r="9" fill="#3a8fc0" stroke="#3a8fc0" stroke-width="1"/>
+<circle cx="810" cy="848" r="9" fill="#3a8fc0" stroke="#3a8fc0" stroke-width="1"/>
+<text x="690" y="950" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">guttation: drops at night</text>
+</svg>

@@ -318,7 +318,7 @@ Test a point that is not on the boundary line, often (0, 0). If it makes the ine
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Section 3.2.3, reference A23.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="850" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
   <figcaption>The region is where all the inequalities are true at once.</figcaption>
 </figure>
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1010" width="900" height="1010" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1010" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Villi in the small intestine</text>
+
+<text x="450" y="112" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Small intestine lining: millions of villi</text>
+<rect x="40" y="250" width="820" height="34" rx="10" fill="#efc4bb" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M62 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M152 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M242 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M332 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M422 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#8a6d0d" stroke-width="4.5"/>
+<path d="M512 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M602 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M692 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M782 252 V178 a30 30 0 0 1 60 0 V252" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="318" font-size="18" font-weight="700" fill="#2e6b62" text-anchor="middle">Large surface area: more glucose is absorbed at once</text>
+<line x1="450" y1="336" x2="450" y2="378" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<text x="464" y="366" font-size="17" font-weight="700" fill="#8a6d0d" text-anchor="start">one villus</text>
+<path d="M180 860 V520 a120 120 0 0 1 240 0 V860" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
+<path d="M202 860 V520 a98 98 0 0 1 196 0 V860" fill="#f2d5c0" stroke="#1e2a44" stroke-width="2"/>
+<path d="M232 880 V520 a68 68 0 0 1 136 0 V880" fill="none" stroke="#b5402e" stroke-width="6"/>
+<line x1="232" y1="570" x2="368" y2="570" stroke="#b5402e" stroke-width="4"/>
+<line x1="232" y1="640" x2="368" y2="640" stroke="#b5402e" stroke-width="4"/>
+<line x1="232" y1="710" x2="368" y2="710" stroke="#b5402e" stroke-width="4"/>
+<line x1="232" y1="780" x2="368" y2="780" stroke="#b5402e" stroke-width="4"/>
+<line x1="232" y1="850" x2="368" y2="850" stroke="#b5402e" stroke-width="4"/>
+<rect x="110" y="860" width="380" height="44" fill="#efc4bb" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="40" y="530" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">gut cavity</text>
+<circle cx="70" cy="580" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="88" y1="580" x2="174" y2="580" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<circle cx="70" cy="660" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="88" y1="660" x2="174" y2="660" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<circle cx="70" cy="740" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="88" y1="740" x2="174" y2="740" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<text x="40" y="800" font-size="16" font-weight="400" fill="#4a5568" text-anchor="start">digested food</text>
+<text x="40" y="822" font-size="16" font-weight="400" fill="#4a5568" text-anchor="start">e.g. glucose</text>
+<line x1="508" y1="590" x2="410" y2="620" stroke="#1e2a44" stroke-width="2"/><circle cx="410" cy="620" r="5" fill="#1e2a44"/>
+<text x="520" y="596" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Wall one cell thick</text>
+<text x="520" y="622" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">short diffusion path</text>
+<line x1="508" y1="700" x2="368" y2="730" stroke="#1e2a44" stroke-width="2"/><circle cx="368" cy="730" r="5" fill="#1e2a44"/>
+<text x="520" y="706" font-size="20" font-weight="700" fill="#b5402e" text-anchor="start">Good capillary network</text>
+<text x="520" y="732" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">carries absorbed food away,</text><text x="520" y="755" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">keeping the gradient steep</text>
+<text x="450" y="980" font-size="16" font-weight="400" fill="#4a5568" text-anchor="middle" font-style="italic">General diagram, schematic, not to scale</text>
+</svg>

@@ -96,7 +96,7 @@ A student writes "Rana Temporaria" in a report. Correct it and explain why the n
 3. The name identifies one species worldwide. A common name such as "frog" could mean many species.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="920" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
   <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
 </figure>
 
@@ -126,12 +126,12 @@ An organism from a pond is unicellular, has a nucleus, 80S ribosomes and chlorop
 3. A unicellular eukaryote that photosynthesises belongs in **Protoctista** (a green alga).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--02-three-domains.webp" width="900" height="1020" alt="A tree splits an ancestor into Bacteria, Archaea and Eukarya. Bacteria and Archaea are cells with no nucleus: Bacteria have a peptidoglycan wall and ester lipids, Archaea no peptidoglycan and ether lipids, with different rRNA. Eukarya holds four kingdoms. Viruses sit outside, classified only by nucleic acid." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-classification-biodiversity-and-conservation--02-three-domains.webp" width="900" height="990" alt="A tree splits an ancestor into Bacteria, Archaea and Eukarya. Bacteria and Archaea are cells with no nucleus: Bacteria have a peptidoglycan wall and ester lipids, Archaea no peptidoglycan and ether lipids, with different rRNA. Eukarya holds four kingdoms. Viruses sit outside, classified only by nucleic acid." loading="lazy">
   <figcaption>Three domains of cells, with viruses outside them.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="980" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
   <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
 </figure>
 
@@ -188,7 +188,7 @@ For P and S: 45 ÷ 250 × 100 = 18.0 % different, so 82.0 % similar.
 Interpretation: P and Q differ least, so they share the most recent common ancestor. R is next closest to both. S differs most from all three, so it branched off earliest.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1180" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
   <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
 </figure>
 
@@ -233,7 +233,7 @@ Evidence for relationships includes fossils and similarities in anatomy, but mol
 Test yourself with the [practice questions](/resources/ocr-a-level-biology-classification-and-taxonomy-practice/), then use the [revision notes](/resources/ocr-a-level-biology-classification-and-taxonomy-revision-notes/) for quick recall. Related content on sampling and species diversity is in [Measuring biodiversity](/resources/ocr-a-level-biology-measuring-biodiversity/).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="970" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
   <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
 </figure>
 

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1230" width="900" height="1230" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1230" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Testing how DNA is copied</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Schematic density gradients</text>
+<defs><marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+<marker id="ahBigT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+<marker id="ahRu" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker></defs><text x="150" y="159" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">Start</text>
+<text x="150" y="191" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle"><tspan font-size="65%" dy="-0.6em">15</tspan><tspan dy="0.39em">N DNA</tspan></text>
+<text x="450" y="159" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">Gen 1</text>
+<text x="450" y="191" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">grown in <tspan font-size="65%" dy="-0.6em">14</tspan><tspan dy="0.39em">N</tspan></text>
+<text x="750" y="159" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">Gen 2</text>
+<text x="750" y="191" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">grown in <tspan font-size="65%" dy="-0.6em">14</tspan><tspan dy="0.39em">N</tspan></text>
+<clipPath id="tb150210"><path d="M105 210 V395 A45 45 0 0 0 195 395 V210 Z"/></clipPath><path d="M105 210 V395 A45 45 0 0 0 195 395 V210" fill="#eef6f8"/><g clip-path="url(#tb150210)"><rect x="105" y="350" width="90" height="38" fill="#1e2a44"/></g><path d="M105 210 V395 A45 45 0 0 0 195 395 V210" fill="none" stroke="#1e2a44" stroke-width="3"/><line x1="97" y1="210" x2="203" y2="210" stroke="#1e2a44" stroke-width="3"/>
+<clipPath id="tb450210"><path d="M405 210 V395 A45 45 0 0 0 495 395 V210 Z"/></clipPath><path d="M405 210 V395 A45 45 0 0 0 495 395 V210" fill="#eef6f8"/><g clip-path="url(#tb450210)"><rect x="405" y="286" width="90" height="38" fill="#4f8189"/></g><path d="M405 210 V395 A45 45 0 0 0 495 395 V210" fill="none" stroke="#1e2a44" stroke-width="3"/><line x1="397" y1="210" x2="503" y2="210" stroke="#1e2a44" stroke-width="3"/>
+<clipPath id="tb750210"><path d="M705 210 V395 A45 45 0 0 0 795 395 V210 Z"/></clipPath><path d="M705 210 V395 A45 45 0 0 0 795 395 V210" fill="#eef6f8"/><g clip-path="url(#tb750210)"><rect x="705" y="230" width="90" height="26" fill="#d4b02e"/><rect x="705" y="294" width="90" height="26" fill="#4f8189"/></g><path d="M705 210 V395 A45 45 0 0 0 795 395 V210" fill="none" stroke="#1e2a44" stroke-width="3"/><line x1="697" y1="210" x2="803" y2="210" stroke="#1e2a44" stroke-width="3"/>
+<line x1="114" y1="482" x2="186" y2="482" stroke="#1e2a44" stroke-width="6" stroke-linecap="round"/>
+<line x1="114" y1="498" x2="186" y2="498" stroke="#1e2a44" stroke-width="6" stroke-linecap="round"/>
+<line x1="414" y1="482" x2="486" y2="482" stroke="#1e2a44" stroke-width="6" stroke-linecap="round"/>
+<line x1="414" y1="498" x2="486" y2="498" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<line x1="414" y1="524" x2="486" y2="524" stroke="#1e2a44" stroke-width="6" stroke-linecap="round"/>
+<line x1="414" y1="540" x2="486" y2="540" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<line x1="660" y1="482" x2="732" y2="482" stroke="#1e2a44" stroke-width="6" stroke-linecap="round"/>
+<line x1="660" y1="498" x2="732" y2="498" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<line x1="660" y1="524" x2="732" y2="524" stroke="#1e2a44" stroke-width="6" stroke-linecap="round"/>
+<line x1="660" y1="540" x2="732" y2="540" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<line x1="760" y1="482" x2="832" y2="482" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<line x1="760" y1="498" x2="832" y2="498" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<line x1="760" y1="524" x2="832" y2="524" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<line x1="760" y1="540" x2="832" y2="540" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<line x1="40" y1="620" x2="90" y2="620" stroke="#1e2a44" stroke-width="6" stroke-linecap="round"/>
+<text x="102" y="628" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start"><tspan font-size="65%" dy="-0.6em">15</tspan><tspan dy="0.39em">N (heavy) strand</tspan></text>
+<line x1="400" y1="620" x2="450" y2="620" stroke="#d4b02e" stroke-width="6" stroke-linecap="round"/>
+<text x="462" y="628" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start"><tspan font-size="65%" dy="-0.6em">14</tspan><tspan dy="0.39em">N (light) strand</tspan></text>
+<text x="40" y="668" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Observed: Gen 1 one middle band; Gen 2 middle + light</text>
+<rect x="30" y="695" width="840" height="500" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="737" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">Which model fits?</text>
+<text x="380" y="778" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Gen 1</text>
+<text x="512" y="778" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Gen 2</text>
+<text x="50" y="868" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Semi-conservative</text>
+<clipPath id="tb380800"><path d="M352 800 V880 A28 28 0 0 0 408 880 V800 Z"/></clipPath><path d="M352 800 V880 A28 28 0 0 0 408 880 V800" fill="#eef6f8"/><g clip-path="url(#tb380800)"><rect x="352" y="824" width="56" height="38" fill="#4f8189"/></g><path d="M352 800 V880 A28 28 0 0 0 408 880 V800" fill="none" stroke="#1e2a44" stroke-width="2.5"/><line x1="344" y1="800" x2="416" y2="800" stroke="#1e2a44" stroke-width="2.5"/>
+<clipPath id="tb512800"><path d="M484 800 V880 A28 28 0 0 0 540 880 V800 Z"/></clipPath><path d="M484 800 V880 A28 28 0 0 0 540 880 V800" fill="#eef6f8"/><g clip-path="url(#tb512800)"><rect x="484" y="818" width="56" height="12" fill="#d4b02e"/><rect x="484" y="832" width="56" height="26" fill="#4f8189"/></g><path d="M484 800 V880 A28 28 0 0 0 540 880 V800" fill="none" stroke="#1e2a44" stroke-width="2.5"/><line x1="476" y1="800" x2="548" y2="800" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M428 860 l12 14 l24 -30" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M560 860 l12 14 l24 -30" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="626" y="860" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">fits both</text>
+<text x="50" y="994" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Conservative</text>
+<clipPath id="tb380926"><path d="M352 926 V1006 A28 28 0 0 0 408 1006 V926 Z"/></clipPath><path d="M352 926 V1006 A28 28 0 0 0 408 1006 V926" fill="#eef6f8"/><g clip-path="url(#tb380926)"><rect x="352" y="944" width="56" height="20" fill="#d4b02e"/><rect x="352" y="964" width="56" height="26" fill="#1e2a44"/></g><path d="M352 926 V1006 A28 28 0 0 0 408 1006 V926" fill="none" stroke="#1e2a44" stroke-width="2.5"/><line x1="344" y1="926" x2="416" y2="926" stroke="#1e2a44" stroke-width="2.5"/>
+<clipPath id="tb512926"><path d="M484 926 V1006 A28 28 0 0 0 540 1006 V926 Z"/></clipPath><path d="M484 926 V1006 A28 28 0 0 0 540 1006 V926" fill="#eef6f8"/><g clip-path="url(#tb512926)"><rect x="484" y="936" width="56" height="28" fill="#d4b02e"/><rect x="484" y="964" width="56" height="20" fill="#1e2a44"/></g><path d="M484 926 V1006 A28 28 0 0 0 540 1006 V926" fill="none" stroke="#1e2a44" stroke-width="2.5"/><line x1="476" y1="926" x2="548" y2="926" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M431 965 l30 30 M461 965 l-30 30" fill="none" stroke="#c0643a" stroke-width="5" stroke-linecap="round"/>
+<path d="M563 965 l30 30 M593 965 l-30 30" fill="none" stroke="#c0643a" stroke-width="5" stroke-linecap="round"/>
+<text x="626" y="986" font-size="20" font-weight="700" fill="#c0643a" text-anchor="start">ruled out at Gen 1</text>
+<text x="50" y="1120" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Dispersive</text>
+<clipPath id="tb3801052"><path d="M352 1052 V1132 A28 28 0 0 0 408 1132 V1052 Z"/></clipPath><path d="M352 1052 V1132 A28 28 0 0 0 408 1132 V1052" fill="#eef6f8"/><g clip-path="url(#tb3801052)"><rect x="352" y="1076" width="56" height="38" fill="#4f8189"/></g><path d="M352 1052 V1132 A28 28 0 0 0 408 1132 V1052" fill="none" stroke="#1e2a44" stroke-width="2.5"/><line x1="344" y1="1052" x2="416" y2="1052" stroke="#1e2a44" stroke-width="2.5"/>
+<clipPath id="tb5121052"><path d="M484 1052 V1132 A28 28 0 0 0 540 1132 V1052 Z"/></clipPath><path d="M484 1052 V1132 A28 28 0 0 0 540 1132 V1052" fill="#eef6f8"/><g clip-path="url(#tb5121052)"><rect x="484" y="1072" width="56" height="38" fill="#4f8189"/></g><path d="M484 1052 V1132 A28 28 0 0 0 540 1132 V1052" fill="none" stroke="#1e2a44" stroke-width="2.5"/><line x1="476" y1="1052" x2="548" y2="1052" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M428 1112 l12 14 l24 -30" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M563 1091 l30 30 M593 1091 l-30 30" fill="none" stroke="#c0643a" stroke-width="5" stroke-linecap="round"/>
+<text x="626" y="1112" font-size="20" font-weight="700" fill="#c0643a" text-anchor="start">ruled out at Gen 2</text>
+</svg>

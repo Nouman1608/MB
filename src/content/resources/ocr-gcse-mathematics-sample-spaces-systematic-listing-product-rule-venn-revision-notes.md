@@ -80,7 +80,7 @@ The grid has 3 × 4 = 12 cells. Products: 1 gives 2, 4, 6, 8. 3 gives 6, 12, 18,
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-probability--05-conditional-table.webp" width="900" height="670" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
   <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-probability--04-conditional-venn.webp" width="900" height="760" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
   <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
 </figure>
 

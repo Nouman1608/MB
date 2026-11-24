@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" width="900" height="1080" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1080" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Built to carry water</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">A xylem vessel, cut lengthways</text>
+<text x="380" y="170" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">To the leaf</text>
+<rect x="330" y="200" width="150" height="800" fill="#e3f1f7"/>
+<rect x="280" y="200" width="50" height="800" rx="0" fill="#dfa46d" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="218" x2="318" y2="218" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="246" x2="318" y2="246" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="274" x2="318" y2="274" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="302" x2="318" y2="302" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="330" x2="318" y2="330" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="358" x2="318" y2="358" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="386" x2="318" y2="386" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="414" x2="318" y2="414" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="442" x2="318" y2="442" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="470" x2="318" y2="470" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="498" x2="318" y2="498" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="526" x2="318" y2="526" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="554" x2="318" y2="554" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="582" x2="318" y2="582" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="610" x2="318" y2="610" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="638" x2="318" y2="638" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="666" x2="318" y2="666" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="694" x2="318" y2="694" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="722" x2="318" y2="722" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="750" x2="318" y2="750" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="778" x2="318" y2="778" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="806" x2="318" y2="806" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="834" x2="318" y2="834" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="862" x2="318" y2="862" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="890" x2="318" y2="890" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="918" x2="318" y2="918" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="946" x2="318" y2="946" stroke="#b5602e" stroke-width="3"/>
+<line x1="292" y1="974" x2="318" y2="974" stroke="#b5602e" stroke-width="3"/>
+<rect x="480" y="200" width="50" height="800" rx="0" fill="#dfa46d" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="218" x2="518" y2="218" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="246" x2="518" y2="246" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="274" x2="518" y2="274" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="302" x2="518" y2="302" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="330" x2="518" y2="330" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="358" x2="518" y2="358" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="386" x2="518" y2="386" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="414" x2="518" y2="414" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="442" x2="518" y2="442" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="470" x2="518" y2="470" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="498" x2="518" y2="498" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="526" x2="518" y2="526" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="554" x2="518" y2="554" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="582" x2="518" y2="582" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="610" x2="518" y2="610" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="638" x2="518" y2="638" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="666" x2="518" y2="666" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="694" x2="518" y2="694" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="722" x2="518" y2="722" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="750" x2="518" y2="750" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="778" x2="518" y2="778" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="806" x2="518" y2="806" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="834" x2="518" y2="834" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="862" x2="518" y2="862" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="890" x2="518" y2="890" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="918" x2="518" y2="918" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="946" x2="518" y2="946" stroke="#b5602e" stroke-width="3"/>
+<line x1="492" y1="974" x2="518" y2="974" stroke="#b5602e" stroke-width="3"/>
+<line x1="280" y1="400" x2="530" y2="400" stroke="#1e2a44" stroke-width="3" stroke-dasharray="4 4"/>
+<line x1="280" y1="600" x2="530" y2="600" stroke="#1e2a44" stroke-width="3" stroke-dasharray="4 4"/>
+<line x1="280" y1="800" x2="530" y2="800" stroke="#1e2a44" stroke-width="3" stroke-dasharray="4 4"/>
+<line x1="380" y1="960" x2="380" y2="240" stroke="#2e6b62" stroke-width="7" marker-end="url(#ahT)"/>
+<circle cx="350" cy="300" r="12" fill="#a9d0e4" stroke="#2a6f97" stroke-width="2.5"/>
+<circle cx="420" cy="250" r="12" fill="#a9d0e4" stroke="#2a6f97" stroke-width="2.5"/>
+<circle cx="350" cy="470" r="12" fill="#a9d0e4" stroke="#2a6f97" stroke-width="2.5"/>
+<circle cx="420" cy="380" r="12" fill="#a9d0e4" stroke="#2a6f97" stroke-width="2.5"/>
+<circle cx="350" cy="650" r="12" fill="#a9d0e4" stroke="#2a6f97" stroke-width="2.5"/>
+<circle cx="420" cy="560" r="12" fill="#a9d0e4" stroke="#2a6f97" stroke-width="2.5"/>
+<circle cx="420" cy="760" r="12" fill="#a9d0e4" stroke="#2a6f97" stroke-width="2.5"/>
+<circle cx="350" cy="840" r="12" fill="#a9d0e4" stroke="#2a6f97" stroke-width="2.5"/>
+<text x="380" y="1046" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">From the root</text>
+<line x1="505" y1="330" x2="572" y2="330" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="505" cy="330" r="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="590" cy="330" r="16" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/><text x="590" y="337" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="616" y="338" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Thick walls with lignin</text>
+<text x="616" y="374" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">strong: no collapse,</text><text x="616" y="402" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">supports the plant</text>
+<line x1="440" y1="560" x2="572" y2="560" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="440" cy="560" r="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="590" cy="560" r="16" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/><text x="590" y="567" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="616" y="568" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">No cell contents</text>
+<text x="616" y="604" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">nothing blocks the</text><text x="616" y="632" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">flow of water</text>
+<line x1="530" y1="800" x2="572" y2="800" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="530" cy="800" r="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="590" cy="800" r="16" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/><text x="590" y="807" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="616" y="808" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Cells joined end to end</text>
+<text x="616" y="844" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">no cross walls: one long</text><text x="616" y="872" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">tube from root to leaf</text>
+<text x="616" y="960" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">Dotted line: where one cell</text><text x="616" y="986" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">ended and the next began</text>
+</svg>

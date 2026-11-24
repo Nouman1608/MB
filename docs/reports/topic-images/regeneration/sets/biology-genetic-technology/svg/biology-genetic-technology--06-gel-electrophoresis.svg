@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1020" width="900" height="1020" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1020" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Gel electrophoresis</text>
+
+<defs><marker id="ahRu" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker>
+<marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker></defs><rect x="20" y="160" width="860" height="708" rx="14" fill="#e7edf5" stroke="#1e2a44" stroke-width="3.5"/>
+<text x="170" y="145" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Ladder</text>
+<rect x="120" y="180" width="100" height="20" rx="4" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="360" y="145" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Uncut</text>
+<rect x="310" y="180" width="100" height="20" rx="4" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="550" y="145" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Linear cut</text>
+<rect x="500" y="180" width="100" height="20" rx="4" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="740" y="145" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Circle cut</text>
+<rect x="690" y="180" width="100" height="20" rx="4" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="850" y="200" font-size="32" font-weight="700" fill="#c0643a" text-anchor="middle">−</text>
+<text x="850" y="851" font-size="32" font-weight="700" fill="#2e6b62" text-anchor="middle">+</text>
+<rect x="120" y="308" width="100" height="12" rx="4" fill="#4a5a78"/>
+<text x="112" y="322" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">6000</text>
+<rect x="120" y="422" width="100" height="12" rx="4" fill="#4a5a78"/>
+<text x="112" y="436" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">3000</text>
+<rect x="120" y="536" width="100" height="12" rx="4" fill="#4a5a78"/>
+<text x="112" y="550" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">1500</text>
+<rect x="120" y="602.6857250822118" width="100" height="12" rx="4" fill="#4a5a78"/>
+<text x="112" y="616.6857250822118" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">1000</text>
+<rect x="120" y="716.6857250822118" width="100" height="12" rx="4" fill="#4a5a78"/>
+<text x="112" y="730.6857250822118" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">500</text>
+<rect x="120" y="830.6857250822118" width="100" height="12" rx="4" fill="#4a5a78"/>
+<text x="112" y="844.6857250822118" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">250</text>
+<rect x="310" y="308" width="100" height="12" rx="4" fill="#2e6b62"/>
+<text x="418" y="322" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">6000</text>
+<rect x="500" y="406.3245982925074" width="100" height="12" rx="4" fill="#2e6b62"/>
+<text x="608" y="420.3245982925074" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">3300</text>
+<rect x="500" y="536" width="100" height="12" rx="4" fill="#2e6b62"/>
+<text x="608" y="550" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">1500</text>
+<rect x="500" y="572.6998028171593" width="100" height="12" rx="4" fill="#2e6b62"/>
+<text x="608" y="586.6998028171593" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">1200</text>
+<rect x="690" y="439.3283526527357" width="100" height="12" rx="4" fill="#2e6b62"/>
+<text x="798" y="453.3283526527357" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">2700</text>
+<rect x="690" y="465.6994649088716" width="100" height="12" rx="4" fill="#2e6b62"/>
+<text x="798" y="479.6994649088716" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">2300</text>
+<line x1="265" y1="250" x2="265" y2="805" stroke="#2e6b62" stroke-width="4"/>
+<polygon points="265,836 248,802 282,802" fill="#2e6b62"/>
+<text x="450" y="908" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">DNA is negative: wells at −, runs to +</text>
+<text x="450" y="944" font-size="20" font-weight="700" fill="#4a5568" text-anchor="middle">Smaller fragments go further (sizes in bp)</text>
+<text x="450" y="990" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">Line cut n times: n + 1 pieces. Circle cut n times: n pieces.</text>
+</svg>

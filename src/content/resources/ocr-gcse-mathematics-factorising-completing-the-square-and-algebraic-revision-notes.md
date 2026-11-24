@@ -132,7 +132,7 @@ Try 5x² + 20x + 1 yourself. The answer is in the self-test.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="830" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
   <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
 </figure>
 
@@ -173,7 +173,7 @@ You may leave the denominator factorised. Do not expand it unless asked.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="980" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
   <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ You may leave the denominator factorised. Do not expand it unless asked.
 | Simplify and write as a single fraction | Simplify means cancel. Single fraction means combine |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1090" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
   <figcaption>Factorise, then cancel whole brackets only.</figcaption>
 </figure>
 

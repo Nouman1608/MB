@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1220" width="900" height="1220" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1220" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Mitosis or meiosis?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Example cell with 4 chromosomes</text>
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker></defs><circle cx="450" cy="210" r="102" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="402" y="175" width="18" height="70" rx="9" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="428" y="175" width="18" height="70" rx="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><rect x="454" y="189" width="18" height="42" rx="9" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="480" y="189" width="18" height="42" rx="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="580" y="190" font-size="21" font-weight="400" fill="#4a5568" text-anchor="start">Same-length rods</text>
+<text x="580" y="220" font-size="21" font-weight="400" fill="#4a5568" text-anchor="start">form a pair</text>
+<text x="450" y="331" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">diploid parent cell</text>
+<line x1="390" y1="360" x2="236" y2="404" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ahN)"/>
+<line x1="510" y1="360" x2="664" y2="404" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ahN)"/>
+<rect x="106" y="424" width="240" height="56" rx="28" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="226" y="462" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">Mitosis</text>
+<rect x="556" y="424" width="240" height="56" rx="28" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="676" y="462" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">Meiosis</text>
+<line x1="450" y1="500" x2="450" y2="840" stroke="#c9d3d3" stroke-width="2.5" stroke-dasharray="3 7"/>
+<circle cx="121" cy="598" r="78" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="82.6" y="570" width="14.4" height="56" rx="7.2" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="103.39999999999999" y="570" width="14.4" height="56" rx="7.2" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><rect x="124.2" y="581.2" width="14.4" height="33.6" rx="7.2" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="145" y="581.2" width="14.4" height="33.6" rx="7.2" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="331" cy="598" r="78" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="292.6" y="570" width="14.4" height="56" rx="7.2" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="313.40000000000003" y="570" width="14.4" height="56" rx="7.2" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><rect x="334.20000000000005" y="581.2" width="14.4" height="33.6" rx="7.2" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="355.00000000000006" y="581.2" width="14.4" height="33.6" rx="7.2" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="226" y="719" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">2 identical cells</text>
+<text x="226" y="753" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">still 4 chromosomes</text>
+<circle cx="570" cy="564" r="56" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="553.5" y="537.75" width="13.5" height="52.5" rx="6.75" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="573" y="548.25" width="13.5" height="31.5" rx="6.75" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="780" cy="564" r="56" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="763.5" y="537.75" width="13.5" height="52.5" rx="6.75" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><rect x="783" y="548.25" width="13.5" height="31.5" rx="6.75" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="570" cy="693" r="56" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="553.5" y="666.75" width="13.5" height="52.5" rx="6.75" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="573" y="677.25" width="13.5" height="31.5" rx="6.75" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="780" cy="693" r="56" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="763.5" y="666.75" width="13.5" height="52.5" rx="6.75" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><rect x="783" y="677.25" width="13.5" height="31.5" rx="6.75" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="676" y="777" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">4 different cells</text>
+<text x="676" y="812" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">only 2 chromosomes each</text>
+<text x="245" y="876" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">Growth, repair,</text>
+<text x="245" y="908" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">replacement,</text>
+<text x="245" y="940" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">asexual reproduction</text>
+<text x="676" y="876" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">Makes gametes</text>
+<text x="676" y="908" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">Halves the number:</text>
+<text x="676" y="940" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">diploid to haploid</text>
+<rect x="30" y="976" width="840" height="214" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="1016" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Fertilisation restores the number</text>
+<circle cx="140" cy="1090" r="44" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="126.79999999999998" y="1069" width="10.799999999999999" height="42" rx="5.3999999999999995" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="142.39999999999998" y="1077.4" width="10.799999999999999" height="25.2" rx="5.3999999999999995" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="210" y="1097" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="middle">+</text>
+<circle cx="280" cy="1090" r="44" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="266.8" y="1069" width="10.799999999999999" height="42" rx="5.3999999999999995" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><rect x="282.40000000000003" y="1077.4" width="10.799999999999999" height="25.2" rx="5.3999999999999995" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="210" y="1156" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">gametes</text>
+<line x1="344" y1="1090" x2="470" y2="1090" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ahN)"/>
+<circle cx="545" cy="1090" r="58" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/><rect x="516.2" y="1069" width="10.799999999999999" height="42" rx="5.3999999999999995" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="531.8000000000001" y="1069" width="10.799999999999999" height="42" rx="5.3999999999999995" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><rect x="547.4000000000001" y="1077.4" width="10.799999999999999" height="25.2" rx="5.3999999999999995" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/><rect x="563" y="1077.4" width="10.799999999999999" height="25.2" rx="5.3999999999999995" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="545" y="1174" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">zygote</text>
+<text x="780" y="1075" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">23 + 23</text>
+<text x="780" y="1112" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">= 46</text>
+<text x="780" y="1150" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">in humans</text>
+</svg>

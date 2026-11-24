@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 870" width="900" height="870" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="870" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Elevation and depression</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Both angles are measured from the horizontal</text>
+<rect x="40" y="620" width="820" height="8" fill="#c9d6d4"/>
+<rect x="650" y="241.8" width="55" height="378.2" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
+<line x1="130.0" y1="241.8" x2="650.0" y2="241.8" stroke="#4a5a78" stroke-width="2.5" stroke-dasharray="10 7" stroke-linecap="round"/>
+<line x1="130.0" y1="620.0" x2="650.0" y2="620.0" stroke="#4a5a78" stroke-width="2.5" stroke-dasharray="10 7" stroke-linecap="round"/>
+<line x1="130.0" y1="620.0" x2="650.0" y2="241.8" stroke="#c0643a" stroke-width="4" stroke-linecap="round"/>
+<path d="M250.0 620.0 A120 120 0 0 0 227.0 549.4" fill="none" stroke="#2e6b62" stroke-width="3.5"/>
+<path d="M520.0 241.8 A130 130 0 0 0 544.9 318.3" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<line x1="130" y1="616" x2="130" y2="584" stroke="#1e2a44" stroke-width="5"/><circle cx="130" cy="568" r="14" fill="#1e2a44"/>
+<text x="276" y="572" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">36.0°</text>
+<text x="444" y="306" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="start">36.0°</text>
+<text x="140" y="225" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="start">Angle of depression</text>
+<text x="60" y="677" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Angle of elevation</text>
+<text x="720" y="440" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">40 m</text>
+<path d="M130 708 v24 M130 720 H650 M650 708 v24" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="390" y="702" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">55 m</text>
+<text x="455" y="790" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">tan x = 40 ÷ 55 so x = 36.0°</text>
+<text x="450" y="835" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">Alternate angles: depression = elevation</text>
+</svg>

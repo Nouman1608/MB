@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1275" width="900" height="1275" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1275" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Single and double circulation</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Schematic, not to scale</text>
+<text x="450" y="168" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">Fish: single circulation</text>
+<rect x="60" y="318" width="180" height="110" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<text x="150" y="382" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Heart</text>
+<rect x="360" y="222" width="180" height="72" rx="14" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="267" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Gills</text>
+<rect x="660" y="318" width="180" height="110" rx="14" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3"/>
+<text x="750" y="382" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Body</text>
+<path d="M150 318 V258 H340" fill="none" stroke="#2e6b62" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="330" y1="258" x2="352" y2="258" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<path d="M540 258 H750 V300" fill="none" stroke="#b5602e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="750" y1="290" x2="750" y2="314" stroke="#b5602e" stroke-width="4" marker-end="url(#ahR)"/>
+<path d="M750 428 V494 H150 V450" fill="none" stroke="#2e6b62" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="150" y1="460" x2="150" y2="434" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<text x="450" y="334" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">Pressure drops in the gills,</text><text x="450" y="362" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">so blood reaches body slowly</text>
+<text x="450" y="540" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Heart is passed once per circuit</text>
+<line x1="30" y1="592" x2="870" y2="592" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="450" y="644" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">Mammal: double circulation</text>
+<rect x="250" y="694" width="400" height="76" rx="14" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="741" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Lungs</text>
+<rect x="250" y="856" width="198" height="136" rx="14" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
+<rect x="452" y="856" width="198" height="136" rx="14" fill="#f2cdb4" stroke="#1e2a44" stroke-width="3"/>
+<text x="349" y="916" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Right side</text><text x="349" y="946" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">of heart</text>
+<text x="551" y="916" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Left side</text><text x="551" y="946" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">of heart</text>
+<rect x="250" y="1066" width="400" height="76" rx="14" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="1113" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Body organs</text>
+<line x1="330" y1="854" x2="330" y2="774" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<line x1="570" y1="772" x2="570" y2="852" stroke="#b5602e" stroke-width="4" marker-end="url(#ahR)"/>
+<line x1="330" y1="1064" x2="330" y2="996" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<line x1="570" y1="994" x2="570" y2="1062" stroke="#b5602e" stroke-width="4" marker-end="url(#ahR)"/>
+<text x="300" y="802" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Pulmonary artery</text>
+<text x="600" y="802" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Pulmonary vein</text>
+<text x="450" y="806" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Pulmonary</text><text x="450" y="832" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">circulation</text>
+<text x="300" y="1010" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Vena cava</text>
+<text x="600" y="1010" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Aorta</text>
+<text x="600" y="1038" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">high pressure</text>
+<text x="450" y="1022" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Systemic</text><text x="450" y="1048" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">circulation</text>
+<text x="450" y="1192" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Passes through the heart twice per circuit</text>
+<line x1="60" y1="1236" x2="130" y2="1236" stroke="#b5602e" stroke-width="6"/>
+<text x="146" y="1243" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">oxygenated blood</text>
+<line x1="480" y1="1236" x2="550" y2="1236" stroke="#2e6b62" stroke-width="6"/>
+<text x="566" y="1243" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">deoxygenated blood</text>
+</svg>

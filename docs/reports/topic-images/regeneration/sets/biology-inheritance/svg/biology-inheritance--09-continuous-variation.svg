@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1115" width="900" height="1115" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1115" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Many genes give continuous variation</text>
+
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker></defs><text x="450" y="92" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">count the capital letters (alleles that add 1 unit)</text>
+<text x="40" y="208" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">1 gene</text>
+<text x="40" y="242" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">3 classes</text>
+<rect x="465" y="230.0" width="54" height="60.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="492" y="220" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<rect x="523" y="170.0" width="54" height="120.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="550" y="160" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">2</text>
+<rect x="581" y="230.0" width="54" height="60.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="608" y="220" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="451" y1="290" x2="649" y2="290" stroke="#1e2a44" stroke-width="3"/>
+<text x="40" y="418" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">2 genes</text>
+<text x="40" y="452" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">5 classes</text>
+<rect x="407" y="480.0" width="54" height="20.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="434" y="470" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<rect x="465" y="420.0" width="54" height="80.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="492" y="410" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">4</text>
+<rect x="523" y="380.0" width="54" height="120.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="550" y="370" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="581" y="420.0" width="54" height="80.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="608" y="410" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">4</text>
+<rect x="639" y="480.0" width="54" height="20.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="666" y="470" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="393" y1="500" x2="707" y2="500" stroke="#1e2a44" stroke-width="3"/>
+<text x="40" y="628" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">3 genes</text>
+<text x="40" y="662" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">7 classes</text>
+<rect x="349" y="704.0" width="54" height="6.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="376" y="694" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<rect x="407" y="674.0" width="54" height="36.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="434" y="664" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="465" y="620.0" width="54" height="90.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="492" y="610" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<rect x="523" y="590.0" width="54" height="120.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="550" y="580" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">20</text>
+<rect x="581" y="620.0" width="54" height="90.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="608" y="610" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<rect x="639" y="674.0" width="54" height="36.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="666" y="664" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="697" y="704.0" width="54" height="6.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="724" y="694" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="335" y1="710" x2="765" y2="710" stroke="#1e2a44" stroke-width="3"/>
+<polyline points="376.0,704.0 434.0,674.0 492.0,620.0 550.0,590.0 608.0,620.0 666.0,674.0 724.0,704.0" fill="none" stroke="#8a6d0d" stroke-width="4" stroke-linejoin="round"/>
+<text x="40" y="838" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">5 genes</text>
+<text x="40" y="872" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">11 classes</text>
+<rect x="233" y="919.5" width="54" height="0.5" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="291" y="915.2" width="54" height="4.8" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="349" y="898.6" width="54" height="21.4" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="407" y="862.9" width="54" height="57.1" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="465" y="820.0" width="54" height="100.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="523" y="800.0" width="54" height="120.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="581" y="820.0" width="54" height="100.0" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="639" y="862.9" width="54" height="57.1" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="697" y="898.6" width="54" height="21.4" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="755" y="915.2" width="54" height="4.8" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="813" y="919.5" width="54" height="0.5" fill="#6fa7a0" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="219" y1="920" x2="881" y2="920" stroke="#1e2a44" stroke-width="3"/>
+<polyline points="260.0,919.5 318.0,915.2 376.0,898.6 434.0,862.9 492.0,820.0 550.0,800.0 608.0,820.0 666.0,862.9 724.0,898.6 782.0,915.2 840.0,919.5" fill="none" stroke="#8a6d0d" stroke-width="4" stroke-linejoin="round"/>
+<text x="450" y="1000" font-size="29" font-weight="700" fill="#1e2a44" text-anchor="middle">n genes → 2n + 1 classes</text>
+<text x="450" y="1044" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">more genes + environment → a smooth bell-shaped curve</text>
+<text x="450" y="1084" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">gold line joins the tops of the bars</text>
+</svg>

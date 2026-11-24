@@ -51,12 +51,12 @@ These notes condense topic P1.2 (Changes of state, statements P1.2a to P1.2f) of
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-thermal-physics--01-particle-states.webp" width="900" height="980" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
   <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
   <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ These notes condense topic P1.2 (Changes of state, statements P1.2a to P1.2f) of
 - Flat boiling section is longer than the flat melting section for the same sample.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-thermal-physics--03-heating-curve.webp" width="900" height="890" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
   <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
 </figure>
 

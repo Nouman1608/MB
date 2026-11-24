@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1056" width="900" height="1056" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1056" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Antibiotics select resistant bacteria</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Each dose kills 90% of susceptible cells</text>
+<rect x="30" y="120" width="250" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="66" y="190" width="48" height="20" rx="10" transform="rotate(20 90 200)" fill="#fff" stroke="#2e6b62" stroke-width="3"/>
+<rect x="156" y="170" width="48" height="20" rx="10" transform="rotate(-15 180 180)" fill="#fff" stroke="#2e6b62" stroke-width="3"/>
+<rect x="221" y="190" width="48" height="20" rx="10" transform="rotate(30 245 200)" fill="#fff" stroke="#2e6b62" stroke-width="3"/>
+<rect x="61" y="250" width="48" height="20" rx="10" transform="rotate(-10 85 260)" fill="#fff" stroke="#2e6b62" stroke-width="3"/>
+<rect x="161" y="230" width="48" height="20" rx="10" transform="rotate(15 185 240)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="221" y="255" width="48" height="20" rx="10" transform="rotate(-20 245 265)" fill="#fff" stroke="#2e6b62" stroke-width="3"/>
+<rect x="106" y="280" width="48" height="20" rx="10" transform="rotate(10 130 290)" fill="#fff" stroke="#2e6b62" stroke-width="3"/>
+<rect x="186" y="290" width="48" height="20" rx="10" transform="rotate(25 210 300)" fill="#fff" stroke="#2e6b62" stroke-width="3"/>
+<text x="155" y="410" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Rare mutant present</text>
+<line x1="284" y1="245" x2="326" y2="245" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="330" y="120" width="250" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="366" y="190" width="48" height="20" rx="10" transform="rotate(20 390 200)" fill="#fff" stroke="#2e6b62" stroke-width="3"/><path d="M377 187 l26 26 M403 187 l-26 26" stroke="#b5602e" stroke-width="4.5" stroke-linecap="round"/>
+<rect x="456" y="170" width="48" height="20" rx="10" transform="rotate(-15 480 180)" fill="#fff" stroke="#2e6b62" stroke-width="3"/><path d="M467 167 l26 26 M493 167 l-26 26" stroke="#b5602e" stroke-width="4.5" stroke-linecap="round"/>
+<rect x="521" y="190" width="48" height="20" rx="10" transform="rotate(30 545 200)" fill="#fff" stroke="#2e6b62" stroke-width="3"/><path d="M532 187 l26 26 M558 187 l-26 26" stroke="#b5602e" stroke-width="4.5" stroke-linecap="round"/>
+<rect x="361" y="250" width="48" height="20" rx="10" transform="rotate(-10 385 260)" fill="#fff" stroke="#2e6b62" stroke-width="3"/><path d="M372 247 l26 26 M398 247 l-26 26" stroke="#b5602e" stroke-width="4.5" stroke-linecap="round"/>
+<rect x="461" y="230" width="48" height="20" rx="10" transform="rotate(15 485 240)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="521" y="255" width="48" height="20" rx="10" transform="rotate(-20 545 265)" fill="#fff" stroke="#2e6b62" stroke-width="3"/><path d="M532 252 l26 26 M558 252 l-26 26" stroke="#b5602e" stroke-width="4.5" stroke-linecap="round"/>
+<rect x="406" y="280" width="48" height="20" rx="10" transform="rotate(10 430 290)" fill="#fff" stroke="#2e6b62" stroke-width="3"/><path d="M417 277 l26 26 M443 277 l-26 26" stroke="#b5602e" stroke-width="4.5" stroke-linecap="round"/>
+<rect x="486" y="290" width="48" height="20" rx="10" transform="rotate(25 510 300)" fill="#fff" stroke="#2e6b62" stroke-width="3"/><path d="M497 287 l26 26 M523 287 l-26 26" stroke="#b5602e" stroke-width="4.5" stroke-linecap="round"/>
+<text x="455" y="410" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Antibiotic kills most</text>
+<line x1="584" y1="245" x2="626" y2="245" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="630" y="120" width="250" height="250" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<rect x="666" y="190" width="48" height="20" rx="10" transform="rotate(20 690 200)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="756" y="170" width="48" height="20" rx="10" transform="rotate(-15 780 180)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="821" y="190" width="48" height="20" rx="10" transform="rotate(30 845 200)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="661" y="250" width="48" height="20" rx="10" transform="rotate(-10 685 260)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="761" y="230" width="48" height="20" rx="10" transform="rotate(15 785 240)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="821" y="255" width="48" height="20" rx="10" transform="rotate(-20 845 265)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="706" y="280" width="48" height="20" rx="10" transform="rotate(10 730 290)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="786" y="290" width="48" height="20" rx="10" transform="rotate(25 810 300)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<text x="755" y="410" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Survivors divide</text>
+<rect x="56" y="460" width="48" height="20" rx="10" transform="rotate(0 80 470)" fill="#fff" stroke="#2e6b62" stroke-width="3"/>
+<text x="116" y="477" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="start">susceptible</text>
+<rect x="356" y="460" width="48" height="20" rx="10" transform="rotate(0 380 470)" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="3"/>
+<text x="416" y="477" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="start">resistant allele</text>
+<text x="60" y="535" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Share of cells that are resistant (log scale)</text>
+<text x="60" y="604" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Start</text>
+<rect x="230" y="575" width="82.85714285714283" height="50" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="326.85714285714283" y="608" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">0.001</text>
+<text x="60" y="694" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Dose 1</text>
+<rect x="230" y="665" width="247.84811796187978" height="50" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="491.8481179618798" y="698" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">0.0099</text>
+<text x="60" y="784" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Dose 2</text>
+<rect x="230" y="755" width="407.49828787035267" height="50" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="651.4982878703527" y="788" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">0.091</text>
+<text x="60" y="874" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Dose 3</text>
+<rect x="230" y="845" width="530.1150292899688" height="50" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="774.1150292899688" y="878" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">0.50</text>
+<line x1="230" y1="560" x2="230" y2="930" stroke="#1e2a44" stroke-width="3"/>
+<line x1="312.85714285714283" y1="922" x2="312.85714285714283" y2="938" stroke="#1e2a44" stroke-width="3"/>
+<text x="312.85714285714283" y="966" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.001</text>
+<line x1="478.57142857142856" y1="922" x2="478.57142857142856" y2="938" stroke="#1e2a44" stroke-width="3"/>
+<text x="478.57142857142856" y="966" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.01</text>
+<line x1="644.2857142857142" y1="922" x2="644.2857142857142" y2="938" stroke="#1e2a44" stroke-width="3"/>
+<text x="644.2857142857142" y="966" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0.1</text>
+<line x1="810" y1="922" x2="810" y2="938" stroke="#1e2a44" stroke-width="3"/>
+<text x="810" y="966" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="450" y="1020" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">Selection raises the resistance allele frequency</text>
+</svg>

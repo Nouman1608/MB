@@ -147,7 +147,7 @@ Real sail area = 0.45 × 6400 = 2880 m²
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1040" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
   <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
 </figure>
 
@@ -317,7 +317,7 @@ The arc is a length, so it scales by k. The area scales by k². Checking this li
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. Core angles are factors of 360; Extended allows any angle." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. The same method works for any angle." loading="lazy">
   <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
 </figure>
 

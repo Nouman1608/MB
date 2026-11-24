@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 850" width="900" height="850" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="850" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Protecting the airway</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Lining of the trachea and bronchi, schematic</text>
+<text x="450" y="166" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">Air with dust and bacteria</text>
+<polygon points="101,186 119,186 110,200" fill="#1e2a44"/>
+<polygon points="110,207 119,214 116,224 104,224 101,214" fill="#56627a" stroke="#1e2a44" stroke-width="1.5"/>
+<polygon points="321,186 339,186 330,200" fill="#1e2a44"/>
+<polygon points="330,207 339,214 336,224 324,224 321,214" fill="#56627a" stroke="#1e2a44" stroke-width="1.5"/>
+<polygon points="551,186 569,186 560,200" fill="#1e2a44"/>
+<polygon points="560,207 569,214 566,224 554,224 551,214" fill="#56627a" stroke="#1e2a44" stroke-width="1.5"/>
+<polygon points="761,186 779,186 770,200" fill="#1e2a44"/>
+<polygon points="770,207 779,214 776,224 764,224 761,214" fill="#56627a" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="136" y="253" width="28" height="14" rx="7" fill="#e07a5f" stroke="#b5602e" stroke-width="2" transform="rotate(-20 150 260)"/>
+<rect x="196" y="229" width="28" height="14" rx="7" fill="#e07a5f" stroke="#b5602e" stroke-width="2" transform="rotate(30 210 236)"/>
+<rect x="426" y="233" width="28" height="14" rx="7" fill="#e07a5f" stroke="#b5602e" stroke-width="2" transform="rotate(-30 440 240)"/>
+<rect x="646" y="231" width="28" height="14" rx="7" fill="#e07a5f" stroke="#b5602e" stroke-width="2" transform="rotate(40 660 238)"/>
+<text x="850" y="286" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Mucus</text>
+<rect x="40" y="300" width="820" height="54" rx="12" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<polygon points="130,319 139,326 136,336 124,336 121,326" fill="#56627a" stroke="#1e2a44" stroke-width="1.5"/>
+<polygon points="520,319 529,326 526,336 514,336 511,326" fill="#56627a" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="286" y="321" width="28" height="14" rx="7" fill="#e07a5f" stroke="#b5602e" stroke-width="2" transform="rotate(15 300 328)"/>
+<rect x="676" y="321" width="28" height="14" rx="7" fill="#e07a5f" stroke="#b5602e" stroke-width="2" transform="rotate(-20 690 328)"/>
+<polygon points="198,318 224,328 198,338" fill="#1e2a44"/>
+<polygon points="408,318 434,328 408,338" fill="#1e2a44"/>
+<polygon points="598,318 624,328 598,338" fill="#1e2a44"/>
+<polygon points="778,318 804,328 778,338" fill="#1e2a44"/>
+<rect x="80" y="380" width="80" height="160" rx="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<line x1="90" y1="380" x2="98" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="105" y1="380" x2="113" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="120" y1="380" x2="128" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="135" y1="380" x2="143" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="150" y1="380" x2="158" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="120" cy="476" r="5" fill="#1e2a44"/>
+<path d="M186 380 H274 L270 440 Q266 470 244 480 V540 H216 V480 Q194 470 190 440 Z" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<polygon points="218,380 242,380 230,356" fill="#8a6d0d"/>
+<circle cx="212" cy="404" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="240" cy="398" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="226" cy="420" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="208" cy="434" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="246" cy="424" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="230" cy="446" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="230" cy="510" r="5" fill="#1e2a44"/>
+<rect x="300" y="380" width="80" height="160" rx="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<line x1="310" y1="380" x2="318" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="325" y1="380" x2="333" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="340" y1="380" x2="348" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="355" y1="380" x2="363" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="370" y1="380" x2="378" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="340" cy="476" r="5" fill="#1e2a44"/>
+<path d="M406 380 H494 L490 440 Q486 470 464 480 V540 H436 V480 Q414 470 410 440 Z" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<polygon points="438,380 462,380 450,356" fill="#8a6d0d"/>
+<circle cx="432" cy="404" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="460" cy="398" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="446" cy="420" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="428" cy="434" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="466" cy="424" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="450" cy="446" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="450" cy="510" r="5" fill="#1e2a44"/>
+<rect x="520" y="380" width="80" height="160" rx="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<line x1="530" y1="380" x2="538" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="545" y1="380" x2="553" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="560" y1="380" x2="568" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="575" y1="380" x2="583" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="590" y1="380" x2="598" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="560" cy="476" r="5" fill="#1e2a44"/>
+<path d="M626 380 H714 L710 440 Q706 470 684 480 V540 H656 V480 Q634 470 630 440 Z" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<polygon points="658,380 682,380 670,356" fill="#8a6d0d"/>
+<circle cx="652" cy="404" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="680" cy="398" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="666" cy="420" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="648" cy="434" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="686" cy="424" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="670" cy="446" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="1.8"/>
+<circle cx="670" cy="510" r="5" fill="#1e2a44"/>
+<rect x="740" y="380" width="80" height="160" rx="10" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<line x1="750" y1="380" x2="758" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="765" y1="380" x2="773" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="780" y1="380" x2="788" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="795" y1="380" x2="803" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="810" y1="380" x2="818" y2="356" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="780" cy="476" r="5" fill="#1e2a44"/>
+<line x1="120" y1="476" x2="120" y2="590" stroke="#1e2a44" stroke-width="2"/>
+<line x1="450" y1="510" x2="450" y2="590" stroke="#1e2a44" stroke-width="2"/>
+<text x="120" y="618" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Ciliated cell</text>
+<text x="120" y="646" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">cilia move the mucus</text>
+<text x="450" y="618" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Goblet cell</text>
+<text x="450" y="646" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">makes mucus</text>
+<rect x="30" y="690" width="840" height="136" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="60" y="718" width="40" height="28" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="120" y="740" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Mucus traps dust and bacteria</text>
+<polygon points="66,778 98,790 66,802" fill="#1e2a44"/>
+<text x="120" y="798" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Cilia move it to the throat, swallowed</text>
+</svg>

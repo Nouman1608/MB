@@ -76,12 +76,12 @@ Osmosis is passive. It only moves water. Solute particles are too large to follo
 - A plant cell in dilute solution gains water and becomes firm (turgid) because the cell wall resists bursting. In a strongly concentrated solution it loses water and the membrane pulls away from the wall.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
-  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+  <img src="https://img.marlbridge.com/biology-transport-in-cells--02-osmosis.webp" width="900" height="906" alt="A partially permeable membrane separates a dilute solution (more water, less solute) from a concentrated solution (less water, more solute). Water molecules pass through but sucrose molecules are too large, so there is a net movement of water from the dilute to the concentrated solution, with no energy needed. Below, plant tissue gains mass in a more dilute solution, loses mass in a more concentrated one, and does not change at the same concentration." loading="lazy">
+  <figcaption>In osmosis water moves from a dilute to a concentrated solution through a partially permeable membrane.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="930" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall." loading="lazy">
   <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
 </figure>
 
@@ -105,8 +105,8 @@ Examples: root hair cells take up mineral ions from soil water when the soil con
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
-  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+  <img src="https://img.marlbridge.com/biology-transport-in-cells--03-active-transport.webp" width="900" height="818" alt="Particles are moved across a cell membrane from a more dilute solution to a more concentrated one, against the concentration gradient, using energy from respiration. Two examples: root hair cells take in mineral ions from very dilute soil water, and sugar molecules move from a lower concentration in the gut into blood with a higher concentration. Less respiration, as in waterlogged roots, means less active transport." loading="lazy">
+  <figcaption>Active transport moves substances against the gradient using energy from respiration.</figcaption>
 </figure>
 
 <figure class="topic-figure">

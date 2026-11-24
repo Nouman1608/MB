@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 930" width="900" height="930" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="930" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Conical pendulum: horizontal circle</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Bob 0.4 kg, string 1.2 m, ω = 5 rad s⁻¹, g = 9.8 m s⁻²</text>
+<line x1="360" y1="200" x2="480" y2="200" stroke="#1e2a44" stroke-width="5"/>
+<ellipse cx="420" cy="324.26" rx="359.1092485581512" ry="38" fill="none" stroke="#4a5568" stroke-width="2.5" stroke-dasharray="8 7"/>
+<line x1="420" y1="200" x2="420" y2="414.26" stroke="#4a5568" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="420" y1="324.26" x2="779.1092485581512" y2="324.26" stroke="#c9d6d4" stroke-width="2.5" stroke-dasharray="8 6"/>
+<line x1="420" y1="200" x2="779.1092485581512" y2="324.26" stroke="#1e2a44" stroke-width="3"/>
+<path d="M472.9213629454118 218.31199999999998 A56 56 0 0 1 420 256" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="432" y="282" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">θ</text>
+<line x1="779.1092485581512" y1="324.26" x2="650.5859385478655" y2="279.788" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="620.3451597219159,269.324 657.0736185478654,261.0387171279113 644.0982585478655,298.5372828720887" fill="#2e6b62"/>
+<line x1="779.1092485581512" y1="324.26" x2="779.1092485581512" y2="355.14" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="779.1092485581512,385.14 760.5092485581512,355.14 797.7092485581512,355.14" fill="#1e2a44"/>
+<circle cx="779.1092485581512" cy="324.26" r="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="610" y="246" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">L = 1.2 m</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="490" y="310.26" font-size="19" font-weight="700" fill="#4a5568" text-anchor="start">r = 1.13 m</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="650" y="344.26" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="start">T = 12 N</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="709.1092485581512" y="419.26" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">mg = 3.92 N</text>
+<text x="190" y="540" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">From above</text>
+<circle cx="190" cy="690" r="100" fill="none" stroke="#4a5568" stroke-width="2.5" stroke-dasharray="8 7"/>
+<circle cx="190" cy="690" r="6" fill="#1e2a44"/>
+<line x1="290" y1="690" x2="290" y2="607" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="290,575 309.84,607 270.16,607" fill="#8a6d0d"/>
+<line x1="290" y1="690" x2="230" y2="690" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="200,690 230,671.4 230,708.6" fill="#2e6b62"/>
+<circle cx="290" cy="690" r="13" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="316" y="620" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">v = 5.67</text>
+<text x="316" y="644" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">m s⁻¹</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="200" y="736" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="start">a = 28.3 m s⁻²</text>
+<text x="700" y="540" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Forces add to a resultant</text>
+<text x="700" y="572" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">pointing to the centre</text>
+<line x1="850" y1="700" x2="656" y2="700" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="624,700 656,680.16 656,719.84" fill="#8a6d0d"/>
+<line x1="850" y1="700" x2="654.2325497262239" y2="632.0877517634334" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="624,621.6 660.7349558195525,613.3435709331746 647.7301436328952,650.8319325936922" fill="#2e6b62"/>
+<line x1="624" y1="621.6" x2="624" y2="670" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="624,700 605.4,670 642.6,670" fill="#1e2a44"/>
+<text x="760" y="640" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">T</text>
+<text x="608" y="661.6" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">mg</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="660" y="734" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">mrω² = 11.3 N</text>
+<text x="450" y="848" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">T = mLω² = 12 N; cosθ = g/(Lω²) = 0.327</text>
+<text x="450" y="888" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">v = rω is tangent; a = rω² points to the centre</text>
+</svg>

@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1226" width="900" height="1226" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1226" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">The cross-bridge cycle</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Sliding filaments: one cycle, repeated</text>
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d9a"/></marker>
+<marker id="ahRb" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker>
+<marker id="ahRr" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker></defs><rect x="30" y="136" width="40" height="20" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<text x="82" y="153" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Myosin</text>
+<circle cx="268" cy="146" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/><circle cx="288" cy="146" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<text x="312" y="153" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Actin</text>
+<line x1="478" y1="146" x2="520" y2="146" stroke="#6f7f2a" stroke-width="5"/>
+<text x="532" y="153" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Tropomyosin</text>
+<circle cx="50" cy="188" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<text x="82" y="195" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Troponin</text>
+<rect x="272" y="180" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<text x="312" y="195" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Binding site</text>
+<circle cx="500" cy="188" r="11" fill="#c0643a" stroke="#1e2a44" stroke-width="1.5"/>
+<text x="532" y="195" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Ca²⁺ </text>
+<line x1="30" y1="226" x2="870" y2="226" stroke="#c9d3d3" stroke-width="2"/>
+<rect x="40" y="238" width="450" height="24" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<circle cx="60" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="84" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="108" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="132" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="156" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="180" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="204" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="228" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="252" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="276" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="300" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="324" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="348" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="372" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="396" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="420" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="444" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="468" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="492" cy="371" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="76" y="350" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="148" y="350" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="220" y="350" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="292" y="350" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="364" y="350" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="436" y="350" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="34" y1="346" x2="498" y2="346" stroke="#6f7f2a" stroke-width="6"/>
+<circle cx="120" cy="333" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="264" cy="333" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="408" cy="333" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="300" y1="262" x2="300" y2="290" stroke="#8a6d0d" stroke-width="5"/>
+<ellipse cx="300" cy="320" rx="18" ry="30" fill="#f4dc78" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="336" y="308" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">ADP + Pi</text>
+<text x="520" y="304" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Rest: tropomyosin</text>
+<text x="520" y="332" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">blocks the binding sites</text>
+<line x1="30" y1="416" x2="870" y2="416" stroke="#c9d3d3" stroke-width="2"/>
+<rect x="40" y="428" width="450" height="24" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<line x1="34" y1="566" x2="498" y2="566" stroke="#6f7f2a" stroke-width="6"/>
+<circle cx="44" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="68" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="92" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="116" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="140" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="164" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="188" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="212" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="236" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="260" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="284" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="308" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="332" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="356" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="380" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="404" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="428" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="452" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="476" cy="546" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="76" y="523" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="148" y="523" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="220" y="523" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="292" y="523" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="364" y="523" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="436" y="523" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="120" cy="569" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="408" cy="569" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="262" cy="569" r="22" fill="#c0643a" stroke="#1e2a44" stroke-width="2"/><text x="262" y="575" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Ca<tspan font-size="11" dy="-7">2+</tspan></text>
+<line x1="300" y1="452" x2="300" y2="480" stroke="#8a6d0d" stroke-width="5"/>
+<ellipse cx="300" cy="510" rx="18" ry="30" fill="#f4dc78" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="336" y="498" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">ADP + Pi</text>
+<text x="520" y="494" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Ca²⁺ binds troponin,</text>
+<text x="520" y="522" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">tropomyosin moves aside:</text><text x="520" y="548" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">head binds = cross-bridge</text>
+<line x1="30" y1="606" x2="870" y2="606" stroke="#c9d3d3" stroke-width="2"/>
+<rect x="40" y="618" width="450" height="24" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<line x1="34" y1="756" x2="498" y2="756" stroke="#6f7f2a" stroke-width="6"/>
+<circle cx="44" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="68" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="92" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="116" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="140" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="164" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="188" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="212" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="236" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="260" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="284" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="308" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="332" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="356" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="380" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="404" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="428" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="452" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="476" cy="736" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="76" y="713" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="148" y="713" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="220" y="713" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="292" y="713" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="364" y="713" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="436" y="713" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="120" cy="759" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="408" cy="759" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="262" cy="759" r="22" fill="#c0643a" stroke="#1e2a44" stroke-width="2"/><text x="262" y="765" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Ca<tspan font-size="11" dy="-7">2+</tspan></text>
+<line x1="300" y1="642" x2="284" y2="666" stroke="#8a6d0d" stroke-width="5"/>
+<ellipse cx="270" cy="696" rx="18" ry="30" fill="#f4dc78" stroke="#8a6d0d" stroke-width="2.5" transform="rotate(30 270 696)"/>
+<text x="308" y="680" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">ADP + Pi released</text>
+<line x1="470" y1="700" x2="396" y2="700" stroke="#b5402e" stroke-width="4" marker-end="url(#ahRr)"/>
+<text x="520" y="684" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Power stroke: head tilts,</text>
+<text x="520" y="712" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">actin slides toward M line</text>
+<line x1="30" y1="796" x2="870" y2="796" stroke="#c9d3d3" stroke-width="2"/>
+<rect x="40" y="808" width="450" height="24" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<line x1="34" y1="946" x2="498" y2="946" stroke="#6f7f2a" stroke-width="6"/>
+<circle cx="44" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="68" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="92" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="116" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="140" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="164" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="188" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="212" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="236" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="260" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="284" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="308" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="332" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="356" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="380" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="404" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="428" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="452" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="476" cy="926" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="76" y="903" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="148" y="903" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="220" y="903" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="292" y="903" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="364" y="903" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="436" y="903" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="120" cy="949" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="408" cy="949" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="262" cy="949" r="22" fill="#c0643a" stroke="#1e2a44" stroke-width="2"/><text x="262" y="955" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Ca<tspan font-size="11" dy="-7">2+</tspan></text>
+<line x1="300" y1="832" x2="284" y2="844" stroke="#8a6d0d" stroke-width="5"/>
+<ellipse cx="270" cy="874" rx="18" ry="30" fill="#f4dc78" stroke="#8a6d0d" stroke-width="2.5" transform="rotate(30 270 874)"/>
+<text x="308" y="878" font-size="20" font-weight="700" fill="#b5402e" text-anchor="start">ATP</text>
+<text x="520" y="874" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">ATP binds:</text>
+<text x="520" y="902" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">head detaches from actin</text>
+<line x1="30" y1="986" x2="870" y2="986" stroke="#c9d3d3" stroke-width="2"/>
+<rect x="40" y="998" width="450" height="24" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<line x1="34" y1="1136" x2="498" y2="1136" stroke="#6f7f2a" stroke-width="6"/>
+<circle cx="44" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="68" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="92" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="116" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="140" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="164" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="188" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="212" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="236" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="260" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="284" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="308" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="332" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="356" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="380" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="404" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="428" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="452" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="476" cy="1116" r="10" fill="#2f8a80" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="76" y="1093" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="148" y="1093" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="220" y="1093" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="292" y="1093" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="364" y="1093" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<rect x="436" y="1093" width="16" height="16" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="120" cy="1139" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="408" cy="1139" r="9" fill="#6a59a8" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="262" cy="1139" r="22" fill="#c0643a" stroke="#1e2a44" stroke-width="2"/><text x="262" y="1145" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Ca<tspan font-size="11" dy="-7">2+</tspan></text>
+<line x1="300" y1="1022" x2="300" y2="1040" stroke="#8a6d0d" stroke-width="5"/>
+<ellipse cx="300" cy="1070" rx="18" ry="30" fill="#f4dc78" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="336" y="1062" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">ADP + Pi</text>
+<text x="520" y="1064" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">ATP hydrolysed: head</text>
+<text x="520" y="1092" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">reset, ready to bind again</text>
+<text x="450" y="1194" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">cycle repeats while Ca²⁺ and ATP are available</text>
+</svg>

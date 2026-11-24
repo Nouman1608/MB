@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1200" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Three kinds of blood vessel</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Cross-sections, schematic, not to scale</text>
+<circle cx="220" cy="300" r="110" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="220" cy="300" r="88" fill="none" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="220" cy="300" r="52" fill="#fbe7df" stroke="#1e2a44" stroke-width="3"/>
+<circle cx="220" cy="300" r="88" fill="none" stroke="#f2e7b8" stroke-width="4" stroke-dasharray="10 8"/>
+<text x="220" y="308" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">lumen</text>
+<text x="20" y="224" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">wall</text>
+<line x1="80" y1="220" x2="160" y2="270" stroke="#1e2a44" stroke-width="2.5"/><circle cx="160" cy="270" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="20" y="418" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">elastic tissue</text>
+<line x1="60" y1="392" x2="143" y2="337" stroke="#1e2a44" stroke-width="2.5"/><circle cx="143" cy="337" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="420" y="178" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="start">Artery</text>
+<text x="420" y="236" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Thick, muscular, elastic wall</text><text x="420" y="270" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Narrow lumen</text><text x="420" y="304" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">No valves</text>
+<text x="420" y="378" font-size="20" font-weight="400" fill="#2e6b62" text-anchor="start">Thick wall withstands high</text><text x="420" y="408" font-size="20" font-weight="400" fill="#2e6b62" text-anchor="start">pressure; elastic wall recoils</text>
+<line x1="30" y1="490" x2="870" y2="490" stroke="#c9d6d4" stroke-width="2.5"/>
+<circle cx="220" cy="660" r="104" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="220" cy="660" r="88" fill="#fbe7df" stroke="#1e2a44" stroke-width="3"/>
+<text x="220" y="668" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">lumen</text>
+<text x="20" y="584" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">wall</text>
+<line x1="80" y1="580" x2="131" y2="618" stroke="#1e2a44" stroke-width="2.5"/><circle cx="131" cy="618" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="420" y="540" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="start">Vein</text>
+<text x="420" y="598" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Thin wall</text><text x="420" y="632" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Wide lumen</text><text x="420" y="666" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Valves</text>
+<text x="420" y="740" font-size="20" font-weight="400" fill="#2e6b62" text-anchor="start">Low pressure: valves</text><text x="420" y="770" font-size="20" font-weight="400" fill="#2e6b62" text-anchor="start">prevent backflow</text>
+<rect x="640" y="520" width="230" height="62" rx="0" fill="#fbe7df" stroke="#1e2a44" stroke-width="3"/>
+<line x1="658" y1="551" x2="716" y2="551" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="730" y1="524" x2="772" y2="551" stroke="#1e2a44" stroke-width="5"/>
+<line x1="730" y1="578" x2="772" y2="551" stroke="#1e2a44" stroke-width="5"/>
+<line x1="752" y1="600" x2="750" y2="537" stroke="#1e2a44" stroke-width="2.5"/><circle cx="750" cy="537" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="752" y="626" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">valve</text>
+<line x1="30" y1="850" x2="870" y2="850" stroke="#c9d6d4" stroke-width="2.5"/>
+<circle cx="220" cy="1022" r="40" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="220" cy="1022" r="30" fill="#fbe7df" stroke="#1e2a44" stroke-width="3"/>
+<text x="20" y="944" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">wall</text>
+<line x1="80" y1="940" x2="188" y2="1004" stroke="#1e2a44" stroke-width="2.5"/><circle cx="188" cy="1004" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="20" y="1138" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">lumen</text>
+<line x1="60" y1="1114" x2="214" y2="1026" stroke="#1e2a44" stroke-width="2.5"/><circle cx="214" cy="1026" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="420" y="900" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="start">Capillary</text>
+<text x="420" y="958" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Wall one cell thick</text><text x="420" y="992" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">Very narrow lumen</text><text x="420" y="1026" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="start">No valves</text>
+<text x="420" y="1100" font-size="20" font-weight="400" fill="#2e6b62" text-anchor="start">Short diffusion distance;</text><text x="420" y="1130" font-size="20" font-weight="400" fill="#2e6b62" text-anchor="start">very many: large surface area</text>
+</svg>

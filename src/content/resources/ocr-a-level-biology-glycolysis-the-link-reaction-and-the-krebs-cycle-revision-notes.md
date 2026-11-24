@@ -51,7 +51,7 @@ These notes condense learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level B
 - Plants respire all the time, not only at night.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--06-atp-yield.webp" width="900" height="910" alt="Aerobic respiration gives 32 ATP: 4 by substrate-level phosphorylation, 25 from 10 reduced NAD at 2.5 each and 3 from 2 reduced FAD at 1.5 each. Anaerobic respiration gives only the 2 ATP from glycolysis, so aerobic gives 16 times as much." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--06-atp-yield.webp" width="900" height="850" alt="Aerobic respiration gives 32 ATP: 4 by substrate-level phosphorylation, 25 from 10 reduced NAD at 2.5 each and 3 from 2 reduced FAD at 1.5 each. Anaerobic respiration gives only the 2 ATP from glycolysis, so aerobic gives 16 times as much." loading="lazy">
   <figcaption>Using 2.5 and 1.5 ATP per reduced NAD and FAD, aerobic respiration gives 32 ATP against 2 anaerobically.</figcaption>
 </figure>
 
@@ -70,12 +70,12 @@ These notes condense learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level B
 Magnification: actual size = image size / magnification. Divide, then convert units at the end (mm × 1000 = µm).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--01-respiration-overview.webp" width="900" height="1080" alt="A map of one glucose through respiration in three bands. Glycolysis in the cytoplasm gives 2 pyruvate, net 2 ATP and 2 reduced NAD. Pyruvate enters the matrix, where the link reaction (twice) and Krebs cycle (twice) release 6 CO2 in total and make 2 more ATP. Reduced NAD and FAD carry hydrogen to the inner membrane, where the electron transport chain and ATP synthase make most of the ATP and oxygen forms water." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--01-respiration-overview.webp" width="900" height="1050" alt="A map of one glucose through respiration in three bands. Glycolysis in the cytoplasm gives 2 pyruvate, net 2 ATP and 2 reduced NAD. Pyruvate enters the matrix, where the link reaction (twice) and Krebs cycle (twice) release 6 CO2 in total and make 2 more ATP. Reduced NAD and FAD carry hydrogen to the inner membrane, where the electron transport chain and ATP synthase make most of the ATP and oxygen forms water." loading="lazy">
   <figcaption>One glucose passes through four stages in three places: cytoplasm, matrix and inner mitochondrial membrane.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--05-respiration-tally.webp" width="900" height="860" alt="Stacked bars show the CO2, reduced NAD, reduced FAD and ATP made by each stage per glucose: 6 CO2, 10 reduced NAD, 2 reduced FAD and 4 ATP made directly." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--05-respiration-tally.webp" width="900" height="830" alt="Stacked bars show the CO2, reduced NAD, reduced FAD and ATP made by each stage per glucose: 6 CO2, 10 reduced NAD, 2 reduced FAD and 4 ATP made directly." loading="lazy">
   <figcaption>Six CO2 account for all six carbons of glucose; most energy is still held in 12 reduced coenzymes.</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Magnification: actual size = image size / magnification. Divide, then convert un
 Net for one glucose: two ATP (four formed, two spent), two reduced NAD and two pyruvate.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--03-glycolysis.webp" width="900" height="1120" alt="Glucose (6C) is phosphorylated using 2 ATP, the hexose bisphosphate splits into two triose phosphates, and each is oxidised to pyruvate, making reduced NAD and 2 ATP. Net per glucose: 2 ATP (4 made, 2 used), 2 reduced NAD and 2 pyruvate." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--03-glycolysis.webp" width="900" height="1120" alt="Glucose (6C) is phosphorylated using 2 ATP, the hexose bisphosphate splits into two triose phosphates, and each is oxidised to pyruvate, making reduced NAD and 2 ATP. Net per glucose: 2 ATP (4 made, 2 used), 2 reduced NAD and 2 pyruvate." loading="lazy">
   <figcaption>Glycolysis uses 2 ATP and makes 4, a net gain of 2 ATP, 2 reduced NAD and 2 pyruvate.</figcaption>
 </figure>
 
@@ -113,12 +113,12 @@ Net for one glucose: two ATP (four formed, two spent), two reduced NAD and two p
 Per glucose (×2): 2 CO₂, 2 reduced NAD, 2 acetyl CoA, no ATP.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--02-mitochondrion-structure.webp" width="900" height="1110" alt="A labelled mitochondrion: outer membrane, intermembrane space, inner membrane folded into cristae, and matrix with circular DNA and ribosomes. A worked example gives 27 mm / 15 000 = 1.8 micrometres." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--02-mitochondrion-structure.webp" width="900" height="1110" alt="A labelled mitochondrion: outer membrane, intermembrane space, inner membrane folded into cristae, and matrix with circular DNA and ribosomes. A worked example gives 27 mm / 15 000 = 1.8 micrometres." loading="lazy">
   <figcaption>The folded inner membrane gives a large surface area; the matrix holds the enzymes of the link reaction and Krebs cycle.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--04-link-and-krebs.webp" width="900" height="1080" alt="In the link reaction pyruvate loses CO2 and hydrogen to become acetyl CoA (2C), twice per glucose. In the Krebs cycle acetyl CoA joins a 4C compound to make citrate (6C); each turn releases 2 CO2 and makes 3 reduced NAD, 1 reduced FAD and 1 ATP before regenerating the 4C compound." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--04-link-and-krebs.webp" width="900" height="1075" alt="In the link reaction pyruvate loses CO2 and hydrogen to become acetyl CoA (2C), twice per glucose. In the Krebs cycle acetyl CoA joins a 4C compound to make citrate (6C); each turn releases 2 CO2 and makes 3 reduced NAD, 1 reduced FAD and 1 ATP before regenerating the 4C compound." loading="lazy">
   <figcaption>Each turn of the Krebs cycle gives 2 CO2, 3 reduced NAD, 1 reduced FAD and 1 ATP; there are two turns per glucose.</figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ Each turn gives two CO₂, three reduced NAD, one reduced FAD and one ATP. One g
 | ATP made directly | 2 net | none | 2 | 4 |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--09-respiratory-substrates.webp" width="900" height="1040" alt="Glucose enters at glycolysis. Glycerol from lipids enters glycolysis and fatty acids are cut into 2C units forming acetyl CoA. Amino acids lose their amino group and the carbon skeleton enters as pyruvate, acetyl CoA or a Krebs cycle intermediate. Lipids give about 37-39 kJ per g, carbohydrate and protein about 16-17, with RQ about 0.7, 1.0 and 0.9." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--09-respiratory-substrates.webp" width="900" height="1010" alt="Glucose enters at glycolysis. Glycerol from lipids enters glycolysis and fatty acids are cut into 2C units forming acetyl CoA. Amino acids lose their amino group and the carbon skeleton enters as pyruvate, acetyl CoA or a Krebs cycle intermediate. Lipids give about 37-39 kJ per g, carbohydrate and protein about 16-17, with RQ about 0.7, 1.0 and 0.9." loading="lazy">
   <figcaption>Lipids and proteins join respiration at different points; lipids have more hydrogen per gram and so give more ATP.</figcaption>
 </figure>
 
@@ -185,7 +185,7 @@ Reduced NAD and reduced FAD deliver hydrogen and electrons to oxidative phosphor
 - Cristae give a large surface area for carriers and ATP synthase.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--07-chemiosmosis.webp" width="900" height="1060" alt="Reduced NAD gives hydrogen to carriers in the inner membrane. Electrons pass along the chain and the energy released pumps H+ into the intermembrane space. H+ flows back through ATP synthase, making ATP from ADP and Pi (chemiosmosis). Oxygen is the final electron acceptor and forms water." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--07-chemiosmosis.webp" width="900" height="1000" alt="Reduced NAD gives hydrogen to carriers in the inner membrane. Electrons pass along the chain and the energy released pumps H+ into the intermembrane space. H+ flows back through ATP synthase, making ATP from ADP and Pi (chemiosmosis). Oxygen is the final electron acceptor and forms water." loading="lazy">
   <figcaption>Energy from electron transport builds a proton gradient; protons flow back through ATP synthase to make ATP.</figcaption>
 </figure>
 
@@ -239,7 +239,7 @@ Reduced NAD and reduced FAD deliver hydrogen and electrons to oxidative phosphor
 - Data questions need figures quoted from the table or graph, with percentage changes calculated from the starting value.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--08-fermentation.webp" width="900" height="1030" alt="Without oxygen only glycolysis runs. In animals pyruvate accepts hydrogen from reduced NAD to make lactate (reversible, no CO2). In yeast and plants pyruvate loses CO2 to make ethanal, which is reduced to ethanol (not reversible). Both regenerate NAD; no ATP comes from this step." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-energy-and-respiration--08-fermentation.webp" width="900" height="1010" alt="Without oxygen only glycolysis runs. In animals pyruvate accepts hydrogen from reduced NAD to make lactate (reversible, no CO2). In yeast and plants pyruvate loses CO2 to make ethanal, which is reduced to ethanol (not reversible). Both regenerate NAD; no ATP comes from this step." loading="lazy">
   <figcaption>Fermentation regenerates NAD so glycolysis can continue; the only ATP is the net 2 from glycolysis.</figcaption>
 </figure>
 

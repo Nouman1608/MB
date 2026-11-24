@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 880" width="900" height="880" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="880" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Logs turn × into +</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Lengths on a log ruler add</text>
+<line x1="90" y1="180" x2="790" y2="180" stroke="#1e2a44" stroke-width="4"/>
+<line x1="90" y1="168" x2="90" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="90" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="300.7209969647869" y1="168" x2="300.7209969647869" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="300.7209969647869" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="423.9848783037637" y1="168" x2="423.9848783037637" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="423.9848783037637" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<line x1="511.4419939295737" y1="168" x2="511.4419939295737" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="511.4419939295737" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">4</text>
+<line x1="579.2790030352132" y1="168" x2="579.2790030352132" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="579.2790030352132" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">5</text>
+<line x1="634.7058752685506" y1="168" x2="634.7058752685506" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="634.7058752685506" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<line x1="681.5686280099798" y1="168" x2="681.5686280099798" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="681.5686280099798" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">7</text>
+<line x1="722.1629908943605" y1="168" x2="722.1629908943605" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="722.1629908943605" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">8</text>
+<line x1="757.9697566075274" y1="168" x2="757.9697566075274" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="757.9697566075274" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">9</text>
+<line x1="790" y1="168" x2="790" y2="192" stroke="#1e2a44" stroke-width="3"/>
+<text x="790" y="158" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">10</text>
+<line x1="634.7058752685506" y1="194" x2="634.7058752685506" y2="250" stroke="#4a5568" stroke-width="1.8" stroke-dasharray="6 5"/>
+<rect x="90" y="250" width="210.72099696478688" height="54" rx="8" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><text x="195.36049848239344" y="284" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">lg 2</text><rect x="300.7209969647869" y="250" width="333.9848783037637" height="54" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="467.71343611666873" y="284" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">lg 3</text>
+<text x="450" y="354" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">lg 2 + lg 3 = lg 6</text>
+<line x1="722.1629908943605" y1="194" x2="722.1629908943605" y2="410" stroke="#4a5568" stroke-width="1.8" stroke-dasharray="6 5"/>
+<rect x="90" y="410" width="210.72099696478688" height="54" rx="8" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><text x="195.36049848239344" y="444" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">lg 2</text><rect x="300.7209969647869" y="410" width="421.44199392957364" height="54" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="511.4419939295737" y="444" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">lg 8 − lg 2</text>
+<text x="450" y="514" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">lg 8 − lg 2 = lg 4</text>
+<line x1="757.9697566075274" y1="194" x2="757.9697566075274" y2="570" stroke="#4a5568" stroke-width="1.8" stroke-dasharray="6 5"/>
+<rect x="90" y="570" width="333.9848783037637" height="54" rx="8" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><text x="256.99243915188185" y="604" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">lg 3</text><rect x="423.9848783037637" y="570" width="333.9848783037637" height="54" rx="8" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><text x="590.9773174556456" y="604" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">lg 3</text>
+<text x="450" y="674" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">2 lg 3 = lg 3<tspan baseline-shift="super" font-size="68%">2</tspan> = lg 9</text>
+<rect x="120" y="730" width="660" height="74" rx="14" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/>
+<text x="450" y="776" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">lg x is the length from 1 to x</text>
+<text x="450" y="842" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Needs a positive input and the same base</text>
+</svg>

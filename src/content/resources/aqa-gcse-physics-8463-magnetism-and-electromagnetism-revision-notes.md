@@ -104,7 +104,7 @@ Rules to recall:
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="600" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
   <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ Also useful from Electricity: P = V I and P = I² R.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--05-dc-motor.webp" width="900" height="1278" alt="Three end views of a coil between N and S poles with a split-ring commutator and brushes. Forces on the two sides are opposite so the coil turns clockwise; when the gaps reach the brushes the current reverses, so the coil keeps turning the same way." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-electricity-and-magnetism--05-dc-motor.webp" width="900" height="1000" alt="Three end views of a coil between N and S poles with a split-ring commutator and brushes. Forces on the two sides are opposite so the coil turns clockwise; when the gaps reach the brushes the current reverses, so the coil keeps turning the same way." loading="lazy">
   <figcaption>The split-ring commutator reverses the coil current every half turn so the forces keep turning the coil the same way.</figcaption>
 </figure>
 
@@ -187,12 +187,12 @@ Worked reminder: 25 cm of wire, 1.2 A, 0.50 T, at right angles → F = 0.50 × 1
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-electricity-and-magnetism--06-transformer.webp" width="900" height="720" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Power in equals power out, 18 W." loading="lazy">
   <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="690" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
   <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
 </figure>
 

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 960" width="900" height="960" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="960" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">X-linked recessive: haemophilia</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">carrier mother X<tspan font-size="65%" dy="-0.6em">H</tspan><tspan dy="0.39em">​</tspan>X<tspan font-size="65%" dy="-0.6em">h</tspan><tspan dy="0.39em">​</tspan> × unaffected father X<tspan font-size="65%" dy="-0.6em">H</tspan><tspan dy="0.39em">​</tspan>Y</text>
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker></defs><text x="235" y="214" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">mother’s eggs</text>
+<rect x="395" y="184" width="90" height="48" rx="24" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="440" y="217" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">X<tspan font-size="65%" dy="-0.6em">H</tspan><tspan dy="0.39em">​</tspan></text>
+<rect x="615" y="184" width="90" height="48" rx="24" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="660" y="217" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">X<tspan font-size="65%" dy="-0.6em">h</tspan><tspan dy="0.39em">​</tspan></text>
+<text x="40" y="294" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">father’s</text>
+<text x="40" y="324" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">sperm</text>
+<rect x="199" y="290" width="90" height="48" rx="24" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="244" y="323" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">X<tspan font-size="65%" dy="-0.6em">H</tspan><tspan dy="0.39em">​</tspan></text>
+<rect x="199" y="420" width="90" height="48" rx="24" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="244" y="453" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">Y</text>
+<rect x="330" y="250" width="220" height="130" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="440" y="302" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">X<tspan font-size="65%" dy="-0.6em">H</tspan><tspan dy="0.39em">​</tspan>X<tspan font-size="65%" dy="-0.6em">H</tspan><tspan dy="0.39em">​</tspan></text>
+<text x="440" y="349" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">unaffected girl</text>
+<rect x="550" y="250" width="220" height="130" fill="#e3e7ef" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="660" y="302" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">X<tspan font-size="65%" dy="-0.6em">h</tspan><tspan dy="0.39em">​</tspan>X<tspan font-size="65%" dy="-0.6em">H</tspan><tspan dy="0.39em">​</tspan></text>
+<text x="660" y="349" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">carrier girl</text>
+<rect x="330" y="380" width="220" height="130" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="440" y="432" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">X<tspan font-size="65%" dy="-0.6em">H</tspan><tspan dy="0.39em">​</tspan>Y</text>
+<text x="440" y="479" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">unaffected boy</text>
+<rect x="550" y="380" width="220" height="130" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="660" y="432" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">X<tspan font-size="65%" dy="-0.6em">h</tspan><tspan dy="0.39em">​</tspan>Y</text>
+<text x="660" y="479" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">affected boy</text>
+<rect x="550" y="380" width="220" height="130" fill="none" stroke="#1e2a44" stroke-width="5"/>
+<text x="150" y="600" font-size="44" font-weight="700" fill="#2e6b62" text-anchor="middle">1/4</text>
+<text x="150" y="640" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="middle">children affected</text>
+<text x="450" y="600" font-size="44" font-weight="700" fill="#2e6b62" text-anchor="middle">1/2</text>
+<text x="450" y="640" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="middle">sons affected</text>
+<text x="750" y="600" font-size="44" font-weight="700" fill="#2e6b62" text-anchor="middle">0</text>
+<text x="750" y="640" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="middle">daughters affected</text>
+<line x1="40" y1="700" x2="860" y2="700" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="450" y="748" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">Birds: ZW system (females ZW)</text>
+<text x="450" y="794" font-size="22" font-weight="400" fill="#1e2a44" text-anchor="middle">non-barred male Z<tspan font-size="65%" dy="-0.6em">b</tspan><tspan dy="0.39em">​</tspan>Z<tspan font-size="65%" dy="-0.6em">b</tspan><tspan dy="0.39em">​</tspan><tspan dx="0.3em">×</tspan> barred female Z<tspan font-size="65%" dy="-0.6em">B</tspan><tspan dy="0.39em">​</tspan>W</text>
+<rect x="40" y="824" width="390" height="100" rx="14" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="470" y="824" width="390" height="100" rx="14" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="235" y="868" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">Z<tspan font-size="65%" dy="-0.6em">B</tspan><tspan dy="0.39em">​</tspan>Z<tspan font-size="65%" dy="-0.6em">b</tspan><tspan dy="0.39em">​</tspan><tspan dx="0.3em">sons</tspan></text>
+<text x="235" y="904" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">all barred</text>
+<text x="665" y="868" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">Z<tspan font-size="65%" dy="-0.6em">b</tspan><tspan dy="0.39em">​</tspan>W daughters</text>
+<text x="665" y="904" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">all non-barred</text>
+</svg>

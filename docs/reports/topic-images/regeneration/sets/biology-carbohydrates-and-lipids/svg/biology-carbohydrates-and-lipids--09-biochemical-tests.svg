@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1275" width="900" height="1275" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1275" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Testing for biological molecules</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Left tube: absent. Right tube: present.</text>
+<rect x="30" y="140" width="410" height="350" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="50" y="182" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Benedict’s: reducing sugar</text>
+<clipPath id="c102_220"><path d="M102 220 V352 a38 38 0 0 0 76 0 V220 Z"/></clipPath><rect x="102" y="250" width="76" height="150" fill="#3c7fd0" clip-path="url(#c102_220)"/><path d="M102 220 V352 a38 38 0 0 0 76 0 V220" fill="none" stroke="#1e2a44" stroke-width="3.5"/><line x1="94" y1="220" x2="186" y2="220" stroke="#1e2a44" stroke-width="4"/>
+<clipPath id="c282_220"><path d="M282 220 V352 a38 38 0 0 0 76 0 V220 Z"/></clipPath><rect x="282" y="250" width="76" height="150" fill="#b5402a" clip-path="url(#c282_220)"/><path d="M282 220 V352 a38 38 0 0 0 76 0 V220" fill="none" stroke="#1e2a44" stroke-width="3.5"/><line x1="274" y1="220" x2="366" y2="220" stroke="#1e2a44" stroke-width="4"/>
+<text x="140" y="426" font-size="20" font-weight="700" fill="#4a5568" text-anchor="middle">absent</text>
+<text x="140" y="458" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">stays blue</text>
+<text x="320" y="426" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">present</text>
+<text x="320" y="458" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">brick-red</text>
+<rect x="180" y="300" width="100" height="40" rx="20" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="230" y="327" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">heat</text>
+<rect x="460" y="140" width="410" height="350" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="480" y="182" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Iodine: starch</text>
+<clipPath id="c532_220"><path d="M532 220 V352 a38 38 0 0 0 76 0 V220 Z"/></clipPath><rect x="532" y="250" width="76" height="150" fill="#c98a30" clip-path="url(#c532_220)"/><path d="M532 220 V352 a38 38 0 0 0 76 0 V220" fill="none" stroke="#1e2a44" stroke-width="3.5"/><line x1="524" y1="220" x2="616" y2="220" stroke="#1e2a44" stroke-width="4"/>
+<clipPath id="c712_220"><path d="M712 220 V352 a38 38 0 0 0 76 0 V220 Z"/></clipPath><rect x="712" y="250" width="76" height="150" fill="#1e1e3a" clip-path="url(#c712_220)"/><path d="M712 220 V352 a38 38 0 0 0 76 0 V220" fill="none" stroke="#1e2a44" stroke-width="3.5"/><line x1="704" y1="220" x2="796" y2="220" stroke="#1e2a44" stroke-width="4"/>
+<text x="570" y="426" font-size="20" font-weight="700" fill="#4a5568" text-anchor="middle">absent</text>
+<text x="570" y="458" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">orange-brown</text>
+<text x="750" y="426" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">present</text>
+<text x="750" y="458" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">blue-black</text>
+<rect x="30" y="510" width="410" height="350" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="50" y="552" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Biuret: protein</text>
+<clipPath id="c102_590"><path d="M102 590 V722 a38 38 0 0 0 76 0 V590 Z"/></clipPath><rect x="102" y="620" width="76" height="150" fill="#4b8ad6" clip-path="url(#c102_590)"/><path d="M102 590 V722 a38 38 0 0 0 76 0 V590" fill="none" stroke="#1e2a44" stroke-width="3.5"/><line x1="94" y1="590" x2="186" y2="590" stroke="#1e2a44" stroke-width="4"/>
+<clipPath id="c282_590"><path d="M282 590 V722 a38 38 0 0 0 76 0 V590 Z"/></clipPath><rect x="282" y="620" width="76" height="150" fill="#8b55b8" clip-path="url(#c282_590)"/><path d="M282 590 V722 a38 38 0 0 0 76 0 V590" fill="none" stroke="#1e2a44" stroke-width="3.5"/><line x1="274" y1="590" x2="366" y2="590" stroke="#1e2a44" stroke-width="4"/>
+<text x="140" y="796" font-size="20" font-weight="700" fill="#4a5568" text-anchor="middle">absent</text>
+<text x="140" y="828" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">stays blue</text>
+<text x="320" y="796" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">present</text>
+<text x="320" y="828" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">purple</text>
+<rect x="460" y="510" width="410" height="350" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="480" y="552" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Emulsion: lipid</text>
+<clipPath id="c532_590"><path d="M532 590 V722 a38 38 0 0 0 76 0 V590 Z"/></clipPath><rect x="532" y="620" width="76" height="150" fill="#e8f3f6" clip-path="url(#c532_590)"/><path d="M532 590 V722 a38 38 0 0 0 76 0 V590" fill="none" stroke="#1e2a44" stroke-width="3.5"/><line x1="524" y1="590" x2="616" y2="590" stroke="#1e2a44" stroke-width="4"/>
+<clipPath id="c712_590"><path d="M712 590 V722 a38 38 0 0 0 76 0 V590 Z"/></clipPath><rect x="712" y="620" width="76" height="150" fill="#f4f8fa" clip-path="url(#c712_590)"/><circle cx="724" cy="660" r="3" fill="#a9bcc6" opacity="0.85"/><circle cx="738" cy="674" r="4" fill="#a9bcc6" opacity="0.85"/><circle cx="752" cy="668" r="5" fill="#a9bcc6" opacity="0.85"/><circle cx="767" cy="682" r="3" fill="#a9bcc6" opacity="0.85"/><circle cx="730" cy="694" r="4" fill="#a9bcc6" opacity="0.85"/><circle cx="746" cy="702" r="5" fill="#a9bcc6" opacity="0.85"/><circle cx="762" cy="710" r="3" fill="#a9bcc6" opacity="0.85"/><circle cx="774" cy="698" r="4" fill="#a9bcc6" opacity="0.85"/><circle cx="734" cy="722" r="5" fill="#a9bcc6" opacity="0.85"/><circle cx="756" cy="730" r="3" fill="#a9bcc6" opacity="0.85"/><circle cx="770" cy="736" r="4" fill="#a9bcc6" opacity="0.85"/><circle cx="742" cy="742" r="5" fill="#a9bcc6" opacity="0.85"/><circle cx="726" cy="708" r="3" fill="#a9bcc6" opacity="0.85"/><circle cx="778" cy="722" r="4" fill="#a9bcc6" opacity="0.85"/><circle cx="750" cy="686" r="5" fill="#a9bcc6" opacity="0.85"/><circle cx="720" cy="678" r="3" fill="#a9bcc6" opacity="0.85"/><path d="M712 590 V722 a38 38 0 0 0 76 0 V590" fill="none" stroke="#1e2a44" stroke-width="3.5"/><line x1="704" y1="590" x2="796" y2="590" stroke="#1e2a44" stroke-width="4"/>
+<text x="570" y="796" font-size="20" font-weight="700" fill="#4a5568" text-anchor="middle">absent</text>
+<text x="570" y="828" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">stays clear</text>
+<text x="750" y="796" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">present</text>
+<text x="750" y="828" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">cloudy white</text>
+<text x="30" y="908" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">More reducing sugar, further along</text>
+<rect x="30" y="928" width="156" height="50" rx="8" fill="#3c7fd0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="108" y="1008" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">blue</text>
+<rect x="198" y="928" width="156" height="50" rx="8" fill="#48a058" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="276" y="1008" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">green</text>
+<rect x="366" y="928" width="156" height="50" rx="8" fill="#e0c43a" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="444" y="1008" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">yellow</text>
+<rect x="534" y="928" width="156" height="50" rx="8" fill="#e08a30" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="612" y="1008" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">orange</text>
+<rect x="702" y="928" width="156" height="50" rx="8" fill="#b5402a" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="780" y="1008" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">brick-red</text>
+<text x="30" y="1062" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Sucrose (non-reducing): test after hydrolysis</text>
+<rect x="30" y="1086" width="260" height="116" rx="14" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="64" cy="1120" r="20" fill="#2e6b62"/>
+<text x="64" y="1127" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="170" y="1150" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Boil with</text>
+<text x="170" y="1180" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">dilute HCl</text>
+<path d="M296 1130 L314 1144 L296 1158 Z" fill="#1e2a44"/>
+<rect x="320" y="1086" width="260" height="116" rx="14" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="354" cy="1120" r="20" fill="#2e6b62"/>
+<text x="354" y="1127" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="460" y="1150" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Neutralise with</text>
+<text x="460" y="1180" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">NaHCO₃</text>
+<path d="M586 1130 L604 1144 L586 1158 Z" fill="#1e2a44"/>
+<rect x="610" y="1086" width="260" height="116" rx="14" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="644" cy="1120" r="20" fill="#2e6b62"/>
+<text x="644" y="1127" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="750" y="1150" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Benedict’s</text>
+<text x="750" y="1180" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">and heat</text>
+<text x="30" y="1240" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">Red precipitate now: sucrose was present</text>
+</svg>

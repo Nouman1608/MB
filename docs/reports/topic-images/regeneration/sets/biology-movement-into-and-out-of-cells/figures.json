@@ -1,0 +1,20 @@
+[
+ {
+  "file": "biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp",
+  "width": 900,
+  "height": 930,
+  "after": "### Method in steps: osmosis investigation",
+  "alt": "Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall.",
+  "caption": "A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.",
+  "bytes": 77430
+ },
+ {
+  "file": "biology-movement-into-and-out-of-cells--04-root-water-gradient.webp",
+  "width": 900,
+  "height": 995,
+  "after": "## B2.2f: Taking in water and mineral ions",
+  "alt": "Two panels. In normal soil, soil water has few dissolved particles so it is more dilute than the root hair cell sap, and water enters the cell by osmosis. In salty soil or soil with too much fertiliser, soil water has many dissolved particles and is more concentrated than the cell sap, so the gradient reverses, water leaves the root hair cell and the plant wilts. Gold dots are dissolved particles.",
+  "caption": "Water uptake and loss at a root hair cell.",
+  "bytes": 95960
+ }
+]

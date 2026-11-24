@@ -75,8 +75,11 @@ const download = async (folder, f) => {
   fs.mkdirSync(dir, { recursive: true });
   const p = path.join(dir, f);
   if (fs.existsSync(p) && fs.statSync(p).size >= 1000) return p;
-  const g = await getWithTimeout(RAW + encodeURIComponent(folder) + '/' + encodeURIComponent(f));
-  if (g && g.ok) { const buf = Buffer.from(await g.arrayBuffer()); if (buf.subarray(0, 4).toString() === 'RIFF') { fs.writeFileSync(p, buf); fetched++; return p; } }
+  // Figure sets live in generated/ or, for redrawn replacements, in regeneration/sets/.
+  for (const base of [RAW, RAW.replace(/generated\/$/, 'regeneration/sets/')]) {
+    const g = await getWithTimeout(base + encodeURIComponent(folder) + '/' + encodeURIComponent(f), 3);
+    if (g && g.ok) { const buf = Buffer.from(await g.arrayBuffer()); if (buf.subarray(0, 4).toString() === 'RIFF') { fs.writeFileSync(p, buf); fetched++; return p; } }
+  }
   fetchFailed.push(f);
   return null;
 };
@@ -84,13 +87,20 @@ const download = async (folder, f) => {
 // Quick mode (the normal case): GitHub holds upload-list.txt, the images not yet online, worked out
 // in advance. Only those are fetched and uploaded. Run with "all" (UPLOAD-ALL-FIGURES.bat all) to
 // check every image instead.
-let quick = null;
+// A local upload-list.txt next to this file (same format) takes priority: it covers images that are
+// in this folder but not on GitHub. After a run with no failures it is renamed so it is not reused.
+let quick = null, listSource = 'GitHub';
+const localList = [path.join(root, 'upload-list.txt'), path.join(root, '_regeneration', 'upload-list.txt')].find((p) => fs.existsSync(p)) || path.join(root, 'upload-list.txt');
+const parseList = (txt) => txt.split(/\r?\n/).map((l) => l.trim().replace(/\\/g, '/')).filter((l) => l && !l.startsWith('#'));
 if (!process.argv.includes('--all')) {
-  const r = await getWithTimeout(LIST_URL, 4);
-  if (r && r.ok) quick = (await r.text()).split(/\r?\n/).map((l) => l.trim()).filter((l) => l && !l.startsWith('#'));
+  if (fs.existsSync(localList)) { quick = parseList(fs.readFileSync(localList, 'utf8')); listSource = path.relative(root, localList); }
+  else {
+    const r = await getWithTimeout(LIST_URL, 4);
+    if (r && r.ok) quick = parseList(await r.text());
+  }
 }
 if (quick) {
-  log(`Quick mode: ${quick.length} new images listed on GitHub.`);
+  log(`Quick mode: ${quick.length} new images listed (${listSource}).`);
   expected = quick.length;
   await pool(quick, 4, async (item) => {
     const [folder, f] = item.split('/');
@@ -189,3 +199,8 @@ await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 if (!logPath.endsWith('upload-log.txt')) console.log(`(The log was saved to ${logPath} because upload-log.txt was locked.)`);
 log(`\n\nFinished: uploaded ${uploaded}, already online ${skipped}, failed ${failed.length}.`);
 if (failed.length) log(`Failed images (run the file again to retry):\n  ${failed.join('\n  ')}`);
+// A finished local list is renamed, so the next run does not repeat it.
+if (listSource !== 'GitHub' && quick && !failed.length && !fetchFailed.length) {
+  const done = path.join(path.dirname(localList), `upload-list-done-${new Date().toISOString().slice(0, 10)}.txt`);
+  try { fs.renameSync(localList, done); log(`upload-list.txt finished; renamed to ${path.basename(done)}.`); } catch {}
+}

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 930" width="900" height="930" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="930" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Following the reaction</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Catalase: oxygen made over time</text>
+<line x1="130" y1="530" x2="840" y2="530" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/><line x1="130" y1="530" x2="130" y2="100" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/><line x1="130" y1="530" x2="130" y2="538" stroke="#1e2a44" stroke-width="2"/><text x="130" y="560" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text><line x1="243.33333333333331" y1="530" x2="243.33333333333331" y2="538" stroke="#1e2a44" stroke-width="2"/><text x="243.33333333333331" y="560" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">20</text><line x1="356.66666666666663" y1="530" x2="356.66666666666663" y2="538" stroke="#1e2a44" stroke-width="2"/><text x="356.66666666666663" y="560" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">40</text><line x1="470" y1="530" x2="470" y2="538" stroke="#1e2a44" stroke-width="2"/><text x="470" y="560" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">60</text><line x1="583.3333333333333" y1="530" x2="583.3333333333333" y2="538" stroke="#1e2a44" stroke-width="2"/><text x="583.3333333333333" y="560" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">80</text><line x1="696.6666666666667" y1="530" x2="696.6666666666667" y2="538" stroke="#1e2a44" stroke-width="2"/><text x="696.6666666666667" y="560" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">100</text><line x1="810" y1="530" x2="810" y2="538" stroke="#1e2a44" stroke-width="2"/><text x="810" y="560" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="middle">120</text><line x1="122" y1="530" x2="130" y2="530" stroke="#1e2a44" stroke-width="2"/><text x="118" y="536" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">0</text><line x1="122" y1="396.6666666666667" x2="130" y2="396.6666666666667" stroke="#1e2a44" stroke-width="2"/><text x="118" y="402.6666666666667" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">10</text><line x1="122" y1="263.33333333333337" x2="130" y2="263.33333333333337" stroke="#1e2a44" stroke-width="2"/><text x="118" y="269.33333333333337" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">20</text><line x1="122" y1="130" x2="130" y2="130" stroke="#1e2a44" stroke-width="2"/><text x="118" y="136" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="end">30</text><text x="470" y="592" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Time / s</text><text transform="translate(80 330) rotate(-90)" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Volume of O₂ / cm³</text>
+<line x1="130" y1="530" x2="436" y2="170" stroke="#b5602e" stroke-width="3.5" stroke-dasharray="10 7"/>
+<line x1="470" y1="250" x2="810" y2="170" stroke="#2f6f8f" stroke-width="3.5" stroke-dasharray="10 7"/>
+<path d="M130 530 C148.88888888888889 510 205.55555555555554 445.55555555555554 243.33333333333331 410 C281.1111111111111 374.44444444444446 318.88888888888886 343.3333333333333 356.66666666666663 316.66666666666663 C394.4444444444444 289.99999999999994 432.22222222222223 268.8888888888889 470 250 C507.77777777777777 231.11111111111111 545.5555555555554 215.55555555555554 583.3333333333333 203.33333333333331 C621.1111111111111 191.1111111111111 658.8888888888889 182.22222222222223 696.6666666666667 176.66666666666669 C734.4444444444446 171.11111111111114 791.1111111111111 171.11111111111111 810 170" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="130" cy="530" r="7" fill="#1e2a44"/>
+<circle cx="243.33333333333331" cy="410" r="7" fill="#1e2a44"/>
+<circle cx="356.66666666666663" cy="316.66666666666663" r="7" fill="#1e2a44"/>
+<circle cx="470" cy="250" r="7" fill="#1e2a44"/>
+<circle cx="583.3333333333333" cy="203.33333333333331" r="7" fill="#1e2a44"/>
+<circle cx="696.6666666666667" cy="176.66666666666669" r="7" fill="#1e2a44"/>
+<circle cx="810" cy="170" r="7" fill="#1e2a44"/>
+<circle cx="243.33333333333331" cy="396.6666666666667" r="8" fill="#b5602e"/>
+<circle cx="470" cy="250" r="8" fill="#2f6f8f"/>
+<text x="152.66666666666666" y="148.66666666666663" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">initial rate</text><text x="152.66666666666666" y="175.66666666666663" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">= 10.0 ÷ 20</text><text x="152.66666666666666" y="202.66666666666663" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">= 0.50 cm³ s⁻¹</text>
+<text x="538" y="316.66666666666663" font-size="20" font-weight="700" fill="#2f6f8f" text-anchor="start">later: 6.0 ÷ 60</text><text x="538" y="343.66666666666663" font-size="20" font-weight="700" fill="#2f6f8f" text-anchor="start">= 0.10 cm³ s⁻¹</text>
+<rect x="40" y="640" width="820" height="260" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<path d="M120 732 h28 v52 l46 82 h-120 l46 -82 z" fill="#fff" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round"/>
+<path d="M88 836 h92 l17 30 h-126 z" fill="#dce9e7"/>
+<circle cx="120" cy="845" r="5" fill="none" stroke="#2e6b62" stroke-width="2"/>
+<circle cx="140" cy="826" r="5" fill="none" stroke="#2e6b62" stroke-width="2"/>
+<circle cx="130" cy="802" r="5" fill="none" stroke="#2e6b62" stroke-width="2"/>
+<path d="M134 732 V690 H330" fill="none" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="330" y="670" width="270" height="40" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="460" y="672" width="138" height="36" fill="#f2e7b8"/>
+<line x1="460" y1="658" x2="460" y2="722" stroke="#1e2a44" stroke-width="4"/>
+<line x1="460" y1="690" x2="640" y2="690" stroke="#1e2a44" stroke-width="4"/>
+<line x1="640" y1="670" x2="640" y2="710" stroke="#1e2a44" stroke-width="4"/>
+<text x="465" y="744" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">gas syringe collects O₂</text>
+<text x="70" y="890" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="start">potato extract + H₂O₂</text>
+<text x="560" y="790" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">2H₂O₂ → 2H₂O + O₂</text>
+<text x="560" y="836" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">Best comparison: initial rate</text>
+<text x="560" y="862" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">(tangent at t = 0)</text>
+</svg>

@@ -1,0 +1,29 @@
+[
+ {
+  "file": "biology-enzymes--01-enzyme-action.webp",
+  "width": 900,
+  "height": 920,
+  "after": "## 1. Structure and function of molecules",
+  "alt": "Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged.",
+  "caption": "The substrate fits the active site, products form and leave, and the enzyme is unchanged.",
+  "bytes": 98006
+ },
+ {
+  "file": "biology-enzymes--02-specificity.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Worked example: explaining enzyme specificity",
+  "alt": "Lipase is shown with two molecules. Fat has a complementary shape, fits the active site and reacts. Starch, a chain of beads, has a different shape, does not fit and nothing happens.",
+  "caption": "Only a substrate with a complementary shape fits the active site.",
+  "bytes": 60656
+ },
+ {
+  "file": "biology-enzymes--05-temperature-collisions.webp",
+  "width": 900,
+  "height": 860,
+  "after": "### Effects on rate",
+  "alt": "Two panels at temperatures below the optimum. Cooler: slow substrate molecules, short arrows, one enzyme has a substrate bound. Warmer: more kinetic energy, long arrows, more frequent effective collisions, three enzymes have substrates bound.",
+  "caption": "More kinetic energy gives more frequent effective collisions and more enzyme-substrate complexes per unit time.",
+  "bytes": 76400
+ }
+]

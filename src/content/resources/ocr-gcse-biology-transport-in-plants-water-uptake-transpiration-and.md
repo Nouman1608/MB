@@ -64,7 +64,7 @@ After entering the root hair cell, water and ions pass inwards through the root 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--04-root-water-gradient.webp" width="900" height="1040" alt="Two panels. In normal soil, soil water has few dissolved particles so it has a higher water potential than the root hair cell sap, and water enters the cell by osmosis. In salty soil or soil with too much fertiliser, soil water has many dissolved particles and a lower water potential than the cell sap, so the gradient reverses, water leaves the root hair cell and the plant wilts. Gold dots are dissolved particles." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-movement-into-and-out-of-cells--04-root-water-gradient.webp" width="900" height="995" alt="Two panels. In normal soil, soil water has few dissolved particles so it is more dilute than the root hair cell sap, and water enters the cell by osmosis. In salty soil or soil with too much fertiliser, soil water has many dissolved particles and is more concentrated than the cell sap, so the gradient reverses, water leaves the root hair cell and the plant wilts. Gold dots are dissolved particles." loading="lazy">
   <figcaption>Water uptake and loss at a root hair cell.</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ After entering the root hair cell, water and ions pass inwards through the root 
 In an explanation, always link each feature to its function.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Step 3: water lost from the leaf is pulled up the xylem." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1040" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Step 3: water lost from the leaf is pulled up the xylem." loading="lazy">
   <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ In an explanation, always link each feature to its function.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1080" alt="A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
   <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ In an explanation, always link each feature to its function.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1270" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
   <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ Always link the factor to either the gradient or the stomata. "Faster" alone doe
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations use kinetic energy and the concentration gradient; humidity also changes the rate." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-plants--06-transpiration-factors.webp" width="900" height="1360" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations use kinetic energy and the concentration gradient; humidity also changes the rate." loading="lazy">
   <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
 </figure>
 

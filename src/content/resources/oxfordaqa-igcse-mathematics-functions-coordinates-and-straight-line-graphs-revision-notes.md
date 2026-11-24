@@ -205,7 +205,7 @@ Worked reminder: take A(1, 3) and B(5, 6). Then gradient AB = 3/4. The line thro
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="940" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
   <figcaption>Perpendicular gradients multiply to -1.</figcaption>
 </figure>
 
@@ -246,7 +246,7 @@ Equal gradients with equal intercepts mean the same line.
 - For an inverse function, test one value: put a number into f, then put the result into your f⁻¹. You should get the number back.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1120" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1005" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
   <figcaption>For x and y on the same side, set x = 0 and y = 0 to find the axis crossing points, then check a third point.</figcaption>
 </figure>
 

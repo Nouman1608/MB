@@ -1,0 +1,65 @@
+[
+ {
+  "file": "mathematics-transformations-and-vectors--01-reflection-mirror-line.webp",
+  "width": 900,
+  "height": 792,
+  "after": "## Official syllabus",
+  "alt": "Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2).",
+  "caption": "A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.",
+  "bytes": 48654
+ },
+ {
+  "file": "mathematics-transformations-and-vectors--02-rotation-about-origin.webp",
+  "width": 900,
+  "height": 864,
+  "after": "## Official syllabus",
+  "alt": "Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction.",
+  "caption": "A rotation is described by its centre, angle and direction.",
+  "bytes": 51708
+ },
+ {
+  "file": "mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp",
+  "width": 900,
+  "height": 860,
+  "after": "## Official syllabus",
+  "alt": "Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles.",
+  "caption": "An enlargement multiplies every distance from the centre, and every side, by the scale factor.",
+  "bytes": 60688
+ },
+ {
+  "file": "mathematics-transformations-and-vectors--03-translation-column-vector.webp",
+  "width": 900,
+  "height": 886,
+  "after": "## Official syllabus",
+  "alt": "Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1).",
+  "caption": "A translation slides every point by the same column vector without turning or resizing the shape.",
+  "bytes": 55006
+ },
+ {
+  "file": "mathematics-transformations-and-vectors--05-enlargement-fractional.webp",
+  "width": 900,
+  "height": 880,
+  "after": "## Official syllabus",
+  "alt": "Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2).",
+  "caption": "A scale factor between 0 and 1 makes the image smaller.",
+  "bytes": 66528
+ },
+ {
+  "file": "mathematics-transformations-and-vectors--06-enlargement-negative.webp",
+  "width": 900,
+  "height": 864,
+  "after": "## Methods in steps",
+  "alt": "Triangle ABC is enlarged by scale factor -2 from P(3,3). Each image corner is twice as far from P but on the opposite side, so the image is upside down: A'(1,1), B'(1,-1), C'(-3,1).",
+  "caption": "A negative scale factor puts the image on the opposite side of the centre, inverted.",
+  "bytes": 64366
+ },
+ {
+  "file": "mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp",
+  "width": 900,
+  "height": 906,
+  "after": "### Vector proof",
+  "alt": "In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6).",
+  "caption": "Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.",
+  "bytes": 59326
+ }
+]

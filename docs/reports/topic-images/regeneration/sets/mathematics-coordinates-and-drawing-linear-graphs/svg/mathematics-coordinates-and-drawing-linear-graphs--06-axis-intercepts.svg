@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1005" width="900" height="1005" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1005" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Draw 4x + 3y = 12</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Use x = 0, then y = 0, then a check</text>
+<rect x="202" y="156" width="576" height="704" fill="#ffffff"/>
+<line x1="202" y1="156" x2="202" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="266" y1="156" x2="266" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="330" y1="156" x2="330" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="394" y1="156" x2="394" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="458" y1="156" x2="458" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="522" y1="156" x2="522" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="586" y1="156" x2="586" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="650" y1="156" x2="650" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="714" y1="156" x2="714" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="778" y1="156" x2="778" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="860" x2="778" y2="860" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="796" x2="778" y2="796" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="732" x2="778" y2="732" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="668" x2="778" y2="668" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="604" x2="778" y2="604" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="540" x2="778" y2="540" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="476" x2="778" y2="476" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="412" x2="778" y2="412" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="348" x2="778" y2="348" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="284" x2="778" y2="284" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="220" x2="778" y2="220" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="156" x2="778" y2="156" stroke="#d6e0de" stroke-width="1.5"/>
+<line x1="202" y1="540" x2="797.2" y2="540" stroke="#1e2a44" stroke-width="3.5"/><polygon points="819.2,540 797.2,529 797.2,551" fill="#1e2a44"/>
+<line x1="330" y1="860" x2="330" y2="136.8" stroke="#1e2a44" stroke-width="3.5"/><polygon points="330,114.80000000000001 319,136.8 341,136.8" fill="#1e2a44"/>
+<text x="823.2" y="570" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start" font-style="italic">x</text>
+<text x="348" y="130.8" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start" font-style="italic">y</text>
+<text x="202" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">−2</text>
+<text x="266" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">−1</text>
+<text x="394" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="458" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<text x="522" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">3</text>
+<text x="586" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<text x="650" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<text x="714" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">6</text>
+<text x="778" y="570" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">7</text>
+<text x="312" y="867" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">−5</text>
+<text x="312" y="803" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">−4</text>
+<text x="312" y="739" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">−3</text>
+<text x="312" y="675" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">−2</text>
+<text x="312" y="611" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">−1</text>
+<text x="312" y="483" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">1</text>
+<text x="312" y="419" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">2</text>
+<text x="312" y="355" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">3</text>
+<text x="312" y="291" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">4</text>
+<text x="312" y="227" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">5</text>
+<text x="312" y="163" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">6</text>
+<text x="318" y="570" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">O</text>
+<line x1="282" y1="220" x2="746" y2="838.6666666666667" stroke="#2e6b62" stroke-width="5"/>
+<circle cx="330" cy="284" r="13" fill="#b5602e"/><circle cx="522" cy="540" r="13" fill="#b5602e"/><circle cx="714" cy="796" r="13" fill="#8a6d0d"/>
+<text x="354" y="270" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">x = 0: (0, 4)</text>
+<text x="546" y="518" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">y = 0: (3, 0)</text>
+<text x="690" y="838" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="end">check: (6, −4)</text>
+<rect x="170" y="890" width="260" height="40" rx="20" fill="#b5602e"/><text x="300" y="918" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3y = 12, so y = 4</text>
+<rect x="170" y="940" width="260" height="40" rx="20" fill="#b5602e"/><text x="300" y="968" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">4x = 12, so x = 3</text>
+<rect x="470" y="890" width="300" height="40" rx="20" fill="#8a6d0d"/><text x="620" y="918" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">24 + 3y = 12, y = −4</text>
+</svg>

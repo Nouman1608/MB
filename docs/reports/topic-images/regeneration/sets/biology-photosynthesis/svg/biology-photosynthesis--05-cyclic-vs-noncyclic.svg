@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 800" width="900" height="800" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="800" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Cyclic or non-cyclic?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Same membrane, different electron route</text>
+<rect x="22" y="122" width="856" height="300" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="46" y="164" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">Non-cyclic: PSII and PSI</text>
+<rect x="34" y="276" width="80" height="40" rx="20" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="74" y="303" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">H<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5">O</tspan></text>
+<line x1="114" y1="296" x2="116" y2="296" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/><polygon points="130,296 116,304.4 116,287.6" fill="#1e2a44"/>
+<line x1="210" y1="296" x2="310" y2="296" stroke="#8a6d0d" stroke-width="3.5"/>
+<circle cx="170" cy="296" r="40" fill="#86b5b0" stroke="#1e2a44" stroke-width="3"/><text x="170" y="303" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">PSII</text>
+<circle cx="226" cy="296" r="15" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="260" cy="296" r="15" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="294" cy="296" r="15" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="350" cy="296" r="40" fill="#86b5b0" stroke="#1e2a44" stroke-width="3"/><text x="350" y="303" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">PSI</text>
+<line x1="390" y1="296" x2="396" y2="296" stroke="#8a6d0d" stroke-width="3.5" stroke-linecap="round"/><polygon points="412,296 396,305.6 396,286.4" fill="#8a6d0d"/>
+<rect x="414" y="276" width="86" height="40" rx="20" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="457" y="303" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">NADP</text>
+<text x="260" y="372" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">electrons come from water</text>
+<text x="540" y="214" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">ATP</text>
+<path d="M796 206 L807 218 L826 192" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="540" y="276" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">reduced NADP</text>
+<path d="M796 268 L807 280 L826 254" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="540" y="338" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">O<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5"></tspan></text>
+<path d="M796 330 L807 342 L826 316" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="22" y="440" width="856" height="300" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="46" y="482" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">Cyclic: PSI only</text>
+<path d="M282 539.2538660821072 A84 84 0 0 1 322.7238512530255 597.4135530759778" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<polygon points="325.1549257403625,611.2008616181487 313.62985198525934,591.9090842262278 329.3867760334546,589.1307133835569" fill="#8a6d0d"/>
+<path d="M322.7238512530255 626.5864469240222 A84 84 0 0 1 254.58644692402214 694.7238512530255" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<polygon points="240.79913838185124,697.1549257403625 260.0909157737721,685.6298519852593 262.86928661644305,701.3867760334546" fill="#8a6d0d"/>
+<path d="M225.41355307597786 694.7238512530255 A84 84 0 0 1 167.25386608210715 654" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<polygon points="160.25386608210715,641.8756443470179 177.68206931238265,656.062177826491 163.82566285183165,664.062177826491" fill="#8a6d0d"/>
+<path d="M157.2761487469745 626.5864469240222 A84 84 0 0 1 211.27030796064378 533.0658198539837" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<circle cx="240" cy="528" r="15" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="324" cy="612" r="15" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="240" cy="696" r="15" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="156" cy="612" r="40" fill="#86b5b0" stroke="#1e2a44" stroke-width="3"/><text x="156" y="619" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">PSI</text>
+<text x="244" y="620" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">e<tspan dy="-8" font-size="70%">−</tspan><tspan dy="8"></tspan></text>
+<text x="360" y="578" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">electrons return</text><text x="360" y="604" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">to PSI</text>
+<text x="360" y="652" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">no water used</text>
+<text x="540" y="532" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">ATP</text>
+<path d="M796 524 L807 536 L826 510" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="540" y="594" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">reduced NADP</text>
+<path d="M798 574 L822 598 M822 574 L798 598" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/>
+<text x="540" y="656" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">O<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5"></tspan></text>
+<path d="M798 636 L822 660 M822 636 L798 660" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/>
+<text x="450" y="774" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Extra ATP when the Calvin cycle needs more ATP than reduced NADP</text>
+</svg>

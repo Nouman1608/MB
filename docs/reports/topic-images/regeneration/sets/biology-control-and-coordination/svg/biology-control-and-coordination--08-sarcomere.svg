@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1170" width="900" height="1170" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1170" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">A sarcomere shortens</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Drawn to scale: 1 µm = 280 px</text>
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d9a"/></marker>
+<marker id="ahRb" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker>
+<marker id="ahRr" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker></defs><line x1="330" y1="134" x2="378" y2="134" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<text x="390" y="141" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Actin (thin)</text>
+<line x1="578" y1="134" x2="626" y2="134" stroke="#d4b02e" stroke-width="12" stroke-linecap="round"/>
+<text x="640" y="141" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Myosin (thick)</text>
+<text x="40" y="188" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">Relaxed</text>
+<path d="M100 247 V269 M100 258 H800 M800 247 V269" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="244" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Sarcomere 2.5 µm</text>
+<text x="100" y="298" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Z</text>
+<text x="800" y="298" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Z</text>
+<text x="450" y="298" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">M</text>
+<rect x="226" y="316" width="448" height="190" fill="#e2e7e7"/>
+<line x1="100" y1="340" x2="380" y2="340" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="520" y1="340" x2="800" y2="340" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="100" y1="410" x2="380" y2="410" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="520" y1="410" x2="800" y2="410" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="100" y1="480" x2="380" y2="480" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="520" y1="480" x2="800" y2="480" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<rect x="226" y="364" width="448" height="22" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<path d="M242 365 l8 -14 M242 385 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M268 365 l8 -14 M268 385 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M294 365 l8 -14 M294 385 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M320 365 l8 -14 M320 385 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M346 365 l8 -14 M346 385 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M372 365 l8 -14 M372 385 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M398 365 l8 -14 M398 385 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M424 365 l8 -14 M424 385 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M658 365 l-8 -14 M658 385 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M632 365 l-8 -14 M632 385 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M606 365 l-8 -14 M606 385 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M580 365 l-8 -14 M580 385 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M554 365 l-8 -14 M554 385 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M528 365 l-8 -14 M528 385 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M502 365 l-8 -14 M502 385 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M476 365 l-8 -14 M476 385 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<rect x="226" y="434" width="448" height="22" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<path d="M242 435 l8 -14 M242 455 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M268 435 l8 -14 M268 455 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M294 435 l8 -14 M294 455 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M320 435 l8 -14 M320 455 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M346 435 l8 -14 M346 455 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M372 435 l8 -14 M372 455 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M398 435 l8 -14 M398 455 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M424 435 l8 -14 M424 455 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M658 435 l-8 -14 M658 455 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M632 435 l-8 -14 M632 455 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M606 435 l-8 -14 M606 455 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M580 435 l-8 -14 M580 455 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M554 435 l-8 -14 M554 455 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M528 435 l-8 -14 M528 455 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M502 435 l-8 -14 M502 455 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M476 435 l-8 -14 M476 455 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<line x1="450" y1="350" x2="450" y2="470" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="6 5"/>
+<rect x="95" y="310" width="10" height="200" fill="#1e2a44"/><rect x="795" y="310" width="10" height="200" fill="#1e2a44"/>
+<line x1="100" y1="535" x2="226" y2="535" stroke="#2e7d9a" stroke-width="4"/>
+<line x1="674" y1="535" x2="800" y2="535" stroke="#2e7d9a" stroke-width="4"/>
+<line x1="226" y1="535" x2="674" y2="535" stroke="#b5402e" stroke-width="4"/>
+<line x1="100" y1="527" x2="100" y2="543" stroke="#2e7d9a" stroke-width="3"/>
+<line x1="800" y1="527" x2="800" y2="543" stroke="#2e7d9a" stroke-width="3"/>
+<line x1="226" y1="527" x2="226" y2="543" stroke="#b5402e" stroke-width="3"/>
+<line x1="674" y1="527" x2="674" y2="543" stroke="#b5402e" stroke-width="3"/>
+<text x="163" y="565" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="middle">I</text>
+<text x="737" y="565" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="middle">I</text>
+<text x="450" y="565" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">A band 1.6 µm</text>
+<text x="450" y="598" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">I band 0.9 µm, H zone 0.5 µm</text>
+<text x="40" y="618" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">Contracted</text>
+<path d="M170 677 V699 M170 688 H730 M730 677 V699" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="674" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Sarcomere 2.0 µm</text>
+<text x="170" y="728" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Z</text>
+<text x="730" y="728" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Z</text>
+<text x="450" y="728" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">M</text>
+<rect x="226" y="746" width="448" height="190" fill="#e2e7e7"/>
+<line x1="170" y1="770" x2="450" y2="770" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="450" y1="770" x2="730" y2="770" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="170" y1="840" x2="450" y2="840" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="450" y1="840" x2="730" y2="840" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="170" y1="910" x2="450" y2="910" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<line x1="450" y1="910" x2="730" y2="910" stroke="#2f8a80" stroke-width="8" stroke-linecap="round"/>
+<rect x="226" y="794" width="448" height="22" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<path d="M242 795 l8 -14 M242 815 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M268 795 l8 -14 M268 815 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M294 795 l8 -14 M294 815 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M320 795 l8 -14 M320 815 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M346 795 l8 -14 M346 815 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M372 795 l8 -14 M372 815 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M398 795 l8 -14 M398 815 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M424 795 l8 -14 M424 815 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M658 795 l-8 -14 M658 815 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M632 795 l-8 -14 M632 815 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M606 795 l-8 -14 M606 815 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M580 795 l-8 -14 M580 815 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M554 795 l-8 -14 M554 815 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M528 795 l-8 -14 M528 815 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M502 795 l-8 -14 M502 815 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M476 795 l-8 -14 M476 815 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<rect x="226" y="864" width="448" height="22" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<path d="M242 865 l8 -14 M242 885 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M268 865 l8 -14 M268 885 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M294 865 l8 -14 M294 885 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M320 865 l8 -14 M320 885 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M346 865 l8 -14 M346 885 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M372 865 l8 -14 M372 885 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M398 865 l8 -14 M398 885 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M424 865 l8 -14 M424 885 l8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M658 865 l-8 -14 M658 885 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M632 865 l-8 -14 M632 885 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M606 865 l-8 -14 M606 885 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M580 865 l-8 -14 M580 885 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M554 865 l-8 -14 M554 885 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M528 865 l-8 -14 M528 885 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M502 865 l-8 -14 M502 885 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<path d="M476 865 l-8 -14 M476 885 l-8 14" stroke="#c0643a" stroke-width="2"/>
+<line x1="450" y1="780" x2="450" y2="900" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="6 5"/>
+<rect x="165" y="740" width="10" height="200" fill="#1e2a44"/><rect x="725" y="740" width="10" height="200" fill="#1e2a44"/>
+<line x1="170" y1="965" x2="226" y2="965" stroke="#2e7d9a" stroke-width="4"/>
+<line x1="674" y1="965" x2="730" y2="965" stroke="#2e7d9a" stroke-width="4"/>
+<line x1="226" y1="965" x2="674" y2="965" stroke="#b5402e" stroke-width="4"/>
+<line x1="170" y1="957" x2="170" y2="973" stroke="#2e7d9a" stroke-width="3"/>
+<line x1="730" y1="957" x2="730" y2="973" stroke="#2e7d9a" stroke-width="3"/>
+<line x1="226" y1="957" x2="226" y2="973" stroke="#b5402e" stroke-width="3"/>
+<line x1="674" y1="957" x2="674" y2="973" stroke="#b5402e" stroke-width="3"/>
+<text x="198" y="995" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="middle">I</text>
+<text x="702" y="995" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="middle">I</text>
+<text x="450" y="995" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">A band 1.6 µm</text>
+<text x="450" y="1028" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">I band 0.4 µm, H zone 0 (gone)</text>
+<line x1="100" y1="718" x2="100" y2="880" stroke="#4a5568" stroke-width="2.5" stroke-dasharray="9 7"/>
+<line x1="800" y1="718" x2="800" y2="880" stroke="#4a5568" stroke-width="2.5" stroke-dasharray="9 7"/>
+<line x1="102" y1="900" x2="158" y2="900" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<line x1="798" y1="900" x2="742" y2="900" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<text x="100" y="934" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Z lines</text><text x="100" y="960" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">move in</text>
+<rect x="30" y="1056" width="840" height="90" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="1092" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">Sarcomere 2.5 → 2.0 µm: 20% shorter</text>
+<text x="450" y="1124" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">A band stays 1.6 µm: filaments slide, they do not shorten</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 850" width="900" height="850" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="850" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Big bodies, small surface</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Surface area to volume ratio falls as size rises</text>
+<defs>
+<marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+<marker id="ahBigT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+<marker id="ahBigR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker>
+<marker id="ahBigO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+<marker id="ahT2" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="20" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+</defs><path d="M60 331 l17.6 -13.200000000000001 h44 l-17.6 13.200000000000001 z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><path d="M104 331 l17.6 -13.200000000000001 v44 l-17.6 13.200000000000001 z" fill="#72aca7" stroke="#1e2a44" stroke-width="2.5"/><rect x="60" y="331" width="44" height="44" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M230 287 l35.2 -26.400000000000002 h88 l-35.2 26.400000000000002 z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><path d="M318 287 l35.2 -26.400000000000002 v88 l-35.2 26.400000000000002 z" fill="#72aca7" stroke="#1e2a44" stroke-width="2.5"/><rect x="230" y="287" width="88" height="88" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M430 199 l70.4 -52.800000000000004 h176 l-70.4 52.800000000000004 z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/><path d="M606 199 l70.4 -52.800000000000004 v176 l-70.4 52.800000000000004 z" fill="#72aca7" stroke="#1e2a44" stroke-width="2.5"/><rect x="430" y="199" width="176" height="176" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="82" y="414" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">1 cm</text>
+<text x="274" y="414" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">2 cm</text>
+<text x="518" y="414" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">4 cm</text>
+<text x="82" y="464" font-size="27" font-weight="700" fill="#2e6b62" text-anchor="middle">6/1 = 6</text>
+<text x="274" y="464" font-size="27" font-weight="700" fill="#2e6b62" text-anchor="middle">6/2 = 3</text>
+<text x="518" y="464" font-size="27" font-weight="700" fill="#2e6b62" text-anchor="middle">6/4 = 1.5</text>
+<text x="450" y="513" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">Surface area : volume</text>
+<line x1="40" y1="555" x2="860" y2="555" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="450" y="603" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">Fit it in the chest: alveoli</text>
+<circle cx="110" cy="727" r="48" fill="#dfeceb" stroke="#2e6b62" stroke-width="5"/>
+<text x="110" y="734" font-size="18" font-weight="700" fill="#2e6b62" text-anchor="middle">0.2 mm</text>
+<text x="110" y="815" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">1.26 × 10<tspan font-size="65%" dy="-0.6em">−7</tspan><tspan dy="0.39em" dx="0.28em">m</tspan><tspan font-size="65%" dy="-0.6em">2</tspan></text>
+<text x="235" y="735" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="middle">×</text>
+<circle cx="296" cy="679" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="326" cy="679" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="356" cy="679" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="386" cy="679" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="416" cy="679" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="296" cy="710" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="326" cy="710" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="356" cy="710" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="386" cy="710" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="416" cy="710" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="296" cy="741" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="326" cy="741" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="356" cy="741" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="386" cy="741" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="416" cy="741" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="296" cy="772" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="326" cy="772" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="356" cy="772" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="386" cy="772" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="416" cy="772" r="13" fill="#dfeceb" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="356" y="815" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">4.5 × 10<tspan font-size="65%" dy="-0.6em">8</tspan><tspan dy="0.39em" dx="0.28em">alveoli</tspan></text>
+<text x="555" y="735" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="middle">=</text>
+<rect x="610" y="669" width="250" height="110" rx="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="735" y="738" font-size="38" font-weight="700" fill="#1e2a44" text-anchor="middle">56.5 m<tspan font-size="65%" dy="-0.6em">2</tspan></text>
+<text x="735" y="815" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">lung exchange area</text>
+</svg>

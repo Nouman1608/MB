@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1034" width="900" height="1034" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1034" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">How new species form</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Gene flow stops, then the groups diverge</text>
+<text x="235" y="160" font-size="28" font-weight="700" fill="#2e6b62" text-anchor="middle">Allopatric</text>
+<text x="235" y="192" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">physical barrier</text>
+<rect x="40" y="220" width="390" height="200" rx="14" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="85" cy="265" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="160" cy="275" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="125" cy="320" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="180" cy="335" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="310" cy="275" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="385" cy="265" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="345" cy="320" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="290" cy="335" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="235" y="402" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">One population</text>
+<line x1="235" y1="426" x2="235" y2="472" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<rect x="40" y="480" width="390" height="200" rx="14" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="85" cy="525" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="160" cy="535" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="125" cy="580" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="180" cy="595" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="310" cy="535" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="385" cy="525" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="345" cy="580" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="290" cy="595" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M235 490 c-25 25 25 45 0 70 c-25 25 25 45 0 70" fill="none" stroke="#2b5a9a" stroke-width="13" stroke-linejoin="round" stroke-linecap="round" />
+<text x="235" y="662" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">River: no gene flow</text>
+<line x1="235" y1="686" x2="235" y2="732" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<rect x="40" y="740" width="390" height="200" rx="14" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="85" cy="785" r="12" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="160" cy="795" r="12" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="125" cy="840" r="12" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="180" cy="855" r="12" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="310" cy="795" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="385" cy="785" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="345" cy="840" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="290" cy="855" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M235 750 c-25 25 25 45 0 70 c-25 25 25 45 0 70" fill="none" stroke="#2b5a9a" stroke-width="13" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M218 808 l34 34 M252 808 l-34 34" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/>
+<text x="235" y="922" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Diverged: new species</text>
+<text x="685" y="160" font-size="28" font-weight="700" fill="#2b5a9a" text-anchor="middle">Sympatric</text>
+<text x="685" y="192" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">same place, other barrier</text>
+<rect x="490" y="220" width="390" height="200" rx="14" fill="#fff" stroke="#2b5a9a" stroke-width="2.5"/>
+<circle cx="535" cy="265" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="610" cy="275" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="575" cy="320" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="630" cy="335" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="760" cy="275" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="835" cy="265" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="795" cy="320" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="740" cy="335" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="685" y="402" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">One population</text>
+<line x1="685" y1="426" x2="685" y2="472" stroke="#2b5a9a" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="490" y="480" width="390" height="200" rx="14" fill="#fff" stroke="#2b5a9a" stroke-width="2.5"/>
+<circle cx="535" cy="525" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="610" cy="535" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="563" y="568" width="24" height="24" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="618" y="583" width="24" height="24" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="748" y="523" width="24" height="24" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="823" y="513" width="24" height="24" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="795" cy="580" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="740" cy="595" r="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="685" y="662" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Flower in May or July</text>
+<line x1="685" y1="686" x2="685" y2="732" stroke="#2b5a9a" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="490" y="740" width="390" height="200" rx="14" fill="#fff" stroke="#2b5a9a" stroke-width="2.5"/>
+<circle cx="535" cy="785" r="12" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="610" cy="795" r="12" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="563" y="828" width="24" height="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="618" y="843" width="24" height="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="748" y="783" width="24" height="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="823" y="773" width="24" height="24" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="795" cy="840" r="12" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="740" cy="855" r="12" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M668 808 l34 34 M702 808 l-34 34" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/>
+<text x="685" y="922" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Diverged: new species</text>
+<text x="450" y="1000" font-size="21" font-weight="700" fill="#b5602e" text-anchor="middle">Cross = no fertile offspring together</text>
+</svg>

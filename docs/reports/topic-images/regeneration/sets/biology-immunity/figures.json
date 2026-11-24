@@ -1,0 +1,38 @@
+[
+ {
+  "file": "biology-immunity--08-herd-immunity.webp",
+  "width": 900,
+  "height": 890,
+  "after": "## How to approach it",
+  "alt": "Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated.",
+  "caption": "When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.",
+  "bytes": 224024
+ },
+ {
+  "file": "biology-immunity--07-hiv-replication.webp",
+  "width": 900,
+  "height": 1270,
+  "after": "## How to approach it",
+  "alt": "Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets.",
+  "caption": "HIV uses the host cell to make new virus particles, destroying helper T cells.",
+  "bytes": 144424
+ },
+ {
+  "file": "biology-immunity--01-bacterium-vs-virus.webp",
+  "width": 900,
+  "height": 1060,
+  "after": "## How to approach it",
+  "alt": "A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer.",
+  "caption": "A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.",
+  "bytes": 141634
+ },
+ {
+  "file": "biology-immunity--02-four-diseases.webp",
+  "width": 900,
+  "height": 1140,
+  "after": "## How to approach it",
+  "alt": "Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child.",
+  "caption": "Each disease has a named pathogen type and a main transmission route.",
+  "bytes": 123324
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "file": "mathematics-circle-theorems-ii--02-chord-bisector.webp",
+  "width": 900,
+  "height": 820,
+  "after": "## Proof-writing checklist (Higher tier only)",
+  "alt": "Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6).",
+  "caption": "The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.",
+  "bytes": 46646
+ },
+ {
+  "file": "mathematics-circle-theorems-ii--04-equal-tangents.webp",
+  "width": 900,
+  "height": 760,
+  "after": "### Method for a length question",
+  "alt": "Circle with centre O and external point P. Tangents PA and PB are marked equal, each 12. Radii OA and OB (5) meet them at right angles, and OP is 13. Two tangents drawn from the same outside point P touch the circle at A and B and have equal lengths; each is perpendicular to its radius.",
+  "caption": "Tangents from an external point are equal in length (here PA = PB = 12).",
+  "bytes": 47492
+ },
+ {
+  "file": "mathematics-circle-theorems-ii--05-tangent-angles.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## Proof-writing checklist (Higher tier only)",
+  "alt": "Circle with tangents PA and PB from P, angle APB 50 degrees. Triangle PAB is isosceles so angles at A and B are 65 degrees. Angle AOB is 360 minus 90 minus 90 minus 50 = 130 degrees. Given angle APB = 50 degrees: equal tangents make PAB isosceles (65 degrees each), and the quadrilateral OAPB gives AOB = 130 degrees.",
+  "caption": "Using PA = PB and the radius-tangent right angles to find angles.",
+  "bytes": 57816
+ }
+]

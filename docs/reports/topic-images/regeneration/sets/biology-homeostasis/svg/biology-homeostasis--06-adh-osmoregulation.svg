@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 970" width="900" height="970" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="970" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">ADH and water balance</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Dehydrated: more ADH, more water kept</text>
+<rect x="30" y="126" width="400" height="46" rx="23" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="230" y="157" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Blood water potential falls</text>
+<line x1="230" y1="174" x2="230" y2="210" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<ellipse cx="230" cy="254" rx="150" ry="40" fill="#dce9e7" stroke="#2e6b62" stroke-width="3"/>
+<text x="230" y="262" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Hypothalamus</text>
+<text x="400" y="248" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">Osmoreceptors</text>
+<text x="400" y="277" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">shrink and signal</text>
+<line x1="230" y1="295" x2="230" y2="369" stroke="#2e6b62" stroke-width="3.5"/>
+<text x="246" y="341" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">impulses</text>
+<rect x="100" y="369" width="260" height="60" rx="12" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="230" y="406" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Posterior pituitary</text>
+<rect x="360" y="389" width="500" height="30" rx="15" fill="#f6d8d0" stroke="#b5602e" stroke-width="2.5"/>
+<circle cx="400" cy="404" r="9" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="470" cy="404" r="9" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="540" cy="404" r="9" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="610" cy="404" r="9" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="660" y1="404" x2="850" y2="404" stroke="#b5602e" stroke-width="3" marker-end="url(#ahR)"/>
+<text x="620" y="374" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">ADH in blood</text>
+<text x="660" y="452" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">to the kidney</text>
+<text x="450" y="512" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Collecting duct cell</text>
+<rect x="30" y="544" width="400" height="70" rx="0" fill="#dde9f0"/><rect x="30" y="614" width="400" height="140" rx="0" fill="#dce9e7"/><rect x="30" y="754" width="400" height="70" rx="0" fill="#f2e7b8"/><line x1="30" y1="614" x2="430" y2="614" stroke="#2e6b62" stroke-width="5"/><line x1="30" y1="614" x2="30" y2="754" stroke="#2e6b62" stroke-width="2.5"/><line x1="430" y1="614" x2="430" y2="754" stroke="#2e6b62" stroke-width="2.5"/><text x="40" y="574" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">Filtrate</text><text x="40" y="809" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">Medulla</text>
+<line x1="230" y1="562" x2="230" y2="604" stroke="#2e6b62" stroke-width="3" marker-end="url(#ahT)"/>
+<text x="246" y="592" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">little water</text>
+<circle cx="120" cy="679" r="21" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/><rect x="112" y="670" width="5" height="18" rx="2" fill="#2e6b62"/><rect x="123" y="670" width="5" height="18" rx="2" fill="#2e6b62"/>
+<circle cx="230" cy="701" r="21" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/><rect x="222" y="692" width="5" height="18" rx="2" fill="#2e6b62"/><rect x="233" y="692" width="5" height="18" rx="2" fill="#2e6b62"/>
+<circle cx="340" cy="679" r="21" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/><rect x="332" y="670" width="5" height="18" rx="2" fill="#2e6b62"/><rect x="343" y="670" width="5" height="18" rx="2" fill="#2e6b62"/>
+<polygon points="357,754 370,729 383,754" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="420" y="809" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">receptor</text>
+<rect x="470" y="544" width="400" height="70" rx="0" fill="#dde9f0"/><rect x="470" y="614" width="400" height="140" rx="0" fill="#dce9e7"/><rect x="470" y="754" width="400" height="70" rx="0" fill="#f2e7b8"/><line x1="470" y1="614" x2="870" y2="614" stroke="#2e6b62" stroke-width="5"/><line x1="470" y1="614" x2="470" y2="754" stroke="#2e6b62" stroke-width="2.5"/><line x1="870" y1="614" x2="870" y2="754" stroke="#2e6b62" stroke-width="2.5"/><text x="480" y="574" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">Filtrate</text><text x="480" y="809" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">Medulla</text>
+<rect x="590" y="603" width="10" height="22" rx="3" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2"/>
+<rect x="620" y="603" width="10" height="22" rx="3" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2"/>
+<rect x="670" y="603" width="10" height="22" rx="3" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2"/>
+<rect x="700" y="603" width="10" height="22" rx="3" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2"/>
+<rect x="750" y="603" width="10" height="22" rx="3" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2"/>
+<rect x="780" y="603" width="10" height="22" rx="3" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2"/>
+<line x1="610" y1="576" x2="610" y2="784" stroke="#2e6b62" stroke-width="4.5" marker-end="url(#ahT)"/>
+<line x1="690" y1="576" x2="690" y2="784" stroke="#2e6b62" stroke-width="4.5" marker-end="url(#ahT)"/>
+<line x1="770" y1="576" x2="770" y2="784" stroke="#2e6b62" stroke-width="4.5" marker-end="url(#ahT)"/>
+<polygon points="797,754 810,729 823,754" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="810" cy="772" r="9" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="860" y="809" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">receptor</text>
+<text x="230" y="856" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">Hydrated: less ADH</text>
+<text x="230" y="894" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">Vesicles stay inside</text>
+<text x="230" y="934" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Large, dilute urine</text>
+<text x="670" y="856" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Dehydrated: more ADH</text>
+<text x="670" y="894" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">Vesicles fuse, pores open</text>
+<text x="670" y="934" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Small, concentrated urine</text>
+</svg>

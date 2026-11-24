@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 966" width="900" height="966" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="966" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Tangent and normal</text>
+
+<rect x="60" y="120" width="744" height="732" fill="#fff" stroke="#c9d6d4" stroke-width="2"/>
+<clipPath id="c4"><rect x="60" y="120" width="744" height="732"/></clipPath>
+<line x1="60" y1="756" x2="804" y2="756" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="180" y1="120" x2="180" y2="852" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="300" y1="749" x2="300" y2="763" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="300" y="788" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="420" y1="749" x2="420" y2="763" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="420" y="788" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="540" y1="749" x2="540" y2="763" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="540" y="788" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">3</text>
+<line x1="660" y1="749" x2="660" y2="763" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="660" y="788" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<line x1="780" y1="749" x2="780" y2="763" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="780" y="788" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<line x1="173" y1="636" x2="187" y2="636" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="166" y="643" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">1</text>
+<line x1="173" y1="516" x2="187" y2="516" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="166" y="523" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">2</text>
+<line x1="173" y1="396" x2="187" y2="396" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="166" y="403" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">3</text>
+<line x1="173" y1="276" x2="187" y2="276" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="166" y="283" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">4</text>
+<line x1="173" y1="156" x2="187" y2="156" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="166" y="163" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">5</text>
+<text x="792" y="744" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">x</text>
+<text x="194" y="148" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">y</text>
+<g clip-path="url(#c4)"><path d="M60.0 548.2 L62.5 546.7 L65.0 545.3 L67.4 543.9 L69.9 542.5 L72.4 541.1 L74.9 539.7 L77.4 538.4 L79.8 537.0 L82.3 535.6 L84.8 534.3 L87.3 533.0 L89.8 531.6 L92.2 530.3 L94.7 529.0 L97.2 527.7 L99.7 526.4 L102.2 525.1 L104.6 523.8 L107.1 522.5 L109.6 521.3 L112.1 520.0 L114.6 518.7 L117.0 517.5 L119.5 516.2 L122.0 515.0 L124.5 513.8 L127.0 512.5 L129.4 511.3 L131.9 510.1 L134.4 508.9 L136.9 507.7 L139.4 506.5 L141.8 505.3 L144.3 504.1 L146.8 503.0 L149.3 501.8 L151.8 500.6 L154.2 499.5 L156.7 498.3 L159.2 497.1 L161.7 496.0 L164.2 494.9 L166.6 493.7 L169.1 492.6 L171.6 491.5 L174.1 490.3 L176.6 489.2 L179.0 488.1 L181.5 487.0 L184.0 485.9 L186.5 484.8 L189.0 483.7 L191.4 482.6 L193.9 481.5 L196.4 480.4 L198.9 479.4 L201.4 478.3 L203.8 477.2 L206.3 476.1 L208.8 475.1 L211.3 474.0 L213.8 473.0 L216.2 471.9 L218.7 470.9 L221.2 469.8 L223.7 468.8 L226.2 467.8 L228.6 466.7 L231.1 465.7 L233.6 464.7 L236.1 463.7 L238.6 462.6 L241.0 461.6 L243.5 460.6 L246.0 459.6 L248.5 458.6 L251.0 457.6 L253.4 456.6 L255.9 455.6 L258.4 454.6 L260.9 453.7 L263.4 452.7 L265.8 451.7 L268.3 450.7 L270.8 449.7 L273.3 448.8 L275.8 447.8 L278.2 446.8 L280.7 445.9 L283.2 444.9 L285.7 444.0 L288.2 443.0 L290.6 442.1 L293.1 441.1 L295.6 440.2 L298.1 439.2 L300.6 438.3 L303.0 437.4 L305.5 436.4 L308.0 435.5 L310.5 434.6 L313.0 433.6 L315.4 432.7 L317.9 431.8 L320.4 430.9 L322.9 430.0 L325.4 429.1 L327.8 428.2 L330.3 427.2 L332.8 426.3 L335.3 425.4 L337.8 424.5 L340.2 423.6 L342.7 422.8 L345.2 421.9 L347.7 421.0 L350.2 420.1 L352.6 419.2 L355.1 418.3 L357.6 417.4 L360.1 416.6 L362.6 415.7 L365.0 414.8 L367.5 413.9 L370.0 413.1 L372.5 412.2 L375.0 411.3 L377.4 410.5 L379.9 409.6 L382.4 408.8 L384.9 407.9 L387.4 407.0 L389.8 406.2 L392.3 405.3 L394.8 404.5 L397.3 403.7 L399.8 402.8 L402.2 402.0 L404.7 401.1 L407.2 400.3 L409.7 399.5 L412.2 398.6 L414.6 397.8 L417.1 397.0 L419.6 396.1 L422.1 395.3 L424.6 394.5 L427.0 393.7 L429.5 392.8 L432.0 392.0 L434.5 391.2 L437.0 390.4 L439.4 389.6 L441.9 388.8 L444.4 388.0 L446.9 387.1 L449.4 386.3 L451.8 385.5 L454.3 384.7 L456.8 383.9 L459.3 383.1 L461.8 382.3 L464.2 381.5 L466.7 380.7 L469.2 380.0 L471.7 379.2 L474.2 378.4 L476.6 377.6 L479.1 376.8 L481.6 376.0 L484.1 375.2 L486.6 374.5 L489.0 373.7 L491.5 372.9 L494.0 372.1 L496.5 371.4 L499.0 370.6 L501.4 369.8 L503.9 369.0 L506.4 368.3 L508.9 367.5 L511.4 366.7 L513.8 366.0 L516.3 365.2 L518.8 364.4 L521.3 363.7 L523.8 362.9 L526.2 362.2 L528.7 361.4 L531.2 360.7 L533.7 359.9 L536.2 359.2 L538.6 358.4 L541.1 357.7 L543.6 356.9 L546.1 356.2 L548.6 355.4 L551.0 354.7 L553.5 353.9 L556.0 353.2 L558.5 352.5 L561.0 351.7 L563.4 351.0 L565.9 350.3 L568.4 349.5 L570.9 348.8 L573.4 348.1 L575.8 347.3 L578.3 346.6 L580.8 345.9 L583.3 345.2 L585.8 344.4 L588.2 343.7 L590.7 343.0 L593.2 342.3 L595.7 341.6 L598.2 340.8 L600.6 340.1 L603.1 339.4 L605.6 338.7 L608.1 338.0 L610.6 337.3 L613.0 336.6 L615.5 335.9 L618.0 335.1 L620.5 334.4 L623.0 333.7 L625.4 333.0 L627.9 332.3 L630.4 331.6 L632.9 330.9 L635.4 330.2 L637.8 329.5 L640.3 328.8 L642.8 328.1 L645.3 327.4 L647.8 326.7 L650.2 326.0 L652.7 325.4 L655.2 324.7 L657.7 324.0 L660.2 323.3 L662.6 322.6 L665.1 321.9 L667.6 321.2 L670.1 320.5 L672.6 319.9 L675.0 319.2 L677.5 318.5 L680.0 317.8 L682.5 317.1 L685.0 316.5 L687.4 315.8 L689.9 315.1 L692.4 314.4 L694.9 313.8 L697.4 313.1 L699.8 312.4 L702.3 311.8 L704.8 311.1 L707.3 310.4 L709.8 309.7 L712.2 309.1 L714.7 308.4 L717.2 307.8 L719.7 307.1 L722.2 306.4 L724.6 305.8 L727.1 305.1 L729.6 304.4 L732.1 303.8 L734.6 303.1 L737.0 302.5 L739.5 301.8 L742.0 301.2 L744.5 300.5 L747.0 299.9 L749.4 299.2 L751.9 298.5 L754.4 297.9 L756.9 297.3 L759.4 296.6 L761.8 296.0 L764.3 295.3 L766.8 294.7 L769.3 294.0 L771.8 293.4 L774.2 292.7 L776.7 292.1 L779.2 291.4 L781.7 290.8 L784.2 290.2 L786.6 289.5 L789.1 288.9 L791.6 288.3 L794.1 287.6 L796.6 287.0 L799.0 286.4 L801.5 285.7 L804.0 285.1" fill="none" stroke="#1e2a44" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" /><line x1="60" y1="516" x2="804" y2="268" stroke="#8a6d0d" stroke-width="4"/><line x1="339.96000000000004" y1="156" x2="572.4" y2="853.2" stroke="#2e6b62" stroke-width="4"/></g>
+<path d="M440.8710325571113 389.04298914762956 L447.8280434094817 409.91402170474083 L426.95701085237044 416.8710325571113" fill="none" stroke="#1e2a44" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="420" cy="396" r="11" fill="#1e2a44" stroke="#fff" stroke-width="2.5"/>
+<text x="402" y="380" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">P (2, 3)</text>
+<circle cx="540" cy="756" r="9" fill="#2e6b62" stroke="#fff" stroke-width="2.5"/>
+<text x="560" y="740" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="start">(3, 0)</text>
+<text x="366" y="156" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">normal</text><text x="366" y="182" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">gradient −3</text>
+<text x="612" y="186" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">tangent</text><text x="612" y="212" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">gradient ⅓</text>
+<text x="450" y="898" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">m × (−1/m) = ⅓ × (−3) = −1</text>
+<text x="450" y="934" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">y = √(2x + 5)   tangent: 3y = x + 7   normal: y = 9 − 3x</text>
+</svg>

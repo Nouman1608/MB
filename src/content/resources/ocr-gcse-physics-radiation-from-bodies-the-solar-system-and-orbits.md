@@ -207,7 +207,7 @@ Worked reasoning: suppose that, out of every 100 units of Sun's energy reaching 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-thermal-physics--07-radiation-plates.webp" width="900" height="910" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
   <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
 </figure>
 

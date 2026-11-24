@@ -81,12 +81,12 @@ Much eukaryotic nuclear DNA does not code for polypeptides. There are non-coding
 The shortcut for the other direction: a polypeptide of n amino acids needs at least 3n + 3 nucleotides between and including its start and stop codons.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1030" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1020" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
   <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--05-meselson-stahl.webp" width="900" height="1260" alt="Density-gradient tubes show DNA bands. The start sample has one heavy band. After one generation in light nitrogen there is a single intermediate band; after two generations there are equal intermediate and light bands. A grid of predictions shows semi-conservative replication fits both results, conservative replication is ruled out at generation 1 and dispersive replication at generation 2." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-nucleic-acids-and-protein-synthesis--05-meselson-stahl.webp" width="900" height="1230" alt="Density-gradient tubes show DNA bands. The start sample has one heavy band. After one generation in light nitrogen there is a single intermediate band; after two generations there are equal intermediate and light bands. A grid of predictions shows semi-conservative replication fits both results, conservative replication is ruled out at generation 1 and dispersive replication at generation 2." loading="lazy">
   <figcaption>Only semi-conservative replication predicts both the generation 1 and generation 2 bands.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ Transcription is the production of mRNA from DNA.
 In prokaryotes, transcription results directly in mRNA. In eukaryotes, it makes pre-mRNA, which is then spliced: introns are removed and the exons are joined to form mRNA. This happens in the nucleus, and the mRNA then leaves through a nuclear pore.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1215" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
   <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
 </figure>
 
@@ -157,7 +157,7 @@ Check the answer: seven triplets give six amino acids plus one stop. Writing T i
 **Working backwards.** Because the code is degenerate, a protein sequence does not give you one unique DNA sequence. If Leu is coded by six codons, a polypeptide with four leucines could come from 6 x 6 x 6 x 6 = 1,296 different mRNA sequences, if only those residues varied.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1170" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
   <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ When you evaluate any such experiment, ask what the control was, what the label 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--09-atp-adp.webp" width="900" height="915" alt="ATP is made of adenine, the sugar ribose and three phosphate groups; adenine plus ribose is adenosine. Hydrolysis with water splits ATP into ADP, which has two phosphates, and an inorganic phosphate Pi, releasing energy. Condensation of ADP and Pi resynthesises ATP in respiration or photosynthesis. Example: releasing 30.5 kilojoules per mole coupled to a reaction needing 14.0 gives a net 16.5." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-nucleic-acids-and-protein-synthesis--09-atp-adp.webp" width="900" height="915" alt="ATP is made of adenine, the sugar ribose and three phosphate groups; adenine plus ribose is adenosine. Hydrolysis with water splits ATP into ADP, which has two phosphates, and an inorganic phosphate Pi, releasing energy. Condensation of ADP and Pi resynthesises ATP in respiration or photosynthesis. Example: releasing 30.5 kilojoules per mole coupled to a reaction needing 14.0 gives a net 16.5." loading="lazy">
   <figcaption>ATP is hydrolysed to ADP and Pi to release energy, and resynthesised by condensation.</figcaption>
 </figure>
 
