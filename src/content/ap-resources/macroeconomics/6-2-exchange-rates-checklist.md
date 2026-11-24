@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.2-checklist"
 title: "Exchange Rates: Topic Checklist (Macroeconomics 6.2)"
-description: "Specific “I can…” statements for exchange rates, appreciation, depreciation and currency calculations, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for exchange rates, appreciation, depreciation and currency calculations, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 6
 topics: ["6.2"]

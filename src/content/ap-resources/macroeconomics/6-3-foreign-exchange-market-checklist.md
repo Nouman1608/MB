@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.3-checklist"
 title: "The Foreign Exchange Market: Topic Checklist (Macroeconomics 6.3)"
-description: "Specific “I can…” statements for the foreign exchange market, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the foreign exchange market, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 6
 topics: ["6.3"]

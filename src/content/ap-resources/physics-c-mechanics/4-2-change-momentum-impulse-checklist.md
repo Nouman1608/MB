@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-4.2-checklist"
 title: "Change in Momentum and Impulse: Topic Checklist (Physics C: Mechanics 4.2)"
 seoTitle: "Physics C Mechanics 4.2 Momentum and Impulse Checklist"
-description: "Specific “I can…” statements for calculus-based impulse and change in momentum, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based impulse and change in momentum, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 4
 topics: ["4.2"]

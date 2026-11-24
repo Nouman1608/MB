@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.5-checklist"
 title: "Acid-Base Titrations: Topic Checklist (Chemistry 8.5)"
-description: "Specific “I can…” statements for pH titration curves, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for pH titration curves, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 8
 topics: ["8.5"]

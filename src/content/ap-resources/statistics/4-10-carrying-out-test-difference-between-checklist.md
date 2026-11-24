@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-4.10-checklist"
 title: "Carrying Out a Test for the Difference Between Two Population Means: Topic Checklist (Statistics 4.10)"
 seoTitle: "Statistics 4.10 Carrying Out a Test for Two Means Checklist"
-description: "Specific “I can…” statements for carrying out a two-sample t-test, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for carrying out a two-sample t-test, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 4
 topics: ["4.10"]

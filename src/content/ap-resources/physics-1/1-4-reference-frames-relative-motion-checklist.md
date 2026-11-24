@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-1.4-checklist"
 title: "Reference Frames and Relative Motion: Topic Checklist (Physics 1 1.4)"
-description: "Specific “I can…” statements for reference frames and relative motion in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for reference frames and relative motion in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 1
 topics: ["1.4"]

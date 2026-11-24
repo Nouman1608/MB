@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-2.9-checklist"
 title: "Cell Compartmentalization: Topic Checklist (Biology 2.9)"
-description: "Specific “I can…” statements for cell compartmentalization, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for cell compartmentalization, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 2
 topics: ["2.9"]

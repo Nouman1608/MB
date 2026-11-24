@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-3.10-checklist"
 title: "Constructing a Confidence Interval for a Difference in Two Proportions: Topic Checklist (Statistics 3.10)"
 seoTitle: "Statistics 3.10 Two-Proportion Confidence Interval Checklist"
-description: "Specific “I can…” statements for building a confidence interval for a difference between two population proportions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for building a confidence interval for a difference between two population proportions, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 3
 topics: ["3.10"]

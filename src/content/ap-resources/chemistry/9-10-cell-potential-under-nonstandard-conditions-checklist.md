@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-9.10-checklist"
 title: "Cell Potential Under Nonstandard Conditions: Topic Checklist (Chemistry 9.10)"
 seoTitle: "Chemistry 9.10 Nonstandard Cell Potential Topic Checklist"
-description: "Specific “I can…” statements for cell potential away from standard conditions, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for cell potential away from standard conditions, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 9
 topics: ["9.10"]

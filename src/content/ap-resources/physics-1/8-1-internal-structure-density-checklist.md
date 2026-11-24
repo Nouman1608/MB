@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-8.1-checklist"
 title: "Internal Structure and Density: Topic Checklist (Physics 1 8.1)"
-description: "Specific “I can…” statements for states of matter, fluids, density and the ideal-fluid model in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for states of matter, fluids, density and the ideal-fluid model in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 8
 topics: ["8.1"]

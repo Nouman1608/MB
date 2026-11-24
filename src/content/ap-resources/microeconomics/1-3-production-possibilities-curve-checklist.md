@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.3-checklist"
 title: "Production Possibilities Curve: Topic Checklist (Microeconomics 1.3)"
-description: "Specific “I can…” statements for the production possibilities curve, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the production possibilities curve, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 1
 topics: ["1.3"]

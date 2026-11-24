@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-3.5-checklist"
 title: "Power: Topic Checklist (Physics C: Mechanics 3.5)"
-description: "Specific “I can…” statements for calculus-based power, from P = dW/dt and P = F·v to constant-power motion, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based power, from P = dW/dt and P = F·v to constant-power motion, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 3
 topics: ["3.5"]

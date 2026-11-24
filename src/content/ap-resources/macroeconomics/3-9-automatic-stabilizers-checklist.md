@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.9-checklist"
 title: "Automatic Stabilizers: Topic Checklist (Macroeconomics 3.9)"
-description: "Specific “I can…” statements for automatic stabilizers, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for automatic stabilizers, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.9"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-6.6-checklist"
 title: "Motion of Orbiting Satellites: Topic Checklist (Physics C: Mechanics 6.6)"
 seoTitle: "Physics C Mechanics 6.6 Orbiting Satellites Checklist"
-description: "Specific “I can…” statements for calculus-based orbital motion, energy and escape, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based orbital motion, energy and escape, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 6
 topics: ["6.6"]

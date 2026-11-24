@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.7-checklist"
 title: "Periodic Trends: Topic Checklist (Chemistry 1.7)"
-description: "Specific “I can…” statements for periodic trends, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for periodic trends, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 1
 topics: ["1.7"]

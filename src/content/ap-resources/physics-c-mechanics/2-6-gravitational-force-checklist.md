@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.6-checklist"
 title: "Gravitational Force: Topic Checklist (Physics C: Mechanics 2.6)"
-description: "Specific “I can…” statements for gravitation in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for gravitation in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.6"]

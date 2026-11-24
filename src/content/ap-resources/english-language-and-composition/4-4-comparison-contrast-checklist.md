@@ -2,7 +2,7 @@
 resourceId: mb-ap-englang-4.4-checklist
 title: 'Developing Ideas Through Comparison-Contrast: Topic Checklist (English Language 4.4)'
 seoTitle: "English Language 4.4 Comparison-Contrast Topic Checklist"
-description: Specific “I can…” statements for reading and writing comparison-contrast, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for reading and writing comparison-contrast, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 4
 topics:

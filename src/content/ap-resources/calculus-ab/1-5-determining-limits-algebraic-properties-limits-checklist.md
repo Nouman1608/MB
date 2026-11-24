@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-1.5-checklist"
 title: "Determining Limits Using Algebraic Properties of Limits: Topic Checklist (Calculus AB 1.5)"
 seoTitle: "Calculus AB 1.5 Limits Using Algebraic Properties Checklist"
-description: "Specific “I can…” statements for the limit properties, composite and one-sided limits, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the limit properties, composite and one-sided limits, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 1
 topics: ["1.5"]

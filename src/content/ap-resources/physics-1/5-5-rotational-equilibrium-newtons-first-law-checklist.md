@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys1-5.5-checklist"
 title: "Rotational Equilibrium and Newton's First Law in Rotational Form: Topic Checklist (Physics 1 5.5)"
 seoTitle: "Physics 1 5.5 Rotational Equilibrium Topic Checklist"
-description: "Specific “I can…” statements for rotational equilibrium and the rotational first law in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for rotational equilibrium and the rotational first law in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 5
 topics: ["5.5"]

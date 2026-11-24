@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.2-checklist"
 title: "Short-Run Production Costs: Topic Checklist (Microeconomics 3.2)"
-description: "Specific “I can…” statements for short-run production costs, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for short-run production costs, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 3
 topics: ["3.2"]

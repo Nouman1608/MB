@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.9-checklist"
 title: "The Quotient Rule: Topic Checklist (Calculus AB 2.9)"
-description: "Specific “I can…” statements for the quotient rule, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the quotient rule, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 2
 topics: ["2.9"]

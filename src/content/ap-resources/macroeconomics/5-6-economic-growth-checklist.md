@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.6-checklist"
 title: "Economic Growth: Topic Checklist (Macroeconomics 5.6)"
-description: "Specific “I can…” statements for economic growth, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for economic growth, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 5
 topics: ["5.6"]

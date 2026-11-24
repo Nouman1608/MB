@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-3.3-checklist"
 title: "Potential Energy: Topic Checklist (Physics C: Mechanics 3.3)"
-description: "Specific “I can…” statements for calculus-based potential energy, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based potential energy, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 3
 topics: ["3.3"]

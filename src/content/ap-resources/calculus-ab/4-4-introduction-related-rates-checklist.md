@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.4-checklist"
 title: "Introduction to Related Rates: Topic Checklist (Calculus AB 4.4)"
-description: "Specific “I can…” statements for differentiating with respect to time and calculating related rates, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for differentiating with respect to time and calculating related rates, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 4
 topics: ["4.4"]

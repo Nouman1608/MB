@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.6-checklist"
 title: "Compton Scattering: Topic Checklist (Physics 2 15.6)"
-description: "Specific “I can…” statements for Compton scattering, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for Compton scattering, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 15
 topics: ["15.6"]

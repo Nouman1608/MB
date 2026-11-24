@@ -2,7 +2,7 @@
 resourceId: "mb-ap-englit-4.2-checklist"
 title: "Nuance and Complexity in Character Relationships: Topic Checklist (English Literature 4.2)"
 seoTitle: "English Lit 4.2 Complex Character Relationships Checklist"
-description: "Specific “I can…” statements on how textual details reveal the nuance and complexity of relationships between characters in short fiction, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements on how textual details reveal the nuance and complexity of relationships between characters in short fiction, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 4
 topics: ["4.2"]

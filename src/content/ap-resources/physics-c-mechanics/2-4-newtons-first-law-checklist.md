@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.4-checklist"
 title: "Newton’s First Law: Topic Checklist (Physics C: Mechanics 2.4)"
-description: "Specific “I can…” statements for net force, translational equilibrium, balanced and unbalanced directions, and inertial reference frames, each linked to the guide section and practice question."
+description: "Specific “I can” statements for net force, translational equilibrium, balanced and unbalanced directions, and inertial reference frames, each linked to the guide section and practice question."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.4"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.3-checklist"
 title: "Torque: Topic Checklist (Physics 1 5.3)"
-description: "Specific “I can…” statements for torque in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for torque in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 5
 topics: ["5.3"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-1.4-checklist"
 title: "Carbohydrates: Topic Checklist (Biology 1.4)"
-description: "Specific “I can…” statements for carbohydrates, from monosaccharides to linear and branched polysaccharides, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for carbohydrates, from monosaccharides to linear and branched polysaccharides, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 1
 topics: ["1.4"]

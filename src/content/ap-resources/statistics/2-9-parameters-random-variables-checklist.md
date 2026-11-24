@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.9-checklist"
 title: "Parameters of Random Variables: Topic Checklist (Statistics 2.9)"
-description: "Specific “I can…” statements for parameters, expected value and standard deviation of discrete random variables, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for parameters, expected value and standard deviation of discrete random variables, each linked to the guide section or practice question that tests it."
 course: "statistics"
 unit: 2
 topics: ["2.9"]

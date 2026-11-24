@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-4.3-checklist"
 title: "Signal Transduction Pathways: Topic Checklist (Biology 4.3)"
-description: "Specific “I can…” statements for cellular responses to signals and the effects of mutations and chemicals on pathways, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for cellular responses to signals and the effects of mutations and chemicals on pathways, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 4
 topics: ["4.3"]

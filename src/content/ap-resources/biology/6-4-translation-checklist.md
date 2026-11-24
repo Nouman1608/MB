@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-6.4-checklist"
 title: "Translation: Topic Checklist (Biology 6.4)"
-description: "Specific “I can…” statements for translation, the genetic code and retroviruses, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for translation, the genetic code and retroviruses, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 6
 topics: ["6.4"]

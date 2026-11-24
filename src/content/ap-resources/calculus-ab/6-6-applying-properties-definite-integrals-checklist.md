@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-6.6-checklist"
 title: "Applying Properties of Definite Integrals: Topic Checklist (Calculus AB 6.6)"
 seoTitle: "Calculus AB 6.6 Properties of Definite Integrals Checklist"
-description: "Specific “I can…” statements for evaluating definite integrals with geometry and integral properties, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for evaluating definite integrals with geometry and integral properties, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 6
 topics: ["6.6"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-3.4-checklist"
 title: "Conservation of Energy: Topic Checklist (Physics 1 3.4)"
-description: "Specific “I can…” statements for conservation of energy in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for conservation of energy in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 3
 topics: ["3.4"]

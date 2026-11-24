@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-8.13-checklist"
 title: "The Arc Length of a Smooth, Planar Curve and Distance Traveled: Topic Checklist (Calculus BC 8.13)"
 seoTitle: "Calculus BC 8.13 Arc Length and Distance Traveled Checklist"
-description: "Specific “I can…” statements for arc length and distance traveled along a curve, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for arc length and distance traveled along a curve, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 8
 topics: ["8.13"]

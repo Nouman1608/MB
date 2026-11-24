@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.2-checklist"
 title: "The Bohr Model of Atomic Structure: Topic Checklist (Physics 2 15.2)"
-description: "Specific “I can…” statements for atomic structure, nuclear notation, isotopes, ions and Bohr orbits, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for atomic structure, nuclear notation, isotopes, ions and Bohr orbits, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 15
 topics: ["15.2"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.1-checklist"
 title: "Contrasting Characters: Topic Checklist (English Literature 4.1)"
-description: "Specific “I can…” statements on how contrasting characters work in short fiction: what each stands for and what the contrast shows the reader, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements on how contrasting characters work in short fiction: what each stands for and what the contrast shows the reader, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 4
 topics: ["4.1"]

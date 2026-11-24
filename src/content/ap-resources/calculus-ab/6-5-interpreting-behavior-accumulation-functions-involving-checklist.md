@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-6.5-checklist"
 title: "Interpreting the Behavior of Accumulation Functions Involving Area: Topic Checklist (Calculus AB 6.5)"
 seoTitle: "Calculus AB 6.5 Behavior of Accumulation Functions Checklist"
-description: "Specific “I can…” statements for reading the behaviour of an accumulation function from its integrand, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for reading the behaviour of an accumulation function from its integrand, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 6
 topics: ["6.5"]

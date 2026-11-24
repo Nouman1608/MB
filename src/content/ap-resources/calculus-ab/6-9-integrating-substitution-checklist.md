@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.9-checklist"
 title: "Integrating Using Substitution: Topic Checklist (Calculus AB 6.9)"
-description: "Specific “I can…” statements for u-substitution in indefinite and definite integrals, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for u-substitution in indefinite and definite integrals, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 6
 topics: ["6.9"]

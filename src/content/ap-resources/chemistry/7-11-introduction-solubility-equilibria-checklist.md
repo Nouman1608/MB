@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-7.11-checklist"
 title: "Introduction to Solubility Equilibria: Topic Checklist (Chemistry 7.11)"
 seoTitle: "Chemistry 7.11 Solubility Equilibria Topic Checklist"
-description: "Specific “I can…” statements for solubility equilibria and K_sp, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for solubility equilibria and K_sp, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 7
 topics: ["7.11"]

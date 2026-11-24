@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-10.3-checklist"
 title: "Capacitors: Topic Checklist (Physics C: E&M 10.3)"
-description: "Specific “I can…” statements for capacitors in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for capacitors in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 10
 topics: ["10.3"]

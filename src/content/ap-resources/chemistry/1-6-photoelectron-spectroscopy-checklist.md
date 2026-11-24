@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.6-checklist"
 title: "Photoelectron Spectroscopy: Topic Checklist (Chemistry 1.6)"
-description: "Specific “I can…” statements for photoelectron spectroscopy, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for photoelectron spectroscopy, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 1
 topics: ["1.6"]

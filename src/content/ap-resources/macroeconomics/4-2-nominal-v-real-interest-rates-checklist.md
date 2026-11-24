@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.2-checklist"
 title: "Nominal v. Real Interest Rates: Topic Checklist (Macroeconomics 4.2)"
-description: "Specific “I can…” statements for nominal and real interest rates and expected inflation, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for nominal and real interest rates and expected inflation, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 4
 topics: ["4.2"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.11-checklist"
 title: "Variations in Populations: Topic Checklist (Biology 7.11)"
-description: "Specific “I can…” statements for genetic diversity and population resilience, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for genetic diversity and population resilience, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 7
 topics: ["7.11"]

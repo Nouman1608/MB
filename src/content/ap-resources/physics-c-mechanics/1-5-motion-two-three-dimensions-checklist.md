@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-1.5-checklist"
 title: "Motion in Two or Three Dimensions: Topic Checklist (Physics C: Mechanics 1.5)"
 seoTitle: "Physics C Mechanics 1.5 Motion in 2D and 3D Checklist"
-description: "Specific “I can…” statements for calculus-based motion in two or three dimensions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based motion in two or three dimensions, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 1
 topics: ["1.5"]

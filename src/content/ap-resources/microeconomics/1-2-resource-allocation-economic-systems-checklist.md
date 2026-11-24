@@ -2,7 +2,7 @@
 resourceId: "mb-ap-micro-1.2-checklist"
 title: "Resource Allocation and Economic Systems: Topic Checklist (Microeconomics 1.2)"
 seoTitle: "Microeconomics 1.2 Resource Allocation Topic Checklist"
-description: "Specific “I can…” statements for resource allocation and economic systems, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for resource allocation and economic systems, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 1
 topics: ["1.2"]

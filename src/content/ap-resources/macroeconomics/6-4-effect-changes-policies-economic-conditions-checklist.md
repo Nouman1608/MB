@@ -2,7 +2,7 @@
 resourceId: "mb-ap-macro-6.4-checklist"
 title: "Policies, Economic Conditions and the Foreign Exchange Market: Topic Checklist (Macroeconomics 6.4)"
 seoTitle: "Macroeconomics 6.4 Policies and Foreign Exchange Checklist"
-description: "Specific “I can…” statements for shifts in currency markets and the exchange-rate effects of fiscal and monetary policy, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for shifts in currency markets and the exchange-rate effects of fiscal and monetary policy, each linked to the guide section or practice question that tests it."
 course: "macroeconomics"
 unit: 6
 topics: ["6.4"]

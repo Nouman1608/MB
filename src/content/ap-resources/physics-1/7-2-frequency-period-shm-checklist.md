@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-7.2-checklist"
 title: "Frequency and Period of SHM: Topic Checklist (Physics 1 7.2)"
-description: "Specific “I can…” statements for frequency and period of simple harmonic motion in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for frequency and period of simple harmonic motion in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 7
 topics: ["7.2"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-9.4-checklist"
 title: "Defining and Differentiating Vector-Valued Functions: Topic Checklist (Calculus BC 9.4)"
 seoTitle: "Calculus BC 9.4 Vector-Valued Function Derivatives Checklist"
-description: "Specific “I can…” statements for defining and differentiating vector-valued functions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for defining and differentiating vector-valued functions, each linked to the guide section and practice question that tests it."
 course: "calculus-bc"
 unit: 9
 topics: ["9.4"]

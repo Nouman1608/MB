@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-2.1-checklist"
 title: "Systems and Center of Mass: Topic Checklist (Physics 1 2.1)"
-description: "Specific “I can…” statements for systems, internal and external interactions and center of mass in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for systems, internal and external interactions and center of mass in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 2
 topics: ["2.1"]

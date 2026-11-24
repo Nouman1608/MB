@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-4.3-checklist"
 title: "Conservation of Linear Momentum: Topic Checklist (Physics C: Mechanics 4.3)"
 seoTitle: "Physics C Mechanics 4.3 Conserving Linear Momentum Checklist"
-description: "Specific “I can…” statements for conservation of linear momentum, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for conservation of linear momentum, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 4
 topics: ["4.3"]

@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.7-checklist
 title: 'Thesis and Commentary: Topic Checklist (English Literature 7.7)'
-description: Specific “I can…” statements for thesis, commentary and sophistication moves in short-fiction essays, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for thesis, commentary and sophistication moves in short-fiction essays, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 7
 topics:

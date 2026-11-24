@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-1.3-checklist"
 title: "Tabular Representation and Summary Statistics for One Categorical Variable: Topic Checklist (Statistics 1.3)"
 seoTitle: "Statistics 1.3 Tables for One Categorical Variable Checklist"
-description: "Specific “I can…” statements for frequency and relative frequency tables of one categorical variable, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for frequency and relative frequency tables of one categorical variable, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 1
 topics: ["1.3"]

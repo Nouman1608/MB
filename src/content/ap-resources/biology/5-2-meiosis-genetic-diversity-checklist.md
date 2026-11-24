@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-5.2-checklist"
 title: "Meiosis and Genetic Diversity: Topic Checklist (Biology 5.2)"
-description: "Specific “I can…” statements for meiosis and genetic diversity, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for meiosis and genetic diversity, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 5
 topics: ["5.2"]

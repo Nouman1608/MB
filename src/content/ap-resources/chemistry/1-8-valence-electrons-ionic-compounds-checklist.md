@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-1.8-checklist"
 title: "Valence Electrons and Ionic Compounds: Topic Checklist (Chemistry 1.8)"
 seoTitle: "Chemistry 1.8 Valence Electrons, Ionic Compounds Checklist"
-description: "Specific “I can…” statements for valence electrons, reactivity trends and ionic formulas, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for valence electrons, reactivity trends and ionic formulas, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 1
 topics: ["1.8"]

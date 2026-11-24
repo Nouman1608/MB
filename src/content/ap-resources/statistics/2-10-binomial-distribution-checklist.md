@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.10-checklist"
 title: "The Binomial Distribution: Topic Checklist (Statistics 2.10)"
-description: "Specific “I can…” statements for binomial conditions, probabilities, mean, standard deviation and simulation, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for binomial conditions, probabilities, mean, standard deviation and simulation, each linked to the guide section or practice question that tests it."
 course: "statistics"
 unit: 2
 topics: ["2.10"]

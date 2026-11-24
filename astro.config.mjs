@@ -16,6 +16,7 @@ import { bodyWordCount } from './src/utils/seo/word-count.ts';
 import { EN_PATH, TRANSLATED_LOCALES } from './src/i18n/routes.ts';
 import { sitemapGroup, SITEMAP_GROUPS } from './src/utils/seo/sitemap-groups.ts';
 import { AP_LIBRARY_PUBLIC, AP_LIBRARY_BASE } from './src/data/ap/config.ts';
+import { FLASHCARD_DECKS, flashcardsPath } from './src/data/flashcards/index.ts';
 import { apFlashcardCourses, apFlashcardsPath, apUnitsWithCards, apDeckUpdated } from './src/data/ap-flashcards/index.ts';
 
 /**
@@ -72,6 +73,13 @@ function buildLastmodMap() {
     map.set(apFlashcardsPath(c.slug), iso);
     for (const { unit } of apUnitsWithCards(c.slug)) map.set(apFlashcardsPath(c.slug, unit.number), iso);
   }
+  // Flashcard decks: the deck's `updated` date covers its hub and every topic page.
+  for (const deck of FLASHCARD_DECKS) {
+    if (!deck.updated || Number.isNaN(Date.parse(deck.updated))) continue;
+    const iso = new Date(deck.updated).toISOString();
+    map.set(flashcardsPath(deck), iso);
+    for (const topic of new Set(deck.cards.map((c) => c.topic))) map.set(flashcardsPath(deck, topic), iso);
+  }
   return map;
 }
 
@@ -108,9 +116,23 @@ function buildIndexLastmods() {
       bump(idx, '/', iso);
       const type = fmField(fm, 'resourceType');
       if (prefix === '/resources/' && type) bump(idx, `/resources/${type}/`, iso);
+      const subject = fmField(fm, 'subject');
+      if (prefix === '/resources/' && type && subject) bump(idx, `/resources/${type}/${subject}/`, iso);
       const author = fmField(fm, 'author');
       if (author) { bump(idx, `/authors/${author}/`, iso); bump(idx, `/authors/${author}/resources/`, iso); bump(idx, '/authors/', iso); }
     }
+  }
+  // Advanced-course library: a course hub and the library index take the newest page under them.
+  for (const [path, iso] of lastmodBySlug) {
+    if (!path.startsWith(AP_LIBRARY_BASE)) continue;
+    const course = path.slice(AP_LIBRARY_BASE.length).split('/')[0];
+    if (!course) continue;
+    bump(idx, AP_LIBRARY_BASE, iso);
+    bump(idx, `${AP_LIBRARY_BASE}${course}/`, iso);
+  }
+  // /flashcards/ changes when any deck does.
+  for (const deck of FLASHCARD_DECKS) {
+    if (deck.updated && !Number.isNaN(Date.parse(deck.updated))) bump(idx, '/flashcards/', new Date(deck.updated).toISOString());
   }
   // A teacher's profile page was last changed when its facts were last checked.
   try {

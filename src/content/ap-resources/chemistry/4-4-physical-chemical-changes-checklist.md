@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-4.4-checklist"
 title: "Physical and Chemical Changes: Topic Checklist (Chemistry 4.4)"
-description: "Specific “I can…” statements for classifying physical and chemical changes by bonds and attractions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for classifying physical and chemical changes by bonds and attractions, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 4
 topics: ["4.4"]

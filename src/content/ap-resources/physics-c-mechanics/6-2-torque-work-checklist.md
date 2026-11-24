@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.2-checklist"
 title: "Torque and Work: Topic Checklist (Physics C: Mechanics 6.2)"
-description: "Specific “I can…” statements for calculus-based torque and work, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based torque and work, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 6
 topics: ["6.2"]

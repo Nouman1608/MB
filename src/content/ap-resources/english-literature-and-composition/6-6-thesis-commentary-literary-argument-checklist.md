@@ -2,7 +2,7 @@
 resourceId: mb-ap-englit-6.6-checklist
 title: 'Thesis and Commentary in a Literary Argument: Topic Checklist (English Literature 6.6)'
 seoTitle: "English Literature 6.6 Literary Argument Thesis Checklist"
-description: Specific “I can…” statements for thesis, line of reasoning and commentary in a literary argument, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for thesis, line of reasoning and commentary in a literary argument, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 6
 topics:

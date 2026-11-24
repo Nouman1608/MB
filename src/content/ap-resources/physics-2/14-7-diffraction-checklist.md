@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.7-checklist"
 title: "Diffraction: Topic Checklist (Physics 2 14.7)"
-description: "Specific “I can…” statements for diffraction and single-slit patterns, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for diffraction and single-slit patterns, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 14
 topics: ["14.7"]

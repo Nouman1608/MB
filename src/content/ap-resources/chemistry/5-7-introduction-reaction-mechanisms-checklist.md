@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.7-checklist"
 title: "Introduction to Reaction Mechanisms: Topic Checklist (Chemistry 5.7)"
-description: "Specific “I can…” statements for reaction mechanisms, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for reaction mechanisms, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 5
 topics: ["5.7"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-3.4-checklist"
 title: "Differentiating Inverse Trigonometric Functions: Topic Checklist (Calculus AB 3.4)"
 seoTitle: "Calculus AB 3.4 Derivatives of Inverse Trig Topic Checklist"
-description: "Specific “I can…” statements for derivatives of arcsin, arccos and arctan, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for derivatives of arcsin, arccos and arctan, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 3
 topics: ["3.4"]

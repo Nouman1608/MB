@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-5.2-checklist"
 title: "Connecting Linear and Rotational Motion: Topic Checklist (Physics C: Mechanics 5.2)"
 seoTitle: "Physics C Mechanics 5.2 Linear & Rotational Motion Checklist"
-description: "Specific “I can…” statements for linking rotation to the linear motion of points, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for linking rotation to the linear motion of points, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 5
 topics: ["5.2"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.6-checklist"
 title: "Evidence of Evolution: Topic Checklist (Biology 7.6)"
-description: "Specific “I can…” statements for the evidence of evolution, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the evidence of evolution, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 7
 topics: ["7.6"]

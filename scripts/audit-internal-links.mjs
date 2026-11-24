@@ -48,6 +48,9 @@ for (const line of redirectsRaw.split('\n')) {
   if (source && !source.includes('*')) redirectSources.add(source);
 }
 
+// [4] (S4.4) Links to a retired or renamed /resources/<slug>/ that the Worker only 301s
+// (src/worker/slug-redirects.json): they should point at the final slug at source.
+const oldResourceSlugs = new Set(Object.keys(JSON.parse(await readFile("src/worker/slug-redirects.json", "utf8"))));
 const builtHtmlFiles = await walk(DIST);
 const builtPaths = new Set(builtHtmlFiles.map(htmlPathToUrlPath));
 
@@ -93,6 +96,11 @@ for (const file of builtHtmlFiles) {
       problems.push(`[1] Broken internal link on "${pageUrlPath}": href="${href}" (404, not a redirect source either)`);
     }
 
+    const oldSlug = /^\/resources\/([^/]+)\/?$/.exec(href)?.[1];
+    if (oldSlug && oldResourceSlugs.has(oldSlug) && !builtPaths.has(href)) {
+      problems.push(`[4] Stale slug link on "${pageUrlPath}": href="${href}" is an old slug (301 in slug-redirects.json); link the final URL`);
+    }
+
     // [3] Generic/non-descriptive anchor text
     if (rawText && GENERIC_ANCHORS.has(rawText.toLowerCase())) {
       problems.push(`[3] Non-descriptive anchor text "${rawText}" on "${pageUrlPath}" -> "${href}"`);
@@ -122,6 +130,7 @@ const anchorCount = problems.filter((p) => p.startsWith('[3]')).length;
 console.log(`  [1] Broken links: ${brokenCount}`);
 console.log(`  [2] Orphan pages: ${orphanCount}`);
 console.log(`  [3] Generic anchor text: ${anchorCount}`);
+console.log(`  [4] Links to old (redirected) resource slugs: ${problems.filter((p) => p.startsWith('[4]')).length}`);
 console.log('');
 
 if (problems.length === 0) {

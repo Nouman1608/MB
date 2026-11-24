@@ -2,7 +2,7 @@
 resourceId: "mb-ap-englit-4.6-checklist"
 title: "Thesis and Commentary in a Prose Analysis: Topic Checklist (English Literature 4.6)"
 seoTitle: "English Literature 4.6 Prose Analysis Thesis Topic Checklist"
-description: "Specific “I can…” statements on how to write a defensible thesis and developed commentary in an essay analysing a passage of prose fiction, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements on how to write a defensible thesis and developed commentary in an essay analysing a passage of prose fiction, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 4
 topics: ["4.6"]

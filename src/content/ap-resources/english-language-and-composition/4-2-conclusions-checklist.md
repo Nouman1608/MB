@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.2-checklist
 title: 'Conclusions: Topic Checklist (English Language 4.2)'
-description: Specific “I can…” statements for writing and analysing conclusions, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for writing and analysing conclusions, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 4
 topics:

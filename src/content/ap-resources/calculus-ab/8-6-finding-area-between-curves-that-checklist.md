@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-8.6-checklist"
 title: "Finding the Area Between Curves That Intersect at More Than Two Points: Topic Checklist (Calculus AB 8.6)"
 seoTitle: "Calculus AB 8.6 Area Between Curves at 3+ Points Checklist"
-description: "Specific “I can…” statements for areas between curves that cross several times, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for areas between curves that cross several times, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 8
 topics: ["8.6"]

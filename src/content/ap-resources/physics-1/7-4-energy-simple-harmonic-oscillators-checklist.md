@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys1-7.4-checklist"
 title: "Energy of Simple Harmonic Oscillators: Topic Checklist (Physics 1 7.4)"
 seoTitle: "Physics 1 7.4 Energy of SHM Oscillators Topic Checklist"
-description: "Specific “I can…” statements for energy in spring and pendulum oscillators in the algebra-based course, each linked to the guide section or practice question that covers it."
+description: "Specific “I can” statements for energy in spring and pendulum oscillators in the algebra-based course, each linked to the guide section or practice question that covers it."
 course: "physics-1"
 unit: 7
 topics: ["7.4"]

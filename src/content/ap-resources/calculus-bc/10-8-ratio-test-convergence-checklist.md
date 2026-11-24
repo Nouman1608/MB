@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.8-checklist"
 title: "Ratio Test for Convergence: Topic Checklist (Calculus BC 10.8)"
-description: "Specific “I can…” statements for the ratio test, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the ratio test, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.8"]

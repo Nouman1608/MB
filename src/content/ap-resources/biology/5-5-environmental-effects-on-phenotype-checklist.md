@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-5.5-checklist"
 title: "Environmental Effects on Phenotype: Topic Checklist (Biology 5.5)"
-description: "Specific “I can…” statements for phenotypic plasticity, gene expression, reaction norms and clone experiments, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for phenotypic plasticity, gene expression, reaction norms and clone experiments, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 5
 topics: ["5.5"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-6.8-checklist"
 title: "Enthalpy of Formation: Topic Checklist (Chemistry 6.8)"
-description: "Specific “I can…” statements for enthalpies of formation, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for enthalpies of formation, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 6
 topics: ["6.8"]

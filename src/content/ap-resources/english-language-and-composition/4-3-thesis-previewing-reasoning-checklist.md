@@ -2,7 +2,7 @@
 resourceId: mb-ap-englang-4.3-checklist
 title: 'Thesis Statements That Preview the Line of Reasoning: Topic Checklist (English Language 4.3)'
 seoTitle: "English Language 4.3 Thesis Previewing Reasoning Checklist"
-description: Specific “I can…” statements for reading and writing theses that preview a line of reasoning, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for reading and writing theses that preview a line of reasoning, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 4
 topics:

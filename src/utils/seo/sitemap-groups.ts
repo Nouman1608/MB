@@ -20,6 +20,7 @@ export const SITEMAP_GROUPS = [
   'courses',
   'resources',
   'practice',
+  'flashcards',
   'advanced-courses',
   'articles',
   'authors',
@@ -34,7 +35,8 @@ export const SITEMAP_GROUP_DESCRIPTIONS: Record<SitemapGroup, string> = {
   pages: 'Home, tuition, pricing, regional landing pages, programmes, tools and legal pages',
   courses: 'Board, qualification, subject and course hubs, checklists, past-paper pages and resource listings',
   resources: 'Study guides, revision notes, practice sets and other single resources',
-  practice: 'Practice-question banks, diagnostics and flashcard decks',
+  practice: 'Practice-question banks and diagnostics',
+  flashcards: 'Flashcard decks and per-topic flashcard pages',
   'advanced-courses': 'Advanced-course study library',
   articles: 'Learning Journal articles',
   authors: 'Teacher and author profiles',
@@ -55,7 +57,8 @@ export function sitemapGroup(path: string): SitemapGroup {
   if (first === 'authors') return third === 'resources' ? 'author-archives' : 'authors';
   if (first === 'articles') return seg.length > 1 ? 'articles' : 'pages';
   if (first === 'advanced-course-resources') return 'advanced-courses';
-  if (first === 'practice' || first === 'flashcards') return 'practice';
+  if (first === 'flashcards') return 'flashcards';
+  if (first === 'practice') return 'practice';
   if (first === 'resources') {
     // /resources/ and /resources/<type>/<subject>/ are listings; /resources/<slug>/ is a resource.
     if (seg.length === 1) return 'courses';

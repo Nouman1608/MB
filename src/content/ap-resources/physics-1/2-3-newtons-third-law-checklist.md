@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-2.3-checklist"
 title: "Newton's Third Law: Topic Checklist (Physics 1 2.3)"
-description: "Specific “I can…” statements for Newton's third law in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Newton's third law in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 2
 topics: ["2.3"]

@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.6-checklist
 title: 'Shifts in Tone: Topic Checklist (English Language 6.6)'
-description: Specific “I can…” statements for finding, describing and writing shifts in tone, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for finding, describing and writing shifts in tone, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 6
 topics:

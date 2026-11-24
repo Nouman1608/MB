@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-2.2-checklist"
 title: "Limitations of GDP: Topic Checklist (Macroeconomics 2.2)"
-description: "Specific “I can…” statements for the limitations of GDP, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the limitations of GDP, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 2
 topics: ["2.2"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-8.5-checklist"
 title: "Community Ecology: Topic Checklist (Biology 8.5)"
-description: "Specific “I can…” statements for community structure, Simpson's diversity index and interactions between species, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for community structure, Simpson's diversity index and interactions between species, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 8
 topics: ["8.5"]

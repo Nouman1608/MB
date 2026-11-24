@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.1-checklist"
 title: "Aggregate Demand (AD): Topic Checklist (Macroeconomics 3.1)"
-description: "Specific “I can…” statements for aggregate demand, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for aggregate demand, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.1"]

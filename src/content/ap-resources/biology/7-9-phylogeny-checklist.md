@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.9-checklist"
 title: "Phylogeny: Topic Checklist (Biology 7.9)"
-description: "Specific “I can…” statements for reading and building cladograms and phylogenetic trees, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for reading and building cladograms and phylogenetic trees, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 7
 topics: ["7.9"]

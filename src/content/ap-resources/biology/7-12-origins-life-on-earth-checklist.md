@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.12-checklist"
 title: "Origins of Life on Earth: Topic Checklist (Biology 7.12)"
-description: "Specific “I can…” statements for the evidence on the origin of life and the RNA world hypothesis, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the evidence on the origin of life and the RNA world hypothesis, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 7
 topics: ["7.12"]

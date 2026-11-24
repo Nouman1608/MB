@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-6.7-checklist"
 title: "The Fundamental Theorem of Calculus and Definite Integrals: Topic Checklist (Calculus AB 6.7)"
 seoTitle: "Calculus AB 6.7 FTC and Definite Integrals Topic Checklist"
-description: "Specific “I can…” statements for evaluating definite integrals with antiderivatives, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for evaluating definite integrals with antiderivatives, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 6
 topics: ["6.7"]

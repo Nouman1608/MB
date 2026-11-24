@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-8.12-checklist"
 title: "Volume with Washer Method: Revolving Around Other Axes: Topic Checklist (Calculus AB 8.12)"
 seoTitle: "Calculus AB 8.12 Washer Method Around Other Axes Checklist"
-description: "Specific “I can…” statements for washer-method volumes around horizontal and vertical lines, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for washer-method volumes around horizontal and vertical lines, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 8
 topics: ["8.12"]

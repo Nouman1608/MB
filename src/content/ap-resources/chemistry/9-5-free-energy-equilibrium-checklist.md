@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.5-checklist"
 title: "Free Energy and Equilibrium: Topic Checklist (Chemistry 9.5)"
-description: "Specific “I can…” statements for linking ΔG° and K, each pointing to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for linking ΔG° and K, each pointing to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 9
 topics: ["9.5"]

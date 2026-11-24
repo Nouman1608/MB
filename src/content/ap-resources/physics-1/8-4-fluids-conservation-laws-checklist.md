@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-8.4-checklist"
 title: "Fluids and Conservation Laws: Topic Checklist (Physics 1 8.4)"
-description: "Specific “I can…” statements for flow rate, continuity, Bernoulli's equation and Torricelli's result, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for flow rate, continuity, Bernoulli's equation and Torricelli's result, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 8
 topics: ["8.4"]

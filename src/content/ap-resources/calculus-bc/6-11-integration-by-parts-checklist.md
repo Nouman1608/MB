@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-6.11-checklist"
 title: "Integrating Using Integration by Parts: Topic Checklist (Calculus BC 6.11)"
 seoTitle: "Calculus BC 6.11 Integration by Parts Topic Checklist"
-description: "Specific “I can…” statements for integration by parts, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for integration by parts, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 6
 topics: ["6.11"]

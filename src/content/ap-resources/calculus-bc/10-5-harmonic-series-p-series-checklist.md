@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.5-checklist"
 title: "Harmonic Series and p-Series: Topic Checklist (Calculus BC 10.5)"
-description: "Specific “I can…” statements for harmonic series and p-series, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for harmonic series and p-series, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.5"]

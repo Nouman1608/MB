@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.4-checklist"
 title: "Acid-Base Reactions and Buffers: Topic Checklist (Chemistry 8.4)"
-description: "Specific “I can…” statements for acid-base reactions and buffers, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for acid-base reactions and buffers, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 8
 topics: ["8.4"]

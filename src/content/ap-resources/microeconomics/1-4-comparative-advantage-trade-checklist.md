@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.4-checklist"
 title: "Comparative Advantage and Trade: Topic Checklist (Microeconomics 1.4)"
-description: "Specific “I can…” statements for comparative advantage and trade, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for comparative advantage and trade, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 1
 topics: ["1.4"]

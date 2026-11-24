@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-11.6-checklist"
 title: "Kirchhoff's Loop Rule: Topic Checklist (Physics 2 11.6)"
-description: "Specific “I can…” statements for Kirchhoff's loop rule, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for Kirchhoff's loop rule, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 11
 topics: ["11.6"]

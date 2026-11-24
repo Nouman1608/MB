@@ -2,7 +2,7 @@
 resourceId: "mb-ap-micro-2.7-checklist"
 title: "Market Disequilibrium and Changes in Equilibrium: Topic Checklist (Microeconomics 2.7)"
 seoTitle: "Microeconomics 2.7 Market Disequilibrium Topic Checklist"
-description: "Specific “I can…” statements for shortages, surpluses and changes in equilibrium, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for shortages, surpluses and changes in equilibrium, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 2
 topics: ["2.7"]

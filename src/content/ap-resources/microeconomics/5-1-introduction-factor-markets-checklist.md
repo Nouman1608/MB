@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.1-checklist"
 title: "Introduction to Factor Markets: Topic Checklist (Microeconomics 5.1)"
-description: "Specific “I can…” statements for factor markets, MRP and MRC, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for factor markets, MRP and MRC, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 5
 topics: ["5.1"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.2-checklist"
 title: "Natural Selection: Topic Checklist (Biology 7.2)"
-description: "Specific “I can…” statements for phenotypic variation, selective pressures, environment-dependent fitness and molecular variation, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for phenotypic variation, selective pressures, environment-dependent fitness and molecular variation, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 7
 topics: ["7.2"]

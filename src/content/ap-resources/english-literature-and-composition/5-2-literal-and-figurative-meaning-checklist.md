@@ -2,7 +2,7 @@
 resourceId: "mb-ap-englit-5.2-checklist"
 title: "Literal and Figurative Meaning: Topic Checklist (English Literature 5.2)"
 seoTitle: "English Lit 5.2 Literal and Figurative Meaning Checklist"
-description: "Specific “I can…” statements on telling literal from figurative meaning and explaining the function of words, hyperbole and understatement, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements on telling literal from figurative meaning and explaining the function of words, hyperbole and understatement, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 5
 topics: ["5.2"]

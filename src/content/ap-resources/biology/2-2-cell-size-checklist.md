@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-2.2-checklist"
 title: "Cell Size: Topic Checklist (Biology 2.2)"
-description: "Specific “I can…” statements for surface area-to-volume ratio, cell size and body size, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for surface area-to-volume ratio, cell size and body size, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 2
 topics: ["2.2"]

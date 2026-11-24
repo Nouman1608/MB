@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.1-checklist"
 title: "Scarcity: Topic Checklist (Macroeconomics 1.1)"
-description: "Specific “I can…” statements for scarcity and economic resources, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for scarcity and economic resources, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 1
 topics: ["1.1"]

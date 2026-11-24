@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-3.5-checklist"
 title: "Cellular Respiration: Topic Checklist (Biology 3.5)"
-description: "Specific “I can…” statements for cellular respiration, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for cellular respiration, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 3
 topics: ["3.5"]

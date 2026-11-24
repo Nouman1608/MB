@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-6.5-checklist"
 title: "Regulation of Gene Expression: Topic Checklist (Biology 6.5)"
-description: "Specific “I can…” statements for gene regulation, from operons and epigenetic marks to developmental cascades, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for gene regulation, from operons and epigenetic marks to developmental cascades, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 6
 topics: ["6.5"]

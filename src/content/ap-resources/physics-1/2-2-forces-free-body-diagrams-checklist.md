@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-2.2-checklist"
 title: "Forces and Free-Body Diagrams: Topic Checklist (Physics 1 2.2)"
-description: "Specific “I can…” statements for forces as interactions, contact and long-range forces and free-body diagrams in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for forces as interactions, contact and long-range forces and free-body diagrams in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 2
 topics: ["2.2"]

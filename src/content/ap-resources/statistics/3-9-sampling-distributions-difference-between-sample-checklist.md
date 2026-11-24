@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-3.9-checklist"
 title: "Sampling Distributions for the Difference Between Sample Proportions: Topic Checklist (Statistics 3.9)"
 seoTitle: "Statistics 3.9 Difference in Sample Proportions Checklist"
-description: "Specific “I can…” statements for the sampling distribution of a difference in sample proportions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the sampling distribution of a difference in sample proportions, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 3
 topics: ["3.9"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-8.3-checklist"
 title: "Population Ecology: Topic Checklist (Biology 8.3)"
-description: "Specific “I can…” statements for population ecology, births and deaths, per capita rates and exponential growth, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for population ecology, births and deaths, per capita rates and exponential growth, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 8
 topics: ["8.3"]

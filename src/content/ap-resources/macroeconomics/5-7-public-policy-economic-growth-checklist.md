@@ -2,7 +2,7 @@
 resourceId: "mb-ap-macro-5.7-checklist"
 title: "Public Policy and Economic Growth: Topic Checklist (Macroeconomics 5.7)"
 seoTitle: "Macroeconomics 5.7 Policy and Economic Growth Checklist"
-description: "Specific “I can…” statements for public policy and economic growth, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for public policy and economic growth, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 5
 topics: ["5.7"]

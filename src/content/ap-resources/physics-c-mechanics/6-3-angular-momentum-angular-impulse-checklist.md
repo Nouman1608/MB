@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-6.3-checklist"
 title: "Angular Momentum and Angular Impulse: Topic Checklist (Physics C: Mechanics 6.3)"
 seoTitle: "Physics C Mechanics 6.3 Angular Momentum, Impulse Checklist"
-description: "Specific “I can…” statements for calculus-based angular momentum and angular impulse, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based angular momentum and angular impulse, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 6
 topics: ["6.3"]

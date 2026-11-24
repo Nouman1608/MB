@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-4.5-checklist"
 title: "Oligopoly and Game Theory: Topic Checklist (Microeconomics 4.5)"
-description: "Specific “I can…” statements for oligopoly and game theory, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for oligopoly and game theory, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 4
 topics: ["4.5"]

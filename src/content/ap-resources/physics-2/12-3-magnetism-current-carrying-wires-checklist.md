@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys2-12.3-checklist"
 title: "Magnetism and Current-Carrying Wires: Topic Checklist (Physics 2 12.3)"
 seoTitle: "Physics 2 12.3 Current-Carrying Wires Topic Checklist"
-description: "Specific “I can…” statements for the magnetic field of a current and the force on a current, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the magnetic field of a current and the force on a current, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 12
 topics: ["12.3"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-1.4-checklist"
 title: "Graphical Representations for One Categorical Variable: Topic Checklist (Statistics 1.4)"
 seoTitle: "Statistics 1.4 Graphing One Categorical Variable Checklist"
-description: "Specific “I can…” statements for bar charts and pie charts of one categorical variable, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for bar charts and pie charts of one categorical variable, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 1
 topics: ["1.4"]

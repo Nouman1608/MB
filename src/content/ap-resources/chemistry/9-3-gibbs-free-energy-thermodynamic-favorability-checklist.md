@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-9.3-checklist"
 title: "Gibbs Free Energy and Thermodynamic Favorability: Topic Checklist (Chemistry 9.3)"
 seoTitle: "Chemistry 9.3 Gibbs Free Energy and Favorability Checklist"
-description: "Specific “I can…” statements for Gibbs free energy and thermodynamic favourability, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Gibbs free energy and thermodynamic favourability, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 9
 topics: ["9.3"]

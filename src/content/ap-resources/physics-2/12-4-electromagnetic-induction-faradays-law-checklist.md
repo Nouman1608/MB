@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys2-12.4-checklist"
 title: "Electromagnetic Induction and Faraday's Law: Topic Checklist (Physics 2 12.4)"
 seoTitle: "Physics 2 12.4 Induction and Faraday's Law Topic Checklist"
-description: "Specific “I can…” statements for magnetic flux, Faraday's law and Lenz's law, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for magnetic flux, Faraday's law and Lenz's law, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 12
 topics: ["12.4"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-3.1-checklist"
 title: "Intermolecular and Interparticle Forces: Topic Checklist (Chemistry 3.1)"
 seoTitle: "Chemistry 3.1 Intermolecular Forces Topic Checklist"
-description: "Specific “I can…” statements for intermolecular and interparticle forces, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for intermolecular and interparticle forces, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 3
 topics: ["3.1"]

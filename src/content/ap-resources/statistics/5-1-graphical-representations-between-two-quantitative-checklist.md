@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-5.1-checklist"
 title: "Graphical Representations Between Two Quantitative Variables: Topic Checklist (Statistics 5.1)"
 seoTitle: "Statistics 5.1 Graphing Two Quantitative Variables Checklist"
-description: "Specific “I can…” statements for scatterplots of two quantitative variables, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for scatterplots of two quantitative variables, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 5
 topics: ["5.1"]

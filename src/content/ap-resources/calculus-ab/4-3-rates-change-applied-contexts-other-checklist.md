@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-4.3-checklist"
 title: "Rates of Change in Applied Contexts Other Than Motion: Topic Checklist (Calculus AB 4.3)"
 seoTitle: "Calculus AB 4.3 Rates of Change in Context Topic Checklist"
-description: "Specific “I can…” statements for interpreting derivatives as rates in non-motion contexts, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for interpreting derivatives as rates in non-motion contexts, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 4
 topics: ["4.3"]

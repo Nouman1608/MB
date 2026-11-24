@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-2.2-checklist"
 title: "Intramolecular Force and Potential Energy: Topic Checklist (Chemistry 2.2)"
 seoTitle: "Chemistry 2.2 Intramolecular Force and Energy Checklist"
-description: "Specific “I can…” statements for potential energy curves, bond length, bond energy, bond order and Coulomb's law for ions, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for potential energy curves, bond length, bond energy, bond order and Coulomb's law for ions, each linked to the guide section or practice question that tests it."
 course: "chemistry"
 unit: 2
 topics: ["2.2"]

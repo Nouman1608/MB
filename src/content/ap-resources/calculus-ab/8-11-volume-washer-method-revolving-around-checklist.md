@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-8.11-checklist"
 title: "Volume with Washer Method: Revolving Around the x- or y-Axis: Topic Checklist (Calculus AB 8.11)"
 seoTitle: "Calculus AB 8.11 Washer Method About x or y Axis Checklist"
-description: "Specific “I can…” statements for washer-method volumes around the x- and y-axes, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for washer-method volumes around the x- and y-axes, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 8
 topics: ["8.11"]

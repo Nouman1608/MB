@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.6-checklist"
 title: "p-Values: Topic Checklist (Statistics 3.6)"
-description: "Specific “I can…” statements for finding and interpreting p-values in a test about a population proportion, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for finding and interpreting p-values in a test about a population proportion, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 3
 topics: ["3.6"]

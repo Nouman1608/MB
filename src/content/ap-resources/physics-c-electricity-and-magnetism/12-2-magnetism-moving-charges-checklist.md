@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-12.2-checklist"
 title: "Magnetism and Moving Charges: Topic Checklist (Physics C: E&M 12.2)"
-description: "Specific “I can…” statements for moving charges and magnetism in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for moving charges and magnetism in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 12
 topics: ["12.2"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.2-checklist"
 title: "The Phillips Curve: Topic Checklist (Macroeconomics 5.2)"
-description: "Specific “I can…” statements for the short-run and long-run Phillips curves, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the short-run and long-run Phillips curves, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 5
 topics: ["5.2"]

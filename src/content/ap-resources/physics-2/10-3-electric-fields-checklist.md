@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-10.3-checklist"
 title: "Electric Fields: Topic Checklist (Physics 2 10.3)"
-description: "Specific “I can…” statements for electric fields, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for electric fields, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 10
 topics: ["10.3"]

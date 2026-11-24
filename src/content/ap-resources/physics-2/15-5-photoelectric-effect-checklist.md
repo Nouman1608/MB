@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.5-checklist"
 title: "The Photoelectric Effect: Topic Checklist (Physics 2 15.5)"
-description: "Specific “I can…” statements for the photoelectric effect, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the photoelectric effect, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 15
 topics: ["15.5"]

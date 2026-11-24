@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-4.2-checklist"
 title: "Net Ionic Equations: Topic Checklist (Chemistry 4.2)"
-description: "Specific “I can…” statements for balancing equations and writing molecular, complete ionic and net ionic equations, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for balancing equations and writing molecular, complete ionic and net ionic equations, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 4
 topics: ["4.2"]

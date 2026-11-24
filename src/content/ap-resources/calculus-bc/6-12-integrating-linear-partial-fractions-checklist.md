@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-6.12-checklist"
 title: "Integrating Using Linear Partial Fractions: Topic Checklist (Calculus BC 6.12)"
 seoTitle: "Calculus BC 6.12 Linear Partial Fractions Topic Checklist"
-description: "Specific “I can…” statements for linear partial fractions, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for linear partial fractions, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 6
 topics: ["6.12"]

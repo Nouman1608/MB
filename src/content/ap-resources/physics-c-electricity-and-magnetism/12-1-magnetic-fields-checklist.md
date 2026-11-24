@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-12.1-checklist"
 title: "Magnetic Fields: Topic Checklist (Physics C: E&M 12.1)"
-description: "Specific “I can…” statements for magnetic fields in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for magnetic fields in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 12
 topics: ["12.1"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-8.2-checklist"
 title: "Energy Flow Through Ecosystems: Topic Checklist (Biology 8.2)"
-description: "Specific “I can…” statements for energy use, trophic levels and the biogeochemical cycles, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for energy use, trophic levels and the biogeochemical cycles, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 8
 topics: ["8.2"]

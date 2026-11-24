@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-1.3-checklist"
 title: "Introduction to Macromolecules: Topic Checklist (Biology 1.3)"
-description: "Specific “I can…” statements for monomers, polymers, dehydration synthesis and hydrolysis, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for monomers, polymers, dehydration synthesis and hydrolysis, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 1
 topics: ["1.3"]

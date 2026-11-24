@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.1-checklist"
 title: "Linear Momentum: Topic Checklist (Physics C: Mechanics 4.1)"
-description: "Specific “I can…” statements for calculus-based linear momentum, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based linear momentum, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 4
 topics: ["4.1"]

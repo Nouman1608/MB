@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-3.12-checklist"
 title: "Setting Up a Test for the Difference Between Two Population Proportions: Topic Checklist (Statistics 3.12)"
 seoTitle: "Statistics 3.12 Setting Up a Two-Proportion Test Checklist"
-description: "Specific “I can…” statements for setting up a two-sample z-test for p₁ − p₂, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for setting up a two-sample z-test for p₁ − p₂, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 3
 topics: ["3.12"]

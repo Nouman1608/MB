@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.2-checklist"
 title: "pH and pOH of Strong Acids and Bases: Topic Checklist (Chemistry 8.2)"
-description: "Specific “I can…” statements for pH and pOH of strong acids and strong bases, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for pH and pOH of strong acids and strong bases, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 8
 topics: ["8.2"]

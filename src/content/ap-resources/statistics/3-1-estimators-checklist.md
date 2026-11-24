@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.1-checklist"
 title: "Estimators: Topic Checklist (Statistics 3.1)"
-description: "Specific “I can…” statements for estimators and point estimates, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for estimators and point estimates, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 3
 topics: ["3.1"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.5-checklist"
 title: "Applying the Power Rule: Topic Checklist (Calculus AB 2.5)"
-description: "Specific “I can…” statements for the power rule, rewriting powers and tangent lines, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the power rule, rewriting powers and tangent lines, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 2
 topics: ["2.5"]

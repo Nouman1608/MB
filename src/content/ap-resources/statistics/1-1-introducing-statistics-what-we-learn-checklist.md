@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-1.1-checklist"
 title: "Introducing Statistics: What Can We Learn from Data? Topic Checklist (Statistics 1.1)"
 seoTitle: "Statistics 1.1 Introducing Statistics Topic Checklist"
-description: "Specific “I can…” statements for the parts of a statistical study and investigative questions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the parts of a statistical study and investigative questions, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 1
 topics: ["1.1"]

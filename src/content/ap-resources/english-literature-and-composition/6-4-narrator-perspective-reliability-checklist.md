@@ -2,7 +2,7 @@
 resourceId: mb-ap-englit-6.4-checklist
 title: 'Narrator Perspective and Reliability: Topic Checklist (English Literature 6.4)'
 seoTitle: "English Literature 6.4 Narrator Reliability Topic Checklist"
-description: Specific “I can…” statements for narrator perspective and reliability in longer works, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for narrator perspective and reliability in longer works, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 6
 topics:

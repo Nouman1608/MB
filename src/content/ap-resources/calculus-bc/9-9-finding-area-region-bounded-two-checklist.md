@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-9.9-checklist"
 title: "Finding the Area of the Region Bounded by Two Polar Curves: Topic Checklist (Calculus BC 9.9)"
 seoTitle: "Calculus BC 9.9 Area Bounded by Two Polar Curves Checklist"
-description: "Specific “I can…” statements for areas between two polar curves, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for areas between two polar curves, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 9
 topics: ["9.9"]

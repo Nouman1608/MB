@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-5.3-checklist"
 title: "Linear Regression Models: Topic Checklist (Statistics 5.3)"
-description: "Specific “I can…” statements for linear regression models and predictions, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for linear regression models and predictions, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 5
 topics: ["5.3"]

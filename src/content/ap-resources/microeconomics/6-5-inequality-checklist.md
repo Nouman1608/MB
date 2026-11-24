@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.5-checklist"
 title: "Inequality: Topic Checklist (Microeconomics 6.5)"
-description: "Specific “I can…” statements for inequality, from Lorenz curves and the Gini coefficient to tax structures and sources of inequality, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for inequality, from Lorenz curves and the Gini coefficient to tax structures and sources of inequality, each linked to the guide section or practice question that tests it."
 course: "microeconomics"
 unit: 6
 topics: ["6.5"]

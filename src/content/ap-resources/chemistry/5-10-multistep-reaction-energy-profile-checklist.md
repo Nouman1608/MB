@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.10-checklist"
 title: "Multistep Reaction Energy Profile: Topic Checklist (Chemistry 5.10)"
-description: "Specific “I can…” statements for multistep reaction energy profiles, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for multistep reaction energy profiles, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 5
 topics: ["5.10"]

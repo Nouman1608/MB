@@ -2,7 +2,7 @@
 resourceId: "mb-ap-macro-3.3-checklist"
 title: "Short-Run Aggregate Supply (SRAS): Topic Checklist (Macroeconomics 3.3)"
 seoTitle: "Macroeconomics 3.3 Short-Run Aggregate Supply Checklist"
-description: "Specific “I can…” statements for short-run aggregate supply, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for short-run aggregate supply, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.3"]

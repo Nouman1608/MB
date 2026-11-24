@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.11-checklist"
 title: "Solving Optimization Problems: Topic Checklist (Calculus AB 5.11)"
-description: "Specific “I can…” statements for solving, justifying and interpreting optimization problems, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for solving, justifying and interpreting optimization problems, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 5
 topics: ["5.11"]

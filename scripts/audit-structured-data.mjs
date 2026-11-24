@@ -14,7 +14,13 @@
  * `npm run audit:structured-data`, or as part of the pre-release QA gate.
  */
 import { readdirSync, readFileSync, statSync } from 'node:fs';
-import { join } from 'node:path';
+import { join, relative, sep } from 'node:path';
+
+// Optional first argument: a build folder other than ./dist (for example a
+// baseline build in another worktree): node scripts/audit-structured-data.mjs ../x/dist
+const DIST = process.argv[2] ?? 'dist';
+// Every path below is reported as dist/<route>/index.html whatever folder was scanned.
+const norm = (f) => 'dist/' + relative(DIST, f).split(sep).join('/');
 
 function walk(dir, out = []) {
   for (const entry of readdirSync(dir)) {
@@ -35,7 +41,7 @@ function typedNodes(item) {
 
 let files;
 try {
-  files = walk('dist');
+  files = walk(DIST);
 } catch {
   console.error('dist/ not found -- run `npm run build` first.');
   process.exit(1);
@@ -63,10 +69,11 @@ const SITE = 'https://marlbridge.com';
 const jsonLdOf = (html) => [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(([, raw]) => {
   try { const p = JSON.parse(raw); return (Array.isArray(p) ? p : [p]).flatMap(typedNodes); } catch { return []; }
 });
+const builtPaths = new Set(files.map(norm)); // O(1) lookup instead of scanning every page per author reference
 const declaredAuthors = new Map(); // @id -> { type, name, url }
 const profileNames = new Set();
 for (const f of files) {
-  const rel = f.replace(/\\/g, '/');
+  const rel = norm(f);
   if (!/^dist\/authors\/[^/]+\/index\.html$/.test(rel)) continue;
   for (const node of jsonLdOf(readFileSync(f, 'utf8'))) {
     if ((node['@type'] === 'Person' || node['@type'] === 'Organization') && typeof node['@id'] === 'string' && node['@id'].includes('/authors/')) {
@@ -91,7 +98,7 @@ function checkAuthor(path, author) {
   authorRefsLinked++;
   const declared = declaredAuthors.get(author['@id']);
   if (!author.url?.startsWith(`${SITE}/authors/`)) problems.push({ path, issue: `author url is not an absolute profile URL: ${author.url}` });
-  else if (!files.some((f) => f.replace(/\\/g, '/') === `dist${author.url.slice(SITE.length)}index.html`)) problems.push({ path, issue: `author url has no built page: ${author.url}` });
+  else if (!builtPaths.has(`dist${author.url.slice(SITE.length)}index.html`)) problems.push({ path, issue: `author url has no built page: ${author.url}` });
   if (!declared) problems.push({ path, issue: `author @id is not declared by any profile page: ${author['@id']}` });
   else {
     if (declared.type !== author['@type']) problems.push({ path, issue: `author "${author.name}" is ${author['@type']} here but ${declared.type} on the profile` });
@@ -103,11 +110,88 @@ const decode = (s) => s.replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
   .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 let titleSetsChecked = 0;
 
+/**
+ * Nov 2026 SEO round (S1.3) -- site policy checks on every page's structured data:
+ *   - no rating, review or postal-address markup anywhere (the 4.6/5 Google
+ *     rating belongs to Learners Academy, and the address is visible text only);
+ *   - a visible breadcrumb has a BreadcrumbList, and the reverse;
+ *   - Article / LearningResource carry headline, dates (modified not before
+ *     published), author and publisher; a "Marlbridge Academic Team" byline is
+ *     an Organization, never a Person;
+ *   - FAQPage questions are visible on the page; Course names its provider and
+ *     never claims an educationalCredentialAwarded.
+ */
+const FORBIDDEN_KEYS = new Set(['aggregateRating', 'review', 'reviews', 'reviewRating', 'ratingValue', 'ratingCount', 'reviewCount', 'bestRating', 'address', 'streetAddress', 'postalCode', 'addressLocality']);
+const FORBIDDEN_TYPES = new Set(['AggregateRating', 'Review', 'Rating', 'PostalAddress']);
+const policyCounts = { breadcrumbVisible: 0, breadcrumbSchema: 0, faq: 0, course: 0, articles: 0 };
+function findForbidden(value, hits = []) {
+  if (Array.isArray(value)) { for (const v of value) findForbidden(v, hits); return hits; }
+  if (!value || typeof value !== 'object') return hits;
+  for (const [k, v] of Object.entries(value)) {
+    if (FORBIDDEN_KEYS.has(k)) hits.push(k);
+    if (k === '@type' && [].concat(v).some((t) => FORBIDDEN_TYPES.has(t))) hits.push(`@type ${v}`);
+    findForbidden(v, hits);
+  }
+  return hits;
+}
+function checkPolicy(path, html, nodes) {
+  const forbidden = findForbidden(nodes);
+  if (forbidden.length) problems.push({ path, issue: `rating/review/address markup: ${[...new Set(forbidden)].join(', ')}` });
+
+  const visibleCrumb = /<nav[^>]*aria-label="Breadcrumb"/i.test(html);
+  const crumbNode = nodes.find((n) => n['@type'] === 'BreadcrumbList');
+  if (visibleCrumb) policyCounts.breadcrumbVisible++;
+  if (crumbNode) policyCounts.breadcrumbSchema++;
+  if (visibleCrumb && !crumbNode) problems.push({ path, issue: 'visible breadcrumb but no BreadcrumbList in the structured data' });
+  if (crumbNode && !visibleCrumb) problems.push({ path, issue: 'BreadcrumbList in the structured data but no visible breadcrumb' });
+  if (crumbNode) {
+    const items = crumbNode.itemListElement ?? [];
+    items.forEach((it, i) => {
+      if (it.position !== i + 1 || !it.name || !String(it.item ?? '').startsWith(`${SITE}/`)) problems.push({ path, issue: `BreadcrumbList item ${i + 1} is malformed`, snippet: JSON.stringify(it).slice(0, 120) });
+    });
+  }
+
+  for (const node of nodes) {
+    const type = node['@type'];
+    if (type === 'Article' || type === 'LearningResource') {
+      policyCounts.articles++;
+      if (type === 'Article' && !node.headline) problems.push({ path, issue: 'Article has no headline' });
+      if (type === 'LearningResource' && !node.name) problems.push({ path, issue: 'LearningResource has no name' });
+      const pub = Date.parse(node.datePublished ?? '');
+      const mod = Date.parse(node.dateModified ?? '');
+      if (Number.isNaN(pub)) problems.push({ path, issue: `${type} datePublished is missing or not a date: ${node.datePublished}` });
+      if (Number.isNaN(mod)) problems.push({ path, issue: `${type} dateModified is missing or not a date: ${node.dateModified}` });
+      if (!Number.isNaN(pub) && !Number.isNaN(mod) && mod < pub) problems.push({ path, issue: `${type} dateModified is before datePublished` });
+      if (!node.publisher) problems.push({ path, issue: `${type} has no publisher` });
+      for (const a of [].concat(node.author ?? [])) {
+        if (/^Marlbridge Academic Team$/i.test(a.name ?? '') && a['@type'] !== 'Organization') problems.push({ path, issue: `byline "Marlbridge Academic Team" is a ${a['@type']}, not an Organization` });
+      }
+      if (html.match(/<meta property="article:modified_time" content="([^"]+)"/)?.[1] && node.dateModified
+        && Date.parse(html.match(/<meta property="article:modified_time" content="([^"]+)"/)[1]) !== mod) problems.push({ path, issue: 'article:modified_time differs from dateModified' });
+    }
+    if (type === 'FAQPage') {
+      policyCounts.faq++;
+      const body = decode(html.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ');
+      for (const q of node.mainEntity ?? []) {
+        const name = String(q.name ?? '').replace(/\s+/g, ' ').trim();
+        if (!name || !q.acceptedAnswer?.text) problems.push({ path, issue: 'FAQPage question without a name or an answer' });
+        else if (!body.includes(name)) problems.push({ path, issue: `FAQPage question is not visible on the page: "${name.slice(0, 80)}"` });
+      }
+    }
+    if (type === 'Course') {
+      policyCounts.course++;
+      if (!node.name || !node.provider) problems.push({ path, issue: 'Course without a name or a provider' });
+      if (node.educationalCredentialAwarded) problems.push({ path, issue: 'Course claims educationalCredentialAwarded' });
+    }
+  }
+}
+
 for (const f of files) {
   const html = readFileSync(f, 'utf8');
   const blocks = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)];
-  const path = f.replace(/^dist/, '').replace(/index\.html$/, '') || '/';
+  const path = norm(f).replace(/^dist/, '').replace(/index\.html$/, '') || '/';
   const nodes = jsonLdOf(html);
+  checkPolicy(path, html, nodes);
   for (const node of nodes) {
     if (node['@type'] !== 'Article' && node['@type'] !== 'LearningResource') continue;
     if (node.author === undefined) { problems.push({ path, issue: `${node['@type']} has no author` }); continue; }
@@ -161,10 +245,14 @@ for (const [type, count] of Object.entries(typeCounts).sort((a, b) => b[1] - a[1
   console.log(`  ${type}: ${count}`);
 }
 console.log(`\nAuthor references: ${authorRefs} on Article/LearningResource nodes, ${authorRefsLinked} linked to one of ${declaredAuthors.size} profile entities, ${authorRefs - authorRefsLinked} named without a profile.`);
+console.log(`Policy checks: ${policyCounts.breadcrumbVisible} pages with a visible breadcrumb, ${policyCounts.breadcrumbSchema} with a BreadcrumbList; ${policyCounts.articles} Article/LearningResource, ${policyCounts.faq} FAQPage, ${policyCounts.course} Course nodes.`);
 console.log(`Title agreement (<title>, og:title, twitter:title, WebPage name): ${titleSetsChecked} pages checked.`);
 
 if (problems.length) {
   console.log(`\nProblems:`);
+  const kinds = new Map();
+  for (const p of problems) { const k = p.issue.replace(/[:"].*$/, '').replace(/d+/g, 'N'); kinds.set(k, (kinds.get(k) ?? 0) + 1); }
+  console.log('  By kind:'); for (const [k, n] of [...kinds].sort((a, b) => b[1] - a[1])) console.log(`    ${n} x ${k}`);
   for (const p of problems.slice(0, 50)) console.log(`  ✗ ${p.path} -- ${p.issue}${p.snippet ? ` (${p.snippet})` : ''}`);
   if (problems.length > 50) console.log(`  ... and ${problems.length - 50} more`);
 }

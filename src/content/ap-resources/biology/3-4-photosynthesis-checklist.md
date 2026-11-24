@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-3.4-checklist"
 title: "Photosynthesis: Topic Checklist (Biology 3.4)"
-description: "Specific “I can…” statements for photosynthesis, from chloroplast structure and the light reactions to ATP synthase, the Calvin cycle and origins, each linked to the guide or practice that tests it."
+description: "Specific “I can” statements for photosynthesis, from chloroplast structure and the light reactions to ATP synthase, the Calvin cycle and origins, each linked to the guide or practice that tests it."
 course: "biology"
 unit: 3
 topics: ["3.4"]

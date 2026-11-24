@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-1.8-checklist"
 title: "Determining Limits Using the Squeeze Theorem: Topic Checklist (Calculus AB 1.8)"
 seoTitle: "Calculus AB 1.8 Limits Using the Squeeze Theorem Checklist"
-description: "Specific “I can…” statements for the squeeze theorem and the two key trig limits, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the squeeze theorem and the two key trig limits, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 1
 topics: ["1.8"]

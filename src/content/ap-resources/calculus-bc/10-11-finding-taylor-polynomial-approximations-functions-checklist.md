@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-10.11-checklist"
 title: "Finding Taylor Polynomial Approximations of Functions: Topic Checklist (Calculus BC 10.11)"
 seoTitle: "Calculus BC 10.11 Taylor Polynomial Approximations Checklist"
-description: "Specific “I can…” statements for Taylor polynomial approximations, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for Taylor polynomial approximations, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.11"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.1-checklist"
 title: "Introduction to Acids and Bases: Topic Checklist (Chemistry 8.1)"
-description: "Specific “I can…” statements for water's autoionization, K_w, pH and pOH, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for water's autoionization, K_w, pH and pOH, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 8
 topics: ["8.1"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.4-checklist"
 title: "Elementary Reactions: Topic Checklist (Chemistry 5.4)"
-description: "Specific “I can…” statements for elementary reactions, rate laws from coefficients and molecularity, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for elementary reactions, rate laws from coefficients and molecularity, each linked to the guide section or practice question that tests it."
 course: "chemistry"
 unit: 5
 topics: ["5.4"]

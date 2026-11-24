@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.8-checklist"
 title: "Spring Forces: Topic Checklist (Physics C: Mechanics 2.8)"
-description: "Specific “I can…” statements for spring forces, ideal and nonideal springs, and series and parallel combinations, each linked to where it is taught and tested."
+description: "Specific “I can” statements for spring forces, ideal and nonideal springs, and series and parallel combinations, each linked to where it is taught and tested."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.8"]

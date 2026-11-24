@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-6.3-checklist"
 title: "Transcription and RNA Processing: Topic Checklist (Biology 6.3)"
-description: "Specific “I can…” statements for transcription, the three kinds of RNA and eukaryotic RNA processing, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for transcription, the three kinds of RNA and eukaryotic RNA processing, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 6
 topics: ["6.3"]

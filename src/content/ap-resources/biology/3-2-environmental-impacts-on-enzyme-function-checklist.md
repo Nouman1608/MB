@@ -2,7 +2,7 @@
 resourceId: "mb-ap-bio-3.2-checklist"
 title: "Environmental Impacts on Enzyme Function: Topic Checklist (Biology 3.2)"
 seoTitle: "Biology 3.2 Environmental Impacts on Enzymes Topic Checklist"
-description: "Specific “I can…” statements for temperature, pH, denaturation, concentrations and inhibitors, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for temperature, pH, denaturation, concentrations and inhibitors, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 3
 topics: ["3.2"]

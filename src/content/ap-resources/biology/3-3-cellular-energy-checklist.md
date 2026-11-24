@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-3.3-checklist"
 title: "Cellular Energy: Topic Checklist (Biology 3.3)"
-description: "Specific “I can…” statements for cellular energy, thermodynamics, ATP coupling, stepwise pathways and common ancestry, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for cellular energy, thermodynamics, ATP coupling, stepwise pathways and common ancestry, each linked to the guide section or practice question that tests it."
 course: "biology"
 unit: 3
 topics: ["3.3"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-12.1-checklist"
 title: "Magnetic Fields: Topic Checklist (Physics 2 12.1)"
-description: "Specific “I can…” statements for magnetic fields, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for magnetic fields, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 12
 topics: ["12.1"]

@@ -25,7 +25,7 @@ import { site } from '../data/site';
 import { NAV_COPY, type LocaleCode } from '../i18n/nav';
 import { EN_PATH, localePath, TRANSLATED_LOCALES, type TranslationKey } from '../i18n/routes';
 import { siteGraph, webPageNode } from '../utils/schema/organization';
-import { absoluteUrl, metaDescription } from '../utils/seo/meta';
+import { absoluteUrl, metaDescription, pageTitle } from '../utils/seo/meta';
 
 interface Props {
   locale: LocaleCode;
@@ -51,6 +51,10 @@ const canonical = new URL(path, site.url).toString();
 // and into the `lead` prop where a page passes one -- neither is a
 // display snippet, so neither should be shortened.
 const snippet = metaDescription(description);
+// Nov 2026 SEO round (S1.1) -- most translated titles were a bare one or two words ("الأسعار",
+// "Terms") with no brand. Same rule as the English pages: the brand is added when the whole
+// title still fits in 60 characters. Home already carries the brand in the local script.
+const fullTitle = translationKey === 'home' ? title : pageTitle(title);
 
 /**
  * Switcher: English + the other two enabled locales, all resolved via the
@@ -64,7 +68,7 @@ const switcherLinks: { code: string; label: string; href: string }[] = [
   ...TRANSLATED_LOCALES.map((code) => ({ code, label: localeLabels[code], href: localePath(code, translationKey) })),
 ];
 
-const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
+const jsonLd = [...siteGraph(), webPageNode(path, fullTitle, description)];
 ---
 <!doctype html>
 <html lang={nav.htmlLang} dir={nav.dir}>
@@ -72,7 +76,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href="/images/brand/marlbridge-emblem-disc.svg" />
-    <title>{title}</title>
+    <title>{fullTitle}</title>
     <meta name="description" content={snippet} />
     <link rel="canonical" href={canonical} />
     {noindex && <meta name="robots" content="noindex, follow" />}
@@ -88,10 +92,11 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content={site.name} />
     <meta property="og:locale" content={nav.htmlLang} />
-    <meta property="og:title" content={title} />
+    <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={snippet} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={absoluteUrl(site.ogImage)} />
+    <meta property="og:image:alt" content={site.name} />
     {/* Technical SEO re-audit (Sections 37-39, 2026-09-01) -- these translated
         pages had full Open Graph tags but no og:image and no Twitter Card
         tags at all, unlike their English counterpart (Meta.astro), so a
@@ -101,9 +106,10 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
         inventing one would be a new asset with its own review, not a
         metadata fix. */}
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
+    <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={snippet} />
     <meta name="twitter:image" content={absoluteUrl(site.ogImage)} />
+    <meta name="twitter:image:alt" content={site.name} />
     <link rel="preload" href="/fonts/public-sans-latin-400.woff2" as="font" type="font/woff2" crossorigin />
     <script type="application/ld+json" is:inline set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonLd })} />
   </head>

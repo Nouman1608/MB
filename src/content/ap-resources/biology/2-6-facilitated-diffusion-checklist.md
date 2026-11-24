@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-2.6-checklist"
 title: "Facilitated Diffusion: Topic Checklist (Biology 2.6)"
-description: "Specific “I can…” statements for channel and carrier proteins, ions and polarized membranes, aquaporins and saturation, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for channel and carrier proteins, ions and polarized membranes, aquaporins and saturation, each linked to the guide section or practice question that tests it."
 course: "biology"
 unit: 2
 topics: ["2.6"]

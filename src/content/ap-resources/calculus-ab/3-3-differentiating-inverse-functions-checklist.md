@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.3-checklist"
 title: "Differentiating Inverse Functions: Topic Checklist (Calculus AB 3.3)"
-description: "Specific “I can…” statements for derivatives of inverse functions, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for derivatives of inverse functions, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 3
 topics: ["3.3"]

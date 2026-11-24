@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-5.3-checklist"
 title: "Mendelian Genetics: Topic Checklist (Biology 5.3)"
-description: "Specific “I can…” statements for Mendel's laws, cross ratios, probability rules, pedigrees and chi-square, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Mendel's laws, cross ratios, probability rules, pedigrees and chi-square, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 5
 topics: ["5.3"]

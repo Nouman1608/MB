@@ -2,7 +2,7 @@
 resourceId: mb-ap-englit-6.1-checklist
 title: 'Contrasting Characters in Longer Works: Topic Checklist (English Literature 6.1)'
 seoTitle: "English Literature 6.1 Contrasting Characters Checklist"
-description: Specific “I can…” statements for foils, contrasting characters and character perspective in longer works, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for foils, contrasting characters and character perspective in longer works, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 6
 topics:

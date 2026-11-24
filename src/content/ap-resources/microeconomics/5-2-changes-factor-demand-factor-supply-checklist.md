@@ -2,7 +2,7 @@
 resourceId: "mb-ap-micro-5.2-checklist"
 title: "Changes in Factor Demand and Factor Supply: Topic Checklist (Microeconomics 5.2)"
 seoTitle: "Microeconomics 5.2 Factor Demand and Supply Topic Checklist"
-description: "Specific “I can…” statements for shifts in labour demand and labour supply, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for shifts in labour demand and labour supply, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 5
 topics: ["5.2"]

@@ -2,7 +2,7 @@
 resourceId: mb-ap-englang-6.3-checklist
 title: 'Bias and Limitations in Sources: Topic Checklist (English Language 6.3)'
 seoTitle: "English Language 6.3 Source Bias and Limitations Checklist"
-description: Specific “I can…” statements for recognising bias and limitations in sources and accounting for them in an argument, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for recognising bias and limitations in sources and accounting for them in an argument, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 6
 topics:

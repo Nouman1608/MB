@@ -2,7 +2,7 @@
 resourceId: "mb-ap-macro-4.4-checklist"
 title: "Banking and the Expansion of the Money Supply: Topic Checklist (Macroeconomics 4.4)"
 seoTitle: "Macroeconomics 4.4 Banking and the Money Supply Checklist"
-description: "Specific “I can…” statements for bank balance sheets, reserves and the money multiplier, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for bank balance sheets, reserves and the money multiplier, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 4
 topics: ["4.4"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-6.3-checklist"
 title: "Riemann Sums, Summation Notation and Definite Integral Notation: Topic Checklist (Calculus AB 6.3)"
 seoTitle: "Calculus AB 6.3 Riemann Sums and Integral Notation Checklist"
-description: "Specific “I can…” statements for sigma notation, Riemann sums and the definite integral, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for sigma notation, Riemann sums and the definite integral, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 6
 topics: ["6.3"]

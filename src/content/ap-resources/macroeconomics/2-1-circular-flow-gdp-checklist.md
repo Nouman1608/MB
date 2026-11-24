@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-2.1-checklist"
 title: "The Circular Flow and GDP: Topic Checklist (Macroeconomics 2.1)"
-description: "Specific “I can…” statements for the circular flow and GDP, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the circular flow and GDP, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 2
 topics: ["2.1"]

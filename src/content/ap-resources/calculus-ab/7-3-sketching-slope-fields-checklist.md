@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.3-checklist"
 title: "Sketching Slope Fields: Topic Checklist (Calculus AB 7.3)"
-description: "Specific “I can…” statements for drawing and reading slope fields, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for drawing and reading slope fields, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 7
 topics: ["7.3"]

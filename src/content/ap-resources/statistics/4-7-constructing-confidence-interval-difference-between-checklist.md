@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-4.7-checklist"
 title: "Constructing a Confidence Interval for the Difference Between Two Means: Topic Checklist (Statistics 4.7)"
 seoTitle: "Statistics 4.7 Confidence Interval for Two Means Checklist"
-description: "Specific “I can…” statements for two-sample t-intervals, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for two-sample t-intervals, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 4
 topics: ["4.7"]

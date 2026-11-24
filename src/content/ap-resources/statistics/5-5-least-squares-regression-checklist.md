@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-5.5-checklist"
 title: "Least-Squares Regression: Topic Checklist (Statistics 5.5)"
-description: "Specific “I can…” statements for least-squares regression, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for least-squares regression, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 5
 topics: ["5.5"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.1-checklist"
 title: "The Chain Rule: Topic Checklist (Calculus AB 3.1)"
-description: "Specific “I can…” statements for the chain rule, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the chain rule, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 3
 topics: ["3.1"]

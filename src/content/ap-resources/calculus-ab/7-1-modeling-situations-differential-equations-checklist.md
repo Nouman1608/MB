@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-7.1-checklist"
 title: "Modeling Situations with Differential Equations: Topic Checklist (Calculus AB 7.1)"
 seoTitle: "Calculus AB 7.1 Modeling Differential Equations Checklist"
-description: "Specific “I can…” statements for writing and reading differential equations from words, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for writing and reading differential equations from words, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 7
 topics: ["7.1"]

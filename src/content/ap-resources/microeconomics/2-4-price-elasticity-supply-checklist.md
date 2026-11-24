@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.4-checklist"
 title: "Price Elasticity of Supply: Topic Checklist (Microeconomics 2.4)"
-description: "Specific “I can…” statements for price elasticity of supply, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for price elasticity of supply, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 2
 topics: ["2.4"]

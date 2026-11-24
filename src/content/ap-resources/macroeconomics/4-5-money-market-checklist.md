@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.5-checklist"
 title: "The Money Market: Topic Checklist (Macroeconomics 4.5)"
-description: "Specific “I can…” statements for the money market, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the money market, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 4
 topics: ["4.5"]

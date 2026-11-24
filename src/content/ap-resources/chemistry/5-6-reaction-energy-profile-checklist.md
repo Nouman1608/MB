@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.6-checklist"
 title: "Reaction Energy Profile: Topic Checklist (Chemistry 5.6)"
-description: "Specific “I can…” statements for reaction energy profiles, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for reaction energy profiles, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 5
 topics: ["5.6"]

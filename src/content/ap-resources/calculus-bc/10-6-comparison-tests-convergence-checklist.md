@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.6-checklist"
 title: "Comparison Tests for Convergence: Topic Checklist (Calculus BC 10.6)"
-description: "Specific “I can…” statements for the direct and limit comparison tests, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the direct and limit comparison tests, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.6"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-5.10-checklist"
 title: "Introduction to Optimization Problems: Topic Checklist (Calculus AB 5.10)"
 seoTitle: "Calculus AB 5.10 Optimization Problems Topic Checklist"
-description: "Specific “I can…” statements for setting up and solving optimization problems, each tied to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for setting up and solving optimization problems, each tied to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 5
 topics: ["5.10"]

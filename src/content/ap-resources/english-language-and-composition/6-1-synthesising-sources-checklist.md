@@ -2,7 +2,7 @@
 resourceId: mb-ap-englang-6.1-checklist
 title: 'Synthesising Material from Several Sources: Topic Checklist (English Language 6.1)'
 seoTitle: "English Language 6.1 Synthesising Several Sources Checklist"
-description: Specific “I can…” statements for synthesising several sources in an argument, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for synthesising several sources in an argument, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 6
 topics:

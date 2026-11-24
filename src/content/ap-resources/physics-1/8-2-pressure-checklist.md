@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-8.2-checklist"
 title: "Pressure: Topic Checklist (Physics 1 8.2)"
-description: "Specific “I can…” statements for pressure, gauge and absolute pressure, and pressure at depth in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for pressure, gauge and absolute pressure, and pressure at depth in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 8
 topics: ["8.2"]

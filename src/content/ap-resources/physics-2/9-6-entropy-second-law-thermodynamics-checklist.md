@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys2-9.6-checklist"
 title: "Entropy and the Second Law of Thermodynamics: Topic Checklist (Physics 2 9.6)"
 seoTitle: "Physics 2 9.6 Entropy and Second Law Topic Checklist"
-description: "Specific “I can…” statements for entropy and the second law, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for entropy and the second law, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 9
 topics: ["9.6"]

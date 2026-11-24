@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys1-5.2-checklist"
 title: "Connecting Linear and Rotational Motion: Topic Checklist (Physics 1 5.2)"
 seoTitle: "Physics 1 5.2 Linear and Rotational Motion Topic Checklist"
-description: "Specific “I can…” statements for linking rotational and linear motion in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for linking rotational and linear motion in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 5
 topics: ["5.2"]

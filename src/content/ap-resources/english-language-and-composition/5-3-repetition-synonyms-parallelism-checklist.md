@@ -2,7 +2,7 @@
 resourceId: mb-ap-englang-5.3-checklist
 title: 'Repetition, Synonyms, Pronouns and Parallel Structure: Topic Checklist (English Language 5.3)'
 seoTitle: "English Language 5.3 Repetition and Parallelism Checklist"
-description: Specific “I can…” statements for repetition, synonyms, pronouns and parallel structure in reading and writing, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for repetition, synonyms, pronouns and parallel structure in reading and writing, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 5
 topics:

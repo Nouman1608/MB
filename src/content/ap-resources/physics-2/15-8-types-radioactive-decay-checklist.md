@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.8-checklist"
 title: "Types of Radioactive Decay: Topic Checklist (Physics 2 15.8)"
-description: "Specific “I can…” statements for alpha, beta-minus, beta-plus and gamma decay, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for alpha, beta-minus, beta-plus and gamma decay, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 15
 topics: ["15.8"]

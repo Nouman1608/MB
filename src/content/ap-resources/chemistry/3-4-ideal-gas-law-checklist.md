@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.4-checklist"
 title: "Ideal Gas Law: Topic Checklist (Chemistry 3.4)"
-description: "Specific “I can…” statements for the ideal gas law, gas-law graphs and partial pressures, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the ideal gas law, gas-law graphs and partial pressures, each linked to the guide section and practice question that shows whether you can do it."
 course: "chemistry"
 unit: 3
 topics: ["3.4"]

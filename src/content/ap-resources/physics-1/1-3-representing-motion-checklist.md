@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-1.3-checklist"
 title: "Representing Motion: Topic Checklist (Physics 1 1.3)"
-description: "Specific “I can…” statements for representing motion in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for representing motion in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 1
 topics: ["1.3"]

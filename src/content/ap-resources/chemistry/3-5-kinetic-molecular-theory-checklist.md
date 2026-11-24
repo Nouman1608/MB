@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.5-checklist"
 title: "Kinetic Molecular Theory: Topic Checklist (Chemistry 3.5)"
-description: "Specific “I can…” statements for the kinetic molecular theory, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the kinetic molecular theory, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 3
 topics: ["3.5"]

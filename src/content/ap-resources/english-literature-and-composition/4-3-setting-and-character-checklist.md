@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.3-checklist"
 title: "Setting and Character: Topic Checklist (English Literature 4.3)"
-description: "Specific “I can…” statements on how setting creates mood and atmosphere and how a character's surroundings reveal the character, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements on how setting creates mood and atmosphere and how a character's surroundings reveal the character, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 4
 topics: ["4.3"]

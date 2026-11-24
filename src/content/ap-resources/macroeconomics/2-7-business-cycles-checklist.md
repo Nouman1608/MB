@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-2.7-checklist"
 title: "Business Cycles: Topic Checklist (Macroeconomics 2.7)"
-description: "Specific “I can…” statements for business cycle phases, turning points, output gaps and cyclical unemployment, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for business cycle phases, turning points, output gaps and cyclical unemployment, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 2
 topics: ["2.7"]

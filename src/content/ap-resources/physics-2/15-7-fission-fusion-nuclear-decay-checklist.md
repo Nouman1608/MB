@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.7-checklist"
 title: "Fission, Fusion and Nuclear Decay: Topic Checklist (Physics 2 15.7)"
-description: "Specific “I can…” statements for fission, fusion, mass-energy and radioactive decay, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for fission, fusion, mass-energy and radioactive decay, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 15
 topics: ["15.7"]

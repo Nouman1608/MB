@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-1.9-checklist"
 title: "Connecting Multiple Representations of Limits: Topic Checklist (Calculus AB 1.9)"
 seoTitle: "Calculus AB 1.9 Multiple Representations of Limits Checklist"
-description: "Specific “I can…” statements for reading and combining limits from graphs, tables, formulas and words, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for reading and combining limits from graphs, tables, formulas and words, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 1
 topics: ["1.9"]

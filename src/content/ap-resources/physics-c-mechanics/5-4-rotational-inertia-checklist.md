@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.4-checklist"
 title: "Rotational Inertia: Topic Checklist (Physics C: Mechanics 5.4)"
-description: "Specific “I can…” statements for rotational inertia in the calculus-based course, each linked to the study guide section and the practice question that tests it."
+description: "Specific “I can” statements for rotational inertia in the calculus-based course, each linked to the study guide section and the practice question that tests it."
 course: "physics-c-mechanics"
 unit: 5
 topics: ["5.4"]

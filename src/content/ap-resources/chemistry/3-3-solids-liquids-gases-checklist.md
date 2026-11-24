@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.3-checklist"
 title: "Solids, Liquids, and Gases: Topic Checklist (Chemistry 3.3)"
-description: "Specific “I can…” statements for particle models of solids, liquids and gases, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for particle models of solids, liquids and gases, each linked to the guide section and practice question that shows whether you can do it."
 course: "chemistry"
 unit: 3
 topics: ["3.3"]

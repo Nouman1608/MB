@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.11-checklist"
 title: "The Normal Distribution: Topic Checklist (Statistics 2.11)"
-description: "Specific “I can…” statements for the normal distribution, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the normal distribution, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 2
 topics: ["2.11"]

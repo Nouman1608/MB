@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.4-checklist"
 title: "Demand: Topic Checklist (Macroeconomics 1.4)"
-description: "Specific “I can…” statements for the law of demand, market demand, shifts versus movements and the determinants of demand, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the law of demand, market demand, shifts versus movements and the determinants of demand, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 1
 topics: ["1.4"]

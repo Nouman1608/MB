@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.4-checklist"
 title: "Reasoning Using Slope Fields: Topic Checklist (Calculus AB 7.4)"
-description: "Specific “I can…” statements for reasoning with slope fields, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for reasoning with slope fields, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 7
 topics: ["7.4"]

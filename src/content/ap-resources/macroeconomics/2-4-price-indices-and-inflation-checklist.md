@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-2.4-checklist"
 title: "Price Indices and Inflation: Topic Checklist (Macroeconomics 2.4)"
-description: "Specific “I can…” statements for price indices and inflation, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for price indices and inflation, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 2
 topics: ["2.4"]

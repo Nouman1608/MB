@@ -2,7 +2,7 @@
 resourceId: "mb-ap-englit-5.7-checklist"
 title: "Evidence and Composition in a Poetry Analysis: Topic Checklist (English Literature 5.7)"
 seoTitle: "English Literature 5.7 Poetry Analysis Evidence Checklist"
-description: "Specific “I can…” statements on selecting, quoting and integrating evidence from a poem and controlling paragraphs and transitions in an essay, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements on selecting, quoting and integrating evidence from a poem and controlling paragraphs and transitions in an essay, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 5
 topics: ["5.7"]

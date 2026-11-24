@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.6-checklist"
 title: "Deviation from Ideal Gas Law: Topic Checklist (Chemistry 3.6)"
-description: "Specific “I can…” statements for real-gas behaviour, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for real-gas behaviour, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 3
 topics: ["3.6"]

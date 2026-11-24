@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.2-checklist"
 title: "Implicit Differentiation: Topic Checklist (Calculus AB 3.2)"
-description: "Specific “I can…” statements for implicit differentiation, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for implicit differentiation, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 3
 topics: ["3.2"]

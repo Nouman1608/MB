@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.5-checklist"
 title: "Cost-Benefit Analysis: Topic Checklist (Microeconomics 1.5)"
-description: "Specific “I can…” statements for cost-benefit analysis, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for cost-benefit analysis, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 1
 topics: ["1.5"]

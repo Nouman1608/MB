@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-1.14-checklist"
 title: "Connecting Infinite Limits and Vertical Asymptotes: Topic Checklist (Calculus AB 1.14)"
 seoTitle: "Calculus AB 1.14 Infinite Limits and Asymptotes Checklist"
-description: "Specific “I can…” statements for infinite limits and vertical asymptotes, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for infinite limits and vertical asymptotes, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 1
 topics: ["1.14"]

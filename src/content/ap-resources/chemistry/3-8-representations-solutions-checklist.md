@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.8-checklist"
 title: "Representations of Solutions: Topic Checklist (Chemistry 3.8)"
-description: "Specific “I can…” statements for drawing and reading particle diagrams of solutions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for drawing and reading particle diagrams of solutions, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 3
 topics: ["3.8"]

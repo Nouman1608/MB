@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-13.4-checklist"
 title: "Images Formed by Lenses: Topic Checklist (Physics 2 13.4)"
-description: "Specific “I can…” statements for thin lenses, ray diagrams, the thin-lens equation and magnification, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for thin lenses, ray diagrams, the thin-lens equation and magnification, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 13
 topics: ["13.4"]

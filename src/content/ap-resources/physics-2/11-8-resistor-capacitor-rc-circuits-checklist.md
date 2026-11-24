@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-11.8-checklist"
 title: "Resistor-Capacitor (RC) Circuits: Topic Checklist (Physics 2 11.8)"
-description: "Specific “I can…” statements for RC circuits and combined capacitors, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for RC circuits and combined capacitors, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 11
 topics: ["11.8"]

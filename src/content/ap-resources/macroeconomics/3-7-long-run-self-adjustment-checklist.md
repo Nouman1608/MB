@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.7-checklist"
 title: "Long-Run Self-Adjustment: Topic Checklist (Macroeconomics 3.7)"
-description: "Specific “I can…” statements for long-run self-adjustment, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for long-run self-adjustment, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.7"]

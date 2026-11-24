@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-1.7-checklist"
 title: "Proteins: Topic Checklist (Biology 1.7)"
-description: "Specific “I can…” statements for amino acids, peptide bonds and the four levels of protein structure, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for amino acids, peptide bonds and the four levels of protein structure, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 1
 topics: ["1.7"]

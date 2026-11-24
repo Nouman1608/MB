@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.1-checklist"
 title: "The Production Function: Topic Checklist (Microeconomics 3.1)"
-description: "Specific “I can…” statements for the production function and diminishing marginal returns, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the production function and diminishing marginal returns, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 3
 topics: ["3.1"]

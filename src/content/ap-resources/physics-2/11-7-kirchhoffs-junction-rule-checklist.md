@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-11.7-checklist"
 title: "Kirchhoff's Junction Rule: Topic Checklist (Physics 2 11.7)"
-description: "Specific “I can…” statements for Kirchhoff's junction rule, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for Kirchhoff's junction rule, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 11
 topics: ["11.7"]

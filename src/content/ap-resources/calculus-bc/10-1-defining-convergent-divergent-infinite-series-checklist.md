@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-10.1-checklist"
 title: "Defining Convergent and Divergent Infinite Series: Topic Checklist (Calculus BC 10.1)"
 seoTitle: "Calculus BC 10.1 Convergent and Divergent Series Checklist"
-description: "Specific “I can…” statements for partial sums and the definition of convergence, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for partial sums and the definition of convergence, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.1"]

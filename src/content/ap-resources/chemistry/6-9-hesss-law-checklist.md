@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-6.9-checklist"
 title: "Hess's Law: Topic Checklist (Chemistry 6.9)"
-description: "Specific “I can…” statements for Hess's law, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for Hess's law, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 6
 topics: ["6.9"]

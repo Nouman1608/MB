@@ -2,7 +2,7 @@
 resourceId: mb-ap-englit-6.3-checklist
 title: 'Sequence and Contrasts in a Longer Plot: Topic Checklist (English Literature 6.3)'
 seoTitle: "English Lit 6.3 Sequence and Contrasts in Plot Checklist"
-description: Specific “I can…” statements for plot sequence, interrupted chronology and contrasts in longer works, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for plot sequence, interrupted chronology and contrasts in longer works, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 6
 topics:

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.8-checklist"
 title: "The Product Rule: Topic Checklist (Calculus AB 2.8)"
-description: "Specific “I can…” statements for the product rule with formulas and tables, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the product rule with formulas and tables, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 2
 topics: ["2.8"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-5.1-checklist"
 title: "Meiosis: Topic Checklist (Biology 5.1)"
-description: "Specific “I can…” statements for meiosis, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for meiosis, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 5
 topics: ["5.1"]
