@@ -58,8 +58,10 @@ const faqs = [
   },
   {
     // D-332 -- group times are arranged per group (owner, 25 Sep 2026).
+    // D7 (owner, audit round 3, 25 Nov 2026): no "24 hours a day, 7 days a week" claim here;
+    // state the real reply hours instead (PRICING_TERMS.enquiryResponse, D-346).
     question: 'What time will the classes be?',
-    answer: PRICING_TERMS.teacherAvailability,
+    answer: `Group class times are agreed with the families in each group. We set the trial time in the time zone of the country you entered on the form and confirm it with you before the class. ${PRICING_TERMS.enquiryResponse.summary}`,
   },
   {
     question: 'Can I ask for a particular teacher?',
