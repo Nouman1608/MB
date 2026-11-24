@@ -1,0 +1,15 @@
+---
+/**
+ * IB trademark and non-affiliation note, shown at the foot of every IB page
+ * (board hub, course pages, resource pages whose boards include IB). Markup
+ * mirrors src/components/ap/ApTrademarkNote.astro. Wording set by the owner
+ * (audit round 3, item 23, 25 Nov 2026).
+ */
+import Container from '../layout/Container.astro';
+import { IB_TRADEMARK_ATTRIBUTION } from './trademark';
+---
+<div class="border-t border-rule bg-ivory py-6" data-pagefind-ignore="all" data-ib-trademark-note>
+  <Container>
+    <p class="m-0 max-w-[90ch] text-[13px] leading-[1.6] text-ink-mute">{IB_TRADEMARK_ATTRIBUTION}</p>
+  </Container>
+</div>

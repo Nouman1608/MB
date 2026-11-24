@@ -58,6 +58,7 @@ import { STUDY_KIND } from '../../../../utils/academic/combination-resources';
 import { teachersForSubjectTitle } from '../../../../utils/content/subject-teachers';
 import { ONE_TO_ONE_ONLY_PRICING, isOneToOneOnlyCourse, formatFee } from '../../../../data/pricing';
 import { hubLibraryLink } from '../../../../utils/past-papers/library';
+import IbTrademarkNote from '../../../../components/ib/IbTrademarkNote.astro';
 
 export async function getStaticPaths() {
   return activeOnly().map((c) => ({
@@ -975,6 +976,7 @@ const jsonLd = [
       buttonHref={routes.resources}
     />
   )}
+  {c.boardSlug === 'ib' && <IbTrademarkNote />}
 </PageLayout>
 
 <script>
