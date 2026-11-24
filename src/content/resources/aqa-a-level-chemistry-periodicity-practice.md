@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -210,7 +210,7 @@ The block is named after the sub-shell holding the highest-energy electron. Heli
 **What should an "evaluate" answer end with?**
 An "evaluate" answer should end with a clear judgement after weighing the evidence. Listing points without a conclusion is a common way to lose a mark.
 
-## Next steps
+## More on this topic
 
 - [Periodicity revision notes](/resources/aqa-a-level-chemistry-periodicity-revision-notes/)
 - [Periodicity study guide](/resources/aqa-a-level-chemistry-periodicity/)

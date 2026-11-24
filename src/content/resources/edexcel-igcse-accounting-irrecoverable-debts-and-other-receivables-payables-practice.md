@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ Opening 300 credit [1], bank 4,800 [1], 400 owed carried down on the credit side
 - Classing a prepayment under liabilities, or an accrual under assets.
 - Giving a definition without an example when the command word asks for one.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables-revision-notes/) and re-read the [study guide](/resources/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables/).
 - Tick off the topic on the [printable checklist](/checklists/edexcel/igcse/accounting/) and see the [4AC1 course hub](/boards/edexcel/igcse/accounting/).

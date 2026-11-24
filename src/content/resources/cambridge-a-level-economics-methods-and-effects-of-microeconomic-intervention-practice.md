@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ These questions cover section 3.2 (outcomes 3.2.1 to 3.2.6) of the Cambridge Int
 - Forgetting to multiply by quantity when asked for revenue, cost or burden.
 - Listing evaluation points without a judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention/).
 - Return to the [course hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/).

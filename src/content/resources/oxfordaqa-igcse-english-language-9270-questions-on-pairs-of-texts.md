@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ Box the two texts the question names. Spend a minute choosing two or three axes 
 relevant rows of your grid. Write integrated paragraphs, each naming both texts, and finish with a
 sentence that says what the comparison reveals. Let the marks shown guide length.
 
-## Related resources
+## More resources on this topic
 
 - [Questions on pairs of texts revision notes](/resources/oxfordaqa-igcse-english-language-9270-questions-on-pairs-of-texts-revision-notes/)
 - [Questions on pairs of texts practice](/resources/oxfordaqa-igcse-english-language-9270-questions-on-pairs-of-texts-practice/)

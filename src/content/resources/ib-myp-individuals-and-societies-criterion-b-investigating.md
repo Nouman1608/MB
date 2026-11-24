@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -166,7 +166,7 @@ No. The guide says the examination tests discrete skills, such as formulating qu
 **How many marks is Criterion B worth in the on-screen examination?**
 Twenty of the 80 marks, all in the Investigating task. The guide says the distribution may vary by no more than three marks.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion B revision notes](/resources/ib-myp-individuals-and-societies-criterion-b-investigating-revision-notes/), then test yourself with the [Criterion B practice questions](/resources/ib-myp-individuals-and-societies-criterion-b-investigating-practice/). Continue with [Criterion C](/resources/ib-myp-individuals-and-societies-criterion-c-communicating/) to see how to present your findings.
 

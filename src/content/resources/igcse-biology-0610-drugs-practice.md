@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Before you start, you may want the [Drugs study guide](/resources/igcse-biology-
 - Rounding a percentage to the wrong number of decimal places when the question states one.
 - Treating a correlation in data as proof of cause.
 
-## Next steps
+## More on this topic
 
 - Review the [Drugs revision notes](/resources/igcse-biology-0610-drugs-revision-notes/) for the method box on resistance.
 - Reread the [Drugs study guide](/resources/igcse-biology-0610-drugs/) for anything you got wrong.

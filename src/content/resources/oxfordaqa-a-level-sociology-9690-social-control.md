@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -213,7 +213,7 @@ consensus views against conflict views and add the interactionist point that con
 the deviance it targets. Apply concepts to a named society: its policing model, punishments or
 surveillance systems.
 
-## Next steps
+## More on this topic
 
 - [Social control revision notes](/resources/oxfordaqa-a-level-sociology-9690-social-control-revision-notes/)
 - [Social control practice questions](/resources/oxfordaqa-a-level-sociology-9690-social-control-practice/)

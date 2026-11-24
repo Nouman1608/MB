@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Then h = 500/(π × 4.301²) = 8.60, which is twice the radius: the most economi
 - **"Hence"** after "show that V = ..." means differentiate the printed expression, even if your part (a) went wrong.
 - **Sketches:** label stationary points and intercepts with coordinates; a smooth shape matters more than scale.
 
-## Related resources
+## More resources on this topic
 
 - [P2 differentiation revision notes](/resources/edexcel-a-level-mathematics-yma01-p2-differentiation-revision-notes/)
 - [P2 differentiation practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-differentiation-practice/)

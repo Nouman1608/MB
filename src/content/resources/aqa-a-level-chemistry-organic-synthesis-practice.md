@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -199,7 +199,7 @@ A reagent is only fully correct with its conditions, such as aqueous rather than
 **How many reasons do "explain two reasons" questions need?**
 Give two different points, each linked to a consequence such as risk to people or extra cost. One vague idea, such as "safer" or "greener", will not earn two marks.
 
-## Next steps
+## More on this topic
 
 - [Organic synthesis revision notes](/resources/aqa-a-level-chemistry-organic-synthesis-revision-notes/)
 - [Organic synthesis study guide](/resources/aqa-a-level-chemistry-organic-synthesis/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ Explain   towns such as Nerun submitted on terms, and local officials
 - **Treating the pirate incident as the only cause.**
 - **Forgetting the recall.** His career ended because of politics in the caliphate, not defeat.
 
-## Related resources
+## More resources on this topic
 
 - [Muhammad bin Qasim revision notes](/resources/oxfordaqa-igcse-pakistan-studies-9236-muhammad-bin-qasim-revision-notes/)
 - [Muhammad bin Qasim practice questions](/resources/oxfordaqa-igcse-pakistan-studies-9236-muhammad-bin-qasim-practice/)

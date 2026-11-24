@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 3.1.5 Business location and 3.1.6 Business planning of the AQA GCSE Business (8132) specification, "For first teaching from September 2017". Both sections sit in Topic 1, Business in the real world, which the specification lists as assessed in Paper 1 and in Paper 2.
@@ -226,7 +226,7 @@ Notice that the fixed costs did not change in any of these. Revenue rose by £1,
 - Listing benefits of planning with no drawbacks when the question says "analyse" or "evaluate".
 - Confusing revenue with profit.
 
-## Next steps
+## More on this topic
 
 Test recall with the [revision notes](/resources/aqa-gcse-business-business-location-and-business-planning-revision-notes/), then try the [practice questions](/resources/aqa-gcse-business-business-location-and-business-planning-practice/).
 

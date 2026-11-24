@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ CO(g) + Cl₂(g) ⇌ COCl₂(g), with energy given out in the forward direction.
 - Swapping the catalysts or pressures of the Haber and contact processes.
 - Forgetting the 2 : 1 ratios in the ammonium sulfate and Stage 2 calculations.
 
-## Next steps
+## More on this topic
 
 - Go over the key points again in the [revision notes for this unit](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-revision-notes/).
 - Return to the full teaching in the [study guide for this unit](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid/).

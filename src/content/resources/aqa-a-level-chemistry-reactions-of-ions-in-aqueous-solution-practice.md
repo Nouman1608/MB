@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Write two equations, one for its reaction with an acid and one for its reaction 
 **What mistakes happen with carbonate reactions of metal ions?**
 Writing metal(III) carbonates such as Fe₂(CO₃)₃ as products, leaving out effervescence for 3+ ions, and using 1 : 1 instead of 2 : 3 between M³⁺ and CO₂ all lose marks.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes/).
 - Re-read any weak section in the [study guide](/resources/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution/).

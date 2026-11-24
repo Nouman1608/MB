@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -210,7 +210,7 @@ BaSO₄ is so insoluble that essentially none dissolves into the body, making it
 **Why do hydroxide and sulfate solubility trends go in opposite directions?**
 Both lattice energy and cation hydration enthalpy become less exothermic down the group, but which falls faster depends on the anion's size. With small OH⁻ the lattice energy falls faster, so solubility rises; with large SO₄²⁻ the hydration enthalpy falls faster, so solubility falls.
 
-## Related resources
+## More resources on this topic
 
 - [Group 2: The Alkaline Earth
   Metals](/resources/as-group-2-the-alkaline-earth-metals/) — the AS-level

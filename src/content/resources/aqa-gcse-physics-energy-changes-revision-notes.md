@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -176,7 +176,7 @@ Sub-topic 4.1.1 covers energy stores, kinetic, elastic and gravitational potenti
 **What error affects the specific heat capacity practical?**
 Some energy is always dissipated to the surroundings rather than heating the material, which is a systematic error that should be mentioned in the write-up.
 
-## Related resources
+## More resources on this topic
 
 [Energy Changes in a System study guide](/resources/aqa-gcse-physics-energy-changes-in-a-system/) |
 [Energy Changes in a System practice questions](/resources/aqa-gcse-physics-energy-changes-practice/) |

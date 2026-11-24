@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -158,7 +158,7 @@ A useful habit is to ask what would go wrong if the wrong set were chosen. Stori
 - **State relationships** with ⊂: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ.
 - **Link** counting to natural numbers and measurement to real numbers, with an example from the question.
 
-## Related resources
+## More resources on this topic
 
 - [Number systems revision notes](/resources/aqa-a-level-computer-science-7517-number-systems-revision-notes/)
 - [Number systems practice questions](/resources/aqa-a-level-computer-science-7517-number-systems-practice/)

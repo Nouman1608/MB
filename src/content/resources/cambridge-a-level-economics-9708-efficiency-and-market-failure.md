@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -118,7 +118,7 @@ Linking each reason to the condition it breaks turns a list into analysis.
 - **Explain:** connect the condition to what it means for resources.
 - **Assess** and **Evaluate:** weigh static against dynamic efficiency, and efficiency against equity; Paper 4 essays are unstructured, so plan these comparisons before writing.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [efficiency and market failure revision notes](/resources/cambridge-a-level-economics-9708-efficiency-and-market-failure-revision-notes/).
 - Test yourself with the [efficiency and market failure practice questions](/resources/cambridge-a-level-economics-9708-efficiency-and-market-failure-practice/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Label both axes with the two goods, draw the curve bowed outwards from the origi
 **What are common mistakes in IB Economics Unit 1 questions?**
 Common slips include listing everything given up as the opportunity cost, calling a point inside the PPC efficient, showing growth as a move along the curve, and listing imports as an injection.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ib-dp-economics-why-economics-and-how-economists-think-revision-notes/) and the [study guide](/resources/ib-dp-economics-why-economics-and-how-economists-think/).
 - Check coverage on the [printable checklist](/checklists/ib/ib-dp/economics/) and the [IB DP Economics hub](/boards/ib/ib-dp/economics/).

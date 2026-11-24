@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ D: smoke from a factory chimney
 - Writing the external benefit as a percentage of the private benefit rather than the social benefit.
 - Explaining over-production without saying the firm ignores external costs.
 
-## Next steps
+## More on this topic
 
 - Recap with the [externalities revision notes](/resources/edexcel-igcse-economics-4ec1-externalities-revision-notes/).
 - Reread the [externalities study guide](/resources/edexcel-igcse-economics-4ec1-externalities/).

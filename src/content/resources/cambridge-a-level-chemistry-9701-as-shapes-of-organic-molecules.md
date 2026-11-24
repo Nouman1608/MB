@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -177,7 +177,7 @@ shape, and explains the role of the π bond. Simply writing "because it has a do
 - **Deduce** the number of σ and π bonds: show the count by bond type so a single slip still earns
   method credit.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [Shapes of organic molecules revision notes](/resources/cambridge-a-level-chemistry-9701-as-shapes-of-organic-molecules-revision-notes/)
 - Exam-style questions with full answers: [Shapes of organic molecules practice questions](/resources/cambridge-a-level-chemistry-9701-as-shapes-of-organic-molecules-practice/)

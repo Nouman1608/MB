@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ The account closes with no balance, so the five errors explain the whole differe
 - **"Explain why error X does not affect the suspense account"**: name the error type and say that debits and credits were equal.
 - Keep the method lines (done, should be, correction) in your rough work; they make the journal quick to check.
 
-## Next steps
+## More on this topic
 
 - Quick recall: [correcting errors revision notes](/resources/oxfordaqa-igcse-accounting-9215-correcting-errors-revision-notes/).
 - Marked questions: [correcting errors practice questions](/resources/oxfordaqa-igcse-accounting-9215-correcting-errors-practice/).

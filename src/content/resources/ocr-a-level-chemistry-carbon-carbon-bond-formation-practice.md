@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Give the letters of the three reactions that form a new carbon–carbon bond. **
 - Leaving HCl or HBr off a Friedel–Crafts equation, or mixing up the halogen of the carrier.
 - Multiplying by the yield instead of dividing when working back to a starting mass (question 12).
 
-## Next steps
+## More on this topic
 
 - Recap reagents and mechanisms: [Carbon–carbon bond formation revision notes](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation-revision-notes/)
 - Full explanations and worked examples: [Carbon–carbon bond formation study guide](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation/)

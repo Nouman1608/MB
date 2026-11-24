@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Before you start, you may want the [excretion study guide](/resources/igcse-biol
 - Explaining why excretion matters without saying urea is toxic.
 - Reading only one column of a data table and not comparing plasma, filtrate and urine.
 
-## Next steps
+## More on this topic
 
 - Recap with the [excretion revision notes](/resources/igcse-biology-0610-excretion-in-humans-revision-notes/).
 - Re-read any weak section in the [excretion study guide](/resources/igcse-biology-0610-excretion-in-humans/).

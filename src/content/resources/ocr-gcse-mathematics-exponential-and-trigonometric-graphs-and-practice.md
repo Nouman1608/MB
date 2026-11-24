@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -169,7 +169,7 @@ y |    | 2.67| 4 |   | 9 |
 - Giving a loose description such as "moves 2" instead of naming the transformation, its size and direction.
 - Rounding the answer to a modelling question without showing the values either side of the target.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and-revision-notes/) for the key points.
 - Go back to the [study guide](/resources/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and/) for worked examples.

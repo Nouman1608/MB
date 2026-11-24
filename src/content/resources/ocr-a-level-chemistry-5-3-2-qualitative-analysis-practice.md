@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Judgement: her chloride result is invalid; her copper result is supported but no
 - Using hydrochloric acid, or barium chloride, before a halide test.
 - Giving a reagent without an observation in "describe a test" answers.
 
-## Next steps
+## More on this topic
 
 - [5.3.2 revision notes](/resources/ocr-a-level-chemistry-5-3-2-qualitative-analysis-revision-notes/)
 - [5.3.2 study guide](/resources/ocr-a-level-chemistry-5-3-2-qualitative-analysis/)

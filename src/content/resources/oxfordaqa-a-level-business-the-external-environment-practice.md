@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -137,7 +137,7 @@ Explain why each barrier blocks entry rather than just listing it, and consider 
 **Which OxfordAQA section do these questions cover?**
 They cover section 3.1.1.3, The external environment, of OxfordAQA International AS and A-level Business, written for both 9625 and 9725.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-business-the-external-environment-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-business-the-external-environment/)

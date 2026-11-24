@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Learn the ideas first in the [study guide](/resources/aqa-gcse-biology-8461-key-
 - Saying a larger organism has a larger surface area to volume ratio -- the ratio gets smaller as size increases.
 - Describing evolution as individuals changing in their lifetime rather than a population changing over generations.
 
-## Next steps
+## More on this topic
 
 - [Key ideas revision notes](/resources/aqa-gcse-biology-8461-key-ideas-revision-notes/)
 - [Key ideas study guide](/resources/aqa-gcse-biology-8461-key-ideas/)

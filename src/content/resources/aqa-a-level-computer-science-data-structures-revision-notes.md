@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -147,7 +147,7 @@ Records, files and abstract data types such as queues, stacks, graphs and hash t
 **Do all elements of an array have to be the same data type?**
 Yes. In the AQA 7517 definition, an array holds elements of the same data type.
 
-## Related resources
+## More resources on this topic
 
 [Data Structures and Arrays study guide](/resources/a-level-aqa-computer-science-data-structures-and-arrays/) |
 [Data Structures and Arrays practice questions](/resources/aqa-a-level-computer-science-data-structures-practice/)

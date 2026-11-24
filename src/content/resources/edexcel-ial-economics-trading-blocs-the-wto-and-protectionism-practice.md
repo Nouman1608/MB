@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -121,7 +121,7 @@ These questions cover section 4.3.2 items 4 and 5 of the *Pearson Edexcel Intern
 - Listing reasons for protection with no counter-argument.
 - Ending an evaluation with a summary of points instead of a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism/).
 - Check the [Edexcel economics hub](/boards/edexcel/a-level/economics/) and the [printable checklist](/checklists/edexcel/a-level/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ Conclusion: as distance from the woodland increases, mean light intensity increa
 4. Mean count 6 per 0.5 m² quadrat; site 80 m². Estimate the population. *12 per m² x 80 = 960.*
 5. Why should anomalous results be excluded from a mean? *They distort the mean and do not represent the pattern.*
 
-## Related resources
+## More resources on this topic
 
 - [Fieldwork investigations revision notes](/resources/cambridge-o-level-environmental-management-5014-fieldwork-investigations-5014-2027-revision-notes/)
 - [Fieldwork investigations practice questions](/resources/cambridge-o-level-environmental-management-5014-fieldwork-investigations-5014-2027-practice/)

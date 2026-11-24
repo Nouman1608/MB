@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -129,7 +129,7 @@ Surface winds: trade winds blow towards the equator, westerlies at mid-latitudes
 
 **Answers:** 1. High sun angle concentrates insolation and it passes through less atmosphere. 2. Hadley, Ferrel, Polar. 3. Around 30 degrees latitude, giving high pressure. 4. To the left. 5. They carry heat from low to high latitudes. 6. It migrates north and south following the overhead sun. 7. About 30 per cent. 8. Roughly 35 to 40 degrees. 9. It warms by compression as it sinks, so relative humidity falls and cloud cannot form. 10. Evaporation in the tropics stores energy that is released when vapour condenses at higher latitudes. 11. Warm: Gulf Stream, mild winters in north-west Europe. Cold: Humboldt Current, cool, dry coast of western South America. 12. Land heats and cools faster than water.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

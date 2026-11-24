@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -182,7 +182,7 @@ Rounding errors arise because many decimal fractions (0.1, 0.3) are not exact bi
 11. For maximum precision and a unique representation.
 12. 01011000 with exponent 0010.
 
-## Next steps
+## More on this topic
 
 - [Binary number system study guide](/resources/oxfordaqa-a-level-computer-science-9645-binary-number-system/)
 - [Binary number system practice questions](/resources/oxfordaqa-a-level-computer-science-9645-binary-number-system-practice/)

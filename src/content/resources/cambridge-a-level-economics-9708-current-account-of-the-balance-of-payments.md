@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Write consequences as chains, and say which economy is affected.
 - **Explain:** link a cause to a specific line of the account, then to the balance.
 - **Assess:** consider size relative to GDP, cause, duration and how the deficit is financed, and reach a judgement.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [current account revision notes](/resources/cambridge-a-level-economics-9708-current-account-of-the-balance-of-payments-revision-notes/).
 - Test yourself with the [current account practice questions](/resources/cambridge-a-level-economics-9708-current-account-of-the-balance-of-payments-practice/).

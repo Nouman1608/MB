@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ Recommend which candidate Harbour Kitchen should appoint. Justify your answer. *
 - One-sided answers in question 9(b) with no judgement.
 - Describing a named country's law instead of the general impact in question 11.
 
-## Next steps
+## More on this topic
 
 Review the annotated answers in the [Recruitment, selection and training study guide](/resources/cambridge-o-level-business-7115-recruitment-selection-and-training-of-employees/), then try the [Internal and external communication practice questions](/resources/cambridge-o-level-business-7115-internal-and-external-communication-practice/).
 

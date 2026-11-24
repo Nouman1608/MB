@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -187,7 +187,7 @@ It names a perspective, uses a real case, links to key concepts and turns to oth
 - **Using only historical cases.** The guide treats contemporary as roughly the last two decades.
 - **Forgetting evaluation.** Every perspective you use needs a limit, or you stay out of the top markband.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/ib-dp-global-politics-core-theoretical-perspectives-revision-notes/), then try the [practice questions](/resources/ib-dp-global-politics-core-theoretical-perspectives-practice/). For paper structure, see the [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/). To test lenses on thematic content, use the [peace and conflict](/resources/ib-dp-global-politics-peace-conflict/) and [rights and justice](/resources/ib-dp-global-politics-rights-justice/) study guides.
 

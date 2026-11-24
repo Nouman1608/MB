@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Then state the group, the likely period, and an identity consistent with all the
 - **Suggest**: an answer consistent with the information, where more than one may be acceptable.
 - **Identify**: name the element (or compound) with a brief reason.
 
-## Related resources
+## More resources on this topic
 
 - [Chemical periodicity of other elements: revision notes](/resources/cambridge-a-level-chemistry-9701-as-chemical-periodicity-of-other-elements-revision-notes/)
 - [Chemical periodicity of other elements: practice questions](/resources/cambridge-a-level-chemistry-9701-as-chemical-periodicity-of-other-elements-practice/)

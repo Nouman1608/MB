@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Free provision may over-supply if demand rises beyond the social optimum [1]. Al
 - Describing merit and demerit goods as "good for you" or "bad for you" without imperfect information and the gap between private and social value.
 - Ending an evaluation answer without a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-production-possibility-curves-and-the-classification-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-production-possibility-curves-and-the-classification/).
 - Go to the [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/).

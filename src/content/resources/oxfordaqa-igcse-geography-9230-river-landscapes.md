@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for an example of a river flood management scheme in the region but does not fix it. This page uses the Three Gorges Dam on the Yangtze, China. Check the dates, dimensions, capacity, number of people relocated and the listed costs and benefits against your own notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for an example of a river flood management scheme in the region but does not fix it. This page uses the Three Gorges Dam on the Yangtze, China. Check the dates, dimensions, capacity, number of people relocated and the listed costs and benefits against your own notes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -169,6 +169,6 @@ The answer deals with social, economic and environmental effects, and ends with 
 - **Giving a hydrograph answer without values.** Quote peak discharge and lag time with units.
 - **Naming a scheme with no details.** Give location, features and impacts.
 
-## Next steps
+## More on this topic
 
 Condense this with the [river landscapes revision notes](/resources/oxfordaqa-igcse-geography-9230-river-landscapes-revision-notes/) and test yourself with the [river landscapes practice questions](/resources/oxfordaqa-igcse-geography-9230-river-landscapes-practice/).

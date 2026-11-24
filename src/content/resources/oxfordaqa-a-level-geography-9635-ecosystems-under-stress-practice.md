@@ -23,6 +23,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -180,7 +181,7 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-geography-9635-
 - Using a case study as a story with no link to the question's focus.
 - Finishing an extended answer without a clear judgement.
 
-## Next steps
+## More on this topic
 
 Check your weaker areas with the [Marlbridge diagnostics](/diagnostics/) and return to the [study guide](/resources/oxfordaqa-a-level-geography-9635-ecosystems-under-stress/) for any topic you struggled with. For Section A of Unit 3, use the [Water, carbon and life on Earth study guide](/resources/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth/). For paper structure and case-study routines, read the [exam preparation guide](/resources/oxfordaqa-a-level-geography-exam-preparation/). If you want help from a teacher, [book a free trial class](/trial/).
 

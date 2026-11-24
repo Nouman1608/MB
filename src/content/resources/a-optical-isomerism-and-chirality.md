@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -223,7 +223,7 @@ The two enantiomers of a drug can have different biological activity: one may be
 **What does a chiral catalyst do?**
 A chiral catalyst favours the formation of one enantiomer over the other during the reaction itself. This produces a mainly pure optical isomer directly, so a racemic product does not need separating afterwards.
 
-## Related resources
+## More resources on this topic
 
 - [A Level Organic Chemistry: Naming, Mechanisms and Aromatic
   Shape](/resources/a-organic-chemistry-naming-mechanisms-and-aromatic-shape/)

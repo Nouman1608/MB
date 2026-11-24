@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -182,7 +182,7 @@ Entries on the correct sides [1]; balance c/d 1,400 and totals 3,650 [1]; balanc
 - Adjusting the totals instead of redrafting every balance.
 - Balance c/d placed on the larger side of an account.
 
-## Next steps
+## More on this topic
 
 - Re-read the [trial balance study guide](/resources/oxfordaqa-igcse-accounting-9215-the-trial-balance/).
 - Correct the errors a trial balance reveals with the [correcting errors practice questions](/resources/oxfordaqa-igcse-accounting-9215-correcting-errors-practice/).

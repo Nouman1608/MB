@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Stopping at expected value without subtracting the cost of each option to find t
 **Which OxfordAQA sections do these questions cover?**
 They cover sections 3.1.1.1 The nature and purpose of business and 3.1.1.2 Types of business ownership of OxfordAQA International AS and A-level Business, for both 9625 and 9725.
 
-## Next steps
+## More on this topic
 
 - Check formulas in the [revision notes](/resources/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business/).

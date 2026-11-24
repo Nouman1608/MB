@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -120,7 +120,7 @@ Apply the percentage only to the part of the amount the question names, such as 
 **How do you answer a question about choosing between an internal and an external candidate?**
 Weigh the benefits of each for the business in the case, such as the internal candidate already knowing the business against the outside candidate bringing new skills or ideas. Finish with a supported recommendation.
 
-## Next steps
+## More on this topic
 
 - [People revision notes](/resources/ocr-gcse-business-people-revision-notes/) and [People study guide](/resources/ocr-gcse-business-people/)
 - [OCR GCSE Business hub](/boards/ocr/gcse/business/) and [printable checklist](/checklists/ocr/gcse/business/)

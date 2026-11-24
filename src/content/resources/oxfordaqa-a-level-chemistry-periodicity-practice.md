@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,7 +204,7 @@ change, with the data, and then give the reason; a reason on its own leaves the 
 - Treating aluminium's p-block position as a reason for covalent bonding.
 - Giving a melting point comparison that names the structure of only one element.
 
-## Next steps
+## More on this topic
 
 - [Study guide: periodicity](/resources/oxfordaqa-a-level-chemistry-periodicity/)
 - [Revision notes: periodicity](/resources/oxfordaqa-a-level-chemistry-periodicity-revision-notes/)

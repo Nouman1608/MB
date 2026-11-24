@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section **3.3.9 Carboxylic acids and derivatives** of the AQA AS and A-level Chemistry
@@ -384,7 +384,7 @@ The HCl formed reacts with excess ammonia to give ammonium chloride, so the equa
 **Why use the minimum volume of hot solvent in recrystallisation?**
 Using the minimum volume means the product crystallises out when the solution cools, while soluble impurities stay dissolved. Too much solvent keeps product in solution and lowers the yield; this is part of AQA Required practical 10.
 
-## Next steps
+## More on this topic
 
 For revision planning across the course, see the [AQA A-Level Chemistry exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/).
 

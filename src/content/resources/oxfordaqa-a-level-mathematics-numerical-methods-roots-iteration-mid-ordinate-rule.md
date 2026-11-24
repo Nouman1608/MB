@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers section P2.9 (Numerical methods) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit P2 (Pure Maths); it is not examined at International AS. Use it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/mathematics/) and [checklist](/checklists/oxfordaqa/a-level/mathematics/). To find out where you stand first, try the [free diagnostics](/diagnostics/).
 
@@ -264,7 +264,7 @@ Each doubling of strips cuts the mid-ordinate error to roughly a quarter here, w
 - In Simpson's rule, giving 4 to every interior ordinate, or using it with an odd number of strips.
 - Claiming over- or under-estimate without referring to whether the curve is convex or concave.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-practice/), keep the [revision notes](/resources/oxfordaqa-a-level-mathematics-numerical-methods-roots-iteration-mid-ordinate-rule-revision-notes/) to hand, and see the P1 [integration guide](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and/) for the trapezium rule.
 

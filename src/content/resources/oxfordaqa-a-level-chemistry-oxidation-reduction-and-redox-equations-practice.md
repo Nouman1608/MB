@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Mass = 0.0300 × 24.3 [1] = **0.729 g** [1]
 - Using a 1 : 1 ratio in a calculation instead of the ratio from the overall equation.
 - Giving "carbon" or "chlorine" when the question asks for a species such as CO₂ or Cl₂.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this section](/resources/oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes/)
 - [Study guide for this section](/resources/oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations/)

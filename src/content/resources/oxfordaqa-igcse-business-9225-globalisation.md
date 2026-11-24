@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -136,7 +136,7 @@ Businesses reduce the risk by agreeing prices in their own currency where custom
 
 **State** and **identify** questions often ask for a form of globalisation: give the exact names from the specification. **Explain** questions on exchange rates need the direction and the effect on the named business's sales or costs. **Analyse** answers should follow a chain from the form of globalisation to the business's costs, sales or competition. **Evaluate** answers should weigh a benefit against a drawback for the specific business, and judge what matters most, for example how much of its sales are exports or how much of its costs are imported.
 
-## Related resources
+## More resources on this topic
 
 - [Globalisation revision notes](/resources/oxfordaqa-igcse-business-9225-globalisation-revision-notes/)
 - [Globalisation practice questions](/resources/oxfordaqa-igcse-business-9225-globalisation-practice/)

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.1 Product and 2.2.2 Price. The specification has two written papers, Theme 1 (1BS0/01) and Theme 2 (1BS0/02), each 1 hour 45 minutes, 90 marks and 50% of the qualification. Calculators may be used. Formulae are listed in the specification (Appendix 3) and are not provided in the examinations.
@@ -246,7 +246,7 @@ Pricing changes through the life cycle. Skimming or penetration suits introducti
 - Mixing up penetration (low launch price) and skimming (high launch price).
 - Calling a strategy "best" without linking it to the market, the competition or the phase of the product.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/edexcel-gcse-business-product-and-price-decisions-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-gcse-business-product-and-price-decisions-practice/). Try the [free diagnostics](/diagnostics/) too.
 

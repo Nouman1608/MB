@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -220,7 +220,7 @@ t = 9.65, so **after 9.65 years (during the 10th year)** [1]
 - Keeping a negative root, or a negative time, when the context rules it out.
 - Comparing models without a reason based on the context or the numbers.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-mathematics-ai-functions-modelling-revision-notes/).
 - Relearn weak topics in the [study guide](/resources/ib-dp-mathematics-ai-functions-modelling/).

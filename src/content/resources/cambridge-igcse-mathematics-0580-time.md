@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ Both times must be in the same zone before you subtract.
 - **Give your answer in** hours and minutes: never leave a decimal number of hours.
 - **Explain** a timetable choice: give the times that show why one bus works and the next one does not.
 
-## Next steps
+## More on this topic
 
 - Condensed rules and a self-test: the [time revision notes](/resources/cambridge-igcse-mathematics-0580-time-revision-notes/).
 - Exam-style questions with mark schemes: the [time practice questions](/resources/cambridge-igcse-mathematics-0580-time-practice/).

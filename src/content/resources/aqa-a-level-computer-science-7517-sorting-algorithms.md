@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -225,7 +225,7 @@ The cost of merge sort is **memory**: merging needs somewhere to put the result,
 - **Compare**: refer to time complexity for large n and to memory use.
 - **Explain O(n log n)**: halving gives log n levels, and each level does about n work.
 
-## Related resources
+## More resources on this topic
 
 - [Sorting algorithms revision notes](/resources/aqa-a-level-computer-science-7517-sorting-algorithms-revision-notes/)
 - [Sorting algorithms practice questions](/resources/aqa-a-level-computer-science-7517-sorting-algorithms-practice/)

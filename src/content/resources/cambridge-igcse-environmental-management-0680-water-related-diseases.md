@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -147,6 +147,6 @@ Why it scores: there are benefits and limitations for both strategies, each link
 
 For **describe** questions on transmission, number the steps and use the syllabus terms vector, parasite and infected. For **describe strategies**, name the strategy, then add how it works. For **discuss the benefits and limitations**, organise by strategy, give both sides for each, tie points to the scenario's details such as poverty, climate, wetlands or lack of piped water, and finish with a judgement. In Paper 2, scenario data such as cases per month may come with the question: refer to it.
 
-## Next steps
+## More on this topic
 
 Revise the key facts in the [water-related diseases revision notes](/resources/cambridge-igcse-environmental-management-0680-water-related-diseases-revision-notes/) and test yourself with the [water-related diseases practice questions](/resources/cambridge-igcse-environmental-management-0680-water-related-diseases-practice/). Cholera's link to sewage is developed further in the [water pollution study guide](/resources/cambridge-igcse-environmental-management-0680-water-pollution/).

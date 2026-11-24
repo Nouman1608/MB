@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the normal distribution and the choice of a suitable model for **OCR A Level Mathematics A (H240)**, using the OCR specification Version 3.1 (August 2026), for first assessment in 2018. It teaches references 2.04e to 2.04h of the Statistical Distributions content. All four are in the **Stage 2** column, so they are **A Level only**. The specification places statistics content in Paper 2 (Pure Mathematics and Statistics), and it allows a scientific or graphical calculator on every paper.
@@ -290,7 +290,7 @@ It gives a small non-zero probability to impossible values such as negative time
 **Can a binomial distribution be approximated by a normal distribution in OCR H240?**
 The specification says a binomial distribution with large n can be approximated by N(np, npq), but calculations that explicitly require the approximation are excluded, so it is for understanding.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate-revision-notes/), then the [practice questions](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate-practice/). Check yourself against the [printable checklist](/checklists/ocr/a-level/mathematics/) and take a [free diagnostic](/diagnostics/).
 

@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -191,7 +191,7 @@ Compare the total kinetic energy before and after. If it is conserved the collis
 **How is Unit 4 assessed in Edexcel IAL Physics?**
 Unit 4 is a compulsory, externally assessed IA2 unit, examined by a 1 hour 45 minute paper worth 90 marks.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 4: Electric and Magnetic Fields](/resources/edexcel-ial-physics-electric-and-magnetic-fields/) — the next sub-topic
 - [Unit 1: Mechanics](/resources/edexcel-ial-physics-mechanics/) — foundational mechanics content this topic builds on

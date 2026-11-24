@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -108,7 +108,7 @@ Links: [study guide](/resources/edexcel-ial-business-meeting-customer-needs-and-
 * Ending an "assess" answer without a judgement or without saying what the judgement depends on.
 * Writing generic points that could apply to any business.
 
-## Next steps
+## More on this topic
 
 * Revise with the [revision notes](/resources/edexcel-ial-business-meeting-customer-needs-and-the-market-revision-notes/).
 * Reread the [study guide](/resources/edexcel-ial-business-meeting-customer-needs-and-the-market/).

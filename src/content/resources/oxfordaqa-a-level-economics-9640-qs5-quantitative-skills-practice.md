@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ These questions cover quantitative skill QS5, "calculate and interpret index num
 - Adding the price and volume indices instead of multiplying them.
 - Stating an effect on the current account without saying what it depends on, such as price elasticity.
 
-## Next steps
+## More on this topic
 
 - Re-read the [QS5 revision notes](/resources/oxfordaqa-a-level-economics-9640-qs5-quantitative-skills-revision-notes/).
 - Return to the [QS5 study guide](/resources/oxfordaqa-a-level-economics-9640-qs5-quantitative-skills/) for linking and the terms of trade.

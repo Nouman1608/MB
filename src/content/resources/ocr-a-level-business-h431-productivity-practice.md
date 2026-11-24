@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -100,7 +100,7 @@ Judgement: the owner is wrong to say that all stakeholders benefit; productivity
 - Ignoring capital productivity when machinery is added.
 - Treating higher productivity as good for all stakeholders.
 
-## Next steps
+## More on this topic
 
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).
 - Review the [operational strategy practice questions](/resources/ocr-a-level-business-operational-strategy-practice/).

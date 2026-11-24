@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Data for this set: Fe = 55.8. R = 8.31 J mol⁻¹ K⁻¹. Use any other values g
 - Naming a hazard without a precaution that fits it.
 - Reversing the electrodes in a cell diagram.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Unit 6 revision notes](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-ii-revision-notes/).
 - Reread any weak area in the [Unit 6 study guide](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-ii/).

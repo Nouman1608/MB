@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -119,7 +119,7 @@ Justify which option the owner should choose. **[9]**
 - On Evaluate, listing points for each side but offering no judgement or reason for it.
 - Writing "a loan is cheap" with no mention of interest or repayments.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-gcse-business-business-growth-and-changing-aims-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-business-growth-and-changing-aims/).
 - Visit the [Business hub](/boards/edexcel/gcse/business/) and the [printable checklist](/checklists/edexcel/gcse/business/).

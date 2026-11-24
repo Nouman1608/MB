@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -150,7 +150,7 @@ The log must not become a second report. It is assessed on recording, planning a
 - **Drafts of report paragraphs** pasted into the log to get round the word limit.
 - **No record of how the question changed**, so the report cannot explain its development.
 
-## Next steps
+## More on this topic
 
 Condense this with the [research log revision notes](/resources/cambridge-a-level-global-perspectives-9239-research-report-research-log-revision-notes/) and practise it with the [research log practice questions](/resources/cambridge-a-level-global-perspectives-9239-research-report-research-log-practice/). For the method decisions your log will record, see [research methods and methodology](/resources/cambridge-a-level-global-perspectives-9239-research-report-methods/).
 

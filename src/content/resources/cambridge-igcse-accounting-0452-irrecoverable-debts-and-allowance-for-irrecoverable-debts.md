@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -212,7 +212,7 @@ Less allowance for irrecoverable debts  (1,230)      (770)
 - **Calculate** the change, not just the new balance, and label it increase or
   decrease.
 
-## Next steps
+## More on this topic
 
 Use the
 [4.4 revision notes](/resources/cambridge-igcse-accounting-0452-irrecoverable-debts-and-allowance-for-irrecoverable-debts-revision-notes/)

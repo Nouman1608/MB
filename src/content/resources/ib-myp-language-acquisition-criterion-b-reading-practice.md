@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -176,7 +176,7 @@ Real MYP work is judged against criterion level descriptors with achievement lev
 **Can I use these reading questions to practise in my target language?**
 Yes. The texts are in English, so answer in your target language for extra practice, or ask your teacher for a similar text in that language.
 
-## Next steps
+## More on this topic
 
 - [Criterion B revision notes](/resources/ib-myp-language-acquisition-criterion-b-reading-revision-notes/)
 - [Criterion B study guide](/resources/ib-myp-language-acquisition-criterion-b-reading/)

@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -208,7 +208,7 @@ Read Section A's source material with Section B already in mind, noting which ob
 **How much is Unit 2 worth in the OxfordAQA International A-level?**
 Units 1 and 2 together make up the International AS, and each contributes 20% to the full International A-level. Because they are weighted identically at AS, revision time should be balanced evenly between them.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 2 Language and Society study guide](/resources/a-level-oxfordaqa-english-language-unit-2/)
 - [Unit 2 Language and Society practice questions](/resources/a-level-oxfordaqa-english-language-unit-2-practice/)

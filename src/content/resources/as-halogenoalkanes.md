@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -227,7 +227,7 @@ The C–X bond gets weaker from C–Cl to C–Br to C–I, so the bond breaks mo
 **Which part of the Cambridge 9701 syllabus covers halogenoalkanes?**
 Halogenoalkanes are subtopic 15.1, in Topic 15 Halogen compounds of Cambridge International AS & A Level Chemistry 9701, and are AS Level content.
 
-## Related resources
+## More resources on this topic
 
 - [Hydrocarbons: Alkanes and Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/) — two of the three routes to a halogenoalkane
 - [Alcohols: Reactions and Oxidation](/resources/as-alcohols-reactions-and-oxidation/) — the alcohol you get back from NaOH(aq) substitution

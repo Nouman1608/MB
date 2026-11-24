@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -114,7 +114,7 @@ Rearrange the equation: distance travelled by substance = Rf × distance travell
 - **Deduce** or **identify** from a chromatogram: refer to heights or Rf values ("same height as A") rather than colours, because different substances can share a colour.
 - In the Alternative to Practical paper you may have to measure distances on a printed chromatogram with a ruler. Measure in millimetres or to 0.1 cm, from the baseline to the centre of each spot.
 
-## Next steps
+## More on this topic
 
 - Condense this with the [chromatography revision notes](/resources/cambridge-o-level-chemistry-5070-chromatography-revision-notes/).
 - Practise with the [chromatography practice questions](/resources/cambridge-o-level-chemistry-5070-chromatography-practice/).

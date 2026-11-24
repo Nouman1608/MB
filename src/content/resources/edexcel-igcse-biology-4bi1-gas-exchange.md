@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sub-topic (g) **Gas exchange** of Topic 2, Structures and functions in living organisms, in the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. It covers points 2.40B–2.50 in depth. The qualification is untiered. The flowering-plant points (2.40B–2.45B) are bold with a B reference in the specification, so they are assessed on **Paper 2 only**. The human points (2.46–2.50) can appear on either paper.
@@ -339,7 +339,7 @@ If you count for 30 seconds, double the count to get breaths per minute: 8 breat
 - Saying carbon monoxide "blocks the lungs". It reduces the oxygen-carrying capacity of the blood.
 - Forgetting that emphysema reduces **surface area**, not just "damages the lungs".
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a quick self-test: [gas exchange revision notes](/resources/edexcel-igcse-biology-4bi1-gas-exchange-revision-notes/).
 - Original exam-style questions with mark-by-mark answers: [gas exchange practice questions](/resources/edexcel-igcse-biology-4bi1-gas-exchange-practice/).

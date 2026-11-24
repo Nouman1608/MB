@@ -23,6 +23,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -184,7 +185,7 @@ They cover section 3.4.2 of the OxfordAQA International AS and A-level Geography
 - Writing case studies as fact lists with no link to sustainability or residents' experience and attitudes.
 - Giving a final judgement that just repeats the question rather than weighing evidence.
 
-## Related resources
+## More resources on this topic
 
 For the global flows behind world cities, see the [global systems and governance guide](/resources/a-level-oxfordaqa-geography-global-systems-and-governance/) and the [globalisation practice questions](/resources/oxfordaqa-a-level-geography-globalisation-practice/). Unit 4 Section A is in the [Changing places guide](/resources/oxfordaqa-a-level-geography-9635-changing-places/). Exam technique is in the [9635 exam preparation guide](/resources/oxfordaqa-a-level-geography-exam-preparation/).
 

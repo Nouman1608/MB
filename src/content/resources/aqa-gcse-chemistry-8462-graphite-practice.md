@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,7 +144,7 @@ layers** [1]. **[2]**
 - Mixing up diamond (four bonds) and graphite (three bonds).
 - Saying graphite has a low melting point because the layers can slide.
 
-## Next steps
+## More on this topic
 
 - Recap with the [graphite revision notes](/resources/aqa-gcse-chemistry-8462-graphite-revision-notes/).
 - Reread any weak area in the [graphite study guide](/resources/aqa-gcse-chemistry-8462-graphite/).

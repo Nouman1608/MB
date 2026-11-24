@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -237,7 +237,7 @@ some critics say it underplays individual choice.
   socialisation": arguments for, arguments against (other agencies, adolescence, media), and a
   judgement.
 
-## Next steps
+## More on this topic
 
 Revise with the
 [learning our identity revision notes](/resources/cambridge-igcse-sociology-0495-kq-2-1-revision-notes/)

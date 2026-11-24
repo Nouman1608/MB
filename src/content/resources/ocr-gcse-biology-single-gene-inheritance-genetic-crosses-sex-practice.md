@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -176,7 +176,7 @@ Use the [study guide](/resources/ocr-gcse-biology-single-gene-inheritance-geneti
 - Treating a past result as changing the next birth's odds.
 - Using total offspring when the question asks only about one phenotype.
 
-## Next steps
+## More on this topic
 
 - Condense the topic with the [revision notes](/resources/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex-revision-notes/).
 - Re-read the full explanations in the [study guide](/resources/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex/).

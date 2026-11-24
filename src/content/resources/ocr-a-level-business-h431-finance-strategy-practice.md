@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -122,7 +122,7 @@ Judgement: a loan-based strategy is appropriate because the business has low gea
 - Forgetting to compare with the position before the project.
 - Missing a judgement.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-finance-strategy/) for any gaps.
 - Try the [accounting and finance objectives practice questions](/resources/ocr-a-level-business-h431-accounting-and-finance-objectives-practice/).

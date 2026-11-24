@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -303,7 +303,7 @@ Yes. Plant cells have mitochondria as well as chloroplasts, because plants respi
 **Are cells and organisms in the IB MYP Sciences syllabus?**
 The IB MYP Sciences subject brief (from 2014) lists "cells" and "organisms" among its topics. MYP has no prescribed content list, so schools design their own units around them.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/ib-myp-sciences-cells-and-organisms-revision-notes/), then work through the [practice questions](/resources/ib-myp-sciences-cells-and-organisms-practice/). For how the criteria and exam tasks work, read the [MYP Sciences syllabus guide](/resources/ib-myp-sciences-syllabus-guide/), [the criteria in practice](/resources/ib-myp-sciences-criteria-in-practice/) and [investigation skills exam preparation](/resources/ib-myp-sciences-investigation-skills-exam-preparation/). Related units: [metabolism](/resources/ib-myp-sciences-metabolism/) and [evolution and interactions](/resources/ib-myp-sciences-evolution-and-interactions/).
 

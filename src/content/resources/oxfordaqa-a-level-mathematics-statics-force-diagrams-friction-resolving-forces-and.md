@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the first part of section M2.3 (Statics and forces) of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2: force diagrams, friction, forces as vectors, resolving, and the equilibrium of a particle. The specification states this content is part of International A-level Unit M2 (Mechanics) and is not examined at International AS. Moments, rigid bodies in equilibrium and centres of mass are the rest of M2.3 and are taught separately.
@@ -284,7 +284,7 @@ If P is small, the particle tends to slide down, so friction acts up the slope: 
 * Writing a direction without a reference axis. "63.4°" alone is incomplete; say from which axis and which way.
 * Using g = 9.8 for part of a question and 10 for the rest. Keep one value throughout.
 
-## Next steps
+## More on this topic
 
 Test yourself on the [practice questions](/resources/oxfordaqa-a-level-mathematics-statics-force-diagrams-friction-resolving-forces-and-practice/), then condense with the [revision notes](/resources/oxfordaqa-a-level-mathematics-statics-force-diagrams-friction-resolving-forces-and-revision-notes/). For friction on a sliding particle and Newton's laws, see the [M1 forces guide](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and/). Use the [diagnostics](/diagnostics/) to find weak spots, and tick off the topic on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 

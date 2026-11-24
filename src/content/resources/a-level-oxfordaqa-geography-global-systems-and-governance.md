@@ -21,6 +21,7 @@ publishedDate: 2026-09-02
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -209,7 +210,7 @@ positive and negative consequences.
 - Practise explaining one specific example of unequal power relations
 shaping a global system's outcome.
 
-## Related resources
+## More resources on this topic
 
 - [Globalisation and Global Systems revision notes](/resources/oxfordaqa-a-level-geography-globalisation-revision-notes/)
 - [Globalisation and Global Systems practice questions](/resources/oxfordaqa-a-level-geography-globalisation-practice/)

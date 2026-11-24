@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Compare the numbers and say which effect dominates, then reach a conclusion. Quo
 **What does a "recommend and justify" answer on international expansion need?**
 A clear decision built on the calculated figures and a reason why the alternative is weaker. A recommendation backed only by general claims scores less.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets/) and [revision notes](/resources/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets-revision-notes/).
 - Visit the [OCR A Level Business hub](/boards/ocr/a-level/business/) and the [printable checklist](/checklists/ocr/a-level/business/).

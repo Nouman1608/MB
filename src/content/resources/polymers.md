@@ -21,7 +21,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -277,7 +277,7 @@ Open the C=C double bond into single bonds so each carbon can bond to its neighb
 **Why are plastics difficult to dispose of?**
 Most plastics are chemically very stable and do not readily biodegrade, so they persist in landfill and collect in the oceans, and burning some of them releases toxic gases.
 
-## Related resources
+## More resources on this topic
 
 - [Petroleum, Alkanes and Alkenes](/resources/petroleum-alkanes-and-alkenes/) — the alkene monomers addition polymers are built from
 - [Alcohols and Carboxylic Acids](/resources/alcohols-and-carboxylic-acids/) — the ester-forming reaction condensation polymerisation repeats

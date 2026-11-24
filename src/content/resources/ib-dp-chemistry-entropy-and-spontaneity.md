@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Reactivity 1.4, "Entropy and spontaneity", answers one question: which way will a chemical change go on its own? This page teaches it from scratch for IB DP Chemistry. Its content and numbering come from the IB's 2023 guide to Diploma Programme Chemistry, whose first exams ran in 2025, and each of understandings Reactivity 1.4.1 to 1.4.4 gets its own worked examples. Every understanding in this sub-topic sits in the additional higher level (AHL) material, so the whole page is **HL only**. It is written for exam sessions from 2025 onwards.
@@ -291,7 +291,7 @@ Because ΔG is positive, the forward change is not spontaneous for this mixture,
 - Keeping ΔG⦵ in kJ inside lnK = −ΔG⦵/RT, which makes K look close to 1 every time.
 - Treating ΔG and ΔG⦵ as the same: ΔG⦵ is fixed at a given temperature, while ΔG shifts as the mixture changes.
 
-## Next steps
+## More on this topic
 
 Condense the unit with the [revision notes](/resources/ib-dp-chemistry-entropy-and-spontaneity-revision-notes/), then try the [practice questions](/resources/ib-dp-chemistry-entropy-and-spontaneity-practice/). Plan the rest of your revision from the [course hub](/boards/ib/ib-dp/chemistry/).
 

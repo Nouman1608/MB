@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -173,7 +173,7 @@ A postfix expression is evaluated with a stack: push operands, and for each oper
 11. 4 comparisons, because the tree is a chain of four nodes.
 12. Pre-order.
 
-## Next steps
+## More on this topic
 
 - [Tree algorithms study guide](/resources/oxfordaqa-a-level-computer-science-9645-tree-algorithms/)
 - [Tree algorithms practice questions](/resources/oxfordaqa-a-level-computer-science-9645-tree-algorithms-practice/)

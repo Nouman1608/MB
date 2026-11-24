@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ Compare total kinetic energy before and after, or check whether the relative spe
 **Do I need the coefficient of restitution for Cambridge 9702?**
 No. The syllabus states that knowledge of the coefficient of restitution is not required.
 
-## Related resources
+## More resources on this topic
 
 - [Linear momentum revision notes](/resources/cambridge-a-level-physics-9702-as-linear-momentum-and-its-conservation-revision-notes/)
 - [Linear momentum practice questions](/resources/cambridge-a-level-physics-9702-as-linear-momentum-and-its-conservation-practice/)

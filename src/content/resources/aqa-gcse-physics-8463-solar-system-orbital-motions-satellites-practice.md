@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ Distinctions, any two from: the Moon is natural, the weather satellite is made b
 - Using r instead of 2πr for the distance in one orbit.
 - (Higher tier only) Writing "the speed changes" for a circular orbit.
 
-## Next steps
+## More on this topic
 
 - [Solar system, orbits and satellites study guide](/resources/aqa-gcse-physics-8463-solar-system-orbital-motions-satellites/)
 - [Solar system, orbits and satellites revision notes](/resources/aqa-gcse-physics-8463-solar-system-orbital-motions-satellites-revision-notes/)

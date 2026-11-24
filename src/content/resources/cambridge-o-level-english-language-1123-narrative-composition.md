@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -194,7 +194,7 @@ complication that connects to a past the story can now explore, all in under 100
   is easier to pace.
 - Proofread for W5, especially dialogue punctuation and tense.
 
-## Related resources
+## More resources on this topic
 
 - [Narrative composition: revision notes](/resources/cambridge-o-level-english-language-1123-narrative-composition-revision-notes/)
 - [Narrative composition: practice questions](/resources/cambridge-o-level-english-language-1123-narrative-composition-practice/)

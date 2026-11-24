@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -229,7 +229,7 @@ Name the assumption, give a reason from the context why it may fail, such as fau
 **How do you find "at least one" probabilities quickly?**
 Use 1 − P(none). For example, if each of three jars is rejected with probability p independently, P(at least one rejected) = 1 − (1 − p)³.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Probability revision notes](/resources/aqa-a-level-mathematics-probability-revision-notes/).
 - Re-read the [Probability study guide](/resources/aqa-a-level-mathematics-probability/).

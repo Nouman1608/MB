@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Standard results worth recognising: a rectangle with fixed perimeter has maximum
 
 **11.** The quantity must be written in terms of a single variable before it can be differentiated with respect to that variable.
 
-## Related resources
+## More resources on this topic
 
 - [P2 differentiation study guide](/resources/edexcel-a-level-mathematics-yma01-p2-differentiation/)
 - [P2 differentiation practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-differentiation-practice/)

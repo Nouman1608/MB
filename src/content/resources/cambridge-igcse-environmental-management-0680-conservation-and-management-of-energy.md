@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the interpretation of 'exploiting existing energy resources' (making fuller use of resources and infrastructure already available) against Cambridge 0680 teaching materials."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the interpretation of 'exploiting existing energy resources' (making fuller use of resources and infrastructure already available) against Cambridge 0680 teaching materials. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -167,6 +167,6 @@ The house must be well insulated for the heat pump to supply enough heat, which 
 
 **Describe** a strategy: what it is, an example and how it saves energy. **Discuss**: benefits and limitations, ideally at the scale in the question, then a judgement. For **calculate**, set out the formula, substitute and give units.
 
-## Next steps
+## More on this topic
 
 Revise with the [Conservation and management of energy resources revision notes](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-revision-notes/), practise with the [Conservation and management of energy resources practice questions](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-practice/), and continue to the [Fracking study guide](/resources/cambridge-igcse-environmental-management-0680-fracking/).

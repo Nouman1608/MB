@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -145,7 +145,7 @@ These questions follow the OxfordAQA International AS and A-level Economics (964
 - Writing "WTO stops protection" without saying how, or noting its limits.
 - Concluding an evaluation question with a one-sided view.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-economics-international-trade-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-international-trade/).
 - Go to the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/economics/) and the [checklist](/checklists/oxfordaqa/a-level/economics/).

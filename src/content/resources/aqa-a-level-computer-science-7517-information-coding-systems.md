@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -153,7 +153,7 @@ The real-world ISBN-10 for books uses weights 10 down to 1 and modulus 11 in the
 - **Parity questions**: count the 1s, state whether the parity is even or odd, and say what the check can and cannot do.
 - **Error checks**: say what is added, what the receiver does and what happens if the check fails.
 
-## Related resources
+## More resources on this topic
 
 - [Information coding systems revision notes](/resources/aqa-a-level-computer-science-7517-information-coding-systems-revision-notes/)
 - [Information coding systems practice questions](/resources/aqa-a-level-computer-science-7517-information-coding-systems-practice/)

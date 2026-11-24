@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -135,7 +135,7 @@ For mixed questions on the whole of Topic 1, use the [Organisation practice ques
 - Forgetting to convert millimetres to micrometres, or dividing real size by image size.
 - Naming a feature of a specialised cell without giving the reason it helps.
 
-## Next steps
+## More on this topic
 
 - [Cell structure study guide](/resources/oxfordaqa-igcse-biology-9201-cell-structure/)
 - [Organisation revision notes](/resources/igcse-oxfordaqa-biology-organisation-revision-notes/)

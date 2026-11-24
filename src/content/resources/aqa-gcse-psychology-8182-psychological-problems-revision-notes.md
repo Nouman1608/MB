@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the 'introduction to mental health' points and the depression and addiction definitions against the current 8182 specification wording."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the 'introduction to mental health' points and the depression and addiction definitions against the current 8182 specification wording. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -217,7 +217,7 @@ usual care plus CBT, for patients whose depression had not responded to antidepr
 more of a substance to get the same effect. 7. Higher concordance for alcohol abuse in identical than
 non-identical twins. 8. Classical conditioning. 9. They block reuptake, so more serotonin stays active in the synapse. 10. Any two: identifying negative automatic thoughts; challenging them against evidence; replacing them with balanced thoughts; homework such as a thought diary. 11. Concordance was not 100%, or twins share an environment. 12. Strength: free, supportive, available long term. Weakness: high drop-out, or hard to evaluate because members are anonymous and self-selected.
 
-## Related resources
+## More resources on this topic
 
 - [Psychological Problems study guide](/resources/aqa-gcse-psychology-8182-psychological-problems/)
 - [Psychological Problems practice questions](/resources/aqa-gcse-psychology-8182-psychological-problems-practice/)

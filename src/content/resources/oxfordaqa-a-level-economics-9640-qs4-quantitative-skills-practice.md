@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ These questions cover quantitative skill QS4, "construct and interpret a range o
 - Calling a smaller deficit a surplus.
 - Giving a graphical form without matching it to the question it answers.
 
-## Next steps
+## More on this topic
 
 - Re-read the [QS4 revision notes](/resources/oxfordaqa-a-level-economics-9640-qs4-quantitative-skills-revision-notes/).
 - Return to the [QS4 study guide](/resources/oxfordaqa-a-level-economics-9640-qs4-quantitative-skills/) for the constructions.

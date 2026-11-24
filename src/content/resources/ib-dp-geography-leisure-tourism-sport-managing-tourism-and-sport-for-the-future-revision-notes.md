@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -134,6 +134,6 @@ If capacity is fixed and arrivals rise 25 per cent, the destination may approach
 
 **Answers:** 1. Tourism that balances economic, social and environmental goals so future generations are not disadvantaged. 2. For example quotas, zoning, timed entry. 3. To judge how many visitors a place can take without unacceptable damage. 4. For example businesses wanting growth versus residents wanting less crowding. 5. By changing the snow or beach conditions that attract visitors. 6. Responsible travel to natural areas that conserves the environment, supports local people and includes education. 7. Using a sustainable or eco label without meeting its standards. 8. For example new events and upgraded accommodation. 9. For example licensed guides and approved boat itineraries. 10. Strength: limits mass tourism and funds conservation; weakness: excludes less wealthy visitors. 11. Snowmaking or moving lifts higher; snowmaking uses water and energy. 12. To cut costs and avoid underused facilities after the event.
 
-## Related resources
+## More resources on this topic
 
 - [Option E: Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/)

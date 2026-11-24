@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense section **3.3.3 Halogenoalkanes** of the AQA AS and A-level Chemistry specification
@@ -284,7 +284,7 @@ The C–F bond is stronger than the C–Cl bond, so UV radiation in the upper at
 **Is there a required practical for halogenoalkanes in AQA A-level Chemistry 7405?**
 No required practical is listed under section 3.3.3. The suggested activities are test-tube hydrolysis with silver nitrate to compare rates and preparing a chloroalkane.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/aqa-a-level-chemistry-halogenoalkanes-practice/), go back to
 the [study guide](/resources/aqa-a-level-chemistry-halogenoalkanes/) for anything you missed, and try the free

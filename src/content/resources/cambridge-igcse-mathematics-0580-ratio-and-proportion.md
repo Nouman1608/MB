@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,7 +180,7 @@ You could instead find the mass per dollar (263 g and 274 g to 3 s.f.); then the
 - **Show (that)** one option is better value: give a comparison value for each option, with units, and then a sentence naming the better one.
 - **Explain**: in limiting-ingredient or "can she make enough" questions, refer to the actual numbers you found.
 
-## Next steps
+## More on this topic
 
 - Condensed methods and a self-test: the [ratio and proportion revision notes](/resources/cambridge-igcse-mathematics-0580-ratio-and-proportion-revision-notes/).
 - Exam-style questions with mark schemes: the [ratio and proportion practice questions](/resources/cambridge-igcse-mathematics-0580-ratio-and-proportion-practice/).

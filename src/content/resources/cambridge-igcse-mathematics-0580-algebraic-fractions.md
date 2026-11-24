@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Two factors of (x − 1) remain on the bottom, one from each fraction. They do n
 - On Paper 2 there is no calculator, so a substitution check with a small whole number is the quickest way to catch a sign error.
 - Algebraic fractions return in fractional equations (subtopic 2.5) and in composite functions such as fg(x) given as "a fraction in its simplest form" (subtopic 2.13), so accuracy here earns marks elsewhere too.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [algebraic fractions revision notes](/resources/cambridge-igcse-mathematics-0580-algebraic-fractions-revision-notes/).
 - Exam-style questions with marked answers: [algebraic fractions practice questions](/resources/cambridge-igcse-mathematics-0580-algebraic-fractions-practice/).

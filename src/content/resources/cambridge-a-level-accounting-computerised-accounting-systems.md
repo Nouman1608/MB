@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.4 Computerised accounting systems (A Level) of the Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028. The section has one content point, 3.4.1, and it is examined in Paper 3 (Financial Accounting), which assumes the AS Level content. The syllabus says knowledge of specific applications or software is not required, so this page describes the process and the safeguards, never a particular program. All amounts are in dollars. Use it with the [revision notes](/resources/cambridge-a-level-accounting-computerised-accounting-systems-revision-notes/), the [practice questions](/resources/cambridge-a-level-accounting-computerised-accounting-systems-practice/), the [course hub](/boards/cambridge/a-level/accounting/), the [printable checklist](/checklists/cambridge/a-level/accounting/) and the [free diagnostics](/diagnostics/).
@@ -245,7 +245,7 @@ A hash total is a control figure with no accounting meaning, such as the sum of 
 **Why is cut-off important when changing accounting systems?**
 A written cut-off rule decides which documents belong in the manual closing balances and which are entered as new transactions. Without it, an invoice can be missed or counted twice.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/cambridge-a-level-accounting-computerised-accounting-systems-practice/), then condense this guide with the [revision notes](/resources/cambridge-a-level-accounting-computerised-accounting-systems-revision-notes/).
 

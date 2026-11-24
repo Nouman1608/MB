@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -165,7 +165,7 @@ Recommendation: Action 1, because it tackles the cause the source names most dir
 - Recommending an action without weighing it against an alternative.
 - Choosing a Team Project action with no way to measure success.
 
-## Next steps
+## More on this topic
 
 Try the general [Written Exam practice questions](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/). Find your weak skills with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ tan θ = √3 or tan θ = −√3. Both signs must be followed through:
 - **"Prove that"** an identity: work on one side only, and show the identity used at each step.
 - List the solutions in increasing order, and count them against a quick sketch of the graph over the interval.
 
-## Related resources
+## More resources on this topic
 
 - [P2 trigonometry revision notes](/resources/edexcel-a-level-mathematics-yma01-p2-trigonometry-revision-notes/)
 - [P2 trigonometry practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-trigonometry-practice/)

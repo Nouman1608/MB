@@ -24,7 +24,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -248,7 +248,7 @@ Lower it into a measuring cylinder partly filled with liquid and read the rise i
 **What is gravitational field strength?**
 Gravitational field strength is force per unit mass, g = W / m, measured in N/kg. Near the Earth's surface it has the same numerical value as the acceleration of free fall, about 9.8.
 
-## Related resources
+## More resources on this topic
 
 - [Kinematics and Motion Graphs](/resources/kinematics/) — the other half
 of subtopic 1.1 (scalars and vectors), plus subtopic 1.2

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,6 +155,6 @@ Dev v Bolt   (psychiatric): a secondary victim. Uncle - close tie must be
 
 In a problem, first classify the claimant: what kind of loss, and (for psychiatric injury) primary or secondary. Then apply only the rules for that category. Evaluation questions on this row link directly to the theory of tort: the floodgates argument, arbitrariness of the *Alcock* controls and the Law Commission's 1998 recommendations for reform.
 
-## Related resources
+## More resources on this topic
 
 [Economic loss and psychiatric injury revision notes](/resources/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury-revision-notes/) | [Economic loss and psychiatric injury practice questions](/resources/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury-practice/) | [Theory of tort law study guide](/resources/aqa-a-level-law-7162-theory-of-tort-law/)

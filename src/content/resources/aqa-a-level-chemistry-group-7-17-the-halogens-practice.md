@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -230,7 +230,7 @@ Hydrochloric acid adds chloride ions, which would form a precipitate with silver
 **What must be named when chlorine reacts with water or sodium hydroxide?**
 Name the reaction as disproportionation, because chlorine is both oxidised and reduced. Leaving out the term is a frequent way to lose marks.
 
-## Next steps
+## More on this topic
 
 - [Halogens revision notes](/resources/aqa-a-level-chemistry-group-7-17-the-halogens-revision-notes/)
 - [Halogens study guide](/resources/aqa-a-level-chemistry-group-7-17-the-halogens/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -300,7 +300,7 @@ $84,500** [1].
 - Carrying a debit balance down on the wrong side of a ledger account.
 - Giving advantages and disadvantages that ignore the business described.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/igcse-accounting-financial-statements-of-partnerships/) and [revision notes](/resources/igcse-accounting-financial-statements-of-partnerships-revision-notes/).
 - More Topic 5 practice: [practice questions](/resources/igcse-accounting-financial-statements-practice/).

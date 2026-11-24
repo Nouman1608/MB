@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -140,6 +140,6 @@ Related: [Stress study guide](/resources/cambridge-a-level-psychology-9990-stres
 - In question 6(a), listing the GAS stages without linking exhaustion to Tomás's colds.
 - In question 9(b), writing "correlation is not causation" without a third variable.
 
-## Next steps
+## More on this topic
 
 Revisit weak areas in the [stress study guide](/resources/cambridge-a-level-psychology-9990-stress/), then try the mixed [Health Psychology practice questions](/resources/a-level-psychology-health-psychology-practice/).

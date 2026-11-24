@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -153,6 +153,6 @@ Availability of schools; poverty and wealth; girls' access; class sizes; norms, 
 
 **Answers:** 1. Any two: lack of digital technology; lack of study space; poor diet or health; needing to work or care for siblings; unable to pay for tutoring or trips. 2. Knowledge, tastes and attitudes, usually middle-class, that schools value and reward. 3. The restricted code is short and context-bound; the elaborated code is detailed and explicit, and is the code schools use. 4. Parental interest in education was linked to children's achievement. 5. Head Start in the United States or Sure Start in the United Kingdom. 6. They formed an anti-school subculture, gaining status by rejecting school values. 7. Teachers' expectations meant Black pupils were more likely to be entered for lower-tier exams. 8. A curriculum centred on the knowledge and values of the majority culture. 9. They formed a pro-education subculture, working hard while appearing not to conform. 10. From love and marriage in the 1970s to careers and independence in the 1990s. 11. Working-class boys who rejected schoolwork as unmasculine. 12. Any three: availability of schools; poverty; girls' access; class sizes; norms and values; internet access.
 
-## Next steps
+## More on this topic
 
 Try the [key question 5.3 practice questions](/resources/cambridge-igcse-sociology-0495-kq-5-3-practice/), then revise the whole Education topic with the [family, education and crime revision notes](/resources/sociology-family-education-crime-revision-notes/).

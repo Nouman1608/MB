@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -129,6 +129,6 @@ These questions cover sub-topic 3(c) Reversible reactions and equilibria of the 
 - Counting a solid or liquid when comparing moles of gas.
 - Mixing up the colour changes in the NO₂ and N₂O₄ system.
 
-## Next steps
+## More on this topic
 
 Review the [reversible reactions and equilibria study guide](/resources/edexcel-igcse-chemistry-4ch1-reversible-reactions-and-equilibria/) for any slips, then continue to Topic 4 with the [organic chemistry study guide](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry/).

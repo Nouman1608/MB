@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -260,7 +260,7 @@ Dividing a cost pool by the number of units made instead of by the total quantit
 **How do you earn marks on an evaluation question about costing methods?**
 Make points on both sides using figures from the question, then reach a decision. Evaluations with no decision or no figures from the question are a common reason marks are lost.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-accounting-absorption-and-activity-based-costing-revision-notes/)
 - [Study guide](/resources/aqa-a-level-accounting-absorption-and-activity-based-costing/)

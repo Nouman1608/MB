@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ These questions cover section 5.8 (Research and development) of the IB *Business
 - Ignoring the industry when judging R&D spending.
 - Ending an AO3 answer without a judgement and the conditions it rests on.
 
-## Next steps
+## More on this topic
 
 - Revise from the [5.8 revision notes](/resources/ib-dp-business-5-8-revision-notes/).
 - Review the [5.8 study guide](/resources/ib-dp-business-5-8/) for the pipeline cost example and the annotated answer.

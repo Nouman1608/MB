@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is written for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), and covers statements P3.2c to P3.2h in topic P3, Electricity (the simple circuits section). None of these statements is marked as Higher Tier only, so everything here is for Foundation and Higher candidates. Series and parallel calculations, power and charge flow are taught elsewhere, so they are left out. Pair this page with the [revision notes](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-practice/). See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the printable [checklist](/checklists/ocr/gcse/physics/). Start with the [free 10-minute diagnostics](/diagnostics/). For paper technique, see [OCR GCSE Physics exam preparation](/resources/ocr-gcse-physics-exam-preparation/).
@@ -219,7 +219,7 @@ Dark: I = 5.0 ÷ 500 000 = 0.000 010 A = **10 µA**. Bright: I = 5.0 ÷ 2000 = 0
 - Forgetting to convert mA to A, or kΩ to Ω, before using V = IR.
 - Drawing a diode graph as a symmetrical line. It must show almost no current in reverse.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-practice/), then use the [revision notes](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-revision-notes/) to tidy your recall. Tick off progress on the [checklist](/checklists/ocr/gcse/physics/), and check the course [hub](/boards/ocr/gcse/physics/) for other topics.
 

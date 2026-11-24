@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide is aligned to the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), section 4.4.2 Electromagnetic waves, statements (a) to (e). It sits inside Module 4, Electrons, waves and photons. It teaches the electromagnetic spectrum, polarisation of EM waves, refraction and refractive index, the refraction and total internal reflection practical, the critical angle and total internal reflection.
@@ -258,7 +258,7 @@ Measure angles of incidence and refraction from the normal for at least six rays
 **Can total internal reflection happen when light enters a denser medium?**
 No. Total internal reflection only happens when light travels from a higher refractive index towards a lower one, at an angle of incidence greater than the critical angle.
 
-## Next steps
+## More on this topic
 
 Attempt the practice questions, then tick off each statement on the checklist.
 

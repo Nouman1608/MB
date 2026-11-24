@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ These questions cover learning outcomes 5.1.1(a) to 5.1.1(d) and 5.1.2(a) to 5.1
 - Omitting carbon dioxide when describing how urea forms.
 - Mixing up the vessels supplying the liver.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver/).
 - Check the wider course on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/).

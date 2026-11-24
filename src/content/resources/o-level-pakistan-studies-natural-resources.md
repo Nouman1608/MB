@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -177,7 +177,7 @@ sub-topic asks candidates to locate a feature before analysing it.
   <figcaption>Every Section 2 resource can be revised the same way: where, what for, and how sustainable.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O Level Pakistan Studies: The Land of Pakistan](/resources/o-level-pakistan-studies-land-of-pakistan/)
 - [Cambridge IGCSE Pakistan Studies: Natural Resources – An Issue of Sustainability (0448)](/resources/igcse-cambridge-pakistan-studies-natural-resources/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -135,7 +135,7 @@ These questions cover section **3.1.2.5 Balanced equations and associated calcul
 - Counting a liquid product as part of a gas volume.
 - Averaging a rough titre.
 
-## Next steps
+## More on this topic
 
 - [Balanced equations revision notes](/resources/aqa-a-level-chemistry-7405-balanced-equations-and-associated-calculations-revision-notes/)
 - [Ideal gas equation practice questions](/resources/aqa-a-level-chemistry-7405-the-ideal-gas-equation-practice/)

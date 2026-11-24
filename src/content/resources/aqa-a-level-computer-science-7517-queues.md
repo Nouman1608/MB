@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -209,7 +209,7 @@ The empty and full tests for a priority queue are the same as for the underlying
 - **Explain why circular is better**: freed slots are reused, so the queue is not reported full while space is available, and no items are moved.
 - **Write** an algorithm: state your initial pointer values and keep every subroutine consistent with them.
 
-## Related resources
+## More resources on this topic
 
 - [Queues revision notes](/resources/aqa-a-level-computer-science-7517-queues-revision-notes/)
 - [Queues practice questions](/resources/aqa-a-level-computer-science-7517-queues-practice/)

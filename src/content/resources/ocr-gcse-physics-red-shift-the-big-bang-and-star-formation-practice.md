@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Statement 2: Microwaves arrive at Earth from all directions with almost the same
 - Writing "gravity and fusion balance" without saying that fusion releases the energy that causes expansion.
 - Saying that light "slows down" in red-shift.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-revision-notes/)
 - [Study guide](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation/)

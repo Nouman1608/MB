@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -192,7 +192,7 @@ From the guide's glossary:
 - Offering an example with no explanation: the guide expects contextualisation, not a bare name.
 - Relying on old historical cases instead of contemporary ones from roughly the past two decades.
 
-## Next steps
+## More on this topic
 
 - Practise with the [practice questions](/resources/ib-dp-global-politics-core-stakeholders-and-systems-practice/).
 - Revisit the [study guide](/resources/ib-dp-global-politics-core-stakeholders-and-systems/) for the worked Paris Agreement mapping.

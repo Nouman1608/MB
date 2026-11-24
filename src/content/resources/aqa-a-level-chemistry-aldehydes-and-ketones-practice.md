@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -196,7 +196,7 @@ Your answer needs the ideas that the C=O group is planar and that the nucleophil
 **What do examiners want for the hazards of potassium cyanide?**
 Saying "toxic" twice counts as one point. The second mark needs the separate idea that adding acid releases HCN, which is highly toxic.
 
-## Next steps
+## More on this topic
 
 - [Aldehydes and ketones revision notes](/resources/aqa-a-level-chemistry-aldehydes-and-ketones-revision-notes/)
 - [Aldehydes and ketones study guide](/resources/aqa-a-level-chemistry-aldehydes-and-ketones/)

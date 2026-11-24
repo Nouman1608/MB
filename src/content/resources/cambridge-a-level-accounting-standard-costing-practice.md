@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ Using actual hours or quantities where the standard hours or quantity for the ac
 **How do I check a profit reconciliation statement?**
 Start from budgeted profit, add favourable and subtract adverse variances, and check that the result reaches the actual profit. If it does not, check the signs first.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-standard-costing-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-standard-costing/).
 - See the [course hub](/boards/cambridge/a-level/accounting/) and [checklist](/checklists/cambridge/a-level/accounting/).

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 updatedDate: 2026-11-05
 featured: false
@@ -185,7 +185,7 @@ Yes. A figure such as real GDP per capita has been adjusted for inflation and di
 **Why can a smaller economy have a higher GDP per capita?**
 GDP per capita divides total GDP by population. A country with a much smaller total economy but a far smaller population can have higher real GDP per capita, which is why Edexcel International A Level Economics Unit 2 answers compare per capita figures.
 
-## Related resources
+## More resources on this topic
 
 [Measuring Economic Growth study guide](/resources/a-level-edexcel-economics-economic-growth/) |
 [Measuring Economic Growth practice questions](/resources/edexcel-a-level-economics-economic-growth-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -194,7 +194,7 @@ accidental.
 11. Any two: return to the opening image; a call to action; a reframed question; a short punchy statement.
 12. For example: "Sometimes sounding local, rather than posh, earns you respect among your friends."
 
-## Related resources
+## More resources on this topic
 
 - [Writing skills practice questions](/resources/aqa-a-level-english-language-7702-writing-skills-practice/)
 - [Language discourses revision notes](/resources/aqa-a-level-english-language-7702-section-b-language-discourses-revision-notes/)

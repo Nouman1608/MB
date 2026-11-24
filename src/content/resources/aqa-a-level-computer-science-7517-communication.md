@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -143,7 +143,7 @@ For very small messages the latency dominates (a short instruction to a game ser
 - For **calculations**, write the formula, substitute, and include units.
 - For **definitions**, give the unit as well as the idea.
 
-## Related resources
+## More resources on this topic
 
 - [Communication revision notes](/resources/aqa-a-level-computer-science-7517-communication-revision-notes/)
 - [Communication practice questions](/resources/aqa-a-level-computer-science-7517-communication-practice/)

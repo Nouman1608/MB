@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ Judgement: the higher profit is positive, but the falling margin suggests that g
 - Mixing up price and total revenue.
 - Giving a calculation but no interpretation.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-costs-revenue-and-profit/) for any gaps.
 - Try the [break-even analysis practice questions](/resources/ocr-a-level-business-h431-break-even-analysis-practice/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -211,7 +211,7 @@ start.
 - Inventing a precise date or country an unseen passage does not support.
 - Oral plans that treat each work in its own half and meet the global issue only in the introduction.
 
-## Next steps
+## More on this topic
 
 - [Time and space revision notes](/resources/ib-dp-language-a-literature-time-and-space-revision-notes/)
 - [Time and space study guide](/resources/ib-dp-language-a-literature-time-and-space/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -138,7 +138,7 @@ For mixed questions, use the [Homeostasis, temperature control and blood glucose
 - Giving only two or three controlled conditions.
 - Describing how the eye or ear works, which is not required.
 
-## Next steps
+## More on this topic
 
 - [Homeostasis study guide](/resources/oxfordaqa-igcse-biology-9201-homeostasis/)
 - [Homeostasis revision notes](/resources/oxfordaqa-igcse-biology-9201-homeostasis-revision-notes/)

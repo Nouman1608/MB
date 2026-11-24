@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -195,7 +195,7 @@ Each characteristic points forward in the course, which makes revision easier.
 
 **Answers:** (1) nutrition, respiration, excretion, response, movement, control of internal conditions, reproduction, growth and development. (2) Respiration is a chemical process in cells that releases energy. Breathing is moving air in and out of the lungs. (3) A shoot grows towards light, or a root grows towards water. (4) A crystal adds layers from outside; an organism makes new cells from the nutrients it takes in. (5) A plant excretes carbon dioxide from respiration and oxygen from photosynthesis through its stomata.
 
-## Next steps
+## More on this topic
 
 Revise with the [Topic 1 revision notes](/resources/igcse-edexcel-biology-nature-variety-revision-notes/) and try the [Topic 1 practice questions](/resources/igcse-edexcel-biology-nature-variety-practice/). Move on to sub-topic 1(b) with the [variety of living organisms study guide](/resources/edexcel-igcse-biology-4bi1-variety-of-living-organisms/). Tick off each point on the [printable checklist](/checklists/edexcel/igcse/biology/).
 

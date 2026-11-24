@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -174,7 +174,7 @@ The specification groups this topic's practical work into Practical Activity Gro
 - Distinguish xylem from phloem on direction, cell type and what each transports.
 - Calculate the SA:V ratio for a cube of side 3 cm.
 
-## Related resources
+## More resources on this topic
 
 - [Scaling Up study guide](/resources/ocr-gcse-biology-scaling-up/)
 - [Scaling Up practice questions](/resources/ocr-gcse-biology-scaling-up-practice/)

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -205,7 +205,7 @@ Credit side: opening balance [1], purchases [1]. Debit side: returns, payments a
 - Including cash sales or depreciation in a control account.
 - Giving a purpose without saying how it helps.
 
-## Next steps
+## More on this topic
 
 - Revise with the [condensed notes](/resources/edexcel-igcse-accounting-trial-balance-and-control-accounts-revision-notes/).
 - Re-read the [full study guide](/resources/edexcel-igcse-accounting-trial-balance-and-control-accounts/).

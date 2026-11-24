@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Choose one option, give reasons drawn from the case, such as supplier distance a
 **What is the difference between quality control and quality assurance?**
 Quality control inspects output to find defects after production. Quality assurance builds quality into the whole process to prevent defects happening in the first place.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-business-operational-strategy-revision-notes/) and the [study guide](/resources/ocr-a-level-business-operational-strategy/).
 - Check the [course hub](/boards/ocr/a-level/business/) and the [checklist](/checklists/ocr/a-level/business/).

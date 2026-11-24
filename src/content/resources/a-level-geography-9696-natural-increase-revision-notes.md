@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -142,7 +142,7 @@ Note that many people over 65 still work, and many aged 15 to 18 are still in ed
 
 **Answers:** 1. Birth rate minus death rate. 2. Birth rate is births per 1000 population; fertility is average births per woman. 3. Female education, later marriage, contraception use, changed culture. 4. High birth rate and a youthful population. 5. Number of dependents per 100 people of working age. 6. Parents have more children to ensure some survive. 7. 7 per 1000, which is 0.7 per cent. 8. (2 + 3) / 10 x 100 = 50. 9. It has a larger share of elderly people. 10. In-migration of male workers. 11. Faster economic growth possible when a large cohort reaches working age and dependency falls.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

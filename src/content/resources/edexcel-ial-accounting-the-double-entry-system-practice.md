@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -183,7 +183,7 @@ Start with 42,300 [1]; rent decreases profit [1]; insurance prepaid increases it
 - Treating drawings as an expense.
 - Claiming ICT removes errors without saying which it cannot detect.
 
-## Next steps
+## More on this topic
 
 - Recall the content in the [revision notes](/resources/edexcel-ial-accounting-the-double-entry-system-revision-notes/) or re-read the [study guide](/resources/edexcel-ial-accounting-the-double-entry-system/).
 - Review the [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accounting/) and the [printable checklist](/checklists/edexcel/a-level/accounting/).

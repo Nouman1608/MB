@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ At closest approach all the initial kinetic energy has become electric potential
 **How should you state the direction of a Coulomb force?**
 Give the size of the force and state in words whether it is attractive or repulsive. Like charges repel and unlike charges attract, and the force acts along the line joining the charges.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-a-level-physics-electric-fields-coulombs-law-potential-and-uniform-revision-notes/)
 - [Study guide](/resources/ocr-a-level-physics-electric-fields-coulombs-law-potential-and-uniform/)

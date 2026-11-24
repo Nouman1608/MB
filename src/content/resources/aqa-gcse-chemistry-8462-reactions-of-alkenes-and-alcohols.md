@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -229,7 +229,7 @@ example, 0.1 mol/dm³ ethanoic acid has a pH of about 3, while 0.1 mol/dm³ hydr
 - Carboxylic acids link to **weak acids** in 4.4.2.6 and to **esters** used in perfumes.
 - Alcohol combustion links to **energy changes** (4.5.1): the reaction is exothermic.
 
-## Next steps
+## More on this topic
 
 - [Reactions of alkenes and alcohols revision notes](/resources/aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-revision-notes/)
 - [Reactions of alkenes and alcohols practice questions](/resources/aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-practice/)

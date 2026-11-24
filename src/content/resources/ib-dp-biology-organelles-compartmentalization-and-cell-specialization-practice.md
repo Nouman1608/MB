@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ These questions cover sections B2.2 and B2.3 of the IB *Diploma Programme Biolog
 - Confusing potency terms or giving only one half of a distinction.
 - Answering "discuss" with one side only.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-biology-organelles-compartmentalization-and-cell-specialization-revision-notes/) for the points you missed.
 - Reread the [study guide](/resources/ib-dp-biology-organelles-compartmentalization-and-cell-specialization/).

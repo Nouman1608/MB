@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches subtopic E4.8, Circle theorems II, from the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. The whole subtopic is **Extended only**: the syllabus lists C4.8 as "Extended content only", so there is no Core version. It is examined on Paper 2 (non-calculator) and Paper 4 (calculator), the two Extended papers.
@@ -273,7 +273,7 @@ Find the perpendicular bisectors of two chords that are not parallel; they cross
 **What is the length of a tangent from an external point?**
 The tangent length is the distance from the external point P to the point of contact A, not OP. Because the tangent meets the radius at 90°, PA² = OP² − OA².
 
-## Next steps
+## More on this topic
 
 Use the [geometry revision notes](/resources/igcse-mathematics-geometry-revision-notes/) for a list of every circle theorem for your tier. Then try the chord question in the [Extended trigonometry practice questions](/resources/igcse-mathematics-trigonometry-extended-practice/), which uses the half-chord triangle from worked examples 1 and 2. The [course hub](/boards/cambridge/igcse/mathematics/) lists other resources for syllabus 0580.
 

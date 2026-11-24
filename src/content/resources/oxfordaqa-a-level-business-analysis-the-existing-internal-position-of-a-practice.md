@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Judge each ratio against its trend over time, a benchmark such as rivals or the 
 **Which OxfordAQA 9725 section do these questions test?**
 They test section 3.3.2 of OxfordAQA International AS and A-level Business (9725), Analysis of the existing internal position of a business: the Boston Matrix, financial statements and ratios, profit centres and business culture.
 
-## Next steps
+## More on this topic
 
 - Shorter recall version: [revision notes](/resources/oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a-revision-notes/)
 - Full teaching: [study guide](/resources/oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a/)

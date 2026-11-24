@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -119,7 +119,7 @@ Judgement: both objectives are specific, measurable and tied to the bank's conce
 - Assuming a loan does not change capital employed.
 - Stopping at one stakeholder or giving no judgement.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-accounting-and-finance-objectives/) for any gaps.
 - Try the [sources of finance practice questions](/resources/ocr-a-level-business-h431-sources-of-finance-practice/).

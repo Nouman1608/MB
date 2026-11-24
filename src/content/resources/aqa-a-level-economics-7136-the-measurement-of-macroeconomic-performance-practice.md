@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ all percentage changes are preserved.
 Real GDP measures total output. Dividing by population shows output per person, which is closer to average living
 standards when population is changing.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-a-level-economics-7136-the-measurement-of-macroeconomic-performance/) for any question you found difficult.
 - Move on to the [how the macroeconomy works practice questions](/resources/aqa-a-level-economics-7136-how-the-macroeconomy-works-practice/).

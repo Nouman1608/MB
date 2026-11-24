@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ These questions cover sub-topics C.2 (Wave model) and C.5 (Doppler effect) from 
 - Choosing the wrong sign in v ± us or v ± uo.
 - Leaving out units or giving a speed to too many significant figures.
 
-## Next steps
+## More on this topic
 
 - Recall the formulas in the [revision notes](/resources/ib-dp-physics-travelling-waves-and-the-doppler-effect-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/ib-dp-physics-travelling-waves-and-the-doppler-effect/).

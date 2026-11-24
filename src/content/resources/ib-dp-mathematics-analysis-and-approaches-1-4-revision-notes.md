@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the real value of an investment after inflation sits within the AA guide's section 1.4 guidance; it is included here as on the existing unit pages."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the real value of an investment after inflation sits within the AA guide's section 1.4 guidance; it is included here as on the existing unit pages. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ Simple:       4000 + 3 × 200 = £4600.00
 11. It shows money paid out; the solver uses opposite signs for money paid and received.
 12. n > ln 2/ln 1.072 = 9.97, so after 10 years.
 
-## Next steps
+## More on this topic
 
 - [Section 1.4 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-1-4/)
 - [Section 1.4 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-4-practice/)

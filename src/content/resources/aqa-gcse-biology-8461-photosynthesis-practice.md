@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ Also allow: no time to adjust after moving the lamp → wait a few minutes befor
 - Forgetting that plants respire at all times, including at night.
 - Making a recommendation without using the calculated gains.
 
-## Next steps
+## More on this topic
 
 - [Photosynthesis study guide](/resources/aqa-gcse-biology-8461-photosynthesis/)
 - [Photosynthesis revision notes](/resources/aqa-gcse-biology-8461-photosynthesis-revision-notes/)

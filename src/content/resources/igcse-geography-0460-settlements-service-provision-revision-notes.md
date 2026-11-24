@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -216,7 +216,7 @@ local population and car ownership that lets people shop in towns. 10. Survey us
 live, plot their home locations and draw a boundary round the outermost points. 11. For example a
 mobile library or shop, which helps elderly people without cars.
 
-## Related resources
+## More resources on this topic
 
 - [Population and Settlement study guide](/resources/igcse-geography-population-and-settlement/)
 - [Population and Settlement revision notes (whole theme)](/resources/igcse-geography-population-settlement-revision-notes/)

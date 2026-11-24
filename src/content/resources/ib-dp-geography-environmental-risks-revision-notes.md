@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -164,7 +164,7 @@ supporting. 8. Better building codes, governance and resources. 9. For example h
 crowded housing, connectivity or vaccine access. 10. A state benefiting from others' action without
 acting itself. 11. Reducing vulnerability by tackling root causes, pressures and unsafe conditions.
 
-## Related resources
+## More resources on this topic
 
 - [Global risks and resilience study guide](/resources/ib-dp-geography-global-risks-resilience-study-guide/)
 - [Local and global resilience revision notes](/resources/ib-dp-geography-local-and-global-resilience-revision-notes/)

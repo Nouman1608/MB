@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide covers section M2.6 (Work and energy) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification states that this content is part of International A-level (A2) Unit M2 (Mechanics) and is not examined at International AS. Resolving forces and the constant-acceleration (suvat) equations are useful background.
 
@@ -276,7 +276,7 @@ Do not confuse these: work is in joules and power is in watts. A kilowatt is 100
 
 Show the stage of the motion each equation describes, because an energy equation with unlabelled terms is hard to give credit to if one number is wrong. Write each force's work as a separate line so a slip in one term does not hide your correct method elsewhere. State clearly the modelling assumptions you are using, such as no air resistance or a smooth surface, when a question asks you to comment on them.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-work-energy-and-power-practice/), then condense the unit with the [revision notes](/resources/oxfordaqa-a-level-mathematics-work-energy-and-power-revision-notes/). Take a [free diagnostic](/diagnostics/) when you want to check readiness.
 

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -125,7 +125,7 @@ Who benefits, cost against benefit, short against long term, and sustainability.
 
 **Answers:** 1. Housing built without legal tenure, often lacking basic services. 2. Providing plots with basic services for residents to build on. 3. It destroys communities and livelihoods. 4. Public transport investment and congestion charging. 5. Meeting current needs without harming future generations. 6. A shanty town in an LIC or MIC, and infrastructure (power or transport) for a city. 7. Residents invest in their homes only when they know they will not be evicted. 8. Dedicated lanes, enclosed stations with pre-paid fares, feeder buses. 9. Home-based workshops and the informal economy, or its central location near jobs. 10. It was much cheaper and quicker to build. 11. Upgraded favelas in place with paths, drainage, water, lighting and community buildings.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

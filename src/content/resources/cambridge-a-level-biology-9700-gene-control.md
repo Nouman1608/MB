@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,6 +148,6 @@ A mutant with **no functional DELLA protein** shows the opposite: target genes a
 - **State** (16.3.3): the syllabus sentence is enough: proteins that bind to DNA and increase or decrease the rate of transcription.
 - **Predict** mutation effects: follow the repressor, then say whether RNA polymerase can transcribe.
 
-## Next steps
+## More on this topic
 
 Condense this with the [16.3 revision notes](/resources/cambridge-a-level-biology-9700-gene-control-revision-notes/), then try the [16.3 practice questions](/resources/cambridge-a-level-biology-9700-gene-control-practice/). The germination context is described in the [control and coordination in plants study guide](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge/), and transcription itself in the [nucleic acids and protein synthesis study guide](/resources/a-level-biology-9700-nucleic-acids-and-protein-synthesis/).

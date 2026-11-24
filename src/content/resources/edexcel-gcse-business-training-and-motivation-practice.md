@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ I recommend Option A [1], because on the owner's forecast it adds £1,440 a mont
 - Giving only the benefits of a method and ignoring its cost or drawback.
 - Stopping an "evaluate" or "justify" answer before reaching a clear decision.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-gcse-business-training-and-motivation/) for any part you missed.
 - Use the [revision notes](/resources/edexcel-gcse-business-training-and-motivation-revision-notes/) for quick recall.

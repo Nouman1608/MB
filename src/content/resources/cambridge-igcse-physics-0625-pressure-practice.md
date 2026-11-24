@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -141,6 +141,6 @@ Related: [study guide on pressure](/resources/cambridge-igcse-physics-0625-press
 - Using the area of one foot when an animal stands on several.
 - *(Extended)* Putting density in g/cm³ into Δp = ρgΔh.
 
-## Next steps
+## More on this topic
 
 Revise the conversions in the [study guide on pressure](/resources/cambridge-igcse-physics-0625-pressure/), then start Topic 2 with the [practice questions on the kinetic particle model of matter](/resources/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-practice/).

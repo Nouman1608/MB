@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches three subtopics of Topic 1 Number in the Cambridge IGCSE Mathematics 0580 syllabus for exams in 2025, 2026 and 2027 (version 3): **1.12 Rates**, **1.15 Time** and **1.16 Money**. The learning outcomes are the same in the Core column (C1.12, C1.15, C1.16) and the Extended column (E1.12, E1.15, E1.16), so nothing here is Extended only. Core candidates sit Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates sit Paper 2 (non-calculator) and Paper 4 (calculator). The worked examples use numbers you can handle by hand.
@@ -334,7 +334,7 @@ Check which currency should give the bigger number before deciding whether to mu
 **What units go with density in g/cm³?**
 Use mass in grams and volume in cm³. Using kilograms with a density in g/cm³ gives an answer that is out by a factor of 1000.
 
-## Next steps
+## More on this topic
 
 - Practise with [Number practice questions](/resources/igcse-mathematics-number-practice/) and, for Extended, [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).
 - Find your gaps with the free [Core diagnostic](/practice/0580/diagnostic/core/) or [Extended diagnostic](/practice/0580/diagnostic/extended/).

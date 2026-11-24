@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Write about the workers, such as their bargaining power, advice and support, not
 **What does an "evaluate" question on a pay claim need?**
 Both sides, such as the extra cost against possible gains in morale and lower turnover, and a final decision. Finishing without a judgement loses marks.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/o-level-business-organisation-and-management-revision-notes/) and re-read the [study guide](/resources/o-level-business-organisation-and-management/).
 - Check your coverage with the [printable checklist](/checklists/cambridge/o-level/business/) and the [course hub](/boards/cambridge/o-level/business/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Tied aid must be spent on goods or firms from the donor country, which may cost 
 **Should you use real-world statistics in development answers?**
 Use the data supplied in the question rather than statistics quoted from memory. Label any examples of your own as illustrative.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international-revision-notes/)
 - [Study guide](/resources/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international/)

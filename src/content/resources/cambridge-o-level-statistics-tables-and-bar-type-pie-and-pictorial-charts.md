@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Written for Cambridge O Level Statistics (4040), version 1, examined in 2025, 2026 and 2027, this guide covers section 2.1 (classification and representation in tabular form, including two-way tables) and the part of section 2.2 that deals with pictograms, pie charts, comparative pie charts, bar charts, sectional and percentage bar charts and dual bar charts. The syllabus applies to all candidates; it is not tiered.
@@ -273,7 +273,7 @@ Notice what each chart shows. The sectional chart shows that Saturday was the bu
 - Taking a percentage of the wrong row or column in a two-way table.
 - Leaving off a title, axis labels or a key.
 
-## Next steps
+## More on this topic
 
 Test yourself on the [practice set](/resources/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts-practice/), then use the [revision notes](/resources/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts-revision-notes/) as a final check. Use the [diagnostics](/diagnostics/) to decide what to revise first.
 

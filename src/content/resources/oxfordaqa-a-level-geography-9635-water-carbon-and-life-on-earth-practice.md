@@ -23,6 +23,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -177,7 +178,7 @@ Questions 10 to 12 are extended responses. The real exam marks extended answers 
 - Rainforest essays that describe deforestation but never measure its scale.
 - Evaluation of interventions with no criteria and no overall judgement.
 
-## Next steps
+## More on this topic
 
 Go back to any weak areas in the [study guide](/resources/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth/), then check your progress with the [Marlbridge diagnostics](/diagnostics/). For exam timing across units, read [OxfordAQA A-level Geography exam preparation](/resources/oxfordaqa-a-level-geography-exam-preparation/), and practise the other half of Unit 3 with the [Ecosystems under stress guide](/resources/oxfordaqa-a-level-geography-9635-ecosystems-under-stress/). If you would like a teacher to go through your answers, [Book a free trial class](/trial/).
 

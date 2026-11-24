@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -137,7 +137,7 @@ These questions cover sections 3.6.3 (Using electricity in the home) and 3.6.5 (
 - Forgetting to multiply the hours by the number of days.
 - Giving the cost in pence when the question asks for pounds.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of/).

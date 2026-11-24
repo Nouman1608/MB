@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ Confirm the anions on fresh samples. Dilute hydrochloric acid then barium chlori
 - Justifying a spectrum match with "it looks the same" instead of naming peaks.
 - Giving "more reliable" or "better" as an instrumental advantage without using sensitivity, accuracy or speed.
 
-## Next steps
+## More on this topic
 
 - Go back over the test tables in the [C4.2 revision notes](/resources/ocr-gcse-chemistry-identifying-products-of-reactions-revision-notes/).
 - For any question you found hard, read that part of the [C4.2 study guide](/resources/ocr-gcse-chemistry-identifying-products-of-reactions/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ Check: at A the angle between AB (east, 090°) and AS (040°) is 50°. At B the 
 - **Interpret**: measure on the drawing in centimetres, then convert with the scale, giving units.
 - A quick sketch with compass directions marked tells you roughly what answer to expect.
 
-## Next steps
+## More on this topic
 
 - Recap with the [scale drawings revision notes](/resources/cambridge-igcse-mathematics-0580-scale-drawings-revision-notes/) and practise with the [scale drawings practice questions](/resources/cambridge-igcse-mathematics-0580-scale-drawings-practice/).
 - Bearings appear again with trigonometry in the [Trigonometry study guide](/resources/igcse-mathematics-trigonometry/).

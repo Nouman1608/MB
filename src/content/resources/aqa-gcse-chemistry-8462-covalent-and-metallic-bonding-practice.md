@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -198,7 +198,7 @@ A ball and stick model of molecule Y shows two red balls joined to each other by
 - Polymer repeating units with no bond lines through the brackets, or no *n*.
 - Metallic bonding answers that miss "regular pattern", "delocalised" or "whole structure".
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-revision-notes/).
 - Re-read anything you got wrong in the [study guide](/resources/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding/).

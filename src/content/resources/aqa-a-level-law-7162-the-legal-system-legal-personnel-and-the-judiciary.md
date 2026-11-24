@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Arrangements for regulating chartered legal executives have been under review; confirm the current regulator and training routes before review."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Arrangements for regulating chartered legal executives have been under review; confirm the current regulator and training routes before review. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,6 +148,6 @@ Each method is named, explained and linked back to independence, which is what t
 
 "Explain" questions want a method plus its purpose, with a statute or case. "Evaluate" questions on independence want strengths, limits (for example the Lord Chancellor's remaining role in appointments, or media pressure on judges after controversial rulings) and a reasoned conclusion. Keep the roles of the professions separate from their regulation.
 
-## Related resources
+## More resources on this topic
 
 [Legal personnel and the judiciary revision notes](/resources/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary-revision-notes/) | [Legal personnel and the judiciary practice questions](/resources/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary-practice/)

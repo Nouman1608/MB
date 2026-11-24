@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false
@@ -269,7 +269,7 @@ When a question asks you to "explain" a precaution, name the precaution and link
 - Leaving background in a half-life calculation (Extended).
 - Saying alpha is "most dangerous" without context: it is most ionising, but outside the body it is stopped by skin or air.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/igcse-physics-0625-nuclear-physics-revision-notes/), then try the [Core and Extended practice questions on nuclear physics](/resources/igcse-physics-0625-nuclear-physics-practice/) and the [Extended practice set](/resources/igcse-physics-nuclear-physics-extended-practice/). Find weak spots across the course with the [0625 Core diagnostic](/practice/0625/diagnostic/core/) or [0625 Extended diagnostic](/practice/0625/diagnostic/extended/). The previous topic is [Electricity and magnetism](/resources/igcse-physics-0625-electricity-and-magnetism/).
 

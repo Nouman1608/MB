@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Give the type of transformation and its details: a translation needs its vector,
 **Which part of the AQA 7357 specification covers transformations of graphs?**
 Content reference B9 of AQA A-level Mathematics 7357 covers transformations of the graph of y = f(x), including translations, stretches, reflections and their combinations.
 
-## Next steps
+## More on this topic
 
 - Review the [Transformations of Graphs revision notes](/resources/aqa-a-level-mathematics-transformations-of-graphs-revision-notes/).
 - Re-read the [study guide](/resources/aqa-a-level-mathematics-transformations-of-graphs/) for any question you got wrong.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Divide dy/dt by dx/dt. Dividing dx/dt by dy/dt instead is a common error.
 **Why must you eliminate a variable before differentiating a volume formula?**
 The volume must be written in terms of one variable before you differentiate. For a cylinder whose height equals its radius, write V = πr³ first, then use the chain rule to connect the rates.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-mathematics-techniques-of-differentiation-product-quotient-chain-revision-notes/) for the method boxes.
 - Reread the [study guide](/resources/ocr-a-level-mathematics-techniques-of-differentiation-product-quotient-chain/) for the full worked examples.

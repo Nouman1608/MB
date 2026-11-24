@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Check: n = 24 gives z = 1.633 and n = 25 gives z = 1.667, so **n = 25** [1]. **[
 - Concluding with "H₀ is true" or "the claim is proved", or omitting the context.
 - Not stating the normality assumption for t, or the approximation for z with s.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-a-level-mathematics-hypothesis-tests-for-means-z-tests-and-t-tests-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-mathematics-hypothesis-tests-for-means-z-tests-and-t-tests/).
 - Tick off the topic on the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/) and see the [course hub](/boards/oxfordaqa/a-level/mathematics/).

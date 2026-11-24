@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Use these bond enthalpies (kJ mol⁻¹) throughout:
 - Giving "heat loss" or "experimental error" as the reason for a difference from Hess's law.
 - Forgetting "gaseous" in the definition.
 
-## Next steps
+## More on this topic
 
 - [Bond enthalpies study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-4-4/)
 - [Bond enthalpies revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-4-4-revision-notes/)

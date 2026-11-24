@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -190,7 +190,7 @@ In Dijkstra's algorithm (sub-topic 3.11.1) the next vertex to be processed is al
 - Dequeuing from an empty queue.
 - Mixing up high priority with a high number, when the question defines a small number as the highest.
 
-## Next steps
+## More on this topic
 
 - [Priority queues revision notes](/resources/oxfordaqa-a-level-computer-science-9645-priority-queues-revision-notes/)
 - [Priority queues practice questions](/resources/oxfordaqa-a-level-computer-science-9645-priority-queues-practice/)

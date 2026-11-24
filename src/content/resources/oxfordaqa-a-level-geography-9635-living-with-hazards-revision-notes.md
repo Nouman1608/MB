@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -246,7 +246,7 @@ rehabilitation and reconstruction. 10. Their supply of heat and moisture from wa
 and friction increases. 11. For example dry fuel after drought and strong winds. 12. Spreading the
 cost of losses, for example through insurance.
 
-## Related resources
+## More resources on this topic
 
 - [Physical Geography 1 study guide](/resources/a-level-oxfordaqa-geography-physical-geography-1/)
 - [Physical Geography 1 revision notes (whole unit)](/resources/oxfordaqa-a-level-geography-physical-revision-notes/)

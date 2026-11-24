@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ Revise first with the [study guide](/resources/ocr-gcse-mathematics-angle-facts-
 - Writing "no symmetry" when the shape has rotation symmetry of order 2, as a parallelogram does.
 - Ending a proof without stating what has been proved, or using measured values.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral/).
 - Go to the [course hub](/boards/ocr/gcse/mathematics/) and tick topics on the [checklist](/checklists/ocr/gcse/mathematics/).

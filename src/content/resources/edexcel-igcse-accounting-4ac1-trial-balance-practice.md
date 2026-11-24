@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,7 +180,7 @@ Heading with "at" and the date [1]. Non-current assets debit and provision credi
 - Correcting a wrongly placed balance by moving it once instead of adjusting both columns.
 - Saying an agreed trial balance proves the books are correct.
 
-## Next steps
+## More on this topic
 
 - Revisit the [trial balance study guide](/resources/edexcel-igcse-accounting-4ac1-trial-balance/).
 - Learn to correct the errors in the [correction of errors study guide](/resources/edexcel-igcse-accounting-4ac1-correction-of-errors/).

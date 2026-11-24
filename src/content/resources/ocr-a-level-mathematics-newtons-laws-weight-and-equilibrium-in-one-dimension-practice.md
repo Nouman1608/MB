@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ No. A third-law pair acts on two different bodies and the forces are of the same
 **What value of g should you use in OCR A Level Mathematics mechanics?**
 Use the value given in the question, normally g = 9.8 m s⁻². Rounding g to 10, or rounding early, changes the final digits of the answer.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-mathematics-newtons-laws-weight-and-equilibrium-in-one-dimension-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-newtons-laws-weight-and-equilibrium-in-one-dimension/).
 - Course hub: [OCR A Level Mathematics](/boards/ocr/a-level/mathematics/) and the printable [checklist](/checklists/ocr/a-level/mathematics/).

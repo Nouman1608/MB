@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -234,7 +234,7 @@ the marks, because a single array cannot hold the mixed data types for each anim
 - **Trace** code: write the array out as a table and mark the element each pass uses.
 - **Justify** a choice: refer to the data (same type or mixed types; list or table).
 
-## Next steps
+## More on this topic
 
 For quick recall and a self-test, use the [data structures revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-data-structures-revision-notes/), then apply this in the

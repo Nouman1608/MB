@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -133,7 +133,7 @@ Evaluate which policy the government should choose. **[8]**
 - Mixing up the exchange rate falling with exports becoming dearer.
 - Evaluating without using the data in the question.
 
-## Next steps
+## More on this topic
 
 - Check recall with the [revision notes](/resources/oxfordaqa-igcse-economics-fiscal-and-monetary-policy-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-economics-fiscal-and-monetary-policy/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ Some questions then ask you to amend the claim. The statement in (b) becomes tru
 - **"Hence"** means use the result just proved. If part (a) shows n² + 3n + 1 is odd, a part (b) about n² + 3n + 2 can follow in one line: it is one more than an odd number, so it is even.
 - Proof questions in this unit are often worth only a few marks, so an answer of six or seven lines is usual. Write sentences between the algebra; the words carry the logic.
 
-## Related resources
+## More resources on this topic
 
 - [P2 proof revision notes](/resources/edexcel-a-level-mathematics-yma01-p2-proof-revision-notes/)
 - [P2 proof practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-proof-practice/)

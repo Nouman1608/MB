@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ CO(g) + 2H₂(g) ⇌ CH₃OH(g)        ΔH = −91 kJ mol⁻¹
 - **Explain why a compromise pressure is used**: higher pressure increases yield (and rate), but expense of equipment and energy, and safety, limit it.
 - **Describe what you would see**: name the colour change and link it to the species whose concentration changes.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.7.1 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-7-1-revision-notes/) and practise with the [3.1.7.1 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-7-1-practice/). Then move on to the quantitative side in the [Kc guide (3.1.7.2)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-7-2/).
 

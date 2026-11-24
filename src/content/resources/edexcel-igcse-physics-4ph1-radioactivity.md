@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -243,7 +243,7 @@ their distance and using shielding.
 - **Explain** (choice of source): give the radiation type **and** a reason based on penetration or half-life.
 - **Describe** (contamination versus irradiation): define both and give the key difference, whether the material is transferred.
 
-## Related resources
+## More resources on this topic
 
 - [Radioactivity revision notes](/resources/edexcel-igcse-physics-4ph1-radioactivity-revision-notes/) with a self-test
 - [Radioactivity practice questions](/resources/edexcel-igcse-physics-4ph1-radioactivity-practice/), structured and with full answers

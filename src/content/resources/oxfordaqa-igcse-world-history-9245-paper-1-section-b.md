@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -210,7 +210,7 @@ Balkans became a world war in 1914." How far do you agree?
 Section B is 30 marks, so allow about 50 minutes of the 1 hour 45 minute paper, with roughly 18
 minutes for the 12-mark question. Plan the 12-mark answer before writing.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1 Section B revision notes](/resources/oxfordaqa-igcse-world-history-9245-paper-1-section-b-revision-notes/)
 - [Paper 1 Section B practice questions](/resources/oxfordaqa-igcse-world-history-9245-paper-1-section-b-practice/)

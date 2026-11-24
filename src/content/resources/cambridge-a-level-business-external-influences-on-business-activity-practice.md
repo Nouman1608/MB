@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -141,7 +141,7 @@ These questions cover section 6.1 External influences on business activity (6.1.
 - Treating CSR or sustainability as costless.
 - Ending evaluation without a judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-business-external-influences-on-business-activity-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-external-influences-on-business-activity/).
 - Check coverage on the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/) and the [checklist](/checklists/cambridge/a-level/business/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ S⦵ values: Ba(OH)₂·8H₂O(s) 427.0; NH₄Cl(s) 94.6; BaCl₂(s) 123.7; NH�
 - Giving a sign for ΔSsystem with no reason.
 - Explaining kinetic stability with entropy instead of activation energy.
 
-## Next steps
+## More on this topic
 
 - Recap with the [entropy revision notes](/resources/edexcel-ial-chemistry-entropy-revision-notes/).
 - Reread the worked examples in the [entropy study guide](/resources/edexcel-ial-chemistry-entropy/).

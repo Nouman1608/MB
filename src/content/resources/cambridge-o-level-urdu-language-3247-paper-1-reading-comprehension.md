@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu passage, question and model answer on this page is correct and natural."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu passage, question and model answer on this page is correct and natural. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -200,7 +200,7 @@ from the text. Saying only "the writer is positive" with no evidence would earn 
   <figcaption>Questions first, then the passage, then one point per mark.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Part 1 Reading Comprehension: revision notes](/resources/cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension-revision-notes/) –
   the objectives, key terms and traps in condensed form, with a self-test

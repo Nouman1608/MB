@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -179,7 +179,7 @@ Cambridge International A Level Psychology 9990 syllabus for 2024,
 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1: Approaches, Issues and Debates](/resources/a-level-psychology-approaches-issues-and-debates/)
   — the AS Level core that every specialist option builds on

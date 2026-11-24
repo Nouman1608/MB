@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -201,7 +201,7 @@ Mass number is the whole-number total of protons and neutrons in one specific is
 **How do you work out the number of electrons in an ion?**
 Start from the atomic (proton) number, then adjust for the charge. A positive ion has fewer electrons than protons, and a negative ion has more.
 
-## Related resources
+## More resources on this topic
 
 [Atomic Structure and Mass Spectrometry revision notes](/resources/edexcel-a-level-chemistry-atomic-structure-revision-notes/) |
 [Atomic Structure and Mass Spectrometry practice questions](/resources/edexcel-a-level-chemistry-atomic-structure-practice/)

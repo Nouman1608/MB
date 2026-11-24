@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Rate per unit area = 1.26 / 45 = 0.028 cm^3 per cm^2 per hour
 - Forgetting that a potometer measures uptake, not loss.
 - Comparing shoots of different sizes without dividing by leaf area.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [plant organ system revision notes](/resources/aqa-gcse-biology-8461-plant-organ-system-revision-notes/)
 - Exam-style questions: [plant organ system practice questions](/resources/aqa-gcse-biology-8461-plant-organ-system-practice/)

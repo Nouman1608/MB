@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -169,7 +169,7 @@ D: displacement of a charge
 - Getting the direction of energy change wrong for a negative charge moving to higher potential.
 - Not saying whether a graph estimate is an overestimate or an underestimate, and why.
 
-## Next steps
+## More on this topic
 
 - Revisit the explanations in the [electric potential study guide](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa/).
 - Go on to the [capacitors practice questions](/resources/oxfordaqa-a-level-physics-9630-capacitors-practice/).

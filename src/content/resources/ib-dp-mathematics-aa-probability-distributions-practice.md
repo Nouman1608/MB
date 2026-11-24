@@ -45,7 +45,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -196,7 +196,7 @@ f(x) = 0,              otherwise
 - (HL) Integrating only one piece of a piecewise pdf, or searching for the median in the wrong piece.
 - (HL) Adding b to the variance under a linear transformation.
 
-## Next steps
+## More on this topic
 
 - Recap the key facts in the [probability and distributions revision notes](/resources/ib-dp-mathematics-aa-probability-distributions-revision-notes/).
 - Re-learn any weak topic in the [probability and distributions study guide](/resources/ib-dp-mathematics-aa-probability-distributions/).

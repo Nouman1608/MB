@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Chemical equilibria, Le Chatelier's principle and Kc**,
@@ -219,7 +219,7 @@ A lower temperature would give a higher equilibrium yield, but the rate would be
 **When does Kc have no units?**
 Kc has no units only when the total moles of gas (or dissolved species) are equal on both sides of the equation, so the concentration units cancel. Otherwise, work the units out from the overall power difference in the expression.
 
-## Related resources
+## More resources on this topic
 
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle (Cambridge AS & A Level)](/resources/as-chemical-equilibria/) — the equivalent AS-level topic from a different awarding body
 - [Quantitative Chemistry (OxfordAQA IGCSE)](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/) — the GCSE-level mole calculations this page builds on

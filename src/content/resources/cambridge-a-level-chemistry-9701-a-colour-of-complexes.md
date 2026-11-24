@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -195,7 +195,7 @@ equilibrium [Co(H₂O)₆]²⁺ + 4Cl⁻ ⇌ [CoCl₄]²⁻ + 6H₂O shifts to t
   on ΔE and on the frequency absorbed.
 - **Calculate**: show f = c/λ and ΔE = hf as separate lines, with units on every line.
 
-## Related resources
+## More resources on this topic
 
 - [Colour of complexes revision notes](/resources/cambridge-a-level-chemistry-9701-a-colour-of-complexes-revision-notes/)
 - [Colour of complexes practice questions](/resources/cambridge-a-level-chemistry-9701-a-colour-of-complexes-practice/)

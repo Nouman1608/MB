@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -151,6 +151,6 @@ These notes condense sub-topic 4(e) Alcohols (points 4.29C to 4.33C) of the Pear
 9. Moles of glucose = 36 / 180 = 0.20 mol; moles of ethanol = 0.40 mol; mass = 0.40 x 46 = **18.4 g**.
 10. 14.72 / 18.4 x 100 = **80%**.
 
-## Next steps
+## More on this topic
 
 Work through the [alcohols study guide](/resources/edexcel-igcse-chemistry-4ch1-alcohols/) for the worked examples, then try the [alcohols practice questions](/resources/edexcel-igcse-chemistry-4ch1-alcohols-practice/). Continue with the [carboxylic acids study guide](/resources/edexcel-igcse-chemistry-4ch1-carboxylic-acids/).

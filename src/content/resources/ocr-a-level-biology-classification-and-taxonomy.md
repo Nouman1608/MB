@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 4.2.2(a) to (d) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in Module 4, Biodiversity, evolution and disease. It teaches the taxonomic hierarchy, the binomial system, the five kingdoms, the three domains, the evidence behind new classification systems, and the link between classification and phylogeny. The rest of 4.2.2, from (e) onwards (evolution, variation, adaptation and natural selection), is outside this unit.
@@ -228,7 +228,7 @@ Evidence for relationships includes fossils and similarities in anatomy, but mol
 - Claiming the five-kingdom system was based on DNA. It was based on observable features; molecular evidence led to the domains.
 - Stating that more similar sequences mean more similar appearance. Similar sequences show a more recent common ancestor.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-a-level-biology-classification-and-taxonomy-practice/), then use the [revision notes](/resources/ocr-a-level-biology-classification-and-taxonomy-revision-notes/) for quick recall. Related content on sampling and species diversity is in [Measuring biodiversity](/resources/ocr-a-level-biology-measuring-biodiversity/).
 

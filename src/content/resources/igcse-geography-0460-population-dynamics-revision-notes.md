@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -204,7 +204,7 @@ water shortages. 10. Concern about an ageing population and shrinking workforce.
 contains more elderly people, so deaths per 1000 rise. 12. For example it ignores migration or
 assumes every country follows Europe's path.
 
-## Related resources
+## More resources on this topic
 
 - [Population and Settlement study guide](/resources/igcse-geography-population-and-settlement/)
 - [Population and Settlement revision notes (whole theme)](/resources/igcse-geography-population-settlement-revision-notes/)

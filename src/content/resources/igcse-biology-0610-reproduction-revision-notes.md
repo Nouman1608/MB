@@ -38,7 +38,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense topic 16 (Reproduction) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, sections 16.1 to 16.6. Core content is tested on Papers 1 and 3 and is needed by everyone; content marked "Extended only" is Supplement, tested on Papers 2 and 4. Section 16.6 has no Supplement content. For full explanations and worked examples, use the [Reproduction study guide](/resources/igcse-biology-0610-reproduction/).
@@ -251,7 +251,7 @@ Questions often give a graph of lining thickness against days. Read the day numb
 - Writing that progesterone "causes" menstruation. It is the **fall** in progesterone that leads to the lining breaking down.
 - Stating a control method for STIs without explaining how it reduces spread.
 
-## Next steps
+## More on this topic
 
 Try the [Reproduction practice questions](/resources/igcse-biology-reproduction-practice/), revisit the [study guide](/resources/igcse-biology-0610-reproduction/) for any gaps, and look back at topic 15 with the [Drugs revision notes](/resources/igcse-biology-0610-drugs-revision-notes/).
 

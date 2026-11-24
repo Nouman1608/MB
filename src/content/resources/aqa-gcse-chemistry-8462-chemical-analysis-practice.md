@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ State the colour of the precipitate, because the colour identifies the ion. Writ
 **How do you use melting point data to show a substance is impure?**
 Give two separate pieces of evidence, such as melting below the known value and over a range of temperatures, and quote the numbers. A pure substance melts sharply at its known value.
 
-## Next steps
+## More on this topic
 
 - [Chemical analysis revision notes](/resources/aqa-gcse-chemistry-8462-chemical-analysis-revision-notes/)
 - [Chemical analysis study guide](/resources/aqa-gcse-chemistry-8462-chemical-analysis/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Study the methods first in the [section 1.7 study guide](/resources/ib-dp-mathem
 - In (b)-type context questions, the inequality solved but the answer not rounded up to the next whole month.
 - Combining logs with coefficients still in front: 3 ln x + ln 2 is ln(2x³), not ln(6x).
 
-## Next steps
+## More on this topic
 
 - Review the laws in the [section 1.7 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-1-7-revision-notes/).
 - If integer exponents still cause errors, go back to the [section 1.5 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-5-practice/).

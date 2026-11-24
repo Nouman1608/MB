@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -146,7 +146,7 @@ These questions cover section 3.4.3.3 Policies to promote development in the Oxf
 - Describing the IMF and World Bank as the same body.
 - Concluding with no judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-economics-policies-to-promote-development-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-policies-to-promote-development/).
 - Visit the [course hub](/boards/oxfordaqa/a-level/economics/) and tick off the [checklist](/checklists/oxfordaqa/a-level/economics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers 1.04a to 1.04d, the binomial expansion, together with the way the specification asks you to combine it with partial fractions (1.02y). Positive integer powers and the link to binomial probabilities (1.04a and 1.04b) sit in Stage 1, which is common with AS. Rational powers and validity (1.04c and 1.04d) are **A Level only**. Each of the specification's three components assesses Pure Mathematics content.
@@ -278,7 +278,7 @@ Expand the second bracket only as far as you need, then add the products of pair
 **Is the binomial expansion valid for |x| < 1 in every question?**
 No. For (a + bx)ⁿ with a rational power, divide by the coefficient of x: the expansion is valid for |x| < |a/b|.
 
-## Next steps
+## More on this topic
 
 Condense with the [revision notes](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational-revision-notes/), then try the [practice set](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational-practice/). Tick off 1.04a to 1.04d on the [checklist](/checklists/ocr/a-level/mathematics/).
 

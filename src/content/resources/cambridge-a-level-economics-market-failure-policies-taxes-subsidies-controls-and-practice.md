@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ These questions cover the first part of section 8.1.1 of the Cambridge Internati
 - Mixing up the price buyers pay and the price sellers keep.
 - Using the demand quantity when a price control binds, instead of the lower quantity traded.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and/).
 - Use the [course hub](/boards/cambridge/a-level/economics/) and [checklist](/checklists/cambridge/a-level/economics/).

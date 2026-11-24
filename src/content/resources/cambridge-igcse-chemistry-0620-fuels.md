@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ The method is the point: decide where each fraction sits from its boiling range,
 - **Explain:** add the reason, usually chain length and intermolecular forces.
 - **Suggest:** apply the trends to unfamiliar data, such as a fraction described only by its boiling range.
 
-## Related resources
+## More resources on this topic
 
 - [Fuels revision notes](/resources/cambridge-igcse-chemistry-0620-fuels-revision-notes/) – condensed recall and a self-test
 - [Fuels practice questions](/resources/cambridge-igcse-chemistry-0620-fuels-practice/) – original exam-style questions with full answers

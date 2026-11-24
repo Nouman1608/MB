@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -223,7 +223,7 @@ With tables and graphs, quote figures, calculate changes and describe trends bef
 - Calling any migrant a "refugee". Use the exact term.
 - Giving only negative impacts of migration, or only positive ones, in a "to what extent" answer.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements-revision-notes/) and [practice questions](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements-practice/). For the criteria and tasks, read the [MYP Individuals and Societies subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/), [the four criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/) and [the disciplines in MYP Individuals and Societies](/resources/ib-myp-individuals-societies-disciplines/). Related unit: [settlement and urban morphology](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology/).
 

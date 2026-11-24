@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Mr of Na₂SO₄ = (2 × 23) + 32 + (4 × 16) = 142.
 - **Calculate**: write the atom counts and the multiplications, not just the answer. A method mark is often available.
 - Use the Ar values printed on the Periodic Table provided in the exam, or those given in the question.
 
-## Next steps
+## More on this topic
 
 - Practise the method with the [relative masses of atoms and molecules revision notes](/resources/cambridge-o-level-chemistry-5070-relative-masses-of-atoms-and-molecules-revision-notes/).
 - Test yourself with the [relative masses of atoms and molecules practice questions](/resources/cambridge-o-level-chemistry-5070-relative-masses-of-atoms-and-molecules-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ A shortage or surplus is a quantity gap: the difference between quantity demande
 **Which calculations in sub-topic 2.7 are HL only?**
 Calculating shortages, surpluses, tax revenue, subsidy costs and changes in spending or revenue from data is HL only. At SL, students show the same effects on the diagram.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ib-dp-economics-role-of-government-in-microeconomics/) wherever you lost marks.
 - Run a final recall check with the [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ Judgement: replacement makes sense where wages are high and output is large and 
 - Forgetting that higher productivity can reduce the number of workers needed.
 - Listing advantages of robots without linking them to the scale of car output.
 
-## Next steps
+## More on this topic
 
 - Recap the formulae in the [firms' production revision notes](/resources/cambridge-igcse-economics-0455-firms-production-revision-notes/).
 - Reread the switch-point example in the [firms' production study guide](/resources/cambridge-igcse-economics-0455-firms-production/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ How to use the set: attempt each question on paper before you read the answer. M
 - Forgetting to say whether a percentage change is an increase or a decrease.
 - Not setting out interest per year first in simple interest questions.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and-revision-notes/) and then the [study guide](/resources/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and/).
 - Check the unit against the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and tick it off on the [checklist](/checklists/ocr/gcse/mathematics/).

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -178,7 +178,7 @@ A good hypothesis gives a prediction and a reason based on physics, such as Newt
 **What does a Criterion D answer on forces need besides calculations?**
 It needs an evaluation: weigh the benefits and drawbacks of the option or technology and reach a judgement. Calculations alone, with no evaluation, limit the credit.
 
-## Next steps
+## More on this topic
 
 - [Forces revision notes](/resources/ib-myp-sciences-forces-revision-notes/)
 - [Forces study guide](/resources/ib-myp-sciences-forces/)

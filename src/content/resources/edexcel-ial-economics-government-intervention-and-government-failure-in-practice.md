@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Consumers pay the new market price, while producers receive that price minus the
 **How do you apply a cause of government failure?**
 Show how the cause, such as an information gap or unintended consequences, leads to a net welfare loss in the case given. Naming a cause without applying it earns little credit.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-government-intervention-and-government-failure-in-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-government-intervention-and-government-failure-in/).
 - Check your coverage on the [printable checklist](/checklists/edexcel/a-level/economics/) and the [Edexcel economics hub](/boards/edexcel/a-level/economics/).

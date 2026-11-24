@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ so use both. The course hub is [AQA GCSE Biology](/boards/aqa/gcse/biology/), an
 - Naming an adaptation of an exchange surface with no link to the rate of diffusion.
 - In required practical questions, naming "amount of solution" or "time" without saying it should be kept the same.
 
-## Next steps
+## More on this topic
 
 - [Transport in cells revision notes](/resources/aqa-gcse-biology-8461-transport-in-cells-revision-notes/)
 - [Transport in cells study guide](/resources/aqa-gcse-biology-8461-transport-in-cells/)

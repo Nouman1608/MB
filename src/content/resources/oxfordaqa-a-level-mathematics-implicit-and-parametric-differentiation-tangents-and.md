@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the second part of content area P2.6: differentiating curves defined implicitly or parametrically, and finding the equations of their tangents and normals. The specification places this content in International A-level (A2) Unit P2 (Pure Maths). It is not examined at International AS. Second derivatives of implicit or parametric curves are not required.
 
@@ -244,7 +244,7 @@ If you can eliminate the parameter, check your result with the Cartesian form, b
 - Leaving a general-point equation as a fraction with p in the denominator. Multiply through to tidy it.
 - Dividing by sin φ or p without noting that it must not be zero.
 
-## Next steps
+## More on this topic
 
 Condense these methods with the [revision notes](/resources/oxfordaqa-a-level-mathematics-implicit-and-parametric-differentiation-tangents-and-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-mathematics-implicit-and-parametric-differentiation-tangents-and-practice/). Use the [free diagnostics](/diagnostics/) to find any gaps and the [checklist](/checklists/oxfordaqa/a-level/mathematics/) to track progress.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These are condensed notes for **sub-topic A.5, Galilean and special relativity**, from the IB *Physics guide*, first assessment 2025. All of A.5 is additional higher level content, so everything below is **HL only**. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz/), then test yourself with the [practice questions](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-practice/).
@@ -199,7 +199,7 @@ S′ moves at v along +x relative to S, origins together at t = 0.
 - Drawing ct′ and x′ at different angles from the light line.
 - Giving γ or speeds to too few or too many significant figures; keep working values and round at the end.
 
-## Next steps
+## More on this topic
 
 Use the [practice questions](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-practice/) next, and return to the [study guide](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz/) for any weak area. Check the [free diagnostics](/diagnostics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).
 

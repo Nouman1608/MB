@@ -27,7 +27,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -283,7 +283,7 @@ No. In a liquid or gas at rest, the pressure at a given point acts equally in al
 **Must temperatures be in kelvin for the gas laws?**
 Yes. Both p₁/T₁ = p₂/T₂ and the related gas calculations need Kelvin temperature, so convert using T(K) = T(°C) + 273 first.
 
-## Related resources
+## More resources on this topic
 
 - [Energy Resources and Energy Transfers](/resources/edexcel-igcse-physics-energy-resources-and-energy-transfers/) — the previous topic
 - [Magnetism and Electromagnetism](/resources/edexcel-igcse-physics-magnetism-and-electromagnetism/) — the next topic

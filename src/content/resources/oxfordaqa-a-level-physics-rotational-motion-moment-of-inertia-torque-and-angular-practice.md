@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ These questions cover section 3.13.1 (Rotational motion) of OxfordAQA Internatio
 - In drum and pulley problems, taking the string tension to be mg.
 - Rounding early, then failing to reproduce a "show that" value.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-physics-rotational-motion-moment-of-inertia-torque-and-angular-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-a-level-physics-rotational-motion-moment-of-inertia-torque-and-angular/).

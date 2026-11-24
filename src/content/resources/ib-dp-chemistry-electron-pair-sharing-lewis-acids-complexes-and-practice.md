@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Where a question asks you to describe a mechanism in words, say where each curly
 - Picking the alcohol from the less stable carbocation.
 - Drawing a full circle in the benzene intermediate.
 
-## Next steps
+## More on this topic
 
 - [Electron-pair sharing revision notes](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-revision-notes/)
 - [Electron-pair sharing study guide](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and/)

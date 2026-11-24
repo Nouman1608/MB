@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -198,7 +198,7 @@ y is directly proportional to a power of x. Find a formula for y in terms of x. 
 - (Higher tier only) Forgetting to square or square-root at the right step.
 - (Higher tier only) Describing a scaling effect with the wrong power.
 
-## Next steps
+## More on this topic
 
 - Recap with the [5.02 revision notes](/resources/ocr-gcse-mathematics-j560-direct-and-inverse-proportion-revision-notes/).
 - Re-read the table test and scaling examples in the [5.02 study guide](/resources/ocr-gcse-mathematics-j560-direct-and-inverse-proportion/).

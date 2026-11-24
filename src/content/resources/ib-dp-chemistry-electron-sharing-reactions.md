@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Here you will learn **Reactivity 3.3, Electron sharing reactions**, checked line by line against the *Chemistry guide* for the IB Diploma Programme (February 2023 edition, first assessment 2025). Nothing in the sub-topic is skipped: all of **Reactivity 3.3.1 to 3.3.3** is here. All three are for **SL and HL**, and there is no AHL extension to this sub-topic.
@@ -221,7 +221,7 @@ The guide says substitution produces a **mixture of products**. There are three 
 - Saying alkanes are unreactive because they are "saturated" without mentioning strong C–C and C–H bonds and low polarity.
 - Giving "light" as the condition without saying ultraviolet, or leaving out heat as the alternative.
 
-## Next steps
+## More on this topic
 
 - Condensed version: [Reactivity 3.3 revision notes](/resources/ib-dp-chemistry-electron-sharing-reactions-revision-notes/)
 - Test yourself: [Reactivity 3.3 practice questions](/resources/ib-dp-chemistry-electron-sharing-reactions-practice/)

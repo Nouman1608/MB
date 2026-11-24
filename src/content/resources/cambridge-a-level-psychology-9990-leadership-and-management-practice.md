@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -139,6 +139,6 @@ Related: [Leadership and management study guide](/resources/cambridge-a-level-ps
 - In question 3, mixing up private and personal leadership.
 - In question 7(a), giving the dependent variable instead of an independent one.
 
-## Next steps
+## More on this topic
 
 Review weak areas in the [leadership and management study guide](/resources/cambridge-a-level-psychology-9990-leadership-and-management/), then try the mixed [Organisational Psychology practice questions](/resources/a-level-psychology-organisational-psychology-practice/).

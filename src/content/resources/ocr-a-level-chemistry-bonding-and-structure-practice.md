@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Explain the trend in boiling point from HCl to HI, and why HF has the highest bo
 - Writing that iodine's I–I bonds break on melting.
 - Rounding intermediate values in density calculations.
 
-## Next steps
+## More on this topic
 
 - [Revision notes and quick self-test](/resources/ocr-a-level-chemistry-bonding-and-structure-revision-notes/)
 - [All free 10-minute diagnostics](/diagnostics/)

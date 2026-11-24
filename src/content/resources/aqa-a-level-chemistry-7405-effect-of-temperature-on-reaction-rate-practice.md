@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -112,7 +112,7 @@ These questions cover section **3.1.5.3 Effect of temperature on reaction rate**
 - Writing that rate is proportional to time, instead of 1 ÷ time.
 - Not controlling the concentration and volume.
 
-## Next steps
+## More on this topic
 
 - [Effect of temperature revision notes](/resources/aqa-a-level-chemistry-7405-effect-of-temperature-on-reaction-rate-revision-notes/)
 - [Effect of concentration and pressure study guide](/resources/aqa-a-level-chemistry-7405-effect-of-concentration-and-pressure/)

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -122,7 +122,7 @@ These questions follow the OxfordAQA International AS and A-level Economics (964
 - Giving a list of limitations with no link to the data in the question.
 - Skipping the final judgement in an evaluation.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply/).
 - Course pages: [hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/).

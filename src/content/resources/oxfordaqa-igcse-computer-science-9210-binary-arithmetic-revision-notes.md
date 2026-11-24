@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -153,7 +153,7 @@ Convert both numbers and the answer to decimal. For 0100 1101 + 0101 0101, 77 + 
 9. The leading 1 is shifted out of the left end and lost, so the result is 1000 0000 (128), not 384, which does not fit in 8 bits.
 10. For example, a quick way to multiply or divide by a power of 2.
 
-## Related resources
+## More resources on this topic
 
 - [Binary arithmetic study guide](/resources/oxfordaqa-igcse-computer-science-9210-binary-arithmetic/)
 - [Binary arithmetic practice questions](/resources/oxfordaqa-igcse-computer-science-9210-binary-arithmetic-practice/)

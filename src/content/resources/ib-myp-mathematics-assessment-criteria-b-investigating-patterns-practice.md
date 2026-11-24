@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ Enough to connect each part of the rule to the structure of the situation. For t
 **Why do some questions include a case where the rule fails?**
 A counter-example shows the limits of a rule. Explaining why it fails, such as a diagonal passing through a grid corner, strengthens an investigation and shows the domain of the rule.
 
-## Next steps
+## More on this topic
 
 - Review the investigations in the [Criterion B study guide](/resources/ib-myp-mathematics-assessment-criteria-b-investigating-patterns/).
 - Practise writing up your findings with the [Criterion C practice questions](/resources/ib-myp-mathematics-assessment-criteria-c-communicating-practice/).

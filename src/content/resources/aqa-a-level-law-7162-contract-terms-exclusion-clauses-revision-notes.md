@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,7 +178,7 @@ farmers' loss far exceeded the price, and the sellers had settled such claims in
 cannot exclude liability under s49, and a term restricting liability under s49 or s52 does not bind the
 consumer if it would prevent recovery of the price paid.
 
-## Related resources
+## More resources on this topic
 
 [Exclusion clauses study guide](/resources/aqa-a-level-law-7162-contract-terms-exclusion-clauses/) |
 [Exclusion clauses practice questions](/resources/aqa-a-level-law-7162-contract-terms-exclusion-clauses-practice/) |

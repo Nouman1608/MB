@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -209,7 +209,7 @@ Opening accrual on the credit side [1]; bank payments on the debit side [1]; clo
 - Classing a prepayment as a payable, or an accrual as a receivable.
 - Reversing the opening accrual or prepayment in the wrong direction.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-igcse-accounting-end-of-period-adjustments-revision-notes/) and the [study guide](/resources/edexcel-igcse-accounting-end-of-period-adjustments/).
 - Check the [course hub](/boards/edexcel/igcse/accounting/) and the [printable checklist](/checklists/edexcel/igcse/accounting/).

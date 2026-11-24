@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -122,7 +122,7 @@ Learn the content first from the [study guide](/resources/oxfordaqa-a-level-math
 - Leaving out a way of reaching a power when expanding a product of brackets.
 - Giving only one limit when L = f(L) has two roots and the question does not choose between them.
 
-## Next steps
+## More on this topic
 
 - Review the formulae in the [revision notes](/resources/oxfordaqa-a-level-mathematics-sequences-arithmetic-and-geometric-series-and-binomial-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/oxfordaqa-a-level-mathematics-sequences-arithmetic-and-geometric-series-and-binomial/).

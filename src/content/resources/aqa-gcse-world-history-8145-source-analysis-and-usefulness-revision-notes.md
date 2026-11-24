@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -158,6 +158,6 @@ An unreliable source can be **very useful**. A Nazi poster attacking the Treaty 
 11. It gives a frank, personal reaction, not written for publication.
 12. The issue the historian is studying, named in the question.
 
-## Next steps
+## More on this topic
 
 Practise on invented sources for each depth study in the [source analysis and usefulness practice questions](/resources/aqa-gcse-world-history-8145-source-analysis-and-usefulness-practice/).

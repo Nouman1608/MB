@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -113,7 +113,7 @@ The diagram is a model. It uses annual means, so it hides the number of freeze-t
 - **Describe** a Peltier diagram: name the axes, the zones and where given places lie.
 - **Assess** the importance of climate: compare it with rock type, structure, vegetation and relief, and reach a judgement.
 
-## Related resources
+## More resources on this topic
 
 - [3.2 Weathering revision notes](/resources/a-level-geography-9696-weathering-revision-notes/)
 - [3.2 Weathering practice questions](/resources/cambridge-a-level-geography-9696-weathering-practice/)

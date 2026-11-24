@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Add the marginal benefits across users for each quantity, because everyone consu
 **What should an answer about missing property rights explain?**
 Link the absence of property rights to the misallocation, for example how no one is charged for using or damaging an unowned resource, rather than just stating they are missing.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-public-goods-and-externalities-revision-notes/) or the [study guide](/resources/aqa-a-level-economics-public-goods-and-externalities/).
 - Go to the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

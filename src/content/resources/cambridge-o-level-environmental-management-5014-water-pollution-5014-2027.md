@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ A good description quotes figures: oxygen falls from 9.0 to 3.5 mg per litre jus
 
 **Describe** sources by naming the activity and the pollutant. **Describe and explain** impacts by giving the effect and then the reason, linked with "because" or "so". For sequence processes such as eutrophication, numbered steps keep the chain in order. In data questions, quote at least two figures with units and work out a difference. Where a question gives a place, refer to it, for example "the factory upstream of the village".
 
-## Next steps
+## More on this topic
 
 - Quick recall and a self-test: [water pollution revision notes](/resources/cambridge-o-level-environmental-management-5014-water-pollution-5014-2027-revision-notes/).
 - Exam-style questions with full answers: [water pollution practice questions](/resources/cambridge-o-level-environmental-management-5014-water-pollution-5014-2027-practice/).

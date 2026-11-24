@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ The specification says specific names of bacteria are **not required**. Use the 
 
 **Answers:** (1) Photosynthesis. (2) Any three of: respiration, decomposition, combustion. (3) Nitrifying bacteria. (4) In the root nodules. (5) They cannot convert nitrogen gas into nitrates or amino acids. They absorb nitrate ions through their roots.
 
-## Next steps
+## More on this topic
 
 Practise with the [cycles within ecosystems practice questions](/resources/edexcel-igcse-biology-4bi1-cycles-within-ecosystems-practice/) and revise with the [revision notes](/resources/edexcel-igcse-biology-4bi1-cycles-within-ecosystems-revision-notes/). The next sub-topic is [human influences on the environment](/resources/edexcel-igcse-biology-4bi1-human-influences-on-the-environment/).
 

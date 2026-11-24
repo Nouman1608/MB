@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ combined:     ω² = g / (L cos θ)     (mass cancels)
 
 **Answers:** 1. It has no component along the velocity, so it does no work and the kinetic energy is unchanged. 2. Constant magnitude. 3. Towards the centre of the circle. 4. 900 ÷ 60 = 15 rev s⁻¹; ω = 2π × 15 = 94 rad s⁻¹. 5. Same ω, a ∝ r: 3 : 1. 6. a = v²/r, so it doubles. 7. a = v²/r, so it increases by a factor of 9. 8. F = mv²/r = 2.0 × 9.0 ÷ 1.5 = 12 N. 9. The normal contact force from the wall. 10. The vertical component, T cos θ. 11. ω = 2π ÷ 2.0 = 3.14 rad s⁻¹; a = rω² = 0.50 × 9.87 = 4.9 m s⁻². 12. It moves in a straight line along the tangent at the point where the string broke (and falls under gravity).
 
-## Related resources
+## More resources on this topic
 
 - [Circular Motion revision notes](/resources/a-physics-circular-motion-revision-notes/) — the whole of Topic 12
 - [Centripetal acceleration practice questions](/resources/cambridge-a-level-physics-9702-a-centripetal-acceleration-practice/)

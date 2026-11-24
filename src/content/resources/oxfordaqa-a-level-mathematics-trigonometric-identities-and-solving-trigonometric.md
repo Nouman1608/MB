@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is written for the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the second part of content area PP1.2 (Trigonometry): the tangent identity, the Pythagorean identity sin²θ + cos²θ = 1, and the solution of simple trigonometric equations in a given interval in degrees or radians. The specification places this content in International AS, Unit PSM1 (section 3.2, PP1), and it carries no further tier label. Other pages cover the sine and cosine rules, radians with arcs and sectors, and the trigonometric graphs, so they are not repeated here.
@@ -271,7 +271,7 @@ Solutions: **θ = 0°, 70.5°, 180°, 289.5°, 360°**. Do not cancel sin θ fro
 - Rounding too early. Keep the full unrounded value until the last step, especially after adding a shift.
 - Working in degrees when the interval is in radians, or the other way round.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric-practice/) without looking at the answers. For a first look at your level, use the [free 10-minute diagnostics](/diagnostics/).
 

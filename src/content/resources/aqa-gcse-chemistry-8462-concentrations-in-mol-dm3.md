@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -225,7 +225,7 @@ accurate volumes.
 - **Check by estimating:** a 1 : 1 reaction with equal volumes means equal concentrations.
 - **Significant figures:** give the answer to the same number of significant figures as the data.
 
-## Next steps
+## More on this topic
 
 - [Concentrations in mol/dm3 revision notes](/resources/aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-revision-notes/)
 - [Concentrations in mol/dm3 practice questions](/resources/aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-practice/)

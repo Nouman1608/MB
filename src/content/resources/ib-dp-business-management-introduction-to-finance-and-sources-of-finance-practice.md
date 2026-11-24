@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -137,7 +137,7 @@ Recommendation: the loan, because it costs less over the period and ownership st
 - Weighing only one source in an evaluation, or leaving out a conclusion.
 - Recommending without using the numbers given.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-business-management-introduction-to-finance-and-sources-of-finance-revision-notes/) for any source you misjudged.
 - Go back to the [study guide](/resources/ib-dp-business-management-introduction-to-finance-and-sources-of-finance/).

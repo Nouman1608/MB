@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -220,7 +220,7 @@ For explanations, read the [coordination and response study guide](/resources/ig
 - Comparing nervous and hormonal control on anything other than speed of action and duration of effect.
 - Confusing glucagon with glycogen.
 
-## Next steps
+## More on this topic
 
 - Practise nerves, reflexes and the eye with the [14.1 and 14.2 practice questions](/resources/igcse-biology-coordination-response-practice/).
 - Take the [0610 Core diagnostic](/practice/0610/diagnostic/core/) or [0610 Extended diagnostic](/practice/0610/diagnostic/extended/).

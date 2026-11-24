@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ These questions cover subtopic E6.6, Pythagoras’ theorem and trigonometry in 3
 - Rounding intermediate lengths such as √149 or √109.
 - Not naming the angle being calculated, which makes partial credit harder to award.
 
-## Next steps
+## More on this topic
 
 - Recap with the [3D trigonometry revision notes](/resources/cambridge-igcse-mathematics-0580-pythagoras-theorem-and-trigonometry-revision-notes/).
 - Mixed Extended questions: [trigonometry (Extended) practice](/resources/igcse-mathematics-trigonometry-extended-practice/).

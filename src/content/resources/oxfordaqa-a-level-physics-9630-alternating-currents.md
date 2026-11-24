@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ If the length can be read to ±0.1 division, the percentage uncertainty is 0.1/6
 - **Describe** how to measure a frequency with an oscilloscope: set the time-base so several cycles appear, count divisions for a whole number of cycles, multiply by the time-base, divide by the number of cycles, then take the reciprocal.
 - **Evaluate** a choice of settings: say whether the trace fills the screen and how that affects the percentage uncertainty.
 
-## Related resources
+## More resources on this topic
 
 - [Alternating currents revision notes](/resources/oxfordaqa-a-level-physics-9630-alternating-currents-revision-notes/)
 - [Alternating currents practice questions](/resources/oxfordaqa-a-level-physics-9630-alternating-currents-practice/)

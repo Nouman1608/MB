@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1, "Business activity and influences on business", sections 1.1 (Business objectives) and 1.2 (Types of organisations). The specification sets a single tier of entry, and Paper 1 (small businesses, up to 49 employees) and Paper 2 (large businesses, more than 250 employees) can each draw on the whole content, so expect these ideas to turn up inside any scenario.
@@ -223,7 +223,7 @@ Example: a franchisee outlet has revenue of 210,000 and costs of 150,000 before 
 - For public corporations, giving only advantages or only disadvantages when a question asks for both.
 - Naming a reason for changing objectives without a consequence for the business.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/) or find weak spots with the [free diagnostics](/diagnostics/).
 

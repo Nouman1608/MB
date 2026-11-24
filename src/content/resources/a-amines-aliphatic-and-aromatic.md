@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-09-27
 featured: false
@@ -269,7 +269,7 @@ Benzenediazonium chloride decomposes above about 10 °C. Phenylamine is reacted 
 **Why are azo compounds used as dyes?**
 The –N=N– azo group links two aromatic rings into an extended delocalised system that absorbs strongly in the visible region. This makes azo compounds intensely coloured.
 
-## Related resources
+## More resources on this topic
 
 - [Nitrogen Compounds: Amines and
   Nitriles](/resources/as-nitrogen-compounds-amines-and-nitriles/) — the

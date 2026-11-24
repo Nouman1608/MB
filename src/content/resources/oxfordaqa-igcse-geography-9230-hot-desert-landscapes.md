@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples from the region but does not fix them. This page uses the Arabian Peninsula (Saudi Arabia and the United Arab Emirates) for development examples. Check the details about oil, centre-pivot farming, Dubai tourism and the Dubai solar park against your own notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples from the region but does not fix them. This page uses the Arabian Peninsula (Saudi Arabia and the United Arab Emirates) for development examples. Check the details about oil, centre-pivot farming, Dubai tourism and the Dubai solar park against your own notes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,6 +157,6 @@ The answer follows the sequence of events and uses the idea of loss of energy to
 - **Saying that dunes move upwind.** They migrate downwind.
 - **Treating "opportunities" as all positive.** Each also has costs; for example, irrigation draws on limited groundwater.
 
-## Next steps
+## More on this topic
 
 Condense this with the [hot desert landscapes revision notes](/resources/oxfordaqa-igcse-geography-9230-hot-desert-landscapes-revision-notes/) and test yourself with the [hot desert landscapes practice questions](/resources/oxfordaqa-igcse-geography-9230-hot-desert-landscapes-practice/). For the regional frame, see the [Middle and Far East study guide](/resources/oxfordaqa-igcse-geography-9230-physical-landscapes-middle-far-east/).

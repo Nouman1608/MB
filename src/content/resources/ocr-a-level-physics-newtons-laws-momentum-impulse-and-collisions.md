@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), and covers section 3.5: 3.5.1 Newton's laws of motion and 3.5.2 Collisions. It is written for the full A level. Two-dimensional collision problems are assessed at A level only, so if you are working towards the AS qualification you can leave out the 2D material. For a quick-recall version, use the [revision notes](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-revision-notes/). To test yourself, use the [practice questions](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-practice/). See also the [OCR A Level Physics hub](/boards/ocr/a-level/physics/), the [printable checklist](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).
@@ -232,7 +232,7 @@ In a perfectly elastic collision, total kinetic energy is the same before and af
 **Are weight and the normal contact force a Newton's third law pair?**
 No. They act on the same body and are different types of force. The weight of a book pairs with the book's pull on the Earth, and the table's push on the book pairs with the book's push on the table.
 
-## Next steps
+## More on this topic
 
 Next, try the [practice questions](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-practice/). If resolving vectors is slow, revisit [units, measurement, uncertainty and vectors](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors/), and for force diagrams and F = ma problems see [dynamics, free-body diagrams, drag and terminal velocity](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity/).
 

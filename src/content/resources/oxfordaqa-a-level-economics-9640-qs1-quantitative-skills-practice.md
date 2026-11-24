@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ These questions cover quantitative skill QS1, "calculate, use and understand rat
 - Calculating a ratio but not interpreting it, especially in "assess" questions.
 - Leaving a ratio unsimplified when the question asks for its simplest form.
 
-## Next steps
+## More on this topic
 
 - Re-read the [QS1 revision notes](/resources/oxfordaqa-a-level-economics-9640-qs1-quantitative-skills-revision-notes/).
 - Return to the [QS1 study guide](/resources/oxfordaqa-a-level-economics-9640-qs1-quantitative-skills/) for the worked examples.

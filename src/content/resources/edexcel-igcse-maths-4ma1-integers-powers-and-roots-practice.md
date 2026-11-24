@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ No. Any non-zero number to the power 0 equals 1, and a negative power means a re
 **What is a common mistake when adding surds?**
 Adding or subtracting surds before simplifying them to the same surd. Simplify each one first, for example so that both are multiples of √2, then combine the like surds; surds are Higher tier only in 4MA1.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/edexcel-igcse-maths-4ma1-integers-powers-and-roots-revision-notes/)
 - [Study guide for this unit](/resources/edexcel-igcse-maths-4ma1-integers-powers-and-roots/)

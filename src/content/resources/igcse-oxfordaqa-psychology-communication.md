@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -194,7 +194,7 @@ rapport or agreement between them.
 Partly. Newborns and people born blind show basic expressions
 without learning, but Yuki's study shows cultural learning affects how expressions are read.
 
-## Related resources
+## More resources on this topic
 
 - [Communication and Mental Health revision notes](/resources/igcse-oxfordaqa-psychology-communication-mental-health-revision-notes/)
 - [Communication and Mental Health practice questions](/resources/igcse-oxfordaqa-psychology-communication-mental-health-practice/)

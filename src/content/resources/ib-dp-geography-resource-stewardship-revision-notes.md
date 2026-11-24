@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -156,7 +156,7 @@ resources sustainably with suitable rules. 9. No: two fridges at 0.6 each use 1.
 electricity. 10. It collapsed from overfishing, and Canada imposed a moratorium in 1992. 11. For
 example Goal 12, responsible consumption and production.
 
-## Related resources
+## More resources on this topic
 
 - [Global resource consumption study guide](/resources/ib-dp-geography-global-resource-consumption-study-guide/)
 - [Global trends in consumption revision notes](/resources/ib-dp-geography-global-trends-in-consumption-revision-notes/)

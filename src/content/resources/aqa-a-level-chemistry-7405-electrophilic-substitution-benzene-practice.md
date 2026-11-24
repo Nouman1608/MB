@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -120,7 +120,7 @@ These questions cover section **3.3.10.2 Electrophilic substitution** of the AQA
 - Naming NO₂ or HNO₃ as the electrophile.
 - Missing the "anhydrous" condition.
 
-## Next steps
+## More on this topic
 
 - [Electrophilic substitution revision notes](/resources/aqa-a-level-chemistry-7405-electrophilic-substitution-benzene-revision-notes/)
 - [Amine preparation practice questions](/resources/aqa-a-level-chemistry-7405-amine-preparation-practice/)

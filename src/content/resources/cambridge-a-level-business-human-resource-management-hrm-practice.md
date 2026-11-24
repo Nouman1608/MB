@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -135,7 +135,7 @@ Evaluate the owner's proposal. **[8]**
 - Writing only about the business when the question asks about employees as well.
 - Finishing an evaluation without a judgement that says which side is stronger.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-business-human-resource-management-hrm-revision-notes/) and [study guide](/resources/cambridge-a-level-business-human-resource-management-hrm/).
 - Tick off the [printable checklist](/checklists/cambridge/a-level/business/) from the [course hub](/boards/cambridge/a-level/business/).

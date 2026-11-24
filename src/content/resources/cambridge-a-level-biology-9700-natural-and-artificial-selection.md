@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,6 +163,6 @@ Only cows produce milk, so a bull's genetic value for milk yield cannot be measu
 - **Use** Hardy–Weinberg (17.2.5): always start from q² (the homozygous recessive frequency) unless genotypes can be counted.
 - **Outline** breeding examples (17.2.7): main points only, but name the key terms: resistance, inbred lines, hybrid vigour, progeny testing.
 
-## Next steps
+## More on this topic
 
 Revise with the [17.2 revision notes](/resources/cambridge-a-level-biology-9700-natural-and-artificial-selection-revision-notes/) and test yourself with the [17.2 practice questions](/resources/cambridge-a-level-biology-9700-natural-and-artificial-selection-practice/). The variation that selection acts on is covered in the [variation study guide](/resources/cambridge-a-level-biology-9700-variation/).

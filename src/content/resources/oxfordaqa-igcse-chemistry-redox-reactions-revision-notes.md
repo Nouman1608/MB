@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense section 3.8.4 Redox reactions (statements a, b and c) of the OxfordAQA International GCSE Chemistry (9202) specification, in its Version 6.2 form for exams May/June 2018 onwards. With no tiers, every line here is for you, and the specification says content from any part may come up on either paper. Section 3.8.4 has no required practical.
@@ -236,7 +236,7 @@ To build a row: the metal ion goes to the cathode and gains as many electrons as
 - Mixing up the electrodes: oxidation is at the anode, reduction at the cathode.
 - Explaining halogen displacement with "more reactive" only. A full answer says which particle loses electrons and which gains them.
 
-## Next steps
+## More on this topic
 
 - [Redox reactions practice questions](/resources/oxfordaqa-igcse-chemistry-redox-reactions-practice/)
 - [Redox reactions study guide](/resources/oxfordaqa-igcse-chemistry-redox-reactions/)

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -234,7 +234,7 @@ As well as adding back the asset cost, remember to deduct the depreciation for t
 **How do I reach full marks on a discussion question about prudence?**
 Give points on both sides and finish with a supported judgement. A balanced list without a final judgement is usually capped below full marks.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-revision-notes/)
 - Re-read the full [study guide](/resources/aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re/)

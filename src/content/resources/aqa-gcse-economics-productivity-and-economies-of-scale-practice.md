@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ No. Growth pays only while economies of scale outweigh the costs; diseconomies o
 **How should I evaluate whether a firm should grow?**
 Weigh the benefits, such as lower average costs, against the costs, such as the money needed and the risk of diseconomies, and finish with a judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-gcse-economics-productivity-and-economies-of-scale-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-productivity-and-economies-of-scale/).
 - See the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/) and the [checklist](/checklists/aqa/gcse/economics/).

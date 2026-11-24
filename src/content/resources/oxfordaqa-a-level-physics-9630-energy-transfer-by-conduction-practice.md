@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ These questions cover section 3.11.2, Energy transfer by conduction, of OxfordAQ
 - Stating that a material with a high U-value is a good insulator.
 - Suggesting improvements without linking them to k, A, Δθ or L.
 
-## Next steps
+## More on this topic
 
 - Recap with the [conduction revision notes](/resources/oxfordaqa-a-level-physics-9630-energy-transfer-by-conduction-revision-notes/).
 - Re-read the [conduction study guide](/resources/oxfordaqa-a-level-physics-9630-energy-transfer-by-conduction/).

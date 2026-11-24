@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,7 +168,7 @@ A business can reduce the risk by dividing into smaller units, improving communi
 
 For **state** questions, name the method or type of economy. For **explain** questions, give an advantage or disadvantage with a reason that fits the business. For **calculate** questions, show the formula and the working. For **evaluate** questions, such as which method of growth is best for a business, compare at least two methods against the case facts (money available, wish for control, speed of growth), then reach a justified recommendation.
 
-## Related resources
+## More resources on this topic
 
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-expanding-a-business-practice/)
 - [Business in the Real World revision notes](/resources/igcse-oxfordaqa-business-real-world-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ Hollowell Fitness Ltd is a private limited company owned by three founders. It p
 * Weighing sources without using the owners' stated priorities.
 * Ending a "recommend" answer without a clear choice and a condition.
 
-## Next steps
+## More on this topic
 
 * Review the [3.2 study guide](/resources/ib-dp-business-3-2/).
 * Re-read the [3.2 revision notes](/resources/ib-dp-business-3-2-revision-notes/).

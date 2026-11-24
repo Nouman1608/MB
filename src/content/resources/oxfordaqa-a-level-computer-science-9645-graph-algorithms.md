@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -225,7 +225,7 @@ Dijkstra's algorithm needs the next vertex to be the unfinished one with the sma
 - Finishing a vertex that does not have the smallest distance of the unfinished vertices.
 - Giving the distance but not the route when the route is asked for.
 
-## Next steps
+## More on this topic
 
 - [Graph algorithms revision notes](/resources/oxfordaqa-a-level-computer-science-9645-graph-algorithms-revision-notes/)
 - [Graph algorithms practice questions](/resources/oxfordaqa-a-level-computer-science-9645-graph-algorithms-practice/)

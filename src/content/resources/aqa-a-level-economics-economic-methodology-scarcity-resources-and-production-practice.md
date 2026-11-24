@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ Explain that resources are not equally suited to both uses, so moving more of th
 **Which part of the AQA specification does this practice cover?**
 It covers section 3.1.1 of AQA A-level Economics 7136: economic methodology, the purpose of economic activity, resources, scarcity and production possibility diagrams.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production-revision-notes/) or reread the [study guide](/resources/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production/).
 - Go to the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

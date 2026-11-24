@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -141,7 +141,7 @@ These questions cover all four outcomes of section 6.4 of the Cambridge O Level 
 - Treating every deficit as harmful without discussing cause, size or time.
 - Listing policies without judging how effective they are.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-current-account-of-the-balance-of-payments-revision-notes/) and [study guide](/resources/cambridge-o-level-economics-current-account-of-the-balance-of-payments/).
 - Try wider [international trade practice](/resources/o-level-economics-international-trade-practice/).

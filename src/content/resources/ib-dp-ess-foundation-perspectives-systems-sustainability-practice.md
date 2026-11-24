@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ Identify the EVS of each stakeholder and justify each with evidence from their w
 - Giving only strengths when the command term is "evaluate" or "to what extent".
 - Classifying a process as a transfer when it involves a change of state.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-revision-notes/).
 - Re-read the [study guide](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability/).

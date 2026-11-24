@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ Data: c = 3.00 × 10⁸ m s⁻¹; electron rest mass 9.11 × 10⁻³¹ kg, rest 
 - Describing Michelson-Morley without the rotation through 90°.
 - Sketching a relativistic graph that crosses v = c.
 
-## Next steps
+## More on this topic
 
 - [Special relativity study guide](/resources/aqa-a-level-physics-7408-special-relativity/)
 - [Special relativity revision notes](/resources/aqa-a-level-physics-7408-special-relativity-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Businesses usually cannot satisfy every group fully. Options include:
 - Saying a group "will be unhappy" without a consequence for the business.
 - Claiming a business can always keep everyone happy.
 
-## Next steps
+## More on this topic
 
 Fix the key ideas with the [stakeholders revision notes](/resources/aqa-gcse-business-8132-stakeholders-revision-notes/), then test yourself with the [stakeholders practice questions](/resources/aqa-gcse-business-8132-stakeholders-practice/). The next sections, location and planning, are covered in the [business location and planning study guide](/resources/aqa-gcse-business-business-location-and-business-planning/).
 

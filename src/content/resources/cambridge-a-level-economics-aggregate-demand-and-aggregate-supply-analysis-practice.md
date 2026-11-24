@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -137,7 +137,7 @@ Give the effects on real output, the price level and employment if all three are
 **Why can't substitution explain the slope of AD?**
 Substitution between goods explains a single market's demand curve. The AD curve uses the whole price level, so it slopes down because of the wealth, interest rate and international trade effects.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis-revision-notes/).
 - Re-read the [study guide](/resources/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis/).

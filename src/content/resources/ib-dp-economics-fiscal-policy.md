@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 3.6, Demand management -- fiscal policy, in Unit 3 (Macroeconomics). Most of it is SL and HL. Three items are HL only and labelled "HL only" in the text: the Keynesian multiplier, crowding out (with its diagram), and automatic stabilisers.
@@ -303,7 +303,7 @@ The guide lists political pressure, time lags, the need for sustainable debt and
 **What are the strengths of fiscal policy?**
 Spending can be targeted at a sector, region or group, which a single interest rate cannot do, and it is effective in a deep recession when households and firms will not borrow even at low interest rates.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/ib-dp-economics-fiscal-policy-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-economics-fiscal-policy-practice/). See the [IB DP Economics syllabus guide](/resources/ib-dp-economics-syllabus-guide/) for where 3.6 fits.
 

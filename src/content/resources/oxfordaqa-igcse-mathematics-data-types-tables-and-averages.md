@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers part of section 3.4.1 (Presentation and analysis) of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1. It covers statements S1, S2, S3 and S5: types of data, reading tables, two-way tables, and averages and spread. The specification lists Core content and Extension content separately. Core content is also assessable on the Extension papers, as the specification states. Only the statements marked "Extension only" below go beyond Core.
@@ -351,7 +351,7 @@ Position 10 falls in the group where the cumulative goes from 7 to 16, so Q1 = 3
 - Treating the median as the middle of the range rather than the middle value of the ordered data.
 - Giving the position of the quartile instead of the value at that position.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-igcse-mathematics-data-types-tables-and-averages-revision-notes/) to memorise the methods, then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-data-types-tables-and-averages-practice/). For rounding and number skills, see the [Number study guide](/resources/igcse-oxfordaqa-mathematics-number/). The [free diagnostics](/diagnostics/) help you decide what to revise next.
 

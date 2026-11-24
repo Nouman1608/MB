@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -142,7 +142,7 @@ These questions follow AQA A-level Biology (7402) section 3.7.1, *Inheritance*, 
 - Concluding that a non-significant result proves a ratio.
 - Describing epistasis as dominance between genes instead of interaction between loci.
 
-## Next steps
+## More on this topic
 
 - [Inheritance and chi-squared study guide](/resources/aqa-a-level-biology-inheritance-and-chi-squared/)
 - [Inheritance and chi-squared revision notes](/resources/aqa-a-level-biology-inheritance-and-chi-squared-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -117,7 +117,7 @@ Evaluation: the bank may refuse a larger overdraft for a business whose forecast
 - Recommending an overdraft for a long-term, worsening shortage.
 - Describing what a forecast shows without saying when the problem occurs or why.
 
-## Next steps
+## More on this topic
 
 - Revisit the [cash flow study guide](/resources/aqa-gcse-business-8132-cash-flow/) for any gaps.
 - See how sources of finance link to cash flow in the [Finance study guide](/resources/aqa-gcse-business-finance/).

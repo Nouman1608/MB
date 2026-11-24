@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ These questions cover the OCR A Level Economics (H460) topics "Alternative metho
 - Listing advantages and disadvantages with no judgement.
 - Calling any imperfect policy government failure without comparing it with the original failure.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and/).
 - Check your coverage on the [printable checklist](/checklists/ocr/a-level/economics/) and the [OCR economics hub](/boards/ocr/a-level/economics/).

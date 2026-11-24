@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ Check any turning point inside the domain as well as the values at the end point
 **How should you describe a graph transformation in OCR A Level Mathematics?**
 Give its full name with the details: "translation by the vector", or "stretch, scale factor k, parallel to the x-axis". A description without the vector, scale factor or axis loses marks.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/ocr-a-level-mathematics-modulus-functions-inverses-composites-and-graph/) for the full method.
 - Condense with the [revision notes](/resources/ocr-a-level-mathematics-modulus-functions-inverses-composites-and-graph-revision-notes/).

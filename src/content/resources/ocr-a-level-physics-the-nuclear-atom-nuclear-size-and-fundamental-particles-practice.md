@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -174,7 +174,7 @@ State that it is repulsive below about 0.5 fm, attractive from about 0.5 fm to a
 **How do you check charge in a quark equation?**
 Write the total charge on the left and on the right side by side, using quark charges in units of e, and show they are equal. A hadron's total charge must be a whole number of e.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles/).
 - Return to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [checklist](/checklists/ocr/a-level/physics/).

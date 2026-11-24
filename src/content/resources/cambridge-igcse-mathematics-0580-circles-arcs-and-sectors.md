@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ The Core statement limits sector angles to factors of 360°, such as 30°, 45°,
 **What is the perimeter of a sector?**
 The arc length plus two radii.
 
-## Next steps
+## More on this topic
 
 - Consolidate with the [circles, arcs and sectors revision notes](/resources/cambridge-igcse-mathematics-0580-circles-arcs-and-sectors-revision-notes/).
 - Practise with the [circles, arcs and sectors practice questions](/resources/cambridge-igcse-mathematics-0580-circles-arcs-and-sectors-practice/).

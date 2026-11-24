@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Assume 298 K and Kw = 1.00 × 10⁻¹⁴ mol² dm⁻⁶. Use the data given in e
 - Buffer explanations with no equation.
 - Forgetting the two-step stoichiometry for diprotic species.
 
-## Next steps
+## More on this topic
 
 - Recap with the [titration curves and buffers revision notes](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-revision-notes/).
 - Reread the worked examples in the [study guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -142,6 +142,6 @@ Condensed notes for key question **4.2 What is the role of the family for the in
 
 **Answers:** 1. Sexual, reproductive, economic, educational. 2. Primary socialisation of children and stabilisation of adult personalities. 3. Home life lets stressed adults relax and recover, so tension does not disrupt society. 4. The argument that industrialisation transferred family functions to other institutions such as schools and the state, leaving the family more specialised. 5. He argued functions have become more important, with families more involved in children's health and education. 6. So men could pass their private property to children they knew were their own. 7. Families are encouraged to buy goods and services, creating profit for capitalists. 8. It is a refuge from alienating work, which makes capitalism bearable and less likely to be challenged. 9. Joint roles share tasks and leisure; segregated roles divide them into separate spheres. 10. Husbands made, or dominated, the most important decisions in middle-class couples. 11. Channelling children towards toys and activities seen as suitable for their gender. 12. Any one: domestic violence or abuse; an unequal workload for women; conflict and stress in an inward-looking nuclear family.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [key question 4.2 practice questions](/resources/cambridge-igcse-sociology-0495-kq-4-2-practice/), then revise [how family life is changing (key question 4.3)](/resources/cambridge-igcse-sociology-0495-kq-4-3-revision-notes/).

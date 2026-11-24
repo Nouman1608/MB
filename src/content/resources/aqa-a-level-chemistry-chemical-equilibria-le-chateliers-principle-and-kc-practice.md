@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ The units mark is separate, so a correct value with wrong or missing units loses
 **When can moles be used directly in a Kc calculation?**
 Only when the volume cancels, which happens when the total powers on the top and bottom of the expression are equal. Otherwise convert moles to concentrations by dividing by the volume in dm³.
 
-## Next steps
+## More on this topic
 
 - Revise weak areas with the [revision notes](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes/).
 - Reread the full explanations in the [study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/).

@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -130,7 +130,7 @@ Justify which option Aldous Activewear should choose. **[6]**
 - Claiming a competitive advantage without saying what rivals offer.
 - Finishing a justify or evaluate answer without a supported judgement.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix/).
 - Course hub: [Edexcel GCSE Business](/boards/edexcel/gcse/business/) and the [printable checklist](/checklists/edexcel/gcse/business/).

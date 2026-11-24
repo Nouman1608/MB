@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -234,7 +234,7 @@ The answers come in **pairs**. Find each y from the linear equation, not the qua
 - **"Correct to 2 decimal places"** signals the formula. Keep full calculator values until the last step.
 - **In context**, reject solutions that make no sense (a negative length) and say why.
 
-## Next steps
+## More on this topic
 
 - [Equations revision notes](/resources/cambridge-igcse-mathematics-0580-equations-revision-notes/) for the methods on one page and a self-test.
 - [Equations practice questions](/resources/cambridge-igcse-mathematics-0580-equations-practice/) with marked answers.

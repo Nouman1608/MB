@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ These questions are for OCR A Level Biology A (H420), written to the OCR specifi
 - Calling apoptosis damage-caused death rather than programmed death.
 - Dividing by the wrong value in a percentage change, or forgetting the stop codon.
 
-## Next steps
+## More on this topic
 
 - Recall: the [revision notes](/resources/ocr-a-level-biology-gene-mutations-and-control-of-gene-expression-revision-notes/) and the [study guide](/resources/ocr-a-level-biology-gene-mutations-and-control-of-gene-expression/).
 - Course hub: [OCR A Level Biology](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/).

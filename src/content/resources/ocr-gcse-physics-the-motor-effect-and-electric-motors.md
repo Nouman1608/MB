@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P4.2 Uses of magnetism, statements P4.2a to P4.2d. All four statements are printed in bold in the specification, so they are **Higher Tier only**. Foundation Tier papers do not test them. Induction, generators and transformers (the later statements in P4.2) have their own pages. Start with the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), tick off what you know on the [checklist](/checklists/ocr/gcse/physics/), and test yourself with the [free diagnostics](/diagnostics/). You need the fields from P4.1 first, so read [Magnets, magnetic fields and electromagnets](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets/) if poles and field lines are shaky.
@@ -272,7 +272,7 @@ A coil has two sides, each with 0.050 m of wire at right angles to a uniform fie
 - Explaining a motor without saying the current reverses every half turn.
 - Describing the force on a wire as one-sided. The magnet also feels an equal and opposite force.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-practice/) and use the [revision notes](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-revision-notes/) to consolidate. The [free diagnostics](/diagnostics/) show which topics to prioritise.
 

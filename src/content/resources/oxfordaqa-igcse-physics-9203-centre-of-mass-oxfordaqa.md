@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ Two features make an object more stable:
 - **Suggest** improvements: link each one to the problem it solves.
 - **State** where the weight acts: at the centre of mass.
 
-## Next steps
+## More on this topic
 
 Try the [Centre of mass practice questions](/resources/oxfordaqa-igcse-physics-9203-centre-of-mass-oxfordaqa-practice/), then continue to the [Moments and levers study guide](/resources/oxfordaqa-igcse-physics-9203-moments-and-levers-oxfordaqa/), which explains the turning effect behind toppling.
 

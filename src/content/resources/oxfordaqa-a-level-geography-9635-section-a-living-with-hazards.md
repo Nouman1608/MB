@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -138,7 +138,7 @@ Notice the structure: a claim, named evidence, a counter-case, then a weighted j
 - Using a case study that is not recent, or with no dates.
 - Writing a local-scale case study about a whole country.
 
-## Related resources
+## More resources on this topic
 
 - [Living with hazards revision notes](/resources/oxfordaqa-a-level-geography-9635-living-with-hazards-revision-notes/)
 - [Living with hazards practice questions](/resources/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards-practice/)

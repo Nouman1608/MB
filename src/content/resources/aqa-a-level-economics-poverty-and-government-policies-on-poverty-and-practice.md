@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ No. If all incomes grow by the same percentage, the relative poverty line rises 
 **What should an answer on poverty policies include?**
 Give a chain of reasoning to income, and for each policy a cost, a time lag or an incentive effect such as benefit withdrawal, then a judgement.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and/) for any question you lost marks on.
 - Condense with the [revision notes](/resources/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and-revision-notes/).

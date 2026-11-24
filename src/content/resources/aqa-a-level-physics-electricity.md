@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.5 Electricity of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). It covers every sub-section of 3.5.1 Current electricity, from 3.5.1.1 to 3.5.1.6, including Required practicals 5 and 6. Electricity is AS and A-level content, not A-level only: at A-level it is assessed in Paper 1 (sections 1 to 5 and 6.1) and is assumed knowledge in Paper 2. Sections 3.9 to 3.13 are the options, of which you study one for Paper 3 Section B; Electricity is not an option.
@@ -268,7 +268,7 @@ With only two readings, for example V = 1.40 V at 0.20 A and V = 1.10 V at 0.80 
 - Taking ε as the reading on a voltmeter across a cell that is supplying current.
 - Giving the gradient of V against I as +r rather than −r.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/aqa-a-level-physics-electricity-revision-notes/), then the [practice questions](/resources/aqa-a-level-physics-electricity-practice/). See the [exam preparation guide](/resources/aqa-a-level-physics-exam-preparation/) and the free [diagnostics](/diagnostics/).
 

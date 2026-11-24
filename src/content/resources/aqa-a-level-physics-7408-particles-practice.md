@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Use e = 1.60 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s�
 - Naming the wrong W boson in electron capture or β⁺ decay.
 - Stating "strangeness is not conserved, so impossible" for a weak decay.
 
-## Next steps
+## More on this topic
 
 Review the [Particles study guide](/resources/aqa-a-level-physics-7408-particles/), then move on to [electromagnetic radiation and quantum phenomena](/resources/aqa-a-level-physics-7408-electromagnetic-radiation-and-quantum-phenomena/). The [Particles and radiation practice questions](/resources/aqa-a-level-physics-particles-and-radiation-practice/) mix both halves of section 3.2.
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -114,7 +114,7 @@ Being able to recognise processes from photographs is useful in Section A:
 - **Calculate** factors of safety and percentages step by step, and interpret the result.
 - **Compare** two processes: compare speed, water content, material and effect directly.
 
-## Related resources
+## More resources on this topic
 
 - [3.3 Slope processes revision notes](/resources/a-level-geography-9696-slope-processes-revision-notes/)
 - [3.3 Slope processes practice questions](/resources/cambridge-a-level-geography-9696-slope-processes-practice/)

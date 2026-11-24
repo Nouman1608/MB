@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Common errors include using book values when agreed values are given, forgetting
 **How do I write a strong evaluation of a proposed merger?**
 Tie each point to the figures given and finish with a justified recommendation. General statements with no figures gain less credit.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-accounting-business-acquisition-and-merger-revision-notes/) and the [study guide](/resources/cambridge-a-level-accounting-business-acquisition-and-merger/).
 - Check your progress against the [course hub](/boards/cambridge/a-level/accounting/) and [checklist](/checklists/cambridge/a-level/accounting/).

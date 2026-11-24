@@ -26,7 +26,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -223,7 +223,7 @@ No. Ionic and covalent bonding are not a strict binary decided by a fixed cutoff
 **What is metallic bonding?**
 Metallic bonding is the electrostatic attraction between positive metal ions and delocalised electrons. It is subtopic 3.3 of Cambridge International AS & A Level Chemistry 9701.
 
-## Related resources
+## More resources on this topic
 
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — the IGCSE/O Level lattice structures and properties this resource builds on
 - [Atomic Structure: Particles, Radius and Isotopes](/resources/as-atomic-structure-particles-radius-and-isotopes/) — nuclear charge, atomic radius and shielding explained

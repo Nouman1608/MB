@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -187,7 +187,7 @@ interaction. 9. Children produce forms they have never heard, such as "mouses", 
 seconds. 12. Because the question asks about the speakers, and adult responses are evidence for or against
 interactionist theories.
 
-## Next steps
+## More on this topic
 
 Try the [Child Language Acquisition practice questions](/resources/cambridge-a-level-english-language-9093-section-b-child-language-acquisition-practice/),
 then review the whole paper with the [Paper 3 revision notes](/resources/a-level-english-language-paper-3-revision-notes/).

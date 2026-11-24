@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Legal aid scope, eligibility rules and conditional fee caps change by regulation; confirm the current position before review."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Legal aid scope, eligibility rules and conditional fee caps change by regulation; confirm the current position before review. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -147,6 +147,6 @@ Each point names a source, explains what it gives Ayo and applies it to his fact
 
 For "explain" questions, define the source or method and add how it is accessed or paid for. For scenario questions, match each source to the person's actual problem and means rather than listing everything. For evaluation, pair each benefit with a limitation and reach a view on whether access to justice is adequate.
 
-## Related resources
+## More resources on this topic
 
 [Access to justice and funding revision notes](/resources/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding-revision-notes/) | [Access to justice and funding practice questions](/resources/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding-practice/)

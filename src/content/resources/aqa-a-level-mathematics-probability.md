@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section M: Probability** (content references M1 to M3) of the **AQA
@@ -374,7 +374,7 @@ No. They usually differ because the condition changes the denominator. In a two-
 **How should Normal probabilities be found in AQA 7357?**
 Use your calculator's Normal distribution function directly. For Sections K to O, the specification expects you to access probabilities from standard distributions using calculator technology.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Probability revision notes](/resources/aqa-a-level-mathematics-probability-revision-notes/),
 then test yourself with the [Probability practice questions](/resources/aqa-a-level-mathematics-probability-practice/).

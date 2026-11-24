@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ A comment needs a statement drawn from the figures and why it matters to the bus
 **Where does a bank overdraft go in the liquidity ratios?**
 A bank overdraft is a current liability, not a negative current asset. Putting it on the wrong side changes both the current ratio and the liquid ratio.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-accounting-analysis-of-accounting-statements-revision-notes/)
 - [Study guide](/resources/edexcel-ial-accounting-analysis-of-accounting-statements/)

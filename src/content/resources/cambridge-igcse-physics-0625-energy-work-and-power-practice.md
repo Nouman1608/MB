@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -156,6 +156,6 @@ Related: [study guide on energy, work and power](/resources/cambridge-igcse-phys
 - Vague comparisons of energy resources with no reason.
 - *(Extended)* Dividing input by output and getting an efficiency over 100%.
 
-## Next steps
+## More on this topic
 
 Review the [study guide on energy, work and power](/resources/cambridge-igcse-physics-0625-energy-work-and-power/), then try the [practice questions on pressure](/resources/cambridge-igcse-physics-0625-pressure-practice/).

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -151,7 +151,7 @@ what that allows (charge flows).
 - Confusing the ions that carry charge in an ionic compound with the electrons that carry charge in a metal.
 - Using only one piece of data when asked for two.
 
-## Next steps
+## More on this topic
 
 - Recap with the [properties of ionic compounds revision notes](/resources/aqa-gcse-chemistry-8462-properties-of-ionic-compounds-revision-notes/).
 - Reread any weak area in the [properties of ionic compounds study guide](/resources/aqa-gcse-chemistry-8462-properties-of-ionic-compounds/).

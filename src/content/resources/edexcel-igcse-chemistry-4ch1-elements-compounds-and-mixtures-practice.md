@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,6 +165,6 @@ These questions cover sub-topic 1(b) Elements, compounds and mixtures of the Pea
 - Measuring Rf distances from the paper's edge, or forgetting to mark the solvent front.
 - Treating the number of spots as the exact number of substances.
 
-## Next steps
+## More on this topic
 
 Revisit the [elements, compounds and mixtures study guide](/resources/edexcel-igcse-chemistry-4ch1-elements-compounds-and-mixtures/) for any question you missed, then move on to the [atomic structure practice questions](/resources/edexcel-igcse-chemistry-4ch1-atomic-structure-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ The answer changes with the figure you divide by. For example, one group can ear
 **How do you compare two jobs fairly in an exam answer?**
 Compare the full package, not just headline pay. Include commuting time when working out pay per hour committed, and say how each factor changes the choice for the worker described.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and/).
 - Use the course [hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/).

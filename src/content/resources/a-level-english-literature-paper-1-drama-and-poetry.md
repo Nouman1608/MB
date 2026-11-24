@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNote: "2026-11-08 recheck: added 2026 and 2027 Paper 1 set-text lists from the 2024-26 and 2027-28 syllabuses and an FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added 2026 and 2027 Paper 1 set-text lists from the 2024-26 and 2027-28 syllabuses and an FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Paper 1 – Drama and Poetry**, an AS Level paper for
@@ -198,7 +198,7 @@ Cambridge International A Level English Literature 9695 syllabus for
 2024, 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/636097-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1: Drama and Poetry — Practice
   Questions](/resources/a-level-english-literature-paper-1-drama-and-poetry-practice/) —

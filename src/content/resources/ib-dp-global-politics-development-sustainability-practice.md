@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -162,7 +162,7 @@ Recommend a course of action to address the political issue in Stimulus D, justi
 - Presenting only one side of a debate such as de-growth or the SDGs.
 - Forgetting the key concepts in Paper 2 essays.
 
-## Next steps
+## More on this topic
 
 - [Development and sustainability revision notes](/resources/ib-dp-global-politics-development-sustainability-revision-notes/)
 - [Development and sustainability study guide](/resources/ib-dp-global-politics-development-sustainability/)

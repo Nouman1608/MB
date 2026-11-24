@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -169,7 +169,7 @@ Section B mixes multiple choice, short answers and extended responses. For 9-mar
 achievements against problems and reach a judgement; dates and named policies turn assertion into
 evidence.
 
-## Related resources
+## More resources on this topic
 
 - [Zardari and the 2013 elections revision notes](/resources/oxfordaqa-igcse-pakistan-studies-9236-eighteenth-amendment-and-2013-elections-revision-notes/)
 - [Zardari and the 2013 elections practice questions](/resources/oxfordaqa-igcse-pakistan-studies-9236-eighteenth-amendment-and-2013-elections-practice/)

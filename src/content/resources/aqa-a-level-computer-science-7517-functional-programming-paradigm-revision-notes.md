@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,7 +168,7 @@ A **pure** function gives the same result for the same arguments and has no side
 11. f(8) = 10.
 12. The result type of f must match the argument type of g.
 
-## Related resources
+## More resources on this topic
 
 - [Functional programming paradigm study guide](/resources/aqa-a-level-computer-science-7517-functional-programming-paradigm/)
 - [Functional programming paradigm practice questions](/resources/aqa-a-level-computer-science-7517-functional-programming-paradigm-practice/)

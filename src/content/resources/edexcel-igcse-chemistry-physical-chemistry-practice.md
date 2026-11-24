@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -173,7 +173,7 @@ Use a fixed total volume of liquid, mixing different volumes of thiosulfate solu
 - Leaving the units off a rate, or giving the wrong ones.
 - Not linking the equilibrium shift to the number of gas moles or to the energy change.
 
-## Next steps
+## More on this topic
 
 - Recap the rules in the [physical chemistry revision notes](/resources/edexcel-igcse-chemistry-4ch1-physical-chemistry-revision-notes/).
 - Rework anything you missed with the [physical chemistry study guide](/resources/edexcel-igcse-chemistry-4ch1-physical-chemistry/).

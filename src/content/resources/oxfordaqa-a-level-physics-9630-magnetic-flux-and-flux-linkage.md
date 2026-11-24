@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Using the coil's own area gives an answer 2.7 times too big.
 - **Sketch** NΦ against time or angle: label the maximum BAN, mark zeros, and keep the time axis to scale.
 - **Explain** a graph: link each section to what the coil is doing (entering, inside, leaving, or turning).
 
-## Related resources
+## More resources on this topic
 
 - [Flux and flux linkage revision notes](/resources/oxfordaqa-a-level-physics-9630-magnetic-flux-and-flux-linkage-revision-notes/)
 - [Flux and flux linkage practice questions](/resources/oxfordaqa-a-level-physics-9630-magnetic-flux-and-flux-linkage-practice/)

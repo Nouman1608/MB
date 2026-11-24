@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers section 6.1.3, Charging and discharging capacitors, of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. It teaches statements 6.1.3(a) to 6.1.3(e) with worked examples. The definition of capacitance, capacitor combinations and stored energy belong to sections 6.1.1 and 6.1.2 and are not repeated here.
 
@@ -261,7 +261,7 @@ A voltmeter across the capacitor provides a second discharge path. If its resist
 **Is the RC investigation a required practical for OCR A Level Physics A?**
 Investigating charge and discharge with meters and with data-loggers is statement 6.1.3(a)(ii) of OCR H556 and belongs to practical activity group 9, which finds the time constant from the gradient of a ln V or ln I against time graph.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-practice/), then condense with the [revision notes](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-revision-notes/). Recheck the [checklist](/checklists/ocr/a-level/physics/).
 

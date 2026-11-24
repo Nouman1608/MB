@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -166,7 +166,7 @@ In the worked answers, one mark is typically for the equation or substitution an
 **What are the most common mistakes in kinetic and elastic energy questions?**
 Common slips are using the whole spring length instead of the extension, forgetting to square the speed or extension, and saying that doubling the speed doubles the kinetic energy when it makes it four times as much.
 
-## Next steps
+## More on this topic
 
 * Read the [revision notes](/resources/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power/).
 * Go to the [course hub](/boards/oxfordaqa/igcse/physics/) and tick off this topic on the [checklist](/checklists/oxfordaqa/igcse/physics/).

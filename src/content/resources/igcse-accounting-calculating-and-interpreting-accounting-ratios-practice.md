@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -183,7 +183,7 @@ Profit and depreciation [1]; oven [1]; inventory, receivables and payables chang
 - Describing a change without a reason from the scenario.
 - Recommending an action that does not match the weak ratio.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/igcse-accounting-calculating-and-interpreting-accounting-ratios-revision-notes/) and the [study guide](/resources/igcse-accounting-calculating-and-interpreting-accounting-ratios/).
 - Try the [Analysis and interpretation practice questions](/resources/igcse-accounting-analysis-practice/) and [all free 10-minute diagnostics](/diagnostics/).

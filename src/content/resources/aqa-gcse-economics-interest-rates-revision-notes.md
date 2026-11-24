@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -143,7 +143,7 @@ It is direct because it is paid by the person on whom it is levied, and progress
 **Are indirect taxes always regressive?**
 Not automatically, but they are often regressive, because a fixed amount added to a price takes a larger share of a low income than a high one.
 
-## Related resources
+## More resources on this topic
 
 - [Interest Rates and Government Income and Expenditure study guide](/resources/gcse-aqa-economics-interest-rates-and-government-finances/)
 - [Interest Rates and Government Income and Expenditure practice questions](/resources/aqa-gcse-economics-interest-rates-practice/)

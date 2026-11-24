@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ On a drawn graph, the same readings are taken with ruled guide lines: up from th
 - **Compare the distributions**: use figures read from both graphs and say which group has the larger values or greater concentration.
 - **Describe the shape**: link steepness to where the values are concentrated.
 
-## Next steps
+## More on this topic
 
 Revise the drawing and reading rules with the [revision notes on cumulative frequency graphs](/resources/cambridge-o-level-statistics-4040-cumulative-frequency-graphical-form-revision-notes/), then use the [cumulative frequency graph practice questions](/resources/cambridge-o-level-statistics-4040-cumulative-frequency-graphical-form-practice/). Medians, quartiles and percentiles read from these graphs are in [quartiles and percentiles](/resources/cambridge-o-level-statistics-4040-quartiles-and-percentiles/).
 

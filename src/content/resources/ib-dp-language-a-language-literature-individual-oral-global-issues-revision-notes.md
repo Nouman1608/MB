@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes cover the individual oral in IB Diploma Programme Language A: Language and
@@ -253,7 +253,7 @@ and build tension in a story. Shared features give you the strongest comparisons
 - Reading from a full script, which makes the delivery flat and hard to follow.
 - Leaving the choice of pairing to the last minute, with no portfolio evidence to test it against.
 
-## Related resources
+## More resources on this topic
 
 - [Readers, writers and texts](/resources/ib-dp-language-a-language-literature-readers-writers-texts/)
   and its [revision notes](/resources/ib-dp-language-a-language-literature-readers-writers-texts-revision-notes/)

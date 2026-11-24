@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches topic 9, Transport in animals, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers syllabus sections 9.1 Circulatory systems, 9.2 Heart, 9.3 Blood vessels and 9.4 Blood. Core content is examined on Papers 1 and 3; Supplement content, marked **Extended only** below, is added for Extended candidates on Papers 2 and 4. The heart-rate investigation in 9.2 also suits the practical papers (5 and 6).
@@ -263,7 +263,7 @@ Clotting **prevents blood loss** and **prevents the entry of pathogens** through
 - Saying plasma carries oxygen. Oxygen travels in red blood cells, bound to haemoglobin.
 - In CHD answers, saying the heart "runs out of blood". Say the heart **muscle** gets less oxygen and glucose, so it cannot respire.
 
-## Next steps
+## More on this topic
 
 - Condense this into the [transport in animals revision notes](/resources/igcse-biology-0610-transport-in-animals-revision-notes/).
 - Test yourself with the [transport in animals practice questions](/resources/igcse-biology-0610-transport-in-animals-practice/).

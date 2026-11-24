@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Statistics**, one of three subject-content strands
@@ -212,7 +212,7 @@ No. For the binomial test of a proportion, references 2.05b and 2.05c, use of th
 **Do you need to calculate a regression line in OCR A Level Mathematics?**
 No. You interpret scatter diagrams and regression lines and may add to a diagram, but drawing a complete diagram and calculating the equation of a regression line are excluded.
 
-## Related resources
+## More resources on this topic
 
 - [Statistics revision notes](/resources/ocr-a-level-mathematics-statistics-revision-notes/)
 - [Statistics practice questions](/resources/ocr-a-level-mathematics-statistics-practice/)

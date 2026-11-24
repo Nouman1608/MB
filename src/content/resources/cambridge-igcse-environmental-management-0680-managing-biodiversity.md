@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus names the threat levels threatened, endangered and extinct without defining them; please check the working definitions given here suit Cambridge mark schemes."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus names the threat levels threatened, endangered and extinct without defining them; please check the working definitions given here suit Cambridge mark schemes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -180,6 +180,6 @@ Why it scores: two benefits and two limitations, each with a reason, then a shor
 - **Suggest** a strategy for a named place: match it to the threat in the source, such as corridors where habitat is fragmented or trade controls where poaching is described.
 - In calculations, compare with the original value and give the unit or percentage.
 
-## Next steps
+## More on this topic
 
 Review the [Managing biodiversity revision notes](/resources/cambridge-igcse-environmental-management-0680-managing-biodiversity-revision-notes/) and then try the [Managing biodiversity practice questions](/resources/cambridge-igcse-environmental-management-0680-managing-biodiversity-practice/).

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -216,7 +216,7 @@ For Mann-Whitney, Wilcoxon and the Sign test, the calculated value must be equal
 **What are common mistakes in Research methods 2 questions?**
 Students often forget to drop zero differences when finding N, use two-tailed values for a directional hypothesis, treat rating scales as interval data, and say a significant result proves the hypothesis.
 
-## Next steps
+## More on this topic
 
 - Check gaps with the [revision notes for Research methods 2](/resources/oxfordaqa-a-level-psychology-9685-research-methods-2-revision-notes/), the [Unit 2 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/) and the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
 - Find your weaker topics with our [diagnostics](/diagnostics/).

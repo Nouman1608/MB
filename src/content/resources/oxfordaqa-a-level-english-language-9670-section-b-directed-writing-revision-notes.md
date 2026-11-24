@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -150,7 +150,7 @@ match. 9. Any two: fix style markers in advance and check each paragraph; keep p
 check the ending does not drift into essay register. 10. For example: "Sort your recycling before collection day."
 11. Because selection for the new purpose is part of transformation; irrelevant detail weakens the new text.
 
-## Next steps
+## More on this topic
 
 Practise with the [Directed Writing practice questions](/resources/oxfordaqa-a-level-english-language-9670-section-b-directed-writing-practice/)
 and revise the source analysis in the

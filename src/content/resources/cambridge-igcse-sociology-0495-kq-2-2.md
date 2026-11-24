@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -236,7 +236,7 @@ conformity.*
 - **Discuss** — developed paragraphs, including perspectives.
 - **Evaluate** — both sides, effectiveness concepts (legitimacy, likelihood of detection), judgement.
 
-## Next steps
+## More on this topic
 
 Revise with the
 [social control revision notes for key question 2.2](/resources/cambridge-igcse-sociology-0495-kq-2-2-revision-notes/)

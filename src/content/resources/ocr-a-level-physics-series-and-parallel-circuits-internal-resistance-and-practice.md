@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -166,7 +166,7 @@ Draw a line of best fit through all the points; the gradient is −r and the ver
 **What does a negative current mean when solving Kirchhoff's law equations?**
 A negative answer means the current flows in the opposite direction to the one you drew. It is still a valid answer.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-physics-series-and-parallel-circuits-internal-resistance-and-revision-notes/) or the [study guide](/resources/ocr-a-level-physics-series-and-parallel-circuits-internal-resistance-and/).
 - Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [printable checklist](/checklists/ocr/a-level/physics/).

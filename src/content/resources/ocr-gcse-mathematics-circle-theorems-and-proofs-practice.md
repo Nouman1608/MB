@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ Read the [study guide](/resources/ocr-gcse-mathematics-circle-theorems-and-proof
 - Proving only one direction when a statement is "if and only if".
 - Rounding part-way through a trigonometry step, or leaving off units on a length.
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/ocr-gcse-mathematics-circle-theorems-and-proofs-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-circle-theorems-and-proofs/).
 - Open the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and tick off topics on the [printable checklist](/checklists/ocr/gcse/mathematics/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ Compare MES with the size of the market. Discussing MES on its own, without that
 **Are returns to scale and economies of scale the same thing?**
 No. Returns to scale describe how output responds when all inputs rise by the same factor; economies of scale describe what happens to long-run average cost. Using them as if they were the same loses marks.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of-revision-notes/) and re-read the [study guide](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of/).
 - Check the [course hub](/boards/aqa/a-level/economics/) and the [printable checklist](/checklists/aqa/a-level/economics/).

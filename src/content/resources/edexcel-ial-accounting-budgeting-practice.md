@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -194,7 +194,7 @@ Flex only the variable element of a semi-variable cost to the actual activity; t
 **How can I check a closing receivables balance?**
 Check it independently from the payment pattern, for example all of the final month's credit sales plus the part of the previous month's still unpaid.
 
-## Next steps
+## More on this topic
 
 - [Budgeting revision notes](/resources/edexcel-ial-accounting-budgeting-revision-notes/)
 - [Budgeting study guide](/resources/edexcel-ial-accounting-budgeting/)

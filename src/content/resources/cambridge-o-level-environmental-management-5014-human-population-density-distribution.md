@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ A **compare** answer needs both countries in every sentence, using comparative w
 4. Young 30%, elderly 10%. Calculate the dependency ratio. *40 / 60 x 100 = 66.7.*
 5. What does a wide top on the female side suggest? *Women live longer than men.*
 
-## Related resources
+## More resources on this topic
 
 - [Population density, distribution and structure revision notes](/resources/cambridge-o-level-environmental-management-5014-human-population-density-distribution-revision-notes/)
 - [Population density, distribution and structure practice questions](/resources/cambridge-o-level-environmental-management-5014-human-population-density-distribution-practice/)

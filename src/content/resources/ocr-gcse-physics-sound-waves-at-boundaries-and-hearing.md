@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers four statements from topic P5.1, Wave behaviour, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026): P5.1f, P5.1g, P5.1h and P5.1i. P5.1h and P5.1i are shown in bold in the specification, so they are tested in the **Higher Tier only**. P5.1f and P5.1g are not in bold, so they are assessed in both tiers. All four are marked in the specification as separate Physics only content (not in Combined Science). The statements on wave speed, frequency and wavelength in general (P5.1a to P5.1e) are taught elsewhere. Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). If you are unsure where you stand, try the [free diagnostics](/diagnostics/) first.
@@ -212,7 +212,7 @@ Hearing changes with age. The ability to hear the highest frequencies is usually
 - Describing the eardrum as converting sound to electricity. It converts a sound wave in air into a vibration of a solid.
 - Answering "why is the range limited" with "because the ear is not good enough". Mention mass, stiffness or the structures that must vibrate.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-revision-notes/), then the [practice questions](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-practice/). Tick off progress on the [checklist](/checklists/ocr/gcse/physics/) and see the [hub](/boards/ocr/gcse/physics/).
 

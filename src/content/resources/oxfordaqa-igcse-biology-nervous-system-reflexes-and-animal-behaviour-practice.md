@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ These questions are aligned to the OxfordAQA International GCSE Biology (9201) s
 - Describing imprinting without the early, short period.
 - Skipping working lines, units or the decimal places asked for.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour-revision-notes/) or [study guide](/resources/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour/).
 - Use the [OxfordAQA IGCSE Biology hub](/boards/oxfordaqa/igcse/biology/) and [checklist](/checklists/oxfordaqa/igcse/biology/).

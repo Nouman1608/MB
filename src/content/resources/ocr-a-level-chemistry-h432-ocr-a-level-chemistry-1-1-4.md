@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Notice the structure: result, error, uncertainty, comparison, the limitation tha
 - **"Explain whether the result is accurate"**: quote the percentage error and compare it with the uncertainty.
 - **Direction matters**: say whether a limitation makes the result too high or too low, and check that this matches the data.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [1.1.4 revision notes](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-1-4-revision-notes/)
 - Test yourself: [1.1.4 practice questions](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-1-4-practice/)

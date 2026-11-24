@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -156,7 +156,7 @@ Explain that fusion up to iron releases energy but fusing iron does not, so the 
 **How do you show that an object is a black hole from a calculation?**
 Calculate the escape velocity and compare it with the speed of light. If the escape velocity at a radius equals or exceeds c, not even light can escape from inside it.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-a-level-physics-stars-stellar-evolution-and-the-hr-diagram-revision-notes/)
 - [Study guide](/resources/ocr-a-level-physics-stars-stellar-evolution-and-the-hr-diagram/)

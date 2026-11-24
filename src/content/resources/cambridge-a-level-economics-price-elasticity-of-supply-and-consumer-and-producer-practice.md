@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ No. Elasticity compares percentage changes, so slope alone does not decide it. A
 **Must consumer surplus fall when the price rises?**
 Not necessarily. If the price rises because demand has increased, consumer surplus can still rise, because consumers value the good more.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer/).
 - Return to the [course hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/).

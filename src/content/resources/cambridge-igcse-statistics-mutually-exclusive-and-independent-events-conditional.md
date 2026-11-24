@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers Topic 7 (Probability) outcomes 7.5, 7.6 and 7.7 of the 2027 Cambridge IGCSE Statistics (0479) syllabus: mutually exclusive and independent events, conditional probability in simple cases, and tree diagrams. The syllabus text shows no tier split for this unit. Condensed notes are in the [revision notes](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-revision-notes/) and exam-style work is in the [practice set](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-practice/). Related pages: the [Cambridge IGCSE Statistics hub](/boards/cambridge/igcse/statistics/), the printable [checklist](/checklists/cambridge/igcse/statistics/) and the [free diagnostics](/diagnostics/), which help you find where to begin.
@@ -243,7 +243,7 @@ The second-stage branches are different after a fault and after no fault, so the
 - Adding along a path or multiplying across separate paths. It is multiply along, add across.
 - Branches from one point that do not sum to 1. Check every junction.
 
-## Next steps
+## More on this topic
 
 Condense the rules with the [revision notes](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-revision-notes/), then attempt the [practice set](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-practice/). Tick off the outcomes on the [checklist](/checklists/cambridge/igcse/statistics/), and try the [free diagnostics](/diagnostics/) to find gaps.
 

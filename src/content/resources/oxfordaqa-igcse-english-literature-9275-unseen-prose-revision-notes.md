@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -188,7 +188,7 @@ structure. 11. For example: a gap between what the narrator says and what the de
 narrator who excuses themselves. 12. For example: "The relentless rain mirrors the pressure the
 character cannot escape, so the setting seems to press in on him."
 
-## Related resources
+## More resources on this topic
 
 - [Unseen prose practice questions](/resources/oxfordaqa-igcse-english-literature-9275-unseen-prose-practice/)
 - [Poetry and Unseen Texts revision notes](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,6 +161,6 @@ A cross Lele × Lele gives 3 tall : 1 dwarf, an ordinary monohybrid ratio, but n
 - **Interpret** a cross: name the type of inheritance and quote the ratio or classes that show it.
 - **Use** chi-squared: show the table of O, E and (O − E)²/E, the degrees of freedom and the critical value.
 
-## Next steps
+## More on this topic
 
 Revise with the [16.2 revision notes](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge-revision-notes/) and practise with the [16.2 practice questions](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge-practice/). Meiosis, the source of the gametes in these crosses, is covered in the [passage of information from parents to offspring study guide](/resources/cambridge-a-level-biology-9700-passage-of-information-from-parents-to-offspring-cambridge/); gene switching is covered in the [gene control study guide](/resources/cambridge-a-level-biology-9700-gene-control/).

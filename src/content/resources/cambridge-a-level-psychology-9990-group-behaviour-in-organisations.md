@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the conditions described for Claypoole and Szalma (2019) experiment 1 and the four phases attributed to Einarsen (1999)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the conditions described for Claypoole and Szalma (2019) experiment 1 and the four phases attributed to Einarsen (1999). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -183,7 +183,7 @@ Strategies include using structured decision procedures and checking that all re
 
 **Describe** questions want named stages, roles or modes with an example each. **Evaluate** questions can use cultural differences (Earley), determinism versus free will (monitoring), idiographic versus nomothetic and quantitative and qualitative data, which the syllabus lists for 4.3.2. **Suggest** questions should name a strategy, such as a devil's advocate, and apply it to the team in the scenario.
 
-## Related resources
+## More resources on this topic
 
 - [Group behaviour in organisations revision notes](/resources/cambridge-a-level-psychology-9990-group-behaviour-in-organisations-revision-notes/)
 - [Group behaviour in organisations practice questions](/resources/cambridge-a-level-psychology-9990-group-behaviour-in-organisations-practice/)

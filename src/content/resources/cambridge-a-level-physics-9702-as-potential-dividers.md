@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ The output rises as the temperature rises, so this arrangement suits an over-tem
 - **Explain** (a sensor circuit): chain the reasoning — condition changes → resistance changes → share of p.d. changes → output changes.
 - **Suggest** (a design change): swap the positions of the sensor and fixed resistor to reverse the response; change the fixed resistor to shift the switching point.
 
-## Related resources
+## More resources on this topic
 
 - [D.C. circuits study guide](/resources/as-physics-dc-circuits/) — the whole of Topic 10
 - [Potential dividers revision notes](/resources/cambridge-a-level-physics-9702-as-potential-dividers-revision-notes/)

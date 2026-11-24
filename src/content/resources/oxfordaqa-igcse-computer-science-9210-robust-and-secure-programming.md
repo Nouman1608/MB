@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -220,7 +220,7 @@ Rule: a new password must be at least 8 characters long.
 - **Select test data**: give one example of each type requested, with the expected outcome.
 - **Justify**: say what the test would reveal if the code were wrong.
 
-## Next steps
+## More on this topic
 
 For a condensed summary use the [robust and secure programming revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming-revision-notes/), and

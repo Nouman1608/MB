@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ No. A fall in the currency makes exports cheaper abroad, but it also makes impor
 **How should you write about sustainability in a globalisation question?**
 Apply sustainability to each point you make rather than adding it at the end, and weigh costs and benefits for workers, producers and consumers to reach a two-sided judgement.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development/).
 - Tick off coverage on the [checklist](/checklists/ocr/gcse/economics/) and see the [hub](/boards/ocr/gcse/economics/).

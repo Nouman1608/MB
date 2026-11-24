@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Name a specific policy and say which curve moves. Writing that supply-side polic
 **Which AQA A-level Economics content do these questions practise?**
 They practise the sub-section on possible conflicts between macroeconomic policy objectives, including output gaps and the short-run and long-run Phillips curves, from AQA 7136.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the/).
 - Open the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

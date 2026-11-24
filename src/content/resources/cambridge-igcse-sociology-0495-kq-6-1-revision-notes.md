@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -154,6 +154,6 @@ Violent (assault); property (burglary); white-collar/corporate (embezzlement; sa
 
 **Answers:** 1. Crime breaks the criminal law; deviance breaks social norms. 2. Any suitable example, such as talking loudly in a library or wearing pyjamas to a formal event. 3. Smoking in enclosed public places became illegal in England in 2007, or the partial decriminalisation of sex between men in 1967. 4. Police, courts, armed forces, government, penal system. 5. Any two: ridicule; exclusion; gossip; praise and acceptance. 6. Attachment, commitment, involvement, belief. 7. Expressive crime expresses emotion; instrumental crime is a means to an end such as money. 8. Illegal dumping of toxic waste, or illegal logging. 9. An anonymous survey asking people which offences they have committed. 10. Any two: miss victimless crimes; miss crimes against businesses; rely on memory; some victims do not know they were victims. 11. Any three: seen as trivial; no confidence in police; fear of reprisals; embarrassment; unaware; offender is a partner or relative. 12. The crime that is never reported to or recorded by the police.
 
-## Next steps
+## More on this topic
 
 Practise with the [key question 6.1 practice questions](/resources/cambridge-igcse-sociology-0495-kq-6-1-practice/), then revise [patterns and explanations of crime with the key question 6.2 revision notes](/resources/cambridge-igcse-sociology-0495-kq-6-2-revision-notes/).

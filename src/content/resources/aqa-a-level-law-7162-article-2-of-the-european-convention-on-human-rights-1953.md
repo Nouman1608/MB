@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -208,7 +208,7 @@ Conclusion:     Likely violation of Article 2 on planning and on the
 - **Discuss** questions: evaluate how well Article 2 protects life, for example whether the Osman test is
   too demanding or whether McCann places too heavy a burden on security forces.
 
-## Related resources
+## More resources on this topic
 
 [Article 2 revision notes](/resources/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953-revision-notes/) |
 [Article 2 practice questions](/resources/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953-practice/) |

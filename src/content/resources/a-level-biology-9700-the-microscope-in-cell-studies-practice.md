@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ Revise first with the [1.1 study guide](/resources/a-level-biology-9700-the-micr
 - Not showing the working, so no method mark can be given when the final answer is wrong.
 - Too many significant figures in the final answer.
 
-## Next steps
+## More on this topic
 
 - [1.1 revision notes](/resources/a-level-biology-9700-the-microscope-in-cell-studies-revision-notes/)
 - [1.1 study guide](/resources/a-level-biology-9700-the-microscope-in-cell-studies/)

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Web page design (topic 3.8 of OxfordAQA International GCSE Computer Science 9210) covers building web pages with
@@ -151,7 +151,7 @@ background-color, color, text-align, font-family, font-size, font-weight and fon
 Block-level elements such as `<p>` and `<div>` start on a new line. Inline elements such as `<strong>` and `<a>`
 stay within the line of text around them.
 
-## Related resources
+## More resources on this topic
 
 [Web page design study guide](/resources/oxfordaqa-igcse-computer-science-web-page-design-study-guide/) |
 [Web page design practice questions](/resources/oxfordaqa-igcse-computer-science-web-page-design-practice/) |

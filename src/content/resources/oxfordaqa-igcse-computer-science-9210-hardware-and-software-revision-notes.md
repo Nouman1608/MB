@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -177,7 +177,7 @@ instructions.
 9. Different software can be installed and run on the same hardware, so one computer can do many tasks.
 10. A hardware fault.
 
-## Related resources
+## More resources on this topic
 
 - [Hardware and software study guide](/resources/oxfordaqa-igcse-computer-science-9210-hardware-and-software/)
 - [Hardware and software practice questions](/resources/oxfordaqa-igcse-computer-science-9210-hardware-and-software-practice/)

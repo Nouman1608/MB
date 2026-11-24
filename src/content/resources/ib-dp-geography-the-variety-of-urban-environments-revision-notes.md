@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -171,7 +171,7 @@ elite sector, and peripheral informal settlements. 8. Why the most accessible ce
 activities that can pay most. 9. For example Bangkok, Thailand. 10. For example lack of secure tenure
 and lack of improved sanitation. 11. It has a large informal economy of recycling and manufacturing.
 
-## Related resources
+## More resources on this topic
 
 - [Urban environments study guide](/resources/ib-dp-geography-urban-environments-study-guide/)
 - [Changing urban systems revision notes](/resources/ib-dp-geography-changing-urban-systems-revision-notes/)

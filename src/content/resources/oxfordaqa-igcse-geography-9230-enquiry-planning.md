@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -169,6 +169,6 @@ The plan names the place, the variable to measure, the theory and the expected p
 - **Background research left until after data collection.**
 - **A plan too large** to collect in the time available.
 
-## Next steps
+## More on this topic
 
 Condense this with the [enquiry planning revision notes](/resources/oxfordaqa-igcse-geography-9230-enquiry-planning-revision-notes/) and test yourself with the [enquiry planning practice questions](/resources/oxfordaqa-igcse-geography-9230-enquiry-planning-practice/). The next stage of the enquiry is covered in [collecting fieldwork data](/resources/oxfordaqa-igcse-geography-9230-fieldwork-data-collection/).

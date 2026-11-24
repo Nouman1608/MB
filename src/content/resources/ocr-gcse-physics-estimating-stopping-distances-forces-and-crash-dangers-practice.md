@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ These questions follow the OCR GCSE (9-1) Gateway Science Physics A specificatio
 - Stating estimates without any assumptions, or to too many significant figures.
 - Using weight as the braking force.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers/).
 - Tick off the topic on the [OCR GCSE Physics checklist](/checklists/ocr/gcse/physics/) and see the [course hub](/boards/ocr/gcse/physics/).

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopics **2.4 Indices II** and **2.5 Equations**, from
@@ -255,7 +255,7 @@ Collect every term containing the subject on one side, factorise it out, and the
 **What does solutions in surd form mean?**
 Leave the answer with an exact square root, such as 2 ± √7, rather than rounding it to a decimal.
 
-## Related resources
+## More resources on this topic
 
 - [Algebraic Manipulation](/resources/algebraic-manipulation/) — subtopics
 2.1–2.3, the foundation this page builds on

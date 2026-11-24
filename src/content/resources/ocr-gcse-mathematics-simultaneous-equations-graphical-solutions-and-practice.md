@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ First two midpoints correct [1]. Third midpoint and interval [1]. Fourth midpoin
 - Showing only one sign in a sign-change argument.
 - Rounding a root without testing the half-way value.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and-revision-notes/) for the methods in brief.
 - Read the [study guide](/resources/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and/) for full explanations.

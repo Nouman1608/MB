@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ These questions follow sections 3.5.1 and 3.5.2 of the OxfordAQA International A
 - Using λ/2 rather than λ/4 for a closed tube.
 - Giving a graph gradient without the 4π² step.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-physics-oscillating-systems-damping-free-and-forced-vibrations-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-physics-oscillating-systems-damping-free-and-forced-vibrations/)

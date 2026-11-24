@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -170,7 +170,7 @@ A language is **regular** if it can be represented by a **regular expression**, 
 9. They are equivalent ways of defining a regular language.
 10. An FSM has a finite number of states and cannot count an unlimited number of 0s to compare with the 1s.
 
-## Related resources
+## More resources on this topic
 
 - [Regular languages study guide](/resources/aqa-a-level-computer-science-7517-regular-languages/)
 - [Regular languages practice questions](/resources/aqa-a-level-computer-science-7517-regular-languages-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,7 +204,7 @@ Volume = 0.0175 × 24 000 = **420 cm³** [1]
 - Saying a catalyst increases the yield or is used up.
 - Control variables written as "amount" or "same equipment" without a measurable quantity.
 
-## Next steps
+## More on this topic
 
 - Recap with the [rate of reaction revision notes](/resources/oxfordaqa-igcse-chemistry-rate-of-reaction-revision-notes/).
 - Re-learn topics in the [rate of reaction study guide](/resources/oxfordaqa-igcse-chemistry-rate-of-reaction/).

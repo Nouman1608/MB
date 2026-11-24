@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Compare the size of your answer with the wavelength range of the group it should
 **How do you explain energy transfer by an electromagnetic wave?**
 Name the source, the wave, the absorber and the effect on the absorber, for example microwaves from an oven heating the water in food. Missing the absorber or its change loses marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum/).
 - Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/).

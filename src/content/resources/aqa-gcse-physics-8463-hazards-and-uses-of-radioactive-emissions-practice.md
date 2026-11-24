@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -198,7 +198,7 @@ half-life and activity; "the radiation lasts a long time" on its own stays at th
 - Quoting a dose from the table without comparing it with anything.
 - Ending an evaluation without a judgement.
 
-## Next steps
+## More on this topic
 
 - [Hazards and uses study guide](/resources/aqa-gcse-physics-8463-hazards-and-uses-of-radioactive-emissions/)
 - [Hazards and uses revision notes](/resources/aqa-gcse-physics-8463-hazards-and-uses-of-radioactive-emissions-revision-notes/)

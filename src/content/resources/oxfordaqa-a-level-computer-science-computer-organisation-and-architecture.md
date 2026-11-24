@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches topic 7, Computer organisation and architecture, of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Its scope is sections 3.7.1 to 3.7.7, every one of them International AS content. The specification places them in the Unit 2 written paper, Concepts and principles of computer science, and they count towards the full International A-level too.
@@ -223,7 +223,7 @@ De Morgan: NOT(A + B) = A̅⋅B̅ and NOT(A⋅B) = A̅ + B̅. Break the bar and 
 - Applying De Morgan without changing the operator.
 - Ignoring precedence: A + B⋅C means A + (B⋅C).
 
-## Next steps
+## More on this topic
 
 Shorten all this into recall cards using the [revision notes](/resources/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture-revision-notes/), and after that attempt the [practice questions](/resources/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture-practice/). Also useful: [exam preparation](/resources/oxfordaqa-a-level-computer-science-exam-preparation/) and the [computer systems guide](/resources/oxfordaqa-a-level-computer-science-computer-systems/).
 

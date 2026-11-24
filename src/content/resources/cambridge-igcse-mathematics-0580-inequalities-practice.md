@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ For explanations, read the [inequalities study guide](/resources/cambridge-igcse
 - Counting points on a broken boundary as inside a region.
 - Giving a numerical answer to "interpret" without a sentence in context.
 
-## Next steps
+## More on this topic
 
 - [Inequalities study guide](/resources/cambridge-igcse-mathematics-0580-inequalities/)
 - [Inequalities revision notes](/resources/cambridge-igcse-mathematics-0580-inequalities-revision-notes/)

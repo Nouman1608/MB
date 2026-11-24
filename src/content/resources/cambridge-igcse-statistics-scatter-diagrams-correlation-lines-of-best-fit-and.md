@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers Topic 11, Bivariate distributions, of the Cambridge IGCSE Statistics 0479 syllabus for examination in 2027. It teaches outcomes 11.1 to 11.7: independent and dependent variables, correlation, plotting a scatter diagram, drawing a line of best fit by eye and by semi-averages, finding its equation, and using it to estimate. Use it with the [revision notes](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-revision-notes/) and the [practice questions](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-practice/). The [Cambridge IGCSE Statistics hub](/boards/cambridge/igcse/statistics/) and the [printable checklist](/checklists/cambridge/igcse/statistics/) cover the rest of the course, and the [Representation of Data guide](/resources/igcse-cambridge-statistics-representation-of-data/) covers the earlier charts and diagrams.
@@ -241,7 +241,7 @@ Likewise, the drinks line gives y = 5 × 5 − 30 = −5 at 5 °C. Sales cannot 
 - Mixing up the order of subtraction, so the gradient has the wrong sign. Subtract y-values and x-values in the same order.
 - Quoting an extrapolated estimate with full confidence.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-revision-notes/), then try the [practice questions](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-practice/). To check your overall readiness, take the [free 10-minute diagnostics](/diagnostics/).
 

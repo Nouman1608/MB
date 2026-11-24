@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ Learn the content first with the [Bonding study guide](/resources/ocr-gcse-chemi
 - Explaining group 7 reactivity with electrons being lost, or with "more electrons" instead of distance and attraction.
 - Stating that Mendeleev used atomic number.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Bonding revision notes](/resources/ocr-gcse-chemistry-bonding-revision-notes/).
 - Return to the [Bonding study guide](/resources/ocr-gcse-chemistry-bonding/) for any question you found hard.

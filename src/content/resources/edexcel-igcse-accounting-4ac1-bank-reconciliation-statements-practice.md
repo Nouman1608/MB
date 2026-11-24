@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -205,7 +205,7 @@ Unpresented cheques added [1]. Lodgement deducted [1]. Final overdraft (2,435), 
 - Entering a bank error in the cash book.
 - Missing titles, dates or labels on the first and last lines.
 
-## Next steps
+## More on this topic
 
 - Revisit the [bank reconciliation study guide](/resources/edexcel-igcse-accounting-4ac1-bank-reconciliation-statements/).
 - Review the cash book layout in the [books of original entry study guide](/resources/edexcel-igcse-accounting-4ac1-books-of-original-entry/).

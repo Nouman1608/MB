@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers sections **2.3 Expressions and formulae** and **2.4 Linear equations** from Topic 2, Equations, formulae and identities, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. 4MA1 is tiered: Foundation papers 1F and 2F and Higher papers 1H and 2H, each a 2-hour, 100-mark paper, and a calculator may be used on all of them. Almost everything here is on both tiers. The one extra Higher statement, changing the subject when it appears twice or appears with a power or root, is marked **Higher tier only**.
@@ -390,7 +390,7 @@ Clear any fractions, expand brackets, collect the unknown terms on one side and 
 **How do you substitute a fraction into an algebraic fraction?**
 Work out the numerator and the denominator separately, write both down, then divide. For (2x + 1)/(x − 1) with x = 2/3, the numerator is 7/3, the denominator is −1/3 and the value is −7.
 
-## Next steps
+## More on this topic
 
 Test recall with the [revision notes](/resources/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-practice/). To find gaps elsewhere, use the [free 10-minute diagnostics](/diagnostics/).
 

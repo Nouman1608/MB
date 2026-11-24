@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -166,7 +166,7 @@ Production creates goods → trade exchanges them → aids to trade make the exc
 
 **How detailed should a definition of logistics be?** Include movement *and* storage of goods, and link it to the supply chain. A definition that mentions only transport is incomplete.
 
-## Next steps
+## More on this topic
 
 Try the [trade and commerce practice questions](/resources/cambridge-o-level-commerce-7100-trade-and-commerce-practice/), then move on to the [production revision notes](/resources/cambridge-o-level-commerce-7100-production-revision-notes/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ These questions cover section 2.1, The role of markets, of the OCR GCSE (9-1) Ec
 - Evaluations that list benefits and costs with no judgement.
 - Ignoring figures and details given in an extract.
 
-## Next steps
+## More on this topic
 
 - Recap with the [2.1 revision notes](/resources/ocr-gcse-economics-j205-the-role-of-markets-revision-notes/).
 - Move on to the [demand practice questions](/resources/ocr-gcse-economics-j205-demand-practice/).

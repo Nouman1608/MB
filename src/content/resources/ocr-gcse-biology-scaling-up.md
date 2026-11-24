@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -210,7 +210,7 @@ revision material, since OCR
 regularly examines the reliability and limitations of these specific
 methods rather than only the underlying biology.
 
-## Related resources
+## More resources on this topic
 
 - [Scaling Up revision notes](/resources/ocr-gcse-biology-scaling-up-revision-notes/)
 - [Scaling Up practice questions](/resources/ocr-gcse-biology-scaling-up-practice/)

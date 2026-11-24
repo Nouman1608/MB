@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ These questions test globalisation in the OxfordAQA International AS and A-level
 - Giving political influence as a vague "power" with no mechanism.
 - Missing units, such as cu or percent, from a final answer.
 
-## Next steps
+## More on this topic
 
 - Recall: [revision notes](/resources/oxfordaqa-a-level-economics-globalisation-revision-notes/).
 - Learn: [study guide](/resources/oxfordaqa-a-level-economics-globalisation/).

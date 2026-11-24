@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,7 +178,7 @@ without saying why, or without using the scenario, usually gain only part of the
 - **Discuss when to use**: link each translator to a stage or situation and give the benefit.
 - **Use the specification's terms**: instruction set, mnemonic, 1:1 correspondence, embedded system, portable.
 
-## Next steps
+## More on this topic
 
 Revise the comparisons quickly in the [classification of programming languages and translators revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-revision-notes/)

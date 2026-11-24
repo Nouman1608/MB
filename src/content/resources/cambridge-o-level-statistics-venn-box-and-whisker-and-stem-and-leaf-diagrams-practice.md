@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,7 +200,7 @@ Key: Year 7: 4 | 1 means 4.1 minutes. Year 9: 4 | 2 means 4.2 minutes.
 - Describing the median as the mean.
 - Giving comparison answers that are all numbers, with no conclusion in context.
 
-## Next steps
+## More on this topic
 
 - Re-read [the revision notes](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams-revision-notes/) or [the study guide](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams/).
 - Visit [the 4040 hub](/boards/cambridge/o-level/statistics/) and the [printable checklist](/checklists/cambridge/o-level/statistics/).

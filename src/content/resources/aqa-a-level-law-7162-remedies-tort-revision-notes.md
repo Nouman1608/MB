@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -175,6 +175,6 @@ Condensed notes for the section 3.3 row **Remedies**: "compensatory damages for 
 11. Name the four *Shelfer* conditions. *Small injury; estimable in money; adequately compensated by a small payment; injunction oppressive.*
 12. What did *Coventry v Lawrence* say about *Shelfer*? *It should not be applied mechanically; the court has a wide discretion.*
 
-## Related resources
+## More resources on this topic
 
 [Remedies in tort practice questions](/resources/aqa-a-level-law-7162-remedies-tort-practice/) | [Tort revision notes](/resources/aqa-a-level-law-tort-revision-notes/)

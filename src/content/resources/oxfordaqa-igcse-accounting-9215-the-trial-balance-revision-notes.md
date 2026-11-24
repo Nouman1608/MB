@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ Capital = total debits − total credits (excluding capital)
 11. For example, it **cannot reveal an error of commission**, such as a payment posted to the wrong supplier's account.
 12. Closing inventory is counted at the year end and is **not yet in the ledger**; the ledger still shows the opening inventory.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [trial balance study guide](/resources/oxfordaqa-igcse-accounting-9215-the-trial-balance/).
 - Try the [trial balance practice questions](/resources/oxfordaqa-igcse-accounting-9215-the-trial-balance-practice/).

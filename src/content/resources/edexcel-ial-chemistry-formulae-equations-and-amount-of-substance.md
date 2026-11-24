@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Topic 1, Formulae, Equations and Amount of Substance, of the Pearson Edexcel
@@ -319,7 +319,7 @@ larger syringe) improves the result most.
 - Rounding mid-calculation, so a ratio such as 1 : 2.96 is misread.
 - Ionic equations that balance atoms but not charge, or that keep spectator ions.
 
-## Next steps
+## More on this topic
 
 Read the [revision notes](/resources/edexcel-ial-chemistry-formulae-equations-and-amount-of-substance-revision-notes/),
 then work through the [practice questions](/resources/edexcel-ial-chemistry-formulae-equations-and-amount-of-substance-practice/).

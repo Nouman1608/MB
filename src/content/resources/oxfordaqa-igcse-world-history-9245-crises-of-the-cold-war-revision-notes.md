@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -162,6 +162,6 @@ featured: false
 11. Handing the fighting to South Vietnamese forces while withdrawing American troops.
 12. April 1975.
 
-## Next steps
+## More on this topic
 
 Try the [Crises of the Cold War practice questions](/resources/oxfordaqa-igcse-world-history-9245-crises-of-the-cold-war-practice/).

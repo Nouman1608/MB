@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -217,7 +217,7 @@ OCR A Level Physics A (H556) expects the standard prefixes from pico to tera, al
 **Why do you need to estimate physical quantities?**
 Section 2.1.1 of the specification expects sensible estimates of quantities such as the mass of an apple or the speed of a walking person. Estimation lets you sanity-check whether a calculated answer is plausible.
 
-## Related resources
+## More resources on this topic
 
 - [Foundations of Physics study guide](/resources/ocr-a-level-physics-foundations-of-physics/)
 - [Foundations of Physics practice questions](/resources/ocr-a-level-physics-foundations-practice/)

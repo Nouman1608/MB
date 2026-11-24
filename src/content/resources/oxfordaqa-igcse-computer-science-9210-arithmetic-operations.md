@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -189,7 +189,7 @@ number of crates.
 - **Explain** why an operator was chosen: link it to the data ("a number of crates must be whole, so `DIV` is
   used").
 
-## Next steps
+## More on this topic
 
 Quick-recall tables and a self-test are in the [arithmetic operations revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-arithmetic-operations-revision-notes/), and you can apply

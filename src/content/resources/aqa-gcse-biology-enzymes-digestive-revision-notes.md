@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -217,7 +217,7 @@ Amylase (a carbohydrase) digests starch into simple sugars, protease digests pro
 **What is Required Practical 5?**
 It investigates the effect of pH on the rate of reaction of amylase, by sampling the mixture into iodine at intervals and timing how long it takes for starch to be broken down.
 
-## Related resources
+## More resources on this topic
 
 [Enzymes and the Digestive System study guide](/resources/gcse-aqa-biology-enzymes-and-the-digestive-system/) |
 [Enzymes and the Digestive System practice questions](/resources/aqa-gcse-biology-enzymes-digestive-practice/)

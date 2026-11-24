@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -162,7 +162,7 @@ concentration is 0.0100 ÷ 0.100 = 0.100 mol/dm³.
 9. It doubles.
 10. 0.200 × 0.500 × 58.5 = 5.85 g.
 
-## Next steps
+## More on this topic
 
 - [Concentrations in mol/dm3 study guide](/resources/aqa-gcse-chemistry-8462-concentrations-in-mol-dm3/)
 - [Concentrations in mol/dm3 practice questions](/resources/aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-practice/)

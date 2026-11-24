@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -110,7 +110,7 @@ These questions practise sections 9.2 Quality management and 9.3 Operations stra
 - Writing "it depends" in an evaluation without saying what it depends on.
 - Not using figures from the case study.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/cambridge-a-level-business-quality-management-and-operations-strategy-revision-notes/)
 - [Study guide](/resources/cambridge-a-level-business-quality-management-and-operations-strategy/)

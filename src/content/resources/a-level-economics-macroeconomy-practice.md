@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-24
 featured: false
 ---
@@ -169,7 +169,7 @@ Extended answers in the real exam are marked with levels of response. The evalua
 **What is a common mistake when listing the components of aggregate demand?**
 Leaving out net exports, or listing exports on their own. The fourth component is net exports, X minus M.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of/).
 - Use the [course hub](/boards/cambridge/a-level/economics/) and [checklist](/checklists/cambridge/a-level/economics/) to plan what is next.

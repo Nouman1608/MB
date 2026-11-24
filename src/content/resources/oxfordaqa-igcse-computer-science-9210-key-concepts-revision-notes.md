@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -164,7 +164,7 @@ checks and processes the data securely.
 9. The user can see, change or switch off the script, so the check must be repeated on the server.
 10. For example one rule can change the look of every page, or the HTML stays cleaner.
 
-## Related resources
+## More resources on this topic
 
 - [Key concepts study guide](/resources/oxfordaqa-igcse-computer-science-9210-key-concepts/)
 - [Key concepts practice questions](/resources/oxfordaqa-igcse-computer-science-9210-key-concepts-practice/)

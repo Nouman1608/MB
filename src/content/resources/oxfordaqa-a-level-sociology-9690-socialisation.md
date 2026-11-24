@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,7 +177,7 @@ sociologist or perspective and a consequence. In 20-mark questions such as "eval
 the family is the most important agency of socialisation", weigh agencies against each other
 across the life course and apply to a named society.
 
-## Next steps
+## More on this topic
 
 - [Socialisation revision notes](/resources/oxfordaqa-a-level-sociology-9690-socialisation-revision-notes/)
 - [Socialisation practice questions](/resources/oxfordaqa-a-level-sociology-9690-socialisation-practice/)

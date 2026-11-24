@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ Debit                                Credit
 - Not bringing down the new balance on the provision account.
 - Evaluations that never reach a conclusion.
 
-## Next steps
+## More on this topic
 
 - Revisit the [irrecoverable debts study guide](/resources/edexcel-igcse-accounting-4ac1-irrecoverable-debts/).
 - Try the combined [irrecoverable debts and other receivables and payables practice questions](/resources/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables-practice/).

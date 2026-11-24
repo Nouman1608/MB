@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -228,7 +228,7 @@ Insoluble barium sulfate forms a coating on the metal, which stops the reaction.
 **Which part of the Cambridge 9701 syllabus covers Group 2?**
 Group 2 is subtopic 10.1, Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds, in Cambridge International AS & A Level Chemistry 9701.
 
-## Related resources
+## More resources on this topic
 
 - [The Periodic Table: Periodicity Across Period 3](/resources/as-periodicity-across-period-3/) — the same polarisation/charge-density reasoning applied across a period
 - [Group 17: The Halogens](/resources/as-group-17-the-halogens/) — a second group studied in the same way

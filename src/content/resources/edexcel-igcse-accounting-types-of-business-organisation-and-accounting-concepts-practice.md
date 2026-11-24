@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ Links: [Edexcel IGCSE Accounting hub](/boards/edexcel/igcse/accounting/), [print
 - Calling an item material or immaterial without any comparison.
 - Stating a conclusion in an evaluate question with no figures to support it.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts-revision-notes/) and read the [study guide](/resources/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts/).
 - Check the [course hub](/boards/edexcel/igcse/accounting/) and the [checklist](/checklists/edexcel/igcse/accounting/).

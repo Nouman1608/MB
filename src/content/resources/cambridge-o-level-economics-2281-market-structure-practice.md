@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ D: One firm acting as price maker
 - Naming a barrier to entry without explaining why it stops new firms.
 - Giving a one-sided answer when asked to discuss.
 
-## Next steps
+## More on this topic
 
 - Re-read the [market structure study guide](/resources/cambridge-o-level-economics-2281-market-structure/).
 - Revise from the [market structure revision notes](/resources/cambridge-o-level-economics-2281-market-structure-revision-notes/).

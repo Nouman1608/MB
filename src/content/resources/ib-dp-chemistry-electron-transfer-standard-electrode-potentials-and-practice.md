@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ Before starting, read the [Reactivity 3.2.12-3.2.16 study guide](/resources/ib-d
 - Ignoring concentration (NaCl) or electrode material (CuSO₄).
 - Making the object the anode in electroplating.
 
-## Next steps
+## More on this topic
 
 - [Condensed notes: electrode potentials and electrolysis](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-revision-notes/)
 - [Full study guide: Reactivity 3.2.12 to 3.2.16](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and/)

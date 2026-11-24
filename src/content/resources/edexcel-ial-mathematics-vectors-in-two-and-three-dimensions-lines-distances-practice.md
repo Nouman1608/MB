@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Show that the direction vectors are not multiples of each other, so the lines ar
 **Which vectors do you use to find the angle between two lines?**
 Use only the direction vectors of the lines, not the position vectors. Take the modulus of the scalar product to get the acute angle when the angle between the lines is asked for.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances/).
 - Go to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off topics on the [checklist](/checklists/edexcel/a-level/mathematics/).

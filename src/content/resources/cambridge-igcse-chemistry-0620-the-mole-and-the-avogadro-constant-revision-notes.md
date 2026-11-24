@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ moles: 0.050 × 24 = **1.2 dm³** (1200 cm³).
 11. 15.0 ÷ 20.0 × 100 = 75.0%.
 12. 16 ÷ 18 × 100 = 88.9%.
 
-## Next steps
+## More on this topic
 
 Try the [Mole and the Avogadro Constant practice questions](/resources/cambridge-igcse-chemistry-0620-the-mole-and-the-avogadro-constant-practice/),
 which include one question of each calculation type.

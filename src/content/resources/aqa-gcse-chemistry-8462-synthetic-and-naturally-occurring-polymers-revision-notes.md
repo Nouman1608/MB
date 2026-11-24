@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -174,7 +174,7 @@ join together, and a small molecule such as water is lost each time two monomers
 Number of water molecules lost when n amino acids join in a single chain: n − 1. For 50 glycine units,
 **49** molecules of water are lost.
 
-## Next steps
+## More on this topic
 
 - [Synthetic and naturally occurring polymers study guide](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers/)
 - [Synthetic and naturally occurring polymers practice questions](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-practice/)

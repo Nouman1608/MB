@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "zain-ud-din-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ Debit balances correct [2]; credit balances correct [2]; totals agreeing at $23 
 - Naming a concept without explaining why it applies.
 - Evaluating without reaching a justified conclusion.
 
-## Next steps
+## More on this topic
 
 Review the [accounting system study guide](/resources/cambridge-a-level-accounting-9706-the-accounting-system/) and the [accounting system revision notes](/resources/cambridge-a-level-accounting-9706-the-accounting-system-revision-notes/), then check how errors are found in the [reconciliation and verification practice questions](/resources/accounting-reconciliation-verification-practice/).
 

@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ These questions follow Module 3 (Exchange and transport, sections 3.1.1 to 3.1.3
 - Describing the Bohr effect without saying which way the curve moves.
 - Writing "water moves from high to low water potential" with the wrong sign for negative values.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-biology-exchange-and-transport-revision-notes/) and [study guide](/resources/ocr-a-level-biology-exchange-and-transport/).
 - Course hub: [OCR A Level Biology](/boards/ocr/a-level/biology/) and [checklist](/checklists/ocr/a-level/biology/).

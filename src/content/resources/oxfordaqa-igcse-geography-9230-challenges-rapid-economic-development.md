@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix the case-study country. This page uses China. Check every figure and date: reforms from 1978, special economic zones from 1980, WTO entry 2001, sector shares of GDP and employment, poverty reduction, number of migrant workers, coal share of electricity, Belt and Road (2013), one-child policy (1979 to 2015) and the Foxconn and Apple example."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix the case-study country. This page uses China. Check every figure and date: reforms from 1978, special economic zones from 1980, WTO entry 2001, sector shares of GDP and employment, poverty reduction, number of migrant workers, coal share of electricity, Belt and Road (2013), one-child policy (1979 to 2015) and the Foxconn and Apple example. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -147,6 +147,6 @@ The answer balances positives and negatives and ends with a judgement.
 - **Forgetting dates.** Say when reforms or events happened.
 - **Treating aid as always good or always bad.** Weigh the types and effects.
 
-## Next steps
+## More on this topic
 
 Condense this with the [rapid economic development revision notes](/resources/oxfordaqa-igcse-geography-9230-challenges-rapid-economic-development-revision-notes/) and test yourself with the [rapid economic development practice questions](/resources/oxfordaqa-igcse-geography-9230-challenges-rapid-economic-development-practice/).

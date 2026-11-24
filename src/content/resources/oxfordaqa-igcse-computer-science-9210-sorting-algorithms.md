@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -210,7 +210,7 @@ matters more than speed.
 - **Compare** with a point for each algorithm: speed on large lists, simplicity, and memory.
 - **Explain** merge sort in prose using the four steps: stop at one item, split, sort each half, merge.
 
-## Next steps
+## More on this topic
 
 For a condensed summary and a self-test, use the [Sorting algorithms revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-sorting-algorithms-revision-notes/), and practise with the

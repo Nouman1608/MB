@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Emissions still rise, though far more slowly than output. To reduce total emissi
 - **Consider** and **Assess:** use data to identify which objectives are furthest from target, then rank them with a reason.
 - **Evaluate:** in unstructured Paper 4 essays, show that priorities depend on context, time horizon and values, and reach a clear judgement.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [macroeconomic objectives revision notes](/resources/cambridge-a-level-economics-9708-government-macroeconomic-policy-objectives-a-revision-notes/).
 - Test yourself with the [macroeconomic objectives practice questions](/resources/cambridge-a-level-economics-9708-government-macroeconomic-policy-objectives-a-practice/).

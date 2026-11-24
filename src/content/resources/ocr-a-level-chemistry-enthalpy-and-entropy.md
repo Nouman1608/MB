@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 5.2.2, Enthalpy and entropy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 5, Physical chemistry and transition elements, and has six lettered learning outcomes, 5.2.2(a) to (f), and each one is taught below with worked examples. H432 is a single full A level. Its assessment overview shows that Module 5 is assessed in the Periodic table, elements and physical chemistry component and in the Unified chemistry component. No PAG is linked to this section.
@@ -237,7 +237,7 @@ When you are asked to estimate an outcome (M0.3), state both parts: the ∆G con
 - Saying a reaction "will happen quickly" because ∆G is negative.
 - Losing the sign of −T∆S when ∆S is negative.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Enthalpy and entropy revision notes](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-revision-notes/), then test yourself with the [Enthalpy and entropy practice questions](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-practice/). The same feasibility-versus-rate argument returns in 5.2.3, where electrode potentials predict feasibility; the oxidation-number skills you need there are in [Redox](/resources/ocr-a-level-chemistry-redox/).
 

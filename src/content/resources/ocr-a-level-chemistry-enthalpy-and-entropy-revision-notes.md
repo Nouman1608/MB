@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense section 5.2.2, Enthalpy and entropy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover all six learning outcomes, 5.2.2(a) to (f), which sit in Module 5 (Physical chemistry and transition elements) of this full A level. The specification's assessment overview places Module 5 in the Periodic table, elements and physical chemistry component and the Unified chemistry component.
@@ -204,7 +204,7 @@ Both ∆H and ∆S are positive, so the decomposition is feasible only above abo
 - Stating that a negative ∆G means a reaction is fast.
 - Explaining entropy as "chaos" with no reference to how energy or particles are dispersed.
 
-## Next steps
+## More on this topic
 
 - Full explanations: [Enthalpy and entropy study guide](/resources/ocr-a-level-chemistry-enthalpy-and-entropy/)
 - Exam-style practice: [Enthalpy and entropy practice questions](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-practice/)

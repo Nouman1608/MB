@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ Check that the control binds: a maximum price must be below equilibrium and a mi
 **What should an evaluation of intervention include?**
 Name the failure the policy addresses, weigh its cost and what the government gives up, and reach a judgement rather than listing strengths and weaknesses.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price/).
 - Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and [printable checklist](/checklists/aqa/a-level/economics/).

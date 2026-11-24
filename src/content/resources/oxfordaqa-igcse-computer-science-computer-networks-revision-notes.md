@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Computer networks (topic 3.5 of OxfordAQA International GCSE Computer Science 9210) covers what a network is,
@@ -173,7 +173,7 @@ Ethernet is also a family of protocols.
 **Which layer does a network interface card belong to?**
 The link layer, where the network hardware and the operating system's device drivers are located.
 
-## Related resources
+## More resources on this topic
 
 [Computer networks study guide](/resources/oxfordaqa-igcse-computer-science-computer-networks-study-guide/) |
 [Computer networks practice questions](/resources/oxfordaqa-igcse-computer-science-computer-networks-practice/) |

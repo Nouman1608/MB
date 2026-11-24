@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -202,7 +202,7 @@ questions need arguments for and against, a named society and a justified conclu
 3.1.1.1 often provides the examples for extended answers elsewhere: Therborn and matrilineal
 societies are strong evidence against functionalist claims of a universal nuclear family.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [Families, marriage and kinship revision notes](/resources/oxfordaqa-a-level-sociology-9690-families-marriage-kinship-revision-notes/)
 - Exam-style questions with mark schemes: [Families, marriage and kinship practice questions](/resources/oxfordaqa-a-level-sociology-9690-families-marriage-kinship-practice/)

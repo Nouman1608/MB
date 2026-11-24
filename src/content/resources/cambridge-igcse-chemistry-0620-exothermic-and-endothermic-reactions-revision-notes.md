@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ N₂ + 3H₂ → 2NH₃. Broken: 945 + 3 × 436 = 2253. Made: 6 × 391 = 2346.
 11. More energy is released making bonds than is needed to break bonds.
 12. +250 kJ/mol.
 
-## Next steps
+## More on this topic
 
 Try the [Exothermic and Endothermic Reactions practice questions](/resources/cambridge-igcse-chemistry-0620-exothermic-and-endothermic-reactions-practice/),
 which include a full diagram-drawing question and three bond energy calculations.

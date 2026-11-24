@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ W = W₀e^(−2t/RC)            (stored energy falls with time constant RC/2)
 
 **Answers:** 1. As charge leaves, the p.d. across the capacitor (and so across the resistor) falls, and I = V/R falls with it. 2. Ω × F = (V A⁻¹)(C V⁻¹) = C A⁻¹ = (A s) A⁻¹ = s. 3. 1/e ≈ 0.37. 4. 47 × 10³ × 100 × 10⁻⁶ = 4.7 s. 5. 9.0 / 47 000 = 1.9 × 10⁻⁴ A. 6. 9.0e^(−10/4.7) = 9.0 × 0.119 = 1.1 V. 7. t = 4.7 ln 9 = 10.3 s. 8. 2.1 / 0.693 = 3.0 s. 9. 1/0.40 = 2.5 s. 10. Unchanged. 11. The initial charge Q₀ (all the charge that flows off the capacitor). 12. τ/2, because energy ∝ V² and decays as e^(−2t/RC).
 
-## Related resources
+## More resources on this topic
 
 - [Capacitance revision notes](/resources/a-physics-capacitance-revision-notes/) — the whole of Topic 19
 - [Discharging a capacitor practice questions](/resources/cambridge-a-level-physics-9702-a-discharging-a-capacitor-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -162,6 +162,6 @@ For each cause the answer links the activity to a gas and the gas to warming; th
 - **Listing evidence without explaining it.** Say how each type of evidence shows past climate.
 - **Overview of effects with no examples.** Name at least one place or group for each effect you give.
 
-## Next steps
+## More on this topic
 
 Condense this with the [climate change revision notes](/resources/oxfordaqa-igcse-geography-9230-climate-change-revision-notes/) and test yourself with the [climate change practice questions](/resources/oxfordaqa-igcse-geography-9230-climate-change-practice/). For the other units on this part of the specification, see [ecosystems](/resources/oxfordaqa-igcse-geography-9230-ecosystems/) and [coastal processes and landforms](/resources/oxfordaqa-igcse-geography-9230-coastal-processes-landforms/).

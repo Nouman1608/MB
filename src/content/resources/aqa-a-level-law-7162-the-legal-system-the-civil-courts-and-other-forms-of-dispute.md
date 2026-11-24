@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -183,6 +183,6 @@ Appeal: only with permission, to a circuit judge, if the decision was wrong.
 
 For **outline** questions, give the structure and the function of each part. For **advise** scenarios, take the client through negotiation, mediation, the right court and track, and appeal. For **evaluate** questions, weigh cost, speed, expertise and fairness of each method.
 
-## Next steps
+## More on this topic
 
 Condensed recall is in the [Civil Courts and Dispute Resolution revision notes](/resources/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-revision-notes/), and scenario practice is in the [Civil Courts and Dispute Resolution practice questions](/resources/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-practice/). How civil claims are funded is covered in the [Access to Justice and Funding study guide](/resources/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding/).

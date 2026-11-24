@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ Data: e = 1.60 × 10⁻¹⁹ C; h = 6.63 × 10⁻³⁴ J s; c = 3.00 × 10⁸ m 
 - Describing the filter as reducing the intensity of all photons equally.
 - Describing CT without naming the computer processing.
 
-## Next steps
+## More on this topic
 
 - [X-ray imaging study guide](/resources/aqa-a-level-physics-7408-x-ray-imaging/)
 - [X-ray imaging revision notes](/resources/aqa-a-level-physics-7408-x-ray-imaging-revision-notes/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -133,6 +133,6 @@ During **La Nina**, the reverse tends to happen: wetter conditions and flood ris
 
 **Answers:** 1. Prevailing winds; the Coriolis effect. 2. Temperature and salinity. 3. Cold, nutrient-rich water rising to the surface, supporting fisheries. 4. They weaken, so warm water spreads east and upwelling off South America is reduced. 5. Acidification and thermal expansion. 6. Anticlockwise. 7. The Gulf Stream and North Atlantic Drift carry warm water towards it. 8. Salt is left behind as sea water freezes, raising the salinity of the water nearby. 9. The loop of air rising over the warm western Pacific and sinking over the cooler eastern Pacific. 10. Peru: flooding or reduced anchoveta catches; Australia or Indonesia: drought or fires. 11. It reduces the carbonate they need to build shells and skeletons. 12. Unusually warm water makes corals expel the algae living in their tissues.
 
-## Related resources
+## More resources on this topic
 
 - [Option B: Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/)

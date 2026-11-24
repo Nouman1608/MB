@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -182,7 +182,7 @@ The Knowing and understanding task is worth 25 marks, out of 100 for the whole e
 **What does "scientifically supported judgment" mean?**
 It is a conclusion backed by a scientific idea or by data, not by opinion. At the top band you judge the validity or quality of information, such as a media claim or another person's results.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion A revision notes](/resources/ib-myp-sciences-criterion-a-knowing-and-understanding-revision-notes/), then test yourself with the [Criterion A practice questions](/resources/ib-myp-sciences-criterion-a-knowing-and-understanding-practice/). Read about [investigation skills](/resources/ib-myp-sciences-investigation-skills-exam-preparation/) for Criteria B and C, and the [MYP Sciences syllabus guide](/resources/ib-myp-sciences-syllabus-guide/) for the full course.
 

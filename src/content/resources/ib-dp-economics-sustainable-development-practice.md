@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Name the goal or goals by number and title, explain how the policy or event move
 **Is the poverty and sustainability link HL only in IB Economics?**
 Yes. The relationship between sustainability and poverty in sub-topic 4.7 is HL only. The meaning of sustainable development and the Sustainable Development Goals are for SL and HL.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/) and the [study guide](/resources/ib-dp-economics-sustainable-development/).
 - Return to the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and tick off the [printable checklist](/checklists/ib/ib-dp/economics/).

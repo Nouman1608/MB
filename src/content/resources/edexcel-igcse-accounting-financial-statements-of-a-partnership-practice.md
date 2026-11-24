@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ Check: 27,500 + 420 - 4,000 - 7,000 = 16,920 and 16,920 / 3 = 5,640. **[7]**
 - Leaving a one-word reason with no explanation.
 - Not stating whether a closing current account balance is debit or credit.
 
-## Next steps
+## More on this topic
 
 - Recap the rules in the [revision notes](/resources/edexcel-igcse-accounting-financial-statements-of-a-partnership-revision-notes/).
 - Rework anything you missed with the [study guide](/resources/edexcel-igcse-accounting-financial-statements-of-a-partnership/).

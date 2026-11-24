@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ At a conservative boundary, plates slide past one another along a transform faul
 - **Calculate**: convert units carefully and say whether a rate is a half-rate or a full spreading rate.
 - Cross-section diagrams should show the direction of plate movement, the subducting slab and where melting occurs.
 
-## Related resources
+## More resources on this topic
 
 - [3.1 Plate tectonics revision notes](/resources/a-level-geography-9696-plate-tectonics-revision-notes/)
 - [3.1 Plate tectonics practice questions](/resources/cambridge-a-level-geography-9696-plate-tectonics-practice/)

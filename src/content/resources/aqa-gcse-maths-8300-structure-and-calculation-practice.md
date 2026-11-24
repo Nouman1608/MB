@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -199,7 +199,7 @@ If one choice can be made in m ways and a second in n ways, together they can be
 **Which references does AQA GCSE Maths 3.1.1 Structure and calculation cover?**
 Section 3.1.1 covers N1 to N9: ordering, the four operations, inverse operations and priority of operations, primes and factors, systematic listing, powers and roots, indices, exact calculation and standard form.
 
-## Next steps
+## More on this topic
 
 - [Structure and calculation revision notes](/resources/aqa-gcse-maths-8300-structure-and-calculation-revision-notes/)
 - [Structure and calculation study guide](/resources/aqa-gcse-maths-8300-structure-and-calculation/)

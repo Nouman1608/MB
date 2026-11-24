@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section D: Sequences and series** of AQA A-Level Mathematics (7357), as set out in the AQA A-level Mathematics specification, version 1.3 (31 January 2018), for exams from June 2018 onwards. It covers every content statement from D1 to D6. The specification lists Section D under **Paper 1**, and Papers 2 and 3 can assess any Paper 1 content, so these skills can earn marks on all three papers. A calculator is required in every 7357 paper, but most of this section is algebra you must show by hand.
@@ -308,7 +308,7 @@ A constant amount of change each step gives an arithmetic model, while a constan
 **How do you find a distant term of a periodic sequence?**
 Find the order of the cycle, then use the remainder when the term's position is divided by that order to identify which term in the cycle it matches.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Section D revision notes](/resources/aqa-a-level-mathematics-sequences-and-series-revision-notes/), then test yourself with the [Section D practice questions](/resources/aqa-a-level-mathematics-sequences-and-series-practice/). For timing and paper strategy, read the [7357 exam preparation guide](/resources/aqa-a-level-mathematics-exam-preparation/). To find your weakest topics quickly, try the [free diagnostics](/diagnostics/).
 

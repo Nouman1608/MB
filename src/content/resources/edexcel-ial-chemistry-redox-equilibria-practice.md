@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Purity = 0.242/0.250 × 100 = **96.9%** [1]
 - Using a single burette reading for the titre uncertainty.
 - Putting H⁺ in alkaline fuel cell equations, or OH⁻ in acid ones.
 
-## Next steps
+## More on this topic
 
 - Recap with the [redox equilibria revision notes](/resources/edexcel-ial-chemistry-redox-equilibria-revision-notes/).
 - Reread the worked examples in the [redox equilibria study guide](/resources/edexcel-ial-chemistry-redox-equilibria/).

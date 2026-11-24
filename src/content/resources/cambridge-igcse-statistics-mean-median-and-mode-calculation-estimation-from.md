@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers Topic 4, Measures of central tendency, of the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. It follows outcomes 4.1 to 4.4: calculating the mean and finding the median and mode, estimating them from grouped data, identifying the modal class, and justifying the choice of average in context. It is written for all candidates on the course, and the syllabus gives no tier split for this topic.
@@ -266,7 +266,7 @@ Always refer to the data in the question. "The median is better because it is no
 - Stating that the mean "is the middle". Say what it is: the total shared equally.
 - Describing an estimate as exact. Say "estimate" or "approximately" for any grouped answer.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from-practice/), recap with the [revision notes](/resources/cambridge-igcse-statistics-mean-median-and-mode-calculation-estimation-from-revision-notes/), and tick off outcomes on the [checklist](/checklists/cambridge/igcse/statistics/).
 

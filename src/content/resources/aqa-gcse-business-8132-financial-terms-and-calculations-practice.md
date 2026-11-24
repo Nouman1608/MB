@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ Evaluation: Oven B closes the bakery for two days, losing sales, which the ARR d
 - Giving margin of safety with no units, or in pounds when output is in units.
 - Recommending an investment on ARR alone without comparing it with the interest rate or mentioning risks.
 
-## Next steps
+## More on this topic
 
 - Revisit the [financial terms and calculations study guide](/resources/aqa-gcse-business-8132-financial-terms-and-calculations/) for any gaps.
 - Move on to income statements and profit margins in the [Finance study guide](/resources/aqa-gcse-business-finance/).

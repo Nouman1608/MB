@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Recycling: conserves crude oil, uses less landfill and recovers the material [1]
 - Polyalkene inertness explained by "strong bonds" with no mention of non-polar bonds or the lack of a δ+ carbon.
 - Disposal answers that give only advantages, or only problems.
 
-## Next steps
+## More on this topic
 
 - [Polymers revision notes](/resources/oxfordaqa-a-level-chemistry-polymers-revision-notes/)
 - [Polymers study guide](/resources/oxfordaqa-a-level-chemistry-polymers/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ society you know about. [12 marks]*
 - Giving examples of change over time with no explanation of the changing values behind them.
 - No example from a named society in an extended answer.
 
-## Next steps
+## More on this topic
 
 Condense with the [social construction and types of crime revision notes](/resources/oxfordaqa-igcse-sociology-9292-social-construction-and-types-of-crime-revision-notes/)
 and practise with the [practice questions](/resources/oxfordaqa-igcse-sociology-9292-social-construction-and-types-of-crime-practice/).

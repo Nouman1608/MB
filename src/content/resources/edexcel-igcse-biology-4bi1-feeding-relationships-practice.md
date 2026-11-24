@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,7 +144,7 @@ Use ideas about energy transfer to suggest why the field can feed more people if
 - Using fresh mass for a pyramid of biomass.
 - Forgetting that an omnivore sits at two trophic levels.
 
-## Next steps
+## More on this topic
 
 - Re-read the [feeding relationships study guide](/resources/edexcel-igcse-biology-4bi1-feeding-relationships/).
 - Revise with the [feeding relationships revision notes](/resources/edexcel-igcse-biology-4bi1-feeding-relationships-revision-notes/).

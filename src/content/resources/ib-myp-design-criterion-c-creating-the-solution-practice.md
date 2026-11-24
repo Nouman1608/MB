@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -173,7 +173,7 @@ Credit, one each: workable order [1]; one action per step [1]; a time for every 
 - Changes described but not justified.
 - An unfinished prototype that cannot be tested in Criterion D.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-myp-design-criterion-c-creating-the-solution-revision-notes/) for weak areas.
 - [Study guide](/resources/ib-myp-design-criterion-c-creating-the-solution/) for full explanations.

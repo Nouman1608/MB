@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ When a liquid boils at atmospheric pressure, the energy supplied by heating (mL)
 
 **Answers:** 1. ΔU = q + W, where ΔU is the increase in internal energy, q the energy transferred to the system by heating and W the work done on the system. 2. F = pA; W = FΔx = pAΔx = pΔV, since AΔx = ΔV. 3. pΔV = 2.0 × 10⁵ × 0.6 × 10⁻³ = 120 J. 4. W = −120 J. 5. W = 0, so ΔU = +250 J. 6. ΔU = +90 J; the temperature rises. 7. ΔU = 0, W = −140 J, so q = +140 J. 8. ΔU = 500 + (−180) = +320 J. 9. ΔU = −300 + 120 = −180 J. 10. The gas returns to its starting state and U is a function of state. 11. 1.0 × 10⁵ × 30 × 10⁻⁶ = 3.0 J. 12. The net work done by the gas in one cycle (equal to the net energy supplied by heating).
 
-## Related resources
+## More resources on this topic
 
 - [Thermodynamics revision notes](/resources/a-physics-thermodynamics-revision-notes/) — the whole of Topic 16
 - [Internal energy revision notes](/resources/cambridge-a-level-physics-9702-a-internal-energy-revision-notes/)

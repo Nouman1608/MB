@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -159,7 +159,7 @@ featured: false
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 1, 1.4 Anxiety disorders and fear-related disorders — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Anxiety and fear-related disorders study guide](/resources/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders/)
 - [Anxiety and fear-related disorders practice questions](/resources/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders-practice/)

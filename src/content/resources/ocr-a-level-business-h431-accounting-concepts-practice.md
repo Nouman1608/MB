@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -137,7 +137,7 @@ Evaluation: conventions leave room for judgement, such as the estimate of a doub
 - Forgetting to subtract selling costs when finding net realisable value.
 - Giving no judgement in evaluation.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-accounting-concepts/) for any gaps.
 - Try the [costs, revenue and profit practice questions](/resources/ocr-a-level-business-h431-costs-revenue-and-profit-practice/).

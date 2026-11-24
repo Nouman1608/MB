@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ The mean number of visits is 2.8.
 - Judging consistency from the means, when the standard deviations are what differ.
 - Writing only the final answer where the question asks you to show working.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion/) again for the worked examples.
 - Use the [revision notes](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion-revision-notes/) to memorise both formulae.

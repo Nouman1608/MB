@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ The examiner credits a correct identification **with** a reason drawn from the t
 - **Deduce:** use the evidence you are given, and quote it in your reason.
 - **Suggest:** apply the general properties to an unfamiliar situation, such as why a saucepan is made of metal but has a plastic handle (the metal conducts heat to the food; the plastic is a poor thermal conductor).
 
-## Related resources
+## More resources on this topic
 
 - [Properties of metals revision notes](/resources/cambridge-igcse-chemistry-0620-properties-of-metals-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-properties-of-metals-practice/)
 - [Uses of metals study guide](/resources/cambridge-igcse-chemistry-0620-uses-of-metals/), which applies these physical properties to real uses

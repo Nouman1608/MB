@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ These questions cover **3.1.5 Safety in public transport**, statements a to e, o
 - Forgetting the thinking distance when a question asks for stopping distance.
 - Saying energy is "lost" without naming the transfer to the brakes.
 
-## Next steps
+## More on this topic
 
 Revise from the [Safety in public transport revision notes](/resources/oxfordaqa-igcse-physics-9203-safety-in-public-transport-revision-notes/), then try the [Forces and terminal velocity practice questions](/resources/oxfordaqa-igcse-physics-9203-forces-and-terminal-velocity-practice/).
 

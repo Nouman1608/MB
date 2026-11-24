@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -142,7 +142,7 @@ For mixed questions on the whole of Topic 1, use the [Organisation practice ques
 - Saying the liver makes digestive enzymes instead of bile.
 - Failing to give the unit (dm³) or the percentage sign in calculations.
 
-## Next steps
+## More on this topic
 
 - [Animal tissues, organs and systems study guide](/resources/oxfordaqa-igcse-biology-9201-animal-tissues-organs-and-systems/)
 - [Organisation revision notes](/resources/igcse-oxfordaqa-biology-organisation-revision-notes/)

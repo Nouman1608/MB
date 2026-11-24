@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -243,7 +243,7 @@ No. Only fixed costs that are actually avoided are saved; treating all apportion
 **How do I finish an advise or evaluate question in marginal costing?**
 Give the relevant factors and then a clear final recommendation supported by the figures. Points with no decision lose the last mark.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-accounting-marginal-costing-revision-notes/)
 - [Study guide](/resources/aqa-a-level-accounting-marginal-costing/)

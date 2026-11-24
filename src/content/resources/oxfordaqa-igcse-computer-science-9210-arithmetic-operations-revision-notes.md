@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -168,7 +168,7 @@ Questions often hide this pattern inside a loop, so trace each expression in its
 11. 5 × 8 + 7 = 47, so both values are consistent.
 12. 3 (`731 DIV 10 = 73`, then `73 MOD 10 = 3`).
 
-## Related resources
+## More resources on this topic
 
 - [Arithmetic operations study guide](/resources/oxfordaqa-igcse-computer-science-9210-arithmetic-operations/)
 - [Arithmetic operations practice questions](/resources/oxfordaqa-igcse-computer-science-9210-arithmetic-operations-practice/)

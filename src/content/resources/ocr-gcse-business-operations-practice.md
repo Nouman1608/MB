@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -118,7 +118,7 @@ Give a point, then develop it with a consequence for the business in the questio
 **How should you compare two suppliers or two sites in an exam question?**
 Calculate the cost of each option first, then weigh the cheaper one against non-cost factors such as delivery time, reliability or closeness to customers. Finish with a supported judgement about which option suits the business best.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-business-operations-revision-notes/) and the [study guide](/resources/ocr-gcse-business-operations/).
 - Take the [free diagnostics](/diagnostics/) to check where you stand.

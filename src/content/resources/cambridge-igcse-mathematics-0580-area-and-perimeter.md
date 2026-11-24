@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ Cutting a triangle off one end and moving it to the other turns the parallelogra
 **Can any side be the base of a triangle?**
 Yes, provided you use the perpendicular height that goes with that side. Each choice of base gives the same area.
 
-## Next steps
+## More on this topic
 
 - Consolidate with the [area and perimeter revision notes](/resources/cambridge-igcse-mathematics-0580-area-and-perimeter-revision-notes/).
 - Practise with the [area and perimeter practice questions](/resources/cambridge-igcse-mathematics-0580-area-and-perimeter-practice/).

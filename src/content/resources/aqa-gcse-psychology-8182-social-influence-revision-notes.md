@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -203,7 +203,7 @@ costly (risk, disgust, embarrassment), so by the cost-reward idea people helped 
 of personal identity and self-restraint that can happen in an anonymous crowd. 7. Passengers did
 not give consent and were not debriefed. 8. Personality and expertise. 9. It fell, because the setting carried less authority. 10. Agreeing with every item scored as authoritarian, so people who tend to agree may have scored high regardless of personality. 11. Putting in less individual effort in a group; Latané, Williams and Harkins found people clapped and shouted less loudly per person in groups. 12. Expertise: people with skills such as first aid feel more able to help; or similarity: people help those they see as like themselves.
 
-## Related resources
+## More resources on this topic
 
 - [Social Influence study guide](/resources/aqa-gcse-psychology-8182-social-influence/)
 - [Social Influence practice questions](/resources/aqa-gcse-psychology-8182-social-influence-practice/)

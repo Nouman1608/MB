@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ Justify whether the owners should go ahead with the move. Consider at least thre
 - Justifying a decision without weighing the other side.
 - Offering two points that are really the same point reworded when two reasons are asked for.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/igcse-business-0264-business-objectives-and-stakeholder-objectives/) for any question you missed.
 - Use the [revision notes](/resources/igcse-business-0264-business-objectives-and-stakeholder-objectives-revision-notes/) for a final recall check.

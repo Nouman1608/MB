@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -188,7 +188,7 @@ The trap is the second statement. 25% of 120 would be 30, which is a different (
 - **"Show that"**: in a two-way table question, show the calculation for each cell in the order you found it, so the method is visible.
 - On Papers 1 and 2 (no calculator) the fractions and percentages in two-way questions are chosen to work by hand: 25% is a quarter, 3/5 is three lots of a fifth.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [classifying data revision notes](/resources/cambridge-igcse-mathematics-0580-classifying-statistical-data-revision-notes/).
 - Questions with marked answers: [classifying data practice questions](/resources/cambridge-igcse-mathematics-0580-classifying-statistical-data-practice/).

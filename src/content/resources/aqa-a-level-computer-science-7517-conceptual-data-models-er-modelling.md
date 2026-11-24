@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -163,7 +163,7 @@ Notice that the price is held once in Product, not copied into every order line,
 - Underline identifiers in every entity description.
 - State any **assumption** you make (for example that a member borrows the same book on different dates).
 
-## Related resources
+## More resources on this topic
 
 - [Data modelling revision notes](/resources/aqa-a-level-computer-science-7517-conceptual-data-models-er-modelling-revision-notes/)
 - [Data modelling practice questions](/resources/aqa-a-level-computer-science-7517-conceptual-data-models-er-modelling-practice/)

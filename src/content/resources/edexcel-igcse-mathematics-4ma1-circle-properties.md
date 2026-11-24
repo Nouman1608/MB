@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ Check with the isosceles triangle OAB: (180° − 128°) ÷ 2 = 26°. ✓
 - Using the chord length instead of the full distance from P in the external chord rule.
 - Forgetting that two radii make an isosceles triangle.
 
-## Next steps
+## More on this topic
 
 Condense the facts with the [Circle properties revision notes](/resources/edexcel-igcse-mathematics-4ma1-circle-properties-revision-notes/), then try the [Circle properties practice questions](/resources/edexcel-igcse-mathematics-4ma1-circle-properties-practice/).
 

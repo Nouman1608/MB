@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches topic 17, Selection and evolution, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 17.1 Variation, 17.2 Natural and artificial selection and 17.3 Evolution. This is A Level content, not AS. It is examined on Paper 4 (A Level Structured Questions), and the t-test can also appear on Paper 5 (Planning, Analysis and Evaluation).
@@ -270,7 +270,7 @@ Speciation needs **reproductive isolation**: two populations stop exchanging all
 - Writing "the results are significant" without comparing t with the critical value at the right degrees of freedom.
 - Describing hybrid maize as vigorous "because it is homozygous". Inbred lines are homozygous; the hybrids are heterozygous.
 
-## Next steps
+## More on this topic
 
 Condense this with the [selection and evolution revision notes](/resources/a-level-biology-9700-selection-and-evolution-revision-notes/), then test yourself with the [selection and evolution practice questions](/resources/a-level-biology-9700-selection-and-evolution-practice/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ Related: the [Classification of businesses study guide](/resources/cambridge-o-l
 - Placing a public limited company or a charity in the public sector.
 - Giving only one side in a "consider... justify" answer, as in question 10.
 
-## Next steps
+## More on this topic
 
 Review the reasons for sector change in the [Classification of businesses study guide](/resources/cambridge-o-level-business-7115-classification-of-businesses/), then move on to the [Types of business organisation practice questions](/resources/cambridge-o-level-business-7115-types-of-business-organisation-practice/).
 

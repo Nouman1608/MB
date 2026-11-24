@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ These questions cover sections 4.5 and 4.6 of the Cambridge International AS & A
 - Describing cost-push as a rise in demand, or leaving out the change in output.
 - Listing consequences of inflation without saying who gains or loses.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-unemployment-and-price-stability-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-unemployment-and-price-stability/).
 - Check your coverage on the [printable checklist](/checklists/cambridge/a-level/economics/) and the [course hub](/boards/cambridge/a-level/economics/).

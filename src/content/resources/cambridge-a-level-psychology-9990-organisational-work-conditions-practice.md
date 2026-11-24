@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -144,6 +144,6 @@ Related: [Work conditions study guide](/resources/cambridge-a-level-psychology-9
 - In question 5(a), giving Swat's figures without saying what they refer to.
 - In question 8(a), dividing by the new value instead of the original.
 
-## Next steps
+## More on this topic
 
 Review weak areas in the [work conditions study guide](/resources/cambridge-a-level-psychology-9990-organisational-work-conditions/), then try the mixed [Organisational Psychology practice questions](/resources/a-level-psychology-organisational-psychology-practice/).

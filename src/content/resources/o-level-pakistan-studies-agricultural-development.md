@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Agricultural development is Section 4 of Paper 2 in Cambridge O Level Pakistan Studies 2059,
@@ -222,7 +222,7 @@ available to clean the channels.
 The seasonal movement of herders and livestock between high summer pastures and lower winter
 grazing, as practised in the mountains of northern Pakistan and Balochistan.
 
-## Related resources
+## More resources on this topic
 
 - [Agricultural Development revision notes](/resources/o-level-pakistan-studies-agricultural-development-revision-notes/)
 - [Agricultural Development practice questions](/resources/o-level-pakistan-studies-agricultural-development-practice/)

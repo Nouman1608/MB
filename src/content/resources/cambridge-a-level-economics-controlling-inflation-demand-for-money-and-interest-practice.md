@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ These questions cover outcomes 9.4.6 to 9.4.8 of the Cambridge International AS 
 - Mixing up loanable funds and liquidity preference in one explanation.
 - Ending an evaluation with no judgement.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest/).
 - Use the [course hub](/boards/cambridge/a-level/economics/) and [checklist](/checklists/cambridge/a-level/economics/) to plan what is next.

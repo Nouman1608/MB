@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ These questions cover statements C3.1.11 to C3.1.23 of the IB *Biology guide*, f
 - Mixing up where auxin and cytokinin are made.
 - Quoting one result instead of comparing treatments.
 
-## Next steps
+## More on this topic
 - Review the [revision notes](/resources/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant-revision-notes/) and the [study guide](/resources/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant/).
 - Return to the [IB DP Biology hub](/boards/ib/ib-dp/biology/) and tick off the [printable checklist](/checklists/ib/ib-dp/biology/).
 - Try [all free 10-minute diagnostics](/diagnostics/).

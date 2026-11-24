@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -147,7 +147,7 @@ scale**; it shows only a small part of the structure [1]
 - Explaining non-conduction without mentioning that all outer electrons are used in bonds.
 - Counting each bond twice in a bond calculation.
 
-## Next steps
+## More on this topic
 
 - Recap with the [diamond revision notes](/resources/aqa-gcse-chemistry-8462-diamond-revision-notes/).
 - Reread any weak area in the [diamond study guide](/resources/aqa-gcse-chemistry-8462-diamond/).

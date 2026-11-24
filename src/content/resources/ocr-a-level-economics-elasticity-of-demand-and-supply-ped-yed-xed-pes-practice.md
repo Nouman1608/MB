@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ These questions test the topic Elasticity in Component 1, Microeconomics, of the
 - Adding percentage changes instead of multiplying the price and quantity factors for revenue.
 - Listing determinants with no application to the named product and no ranking.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes/) on any weak area.
 - Use the [revision notes](/resources/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes-revision-notes/) for a final check.

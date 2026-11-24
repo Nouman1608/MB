@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -181,7 +181,7 @@ bus in focus. **[4]**
 - Describing a trend without the values.
 - Plans that change more than one variable at a time.
 
-## Next steps
+## More on this topic
 
 - [Human nervous system study guide](/resources/aqa-gcse-biology-8461-the-human-nervous-system/)
 - [Human nervous system revision notes](/resources/aqa-gcse-biology-8461-the-human-nervous-system-revision-notes/)

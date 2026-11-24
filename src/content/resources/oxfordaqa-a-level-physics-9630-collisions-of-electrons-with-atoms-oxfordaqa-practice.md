@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ D: the temperature of the filament **[1]**
 - Saying that a higher current shortens the minimum wavelength (Question 11).
 - Answering an evidence question without linking photon energy to energy differences (Question 12).
 
-## Next steps
+## More on this topic
 
 - Review the reasoning in the [electron collisions study guide](/resources/oxfordaqa-a-level-physics-9630-collisions-of-electrons-with-atoms-oxfordaqa/).
 - Continue with the [photoelectric effect practice questions](/resources/oxfordaqa-a-level-physics-9630-photoelectric-effect-oxfordaqa-practice/).

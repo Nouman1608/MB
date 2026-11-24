@@ -26,7 +26,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -123,7 +123,7 @@ State the figure and which way it moved, compare it with something such as last 
 **What is the difference between a stratified sample and a quota sample?**
 A stratified sample makes a random choice within groups set in proportion to the population. A quota sample also uses groups, but the interviewer chooses who to ask within each one.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes for this unit](/resources/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data/).
 - Check coverage on the [printable checklist](/checklists/oxfordaqa/a-level/business/) and the [course hub](/boards/oxfordaqa/a-level/business/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.1.4, Qualitative analysis, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Module 3 (Periodic table and energy) is its home, and it contains one lettered learning outcome, 3.1.4(a), with an anion part (i) and a cation part (ii). Both parts, the additional guidance and the PAG4 link are covered below. H432 is the full A level. According to the specification's assessment overview, Module 3 is examined in component 01, Periodic table, elements and physical chemistry, and in component 03, Unified chemistry.
@@ -231,7 +231,7 @@ Equations: Ag⁺(aq) + I⁻(aq) → AgI(s), and NH₄⁺(aq) + OH⁻(aq) → NH�
 - Writing BaSO₄ or the silver halides with (aq) instead of (s) in the ionic equation.
 - Writing the carbonate ionic equation with only one H⁺.
 
-## Next steps
+## More on this topic
 
 - Condensed tables, method steps and a self-test: [Qualitative analysis revision notes](/resources/ocr-a-level-chemistry-qualitative-analysis-revision-notes/)
 - Original questions with mark-by-mark answers: [Qualitative analysis practice questions](/resources/ocr-a-level-chemistry-qualitative-analysis-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ The stopping time is eight times longer on the mat, so the force is eight times 
 - **Describe** an interaction: say what each object does, with directions.
 - **Show that**: give every step; the final value is already given, so marks are for the working.
 
-## Next steps
+## More on this topic
 
 Try the [Momentum practice questions](/resources/oxfordaqa-igcse-physics-9203-momentum-practice/), then continue to the [Safety in public transport study guide](/resources/oxfordaqa-igcse-physics-9203-safety-in-public-transport/), which applies forces to stopping vehicles.
 

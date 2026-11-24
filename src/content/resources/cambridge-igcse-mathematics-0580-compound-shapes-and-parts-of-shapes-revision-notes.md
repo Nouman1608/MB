@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ curved = π(6)(10) − π(3)(5) = 45π cm²
 11. Scale factor 4/12 = 1/3, so **3 cm**
 12. (1/3)π × 81 × 12 − (1/3)π × 9 × 4 = 324π − 12π = **312π cm³**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [compound shapes study guide](/resources/cambridge-igcse-mathematics-0580-compound-shapes-and-parts-of-shapes/).
 - Practise with the [compound shapes practice questions](/resources/cambridge-igcse-mathematics-0580-compound-shapes-and-parts-of-shapes-practice/).

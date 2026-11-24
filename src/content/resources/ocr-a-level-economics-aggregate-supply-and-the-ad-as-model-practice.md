@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -130,7 +130,7 @@ These questions practise Aggregate supply, Aggregate demand and aggregate supply
 - Writing a one-sided case on policy questions.
 - Quoting data in the answer but not comparing it with potential output or the inflation rate.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model/).
 - Check coverage on the [OCR Economics checklist](/checklists/ocr/a-level/economics/) and the [course hub](/boards/ocr/a-level/economics/).

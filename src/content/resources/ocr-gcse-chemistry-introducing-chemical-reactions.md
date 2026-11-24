@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sub-topic **C3.1 Introducing chemical reactions** from Topic C3 of the OCR GCSE (9-1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026). It covers every learning outcome from C3.1a to C3.1l, plus the mathematical learning outcomes CM3.1i to CM3.1iv. Five statements (C3.1e, C3.1g, C3.1h, C3.1k and C3.1l) are tested only in the Higher Tier papers and are labelled **Higher Tier only** below; everything else is for both tiers. The specification says Topic C3 is assessed in Paper 1 (Foundation) and Paper 3 (Higher), with Papers 2 and 4 assuming knowledge of it.
@@ -288,7 +288,7 @@ Steps: mass → moles of the known substance → mole ratio from the equation �
 - Saying mass is "lost" or "destroyed" in an open container, instead of saying a gas escaped.
 - Picking the reactant with the smaller mass as limiting, instead of comparing moles against the equation ratio.
 
-## Next steps
+## More on this topic
 
 Move on to the [revision notes](/resources/ocr-gcse-chemistry-introducing-chemical-reactions-revision-notes/) and [practice questions](/resources/ocr-gcse-chemistry-introducing-chemical-reactions-practice/). Revisit [relative formula mass in C2.1](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/) if Mr slows you down.
 

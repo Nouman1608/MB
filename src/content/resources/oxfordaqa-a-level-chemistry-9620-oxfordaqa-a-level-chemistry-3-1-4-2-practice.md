@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ Calculate moles of copper(II) sulfate from concentration × volume, then ΔH = �
 - Using the highest recorded temperature instead of the extrapolated value.
 - Naming an error without saying how it affects the result, or giving an improvement that does not address that error.
 
-## Next steps
+## More on this topic
 
 - [Calorimetry study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-4-2/)
 - [Calorimetry revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-4-2-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -158,7 +158,7 @@ especially for watchdogs. 10. A local authority cannot sue for defamation. 11. N
 publication before trial unless the applicant is likely to establish that publication should not be
 allowed. 12. Normally more likely than not.
 
-## Related resources
+## More resources on this topic
 
 [Article 10 study guide](/resources/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953/) |
 [Article 10 practice questions](/resources/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953-practice/) |

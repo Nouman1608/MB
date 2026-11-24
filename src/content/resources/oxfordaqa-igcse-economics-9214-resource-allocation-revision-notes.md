@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ Formulas:
 11. Specialists produce more of one thing than they need and none of other things, so they must trade.
 12. A fall in world demand or price for that export cuts earnings sharply (or bad weather, disease, resources running out).
 
-## Next steps
+## More on this topic
 
 - Full explanations: [resource allocation study guide](/resources/oxfordaqa-igcse-economics-9214-resource-allocation/).
 - Questions with mark schemes: [resource allocation practice questions](/resources/oxfordaqa-igcse-economics-9214-resource-allocation-practice/).

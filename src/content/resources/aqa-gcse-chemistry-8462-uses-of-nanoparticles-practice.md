@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -136,7 +136,7 @@ through the skin**; their **effect on the environment** when washed off. **[2]**
 - Leaving out the conclusion.
 - Not linking the effectiveness of small amounts to the high surface area to volume ratio.
 
-## Next steps
+## More on this topic
 
 - Recap with the [uses of nanoparticles revision notes](/resources/aqa-gcse-chemistry-8462-uses-of-nanoparticles-revision-notes/).
 - Reread any weak area in the [uses of nanoparticles study guide](/resources/aqa-gcse-chemistry-8462-uses-of-nanoparticles/).

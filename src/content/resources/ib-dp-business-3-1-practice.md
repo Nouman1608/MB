@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ Kittiwake Kayaks hires kayaks on a lake. In its third year it spends:
 * Describing the effect of misclassification on profit but not on assets.
 * Explaining the role of finance without reference to the business's stage.
 
-## Next steps
+## More on this topic
 
 * Review the [3.1 study guide](/resources/ib-dp-business-3-1/).
 * Re-read the [3.1 revision notes](/resources/ib-dp-business-3-1-revision-notes/).

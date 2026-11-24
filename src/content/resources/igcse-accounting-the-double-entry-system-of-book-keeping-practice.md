@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -225,7 +225,7 @@ The sale is in the debit column and the return and payment are in the credit col
 - Describing a balance as debit or credit without saying who owes whom.
 - Putting drawings in the statement of profit or loss.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/igcse-accounting-the-double-entry-system-of-book-keeping-revision-notes/) and [study guide](/resources/igcse-accounting-the-double-entry-system-of-book-keeping/).
 - Try the free 10-minute [diagnostics](/diagnostics/).

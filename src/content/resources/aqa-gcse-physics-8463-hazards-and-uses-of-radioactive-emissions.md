@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -212,7 +212,7 @@ conclusion stays in the lower mark levels.
 
 With a table of isotopes, use every column and reject each unsuitable option with a reason.
 
-## Next steps
+## More on this topic
 
 Move on to the
 [hazards and uses practice questions](/resources/aqa-gcse-physics-8463-hazards-and-uses-of-radioactive-emissions-practice/).

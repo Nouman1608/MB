@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ Recommendation: **A**, because it gives lower net emissions without land-use har
 - Calling biofuels carbon neutral with no qualification.
 - Using H⁺ in alkaline half-equations, or putting electrons on the wrong side.
 
-## Next steps
+## More on this topic
 
 - [Reactivity 1.3 revision notes](/resources/ib-dp-chemistry-energy-from-fuels-revision-notes/) for a final read-through
 - [Reactivity 1.3 study guide](/resources/ib-dp-chemistry-energy-from-fuels/) for full explanations

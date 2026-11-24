@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -152,7 +152,7 @@ All four sources describe **Norland**, a fictional country. All names and figure
 - Treating a partisan source as neutral fact, or using no own knowledge in the 12-mark question.
 - Essays without a clear judgement, or with absolute conclusions no evidence supports.
 
-## Next steps
+## More on this topic
 
 - [Legitimacy revision notes](/resources/ib-dp-global-politics-core-legitimacy-revision-notes/)
 - [Legitimacy study guide](/resources/ib-dp-global-politics-core-legitimacy/)

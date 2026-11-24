@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers statements P5.2a to P5.2f of topic P5.2, The electromagnetic spectrum, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). None of these statements is in bold in the specification, so all of them are assessed in both Foundation and Higher Tier papers. Uses and hazards of the different groups are separate statements and are not taught here. Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Companion pages: [revision notes](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-revision-notes/) and [practice questions](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-practice/). To find out which topics need most work, try the [free 10-minute diagnostics](/diagnostics/).
@@ -256,7 +256,7 @@ Use wavelength = wave speed ÷ frequency, after converting the frequency to hert
 **Is light an electromagnetic wave?**
 Yes. Visible light is part of the electromagnetic spectrum: it is transverse, travels through a vacuum, and transfers energy from a source to an absorber, just like the other groups.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-revision-notes/), then the [practice questions](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-practice/). Tick off statements on the [checklist](/checklists/ocr/gcse/physics/) and use the [free 10-minute diagnostics](/diagnostics/) to find weak areas. You can also return to the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/).
 

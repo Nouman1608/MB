@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ Titration is also how a **soluble salt** is made from an acid and an alkali (Top
 - **Explain** (a step): give the reason, such as "white tile, to see the colour change clearly".
 - **Calculate** *(Extended)*: moles from the known solution, ratio from the equation, concentration of the unknown.
 
-## Related resources
+## More resources on this topic
 
 - [Acid–base titrations revision notes](/resources/cambridge-igcse-chemistry-0620-acid-base-titrations-revision-notes/) – condensed recall and self-test
 - [Acid–base titrations practice questions](/resources/cambridge-igcse-chemistry-0620-acid-base-titrations-practice/) – original exam-style questions with answers

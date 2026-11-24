@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,6 +173,6 @@ Answer: the oak is a single large producer that provides enough food for thousan
 
 **Describe** questions on components want the term applied to the organisms in the question. **Describe and interpret** questions on food webs and pyramids reward reading values, calculating percentages and stating trends. **Explain** questions on pyramids want the reason, usually the 10% transfer and named energy losses. Always give units, such as kJ per square metre per year.
 
-## Next steps
+## More on this topic
 
 Revise with the [ecosystems revision notes](/resources/cambridge-igcse-environmental-management-0680-ecosystems-revision-notes/) and practise with the [ecosystems practice questions](/resources/cambridge-igcse-environmental-management-0680-ecosystems-practice/).

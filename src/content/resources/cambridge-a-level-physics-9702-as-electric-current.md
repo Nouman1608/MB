@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ Many questions ask for a comparison rather than a number. Rearrange to v = I/(An
 - **Show that** or **derive** (I = Anvq): set out the steps above, defining every symbol, and finish with I = Q/t.
 - **Suggest** or **compare**: identify which quantities in I = Anvq are fixed and state the proportionality you are using.
 
-## Related resources
+## More resources on this topic
 
 - [Electricity study guide](/resources/as-physics-electricity/) — the whole of Topic 9
 - [Electric current revision notes](/resources/cambridge-a-level-physics-9702-as-electric-current-revision-notes/)

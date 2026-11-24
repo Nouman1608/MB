@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -215,7 +215,7 @@ uncertainty on each item, but not a systematic error such as a zero error.
 **Can a resultant be smaller than one of the vectors?** Not for two vectors at right angles: the
 hypotenuse is always longer than either side, but shorter than their sum.
 
-## Related resources
+## More resources on this topic
 
 - [Physical quantities and measurement techniques revision notes](/resources/cambridge-o-level-physics-5054-physical-quantities-and-measurement-techniques-revision-notes/)
 - [Physical quantities and measurement techniques practice questions](/resources/cambridge-o-level-physics-5054-physical-quantities-and-measurement-techniques-practice/)

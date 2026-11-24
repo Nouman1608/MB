@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Use the figures and facts in the stem to support your judgement, such as the siz
 **Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
 They cover sections 3.2.5 Legislation and 3.2.6 Competitive environment of OxfordAQA International GCSE Business (9225).
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-business-legislation-and-competitive-environment-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-igcse-business-legislation-and-competitive-environment/).
 - Browse the [OxfordAQA IGCSE Business hub](/boards/oxfordaqa/igcse/business/) and tick off topics on the [printable checklist](/checklists/oxfordaqa/igcse/business/).

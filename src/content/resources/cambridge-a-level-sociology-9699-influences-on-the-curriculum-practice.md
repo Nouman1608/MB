@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,6 +121,6 @@ Argument 2: it would weaken shared values [1]. Functionalists argue a common cur
 
 **Level guidance:** top answers link curriculum mechanisms explicitly to patterns of inequality and weigh them against other causes; middle answers describe curriculum bias; low answers make general claims.
 
-## Next steps
+## More on this topic
 
 Move on to [intelligence and educational attainment](/resources/cambridge-a-level-sociology-9699-intelligence-educational-attainment/), or revisit [education and social mobility](/resources/cambridge-a-level-sociology-9699-education-and-social-mobility/).

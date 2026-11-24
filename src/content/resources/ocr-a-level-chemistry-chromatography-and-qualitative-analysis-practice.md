@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ The cleaning solution is diluted by a factor of 10 and injected under the same c
 - Leaving the organic product out of oxidation explanations, or not stating that silver ions are reduced.
 - Describing heating with a Bunsen burner for flammable organic liquids.
 
-## Next steps
+## More on this topic
 
 - Recap the tables and method boxes: [revision notes](/resources/ocr-a-level-chemistry-chromatography-and-qualitative-analysis-revision-notes/)
 - Relearn anything you missed: [study guide](/resources/ocr-a-level-chemistry-chromatography-and-qualitative-analysis/)

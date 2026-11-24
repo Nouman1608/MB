@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1, section 1.5 "Business and the international economy", points 1.5.1 to 1.5.4. The specification says both papers can draw on the whole of the subject content. Paper 1 focuses on a small business of up to 49 employees and Paper 2 on a large business of more than 250 employees, so you may meet this material in either setting.
@@ -253,7 +253,7 @@ These two points are standard knowledge added for balance. The specification doe
 - Mixing up which party gains: a stronger home currency helps importers and hurts exporters.
 - Listing points in an evaluation without reaching a conclusion that fits the business in the question.
 
-## Next steps
+## More on this topic
 
 Condense the key points with the [revision notes](/resources/edexcel-igcse-business-business-and-the-international-economy-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-business-business-and-the-international-economy-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or tick off progress on the [checklist](/checklists/edexcel/igcse/business/). Find weak spots with the [free diagnostics](/diagnostics/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -167,7 +167,7 @@ major grain exporter and shipping was blocked, so import-dependent countries fac
 10. Just-in-time keeps minimal stock for efficiency; just-in-case holds reserves and diversifies
 suppliers for resilience. 11. A shock spreading from one market or country to others.
 
-## Related resources
+## More resources on this topic
 
 - [Global risks and resilience study guide](/resources/ib-dp-geography-global-risks-resilience-study-guide/)
 - [Environmental risks revision notes](/resources/ib-dp-geography-environmental-risks-revision-notes/)

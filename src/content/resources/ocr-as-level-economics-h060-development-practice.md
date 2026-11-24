@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-19
-reviewNote: "2026-11-19: credited to salman-ahmad (accountable teacher, D-379). The owner reports that the teachers reviewed this page (19 Nov 2026)."
+reviewNote: "2026-11-19: credited to salman-ahmad (accountable teacher, D-379). The owner reports that the teachers reviewed this page (19 Nov 2026). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-19
 featured: false
 ---
@@ -154,7 +154,7 @@ The HDI also measures health and education. If income is unequally shared or lit
 **Is sustained growth the same as sustainable growth?**
 No. Sustained growth continues over a long period. Sustainable growth does not run down the resources and environment that future generations need.
 
-## Next steps
+## More on this topic
 
 - Re-read the [development study guide](/resources/ocr-as-level-economics-h060-development/).
 - Go back to [economic growth](/resources/ocr-as-level-economics-h060-economic-growth/) or move on to [employment and unemployment](/resources/ocr-as-level-economics-h060-employment-unemployment/).

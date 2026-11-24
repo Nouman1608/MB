@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -186,7 +186,7 @@ Job production makes single, made-to-order items, batch production makes a set q
 **What should you include when evaluating globalisation?**
 Discuss both the opportunities, such as larger markets, and the risks, such as increased competition and exposure to currency and international market conditions. Then reach a judgement for the business in the question.
 
-## Related resources
+## More resources on this topic
 
 - [Operations, Finance and Influences on Business study guide](/resources/ocr-gcse-business-operations-finance-and-influences-on-business/)
 - [Operations, Finance and Influences practice questions](/resources/ocr-gcse-business-operations-finance-influences-practice/)

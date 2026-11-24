@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ Contribution = 28,800 + 21,600 + 23,400 = 73,800 [1]; profit = 73,800 − 52,000
 - Question 8: forgetting the 400 regular planters displaced once spare capacity runs out.
 - Question 9: putting benches first because they earn most per unit.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-accounting-marginal-costing-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-accounting-marginal-costing/)

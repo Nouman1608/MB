@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -199,7 +199,7 @@ No. Find the vector 2p − 3q first and then its magnitude. 2|p| − 3|q| is a d
 **Which part of AQA A-level Maths covers vectors?**
 Section J: Vectors (J1 to J5) of the AQA 7357 specification covers vectors in two and three dimensions, magnitude and direction, addition and scalar multiples, position vectors, and vectors in pure and applied contexts.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Vectors revision notes](/resources/aqa-a-level-mathematics-vectors-revision-notes/).
 - Re-read any weak section in the [Vectors study guide](/resources/aqa-a-level-mathematics-vectors/).

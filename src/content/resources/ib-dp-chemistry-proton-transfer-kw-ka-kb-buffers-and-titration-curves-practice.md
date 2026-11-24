@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Data for every question: all solutions are at 298 K, where Kw = 1.00 × 10⁻¹�
 - Explaining buffer action with only one equation.
 - Claiming that dilution changes buffer pH; it reduces capacity instead.
 
-## Next steps
+## More on this topic
 
 - [Proton transfer revision notes](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-revision-notes/)
 - [Proton transfer study guide](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves/)

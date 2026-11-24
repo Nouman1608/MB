@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -139,7 +139,7 @@ These questions cover sections 5.4 Costs and 5.5 Budgets of the Cambridge Intern
 - Describing a limitation of break-even without applying it to the business.
 - Using an "explain" command word to write a definition only.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-business-costs-and-budgets-revision-notes/) for the formulas.
 - Review the [study guide](/resources/cambridge-a-level-business-costs-and-budgets/) for any weak area.

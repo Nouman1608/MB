@@ -20,6 +20,7 @@ publishedDate: 2026-09-02
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -188,7 +189,7 @@ example.
 needed regeneration, its main features, and its social, economic and
 environmental impact.
 
-## Related resources
+## More resources on this topic
 
 - [Urban Issues and Challenges revision notes](/resources/igcse-oxfordaqa-geography-urban-issues-revision-notes/)
 - [Urban Issues and Challenges practice questions](/resources/igcse-oxfordaqa-geography-urban-issues-practice/)

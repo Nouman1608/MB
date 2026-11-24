@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -162,7 +162,7 @@ The silence group's mean is 4 words higher, a difference of 40% relative to the 
 - Drawing a histogram-style bar chart with no gaps for categorical data.
 - Saying a positive skew has its tail on the left.
 
-## Related resources
+## More resources on this topic
 
 - [Research methods 1 revision notes](/resources/oxfordaqa-a-level-psychology-9685-research-methods-1-revision-notes/)
 - [Research methods 1 practice questions](/resources/oxfordaqa-a-level-psychology-9685-research-methods-1-practice/)

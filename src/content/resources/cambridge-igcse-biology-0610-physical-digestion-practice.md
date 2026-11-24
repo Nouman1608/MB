@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ D: enzymes break bonds in food molecules **[1]**
 - Counting 9 cubes instead of 27 when a 3 cm cube is cut into 1 cm cubes.
 - (Extended) Calling bile an enzyme, or saying the gall bladder makes it.
 
-## Next steps
+## More on this topic
 
 - Go back over the [physical digestion revision notes](/resources/cambridge-igcse-biology-0610-physical-digestion-revision-notes/).
 - Move on to the [chemical digestion practice questions](/resources/cambridge-igcse-biology-0610-chemical-digestion-practice/).

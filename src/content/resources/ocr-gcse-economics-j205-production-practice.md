@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ These questions cover section 2.6, Production, of the OCR GCSE (9-1) Economics s
 - Explaining economies of scale without "per unit".
 - Moving along the supply curve after a cost change.
 
-## Next steps
+## More on this topic
 
 - Recap with the [2.6 revision notes](/resources/ocr-gcse-economics-j205-production-revision-notes/).
 - Move on to the [labour market practice questions](/resources/ocr-gcse-economics-j205-the-labour-market-practice/).

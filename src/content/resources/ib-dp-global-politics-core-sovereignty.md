@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -184,7 +184,7 @@ See the [Rights and justice](/resources/ib-dp-global-politics-rights-justice/) a
 - Assuming supranationality is always a loss. States choose to pool powers and can often withdraw.
 - Mixing up recognition by other states (de jure) with control on the ground (de facto).
 
-## Next steps
+## More on this topic
 
 - Condense with the [revision notes](/resources/ib-dp-global-politics-core-sovereignty-revision-notes/), then try the [practice questions](/resources/ib-dp-global-politics-core-sovereignty-practice/).
 - Review how Paper 1 is marked in the [Global Politics assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/) and the [exam preparation guide](/resources/ib-dp-global-politics-exam-preparation/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,7 +187,7 @@ Find every route that gives the outcome, usually two, and add their probabilitie
 **What makes a good probability modelling comment in OCR A Level Mathematics?**
 Name the specific assumption, such as independence or constant probability, and say how the answer would change if it failed. "Not realistic" on its own earns no credit.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-mathematics-probability-venn-and-tree-diagrams-conditional-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-probability-venn-and-tree-diagrams-conditional/).
 - Return to the [course hub](/boards/ocr/a-level/mathematics/) and tick off topics on the [checklist](/checklists/ocr/a-level/mathematics/).

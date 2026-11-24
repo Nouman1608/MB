@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,7 +152,7 @@ Any two of: different organisations with different membership; different courts 
 Luxembourg); the UK has left the EU but remains in the Council of Europe; the EU has its own Charter of
 Fundamental Rights.
 
-## Related resources
+## More resources on this topic
 
 [Human Rights in international law study guide](/resources/aqa-a-level-law-7162-human-rights-in-international-law/) |
 [Human Rights in international law practice questions](/resources/aqa-a-level-law-7162-human-rights-in-international-law-practice/) |

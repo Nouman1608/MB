@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ These questions cover sub-topic B.5, Current and circuits, from the IB *Physics 
 - Giving a one-sided answer when asked to compare energy sources.
 - Leaving units off final answers or over-rounding intermediate values.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-dp-physics-electric-current-resistance-and-circuits-revision-notes/).
 - Re-read the [study guide](/resources/ib-dp-physics-electric-current-resistance-and-circuits/) for any topic that felt shaky.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Related: [section 1.2 study guide](/resources/edexcel-igcse-mathematics-4ma1-fra
 - Taking 2/3 of the whole garden for the lawn in question 11.
 - Giving 3/4 (litres) instead of the fraction of the jug in question 12(b).
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [section 1.2 revision notes](/resources/edexcel-igcse-mathematics-4ma1-fractions-revision-notes/).
 - For recurring decimals and mixed fraction and decimal questions, try the [fractions and decimals practice questions](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Q(water) = 200.0 × 4.18 × 11.2 = 9363 J = 9.363 kJ [1]
 - Ignoring an extrapolated temperature that the question supplies.
 - Energy profile axes labelled "time" or "energy", or Ea measured from the product level.
 
-## Next steps
+## More on this topic
 
 - Go over the key facts in the [measuring enthalpy changes revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/).
 - Return to the [study guide](/resources/ib-dp-chemistry-measuring-enthalpy-changes/) for weak spots.

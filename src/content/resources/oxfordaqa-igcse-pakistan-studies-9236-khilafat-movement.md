@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -174,7 +174,7 @@ questions, develop two effects with dated evidence and link each to Muslim-Hindu
 9-mark judgements, weigh the factor in the question against at least one other and reach a supported
 conclusion.
 
-## Related resources
+## More resources on this topic
 
 - [Khilafat movement revision notes](/resources/oxfordaqa-igcse-pakistan-studies-9236-khilafat-movement-revision-notes/)
 - [Khilafat movement practice questions](/resources/oxfordaqa-igcse-pakistan-studies-9236-khilafat-movement-practice/)

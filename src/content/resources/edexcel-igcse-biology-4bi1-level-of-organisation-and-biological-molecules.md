@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sub-topics 2(a) **Level of organisation** (point 2.1) and 2(c) **Biological molecules** (points 2.7–2.14B) of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Point 2.14B is printed in bold with a **B** reference, so it is examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.
@@ -377,7 +377,7 @@ The existing labelled amylase apparatus figure below shows the shared tube, wate
 - Saying low temperature denatures an enzyme. It only slows it.
 - Treating 1/time as an absolute rate or a no-endpoint observation as a zero rate.
 
-## Next steps
+## More on this topic
 
 Recap with the [revision notes](/resources/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules-practice/) and the [free diagnostics](/diagnostics/).
 

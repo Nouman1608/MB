@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -169,7 +169,7 @@ Two fields are tested in one condition, and the whole list of records is passed 
 11. −1 (a value that cannot be a valid index).
 12. It makes three references to one record, so changing one changes all three.
 
-## Next steps
+## More on this topic
 
 - [Records study guide](/resources/oxfordaqa-a-level-computer-science-9645-records/)
 - [Records practice questions](/resources/oxfordaqa-a-level-computer-science-9645-records-practice/)

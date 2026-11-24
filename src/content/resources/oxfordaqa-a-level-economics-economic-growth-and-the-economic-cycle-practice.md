@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Identify the phase of the economic cycle in each year, using the indicators to s
 - Describing shocks without the AD or SRAS shift and both of its effects.
 - Giving evaluation as a list, with no judgement and no condition.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle/).
 - Visit the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/).

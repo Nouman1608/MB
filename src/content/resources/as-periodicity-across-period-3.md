@@ -25,7 +25,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -328,7 +328,7 @@ It covers subtopics 9.1, physical periodicity, 9.2, chemical periodicity, and 9.
 **Can you predict properties of other elements from Period 3 trends?**
 Yes. Subtopic 9.3 expects you to use the patterns in Period 3 to predict the likely properties and reactions of other elements and their compounds.
 
-## Related resources
+## More resources on this topic
 
 - [Atomic Structure: Particles, Radius and Isotopes](/resources/as-atomic-structure-particles-radius-and-isotopes/) — the atomic radius trend this resource extends
 - [Chemical Bonding: Electronegativity, Ionic and Metallic Bonds](/resources/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds/) — electronegativity and predicting bond type

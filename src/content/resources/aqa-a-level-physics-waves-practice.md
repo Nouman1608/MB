@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-wa
 - Swapping material and modal dispersion, or giving one remedy for both.
 - Describing stationary-wave formation without "same frequency" and "opposite directions".
 
-## Next steps
+## More on this topic
 
 - Recap with the [Waves revision notes](/resources/aqa-a-level-physics-waves-revision-notes/).
 - Go back to the [Waves study guide](/resources/aqa-a-level-physics-waves/) for worked examples.

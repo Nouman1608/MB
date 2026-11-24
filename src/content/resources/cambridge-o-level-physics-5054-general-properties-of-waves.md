@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -210,7 +210,7 @@ larger than the wavelength.
 **Why is the ripple tank lit from above?** The curved water surface focuses light, so the crests
 appear as bright lines on the screen below, making wavefronts easy to see and measure.
 
-## Related resources
+## More resources on this topic
 
 - [General properties of waves revision notes](/resources/cambridge-o-level-physics-5054-general-properties-of-waves-revision-notes/)
 - [General properties of waves practice questions](/resources/cambridge-o-level-physics-5054-general-properties-of-waves-practice/)

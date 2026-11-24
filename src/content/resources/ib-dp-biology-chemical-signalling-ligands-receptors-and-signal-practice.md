@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ Learn the content in the [study guide](/resources/ib-dp-biology-chemical-signall
 - Missing the DNA-sequence and transcription steps for steroid receptors.
 - Naming a feedback example without the change that is reversed or amplified.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal-revision-notes/) and the [study guide](/resources/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal/).
 - Tick off the topic on the [printable checklist](/checklists/ib/ib-dp/biology/) and return to the [IB DP Biology hub](/boards/ib/ib-dp/biology/).

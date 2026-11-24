@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -105,7 +105,7 @@ These questions cover section 3.2.3 The economic climate on businesses of AQA GC
 - Treating "rates rise" and "unemployment rises" as separate topics in a case that combines them.
 - Giving no judgement in an evaluation.
 
-## Next steps
+## More on this topic
 
 - Recheck the who-gains-who-loses examples in the [Economic climate study guide](/resources/aqa-gcse-business-8132-the-economic-climate-on-businesses/).
 - Try the wider [ethics, environment and economic climate practice set](/resources/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-practice/).

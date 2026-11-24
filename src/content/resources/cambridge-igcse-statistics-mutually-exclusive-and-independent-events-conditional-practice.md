@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ Start
 - Forgetting the mixed paths when finding "exactly one" or "exactly two".
 - Leaving branches that do not sum to 1.
 
-## Next steps
+## More on this topic
 
 - Condense the rules with the [revision notes](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-revision-notes/).
 - Review the method in the [study guide](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional/).

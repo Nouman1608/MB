@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -147,6 +147,6 @@ Use measures from 6.1 to judge progress, diffusion ideas from 6.2 to explain ris
 
 **Answers:** 1. For example population growth, climate change, soil degradation. 2. For example antimicrobial resistance and non-communicable disease. 3. For example reducing food waste, agroecology, changing diets. 4. Its ability to absorb shocks such as drought or a pandemic. 5. Places differ in resources, climate, governance and culture. 6. Meat needs more land, water and feed per calorie than crops eaten directly. 7. Crops and land used for fuel compete with food, raising demand and prices. 8. Bacteria evolving to survive antibiotics, increased by overuse in people and livestock. 9. Loss happens between harvest and retail; waste happens at retail and consumer level. 10. The right of peoples to define their own food and farming systems. 11. Predictable food or cash for work on conservation projects protects assets during drought. 12. It links human, animal and environmental health, which matters for zoonoses and resistance.
 
-## Related resources
+## More resources on this topic
 
 - [Option F: Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/)

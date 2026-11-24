@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches topic 4, Cell membranes and transport, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sub-topics 4.1 (Fluid mosaic membranes) and 4.2 (Movement into and out of cells). All of it is AS Level content, so it is tested on Paper 1 (multiple choice) and Paper 2 (AS Level structured questions), and Paper 4 can draw on it because A Level questions require AS knowledge. The investigations in 4.2 also build the practical skills assessed in Paper 3 and Paper 5.
@@ -246,7 +246,7 @@ Plot percentage change against concentration. The line crosses 0 % at about **0.
 - Giving SA:V as a single number without ": 1", or calculating only one face of a cube.
 - Using raw change in mass instead of percentage change when starting masses differ.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [revision notes](/resources/a-level-biology-9700-cell-membranes-and-transport-revision-notes/), then try the [cell membranes practice questions](/resources/a-level-biology-cell-membranes-practice/), which cover transport evidence and exocytosis in exam-style contexts. Take the [9700 AS diagnostic](/practice/9700/diagnostic/as/) to check where you stand across the AS topics, and continue to topic 5 with the [mitotic cell cycle study guide](/resources/a-level-biology-9700-the-mitotic-cell-cycle/).
 

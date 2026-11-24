@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -121,7 +121,7 @@ Judgement: an operations strategy is essential for a car manufacturer because de
 - Ignoring the people who must carry out the strategy.
 - Not saying what the recommendation depends on.
 
-## Next steps
+## More on this topic
 
 - Revisit the [operations strategy study guide](/resources/ocr-a-level-business-h431-the-operations-strategy/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

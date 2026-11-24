@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -174,7 +174,7 @@ instead of 16 separate bits.
 9. T = 10. 1100 is 110 (A) followed by 0 (E): AE.
 10. Huffman gives frequent characters shorter codes; RLE replaces runs with a count and a value.
 
-## Related resources
+## More resources on this topic
 
 - [Data compression study guide](/resources/oxfordaqa-igcse-computer-science-9210-data-compression/)
 - [Data compression practice questions](/resources/oxfordaqa-igcse-computer-science-9210-data-compression-practice/)

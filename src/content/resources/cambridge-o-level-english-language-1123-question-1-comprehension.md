@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -190,7 +190,7 @@ heavier" is not about weight: the image shows his worry growing, which supports 
 - Keep answers short and precise. Question 1 is 16 of Section A's 25 marks; leave enough time for the
   9-mark Question 2 on the same text.
 
-## Related resources
+## More resources on this topic
 
 - [Question 1 Comprehension: revision notes](/resources/cambridge-o-level-english-language-1123-question-1-comprehension-revision-notes/)
 - [Question 1 Comprehension: practice questions](/resources/cambridge-o-level-english-language-1123-question-1-comprehension-practice/)

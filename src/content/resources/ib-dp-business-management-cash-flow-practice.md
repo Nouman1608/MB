@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -127,7 +127,7 @@ The November payments include a supplier invoice of 5,200 that the supplier says
 - Listing strategies with no link to the cause of the problem.
 - Failing to reach a judgement when asked to recommend, justify or evaluate.
 
-## Next steps
+## More on this topic
 
 - Revise with the [cash flow revision notes](/resources/ib-dp-business-management-cash-flow-revision-notes/) and the [study guide](/resources/ib-dp-business-management-cash-flow/).
 - Visit the [IB Business Management hub](/boards/ib/ib-dp/business/) and tick off topics on the [printable checklist](/checklists/ib/ib-dp/business/).

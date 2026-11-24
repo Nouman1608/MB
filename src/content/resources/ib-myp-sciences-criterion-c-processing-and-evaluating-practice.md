@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ Be consistent. Three significant figures is the usual convention, and the same n
 **How do I get full marks for an evaluation?**
 Give a verdict, evidence from the data, and a limit. For the method, link each limitation to its effect on the results.
 
-## Next steps
+## More on this topic
 
 - [Criterion C revision notes](/resources/ib-myp-sciences-criterion-c-processing-and-evaluating-revision-notes/)
 - [Criterion C study guide](/resources/ib-myp-sciences-criterion-c-processing-and-evaluating/)

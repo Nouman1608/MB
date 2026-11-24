@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Apply growth to both the firm's sales and total market sales before dividing; fo
 **Is the divorce of ownership from control always harmful?**
 No. State the problem and link it to objectives, conduct and performance, but also mention controls such as performance-related pay and the threat of takeover.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-market-structures-and-the-objectives-of-firms-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-market-structures-and-the-objectives-of-firms/).
 - Practise wider microeconomics with the [microeconomics practice set](/resources/aqa-a-level-economics-microeconomics-practice/).

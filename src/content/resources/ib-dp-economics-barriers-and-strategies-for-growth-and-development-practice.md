@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Explain the strategies with real-world examples, weigh their strengths and limit
 **What are common mistakes in IB Economics growth and development questions?**
 Frequent errors include calculating the fall in earnings for one product but not for total exports, leaving out units, treating aid, FDI or privatisation as wholly good or bad, and explaining a barrier without applying it to a country.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ib-dp-economics-barriers-and-strategies-for-growth-and-development/), then rework the questions you missed.
 - Use the [revision notes](/resources/ib-dp-economics-barriers-and-strategies-for-growth-and-development-revision-notes/) in the final week.

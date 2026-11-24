@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ They mix up average and marginal returns. Open access keeps adding users while t
 **What should a policy answer on externalities include?**
 Say which curve the policy moves and in which direction, show the effect on price and quantity, and weigh the policy's strengths and limits for the situation given rather than only listing them.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ib-dp-economics-externalities-and-common-pool-resources/) for any weak part.
 - Condense it with the [revision notes](/resources/ib-dp-economics-externalities-and-common-pool-resources-revision-notes/).

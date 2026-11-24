@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -185,7 +185,7 @@ Faith and Pillars, practise stating significance in one sentence per
 item, since "describe" answers that stop short of explaining
 significance are the most common way marks are lost on this topic.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O Level Islamiyat: Paper 2 (2058)](/resources/o-level-islamiyat-paper-2/)
 - [Cambridge O Level Islamiyat: Paper 1](/resources/o-level-islamiyat-paper-1/)

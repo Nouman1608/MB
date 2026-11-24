@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ Collecting and recycling cells reduces the waste of metals and the release of to
 - **Explain how a current is generated**: oxidation releases electrons at the negative electrode → electrons flow through the external circuit → reduction at the positive electrode; ions move in the electrolyte.
 - **Evaluate** or **discuss** benefits and risks: give at least one specific point on each side and a conclusion.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.9.2 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-9-2-revision-notes/), then try the [3.1.9.2 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-9-2-practice/). Revisit the rules for EMF in [electrode potentials and cells (3.1.9.1)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-9-1/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -136,7 +136,7 @@ A negative scale factor puts the image on the opposite side of the centre and tu
 **How does an enlargement change area?**
 The area is multiplied by the square of the scale factor. For example, a scale factor of 3 multiplies area by 9, and a scale factor of −2 multiplies it by 4.
 
-## Next steps
+## More on this topic
 
 - Recap quickly with the [revision notes](/resources/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and-revision-notes/).
 - Revisit the methods in the [study guide](/resources/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and/).

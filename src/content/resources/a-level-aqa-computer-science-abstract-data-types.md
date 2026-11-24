@@ -45,7 +45,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the rest of 4.2 Fundamentals of data structures in
@@ -277,7 +277,7 @@ Not in AQA's definition. A tree is any
 connected, undirected graph with no cycles; a rooted tree is one where a
 root has been chosen.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for these structures](/resources/aqa-a-level-computer-science-abstract-data-types-revision-notes/)
 - [Practice questions for these structures](/resources/aqa-a-level-computer-science-abstract-data-types-practice/)

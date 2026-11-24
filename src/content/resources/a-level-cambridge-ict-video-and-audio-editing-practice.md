@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Answers show one acceptable set of points, with a [1] per creditworthy point. Th
 - Writing "normalising removes noise" or "noise reduction makes it louder".
 - Listing editing features in a long answer without linking any of them to the audience or medium.
 
-## Next steps
+## More on this topic
 
 - Revise with the [Video and audio editing revision notes](/resources/a-level-cambridge-ict-video-and-audio-editing-revision-notes/).
 - Go back to the [Video and audio editing study guide](/resources/a-level-cambridge-ict-video-and-audio-editing/) for full explanations.

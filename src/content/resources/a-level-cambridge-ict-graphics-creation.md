@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **topic 19, Graphics creation**, of Cambridge International AS & A Level Information Technology (9626). It follows the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), sections 19.1 to 19.5. Topic 19 is **A Level only**. The syllabus bases **Paper 3 (Advanced Theory)** questions on sections 12–21 and **Paper 4 (Advanced Practical)** tasks on sections 17–21, so you can meet this topic in both papers.
@@ -282,7 +282,7 @@ Fewer colours can cause **banding** in skies.
 - Resizing the canvas when the image should be resized.
 - Forgetting to divide by 8 to change bits to bytes.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Graphics creation revision notes](/resources/a-level-cambridge-ict-graphics-creation-revision-notes/), then try the [Graphics creation practice questions](/resources/a-level-cambridge-ict-graphics-creation-practice/). Video and audio compression is in [Video and audio editing](/resources/a-level-cambridge-ict-video-and-audio-editing/); compression utilities are in [Hardware and software](/resources/a-level-cambridge-ict-hardware-and-software/).
 

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ It means you must use the result of the previous part to answer the next one. Pr
 **Why must a proof end with a concluding sentence?**
 The final sentence restates exactly what has been proved. Stopping at an expression such as 3(n + 1) without saying why it proves the claim leaves the proof unfinished.
 
-## Next steps
+## More on this topic
 
 - Recap the methods: [Proof revision notes](/resources/aqa-a-level-mathematics-proof-revision-notes/).
 - Full explanations and worked proofs: [Proof study guide](/resources/aqa-a-level-mathematics-proof/).

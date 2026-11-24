@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,6 +143,6 @@ The specification wording is: "investigate how pH changes when a weak acid react
 - **"Justify your choice of indicator"**: quote its range and state that the whole range lies within the vertical section of this curve.
 - **"Calculate"**: show the mean titre, each mole step and any scaling factor on its own line.
 
-## Next steps
+## More on this topic
 
 Condense this with the [pH curves revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-5-revision-notes/), then work through the [pH curves practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-5-practice/). The buffer region links directly to [buffer action](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-6/), and the starting pH to [weak acids and Ka](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-4/).

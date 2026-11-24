@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -124,7 +124,7 @@ They push the respondent toward an answer, so the data is biased and the conclus
 **How can I improve a plan that has too few details?**
 Add sub-questions, a sample, named sources, a timeline and ethical steps, then check that each method answers a sub-question.
 
-## Next steps
+## More on this topic
 
 - [Criterion B revision notes](/resources/ib-myp-individuals-and-societies-criterion-b-investigating-revision-notes/)
 - [Criterion B study guide](/resources/ib-myp-individuals-and-societies-criterion-b-investigating/)

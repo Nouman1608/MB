@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-10-04
 featured: false
 ---
@@ -126,7 +126,7 @@ A student is investigating how a change in transport affected different groups i
 - Using "rose by 50%" when the change between two percentages is 50 percentage points.
 - "Debatable" questions that have a single factual answer.
 
-## Next steps
+## More on this topic
 
 - Review the [key concepts revision notes](/resources/ib-myp-individuals-and-societies-key-concepts-revision-notes/).
 - Reread the [key concepts study guide](/resources/ib-myp-individuals-and-societies-key-concepts/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers reference A20 in section 3.2.3 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It teaches how to solve quadratic equations by factorising, how to find approximate solutions from a graph, and, for Extension, how to use completing the square and the quadratic formula. The specification says all content can be assessed on the Extension tier question papers, so Core content is also Extension content. Statements marked "Extension only" are the additional Extension content.
@@ -324,7 +324,7 @@ If the question names a method, use that method. If it says "hence", use the pre
 - Reading graph solutions as the y-coordinates. Solutions are x-values.
 - Rounding too early. Keep the full value until the last line.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing-revision-notes/) to check recall.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section **3.4 Searching and sorting algorithms** of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1 (International AS exams May/June 2025 onwards, International A-level exams May/June 2026 onwards). It covers 3.4.1 Searching algorithms and 3.4.2 Sorting algorithms. This is AS content, assessed in Unit 1: Programming, an on-screen exam available in C#, Python or VB.Net.
@@ -308,7 +308,7 @@ The bubble sort values are the specification's own example; the O(n) best case i
 - Stopping a bubble sort trace when the list *looks* sorted. The flag version must still run one pass with no swaps.
 - Saying merge sort "sorts while splitting". The ordering happens during the merges.
 
-## Next steps
+## More on this topic
 
 Condense the key points with the [revision notes](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-practice/). See also the [procedural programming study guide](/resources/a-level-oxfordaqa-computer-science-procedural-programming/) and the [exam preparation guide](/resources/oxfordaqa-a-level-computer-science-exam-preparation/). Check gaps with the [free 10-minute diagnostics](/diagnostics/).
 

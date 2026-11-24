@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,6 +174,6 @@ s8   Theft + push on Nina, at the time of stealing,
 
 Work through ss3, 4, 5, 2 and 6 in a fixed order, giving a case for any element in doubt, then decide robbery under s8. Conclude on theft before you discuss robbery. For evaluation, the common themes are the breadth of appropriation after *Gomez* and *Hinks*, and the uncertainty of the *Ivey* test.
 
-## Related resources
+## More resources on this topic
 
 [Property offences revision notes](/resources/aqa-a-level-law-7162-property-offences-revision-notes/) | [Property offences practice questions](/resources/aqa-a-level-law-7162-property-offences-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,7 +170,7 @@ that cannot be impliedly repealed. 11. It is outside competence and not law (Sco
 s29(2)(d)). 12. Too strong: s3 lets judges rewrite statutes (or any other listed). Too weak: it is not
 entrenched at Westminster (or any other listed).
 
-## Related resources
+## More resources on this topic
 
 [Human Rights after the HRA 1998 study guide](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human/) |
 [Human Rights after the HRA 1998 practice questions](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-practice/) |

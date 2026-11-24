@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -131,7 +131,7 @@ These questions cover the first part of section P2.7 (Integration) of the Oxford
 - Giving a decimal where the question asks for an exact answer.
 - Skipping steps on a "show that" question, where the working carries the credit.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution/) for any method you missed.
 - Use the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution-revision-notes/) to recall the standard results.

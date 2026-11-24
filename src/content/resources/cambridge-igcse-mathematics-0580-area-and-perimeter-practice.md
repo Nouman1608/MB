@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Look for a horizontal or vertical side to use as the base; the height is then th
 **What should I do if a question gives the area and asks for a length?**
 Write the formula with the unknown in it, substitute the known values and solve the equation. Check by putting your answer back into the formula.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [area and perimeter study guide](/resources/cambridge-igcse-mathematics-0580-area-and-perimeter/).
 - Recap with the [area and perimeter revision notes](/resources/cambridge-igcse-mathematics-0580-area-and-perimeter-revision-notes/).

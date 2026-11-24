@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -197,7 +197,7 @@ Both have limited liability, but a private limited company's shares cannot be of
 **Does "limited" in a company's name mean the business is small?**
 No. "Limited" refers to the owners' financial liability for the company's debts, not to the size or turnover of the business.
 
-## Related resources
+## More resources on this topic
 
 [Types of Business Organisation revision notes](/resources/aqa-a-level-accounting-business-organisation-revision-notes/) |
 [Types of Business Organisation practice questions](/resources/aqa-a-level-accounting-business-organisation-practice/)

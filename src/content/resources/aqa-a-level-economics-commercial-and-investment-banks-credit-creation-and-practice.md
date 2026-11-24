@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Give each body a distinct role: the PRA looks at whether each firm is safe, the 
 **What should an answer on bank failure go on to explain?**
 Follow the chain to the real economy, such as reduced lending, lower investment and spending, falling aggregate demand and rising unemployment.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and/).
 - Return to the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and tick off the [printable checklist](/checklists/aqa/a-level/economics/).

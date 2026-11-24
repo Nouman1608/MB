@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -145,6 +145,6 @@ Tax payable           = profit x tax rate
 - **Assess:** compare two influences by size of effect, how soon it hits and whether the business can respond; then judge.
 - **Use numbers:** a calculated change (for example 24% of profit) is stronger evidence than the word "significant".
 
-## Next steps
+## More on this topic
 
 Check slips against the [External influences study guide](/resources/edexcel-a-level-business-ybs11-external-influences/), then practise with the [External influences practice questions](/resources/edexcel-a-level-business-ybs11-external-influences-practice/).

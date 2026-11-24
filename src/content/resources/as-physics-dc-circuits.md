@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false
@@ -297,7 +297,7 @@ Both are two parallel lines across the wire. A cell's lines are of unequal lengt
 **How do thermistors and LDRs work in potential dividers?**
 Replacing a fixed resistor with a thermistor or LDR makes the output voltage depend on temperature or light intensity, because the component's changing resistance changes the voltage division ratio.
 
-## Related resources
+## More resources on this topic
 
 - [Electricity: Current, Potential Difference and Resistance](/resources/as-physics-electricity/) — the previous AS topic
 - [Particle Physics: Atoms, Nuclei and Fundamental Particles](/resources/as-physics-particle-physics/) — the final AS topic

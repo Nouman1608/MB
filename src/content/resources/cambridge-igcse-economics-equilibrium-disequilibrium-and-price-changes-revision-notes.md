@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense sections 2.5 (price determination) and 2.6 (price changes) of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. For full explanations read the [study guide](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes/). Test yourself with the [practice questions](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-practice/). Course pages: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). Every figure below is invented and is not a real statistic.
@@ -246,7 +246,7 @@ Add one or two of these when a question asks you to assess or discuss, not just 
 - Starting a chain of reasoning at the end result instead of at the cause.
 - Forgetting to say that the gap is at the old price before price adjusts.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-practice/) and return to the [study guide](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes/) for any weak point.
 

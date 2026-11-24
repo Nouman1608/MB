@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ Revise first with the [3.02 study guide](/resources/ocr-gcse-mathematics-j560-st
 - Copying a calculator display instead of writing standard form.
 - Comparing the A values before the powers of 10 when ordering.
 
-## Next steps
+## More on this topic
 
 - Recap with the [3.02 revision notes](/resources/ocr-gcse-mathematics-j560-standard-form-revision-notes/).
 - Re-read the ordering and calculator examples in the [3.02 study guide](/resources/ocr-gcse-mathematics-j560-standard-form/).

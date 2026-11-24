@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -110,7 +110,7 @@ These questions cover section **3.1.12.3 The ionic product of water, Kw** of the
 - Writing the units of Kw as mol dm⁻³.
 - Saying heated water is acidic.
 
-## Next steps
+## More on this topic
 
 - [Ionic product of water, Kw revision notes](/resources/aqa-a-level-chemistry-7405-the-ionic-product-of-water-kw-revision-notes/)
 - [Acids and bases practice questions](/resources/aqa-a-level-chemistry-acids-and-bases-practice/)

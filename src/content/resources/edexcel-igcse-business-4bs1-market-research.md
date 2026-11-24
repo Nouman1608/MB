@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ Why it works: one reason (an unrepresentative sample), applied to the case, foll
 - Scaling up a small sample without commenting on reliability.
 - Writing "social media is cheap" without saying what data it collects and how reliable it is.
 
-## Next steps
+## More on this topic
 
 Condense this with the [market research revision notes](/resources/edexcel-igcse-business-4bs1-market-research-revision-notes/), then try the [market research practice questions](/resources/edexcel-igcse-business-4bs1-market-research-practice/).
 

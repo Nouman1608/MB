@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ Evaluate whether Lorvia should join. **[9]**
 - Giving wrong dates for the UK's EU membership.
 - Evaluating with consumers only, ignoring producers, workers and government.
 
-## Next steps
+## More on this topic
 
 - Revise with the [free-trade agreements revision notes](/resources/aqa-gcse-economics-8136-free-trade-agreements-including-the-european-union-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-8136-free-trade-agreements-including-the-european-union/).
 - For globalisation questions, try the [free trade and globalisation practice questions](/resources/aqa-gcse-economics-free-trade-agreements-and-globalisation-practice/).

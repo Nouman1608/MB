@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section **3.3.11 Amines** of the AQA AS and A-level Chemistry specification (7404/7405),
@@ -362,7 +362,7 @@ Heat the halogenoalkane with excess ammonia in ethanol in a sealed container. Ex
 **Is there a required practical for amines in AQA A-level Chemistry 7405?**
 No. No required practical is listed under section 3.3.11, which is A-level only. The reactions of acyl chlorides and acid anhydrides with ammonia and primary amines also appear in 3.3.9.2 Acylation.
 
-## Next steps
+## More on this topic
 
 Next, use the [revision notes](/resources/aqa-a-level-chemistry-amines-revision-notes/) and the
 [practice questions](/resources/aqa-a-level-chemistry-amines-practice/). Infrared absorptions for N–H are in

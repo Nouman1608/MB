@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide covers similarity and enlargement for the OCR GCSE (9-1) Mathematics specification (J560), Version 2.1 (August 2026). It follows content references 9.04a, 9.04b and 9.04c in content area 9, Congruence and similarity. Most of the unit is for both tiers. Two parts are Higher tier only, and each is labelled "Higher tier only" where it appears. The specification states that content can appear on calculator and non-calculator papers alike, so every method here is set out so that you can do it by hand.
 
@@ -308,7 +308,7 @@ For a longer chain, change in steps. Two similar containers have surface areas 1
 - Using a square root on a volume ratio when a cube root is needed (Higher tier only).
 - Giving a proof of similarity with angles but no reasons, such as parallel lines or a common angle.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-similarity-and-enlargement-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-similarity-and-enlargement-revision-notes/) to keep the methods fresh.
 

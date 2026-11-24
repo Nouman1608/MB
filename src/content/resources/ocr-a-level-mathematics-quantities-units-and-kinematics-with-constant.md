@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers quantities, units and kinematics with constant acceleration in OCR A Level Mathematics A (H240), content references 3.01a to 3.01c and 3.02a to 3.02e of the OCR specification, Version 3.1 (August 2026). Most of it is Stage 1, common to AS and A Level. Two items are A Level only: the unit for moment (3.01c) and the extension of the constant acceleration formulae to two dimensions with vectors (3.02e). The specification places Mechanics in Paper 3. Take the [revision notes](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-revision-notes/) for recall and the [practice set](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-practice/) for questions. The [course hub](/boards/ocr/a-level/mathematics/) and the [checklist](/checklists/ocr/a-level/mathematics/) show where this sits in the course, and the [free diagnostics](/diagnostics/) help you find weak spots.
@@ -308,7 +308,7 @@ From a velocity-time graph, the gradient gives v = u + at and the trapezium area
 **What does "starts from rest" mean in a kinematics question?**
 "Starts from rest" means the initial velocity u = 0, and "comes to rest" means the final velocity v = 0.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-revision-notes/), then attempt the [practice questions](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-practice/) without looking at the answers. Use the [checklist](/checklists/ocr/a-level/mathematics/) to record what you have covered and the [course hub](/boards/ocr/a-level/mathematics/) to move on.
 

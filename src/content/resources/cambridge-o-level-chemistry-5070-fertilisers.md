@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ If a sample gives ammonia with sodium hydroxide alone, it contains ammonium ions
 - **Explain** (lime and ammonium salts): name the reaction (a base with an ammonium salt), the product (ammonia gas) and the consequence (nitrogen lost from the soil).
 - **Suggest**: apply the ideas to an unfamiliar compound, using its formula.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [fertilisers revision notes](/resources/cambridge-o-level-chemistry-5070-fertilisers-revision-notes/).
 - Test yourself with the [fertilisers practice questions](/resources/cambridge-o-level-chemistry-5070-fertilisers-practice/).

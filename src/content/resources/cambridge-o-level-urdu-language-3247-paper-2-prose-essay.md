@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, the original illustrative scenario and the model Urdu paragraphs, including whether the empathic voice is natural."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, the original illustrative scenario and the model Urdu paragraphs, including whether the empathic voice is natural. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -176,7 +176,7 @@ voice would echo the way the writer presents that character.
 - Use short memorised phrases from the text in every paragraph.
 - Keep the last few minutes to check spelling and agreement; accurate Urdu supports a clear response.
 
-## Related resources
+## More resources on this topic
 
 - [Prose essay: revision notes](/resources/cambridge-o-level-urdu-language-3247-paper-2-prose-essay-revision-notes/)
 - [Prose essay: practice questions](/resources/cambridge-o-level-urdu-language-3247-paper-2-prose-essay-practice/)

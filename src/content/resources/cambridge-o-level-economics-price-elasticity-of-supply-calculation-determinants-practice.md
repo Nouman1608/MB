@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ When price falls, quantity supplied also falls, so both percentage changes are n
 **How do you compare PES in the short run and the long run?**
 State the time period and what firms can or cannot change in it. In the long run firms can expand capacity and new firms can enter, so supply is usually more elastic.
 
-## Next steps
+## More on this topic
 
 - Return to the [revision notes](/resources/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants/).
 - Check your coverage on the [printable checklist](/checklists/cambridge/o-level/economics/) and the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/).

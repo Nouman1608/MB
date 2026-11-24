@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ y is inversely proportional to a power or root of x. Find a formula for y in ter
 - Changing a percentage by the power instead of changing the multiplier.
 - Rounding k on Paper 4 before the final answer.
 
-## Next steps
+## More on this topic
 
 - [Proportion study guide](/resources/igcse-mathematics-0580-proportion/)
 - [Proportion revision notes](/resources/cambridge-igcse-mathematics-0580-proportion-revision-notes/)

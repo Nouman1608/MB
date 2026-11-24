@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -146,7 +146,7 @@ These questions cover OCR GCSE Physics A (Gateway Science, J249), specification 
 - Changing the mass number in a gamma equation.
 - Counting alpha and beta emissions together instead of taking mass number first, then charge.
 
-## Next steps
+## More on this topic
 
 - Condense the topic with the [revision notes](/resources/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations-revision-notes/).
 - Re-read the full explanations in the [study guide](/resources/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations/).

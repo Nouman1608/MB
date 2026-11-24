@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ These questions cover section 3.1 of the Cambridge O Level Statistics (4040) syl
 - Commenting on class choices with no figures from the question.
 - Not checking that the frequency column totals the size of the sample.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [revision notes](/resources/cambridge-o-level-statistics-frequency-distributions-revision-notes/) and the [study guide](/resources/cambridge-o-level-statistics-frequency-distributions/).
 - Visit the [Cambridge O Level Statistics hub](/boards/cambridge/o-level/statistics/) and tick off the [checklist](/checklists/cambridge/o-level/statistics/).

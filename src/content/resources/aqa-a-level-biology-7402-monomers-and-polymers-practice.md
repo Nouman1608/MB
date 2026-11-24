@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ These questions cover section 3.1.1 Monomers and polymers of the AQA AS and A-le
 - Forgetting that each of two separate chains loses one bond from its count.
 - Naming the wrong bond for the monomer family.
 
-## Next steps
+## More on this topic
 
 - [3.1.1 study guide](/resources/aqa-a-level-biology-7402-monomers-and-polymers/)
 - [3.1.1 revision notes](/resources/aqa-a-level-biology-7402-monomers-and-polymers-revision-notes/)

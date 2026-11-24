@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -139,7 +139,7 @@ That is fine if your reasoning is scientific and consistent. The criterion rewar
 **Why are marks given for equipment sizes?**
 The descriptors ask for appropriate materials and equipment. Sizes and ranges show that the equipment fits the measurement.
 
-## Next steps
+## More on this topic
 
 - [Criterion B revision notes](/resources/ib-myp-sciences-criterion-b-inquiring-and-designing-revision-notes/)
 - [Criterion B study guide](/resources/ib-myp-sciences-criterion-b-inquiring-and-designing/)

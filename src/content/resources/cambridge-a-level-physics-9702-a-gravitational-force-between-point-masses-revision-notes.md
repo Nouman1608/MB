@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Radius ≈ 4.22 × 10⁷ m (height ≈ 3.59 × 10⁷ m), speed ≈ 3.07 km s⁻�
 
 **Answers:** 1. Two point masses attract each other with a force proportional to the product of their masses and inversely proportional to the square of their separation. 2. For points outside a uniform sphere, its mass acts as if concentrated at its centre. 3. It becomes four times larger. 4. Gravity provides the centripetal force: GMm/r² = mv²/r; cancel m and one r: v² = GM/r. 5. m cancels from GMm/r² = mrω², so ω and T depend only on M and r. 6. T ∝ r^(3/2): 9^(3/2) = 27. 7. v ∝ 1/√r: speed is divided by 3. 8. Period 24 hours; west to east; directly above the Equator. 9. The gravitational force points to the Earth's centre, so the orbit is centred there; only an orbit in the equatorial plane stays above a single point. 10. T = 3.46 × 10⁵ s; M = 4π²r³/(GT²) = 4.0 × 10²⁵ kg. 11. F = 6.67 × 10⁻¹¹ × 10 × 10 ÷ 0.040 = 1.7 × 10⁻⁷ N. 12. 2.0 × 10²⁰ N, towards the Moon.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields revision notes](/resources/a-physics-gravitational-fields-revision-notes/) — the whole of Topic 13
 - [Practice questions for this subtopic](/resources/cambridge-a-level-physics-9702-a-gravitational-force-between-point-masses-practice/)

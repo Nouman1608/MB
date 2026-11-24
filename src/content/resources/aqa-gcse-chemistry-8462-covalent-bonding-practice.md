@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ three bonds" is a restatement, not an explanation.
 - Treating SiO₂ as a small molecule because its formula is short.
 - Missing *n* or the bond lines through the brackets on a polymer repeat unit.
 
-## Next steps
+## More on this topic
 
 - Recap with the [covalent bonding revision notes](/resources/aqa-gcse-chemistry-8462-covalent-bonding-revision-notes/).
 - Reread any weak area in the [covalent bonding study guide](/resources/aqa-gcse-chemistry-8462-covalent-bonding/).

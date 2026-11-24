@@ -35,7 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Take G = 6.67 × 10⁻¹¹ N m² kg⁻², ε₀ = 8.85 × 10⁻¹² F m⁻¹, e 
 - Using a charging equation for current, which always decays.
 - Forgetting to convert grams to newtons with g in the top pan balance practical.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-physics-fields-and-their-consequences-revision-notes/)
 - [Study guide](/resources/aqa-a-level-physics-fields-and-their-consequences/)

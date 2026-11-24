@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -210,7 +210,7 @@ Equitable:     Specific performance is irrelevant after delivery, and an
 - **Discuss** questions: evaluate whether remedies achieve full compensation, whether limits such as
   Addis are justified, and how effective consumer remedies are.
 
-## Related resources
+## More resources on this topic
 
 [Remedies in contract revision notes](/resources/aqa-a-level-law-7162-remedies-law-of-contract-revision-notes/) |
 [Remedies in contract practice questions](/resources/aqa-a-level-law-7162-remedies-law-of-contract-practice/) |

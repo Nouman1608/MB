@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -151,7 +151,7 @@ union's right to expel a member for his politics; Redfearn upheld an individual'
 from dismissal for political membership. 12. Assess proportionality under Articles 10 and 11 when
 deciding whether protesters had a lawful excuse for obstructing the highway.
 
-## Related resources
+## More resources on this topic
 
 [Article 11 study guide](/resources/aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953/) |
 [Article 11 practice questions](/resources/aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953-practice/) |

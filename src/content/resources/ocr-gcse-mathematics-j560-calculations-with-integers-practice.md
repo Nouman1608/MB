@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -215,7 +215,7 @@ Revise first with the [1.01 study guide](/resources/ocr-gcse-mathematics-j560-ca
 - Giving the difference between two temperatures as a negative number.
 - Writing the answer with no written method on a non-calculator paper.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [1.01 revision notes](/resources/ocr-gcse-mathematics-j560-calculations-with-integers-revision-notes/).
 - Re-read the worked examples in the [1.01 study guide](/resources/ocr-gcse-mathematics-j560-calculations-with-integers/).

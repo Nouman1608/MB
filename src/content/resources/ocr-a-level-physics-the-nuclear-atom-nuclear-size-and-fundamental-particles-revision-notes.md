@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 These notes condense sections 6.4.1 (The nuclear atom) and 6.4.2 (Fundamental particles) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. For full explanations, read the [study guide](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles/); to test yourself, use the [practice questions](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-practice/).
 
@@ -243,7 +243,7 @@ Nuclear radius is R = r₀A^(1/3), so nuclear volume is proportional to the nucl
 **Which sections of OCR A Level Physics A cover the nuclear atom and fundamental particles?**
 They are sections 6.4.1 (The nuclear atom) and 6.4.2 (Fundamental particles) of OCR H556, in Module 6.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-practice/), then go back to the [study guide](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles/) for any weak spot.
 

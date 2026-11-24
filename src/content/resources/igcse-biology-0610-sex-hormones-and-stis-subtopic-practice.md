@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -225,7 +225,7 @@ The topic-level [Reproduction practice questions](/resources/igcse-biology-repro
 - Naming an STI control measure without explaining how it stops body fluids passing between people.
 - Treating HIV and AIDS as the same thing, or saying antibiotics treat HIV.
 
-## Next steps
+## More on this topic
 
 - [Reproduction revision notes](/resources/igcse-biology-0610-reproduction-revision-notes/) and [study guide](/resources/igcse-biology-0610-reproduction/) (sections 16.5 and 16.6).
 - [Reproduction practice questions](/resources/igcse-biology-reproduction-practice/) for the rest of topic 16.

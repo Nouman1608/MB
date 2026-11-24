@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -181,7 +181,7 @@ angle BCD = 180° − 70° = 110°   (opposite angles of a cyclic quadrilateral 
 - Giving one reason at the end for a three-step calculation.
 - Using a circle theorem in a Higher answer without its standard wording, such as "circle rule".
 
-## Next steps
+## More on this topic
 
 Learn the wordings with the [Geometrical reasoning revision notes](/resources/edexcel-igcse-mathematics-4ma1-geometrical-reasoning-revision-notes/), then write full reasoned answers in the [Geometrical reasoning practice questions](/resources/edexcel-igcse-mathematics-4ma1-geometrical-reasoning-practice/). The circle facts themselves are explained in the [Circle properties study guide](/resources/edexcel-igcse-mathematics-4ma1-circle-properties/).
 

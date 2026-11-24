@@ -12,7 +12,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -175,7 +175,7 @@ subjects. The main change is that most DP assessment is by timed
 external examination, so practising timed, exam-style answers before
 DP begins helps.
 
-## Next steps
+## More on this topic
 
 Read the
 [syllabus guide](/resources/ib-myp-individuals-and-societies-syllabus-guide/)

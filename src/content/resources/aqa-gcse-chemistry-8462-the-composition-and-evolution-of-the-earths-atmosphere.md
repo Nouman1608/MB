@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -189,7 +189,7 @@ removed from the atmosphere.
 - Limestone, coal, crude oil and natural gas link to **organic chemistry** (4.7.1) and **carbonates** (4.4.2).
 - The evaluation of theories links to **How Science Works**: evidence, models and peer review.
 
-## Next steps
+## More on this topic
 
 - [Composition and evolution of the atmosphere practice questions](/resources/aqa-gcse-chemistry-8462-the-composition-and-evolution-of-the-earths-atmosphere-practice/)
 - [Chemistry of the atmosphere revision notes](/resources/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-revision-notes/)

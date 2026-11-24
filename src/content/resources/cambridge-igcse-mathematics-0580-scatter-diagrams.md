@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ Value ($ thousand) 17.5  15.8  14.0  12.9  11.0  10.2   8.4   7.5   5.6   4.9
 - **"Use your line of best fit to estimate"**: show the reading lines on the diagram; your answer must match your own line.
 - **"Explain why it would not be sensible"**: refer to extrapolation beyond the data or to an impossible value.
 
-## Next steps
+## More on this topic
 
 - Quick recall: [scatter diagrams revision notes](/resources/cambridge-igcse-mathematics-0580-scatter-diagrams-revision-notes/).
 - Marked questions: [scatter diagrams practice questions](/resources/cambridge-igcse-mathematics-0580-scatter-diagrams-practice/).

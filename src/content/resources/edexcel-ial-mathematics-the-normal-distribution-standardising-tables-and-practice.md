@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ Find the z-value for each probability with the correct sign, write two equations
 **Which z-value do you use for a symmetrical 90% interval?**
 The tails outside a central 90% interval each hold 5%, so look up Φ(z) = 0.95, not 0.90.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and/) for any question that cost you marks.
 - Use the [revision notes](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-revision-notes/) for a quick recap.

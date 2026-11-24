@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -156,7 +156,7 @@ These questions cover OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 202
 - Writing "independent" without comparing p(A) × p(B) with p(A and B), or p(A given B) with p(A).
 - Not checking that branches from one point sum to 1.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and/) for any question you missed.
 - Use the [revision notes](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and-revision-notes/) to rehearse the laws.

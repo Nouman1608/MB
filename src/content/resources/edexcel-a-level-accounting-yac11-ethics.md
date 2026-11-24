@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ An ethical decision may cost money in the short term, for example turning down a
 - Use figures where possible. "Profit would be overstated by 10,800" is stronger than "profit would be too high".
 - Write in a calm, professional tone and avoid accusing people without evidence. Say "this appears to".
 
-## Related resources
+## More resources on this topic
 
 [Social and ethical accounting revision notes](/resources/edexcel-ial-accounting-social-and-ethical-accounting-revision-notes/) |
 [Ethics practice questions](/resources/edexcel-a-level-accounting-yac11-ethics-practice/) |

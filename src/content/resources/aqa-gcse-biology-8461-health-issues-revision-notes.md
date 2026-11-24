@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Classic biased samples: one school, one gym, one hospital ward, one day of the y
 11. Any two: large, representative, randomly chosen, repeated by other studies.
 12. Any two: too small; not random (volunteers); not representative (hospital patients are already ill; one place only).
 
-## Next steps
+## More on this topic
 
 - Worked explanations: [health issues study guide](/resources/aqa-gcse-biology-8461-health-issues/)
 - Questions with mark schemes: [health issues practice questions](/resources/aqa-gcse-biology-8461-health-issues-practice/)

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -131,7 +131,7 @@ The idea was developed in work by John Friedmann (the world city hypothesis, 198
 
 **Answers:** 1. Urbanisation is the rising proportion urban; urban growth is the rising number. 2. Return of people and investment to central city areas. 3. Housing shortage, informal settlements, traffic, pollution. 4. A city much larger than the next largest in a country. 5. A city with a major role in global economy, culture or politics. 6. High accessibility and strong competition for space. 7. Migrants are young adults, so birth rates are high, while death rates are low. 8. Early (low, slow), acceleration (rapid rise), terminal (levels off at a high share). 9. Headquarters, financial services, international air links, global media and culture. 10. Gain: investment and jobs. Cost: displacement of local residents by rising prices. 11. An urban area of over 10 million; size does not guarantee global influence.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

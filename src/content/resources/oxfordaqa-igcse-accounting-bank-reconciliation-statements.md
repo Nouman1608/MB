@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is written for the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the content point in section 3.2 (Verification of accounting records) on preparing and understanding the use and purpose of bank reconciliation statements. The qualification is untiered, and the specification says Paper 1 assesses content 1 to 3, so this topic sits in Paper 1. All amounts on this page are in dollars.
@@ -220,7 +220,7 @@ A reconciliation does not prove that every entry in the accounts is correct. It 
 - Forgetting that an overdraft flips every sign, so adding an outstanding banking makes the overdraft smaller.
 - Putting a correction for an error on the wrong side: a payment recorded too large is corrected by a debit, not a credit.
 
-## Next steps
+## More on this topic
 
 Revise from the [revision notes](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements-practice/). For exam planning, see [how the two papers work](/resources/oxfordaqa-igcse-accounting-exam-preparation/) and [Sources and recording of data](/resources/igcse-oxfordaqa-accounting-sources-and-recording-of-data/) for the double entry that feeds the cash book.
 

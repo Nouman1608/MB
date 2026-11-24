@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ Read the cumulative frequency at that value and subtract it from the total, beca
 **Can a line of best fit be used outside the data?**
 Using a line of best fit far outside the range of the data is unreliable, so either avoid it or give a warning that the trend may not continue.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency-revision-notes/) and the [study guide](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency/).
 - Return to the [O Level Mathematics hub](/boards/cambridge/o-level/mathematics/) and tick off the [printable checklist](/checklists/cambridge/o-level/mathematics/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ These questions cover section 3.5.3, Energy and ecosystems (A-level only), in th
 - Describing farming practices with no link to the energy loss that they reduce.
 - Not stating constant mass when describing how to dry a sample.
 
-## Next steps
+## More on this topic
 
 - Revise: [Energy transfer and productivity revision notes](/resources/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems-revision-notes/)
 - Relearn: [Energy transfer and productivity study guide](/resources/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,6 +168,6 @@ CH3CH=CH2 + Br2 → CH3CHBr-CH2Br (1,2-dibromopropane)
 9. No change; it stays orange-brown.
 10. They contain a C=C double bond, so they have fewer hydrogen atoms than the corresponding alkane and can bond to more atoms.
 
-## Next steps
+## More on this topic
 
 Work through the [alkenes study guide](/resources/edexcel-igcse-chemistry-4ch1-alkenes/) for the worked examples, then try the [alkenes practice questions](/resources/edexcel-igcse-chemistry-4ch1-alkenes-practice/). Continue with the [alcohols study guide](/resources/edexcel-igcse-chemistry-4ch1-alcohols/).

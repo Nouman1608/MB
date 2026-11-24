@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -201,7 +201,7 @@ No. NaBH₄ is not a strong enough reducing agent for carboxylic acids; LiAlH₄
 **How can you test for a carboxylic acid?**
 A carboxylic acid reacts with a carbonate to give effervescence of carbon dioxide. This distinguishes it from alcohols, which do not react with carbonates.
 
-## Related resources
+## More resources on this topic
 
 - [Alcohols: Reactions and Oxidation](/resources/as-alcohols-reactions-and-oxidation/) — oxidation to a carboxylic acid, and esterification from the alcohol's side
 - [Carbonyl Compounds: Aldehydes and Ketones](/resources/as-carbonyl-compounds-aldehydes-and-ketones/) — the aldehyde-to-acid oxidation route

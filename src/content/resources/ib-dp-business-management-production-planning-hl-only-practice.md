@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Evaluate whether Cadenza Foods should use JIT or JIC for its ingredients. **[8]*
 - Evaluating with only one side, or with no use of the case facts.
 - Stopping at a result in "comment" or "justify" parts with no reason.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-business-management-production-planning-hl-only-revision-notes/) and the [study guide](/resources/ib-dp-business-management-production-planning-hl-only/).
 - See the [IB DP Business Management hub](/boards/ib/ib-dp/business/) and the [syllabus checklist](/checklists/ib/ib-dp/business/).

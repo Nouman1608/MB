@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Yes. Homogeneity only checks units, so a missing factor such as ½, or a wrong s
 **Is the newton a base unit?**
 No. The newton is a derived unit, equal to kg m s⁻².
 
-## Related resources
+## More resources on this topic
 
 - [SI units revision notes](/resources/cambridge-a-level-physics-9702-as-si-units-revision-notes/)
 - [SI units practice questions](/resources/cambridge-a-level-physics-9702-as-si-units-practice/)

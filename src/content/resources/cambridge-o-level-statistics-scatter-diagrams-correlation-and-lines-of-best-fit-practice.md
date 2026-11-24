@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Find the equation of the line of best fit by the method of semi-averages. **[6]*
 * Accepting an impossible value, such as negative sales, without comment.
 * Saying that correlation proves cause.
 
-## Next steps
+## More on this topic
 
 * Re-read the [revision notes](/resources/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit-revision-notes/) or the [study guide](/resources/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit/).
 * Open the [Cambridge O Level Statistics hub](/boards/cambridge/o-level/statistics/) and tick off the [checklist](/checklists/cambridge/o-level/statistics/).

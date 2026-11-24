@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Match the cause in the case to the type: a downturn in total demand is cyclical,
 **What do you need to explain the cost of unemployment to the government?**
 Name both sides of the budget: the government pays more in benefits and collects less income tax and sales tax, because the unemployed earn and spend less. A chain from cause to effect earns more than a list.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-igcse-economics-unemployment-and-its-consequences-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-unemployment-and-its-consequences/).
 - Go to the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and the [printable checklist](/checklists/edexcel/igcse/economics/).

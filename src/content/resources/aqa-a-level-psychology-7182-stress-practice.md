@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -183,7 +183,7 @@ The real exam marks extended answers with levels of response, not point by point
 **How should you evaluate stress management therapies?**
 The specification asks you to evaluate therapies in terms of appropriateness and effectiveness. Judging each therapy against the person in the scenario lifts an answer above description.
 
-## Next steps
+## More on this topic
 
 - Recheck weak areas in the [Stress study guide](/resources/aqa-a-level-psychology-7182-stress/).
 - Refresh the biological approach in [Approaches in Psychology](/resources/a-level-aqa-psychology-approaches-in-psychology/).

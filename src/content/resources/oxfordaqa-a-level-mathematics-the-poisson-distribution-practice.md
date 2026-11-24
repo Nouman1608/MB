@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -156,7 +156,7 @@ Related pages: the [study guide](/resources/oxfordaqa-a-level-mathematics-the-po
 - Missing out working in a "show that" question.
 - Rounding e^(−λ) to two or three figures before multiplying.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/oxfordaqa-a-level-mathematics-the-poisson-distribution/) for full explanations.
 - Recap with the [revision notes](/resources/oxfordaqa-a-level-mathematics-the-poisson-distribution-revision-notes/).

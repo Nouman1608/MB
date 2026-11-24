@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ These questions cover section 1.2, The basic economic problem, of the OCR GCSE (
 - Writing "sustainable" without saying which type.
 - One-sided evaluations with no final judgement.
 
-## Next steps
+## More on this topic
 
 - Recap with the [1.2 revision notes](/resources/ocr-gcse-economics-j205-the-basic-economic-problem-revision-notes/).
 - Practise [section 1.1 questions on economic groups and factors](/resources/ocr-gcse-economics-j205-main-economic-groups-and-factors-of-production-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ Then check the **legal form**: only companies issue shares, and only public limi
 11. The business loses the use of the asset, or a quick sale may bring a low price.
 12. The owner is risking their own money too, which shows commitment and reduces the amount the bank must lend.
 
-## Next steps
+## More on this topic
 
 Apply this in the [sources of finance practice questions](/resources/edexcel-igcse-business-4bs1-business-finance-sources-practice/), and see how finance links to cash in the [cash flow forecasting revision notes](/resources/edexcel-igcse-business-4bs1-cash-flow-forecasting-revision-notes/).
 

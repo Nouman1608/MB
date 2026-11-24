@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ These questions cover section D3.3 (Homeostasis) of the IB *Biology guide*, firs
 - Confusing filtration, reabsorption and secretion.
 - Saying ADH creates or destroys aquaporins instead of moving them.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the-revision-notes/) and re-read the [study guide](/resources/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the/).
 - Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Checklist: [printable checklist](/checklists/ib/ib-dp/biology/).

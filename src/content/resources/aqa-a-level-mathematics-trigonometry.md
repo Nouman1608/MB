@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section E: Trigonometry (E1 to E9)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section E is Paper 1 content, and Papers 2 and 3 can also assess any Paper 1 content, so trigonometry can appear on all three papers. A calculator is required in every 7357 paper, but questions that ask for **exact** values or say **"show that"** still need full working by hand.
@@ -318,7 +318,7 @@ Inverse trigonometric functions only return values in their ranges. arcsin gives
 **How do you get sec²θ ≡ 1 + tan²θ?**
 Divide the identity sin²θ + cos²θ ≡ 1 by cos²θ. Dividing by sin²θ instead gives 1 + cot²θ ≡ cosec²θ.
 
-## Next steps
+## More on this topic
 
 Condense these ideas with the [revision notes](/resources/aqa-a-level-mathematics-trigonometry-revision-notes/), then test yourself on the [practice questions](/resources/aqa-a-level-mathematics-trigonometry-practice/). Try the [free 10-minute diagnostics](/diagnostics/) to check other topics.
 

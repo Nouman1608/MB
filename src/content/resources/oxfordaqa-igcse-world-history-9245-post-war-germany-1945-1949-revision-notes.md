@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -163,6 +163,6 @@ featured: false
 11. It ended the worthless Reichsmark, goods reappeared in shops and the black market declined.
 12. The Federal Republic in May 1949 (Basic Law; government in September); the GDR in October 1949.
 
-## Next steps
+## More on this topic
 
 Try the [post-war Germany practice questions](/resources/oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949-practice/).

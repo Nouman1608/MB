@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -113,7 +113,7 @@ Once the mean titre is known, the unknown concentration is found with moles = co
 - **Suggest** an improvement: common credited answers include reading at eye level, adding dropwise near the end-point, using a white tile, and repeating to obtain concordant results.
 - In results tables, give every reading to two decimal places with the unit in the heading, as the syllabus expects data recorded "to an appropriate degree of precision and using appropriate units".
 
-## Next steps
+## More on this topic
 
 - Condense this with the [acid–base titrations revision notes](/resources/cambridge-o-level-chemistry-5070-acid-base-titrations-revision-notes/).
 - Practise with the [acid–base titrations practice questions](/resources/cambridge-o-level-chemistry-5070-acid-base-titrations-practice/).

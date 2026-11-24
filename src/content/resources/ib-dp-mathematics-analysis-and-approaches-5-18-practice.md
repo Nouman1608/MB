@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ Learn the methods first in the [section 5.18 study guide](/resources/ib-dp-mathe
 - Dividing by the Euler estimate instead of the exact value in a percentage error.
 - Leaving a homogeneous answer in terms of v (question 8).
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [section 5.18 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-5-18-revision-notes/).
 - For a logistic model solved with partial fractions and mixed HL calculus questions, try the [further calculus practice questions](/resources/ib-dp-mathematics-aa-hl-further-calculus-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ The 12-month rule decides it: within a year means current.
 11. Cost of sales rose faster than sales; other operating expenses rose.
 12. They show past results, not future conditions, and do not show non-financial factors such as staff morale or customer satisfaction.
 
-## Next steps
+## More on this topic
 
 Practise with the [financial documents practice questions](/resources/edexcel-igcse-business-4bs1-financial-documents-practice/), then move on to the ratios in the [accounts analysis revision notes](/resources/edexcel-igcse-business-4bs1-accounts-analysis-revision-notes/).
 

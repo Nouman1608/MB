@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ These questions cover section 2.4, Ion and ionic bonds, of the Cambridge O Level
 - Leaving out square brackets or charges in dot-and-cross diagrams.
 - Explaining a high melting point with "strong bonds" but no mention of the giant lattice.
 
-## Next steps
+## More on this topic
 
 - Recap with the [ion and ionic bonds revision notes](/resources/cambridge-o-level-chemistry-5070-ion-and-ionic-bonds-revision-notes/).
 - Compare with covalent bonding in the [simple molecules and covalent bonds practice questions](/resources/cambridge-o-level-chemistry-5070-simple-molecules-and-covalent-bonds-practice/).

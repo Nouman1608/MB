@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ Revise first with the [study guide](/resources/ocr-gcse-chemistry-predicting-che
 - Dividing masses instead of moles when finding an empirical formula.
 - Saying the metal lost mass when it formed an oxide or chloride.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-gcse-chemistry-predicting-chemical-reactions-revision-notes/).
 - Re-read the [study guide](/resources/ocr-gcse-chemistry-predicting-chemical-reactions/) for anything you found hard.

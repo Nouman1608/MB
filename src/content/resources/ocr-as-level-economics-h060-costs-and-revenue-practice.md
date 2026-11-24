@@ -16,7 +16,7 @@ syllabusTopics:
 description: "Original OCR AS Level Economics (H060) practice questions on costs, revenue, profit and PED with total revenue, with full mark-scheme-style answers."
 author: "marlbridge-academic-team"
 reviewStatus: "archived"
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names PED and a firm's total revenue but lists cost, revenue and profit calculation as an A Level (H460) skill, so a teacher should confirm how much of this subtopic the AS course examines. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands. Archived 2026-11-19 (owner's decision): Version 3.0 of the H060 specification does not include this topic at AS, so the credit to salman-ahmad no longer applies."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names PED and a firm's total revenue but lists cost, revenue and profit calculation as an A Level (H460) skill, so a teacher should confirm how much of this subtopic the AS course examines. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands. Archived 2026-11-19 (owner's decision): Version 3.0 of the H060 specification does not include this topic at AS, so the credit to salman-ahmad no longer applies. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Near the revenue maximum, extra units add little to revenue but still add to cos
 **Do fixed costs affect the best price to charge?**
 Fixed costs must be paid whatever price is chosen, so the profit-maximising price depends on how revenue and variable costs change with output.
 
-## Next steps
+## More on this topic
 
 - Re-read the [costs and revenue study guide](/resources/ocr-as-level-economics-h060-costs-and-revenue/).
 - Recap with the [costs and revenue revision notes](/resources/ocr-as-level-economics-h060-costs-and-revenue-revision-notes/).

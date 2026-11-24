@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -259,7 +259,7 @@ No. A service business has no cost of sales or gross profit, so its income state
 **How are marks given for a statement of financial position?**
 Subheadings carry marks, so show non-current assets, current assets, capital, non-current liabilities and current liabilities clearly. A loan listed under current liabilities loses marks and distorts net current assets.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/)
 - [Study guide for this topic](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/)

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Links: [study guide](/resources/cambridge-a-level-economics-employment-unemploym
 - Applying demand-side policy to structural unemployment without comment.
 - Concluding without a judgement about which policy suits which cause.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-a-level-economics-employment-unemployment-and-labour-mobility-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-employment-unemployment-and-labour-mobility/).
 - Tick off outcomes on the [checklist](/checklists/cambridge/a-level/economics/) and see the [course hub](/boards/cambridge/a-level/economics/).

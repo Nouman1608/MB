@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -200,7 +200,7 @@ fewer bits for each sample, but it loses detail, so the sound is less accurate.
 - **Effect** questions: name which setting changes, say whether the file size and the quality go up or down, and
   explain why.
 
-## Next steps
+## More on this topic
 
 For a condensed summary and a self-test, use the [Representing sound revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-representing-sound-revision-notes/), and practise with the

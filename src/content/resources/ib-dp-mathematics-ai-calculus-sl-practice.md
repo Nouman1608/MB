@@ -42,7 +42,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -190,7 +190,7 @@ Estimate the limit of k(x) as x → 0, and explain why k(0) cannot be found by s
 - No justification that a stationary point is a maximum or minimum (questions 10, 11 and 12).
 - Answers not interpreted in context, such as a non-integer number of bicycles (question 12).
 
-## Next steps
+## More on this topic
 
 - Recap the key facts in the [revision notes](/resources/ib-dp-mathematics-ai-calculus-sl-revision-notes/).
 - Re-learn any weak topic in the [study guide](/resources/ib-dp-mathematics-ai-calculus-sl/).

@@ -31,7 +31,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -201,7 +201,7 @@ resistance is 2.0 kΩ. At 5 °C it is 8.0 kΩ.
 - Saying protons or positive charges move when objects are rubbed.
 - In National Grid answers, missing the link between lower current and less heating in the cables.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Electricity revision notes](/resources/aqa-gcse-physics-8463-electricity-revision-notes/)
 - Relearn weak areas in the [Electricity study guide](/resources/aqa-gcse-physics-8463-electricity/)

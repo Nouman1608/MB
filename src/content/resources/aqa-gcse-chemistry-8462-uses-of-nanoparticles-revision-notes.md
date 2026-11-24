@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -154,7 +154,7 @@ particles meet the surface.
 9. No. The question gives the information.
 10. A high surface area to volume ratio.
 
-## Next steps
+## More on this topic
 
 - [Uses of nanoparticles study guide](/resources/aqa-gcse-chemistry-8462-uses-of-nanoparticles/)
 - [Uses of nanoparticles practice questions](/resources/aqa-gcse-chemistry-8462-uses-of-nanoparticles-practice/)

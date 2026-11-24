@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Label price on the vertical axis and quantity per period on the horizontal axis,
 **What are common mistakes in IB Economics supply questions?**
 Common slips include saying a price change shifts the supply curve, drawing a tax as a movement along the curve, forgetting ceteris paribus when stating the law of supply, and describing a shift to the right without saying whether supply rose or fell.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-economics-supply-revision-notes/) or reread the [study guide](/resources/ib-dp-economics-supply/).
 - See the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/).

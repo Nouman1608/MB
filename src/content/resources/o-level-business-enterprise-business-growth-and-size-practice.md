@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Choose one problem, explain why it arises, then give a solution that matches it,
 **What does an "evaluate" answer on buying another business need?**
 Arguments for and against, followed by a decision and a reason that depends on the case, such as the cash available. Ending without a decision is a common way to lose marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/o-level-business-enterprise-business-growth-and-size-revision-notes/) for the points you missed.
 - Revisit the [study guide](/resources/enterprise-business-growth-and-size/).

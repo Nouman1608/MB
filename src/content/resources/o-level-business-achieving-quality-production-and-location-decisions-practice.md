@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -157,7 +157,7 @@ No. Describing how legal controls affect a site is enough, and guessing at the n
 **How do you answer a "recommend and justify" question on location?**
 Make a clear choice, support it with figures from the case and compare it with the rejected site. A list of site features without a decision gains less.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/o-level-business-achieving-quality-production-and-location-decisions-revision-notes/) and the [study guide](/resources/o-level-business-achieving-quality-production-and-location-decisions/).
 - Check your syllabus coverage with the [printable checklist](/checklists/cambridge/o-level/business/) and the [course hub](/boards/cambridge/o-level/business/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,6 +149,6 @@ n(H⁺)  = 4 × 2.40 × 10⁻³ = 9.60 × 10⁻³ mol
 - **"Evaluate"** or **"discuss"** chlorination: give at least one benefit, at least one risk, and a reasoned conclusion.
 - **"Write an equation"**: both the full and ionic forms are usually credited, but balance charge in the ionic one.
 
-## Next steps
+## More on this topic
 
 Condense this with the [chlorine and chlorate(I) revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-3-2-revision-notes/), then try the [chlorine and chlorate(I) practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-3-2-practice/). The halogen trends that come before this point are in [trends in properties (3.2.3.1)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-3-1/).

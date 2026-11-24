@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -150,7 +150,7 @@ Calculate the concentration of the sulfuric acid in mol/dm³ and in g/dm³. **[4
 - Mixing up concentrated, dilute, strong and weak.
 - Describing salt making without the filtering step or the reason for excess solid.
 
-## Next steps
+## More on this topic
 
 - Recap with the [reactions of acids revision notes](/resources/aqa-gcse-chemistry-8462-reactions-of-acids-revision-notes/).
 - Reread any weak area in the [reactions of acids study guide](/resources/aqa-gcse-chemistry-8462-reactions-of-acids/).

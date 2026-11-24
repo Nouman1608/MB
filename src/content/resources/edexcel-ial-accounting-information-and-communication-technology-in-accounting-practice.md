@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Applying sales tax before deducting trade discount is a common error; show the t
 **How do I keep evaluation points in the right aspect?**
 Keep each point under the aspect the question asks for: the cost of a system is a financial point, while breakdowns are a technical point. Mixing them up is a common way to lose marks.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-accounting-information-and-communication-technology-in-accounting-revision-notes/)
 - [Study guide](/resources/edexcel-ial-accounting-information-and-communication-technology-in-accounting/)

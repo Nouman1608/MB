@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ length, it has been inelastically deformed [1]
 - Forgetting to square the extension, or squaring the spring constant.
 - Listing apparatus in a method question instead of giving steps in order.
 
-## Next steps
+## More on this topic
 
 - [Forces and elasticity study guide](/resources/aqa-gcse-physics-8463-forces-and-elasticity/)
 - [Forces and elasticity revision notes](/resources/aqa-gcse-physics-8463-forces-and-elasticity-revision-notes/)

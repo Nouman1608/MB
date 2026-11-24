@@ -35,7 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers Topic 7, Acids, bases and salts — subtopics **7.1 The
@@ -293,7 +293,7 @@ An insoluble salt forms as a precipitate when two soluble solutions are mixed, s
 **Which sulfates and chlorides are insoluble?**
 Most sulfates are soluble except barium, calcium and lead sulfates, and most chlorides are soluble except lead and silver chlorides. All sodium, potassium, ammonium and nitrate salts are soluble.
 
-## Related resources
+## More resources on this topic
 
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — the ionic bonding behind salts and neutralisation
 - [Metal Properties and Reactivity](/resources/metal-properties-and-reactivity/) — the metal-reactivity side of "acid + metal" reactions

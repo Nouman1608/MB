@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 3, sections 3.1 "Business finance - sources" and 3.2 "Cash flow forecasting", every numbered point under each. The specification says both papers draw on the whole of the subject content, so finance can appear in either.
@@ -233,7 +233,7 @@ Interpretation means using the figures to say something about the business.
 - Starting a month with a figure other than the previous month's closing balance.
 - Calling an overdraft a long-term source, or share capital a loan that must be repaid.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/), or find weak spots with the [free diagnostics](/diagnostics/).
 

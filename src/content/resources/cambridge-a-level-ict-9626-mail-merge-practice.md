@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -130,7 +130,7 @@ Revise first with the [study guide](/resources/cambridge-a-level-ict-9626-mail-m
 - Forgetting to give the format of a calculated amount.
 - Not previewing the merge before printing.
 
-## Next steps
+## More on this topic
 
 - Recap with the [topic revision notes](/resources/a-level-cambridge-ict-mail-merge-revision-notes/).
 - Reread the [study guide](/resources/cambridge-a-level-ict-9626-mail-merge/).

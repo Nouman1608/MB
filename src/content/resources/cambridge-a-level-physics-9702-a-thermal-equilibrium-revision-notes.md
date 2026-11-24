@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -113,7 +113,7 @@ m₁c₁(θ₁ – θ) = m₂c₂(θ – θ₂)
 
 **Answers:** 1. From the region at higher temperature to the region at lower temperature. 2. A state in which there is no net transfer of thermal energy between regions, because they are at the same temperature. 3. From the bead to the water, because the bead is at the higher temperature. 4. Energy is still transferred in both directions, but at equal rates, so the net transfer is zero. 5. No; they are at the same temperature. The metal conducts energy away from the hand faster, so it feels colder. 6. It absorbs energy from the liquid while reaching equilibrium, lowering the liquid's temperature. 7. They are at the same temperature and would be in thermal equilibrium with each other. 8. θ = (0.20 × 80 + 0.60 × 20) ÷ 0.80 = 35 °C. 9. A sign error; the final temperature must lie between the starting temperatures. 10. No energy exchanged with the surroundings; negligible energy taken by the container (or thermometer). 11. No; internal energy also depends on the amount and type of material. 12. Molecules in the hotter region have greater mean kinetic energy, so in collisions at the boundary they give, on average, more energy than they receive.
 
-## Related resources
+## More resources on this topic
 
 - [Temperature revision notes](/resources/a-physics-temperature-revision-notes/) — the whole of Topic 14
 - [Thermal equilibrium practice questions](/resources/cambridge-a-level-physics-9702-a-thermal-equilibrium-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Instructions in the practical paper are precise: "6 pt after" means after, not b
 5. Apply sentence case to "SAFETY RULES FOR THE LAB". *Safety rules for the lab.*
 6. Why should list numbers not be typed by hand? *They do not update when items are added, removed or moved.*
 
-## Next steps
+## More on this topic
 
 Revise with the [format text revision notes](/resources/cambridge-igcse-ict-0417-format-text-t17-revision-notes/), then try the [format text practice questions](/resources/cambridge-igcse-ict-0417-format-text-t17-practice/).
 

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -163,6 +163,6 @@ Always tie the reason to *what the author says*. "B is biased" with no explanati
 11. Yes, if you show from both interpretations that they stress different things.
 12. About 20-25 minutes out of Section A's hour.
 
-## Next steps
+## More on this topic
 
 Try the [interpretation questions practice](/resources/aqa-gcse-world-history-8145-interpretation-questions-practice/), which has invented interpretation pairs for each period-study option, then check timing against a full set in the [period studies practice questions](/resources/gcse-history-period-studies-practice/).

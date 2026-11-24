@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,6 +149,6 @@ Not for this point. Here you need to know that coloured ions are a characteristi
 **Can a neutral molecule be a ligand?**
 Yes. H₂O and NH₃ are neutral ligands; what every ligand needs is a lone pair it can donate to form a co-ordinate bond.
 
-## Next steps
+## More on this topic
 
 Condense this with the [general properties revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-1-revision-notes/), then try the [general properties practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-1-practice/). Continue to [substitution reactions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-2/) to see ligands exchanging.

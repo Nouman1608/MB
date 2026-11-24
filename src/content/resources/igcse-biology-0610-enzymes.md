@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches topic 5, Enzymes (sub-topic 5.1), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Learning outcomes 1 to 5 are Core. Outcomes 6 to 9 are Supplement content, so they are **Extended only**: they ask you to *explain* what Core candidates only *describe*. Core content is tested on Papers 1 and 3, Core and Supplement content on Papers 2 and 4, and rates of enzyme-catalysed reactions are a listed context for the practical papers (Paper 5 or Paper 6).
@@ -228,7 +228,7 @@ In this data set the optimum is **near pH 7**. The rate at pH 7 is 9.0 ÷ 3.0 = 
 - Reading the optimum from a table as the highest value tested without saying it is **about** that value.
 - Calculating rate as time ÷ 1000 instead of 1000 ÷ time. A shorter time means a **faster** rate.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [enzymes revision notes](/resources/igcse-biology-0610-enzymes-revision-notes/).
 - Test yourself with the [enzymes practice questions](/resources/igcse-biology-enzymes-practice/).

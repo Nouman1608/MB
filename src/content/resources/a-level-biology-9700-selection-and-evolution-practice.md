@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Use t = (x̄₁ − x̄₂) / √(s₁²/n₁ + s₂²/n₂) to decide whether t
 - Naming a type of speciation without explaining the lack of gene flow.
 - Dividing by the whole population when asked about one phenotype.
 
-## Next steps
+## More on this topic
 
 - [Selection and evolution revision notes](/resources/a-level-biology-9700-selection-and-evolution-revision-notes/)
 - [Selection and evolution study guide](/resources/a-level-biology-9700-selection-and-evolution/)

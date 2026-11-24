@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,6 +151,6 @@ chemical:  bonds broken → atoms rearranged → bonds made → new particles
 12. A chemical change forms a new substance but a physical change does not; physical changes
     are usually easily reversed by physical methods, chemical changes usually are not.
 
-## Next steps
+## More on this topic
 
 Try the [Physical and Chemical Changes practice questions](/resources/cambridge-igcse-chemistry-0620-physical-and-chemical-changes-practice/).

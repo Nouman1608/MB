@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -212,7 +212,7 @@ different properties. You need only to name the monomer types.
 - Thermosetting and thermosoftening polymers link to **materials** (4.10.3).
 - DNA and proteins link to **biology**: genetic information, enzymes and structure.
 
-## Next steps
+## More on this topic
 
 - [Synthetic and naturally occurring polymers revision notes](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-revision-notes/)
 - [Synthetic and naturally occurring polymers practice questions](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-practice/)

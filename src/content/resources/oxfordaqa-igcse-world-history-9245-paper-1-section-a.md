@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -221,7 +221,7 @@ The answer uses content, knowledge and provenance, and stays on what the source 
 Paper 1 lasts 1 hour 45 minutes for 60 marks, so Section A's 30 marks deserve about 50 minutes.
 Spend roughly a minute a mark, and leave Question 4 a full fifteen to eighteen minutes.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1 Section A revision notes](/resources/oxfordaqa-igcse-world-history-9245-paper-1-section-a-revision-notes/)
 - [Paper 1 Section A practice questions](/resources/oxfordaqa-igcse-world-history-9245-paper-1-section-a-practice/)

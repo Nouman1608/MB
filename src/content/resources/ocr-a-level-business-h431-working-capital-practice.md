@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -118,7 +118,7 @@ Evaluation: managing the cycle must be balanced against sales, since refusing cr
 - Treating working capital as cash.
 - Forgetting that growth increases working capital needs.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-working-capital/) for any gaps.
 - Try the [income statements practice questions](/resources/ocr-a-level-business-h431-income-statements-practice/).

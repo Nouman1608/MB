@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -167,7 +167,7 @@ These questions cover sections 3.4.1 and 3.4.2 of the OxfordAQA International GC
 * Leaving out the free electrons when explaining conduction in a metal.
 * Saying evaporation cools "because heat is lost" without the loss of the fastest particles.
 
-## Next steps
+## More on this topic
 
 * Read the [revision notes](/resources/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat/).
 * Go to the [course hub](/boards/oxfordaqa/igcse/physics/) and tick this topic off on the [checklist](/checklists/oxfordaqa/igcse/physics/).

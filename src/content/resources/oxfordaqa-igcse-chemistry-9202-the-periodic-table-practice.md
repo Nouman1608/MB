@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -187,7 +187,7 @@ D: reactivity
 - Explaining "similar properties" without linking it to outer electrons.
 - Forgetting that the noble gases were discovered after 1869.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [periodic table study guide](/resources/oxfordaqa-igcse-chemistry-9202-the-periodic-table/).
 - Move on to the [structure and bonding of carbon practice questions](/resources/oxfordaqa-igcse-chemistry-9202-structure-and-bonding-of-carbon-practice/).

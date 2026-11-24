@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -162,7 +162,7 @@ The LPI has a self-report version for the leader and an observer version for col
 
 **Compare** universalist and behavioural theories: both describe effective leaders, but one says leaders are born, the other that leadership is learned behaviour. **Evaluate** using the syllabus issues: nature versus nurture and individual and situational explanations for 4.2.1; generalisation and idiographic versus nomothetic for 4.2.2; self-reports, psychometrics and cultural differences for 4.2.3.
 
-## Related resources
+## More resources on this topic
 
 - [Leadership and management revision notes](/resources/cambridge-a-level-psychology-9990-leadership-and-management-revision-notes/)
 - [Leadership and management practice questions](/resources/cambridge-a-level-psychology-9990-leadership-and-management-practice/)

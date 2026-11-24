@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **section 3.1.8 Thermodynamics** of the OxfordAQA International AS and
@@ -352,7 +352,7 @@ T = –88 / –0.170 = 518 K
 - Treating a *less* exothermic Born–Haber value as evidence for covalent character.
 - Mixing J and kJ in ΔG = ΔH – TΔS, using T in °C, or not saying "above" or "below" with T = ΔH/ΔS.
 
-## Next steps
+## More on this topic
 
 Revise from the [revision notes](/resources/oxfordaqa-a-level-chemistry-thermodynamics-revision-notes/),
 then test yourself with the [practice questions](/resources/oxfordaqa-a-level-chemistry-thermodynamics-practice/).

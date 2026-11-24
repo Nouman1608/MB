@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -139,7 +139,7 @@ These questions follow AQA A-level Biology (7402) sections 3.8.3 and 3.8.4, in t
 - Treating a fingerprint match as proof instead of giving the chance of coincidence.
 - Giving a one-sided evaluation with no judgement.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/aqa-a-level-biology-genome-projects-and-gene-technologies-revision-notes/) and the [study guide](/resources/aqa-a-level-biology-genome-projects-and-gene-technologies/).
 - Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/).

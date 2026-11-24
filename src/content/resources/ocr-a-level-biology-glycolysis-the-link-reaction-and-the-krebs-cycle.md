@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025. It follows the first part of respiration: why cells need it, where it happens, and the stages up to the production of reduced coenzymes. Track progress on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/). The [revision notes](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-revision-notes/) and [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/) go with this page, and the [free diagnostics](/diagnostics/) show where to start. Earlier ideas are in [nucleotides and ATP](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative/) and [cell structure](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus/).
@@ -243,7 +243,7 @@ How the released energy builds ATP is a separate outcome (chemiosmosis), covered
 - Mixing "decarboxylation" (CO₂ removed) with "dehydrogenation" (hydrogen removed).
 - Giving 2 ATP as the glycolysis yield without distinguishing gross from net.
 
-## Next steps
+## More on this topic
 
 Condense the content with the [revision notes](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-revision-notes/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/). The [Foundations in biology guide](/resources/ocr-a-level-biology-foundations-in-biology/) covers microscopy and magnification calculations.
 

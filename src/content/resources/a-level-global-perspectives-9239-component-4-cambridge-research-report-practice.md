@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -152,7 +152,7 @@ Judgement: the claim is too strong; your standpoint should shape the choice of t
 - Judging log entries without testing them against record, plan and reflect.
 - Extended answers that list points on both sides but end without a supported judgement.
 
-## Next steps
+## More on this topic
 
 Check your readiness with the [free diagnostics](/diagnostics/), then compare skills across components with the [essay practice questions](/resources/a-level-global-perspectives-essay-practice/), the [team project practice questions](/resources/a-level-cambridge-global-perspectives-team-project-practice/) and the [written exam practice questions](/resources/a-level-cambridge-global-perspectives-written-exam-practice/). For one-to-one help planning your report, [book a free trial class](/trial/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ final common p.d.: V = C₁V₀/(C₁ + C₂)
 
 **Answers:** 1. Charge stored per unit potential (difference): C = Q/V. 2. 3.3 × 10⁻³ ÷ 15 = 2.2 × 10⁻⁴ F (220 μF). 3. V = Q/(4πε₀R), so C = Q/V = 4πε₀R. 4. 4π × 8.85 × 10⁻¹² × 0.25 = 2.8 × 10⁻¹¹ F. 5. A² s⁴ kg⁻¹ m⁻². 6. Series: 6.0/5.0 = 1.2 μF; parallel: 5.0 μF. 7. The joined inner plates form an isolated conductor with zero net charge, so equal and opposite charges are induced on them. 8. 2.0 μF. 9. Parallel 12 μF; series with 4.0 μF gives (4.0 × 12)/16 = 3.0 μF; Q = 3.0 × 12 = 36 μC. 10. 36 ÷ 4.0 = 9.0 V. 11. 1000 μC ÷ 80 μF = 12.5 V. 12. The one with the smallest capacitance.
 
-## Related resources
+## More resources on this topic
 
 - [Capacitance revision notes](/resources/a-physics-capacitance-revision-notes/) — the whole of Topic 19
 - [Electric potential revision notes](/resources/cambridge-a-level-physics-9702-a-electric-potential-revision-notes/)

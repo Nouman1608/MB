@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ These questions cover section 3.13.4, Hydroelectric power and pumped storage, of
 - Calling pumped storage an energy source.
 - Ending an evaluation without a conclusion.
 
-## Next steps
+## More on this topic
 
 - Recap with the [hydroelectric power revision notes](/resources/oxfordaqa-a-level-physics-9630-hydroelectric-power-and-pumped-storage-revision-notes/).
 - Re-read the [hydroelectric power study guide](/resources/oxfordaqa-a-level-physics-9630-hydroelectric-power-and-pumped-storage/).

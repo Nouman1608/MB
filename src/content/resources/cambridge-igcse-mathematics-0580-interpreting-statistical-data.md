@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -183,7 +183,7 @@ When a question says "Give a reason why this conclusion may not be correct", one
 - **"Give a reason why the conclusion may not be reliable"**: refer to sample size, representativeness or going beyond the data, in the words of the question.
 - On the non-calculator papers, percentages such as 27.5% and 11/40 are chosen to be worked by hand. On the calculator papers, give non-exact answers to 3 significant figures.
 
-## Next steps
+## More on this topic
 
 - Quick recall: [interpreting statistical data revision notes](/resources/cambridge-igcse-mathematics-0580-interpreting-statistical-data-revision-notes/).
 - Marked questions: [interpreting statistical data practice questions](/resources/cambridge-igcse-mathematics-0580-interpreting-statistical-data-practice/).

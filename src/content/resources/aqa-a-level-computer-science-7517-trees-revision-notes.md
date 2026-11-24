@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ expression tree in a compiler or an organisation chart. 11. Each new
 value becomes the right child of the last, so the tree is shaped like a
 list and a search may have to check every node. 12. In-order.
 
-## Next steps
+## More on this topic
 
 - Practise drawing, searching and storing trees with the
   [Trees practice questions](/resources/aqa-a-level-computer-science-7517-trees-practice/).

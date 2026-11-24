@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Describe how the experiment should be set up and carried out safely, and explain
 - Omitting the sign on a mass change, or using the after mass as the base in a percentage.
 - Forgetting the word "damp" in the chlorine test.
 
-## Next steps
+## More on this topic
 
 - Go back over weak spots in the [Electrolysis study guide](/resources/ocr-gcse-chemistry-electrolysis/).
 - Keep the [Electrolysis revision notes](/resources/ocr-gcse-chemistry-electrolysis-revision-notes/) for last-minute recall.

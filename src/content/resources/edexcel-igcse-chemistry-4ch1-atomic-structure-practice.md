@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,6 +153,6 @@ These questions cover sub-topic 1(c) Atomic structure of the Pearson Edexcel Int
 - Dividing by 100 when abundances are given as a ratio.
 - Not checking a reverse calculation by substituting back.
 
-## Next steps
+## More on this topic
 
 Review any slips in the [atomic structure study guide](/resources/edexcel-igcse-chemistry-4ch1-atomic-structure/), then try [the Periodic Table practice questions](/resources/edexcel-igcse-chemistry-4ch1-the-periodic-table-practice/).

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches two subsections of the AQA GCSE Chemistry (8462) specification, for teaching from
@@ -323,7 +323,7 @@ Delocalised electrons are outer electrons that are free to move through a whole 
 **What is a giant structure?**
 A giant structure is a lattice that continues in all directions with no separate molecules. An ionic formula such as NaCl therefore gives a ratio of ions, not a molecule.
 
-## Next steps
+## More on this topic
 
 - [Chemical bonds and ionic compounds revision notes](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-revision-notes/)
 - [Chemical bonds and ionic compounds practice questions](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-practice/)

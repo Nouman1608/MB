@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ AQA states that programming to interfaces is not explicitly tested in a practica
 11. Build classes by containing other objects with the needed behaviour, rather than creating ever more subclasses.
 12. The class name, the attributes, and the methods.
 
-## Related resources
+## More resources on this topic
 
 - [Programming paradigms study guide](/resources/aqa-a-level-computer-science-7517-programming-paradigms/)
 - [Programming Paradigms practice questions](/resources/aqa-a-level-computer-science-programming-paradigms-practice/)

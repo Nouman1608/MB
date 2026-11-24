@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -205,7 +205,7 @@ Perimeter = 21.99... + 2 × 9 = 39.99... = **40.0 cm**.
 - Forgetting the ½ in the area of a triangle or a trapezium.
 - Adding the edge where two parts of a compound shape join to the perimeter.
 
-## Next steps
+## More on this topic
 
 Condense the facts with the [Mensuration of 2D shapes revision notes](/resources/edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-revision-notes/), then try the [Mensuration of 2D shapes practice questions](/resources/edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-practice/).
 

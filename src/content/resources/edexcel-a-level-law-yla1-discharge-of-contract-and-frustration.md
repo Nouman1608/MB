@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -161,6 +161,6 @@ Expenses     court may let the band keep up to £300 if just
 
 For each method of discharge, state the **rule**, the **exception or limit**, a **case**, and **apply** it to the facts. In an **evaluate** question on frustration, weigh certainty (the narrow doctrine in *Davis* and *Tsakiroglou*) against fairness (the 1943 Act's flexible allocation of loss).
 
-## Next steps
+## More on this topic
 
 Condense with the [discharge of contract revision notes](/resources/edexcel-a-level-law-yla1-discharge-of-contract-and-frustration-revision-notes/) and practise with the [discharge of contract practice questions](/resources/edexcel-a-level-law-yla1-discharge-of-contract-and-frustration-practice/).

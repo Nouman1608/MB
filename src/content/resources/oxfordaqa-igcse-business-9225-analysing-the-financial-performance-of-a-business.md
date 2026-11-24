@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -204,7 +204,7 @@ A full judgement uses the statements together with market information and other 
 
 For **identify** and **state** questions, name the item and which statement it is in. For **calculate** questions, write the formula, then the substitution, then the answer with a percentage sign. For **analyse** questions, compare two years and say what changed and a possible reason. For **evaluate** questions, such as "has the business performed well?", use the four angles (current, past, competitors, stakeholders), include figures, and make a clear overall judgement, noting what further information you would want.
 
-## Related resources
+## More resources on this topic
 
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-analysing-the-financial-performance-of-a-business-practice/)
 - [Finance revision notes](/resources/oxfordaqa-igcse-business-finance-revision-notes/)

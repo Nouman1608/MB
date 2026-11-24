@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ The rise in import prices. Calculate the change in import volume and also apply 
 **How should I judge whether a current account deficit matters?**
 Refer to its size relative to GDP, its cause and how it is financed, rather than assuming every deficit is bad.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances-revision-notes/) for condensed recall.
 - [Study guide](/resources/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances/) for full explanations.

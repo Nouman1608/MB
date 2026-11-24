@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ At A Level, 34.1 adds further routes to amines, including reduction of nitriles.
 - **Calculate:** use the 1 : 1 ratio of halogenoalkane to amine, and 1 : 2 for ammonia.
 - **Suggest** a route: work backwards from the amine to the halogenoalkane, then to the starting material.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and self-test: [Primary amines revision notes](/resources/cambridge-a-level-chemistry-9701-as-primary-amines-revision-notes/)
 - Exam-style questions with full answers: [Primary amines practice questions](/resources/cambridge-a-level-chemistry-9701-as-primary-amines-practice/)

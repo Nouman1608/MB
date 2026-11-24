@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -125,6 +125,6 @@ Sport in particular has become a global business funded by broadcasting rights, 
 
 **Answers:** 1. Leisure is free time; recreation is what is done in it. 2. For example income, mobility, technology. 3. It changes activities (streaming, gaming) and how trips are planned (online booking). 4. For example people on low incomes or with disabilities. 5. Leisure becoming organised as paid products and industries. 6. Travel and temporary stay away from a person's usual environment for leisure, business or other purposes. 7. Active: playing a sport; passive: watching it. 8. Faster, cheaper transport and communication make distant places feel closer, so longer-distance trips become easier. 9. For example unpaid care work and fewer facilities or role models. 10. International travel collapsed and leisure shifted to local and home-based activities. 11. 10 percentage points; a 40 per cent increase (10 / 25 x 100). 12. They are not tied to school holidays and off-peak travel is cheaper.
 
-## Related resources
+## More resources on this topic
 
 - [Option E: Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/)

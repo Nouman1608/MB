@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -164,7 +164,7 @@ a society you know about. [12 marks]*
 - **Discuss how far**: arguments on both sides, with sociologists and examples, and a reasoned
   conclusion.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [culture and sociological imagination revision notes](/resources/oxfordaqa-igcse-sociology-9292-culture-and-sociological-imagination-revision-notes/)
 and test yourself with the [practice questions](/resources/oxfordaqa-igcse-sociology-9292-culture-and-sociological-imagination-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ These questions cover section 2.6, Giant covalent structures, of the Cambridge O
 - Explaining hardness with "strong bonds" but not the rigid 3D network.
 - Linking the electrode use to slipperiness instead of conductivity.
 
-## Next steps
+## More on this topic
 
 - Recap with the [giant covalent structures revision notes](/resources/cambridge-o-level-chemistry-5070-giant-covalent-structures-revision-notes/).
 - Move on to the [metallic bonding practice questions](/resources/cambridge-o-level-chemistry-5070-metallic-bonding-practice/).

@@ -38,7 +38,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -205,7 +205,7 @@ Discuss how far sociologists would agree that differences in pay between occupat
 - Treating Davis and Moore's theory as about wealth or inheritance rather than functional importance.
 - Answering a two-part question with only one part.
 
-## Next steps
+## More on this topic
 
 - Check any weak areas against the [Social stratification study guide](/resources/aqa-gcse-sociology-8192-social-stratification/).
 - Find your gaps across the whole course with our free [diagnostics](/diagnostics/).

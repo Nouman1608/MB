@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -238,7 +238,7 @@ Write "colourless", not "goes clear", and give a result for both substances bein
 **What mistakes are common when drawing a polymer repeating unit?**
 A repeating unit must contain two main-chain carbons joined by a single C–C bond, with extension bonds, brackets and n. Drawing it with a C=C bond or making it longer than two main-chain carbons loses the mark.
 
-## Next steps
+## More on this topic
 
 - [Alkenes revision notes](/resources/aqa-a-level-chemistry-alkenes-revision-notes/)
 - [Alkenes study guide](/resources/aqa-a-level-chemistry-alkenes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Label the exchange rate on the vertical axis and the quantity of the currency on
 **What are common mistakes in IB Economics balance of payments questions?**
 Common slips include writing "deficit in the balance of payments" without naming an account, reversing credits and debits, getting the sign of the financial account wrong, and assuming depreciation must cure a deficit with no mention of elasticities or the time lag.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-economics-balance-of-payments-revision-notes/) and the [study guide](/resources/ib-dp-economics-balance-of-payments/).
 - Go to the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and tick off the [printable checklist](/checklists/ib/ib-dp/economics/).

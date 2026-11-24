@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -167,7 +167,7 @@ The line of best fit is absorbance = 0.80 − 0.00448 × concentration. A urine 
 - Rounding too early in multi-step calculations.
 - Giving an evaluation that lists views and does not reach a judgement.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/aqa-a-level-biology-homeostasis-and-control-of-blood-glucose-revision-notes/) and the [study guide](/resources/aqa-a-level-biology-homeostasis-and-control-of-blood-glucose/).
 - Return to the [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/).

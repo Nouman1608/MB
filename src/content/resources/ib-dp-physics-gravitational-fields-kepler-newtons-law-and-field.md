@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches the standard level and higher level part of **sub-topic D.1, Gravitational fields**, from the IB Diploma Programme *Physics guide*, first assessment 2025. It covers Kepler's three laws, Newton's law of gravitation, extended bodies treated as point masses, gravitational field strength and field lines. Everything here is for both SL and HL. The potential-based content in D.1 (potential energy, potential, escape speed and orbital speed) is HL only and is taught separately.
@@ -272,7 +272,7 @@ A quarter of one percent is small. Over heights much smaller than R, treating g 
 - Drawing field lines that cross or that start on a planet's surface instead of pointing at its centre.
 - Using Kepler's third law with the radius to the surface rather than the orbital radius.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-practice/) and use the [revision notes](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-revision-notes/) for the final weeks.
 

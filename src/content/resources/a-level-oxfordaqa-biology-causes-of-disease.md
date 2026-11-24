@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **3.2.1 The Causes of Disease: Pathogens, Lifestyle
@@ -211,7 +211,7 @@ A pathogen is an agent of infection, such as a bacterium or a virus, that is cap
 **What is the difference between a risk factor and a cause?**
 A risk factor is linked to a higher incidence of a disease, but the link may be a correlation rather than proof of cause. Interpreting incidence data means separating correlation from causation.
 
-## Related resources
+## More resources on this topic
 
 - [The Causes of Disease revision notes](/resources/oxfordaqa-a-level-biology-causes-of-disease-revision-notes/)
 - [The Causes of Disease practice questions](/resources/a-level-oxfordaqa-biology-causes-of-disease-practice/)

@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -200,7 +200,7 @@ of ammonium chloride, are used as *evidence* that particles are in
 constant, random motion — be ready to explain what a specific diffusion
 result shows about particle behaviour, not just to describe the setup.
 
-## Related resources
+## More resources on this topic
 
 - [Atomic Structure and the Periodic Table revision notes](/resources/oxfordaqa-igcse-chemistry-atomic-structure-revision-notes/)
 - [Atomic Structure and the Periodic Table practice questions](/resources/oxfordaqa-igcse-chemistry-atomic-structure-practice/)

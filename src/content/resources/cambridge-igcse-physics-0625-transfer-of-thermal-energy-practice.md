@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -137,6 +137,6 @@ Related: [study guide on transfer of thermal energy](/resources/cambridge-igcse-
 - *(Extended)* Explaining conduction in metals without free electrons.
 - *(Extended)* Saying an object at constant temperature receives no energy.
 
-## Next steps
+## More on this topic
 
 Look back at the [study guide on transfer of thermal energy](/resources/cambridge-igcse-physics-0625-transfer-of-thermal-energy/), then start Topic 3 with the [practice questions on general properties of waves](/resources/cambridge-igcse-physics-0625-general-properties-of-waves-practice/).

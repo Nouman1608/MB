@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ These questions cover section M2.5 (Projectiles) of the OxfordAQA International 
 * Leaving out the second angle when the quadratic in tan α has two roots.
 * Not stating a conclusion when asked whether the ball hits or clears something.
 
-## Next steps
+## More on this topic
 
 * Recap with the [revision notes](/resources/oxfordaqa-a-level-mathematics-projectile-motion-revision-notes/).
 * Revisit explanations in the [study guide](/resources/oxfordaqa-a-level-mathematics-projectile-motion/).

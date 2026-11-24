@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -199,7 +199,7 @@ No. Nuclear fuel is non-renewable because it is a finite fuel, mined like fossil
 **What does an efficiency above 100% mean?**
 It is a sign of an arithmetic error, because useful output can never exceed total input. Check that you divided useful output by total input and multiplied by 100%.
 
-## Related resources
+## More resources on this topic
 
 - [Energy, Work and Power](/resources/energy-work-and-power/) — the rest
 of subtopic 1.7

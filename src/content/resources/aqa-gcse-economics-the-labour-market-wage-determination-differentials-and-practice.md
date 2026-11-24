@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ The overtime multiplier, such as time and a half. Multiply the normal hourly rat
 **Should total income use gross or net pay?**
 Use net pay when adding up a worker's total income from different sources, unless the question asks for gross.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and/).
 - Use the [printable checklist](/checklists/aqa/gcse/economics/) and the [course hub](/boards/aqa/gcse/economics/) to plan what is next.

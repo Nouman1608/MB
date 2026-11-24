@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ These questions cover section S2.3 (Exponential distribution) of the OxfordAQA I
 - Rounding e^(−0.5) before raising it to the eighth power.
 - Commenting on a model without linking a condition to the context.
 
-## Next steps
+## More on this topic
 
 - Re-read the [exponential distribution revision notes](/resources/oxfordaqa-a-level-mathematics-9660-s2-exponential-distribution-revision-notes/).
 - Return to the [exponential distribution study guide](/resources/oxfordaqa-a-level-mathematics-9660-s2-exponential-distribution/) for the multi-step examples.

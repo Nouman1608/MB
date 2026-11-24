@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -156,7 +156,7 @@ Only for a straight line through the origin. For a curved or kinked graph, find 
 **How do you define plastic deformation for full marks?**
 Say that the object does not return to its original dimensions when the force is removed, because some of the change is permanent. A definition that leaves out what happens when the force is removed is incomplete.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-a-level-physics-springs-stress-strain-and-the-young-modulus-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-springs-stress-strain-and-the-young-modulus/).
 - Return to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick items off the [checklist](/checklists/ocr/a-level/physics/).

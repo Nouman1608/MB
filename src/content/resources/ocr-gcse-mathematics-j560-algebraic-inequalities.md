@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -174,7 +174,7 @@ Integer points: when x = 1, y can be 2, 3, 4 or 5; when x = 2, y can be 3 or 4; 
 - **Give your answer in set notation** (Higher tier only): use braces and the vertical bar, and ∪ for two pieces.
 - **Show the region** or **Label the region R** (Higher tier only): follow the shading instruction in the question exactly, and use dashed lines for strict inequalities.
 
-## Next steps
+## More on this topic
 
 - Condense the methods with the [algebraic inequalities revision notes](/resources/ocr-gcse-mathematics-j560-algebraic-inequalities-revision-notes/).
 - Test yourself with the [algebraic inequalities practice questions](/resources/ocr-gcse-mathematics-j560-algebraic-inequalities-practice/).

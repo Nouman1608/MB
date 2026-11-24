@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ A good comparison names a feature of **each** method, side by side. "Fermentatio
 - **State** (uses): solvent; fuel.
 - **Describe advantages and disadvantages** *(Extended)*: one point per mark, each tied to a heading such as renewable, rate, purity or energy.
 
-## Related resources
+## More resources on this topic
 
 - [Alcohols revision notes](/resources/cambridge-igcse-chemistry-0620-alcohols-revision-notes/) – condensed recall and self-test
 - [Alcohols practice questions](/resources/cambridge-igcse-chemistry-0620-alcohols-practice/) – original exam-style questions with answers

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -181,7 +181,7 @@ Choose the narrowest access that lets the class do its job.
 11. Private (or protected) for the attribute, and public for the method.
 12. Access specifier.
 
-## Next steps
+## More on this topic
 
 - [Encapsulation study guide](/resources/oxfordaqa-a-level-computer-science-9645-encapsulation/)
 - [Encapsulation practice questions](/resources/oxfordaqa-a-level-computer-science-9645-encapsulation-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ Also creditworthy in place of a missing point: an overall statement that sodium 
 - Choosing a powder as a catalyst because it is fastest, without checking its mass is unchanged.
 - Describing only one metal in a "compare" question.
 
-## Next steps
+## More on this topic
 
 - [Transition metals revision notes](/resources/aqa-gcse-chemistry-8462-properties-of-transition-metals-revision-notes/)
 - [Transition metals study guide](/resources/aqa-gcse-chemistry-8462-properties-of-transition-metals/)

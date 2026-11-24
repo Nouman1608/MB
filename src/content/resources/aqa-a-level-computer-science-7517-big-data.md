@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -142,7 +142,7 @@ A graph schema makes it easy to ask questions that follow relationships (for exa
 - For **calculations**, show the conversions (GB to MB, seconds to hours).
 - For **graph schema**, name the nodes, edges and properties from the scenario.
 
-## Related resources
+## More resources on this topic
 
 - [Big Data revision notes](/resources/aqa-a-level-computer-science-big-data-revision-notes/)
 - [Big Data practice questions](/resources/aqa-a-level-computer-science-7517-big-data-practice/)

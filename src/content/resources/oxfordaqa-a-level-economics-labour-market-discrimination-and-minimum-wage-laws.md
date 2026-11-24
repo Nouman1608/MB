@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is written for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers sections 3.3.4.5 (discrimination in the labour market) and 3.3.4.6 (minimum wage laws). Section 3.3 is extra International A2 content. The quantitative skills in section 3.5 can be assessed in any unit, so the calculations below use them. Every firm, region and figure is invented.
 
@@ -230,7 +230,7 @@ In a monopsony a modest floor raises both pay and employment. The gain peaks at 
 * Mixing real and nominal wages when judging the level.
 * Listing effects with no chain of reasoning or judgement.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws-practice/), then the [revision notes](/resources/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws-revision-notes/).
 

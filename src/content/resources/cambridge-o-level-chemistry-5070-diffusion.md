@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ If the pot is filled with hydrogen and surrounded by air instead, hydrogen diffu
 - **Suggest** questions often use unfamiliar gases. Work out each Mr; never guess from the size of the formula.
 - When asked why the result is slow, mention collisions with other particles.
 
-## Next steps
+## More on this topic
 
 - Use the [diffusion revision notes](/resources/cambridge-o-level-chemistry-5070-diffusion-revision-notes/) for quick recall.
 - Practise with the [diffusion practice questions](/resources/cambridge-o-level-chemistry-5070-diffusion-practice/).

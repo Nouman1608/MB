@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -176,7 +176,7 @@ in 1(a) is deliberate and can be explained against the source. 11. AO1 and AO3. 
 participle "crumbling" presents decay as a continuing process, so the building seems to be failing in front of the
 reader rather than simply being old.*
 
-## Next steps
+## More on this topic
 
 Work through the [Skills and techniques practice questions](/resources/cambridge-a-level-english-language-9093-skills-and-techniques-practice/),
 and revise the features you will be analysing with the

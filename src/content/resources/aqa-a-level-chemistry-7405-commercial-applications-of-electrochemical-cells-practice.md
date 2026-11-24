@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ O₂ + 2H₂O + 4e⁻ ⇌ 4OH⁻  E = +0.40 V
 - Omitting the movement of ions through the electrolyte.
 - Evaluations that give only benefits or only risks.
 
-## Next steps
+## More on this topic
 
 - [Commercial applications of electrochemical cells revision notes](/resources/aqa-a-level-chemistry-7405-commercial-applications-of-electrochemical-cells-revision-notes/)
 - [Electrode potentials and electrochemical cells practice questions](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice/)

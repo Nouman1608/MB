@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ than outside, and it diffuses out [1]; the gases move through the open stomata d
 - Writing that leaves "breathe in" carbon dioxide.
 - "Compare" answers that describe xylem and phloem separately instead of pairing points.
 
-## Next steps
+## More on this topic
 
 - [Exchange and transport in plants study guide](/resources/oxfordaqa-igcse-biology-9201-exchange-and-transport-in-plants/)
 - [Exchange and transport in plants revision notes](/resources/oxfordaqa-igcse-biology-9201-exchange-and-transport-in-plants-revision-notes/)

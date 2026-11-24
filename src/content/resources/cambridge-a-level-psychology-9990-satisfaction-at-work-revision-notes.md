@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Blau and Boal's types of absence are summarised only as voluntary and involuntary; please check against the model the syllabus intends."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Blau and Boal's types of absence are summarised only as voluntary and involuntary; please check against the model the syllabus intends. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -184,7 +184,7 @@ Apathetic employees are predicted to be absent most; institutionalised stars lea
 11. Institutionalised stars, lone wolves, corporate citizens, apathetic employees.
 12. Apathetic employees.
 
-## Related resources
+## More resources on this topic
 
 - [Satisfaction at work study guide](/resources/cambridge-a-level-psychology-9990-satisfaction-at-work/)
 - [Satisfaction at work practice questions](/resources/cambridge-a-level-psychology-9990-satisfaction-at-work-practice/)

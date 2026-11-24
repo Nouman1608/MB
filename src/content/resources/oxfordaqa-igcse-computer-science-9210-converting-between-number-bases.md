@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -206,7 +206,7 @@ All three agree, so the conversions are correct.
 - If a question gives both the binary and hex forms, use the one that makes the conversion shortest. Binary to hex
   and hex to binary need no division.
 
-## Next steps
+## More on this topic
 
 For a condensed summary and self-test, use the [Converting between number bases revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-converting-between-number-bases-revision-notes/), and

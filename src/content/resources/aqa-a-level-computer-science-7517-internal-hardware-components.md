@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -159,7 +159,7 @@ Many modern general purpose processors are a mixture: main memory is shared, but
 - For **compare** questions on architecture, use the same feature for both designs in each point.
 - For **calculations**, show the power of two used: 2ⁿ locations for n lines.
 
-## Related resources
+## More resources on this topic
 
 - [Internal hardware components revision notes](/resources/aqa-a-level-computer-science-7517-internal-hardware-components-revision-notes/)
 - [Internal hardware components practice questions](/resources/aqa-a-level-computer-science-7517-internal-hardware-components-practice/)

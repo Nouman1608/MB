@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -229,7 +229,7 @@ given; restating the same one in other words would earn the marks only once.
   module").
 - In scenario questions, name example modules from the scenario, as with the library plan above.
 
-## Next steps
+## More on this topic
 
 Revise the key points with the [structured programming revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-structured-programming-revision-notes/) and practise

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -112,7 +112,7 @@ Evaluation: the shops' strengths, such as events, expert advice and the experien
 - Giving an exchange rate effect without saying whether it helps exporters or importers.
 - Treating every influence as a threat.
 
-## Next steps
+## More on this topic
 
 - Move on to the [marketing strategy study guide](/resources/ocr-a-level-business-h431-marketing-strategy/).
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -168,6 +168,6 @@ Related: [study guide on forces](/resources/cambridge-igcse-physics-0625-forces/
 - Writing "no forces" for balanced forces.
 - *(Extended)* Using the forward force instead of the resultant in F = ma.
 
-## Next steps
+## More on this topic
 
 Revisit the [study guide on forces](/resources/cambridge-igcse-physics-0625-forces/) for any question you missed, then try the [practice questions on momentum](/resources/cambridge-igcse-physics-0625-momentum-practice/).

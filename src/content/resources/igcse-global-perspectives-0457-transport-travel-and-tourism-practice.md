@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -158,7 +158,7 @@ The `[1]` points are a revision aid. The real exam and coursework mark extended 
 - Describing perspectives without explaining why each group holds them.
 - Judging actions without criteria, or never reaching a clear judgement.
 
-## Next steps
+## More on this topic
 
 - Check your weak spots with a [free diagnostic](/diagnostics/).
 - Revisit the [Transport, travel and tourism study guide](/resources/igcse-global-perspectives-0457-transport-travel-and-tourism/), the [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/) and the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/).

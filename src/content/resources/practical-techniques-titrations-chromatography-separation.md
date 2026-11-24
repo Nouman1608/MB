@@ -40,7 +40,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-29
 featured: false
 ---
@@ -310,7 +310,7 @@ A pure substance produces exactly one spot, while an impure substance separates 
 **Do O Level 5070 students need to know the Rf equation?**
 Yes. The Rf equation and colourless-substance chromatography are Extended only for 0620, but 5070 has no Core and Extended split, so every O Level candidate needs them.
 
-## Related resources
+## More resources on this topic
 
 - [Acids, Bases and Salts](/resources/acids-bases-and-salts/) — uses titration and the excess/filter/crystallise route directly
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — Topic 12.5, the qualitative-analysis half of this topic

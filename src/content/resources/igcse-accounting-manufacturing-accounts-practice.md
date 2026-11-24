@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -164,7 +164,7 @@ Raw materials consumed [1] with correct figure [1]; prime cost [1]; power [1]; r
 - Leaving out the owner's goods or private expenses from drawings.
 - Writing totals without labels.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/igcse-accounting-manufacturing-accounts-revision-notes/) and the [study guide](/resources/igcse-accounting-manufacturing-accounts/).
 - Open the [Cambridge IGCSE Accounting hub](/boards/cambridge/igcse/accounting/) and the [checklist](/checklists/cambridge/igcse/accounting/).

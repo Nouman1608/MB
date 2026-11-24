@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Learn the methods first in the [matrices and eigenvalues study guide](/resources
 - Writing a transition matrix with "to" and "from" mixed up.
 - Leaving a year as a decimal instead of the first whole year that satisfies the condition.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-dp-mathematics-ai-hl-matrices-eigenvalues-revision-notes/).
 - Re-learn any weak method in the [study guide](/resources/ib-dp-mathematics-ai-hl-matrices-eigenvalues/).

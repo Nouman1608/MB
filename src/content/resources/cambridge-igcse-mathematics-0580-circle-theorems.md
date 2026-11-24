@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ The angle between a tangent and a chord at the point of contact equals the angle
 **Does the angle at the centre theorem work with a reflex angle?**
 Yes. If the point on the circumference is on the minor arc, the angle there is half of the reflex angle at the centre.
 
-## Next steps
+## More on this topic
 
 - Consolidate with the [circle theorems revision notes](/resources/cambridge-igcse-mathematics-0580-circle-theorems-revision-notes/).
 - Practise with the [circle theorems practice questions](/resources/cambridge-igcse-mathematics-0580-circle-theorems-practice/).

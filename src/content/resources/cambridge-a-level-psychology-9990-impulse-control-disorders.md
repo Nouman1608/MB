@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -130,7 +130,7 @@ The syllabus pairs this topic with application to everyday life and reductionism
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 1, 1.3 Impulse control disorders — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Impulse control disorders revision notes](/resources/cambridge-a-level-psychology-9990-impulse-control-disorders-revision-notes/)
 - [Impulse control disorders practice questions](/resources/cambridge-a-level-psychology-9990-impulse-control-disorders-practice/)

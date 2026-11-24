@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Family and community ties: workers with children in school or relatives nearby a
 - Reporting a calculation without the working or without units.
 - Ending an evaluation without a conclusion that depends on stated conditions.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of/) for any part that cost you marks.
 - Revise from the [revision notes](/resources/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of-revision-notes/).

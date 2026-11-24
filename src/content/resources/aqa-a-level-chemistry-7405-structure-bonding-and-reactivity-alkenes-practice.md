@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -121,7 +121,7 @@ These questions cover section **3.3.4.1 Structure, bonding and reactivity** of t
 - Explaining reactivity by the strength of the double bond rather than by the pi bond's electron density.
 - Failing to say why a molecular formula alone does not prove an alkene.
 
-## Next steps
+## More on this topic
 
 - [Structure, bonding and reactivity revision notes](/resources/aqa-a-level-chemistry-7405-structure-bonding-and-reactivity-alkenes-revision-notes/)
 - [Addition reactions of alkenes practice questions](/resources/aqa-a-level-chemistry-7405-addition-reactions-of-alkenes-practice/)

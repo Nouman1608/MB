@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Its length doubles and its direction is reversed. 7. No; 0.6 + 0.5 =
 vectors are perpendicular. 12. The entries are not all drawn from the
 same field: "a" is not a number.
 
-## Next steps
+## More on this topic
 
 - Practise every operation with the
   [Vectors practice questions](/resources/aqa-a-level-computer-science-7517-vectors-practice/).

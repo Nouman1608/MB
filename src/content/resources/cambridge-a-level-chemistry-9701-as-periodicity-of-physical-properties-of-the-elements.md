@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ So in both periods the melting point rises across the metals, peaks at the Group
 - **Suggest**: apply the same reasoning to an unfamiliar element or period, such as Period 2.
 - **Interpret** (data): quote values from the data and link each change to a structural reason.
 
-## Related resources
+## More resources on this topic
 
 - [Periodicity of physical properties in Period 3: revision notes](/resources/cambridge-a-level-chemistry-9701-as-periodicity-of-physical-properties-of-the-elements-revision-notes/)
 - [Periodicity of physical properties in Period 3: practice questions](/resources/cambridge-a-level-chemistry-9701-as-periodicity-of-physical-properties-of-the-elements-practice/)

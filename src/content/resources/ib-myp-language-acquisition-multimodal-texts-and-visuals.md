@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -226,7 +226,7 @@ No. Connotations depend on culture; white can suggest weddings and purity in som
 **Are visuals tested in the IB MYP Language Acquisition eAssessment?**
 Yes. The MYP Language Acquisition brief (from 2020) describes Criterion A in terms of images and spatial aspects that come with oral text and Criterion B in terms of written, spatial and visual aspects, so expect questions about visuals and layout, not only the words.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [revision notes](/resources/ib-myp-language-acquisition-multimodal-texts-and-visuals-revision-notes/)
 - Test yourself: [practice questions](/resources/ib-myp-language-acquisition-multimodal-texts-and-visuals-practice/)

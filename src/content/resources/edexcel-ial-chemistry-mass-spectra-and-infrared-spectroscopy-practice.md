@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Step 3: O–H at 3550–3230 cm⁻¹ disappears [1]; C=O (ketone) at 1720–1700
 - Missing the 3 : 1 (Cl) or 1 : 1 (Br) pattern, or swapping them.
 - Writing "KOH" without stating aqueous or ethanolic.
 
-## Next steps
+## More on this topic
 
 - Revisit weak areas in the [revision notes](/resources/edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy-revision-notes/) and [study guide](/resources/edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy/).
 - [Book a free trial class](/trial/) with a tutor.

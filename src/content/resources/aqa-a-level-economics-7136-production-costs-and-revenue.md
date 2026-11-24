@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -189,7 +189,7 @@ destruction**: new technologies and firms replace old ones, which can reshape ma
 - **Evaluate** by asking whether economies of scale are available in the industry, how large MES is, and whether
   technological change alters the cost curves.
 
-## Related resources
+## More resources on this topic
 
 - [Costs of production and economies of scale revision notes](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of-revision-notes/)
 - [Price determination in a competitive market study guide](/resources/aqa-a-level-economics-7136-price-determination-in-a-competitive-market/)

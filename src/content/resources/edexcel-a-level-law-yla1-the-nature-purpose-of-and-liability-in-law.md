@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -175,7 +175,7 @@ The specification's command word taxonomy defines the words used in questions:
 - **Assess**: weigh up factors and say which matter most.
 - **Evaluate**: review the law and evidence and reach a justified conclusion.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [nature of law and liability revision notes](/resources/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law-revision-notes/), then test yourself with the [nature of law, liability and morality practice questions](/resources/a-law-nature-of-law-and-liability-practice/). Section 1.2 continues in the [sources of English law study guide](/resources/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration/).
 

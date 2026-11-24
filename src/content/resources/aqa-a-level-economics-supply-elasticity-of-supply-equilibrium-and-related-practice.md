@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ More than one. Trace the effect through each linked market, showing the directio
 **Is a rise in price an increase in supply?**
 No. A price rise causes an extension along the supply curve; writing supply increased when only the price changed is a common mistake.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related/).
 - Visit the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [printable checklist](/checklists/aqa/a-level/economics/).

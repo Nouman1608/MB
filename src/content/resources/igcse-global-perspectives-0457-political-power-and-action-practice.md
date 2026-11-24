@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -156,7 +156,7 @@ Identify the main value behind each letter. **[2]**
 - Assessing courses of action one by one without comparing them.
 - Planning a Team Project action that promotes a party or candidate.
 
-## Next steps
+## More on this topic
 
 - Check your weaker skills with a [diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).

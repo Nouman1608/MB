@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ State that the electric force and the magnetic force on the particle are equal a
 **How do you use Fleming's left-hand rule for an electron?**
 Point the second finger opposite to the electron's velocity, because conventional current flows the other way for a negative charge. The thumb then gives the direction of the force.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges/).
 - See the [checklist to print](/checklists/ocr/a-level/physics/) and the [subject hub](/boards/ocr/a-level/physics/).

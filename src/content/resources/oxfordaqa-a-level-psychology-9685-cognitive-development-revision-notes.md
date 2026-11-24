@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -168,7 +168,7 @@ Condensed recall for **3.2.2 Cognitive development** (OxfordAQA International AS
 
 **Answers:** 1. The drive to restore balance between existing schemas and new information. 2. Assimilation fits information into an existing schema; accommodation changes the schema. 3. About 8 months. 4. Children chose a picture of a model of three mountains showing what a doll would see from another position; young children chose their own view. 5. About 62% of children conserved when a naughty teddy changed the row accidentally, against 16% when the experimenter did. 6. If infants look longer at an impossible event, they are assumed to have expected something different. 7. The gap between what a child can do alone and with help from an MKO. 8. Wood, Bruner and Ross (1976). 9. Piaget saw language as a product of thought; Vygotsky saw it as a tool that shapes thought. 10. About 20%. 11. A neuron that fires both when an individual acts and when it observes the same action. 12. It uses dolls rather than real people (or it may require language and memory skills, or not all autistic children failed).
 
-## Related resources
+## More resources on this topic
 
 - [Cognitive development study guide](/resources/oxfordaqa-a-level-psychology-9685-cognitive-development/)
 - [Unit 2 revision notes](/resources/oxfordaqa-a-level-psychology-biopsychology-development-revision-notes/)

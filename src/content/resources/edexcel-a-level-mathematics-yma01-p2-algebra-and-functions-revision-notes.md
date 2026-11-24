@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Rule: solve "divisor = 0" and substitute that value.
 
 **11.** x = −2 is a root. The quadratic 2x² − x + 3 has discriminant 1 − 24 = −23 < 0, so it has no real roots.
 
-## Related resources
+## More resources on this topic
 
 - [P2 algebra and functions study guide](/resources/edexcel-a-level-mathematics-yma01-p2-algebra-and-functions/)
 - [P2 algebra and functions practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-algebra-and-functions-practice/)

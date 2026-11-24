@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -164,7 +164,7 @@ Identify the new audience and purpose first, then replace every informal word or
 **How are these MYP Language Acquisition practice answers marked?**
 Real MYP work is judged against criterion level descriptors with achievement levels 1–8 in four bands, so the mark points on this page are a revision aid, not IB marks.
 
-## Next steps
+## More on this topic
 
 - [Key and related concepts revision notes](/resources/ib-myp-language-acquisition-key-and-related-concepts-revision-notes/)
 - [Key and related concepts study guide](/resources/ib-myp-language-acquisition-key-and-related-concepts/)

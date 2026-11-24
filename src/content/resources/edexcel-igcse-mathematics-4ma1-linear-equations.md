@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -177,7 +177,7 @@ Check in the story: Amir £45 and Ben £45 after the gift. ✓
 - **"Show that x = ..."**: substituting the given value in can confirm it, but forming and solving the equation is usually what is wanted.
 - Leave answers as exact fractions or terminating decimals (27/10 or 2.7); do not round unless asked.
 
-## Next steps
+## More on this topic
 
 Revise from the [linear equations revision notes](/resources/edexcel-igcse-mathematics-4ma1-linear-equations-revision-notes/), then try the [linear equations practice questions](/resources/edexcel-igcse-mathematics-4ma1-linear-equations-practice/). Two linear equations solved together are covered in the [simultaneous linear equations study guide](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **topic 10, Database and file concepts**, of Cambridge International AS & A Level Information Technology (9626), following the syllabus for examination in 2025, 2026 and 2027 (version 3), sections 10.1 to 10.4. Topic 10 is an **AS Level** topic, so it is in both the AS and the full A Level. **Paper 1 (Theory)** is based on sections 1–11 and **Paper 2 (Practical)** on sections 8–11, so you can meet this topic in both. **Paper 4 (Advanced Practical)** may also include tasks from sections 8–10.
@@ -246,7 +246,7 @@ A **management information system (MIS)** turns data from an organisation's syst
 - Calling 2NF "no transitive dependencies" (that is 3NF).
 - Confusing a calculated field (query) with a calculated control (form or report).
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/a-level-cambridge-ict-database-and-file-concepts-revision-notes/), then the [practice questions](/resources/a-level-cambridge-ict-database-and-file-concepts-practice/).
 

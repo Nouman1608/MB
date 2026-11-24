@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Quantitative chemistry**, one of the ten topic areas of
@@ -221,7 +221,7 @@ At room temperature and pressure, one mole of any gas occupies 24 dm³ (24 000 c
 **Why does mass seem to decrease in some reactions?**
 If a gas escapes from an open container, the measured mass of what is left falls, even though no atoms have been destroyed. Mass is conserved for the whole reacting system.
 
-## Related resources
+## More resources on this topic
 
 - [Formulae, Equations and the Mole (Cambridge IGCSE / O Level)](/resources/formulae-equations-and-the-mole/) — the equivalent topic from a different awarding body
 - [Amount of Substance (OCR A Level)](/resources/ocr-a-level-chemistry-amount-of-substance/) — how these same mole-calculation skills extend at A Level

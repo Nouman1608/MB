@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -118,7 +118,7 @@ No. Pollution is an external cost borne by third parties; treating it as a priva
 **Which AQA GCSE Economics sections do these questions cover?**
 They cover AQA GCSE Economics 8136 sections 3.2.3.3 Supply-side policies and 3.2.3.4 Policies to correct externalities.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-supply-side-and-externality-policies-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-supply-side-and-externality-policies/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).

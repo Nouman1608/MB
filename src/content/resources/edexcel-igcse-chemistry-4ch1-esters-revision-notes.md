@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,6 +168,6 @@ Example: CH₃CH₂COOCH₃. C=O side has 3 carbons (propanoic acid); the other 
 9. Moles of methanol = 3.2 / 32 = 0.10 mol; maximum ester = 0.10 x 74 = **7.4 g**.
 10. 0.70 x 7.4 = **5.18 g** (about 5.2 g).
 
-## Next steps
+## More on this topic
 
 Work through the [esters study guide](/resources/edexcel-igcse-chemistry-4ch1-esters/) for the worked examples, then try the [esters practice questions](/resources/edexcel-igcse-chemistry-4ch1-esters-practice/). Continue with the [synthetic polymers study guide](/resources/edexcel-igcse-chemistry-4ch1-synthetic-polymers/).

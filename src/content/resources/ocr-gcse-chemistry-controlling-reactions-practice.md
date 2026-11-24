@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ For a refresher beforehand, see the [study guide](/resources/ocr-gcse-chemistry-
 - Leaving activation energy out of temperature, or using energy arguments for concentration or pressure.
 - Calling a substance a catalyst because the rate rose, without checking its mass.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Controlling reactions revision notes](/resources/ocr-gcse-chemistry-controlling-reactions-revision-notes/).
 - Re-read the [Controlling reactions study guide](/resources/ocr-gcse-chemistry-controlling-reactions/).

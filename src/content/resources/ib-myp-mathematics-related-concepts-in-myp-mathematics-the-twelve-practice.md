@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Divide the change by the starting value, not the final value. A seedling growing
 **Should you use everyday meanings of the related concepts?**
 No. Use the sense given in the IB MYP Mathematics guide's glossary; for example, equivalence covers statements, quantities and expressions, not just "equal". Everyday meanings are a common source of weak answers.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve-revision-notes/).
 - Re-read the [study guide](/resources/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve/).

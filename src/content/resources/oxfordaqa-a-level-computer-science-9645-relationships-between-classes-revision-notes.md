@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -194,7 +194,7 @@ An `Account` object runs the first version and a `SavingsAccount` object runs th
 11. So that a subclass is allowed to override it.
 12. A team is not a kind of player. A team uses players, so association is correct.
 
-## Next steps
+## More on this topic
 
 - [Relationships between classes study guide](/resources/oxfordaqa-a-level-computer-science-9645-relationships-between-classes/)
 - [Relationships between classes practice questions](/resources/oxfordaqa-a-level-computer-science-9645-relationships-between-classes-practice/)

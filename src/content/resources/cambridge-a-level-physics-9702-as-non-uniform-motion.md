@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ At the same speed the open parachute has a much larger drag, which exceeds the w
 **Do I need a formula for drag in Cambridge AS Physics?**
 No. A simple model where drag increases as speed increases is sufficient.
 
-## Related resources
+## More resources on this topic
 
 - [Non-uniform motion revision notes](/resources/cambridge-a-level-physics-9702-as-non-uniform-motion-revision-notes/)
 - [Non-uniform motion practice questions](/resources/cambridge-a-level-physics-9702-as-non-uniform-motion-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Route C: Fe₂O₃(s) + 3H₂(g) → 2Fe(s) + 3H₂O(g)
 - Mixing kilograms and grams within one calculation.
 - Missing a coefficient when totalling reactant molar masses for atom economy.
 
-## Next steps
+## More on this topic
 
 - [Reactivity 2.1 revision notes](/resources/ib-dp-chemistry-how-much-the-amount-of-chemical-change-revision-notes/)
 - [Reactivity 2.1 study guide](/resources/ib-dp-chemistry-how-much-the-amount-of-chemical-change/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ prepare for each text: the moment the crime is exposed, the moment of punishment
 and one scene involving an institution of law or religion. A view-based question, for example that
 the criminal is always punished, should be tested against all three.
 
-## Related resources
+## More resources on this topic
 
 - [Punishment and justice revision notes](/resources/oxfordaqa-a-level-english-literature-9675-punishment-and-justice-revision-notes/)
 - [Punishment and justice practice questions](/resources/oxfordaqa-a-level-english-literature-9675-punishment-and-justice-practice/)

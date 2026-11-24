@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide follows the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, section 3.2.2 (Functions, graphs and calculus), statements A9, A10 and A11. The specification sets out Core content and, beside it, extra Extension content. Core content can also be assessed on the Extension papers, so Extension candidates need all of it. Anything that only Extension candidates need is labelled **Extension only** below.
 
@@ -341,7 +341,7 @@ It meets the x-axis where y = 0: 4x = 38, so x = 9.5.
 - Swapping x and y but not rearranging when finding f⁻¹.
 - Forgetting that a perpendicular gradient changes sign as well as being inverted.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs-practice/), then condense with the [revision notes](/resources/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs-revision-notes/). Use the [checklist](/checklists/oxfordaqa/igcse/mathematics/) to track progress.
 

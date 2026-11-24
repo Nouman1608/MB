@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ analyse how the gap creates comedy. For an essay on discovery, plan one paragrap
 of the deception, the moment of greatest confusion and the discovery, then evaluate what remains
 unresolved. In Section C, compare how two texts close the gap between appearance and identity.
 
-## Related resources
+## More resources on this topic
 
 - [Disguise and discovery revision notes](/resources/aqa-a-level-english-literature-7717-disguise-discovery-and-the-supernatural-revision-notes/)
 - [Disguise and discovery practice questions](/resources/aqa-a-level-english-literature-7717-disguise-discovery-and-the-supernatural-practice/)

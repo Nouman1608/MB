@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ A leaflet shows a bag of rice, then a second bag drawn twice as tall and twice a
 - **Give a disadvantage**: state what is lost or hard to judge.
 - **Criticise**: point to the exact feature (axis starts at 40; symbols different widths) and its effect on the reader.
 
-## Next steps
+## More on this topic
 
 Revise the forms side by side with the [revision notes on choosing representations](/resources/cambridge-o-level-statistics-4040-purpose-use-representation-advantages-disadvantages-revision-notes/), then write full answers in the [practice questions on choosing representations](/resources/cambridge-o-level-statistics-4040-purpose-use-representation-advantages-disadvantages-practice/). Reading values from finished diagrams is section 2.4, covered in [interpreting tables and diagrams](/resources/cambridge-o-level-statistics-4040-interpretation-data-tabular-pictorial-diagrammatic/).
 

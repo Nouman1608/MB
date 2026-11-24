@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ These questions cover section 3.13.2, Analogue and digital signals, of the AQA A
 - Suggesting more amplification as a cure for noise.
 - Mixing up the effects of sampling rate and bits per sample.
 
-## Next steps
+## More on this topic
 
 - Recap with the [analogue and digital signals revision notes](/resources/aqa-a-level-physics-7408-analogue-and-digital-signals-revision-notes/).
 - Re-read the [analogue and digital signals study guide](/resources/aqa-a-level-physics-7408-analogue-and-digital-signals/).

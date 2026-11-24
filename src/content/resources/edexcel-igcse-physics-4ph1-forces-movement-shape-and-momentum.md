@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -285,7 +285,7 @@ choose a support as the pivot.
 - **Suggest** factors in a new context: apply the stopping-distance
   factors to the situation described.
 
-## Next steps
+## More on this topic
 
 - [Forces, movement, shape and momentum revision notes](/resources/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum-revision-notes/)
 - [Forces, movement, shape and momentum practice questions](/resources/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ When a capacitor is charged to p.d. V by a supply of constant e.m.f. V, the supp
 - **Determine** (from a graph): mark the points you read, show the area as a triangle or trapezium, and include the unit of the area.
 - **Explain** (why energy is lost when charge is shared, or why the supply does more work than is stored): name the resistance in which energy is dissipated, and compare the two energies numerically if values are given.
 
-## Related resources
+## More resources on this topic
 
 - [Capacitance study guide](/resources/a-physics-capacitance/) — the whole of Topic 19
 - [Energy stored in a capacitor revision notes](/resources/cambridge-a-level-physics-9702-a-energy-stored-in-a-capacitor-revision-notes/)

@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.3 Promotion, 2.2.4 Place and 2.2.5 Using the marketing mix to make business decisions. The specification has two externally examined written papers: Theme 1 Investigating small business (1BS0/01) and Theme 2 Building a business (1BS0/02). Each lasts 1 hour 45 minutes, carries 90 marks and is 50% of the qualification. Each has three sections (A 35 marks, B 30 marks, C 25 marks) of calculations, multiple-choice, short-answer and extended-writing questions, and Sections B and C use business contexts given in the paper. Calculators may be used, and the formulae in Appendix 3 are not provided in the examinations.
@@ -209,7 +209,7 @@ The elements support each other, so rivals find it hard to copy. A rival could c
 - Describing the four elements one by one when asked how they influence each other.
 - Calling any advantage a competitive advantage without saying why customers prefer it to rivals.
 
-## Next steps
+## More on this topic
 
 Recap with the [revision notes](/resources/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix-revision-notes/), then use the [practice questions](/resources/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix-practice/). Take the [free diagnostics](/diagnostics/) to find your weakest area.
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ D = slit-to-screen distance
 
 **Answers:** 1. Sources with a constant phase difference. 2. 5π rad, equivalent to π rad: destructive (minimum). 3. Constructive (maximum). 4. It halves, since x ∝ 1/a. 5. Path difference is zero for every wavelength at the centre, so every colour has a maximum there. 6. Half a wavelength. 7. The two amplitudes at that point are unequal; reflections from walls and background noise also reach it. 8. 12.0 ÷ 8 = 1.5 mm. 9. Both are driven by the same motor, so they have the same frequency and a fixed phase difference. 10. Amplitude 2A, so four times the intensity. 11. So that diffraction spreads the light from each slit into the region where it overlaps light from the other slit. 12. λ = (0.50 × 10⁻³ × 2.4 × 10⁻³) ÷ 2.0 = 6.0 × 10⁻⁷ m.
 
-## Related resources
+## More resources on this topic
 
 - [Superposition revision notes](/resources/as-physics-superposition-revision-notes/) — the whole of Topic 8
 - [Interference practice questions](/resources/cambridge-a-level-physics-9702-as-interference-practice/)

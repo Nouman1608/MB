@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ Learn the facts first in the [angles study guide](/resources/ocr-gcse-mathematic
 - Finding x but not the angle asked for.
 - Proving a general result with one example.
 
-## Next steps
+## More on this topic
 
 - Review with the [angles revision notes](/resources/ocr-gcse-mathematics-j560-angles-revision-notes/).
 - Re-read the explanations in the [angles study guide](/resources/ocr-gcse-mathematics-j560-angles/).

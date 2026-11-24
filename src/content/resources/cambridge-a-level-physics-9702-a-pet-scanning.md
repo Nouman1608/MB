@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ A₀ = A e^(λt) = 400 × e^(6.30 × 10⁻³ × 90) = 400 × 1.76 = 705 MBq
 - **Explain** (how the image is formed): coincident detection on opposite sides; time difference locates the event on the line; many events processed to map tracer concentration.
 - **Suggest** (properties of a tracer): β⁺ emitter, suitable half-life, absorbed by the target tissue.
 
-## Related resources
+## More resources on this topic
 
 - [Medical Physics study guide](/resources/a-physics-medical-physics/) — the whole of Topic 24
 - [PET scanning revision notes](/resources/cambridge-a-level-physics-9702-a-pet-scanning-revision-notes/)

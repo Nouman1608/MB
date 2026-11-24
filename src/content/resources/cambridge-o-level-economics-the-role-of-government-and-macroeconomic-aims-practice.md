@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ No. Full employment means almost everyone willing and able to work has a job, so
 **How do you show that two macroeconomic aims conflict?**
 Write a chain of cause and effect, for example from higher demand to more hiring, rising wages and costs, and higher prices. Stating that two aims clash without this chain loses marks in Cambridge O Level Economics 2281.
 
-## Next steps
+## More on this topic
 
 - Go back over the [study guide](/resources/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims/) and the [revision notes](/resources/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims-revision-notes/) for any question you lost marks on.
 - Check the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/).

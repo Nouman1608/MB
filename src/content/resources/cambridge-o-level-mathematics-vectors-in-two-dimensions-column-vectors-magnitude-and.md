@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide is aligned to the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. It covers sections 7.2 (vectors in two dimensions), 7.3 (magnitude of a vector) and 7.4 (vector geometry). The syllabus is not tiered, so every candidate meets all of it. Translation by a vector (section 7.1) is the starting point, so you may want to revisit that first.
 
@@ -276,7 +276,7 @@ The midpoint M of AB has position vector ½(a + b).
 **Which sections of the Cambridge 4024 syllabus cover vectors?**
 Vectors in two dimensions are covered in sections 7.2 to 7.4 of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus: column vectors, magnitude, and vector geometry.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and-revision-notes/), then try the [practice questions](/resources/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and-practice/). For related skills see [coordinate geometry practice](/resources/o-level-mathematics-coordinate-geometry-practice/), which supports finding lengths and midpoints, and [geometry practice](/resources/o-level-mathematics-geometry-practice/) for similarity. Past-paper links are collected on the [4024 past papers page](/resources/cambridge-o-level-mathematics-4024-past-papers/).
 

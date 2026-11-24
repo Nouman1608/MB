@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,7 +174,7 @@ The rate for sandstone is 42 ÷ 5 = **8.4 cm³ per minute**; for limestone, 30 �
 - **Explain** why a rock is permeable or impermeable: refer to pore spaces and whether they are connected, or to interlocking crystals.
 - For a diagram labelled A to H, read the arrows. An arrow out of magma is crystallisation; an arrow from surface rock to sediment involves weathering and erosion.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Formation of rocks revision notes](/resources/cambridge-igcse-environmental-management-0680-formation-of-rocks-revision-notes/), then test yourself with the [Formation of rocks practice questions](/resources/cambridge-igcse-environmental-management-0680-formation-of-rocks-practice/). For how rocks are mined, continue to the [Extraction of rocks, ores and minerals study guide](/resources/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals/), and for the whole topic see the [Natural Resources study guide](/resources/igcse-cambridge-environmental-management-natural-resources/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 - Missing a balancing point or conclusion on "Discuss" and "Evaluate".
 - Writing about the technology in general instead of the scenario's user.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [revision notes](/resources/a-level-cambridge-ict-new-and-emerging-technologies-revision-notes/)
 - Re-read the [study guide](/resources/a-level-cambridge-ict-new-and-emerging-technologies/) for full explanations

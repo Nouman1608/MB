@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,7 +185,7 @@ D: the fall of leaves and fruits from a plant to the ground
 - (Extended) Saying auxin causes cell division rather than cell elongation.
 - (Extended) Predicting a result without explaining it through auxin distribution.
 
-## Next steps
+## More on this topic
 
 - Re-read any weak area in the [tropic responses study guide](/resources/cambridge-igcse-biology-0610-tropic-responses/).
 - Try the mixed [hormones, homeostasis and tropic responses practice questions](/resources/igcse-biology-0610-hormones-homeostasis-and-tropic-responses-subtopic-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ C4H8:   CH3CH2CH=CH2            (but-1-ene)
 - **Deduce:** use the general formula to get a molecular formula, or work backwards to the series.
 - **Define** (Extended): structural isomers need both "same molecular formula" and "different structural formula".
 
-## Related resources
+## More resources on this topic
 
 - [Formulae and terminology revision notes](/resources/cambridge-igcse-chemistry-0620-formulae-functional-groups-and-terminology-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-formulae-functional-groups-and-terminology-practice/)
 - [Naming organic compounds study guide](/resources/cambridge-igcse-chemistry-0620-naming-organic-compounds/), which uses these formulae to name compounds

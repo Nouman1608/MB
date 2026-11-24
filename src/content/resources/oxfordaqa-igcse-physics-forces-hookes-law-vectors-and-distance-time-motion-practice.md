@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,7 +187,7 @@ The motion is uniform between each pair of readings.
 - Choosing the last point of a force-extension table, which is beyond the limit of proportionality, to calculate k.
 - Saying friction "makes heat" without saying which surfaces are involved.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion/).
 - Visit the [course hub](/boards/oxfordaqa/igcse/physics/) and the [checklist](/checklists/oxfordaqa/igcse/physics/).

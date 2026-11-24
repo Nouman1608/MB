@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,6 +144,6 @@ The same method handles a chemical that blocks PSII: photolysis stops, oxygen re
 - **Interpret** spectra: quote values from the graph and link them to pigments.
 - **Predict**: state the direction of change, then justify it from what is made and what is used.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [13.1 revision notes](/resources/cambridge-a-level-biology-9700-photosynthesis-as-an-energy-transfer-process-cambridge-revision-notes/), then try the [13.1 practice questions](/resources/cambridge-a-level-biology-9700-photosynthesis-as-an-energy-transfer-process-cambridge-practice/). Section 13.2 continues with the [investigation of limiting factors study guide](/resources/cambridge-a-level-biology-9700-investigation-of-limiting-factors/). The chemiosmosis idea also appears in mitochondria: compare it with the [energy and respiration study guide](/resources/a-level-biology-9700-energy-and-respiration/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -233,7 +233,7 @@ Frequency (f)   2    4    5    3    1
 - Forgetting to order a list before finding the median or quartiles.
 - (Extended) Using class end points instead of midpoints, or calling an estimate exact.
 
-## Next steps
+## More on this topic
 
 - Re-read the [averages and range study guide](/resources/cambridge-igcse-mathematics-0580-averages-and-range/).
 - Use the measures to compare data sets in the [interpreting statistical data practice questions](/resources/cambridge-igcse-mathematics-0580-interpreting-statistical-data-practice/).

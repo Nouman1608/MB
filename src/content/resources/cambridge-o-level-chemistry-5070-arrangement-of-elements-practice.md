@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,6 +170,6 @@ D: They have similar relative atomic masses.
 - Writing MgN or AlS: always balance the charges.
 - Forgetting that a negative ion has gained electrons, so the atom's configuration has fewer electrons than the ion's.
 
-## Next steps
+## More on this topic
 
 Check any slips in the [Arrangement of elements study guide](/resources/cambridge-o-level-chemistry-5070-arrangement-of-elements/), then try the [Group I properties practice questions](/resources/cambridge-o-level-chemistry-5070-group-i-properties-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -208,7 +208,7 @@ Learn the methods first in the [discrete growth and decay study guide](/resource
 - Giving only one trial value, or a decimal number of years, in a "first year" question.
 - Saying "yes" or "no" without the calculation that supports it.
 
-## Next steps
+## More on this topic
 
 - Review with the [discrete growth and decay revision notes](/resources/ocr-gcse-mathematics-j560-discrete-growth-and-decay-revision-notes/).
 - Re-read the explanations in the [discrete growth and decay study guide](/resources/ocr-gcse-mathematics-j560-discrete-growth-and-decay/).

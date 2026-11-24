@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -195,7 +195,7 @@ A string is valid if some route from entry to exit uses its symbols in order.
 11. Terminal (rounded) and non-terminal (rectangular).
 12. Recursion or repetition.
 
-## Next steps
+## More on this topic
 
 - [BNF study guide](/resources/oxfordaqa-a-level-computer-science-9645-backus-naur-form-syntax-diagrams/)
 - [BNF practice questions](/resources/oxfordaqa-a-level-computer-science-9645-backus-naur-form-syntax-diagrams-practice/)

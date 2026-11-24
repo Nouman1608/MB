@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ The first expansion is valid for |x| < 1 and the second for |x| < 3, so the comb
 - **"Give your answer in the form ln k"**: combine logs using the laws; k is a number, often a fraction.
 - **"Hence or otherwise expand ... and state the range of values of x for which it is valid"**: expand each partial fraction and give the most restrictive range.
 
-## Related resources
+## More resources on this topic
 
 - [P4 partial fractions revision notes](/resources/edexcel-a-level-mathematics-yma01-p4-algebra-and-functions-revision-notes/)
 - [P4 partial fractions practice questions](/resources/edexcel-a-level-mathematics-yma01-p4-algebra-and-functions-practice/)

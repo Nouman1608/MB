@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -161,6 +161,6 @@ The court has power to award damages instead of an injunction (now s50 Senior Co
 
 In problem answers, end each claimant's section with the remedy: identify the heads of damages (for example, lost earnings as special damages, pain and suffering as general damages), mention mitigation where the facts raise it, and for nuisance say whether an injunction is likely and in what form. Theory questions on injunctions belong to the theory row and need evaluation of how conflicting interests are balanced.
 
-## Related resources
+## More resources on this topic
 
 [Remedies in tort revision notes](/resources/aqa-a-level-law-7162-remedies-tort-revision-notes/) | [Remedies in tort practice questions](/resources/aqa-a-level-law-7162-remedies-tort-practice/) | [Defences in tort study guide](/resources/aqa-a-level-law-7162-defences-tort/)

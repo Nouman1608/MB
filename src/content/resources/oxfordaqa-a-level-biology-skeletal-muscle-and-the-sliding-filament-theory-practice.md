@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ These questions test section 3.4.4, skeletal muscles as effectors, from OxfordAQ
 - Explaining only one muscle of an antagonistic pair.
 - Giving fibre properties without naming the fibre type.
 
-## Next steps
+## More on this topic
 
 - Review the condensed [revision notes](/resources/oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory-revision-notes/).
 - Read the full [study guide](/resources/oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory/).

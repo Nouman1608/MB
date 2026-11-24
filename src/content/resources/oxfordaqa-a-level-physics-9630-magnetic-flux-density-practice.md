@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ D: it depends on the direction of the current
 - Taking the gradient of a graph from two table values when a best-fit line is expected.
 - Defining the tesla without saying the wire is at right angles to the field.
 
-## Next steps
+## More on this topic
 
 - Revisit the explanations in the [magnetic flux density study guide](/resources/oxfordaqa-a-level-physics-9630-magnetic-flux-density/).
 - Move on to the [moving charges in a magnetic field practice questions](/resources/oxfordaqa-a-level-physics-9630-moving-charges-in-a-magnetic-field-practice/).

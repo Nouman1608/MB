@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -233,7 +233,7 @@ Common errors include posting commission, principle or complete reversal correct
 **How should I state the effect of an error?**
 Give the amount and the direction for profit and, where asked, for the statement of financial position. "Profit overstated" with no amount, or with no statement of financial position effect, earns at most one mark.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-accounting-verification-of-accounting-records-revision-notes/) and [study guide](/resources/aqa-a-level-accounting-verification-of-accounting-records/).
 - Review [the double entry model](/resources/aqa-a-level-accounting-double-entry-model/).

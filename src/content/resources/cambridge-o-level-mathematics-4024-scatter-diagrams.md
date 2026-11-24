@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ The line gives 37 + 5.5 × 13 = 108.5 marks, which is more than the test total. 
 - **Use your line to estimate:** show the reading lines on the graph; the answer must match your own line.
 - **Explain why the estimate may be unreliable:** mention extrapolation, weak correlation or an outlier, as appropriate.
 
-## Next steps
+## More on this topic
 
 Try the [scatter diagrams practice questions](/resources/cambridge-o-level-mathematics-4024-scatter-diagrams-practice/) and revise from the [scatter diagrams revision notes](/resources/cambridge-o-level-mathematics-4024-scatter-diagrams-revision-notes/). The limits of conclusions from data are covered in [interpreting statistical data](/resources/cambridge-o-level-mathematics-4024-interpreting-statistical-data/).
 

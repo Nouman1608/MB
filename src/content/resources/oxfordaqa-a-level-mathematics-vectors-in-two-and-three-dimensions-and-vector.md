@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Mathematics specification (9660, Version 5.2) and covers the first part of section P2.10: vectors in two and three dimensions, and vector equations of lines. This content is part of International A-level (A2) Unit P2 (Pure Maths); it is not examined at International AS. The scalar product and perpendicular distance sit in other pages, so they are not taught here.
@@ -270,7 +270,7 @@ Substituting u = 1 + 2s into the second equation: 2 + s = 3 + 2 + 4s, so s = −
 
 Show the equations you set up, the values of s and t, and the check in the unused component. A stated conclusion ("lines intersect" or "lines are skew") with the comparison written beside it is easier to credit than a bare statement. Give exact values, and give column vectors for position vectors unless you are asked for coordinates.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-vectors-in-two-and-three-dimensions-and-vector-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-vectors-in-two-and-three-dimensions-and-vector-revision-notes/) to recall the methods. Tick off the topic on the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and see the [course hub](/boards/oxfordaqa/a-level/mathematics/).
 

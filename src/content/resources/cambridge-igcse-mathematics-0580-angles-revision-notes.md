@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ Form an equation from one fact, solve it, then **substitute back** to give the a
 11. 3x + 216 = 360, so **x = 48°**
 12. Sum = 540°; 540 − 425 = **115°**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [angles study guide](/resources/cambridge-igcse-mathematics-0580-angles/).
 - Apply the facts in the [angles practice questions](/resources/cambridge-igcse-mathematics-0580-angles-practice/).

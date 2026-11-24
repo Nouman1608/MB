@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ D: Movement of particles through a cell wall from a higher to a lower concentrat
 - (Extended) Calling ion uptake by root hairs diffusion.
 - (Extended) Leaving out the shape change of the carrier, or the energy step.
 
-## Next steps
+## More on this topic
 
 - Re-read the [active transport study guide](/resources/cambridge-igcse-biology-0610-active-transport/).
 - Compare with the [diffusion practice questions](/resources/cambridge-igcse-biology-0610-diffusion-practice/) and the [osmosis practice questions](/resources/cambridge-igcse-biology-0610-osmosis-practice/).

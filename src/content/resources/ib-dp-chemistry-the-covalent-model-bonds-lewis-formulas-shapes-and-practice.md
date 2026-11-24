@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ Explain the order of boiling points in terms of intermolecular forces. **[5]**
 - Missing the step that molar masses are comparable before ranking forces.
 - Measuring RF to the end of the plate or paper instead of the solvent front.
 
-## Next steps
+## More on this topic
 
 - Recap the key facts: [Structure 2.2 revision notes](/resources/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and-revision-notes/)
 - [Book a free trial class](/trial/)

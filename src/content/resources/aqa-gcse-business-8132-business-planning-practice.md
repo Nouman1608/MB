@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -116,7 +116,7 @@ These questions cover section 3.1.6 Business planning of AQA GCSE Business (8132
 - Treating forecasts as certain in an evaluation.
 - Giving benefits for "the business" without saying which reader gains.
 
-## Next steps
+## More on this topic
 
 - Recheck any step you missed in the [Business planning study guide](/resources/aqa-gcse-business-8132-business-planning/).
 - Try the mixed questions in the [Business location and Business planning practice set](/resources/aqa-gcse-business-business-location-and-business-planning-practice/).

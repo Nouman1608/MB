@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the dates, places and impacts given for the 1999, Yemyin (2007) and Biparjoy (2023) cyclone examples against Pakistan Meteorological Department or NDMA records."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the dates, places and impacts given for the 1999, Yemyin (2007) and Biparjoy (2023) cyclone examples against Pakistan Meteorological Department or NDMA records. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ July and August. **[4]**
 - **Clockwise rotation.** In the northern hemisphere cyclones spin anticlockwise.
 - **Listing impacts without separating people and environment**, when the question names both.
 
-## Related resources
+## More resources on this topic
 
 - [Tropical cyclones revision notes](/resources/oxfordaqa-igcse-pakistan-studies-9236-tropical-cyclones-revision-notes/)
 - [Tropical cyclones practice questions](/resources/oxfordaqa-igcse-pakistan-studies-9236-tropical-cyclones-practice/)

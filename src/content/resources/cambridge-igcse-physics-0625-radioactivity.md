@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,7 +170,7 @@ Ionising radiation can cause **cell death**, **mutations** and **cancer**. In sc
 - **Explain** a use: one point on radiation type, one on half-life.
 - **Explain** a precaution (Extended): time, distance or shielding.
 
-## Next steps
+## More on this topic
 
 Condense this with the [radioactivity revision notes](/resources/cambridge-igcse-physics-0625-radioactivity-revision-notes/) and practise with the [radioactivity practice questions](/resources/cambridge-igcse-physics-0625-radioactivity-practice/). The previous subtopic is [the nuclear model of the atom](/resources/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom/); Topic 6 begins with [the Earth and the Solar System](/resources/cambridge-igcse-physics-0625-the-earth-and-the-solar-system/).
 

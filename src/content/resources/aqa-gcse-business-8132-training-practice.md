@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -111,7 +111,7 @@ Evaluation: off-the-job means staff are away from the shops, so cover or closure
 - Ignoring the lost output of the person who delivers on-the-job training.
 - Choosing a method without using the size of the business or the type of skill in the case.
 
-## Next steps
+## More on this topic
 
 - Go back over gaps in the [training study guide](/resources/aqa-gcse-business-8132-training/).
 - See how training links to motivation and recruitment in the [Human resources study guide](/resources/aqa-gcse-business-human-resources/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the current political and legislative status of UK human rights reform proposals, including any changes to the Safety of Rwanda (Asylum and Immigration) Act 2024, before the page is relied on."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the current political and legislative status of UK human rights reform proposals, including any changes to the Safety of Rwanda (Asylum and Immigration) Act 2024, before the page is relied on. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -168,7 +168,7 @@ Conclusion: Reach a judgement, e.g. that targeted amendment answers the
 - Use cases as evidence for criticisms (Ghaidan, Hirst, YL) rather than retelling their facts.
 - Present political proposals with dates and say whether they were enacted.
 
-## Related resources
+## More resources on this topic
 
 [Reform revision notes](/resources/aqa-a-level-law-7162-reform-revision-notes/) |
 [Reform practice questions](/resources/aqa-a-level-law-7162-reform-practice/) |

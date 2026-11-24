@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ Study the methods first in the [section 1.9 study guide](/resources/ib-dp-mathem
 - Solving for n or a and not checking the result.
 - Stating "there is no x² term" without showing that r would not be a whole number.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [section 1.9 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-1-9-revision-notes/).
 - HL students: extend to negative and fractional exponents with the [section 1.10 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-10-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ These questions cover sections 6.2.1 to 6.2.3 of the Cambridge O Level Economics
 - Leaving out a conclusion that judges which factor matters most.
 - Answering a free trade question with tariffs and quotas.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade-revision-notes/).
 - Re-read the [study guide](/resources/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade/).

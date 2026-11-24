@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide is written against Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. It covers Unit D1 section 1 (Algorithms, topics 1.1 and 1.2) and section 2 (Algorithms on graphs, topics 2.1 and 2.2). The specification makes Unit D1 optional for IAS Mathematics, IAS Further Mathematics, IAL Mathematics and IAL Further Mathematics.
@@ -298,7 +298,7 @@ Bubble sort stops after a complete pass in which no swaps are made, which confir
 **Does the Edexcel IAL D1 specification require the order of an algorithm?**
 No. The specification does not expect the order of an algorithm, but it does require clear working that shows how each algorithm has been applied.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-revision-notes/), then try the [practice questions](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-practice/).
 

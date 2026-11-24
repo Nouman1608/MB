@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Interpretation: the cost is recovered within a year from rework savings alone, a
 11. The business has paid for the skills, so if the worker leaves, the money is lost and a rival may gain the skills, while the business must recruit and train again.
 12. Any one of: injured workers, fines or legal action, damage to reputation.
 
-## Next steps
+## More on this topic
 
 Try the [training practice questions](/resources/edexcel-igcse-business-4bs1-training-practice/) and return to the [training study guide](/resources/edexcel-igcse-business-4bs1-training/) for any self-test answer you missed. The broader [training, motivation and rewards revision notes](/resources/edexcel-igcse-business-training-motivation-and-rewards-revision-notes/) show how this section connects to 2.4.
 

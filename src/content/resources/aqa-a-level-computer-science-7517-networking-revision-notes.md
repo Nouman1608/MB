@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -151,7 +151,7 @@ Wireless devices cannot detect a collision while transmitting, so they **avoid**
 11. That the channel is reserved, so they should stay silent for the stated time.
 12. Two devices in range of the access point but not of each other cannot sense each other's transmissions, so they collide.
 
-## Related resources
+## More resources on this topic
 
 - [Networking study guide](/resources/aqa-a-level-computer-science-7517-networking/)
 - [Networking practice questions](/resources/aqa-a-level-computer-science-7517-networking-practice/)

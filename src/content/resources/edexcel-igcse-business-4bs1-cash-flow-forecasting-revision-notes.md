@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ Reasons they differ: credit sales not yet paid; supplier credit; loans received 
 11. Delay the purchase to a month with a surplus, or arrange a short-term overdraft or a loan for the equipment.
 12. It pays for extra materials and wages before customers pay for the extra sales, so outflows rise before inflows.
 
-## Next steps
+## More on this topic
 
 Practise with the [cash flow forecasting practice questions](/resources/edexcel-igcse-business-4bs1-cash-flow-forecasting-practice/) and revisit the [cash flow forecasting study guide](/resources/edexcel-igcse-business-4bs1-cash-flow-forecasting/) for the credit-sales method.
 

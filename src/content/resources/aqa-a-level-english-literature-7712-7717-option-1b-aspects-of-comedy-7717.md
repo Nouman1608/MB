@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -190,7 +190,7 @@ Questions often offer a view to debate or ask about the significance of an aspec
 argued judgement. Allow about 50 minutes for each of the three 25-mark answers in the 2 hour 30
 minute paper.
 
-## Related resources
+## More resources on this topic
 
 - [Aspects of Comedy revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717-revision-notes/)
 - [Aspects of Comedy practice questions](/resources/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717-practice/)

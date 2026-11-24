@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -143,7 +143,7 @@ Yes. At least 10% of the marks across the A-level assess mathematical skills, so
 - In the sign test, counting the more frequent sign as S or including zero differences in N.
 - Explaining a limitation in general terms instead of applying it to the item.
 
-## Next steps
+## More on this topic
 
 Review any weak area in the [Research methods study guide](/resources/aqa-a-level-psychology-7182-research-methods/), then apply your skills to biological studies with the [Biopsychology practice questions](/resources/aqa-a-level-psychology-7182-biopsychology-practice/).
 

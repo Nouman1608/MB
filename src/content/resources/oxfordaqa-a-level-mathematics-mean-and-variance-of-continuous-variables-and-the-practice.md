@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -160,7 +160,7 @@ These questions follow the OxfordAQA International AS and A-level Mathematics (9
 - Using F(x) when the question asks for an upper tail, or the reverse.
 - Rounding before the final line, especially in long integrals.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-mathematics-mean-and-variance-of-continuous-variables-and-the-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-mathematics-mean-and-variance-of-continuous-variables-and-the/).
 - Practise finding probabilities from pdfs and cdfs with the [probability density and cumulative distribution practice](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution-practice/).

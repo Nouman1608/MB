@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -257,7 +257,7 @@ Rank the groups on each carbon of the C=C by atomic number, not by size or mass.
 **Should curly arrows be drawn for free-radical steps?**
 No. Free-radical steps are written as balanced equations with a dot on each radical. Curly arrows are used for other mechanisms and must start from a lone pair or bond, not from an atom or charge.
 
-## Next steps
+## More on this topic
 
 - [Introduction to organic chemistry revision notes](/resources/aqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes/)
 - [Introduction to organic chemistry study guide](/resources/aqa-a-level-chemistry-introduction-to-organic-chemistry/)

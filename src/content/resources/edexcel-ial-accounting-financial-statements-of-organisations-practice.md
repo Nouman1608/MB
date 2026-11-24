@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ No. A retiring partner takes no part in the new profit-sharing ratio, so no good
 **Why lay out ledger accounts in full?**
 A single net figure without the ledger account gives no route to partial credit if it is wrong. Showing the account, such as a full subscriptions account, lets method be credited.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-ial-accounting-financial-statements-of-organisations-revision-notes/)
 - Re-read the [study guide](/resources/edexcel-ial-accounting-financial-statements-of-organisations/)

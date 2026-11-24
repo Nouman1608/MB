@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Revise first with the [Analytical techniques study guide](/resources/ocr-a-level
 - Rounding a ratio of 2.33 or 2.34 instead of multiplying by 3.
 - Ignoring missing peaks when choosing between isomers.
 
-## Next steps
+## More on this topic
 
 - Recall tables and a quick self-test: [Analytical techniques revision notes](/resources/ocr-a-level-chemistry-analytical-techniques-revision-notes/)
 - Full explanations and worked examples: [Analytical techniques study guide](/resources/ocr-a-level-chemistry-analytical-techniques/)

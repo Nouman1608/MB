@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu translation in the tables and the self-test answers on this page."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu translation in the tables and the self-test answers on this page. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -213,7 +213,7 @@ Notice how often natural Urdu uses *مجھے ... ہے / لگ رہا ہے* where 
 11. A word-for-word translation; it often produces unnatural Urdu and wrong idiom.
 12. W5.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 4 Translation: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-4-translation-practice/)
 - [Paper 2 practice questions](/resources/o-level-urdu-second-language-paper-2-practice/)

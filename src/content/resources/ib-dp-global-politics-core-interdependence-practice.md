@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -124,7 +124,7 @@ Learn the content first in the [study guide](/resources/ib-dp-global-politics-co
 - Naming an organisation as evidence without saying what it did.
 - Ignoring the source-evaluation part of the longest source question.
 
-## Next steps
+## More on this topic
 
 - [Interdependence revision notes](/resources/ib-dp-global-politics-core-interdependence-revision-notes/)
 - [Interdependence study guide](/resources/ib-dp-global-politics-core-interdependence/)

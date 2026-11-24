@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -123,7 +123,7 @@ Strand i rewards terminology used accurately in context, so a definition on its 
 **How do I improve an answer that only lists points?**
 Add a reason to each point (because, so, which led to) and then an example.
 
-## Next steps
+## More on this topic
 
 - [Criterion A revision notes](/resources/ib-myp-individuals-and-societies-criterion-a-knowing-and-understanding-revision-notes/)
 - [Criterion A study guide](/resources/ib-myp-individuals-and-societies-criterion-a-knowing-and-understanding/)

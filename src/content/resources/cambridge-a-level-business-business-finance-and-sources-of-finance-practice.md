@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -135,7 +135,7 @@ These questions cover sections 5.1 Business finance and 5.2 Sources of finance o
 - Listing sources of finance with no link to cost, control or the use.
 - Describing hire purchase as renting, or leasing as ownership.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/cambridge-a-level-business-business-finance-and-sources-of-finance-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-business-finance-and-sources-of-finance/).
 - Course hub: [Cambridge A Level Business](/boards/cambridge/a-level/business/) and the [printable checklist](/checklists/cambridge/a-level/business/).

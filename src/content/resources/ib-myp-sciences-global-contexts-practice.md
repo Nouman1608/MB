@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ It should end with a final judgement that weighs the implications. Discussing im
 **What is the key concept list for MYP Sciences?**
 Sciences contributes the key concepts change, relationships and systems, though units may use others such as creativity. Related concepts include balance, consequences, energy, environment, evidence, form, function, interaction, models, movement, patterns and transformation.
 
-## Next steps
+## More on this topic
 
 - [Global contexts revision notes](/resources/ib-myp-sciences-global-contexts-revision-notes/)
 - [Global contexts study guide](/resources/ib-myp-sciences-global-contexts/)

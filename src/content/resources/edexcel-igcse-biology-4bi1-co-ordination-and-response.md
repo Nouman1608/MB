@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sub-topic 2(j), **Co-ordination and response** (specification points 2.80–2.95B), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Point 2.95B is printed in bold with a **B** reference, so it is examined on Paper 2 only; every other point can appear on either paper. It applies to the June and November series examined under Issue 3.
@@ -351,7 +351,7 @@ ADH links back to homeostasis of body water content. If the blood becomes too co
 - "Sweat cools you." It is the **evaporation** of sweat that removes heat.
 - Calling glycogen "glucagon" when describing insulin's effect.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/edexcel-igcse-biology-4bi1-co-ordination-and-response-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-co-ordination-and-response-practice/). The [free diagnostics](/diagnostics/) show which topics need most work.
 

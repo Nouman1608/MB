@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ P = VI always gives the total rate of energy transfer to a component. For a resi
 - **Explain** (which component dissipates more power): name the shared quantity (current in series, p.d. in parallel), then state the equation and the conclusion.
 - **Suggest** (why a real answer differs): resistance may change with temperature, as in a filament lamp.
 
-## Related resources
+## More resources on this topic
 
 - [Electricity study guide](/resources/as-physics-electricity/) — the whole of Topic 9
 - [Potential difference and power revision notes](/resources/cambridge-a-level-physics-9702-as-potential-difference-and-power-revision-notes/)

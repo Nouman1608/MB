@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ D: nitrogen monoxide
 - Naming a strategy without saying which pollutant it reduces.
 - Writing light or chlorophyll as reactants.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [air quality and climate study guide](/resources/cambridge-o-level-chemistry-5070-air-quality-and-climate/).
 - Move on to Topic 11 with the [fuels practice questions](/resources/cambridge-o-level-chemistry-5070-fuels-practice/).

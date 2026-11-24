@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ Levels guide: 5 to 6 marks for mechanism, adverse effects explained by the same 
 - Writing "it is toxic" in place of "it also binds to the DNA of healthy cells".
 - Evaluations with no conclusion.
 
-## Next steps
+## More on this topic
 
 - [Anticancer drugs revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-13-3-revision-notes/)
 - [Amino acids and proteins practice questions for the whole of section 3.3.13](/resources/oxfordaqa-a-level-chemistry-amino-acids-and-proteins-practice/)

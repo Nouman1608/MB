@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -157,6 +157,6 @@ Use one success, one failure and one partial success to give balance.
 
 **Answers:** 1. The Law Commissions Act 1965. 2. A High Court or Court of Appeal judge. 3. Programmes of law reform approved by the Lord Chancellor, and references from government departments. 4. Provisional proposals are published and responses are invited from lawyers, judges, academics, interest groups and the public. 5. A draft Bill. 6. The Lord Chancellor must report annually to Parliament on progress in implementing Law Commission proposals. 7. Any two: Computer Misuse Act 1990; Contracts (Rights of Third Parties) Act 1999; Fraud Act 2006; Electronic Trade Documents Act 2023; Automated Vehicles Act 2024. 8. It shows the failure of codification: it was published in 1989 but never enacted. 9. Combining several Acts on one subject into one Act without changing the law: the Sentencing Act 2020. 10. It removes obsolete and unnecessary laws, making the statute book shorter and clearer. 11. Any two: independence; expertise; wide consultation; draft Bills; whole-area review; handles technical law. 12. It has no power to implement its proposals, so reform depends on government and Parliament.
 
-## Related resources
+## More resources on this topic
 
 [Law Reform study guide](/resources/aqa-a-level-law-7162-law-making-law-reform/) | [Law Reform practice questions](/resources/aqa-a-level-law-7162-law-making-law-reform-practice/) | [Rule of Law, Law Reform, the EU and Civil Justice revision notes](/resources/aqa-a-level-law-rule-of-law-reform-eu-and-civil-justice-revision-notes/)

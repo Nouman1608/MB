@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -117,7 +117,7 @@ Judgement: services are central to the UK economy because of their size and thei
 - Not linking the answer to the type of business.
 - Omitting employees from the stakeholders affected by poor service.
 
-## Next steps
+## More on this topic
 
 - Revisit the [services in productive quality study guide](/resources/ocr-a-level-business-h431-services-productive-quality/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

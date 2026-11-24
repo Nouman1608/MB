@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Data: Callisto mass 1.08 × 10²³ kg, radius 2.41 × 10⁶ m. Triton mass 2.14 
 - Leaving off units, especially J kg⁻¹ for potential.
 - Mixing up energy to change orbit with energy to escape.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy-revision-notes/) and the [study guide](/resources/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy/).
 - Course hub: [IB DP Physics](/boards/ib/ib-dp/physics/). Checklist: [IB DP Physics checklist](/checklists/ib/ib-dp/physics/).

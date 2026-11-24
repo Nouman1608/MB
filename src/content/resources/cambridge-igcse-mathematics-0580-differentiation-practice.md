@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ For worked examples, read the [differentiation study guide](/resources/cambridge
 - Reversing the second-derivative rule.
 - Giving one value of k or x when a quadratic gives two.
 
-## Next steps
+## More on this topic
 
 - [Differentiation study guide](/resources/cambridge-igcse-mathematics-0580-differentiation/)
 - [Differentiation revision notes](/resources/cambridge-igcse-mathematics-0580-differentiation-revision-notes/)

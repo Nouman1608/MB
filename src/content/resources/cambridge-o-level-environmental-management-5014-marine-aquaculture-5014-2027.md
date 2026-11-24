@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,7 +121,7 @@ Interpretation: in this example the farm produces more fish than it removes from
 
 **Define** questions need the syllabus wording: farming of marine species in captivity. **Describe and explain** questions need the effect and the reason; for a 4-mark question on two strategies, give each strategy, how it works and why that protects the stock. **Discuss** questions need benefits for the stock, limitations for fishers or enforcement, and a judgement.
 
-## Next steps
+## More on this topic
 
 - Summary tables and a self-test: [marine aquaculture revision notes](/resources/cambridge-o-level-environmental-management-5014-marine-aquaculture-5014-2027-revision-notes/).
 - Questions with mark schemes: [marine aquaculture practice questions](/resources/cambridge-o-level-environmental-management-5014-marine-aquaculture-5014-2027-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ Purchases [1]. Discount received [1]. Wages [1]. Repairs [1]. Corrected profit 2
 - Changing profit for corrections that only affect assets or liabilities.
 - Ignoring the error of principle in a profit statement because it does not involve suspense.
 
-## Next steps
+## More on this topic
 
 - Revisit the [correction of errors study guide](/resources/edexcel-igcse-accounting-4ac1-correction-of-errors/).
 - Review where errors show up in the [trial balance study guide](/resources/edexcel-igcse-accounting-4ac1-trial-balance/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻²; 1/4πε₀ = 8.99 × 10⁹ N m² C⁻
 - Forgetting to square-root the mass or charge ratio.
 - Giving "both inverse-square" as a difference.
 
-## Next steps
+## More on this topic
 
 - [Fields revision notes](/resources/aqa-a-level-physics-7408-fields-revision-notes/)
 - [Fields study guide](/resources/aqa-a-level-physics-7408-fields/)

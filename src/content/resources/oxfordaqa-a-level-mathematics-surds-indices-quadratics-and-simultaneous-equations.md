@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches the first half of specification content P1.1 (Algebra) in the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International AS Unit P1 (Pure Maths, section 3.1) (no Core or Extension labels). It covers surds, indices, quadratics, simultaneous equations and inequalities. Polynomial division, the factor theorem and curve sketching are separate parts of P1.1 and are taught elsewhere.
@@ -327,7 +327,7 @@ Write "or" for two separate regions and a single chain for one region.
 - Writing x² < 9 as x < ±3. The answer is −3 < x < 3.
 - Cancelling a common factor of x from both sides of an equation and losing the root x = 0.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-surds-indices-quadratics-and-simultaneous-equations-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-surds-indices-quadratics-and-simultaneous-equations-revision-notes/) for quick recall. For the rest of the unit, see the [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/) and [practice questions](/resources/oxfordaqa-a-level-mathematics-p1-practice/). To find gaps, take a [free 10-minute diagnostic](/diagnostics/).
 

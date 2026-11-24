@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ Example: A = 70°, a = 12, b = 9. sin B = 9 sin 70° ÷ 12 = 0.7047… → B = 4
 11. The angle A is **obtuse**
 12. ½ × 6 × 6 × sin 60° = 18 × √3/2 = **9√3 cm²**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [non-right-angled triangles study guide](/resources/cambridge-igcse-mathematics-0580-non-right-angled-triangles/).
 - Recap the whole topic with the [trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/).

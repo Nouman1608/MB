@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Why it works: it uses the figures, names a drawback of each option, chooses one,
 - Treating health and safety training as optional. It is about meeting a legal duty.
 - Counting only the fee as the cost of training and forgetting lost output or cover.
 
-## Next steps
+## More on this topic
 
 Condense this with the [training revision notes](/resources/edexcel-igcse-business-4bs1-training-revision-notes/), then test yourself on the [training practice questions](/resources/edexcel-igcse-business-4bs1-training-practice/).
 

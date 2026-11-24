@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Population grows faster than housing, so migrants build informal settlements *(1
 4. What is a megacity? *A city with more than 10 million people.*
 5. Births 3 000, deaths 1 200, immigrants 500, emigrants 900. What is the change? *1 800 - 400 = +1 400.*
 
-## Related resources
+## More resources on this topic
 
 - [Human population size revision notes](/resources/cambridge-o-level-environmental-management-5014-human-population-size-5014-2027-revision-notes/)
 - [Human population size practice questions](/resources/cambridge-o-level-environmental-management-5014-human-population-size-5014-2027-practice/)

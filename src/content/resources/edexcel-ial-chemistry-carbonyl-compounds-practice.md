@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 - Calling a racemic product "optically active".
 - Using 2,4-DNPH to separate aldehydes from ketones.
 
-## Next steps
+## More on this topic
 
 - [All free 10-minute diagnostics](/diagnostics/), to see which topics need work
 - [Carbonyl compounds revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) for a final recap

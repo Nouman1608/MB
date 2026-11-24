@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ CH₃CH₂CH₂Br + KCN → CH₃CH₂CH₂CN + KBr
 - Reactivity explained by polarity instead of bond enthalpy.
 - Nitrile names that ignore the extra carbon.
 
-## Next steps
+## More on this topic
 
 - Recap the facts: [nucleophilic substitution revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-3-1-revision-notes/)
 - Relearn a mechanism: [nucleophilic substitution study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-3-1/)

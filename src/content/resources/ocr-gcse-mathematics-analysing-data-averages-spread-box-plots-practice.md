@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ An estimate of the mean distance is 18 km. Find x. **[5]**
 - Reading quartiles at the wrong heights of a cumulative frequency graph.
 - Forgetting the unit or the context in a final answer.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots/).
 - Open the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/).

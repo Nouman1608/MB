@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Substituting an x-value back into the quadratic can produce false pairs that do 
 **Where are marks usually lost on simultaneous equations?**
 Common losses include giving only x-values instead of points, forgetting that a tangent gives a repeated root, scaling only one side of an equation, missing brackets when substituting, and rounding surds when exact answers are asked for.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and-revision-notes/).
 - Re-read the [study guide](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and/) for any method that felt shaky.

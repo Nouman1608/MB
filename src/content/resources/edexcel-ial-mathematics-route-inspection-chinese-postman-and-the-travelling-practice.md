@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -172,7 +172,7 @@ Calculate a lower bound by deleting each vertex in turn and give the largest res
 **Is the length of a route inspection answer just the repeated edges?**
 No. The route length is the total weight of every edge in the network plus the smallest total of repeated paths. Quoting only the repeated length loses marks.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-revision-notes/)
 - Reread the [study guide](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling/)

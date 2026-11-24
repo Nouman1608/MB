@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers unit 11.01 (Basic probability and experiments) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), outcomes 11.01a to 11.01d. All of this content is for both tiers: the specification lists nothing in this unit as Higher tier only. Outcome 11.01c is split across the columns, so using relative frequency as an estimate is initial learning, and understanding that relative frequencies approach the theoretical probability as trials increase is listed for Foundation tier learners and carries on into Higher.
@@ -298,7 +298,7 @@ With 1000 trials, a gap of 0.061 is bigger than you would usually expect from ch
 - Writing the expected number as a probability, or rounding a non-whole expected number without saying it is an estimate.
 - Putting probabilities instead of frequencies on a frequency tree.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally-practice/), use the [revision notes](/resources/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally-revision-notes/) close to the exam, and tick off 11.01a to 11.01d on the [checklist](/checklists/ocr/gcse/mathematics/). The [free diagnostics](/diagnostics/) are a quick check on the whole course.
 

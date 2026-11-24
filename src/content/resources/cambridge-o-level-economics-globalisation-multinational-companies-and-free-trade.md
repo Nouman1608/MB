@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Cambridge O Level Economics 2281 syllabus for examination in 2026. It covers sections 6.2.1 to 6.2.3: what globalisation means, what multinational companies (MNCs) do and who gains or loses in host and home countries, and why free trade helps. The course is not tiered. Protection (6.2.4 to 6.2.6) has its own pages, so this guide only touches it where it helps you evaluate. All figures are invented and illustrative.
@@ -195,7 +195,7 @@ Average cost falls by 6, which is 50%. The firm can cut its price, sell more, or
 - Forgetting that free trade has losers. Name the domestic producers who face competition.
 - Mixing up free trade with protection. Free trade means barriers are removed.
 
-## Next steps
+## More on this topic
 
 Revise from the [revision notes](/resources/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade-revision-notes/), then attempt the [practice questions](/resources/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade-practice/). Tick off progress on the [checklist](/checklists/cambridge/o-level/economics/) and find gaps with the [diagnostics](/diagnostics/).
 

@@ -25,7 +25,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -237,7 +237,7 @@ A catalyst provides an alternative route with a lower activation energy, so a gr
 **Which syllabus points does this Cambridge 9701 kinetics guide cover?**
 It covers subtopics 8.1, Rate of reaction, 8.2, Effect of temperature and activation energy, and 8.3, Homogeneous and heterogeneous catalysts, from Topic 8 of Cambridge International AS & A Level Chemistry 9701.
 
-## Related resources
+## More resources on this topic
 
 - [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — the IGCSE/O Level qualitative treatment this resource builds on
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle](/resources/as-chemical-equilibria/) — why a catalyst affects rate but never equilibrium position

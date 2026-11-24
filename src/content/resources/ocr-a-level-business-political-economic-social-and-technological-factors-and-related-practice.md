@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ Work out the cost or revenue in pounds at each exchange rate, showing the conver
 **What is the difference between a direct and an indirect tax?**
 A direct tax is paid directly to the government by the person or business it is levied on, such as income tax or corporation tax. An indirect tax is added to the price of goods and services and collected by the seller, such as VAT.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-revision-notes/) and [study guide](/resources/ocr-a-level-business-political-economic-social-and-technological-factors-and-related/).
 - Tick off topics on the [OCR A Level Business checklist](/checklists/ocr/a-level/business/) and visit the [course hub](/boards/ocr/a-level/business/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -229,7 +229,7 @@ Name it, explain it, link it back: that pattern turns a one-mark comment into a 
   judgement.
 - **Apply / Use your knowledge to explain:** every point must refer to the scenario.
 
-## Related resources
+## More resources on this topic
 
 - [Memory revision notes](/resources/oxfordaqa-igcse-psychology-9218-memory-revision-notes/)
 - [Memory practice questions](/resources/oxfordaqa-igcse-psychology-9218-memory-practice/)

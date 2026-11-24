@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ Subtopic 17.3 of Cambridge International AS & A Level Physics 9702 (2025–2027)
 
 **Answers:** 1. A resistive force opposing the motion. 2. Mainly to internal energy of the surroundings (and the oscillator). 3. (20/40)² = 1/4. 4. Return to equilibrium in the shortest possible time without oscillating. 5. Heavy damping also has no oscillation, but the return to equilibrium is slower. 6. The period (zero crossings evenly spaced). 7. The driving frequency. 8. Driving frequency equals the natural frequency, giving maximum amplitude. 9. Energy lost per cycle to damping rises with amplitude until it equals the energy supplied per cycle by the driver. 10. Lower peak; broader peak; peak at a slightly lower frequency (also smaller amplitude at all frequencies). 11. 5.0 × 60 = 300 rev min⁻¹. 12. Useful: pushing a swing, radio tuning. Harmful: a bridge swaying in wind or under footsteps.
 
-## Related resources
+## More resources on this topic
 
 - [Oscillations revision notes](/resources/a-physics-oscillations-revision-notes/) — the whole of Topic 17
 - [Energy in SHM revision notes](/resources/cambridge-a-level-physics-9702-a-energy-in-simple-harmonic-motion-revision-notes/)

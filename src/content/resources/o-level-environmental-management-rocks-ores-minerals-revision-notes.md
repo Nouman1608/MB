@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: expanded thin page with a benefits and limitations table for the landscape management strategies (1.2.6) and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: expanded thin page with a benefits and limitations table for the landscape management strategies (1.2.6) and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-21
 featured: false
 ---
@@ -202,7 +202,7 @@ tree planting) and repurposing land (any two of landfill, lakes,
 recreation, nature reserves). 7. A natural resource that is used up at a
 faster rate than it is replaced. 8. 2 / 100 x 250 = 5 tonnes.
 
-## Related resources
+## More resources on this topic
 
 - [Rocks, Ores and Minerals study guide (2027-2029)](/resources/o-level-cambridge-environmental-management-rocks-ores-and-minerals/)
 - [Rocks, Ores and Minerals practice questions (2027-2029)](/resources/o-level-environmental-management-rocks-ores-minerals-practice/)

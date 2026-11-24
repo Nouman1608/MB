@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -202,7 +202,7 @@ Short questions reward precise definitions with a historical example. Extended a
 setting internal against external explanations, using at least one named sociologist from the
 specification list, and applying to a named society's colonial history or development path.
 
-## Next steps
+## More on this topic
 
 - [The Great Divergence revision notes](/resources/oxfordaqa-a-level-sociology-9690-the-great-divide-revision-notes/)
 - [The Great Divergence practice questions](/resources/oxfordaqa-a-level-sociology-9690-the-great-divide-practice/)

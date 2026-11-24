@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ It relies on forecasts of costs and sales [1]. For untested products these estim
 - Naming an economy or diseconomy of scale with no effect on average cost.
 - Deciding on break-even output alone, with no comment on demand or risk, or giving only the points in favour of a "justify" answer.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/igcse-business-0264-costs-scale-of-production-and-break-even-analysis/) or the [revision notes](/resources/igcse-business-0264-costs-scale-of-production-and-break-even-analysis-revision-notes/).
 - Use the [checklist](/checklists/cambridge/igcse/business/) and the [course page](/boards/cambridge/igcse/business/).

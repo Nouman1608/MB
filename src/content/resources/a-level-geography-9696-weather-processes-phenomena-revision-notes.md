@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -145,7 +145,7 @@ Forms include cloud, rain, hail, snow, dew and fog.
 
 **Answers:** 1. Temperature at which air becomes saturated and condensation starts. 2. Condensation releases latent heat, offsetting some of the cooling. 3. Heated ground warms air, which rises, cools, condenses and gives showers. 4. On the leeward side of high ground. 5. A rising parcel remains warmer than the surrounding air. 6. Surface cooling at night chills air to dew point, condensing vapour on surfaces. 7. 800 m. 8. When the ELR lies between SALR and DALR, so air is stable until saturated and then unstable. 9. Ice is carried up and down in strong updrafts in cumulonimbus, gaining layers until it falls. 10. Radiation fog: surface cooling on clear, calm nights. Advection fog: moist air moving over a colder surface. 11. Descending air warms at the faster DALR after losing moisture. 12. Cooler air can hold less vapour, so the same vapour is a higher percentage.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

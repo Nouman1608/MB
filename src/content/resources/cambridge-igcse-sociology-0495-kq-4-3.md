@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -135,6 +135,6 @@ Two more points of the same shape, such as legislation and secularisation, would
 - **Discuss** questions about changing roles reward contrast: what roles used to be, what they are now, and why.
 - **Evaluate** questions, such as "Evaluate the view that conjugal roles have become joint", need evidence for and against, and a conclusion that recognises differences by class, culture or ethnicity.
 
-## Next steps
+## More on this topic
 
 Condense this content with the [key question 4.3 revision notes](/resources/cambridge-igcse-sociology-0495-kq-4-3-revision-notes/) and practise with the [key question 4.3 practice questions](/resources/cambridge-igcse-sociology-0495-kq-4-3-practice/). For the other Family key questions, see [types of families (4.1)](/resources/cambridge-igcse-sociology-0495-kq-4-1/) and [the role of the family (4.2)](/resources/cambridge-igcse-sociology-0495-kq-4-2/).

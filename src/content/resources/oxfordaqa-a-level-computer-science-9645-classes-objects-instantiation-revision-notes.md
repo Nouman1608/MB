@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -192,7 +192,7 @@ Section 3.9 is assessed in Unit 3 (Advanced Programming), an on-screen exam avai
 11. `def __init__(self, tracking, weight_kg):`
 12. It assigns to a local variable, not an attribute of the object. It should be `self.colour = colour`.
 
-## Next steps
+## More on this topic
 
 - [Classes, objects and instantiation study guide](/resources/oxfordaqa-a-level-computer-science-9645-classes-objects-instantiation/)
 - [Classes, objects and instantiation practice questions](/resources/oxfordaqa-a-level-computer-science-9645-classes-objects-instantiation-practice/)

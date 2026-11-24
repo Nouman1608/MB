@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The content here is sub-topic 2.1, Demand, from Unit 2 Microeconomics. Most of 2.1 is SL and HL. One part is **HL only**: the assumptions behind the law of demand (the income and substitution effects, and diminishing marginal utility). Those parts are labelled "HL only" below, so SL students can skip them.
@@ -205,7 +205,7 @@ An inferior good is one people buy less of as their income rises, because they s
 **How do future price expectations affect demand?**
 If consumers expect the price to rise, they buy more now, so current demand shifts right. If they expect it to fall, they wait, so current demand shifts left.
 
-## Next steps
+## More on this topic
 
 Compress this into the [revision notes](/resources/ib-dp-economics-demand-revision-notes/), then try the [practice set](/resources/ib-dp-economics-demand-practice/). For the wider unit, see the [demand, supply and equilibrium guide](/resources/ib-dp-economics-demand-supply-equilibrium/) and the [exam preparation page](/resources/ib-dp-economics-exam-preparation/).
 

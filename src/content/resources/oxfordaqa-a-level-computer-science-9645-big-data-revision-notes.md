@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -158,7 +158,7 @@ Example: oval User Ravi with rectangle Country: India (dashed); solid edge "list
 11. Text that describes the nature of the relationship.
 12. 3 servers (1,200 / 500 = 2.4, rounded up).
 
-## Next steps
+## More on this topic
 
 - [Big data study guide](/resources/oxfordaqa-a-level-computer-science-9645-big-data/)
 - [Big data practice questions](/resources/oxfordaqa-a-level-computer-science-9645-big-data-practice/)

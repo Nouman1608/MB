@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -161,7 +161,7 @@ Only the change in the provision goes to the profit calculation each year, as fo
 - Prove the result by another route where possible. For unrealised profit, check that the adjusted gross profit equals the gross profit using costs.
 - **Explain** questions on unrealised profit need the consequence: without the adjustment, profit and inventory are overstated, which breaks the prudence concept.
 
-## Related resources
+## More resources on this topic
 
 [Financial statements of organisations revision notes](/resources/edexcel-ial-accounting-financial-statements-of-organisations-revision-notes/) |
 [Manufacturers practice questions](/resources/edexcel-a-level-accounting-yac11-manufacturers-practice/) |

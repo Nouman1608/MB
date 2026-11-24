@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Courier B: 23, 25, 26, 27, 27, 27, 28, 30, 31, 33
 - Giving an average without a reason that refers to the data.
 - Rounding part-way through, then losing accuracy in the final line.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [revision notes](/resources/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class-revision-notes/) and the [study guide](/resources/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class/).
 - Visit the [Cambridge O Level Statistics hub](/boards/cambridge/o-level/statistics/) and tick off the [checklist](/checklists/cambridge/o-level/statistics/).

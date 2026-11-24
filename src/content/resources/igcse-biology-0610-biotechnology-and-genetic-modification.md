@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers topic 21, Biotechnology and genetic modification, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It works through syllabus sections 21.1, 21.2 and 21.3 in order. Core statements are examined on Papers 1–4; Supplement statements are examined only on the Extended papers (Papers 2 and 4), and they are labelled "Extended only" below.
@@ -259,7 +259,7 @@ The syllabus names soya, maize and rice. "Discuss" means give both sides.
 - Using "DNA ligase" to cut DNA. Restriction enzymes cut; ligase joins.
 - Listing only advantages when a question says "discuss" GM crops.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [topic 21 revision notes](/resources/igcse-biology-0610-biotechnology-and-genetic-modification-revision-notes/), then work through the [topic 21 practice questions](/resources/igcse-biology-0610-biotechnology-and-genetic-modification-practice/). To find gaps across the whole course, try the free [0610 Core diagnostic](/practice/0610/diagnostic/core/) or the [0610 Extended diagnostic](/practice/0610/diagnostic/extended/).
 

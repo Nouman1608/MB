@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ These questions cover section 2.3 Training (point 2.3.1) of the Pearson Edexcel 
 - Writing about training in general when the question gives a specific business and its figures.
 - Ending a "justify" or "evaluate" answer without a decision.
 
-## Next steps
+## More on this topic
 
 - Re-read the [training study guide](/resources/edexcel-igcse-business-4bs1-training/) for any question you found hard.
 - Check the key terms in the [training revision notes](/resources/edexcel-igcse-business-4bs1-training-revision-notes/).

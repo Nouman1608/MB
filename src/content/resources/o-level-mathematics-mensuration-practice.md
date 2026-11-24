@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -165,7 +165,7 @@ Add the arc length to the two straight edges, which are both radii. Forgetting t
 **Why should you avoid rounding during a mensuration problem?**
 Rounding in the middle of a multi-step problem can change the final third significant figure. Keep full calculator values until the last step, then round as the Cambridge O Level Mathematics 4024 question asks.
 
-## Next steps
+## More on this topic
 
 - [Mensuration study guide](/resources/o-level-mathematics-mensuration/)
 - [Mensuration revision notes](/resources/o-level-mathematics-mensuration-revision-notes/)

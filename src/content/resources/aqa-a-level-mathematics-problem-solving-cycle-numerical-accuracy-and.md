@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers outcomes OT2.1 to OT2.7 (mathematical problem solving) and OT3.1 to OT3.5 (mathematical modelling) in the AQA A-level Mathematics (7357) specification, for first teaching 2017. The specification says these skills must be applied across all of content sections A to S, so every outcome here can turn up inside any topic. For the argument-and-proof theme, see the [overarching themes overview](/resources/aqa-a-level-mathematics-overarching-themes/). Use the [course hub](/boards/aqa/a-level/mathematics/) and the [printable checklist](/checklists/aqa/a-level/mathematics/) to track progress, and the [free diagnostics](/diagnostics/) to find weak spots. Companion pages: [revision notes](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-revision-notes/) and [practice questions](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-practice/).
@@ -287,7 +287,7 @@ A good estimate states each assumption, rounds sensibly, gives a range rather th
 **Are problem solving and modelling examined in AQA A-level Maths 7357?**
 Yes. They are overarching themes OT2 and OT3 of the AQA 7357 specification, applied across the content rather than taught as a separate topic.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-practice/), then condense with the [revision notes](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-revision-notes/). For the content these skills are applied to, see [numerical methods](/resources/aqa-a-level-mathematics-numerical-methods/) and [forces and Newton's laws](/resources/aqa-a-level-mathematics-forces-and-newtons-laws/).
 

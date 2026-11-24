@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -175,7 +175,7 @@ changed by migration, dual citizenship and global media. The same three-step pat
 religion, class, gender or disability. In evaluation questions on change, set postmodern ideas of choice against structural
 constraints and apply to a named society.
 
-## Next steps
+## More on this topic
 
 - [Social identities and social change revision notes](/resources/oxfordaqa-a-level-sociology-9690-social-identities-social-change-revision-notes/)
 - [Social identities and social change practice questions](/resources/oxfordaqa-a-level-sociology-9690-social-identities-social-change-practice/)

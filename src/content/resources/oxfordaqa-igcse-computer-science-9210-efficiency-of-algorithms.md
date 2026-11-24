@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -238,7 +238,7 @@ at each comparison, so a sorted list of 1,000 items needs at most 10 comparisons
 - **Count** questions: show the arithmetic, such as "98 tests against 1 test".
 - Keep the answer about **time** unless told otherwise.
 
-## Next steps
+## More on this topic
 
 For condensed recall and a short self-test, use the [Efficiency of algorithms revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-efficiency-of-algorithms-revision-notes/), and practise

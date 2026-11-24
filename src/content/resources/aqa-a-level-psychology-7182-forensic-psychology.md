@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -256,7 +256,7 @@ They are extraversion, neuroticism and psychoticism, measured by the Eysenck Per
 **What are the three stages of anger management?**
 Novaco's (1975) model has three stages: cognitive preparation, skill acquisition and application practice. Anger management is a cognitive behavioural therapy.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/aqa-a-level-psychology-7182-forensic-psychology-practice/) and condense with the [revision notes](/resources/aqa-a-level-psychology-7182-forensic-psychology-revision-notes/). Review biological and learning ideas in the [Approaches practice set](/resources/aqa-a-level-psychology-approaches-practice/).
 

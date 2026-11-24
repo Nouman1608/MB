@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -177,7 +177,7 @@ Total: 4
 - Using a calibration curve outside the range of its standards.
 - Reading an intercept from an axis that does not start at the value needed.
 
-## Next steps
+## More on this topic
 
 - [1.1.3 revision notes](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-1-3-revision-notes/)
 - [1.1.3 study guide](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-1-3/)

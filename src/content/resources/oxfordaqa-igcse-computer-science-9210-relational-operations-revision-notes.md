@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -188,7 +188,7 @@ when the program also records *which* reading was lowest.
 11. Values from 15 up to but not including 30 (15 ≤ t < 30).
 12. So that `=` always means "equal to" (comparison) and cannot be confused with storing a value.
 
-## Related resources
+## More resources on this topic
 
 - [Relational operations study guide](/resources/oxfordaqa-igcse-computer-science-9210-relational-operations/)
 - [Relational operations practice questions](/resources/oxfordaqa-igcse-computer-science-9210-relational-operations-practice/)

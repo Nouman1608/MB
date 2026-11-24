@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -162,7 +162,7 @@ In an exam, justify the choice: an electromagnet is chosen when the magnetism mu
 - **Draw:** at least four lines on each side of a bar magnet, symmetrical, with arrows; use a pencil and keep lines smooth.
 - **Suggest** a material or a type of magnet: link your choice to whether the magnetism must be temporary or permanent.
 
-## Next steps
+## More on this topic
 
 Condense this with the [magnetism revision notes](/resources/cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-revision-notes/) and practise with the [magnetism practice questions](/resources/cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-practice/). The next subtopic is [electrical quantities](/resources/cambridge-igcse-physics-0625-electrical-quantities/), and magnetic effects of currents are covered under [electromagnetic effects](/resources/cambridge-igcse-physics-0625-electromagnetic-effects/).
 

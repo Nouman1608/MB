@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -127,7 +127,7 @@ Give the conditions under which an argument holds, such as whether an infant ind
 **What are unit labour costs?**
 Unit labour cost is the labour cost per unit of output. It depends on both wages and productivity, so it should not be described simply as wages.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-economics-protectionism-and-the-case-for-free-trade-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-protectionism-and-the-case-for-free-trade/).
 - Browse the [OCR Economics hub](/boards/ocr/a-level/economics/) and tick off topics on the [checklist](/checklists/ocr/a-level/economics/).

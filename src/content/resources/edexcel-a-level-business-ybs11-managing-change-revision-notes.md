@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -147,6 +147,6 @@ The expected-loss calculation is an illustration. The specification asks you to 
 - Contingency planning is a form of managing change in advance. A business that has tested its continuity and succession plans copes with sudden change far better.
 - In extended answers, connect the two parts of the section: a business that manages planned change well also builds the flexibility to cope with unplanned disruption.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Managing change study guide](/resources/edexcel-a-level-business-ybs11-managing-change/), then practise with the [Managing change practice questions](/resources/edexcel-a-level-business-ybs11-managing-change-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -153,6 +153,6 @@ Why it scores: it covers all three named strategies, gives two developed limitat
 
 **State** the cause in the syllabus words. For **describe impacts**, use the three-step chain. In **discuss** questions, cover each strategy, give at least one limitation, and use the comparison with climate change if asked whether ozone strategies were more successful: ozone had cheap substitutes and few producers, whereas fossil fuels underpin whole economies.
 
-## Next steps
+## More on this topic
 
 Condense this with the [ozone depletion revision notes](/resources/cambridge-igcse-environmental-management-0680-ozone-depletion-revision-notes/) and practise with the [ozone depletion practice questions](/resources/cambridge-igcse-environmental-management-0680-ozone-depletion-practice/). The location of the ozone layer is covered in the [atmosphere study guide](/resources/cambridge-igcse-environmental-management-0680-the-atmosphere/).

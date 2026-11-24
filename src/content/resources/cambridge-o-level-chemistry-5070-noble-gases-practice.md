@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,6 +180,6 @@ Evaluate this prediction. **[2]**
 - Doubling the relative atomic mass of a noble gas as if it were diatomic.
 - Carrying the Group I reactivity trend into Group VIII.
 
-## Next steps
+## More on this topic
 
 Check any slips in the [Noble gases study guide](/resources/cambridge-o-level-chemistry-5070-noble-gases/), then start Topic 9 with the [Properties of metals practice questions](/resources/cambridge-o-level-chemistry-5070-properties-of-metals-practice/).

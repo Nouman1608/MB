@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -226,7 +226,7 @@ Remedies:       Rescission – acted within three weeks, so no lapse of time;
 - **Discuss** questions: evaluate whether the remedies are fair, for example whether Royscot's fraud
   measure for negligence goes too far.
 
-## Related resources
+## More resources on this topic
 
 [Vitiating factors revision notes](/resources/aqa-a-level-law-7162-vitiating-factors-revision-notes/) |
 [Vitiating factors practice questions](/resources/aqa-a-level-law-7162-vitiating-factors-practice/) |

@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Add the reversed vector: a − b = a + (−b). A change in velocity is the final
 **How do you use the cosine rule for two forces at an angle?**
 Place the forces tip to tail and use the interior angle of the triangle, which is 180° minus the angle between their lines of action. Using the wrong angle is a common error.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors-revision-notes/)
 - [Study guide](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors/)

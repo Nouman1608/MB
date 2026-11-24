@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -236,7 +236,7 @@ Applying n+1 to the hydrogens in the group itself instead of those on adjacent c
 **How should integration ratios be used in NMR questions?**
 Convert integration heights to the simplest whole-number ratio, then scale to the hydrogen count in the molecular formula. Show the ratio and the check against the formula.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-revision-notes/)
 - [Study guide](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy/)

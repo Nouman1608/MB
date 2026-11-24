@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -195,7 +195,7 @@ Formulas like these are given in the question when they are needed. Your job is 
 **Why should I put negative values in brackets?**
 So that a power or a subtraction applies to the whole number, including its sign, as in (−4)² = 16.
 
-## Next steps
+## More on this topic
 
 - Re-read the examples in the [introduction to algebra study guide](/resources/cambridge-igcse-mathematics-0580-introduction-to-algebra/).
 - More Topic 2 questions: the [Algebra and graphs practice questions](/resources/igcse-mathematics-algebra-and-graphs-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Opening credit balances on the credit side [1]; opening debit balances on the de
 - Not showing the closing balance as the balancing figure with both sides totalled.
 - Including cash sales or cash purchases.
 
-## Next steps
+## More on this topic
 
 - Review the [control accounts revision notes](/resources/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts-revision-notes/)
 - Reread the [control accounts study guide](/resources/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts/)

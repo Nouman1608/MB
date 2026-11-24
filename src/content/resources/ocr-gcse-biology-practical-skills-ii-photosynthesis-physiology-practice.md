@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ These questions cover Practical Activity Groups 5 to 8 of Topic B7 (Practical sk
 - Giving vague ethical points such as "be careful".
 - Treating a clear zone as proof that every bacterium died.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology/).
 - Visit the [OCR GCSE Biology course page](/boards/ocr/gcse/biology/) and tick off the [checklist](/checklists/ocr/gcse/biology/).

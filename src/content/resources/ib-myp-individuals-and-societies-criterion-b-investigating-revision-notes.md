@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,7 +168,7 @@ Using both is usually the best way to show varied information, but choose the so
 **How long should the evaluation be?**
 Long enough to cover the process and the results, with specific examples. A paragraph for each is often enough.
 
-## Next steps
+## More on this topic
 
 Try the [Criterion B practice questions](/resources/ib-myp-individuals-and-societies-criterion-b-investigating-practice/). Then read the [Criterion C study guide](/resources/ib-myp-individuals-and-societies-criterion-c-communicating/) for how to present your findings.
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -180,7 +180,7 @@ Point 5   Impact via Strasbourg: Sunday Times, Malone, Dudgeon – legislative
 - **Discuss** questions: evaluate the pre-1998 system using the strengths and weaknesses above, and
   compare it with protection under the Human Rights Act 1998.
 
-## Related resources
+## More resources on this topic
 
 [Human Rights before the HRA 1998 revision notes](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998-revision-notes/) |
 [Human Rights before the HRA 1998 practice questions](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998-practice/) |

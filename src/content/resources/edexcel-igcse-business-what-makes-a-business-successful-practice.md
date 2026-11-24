@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ For Upwood: higher margins on the same revenue show it is the more profitable bu
 - Writing a list of failure reasons without applying them to the business in the stem.
 - Finishing an evaluate or justify question without a clear judgement and reason.
 
-## Next steps
+## More on this topic
 
 Review the [revision notes](/resources/edexcel-igcse-business-what-makes-a-business-successful-revision-notes/) and [study guide](/resources/edexcel-igcse-business-what-makes-a-business-successful/) for anything you missed. Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick the [checklist](/checklists/edexcel/igcse/business/), try the [free diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 

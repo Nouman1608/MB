@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ Forgetting the fixed element. A salary is paid whatever the sales, so it must be
 **How do you answer a "recommend" or "evaluate" question on motivation?**
 Use the figures and facts in the stem, such as pay compared with the local average or the cost of staff leaving, and give a risk or cost before a reasoned conclusion. A general statement that a method "motivates" earns little.
 
-## Next steps
+## More on this topic
 
 - Review the [study guide](/resources/o-level-business-motivating-employees/) on any question you missed.
 - Recheck the formulas in the [revision notes](/resources/o-level-business-motivating-employees-revision-notes/).

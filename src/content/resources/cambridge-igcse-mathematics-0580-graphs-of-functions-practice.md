@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -186,7 +186,7 @@ y   ..    -2.5   ..   -1   ..   5
 - Missing one of three solutions of a cubic.
 - Treating 0.9 as a 90% decrease.
 
-## Next steps
+## More on this topic
 
 - [Graphs of functions study guide](/resources/cambridge-igcse-mathematics-0580-graphs-of-functions/)
 - [Graphs of functions revision notes](/resources/cambridge-igcse-mathematics-0580-graphs-of-functions-revision-notes/)

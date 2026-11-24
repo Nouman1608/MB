@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ These questions cover section 4.7 (4.7.1 to 4.7.6) of the Cambridge O Level Econ
 - Recommending a policy that does not match the type of unemployment.
 - Ending an evaluation without a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-employment-and-unemployment-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-employment-and-unemployment/).
 - Visit the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and tick off topics on the [printable checklist](/checklists/cambridge/o-level/economics/).

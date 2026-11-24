@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the framework chosen here (sources, proof, fault and the problem method) matches how centres teach it."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the framework chosen here (sources, proof, fault and the problem method) matches how centres teach it. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,6 +160,6 @@ Conclusion: SpeedyParcels is likely to be vicariously liable; damages
 
 Short questions on this row may ask you to explain the standard of proof, compare fault in two torts, or explain the purpose of a remedy: define, give an authority, illustrate. In problem questions the framework above is the skeleton of the answer; AQA rewards a conclusion on liability that accounts for defences and remedies.
 
-## Related resources
+## More resources on this topic
 
 [Rules of tort law revision notes](/resources/aqa-a-level-law-7162-the-rules-of-tort-law-revision-notes/) | [Rules of tort law practice questions](/resources/aqa-a-level-law-7162-the-rules-of-tort-law-practice/) | [Tort cases, defences and remedies study guide](/resources/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide/)

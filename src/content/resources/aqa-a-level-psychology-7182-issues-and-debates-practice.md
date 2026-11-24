@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -165,7 +165,7 @@ Yes. The specification expects you to illustrate issues and debates answers with
 **What are common mistakes in issues and debates questions?**
 Students often define a term without applying it to the person or data in the question, say twin studies prove a genetic cause, and end extended answers without a judgement even though Paper 3 gives evaluation the largest weighting.
 
-## Next steps
+## More on this topic
 
 - Check your weaker areas with the [free diagnostics](/diagnostics/).
 - Revisit the examples you can use as evidence in the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/) and the [introductory topics revision notes](/resources/aqa-a-level-psychology-introductory-revision-notes/).

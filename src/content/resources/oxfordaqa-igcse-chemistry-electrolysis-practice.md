@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ Links: [electrolysis study guide](/resources/oxfordaqa-igcse-chemistry-electroly
 - For aluminium, calling cryolite a catalyst, or saying the anodes "dissolve" rather than react with oxygen.
 - Leaving out the unit on a rate, or losing track of tonnes and moles in reacting-mass work.
 
-## Next steps
+## More on this topic
 
 - Recap fast with the [electrolysis revision notes](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/).
 - Re-learn anything you missed in the [electrolysis study guide](/resources/oxfordaqa-igcse-chemistry-electrolysis/).

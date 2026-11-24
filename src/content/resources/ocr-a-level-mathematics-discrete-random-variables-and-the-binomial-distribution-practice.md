@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -171,7 +171,7 @@ It is not suitable when trials are not independent or p changes, such as drawing
 **Is npq the standard deviation of a binomial distribution?**
 No. npq is the variance; take its square root for the standard deviation. In OCR A Level Mathematics A (H240), the mean np and variance npq are A Level only.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution-revision-notes/) or relearn from the [study guide](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution/).
 - Tick off 2.04a to 2.04d on the [checklist](/checklists/ocr/a-level/mathematics/) and see the [course hub](/boards/ocr/a-level/mathematics/).

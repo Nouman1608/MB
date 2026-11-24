@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -235,7 +235,7 @@ Notice the two ideas are used one after the other: first perpendicular, then par
 - A diagram sketch helps you check the sign: a line sloping up to the right is perpendicular to a line sloping down to the right.
 - Always substitute your point back in to check.
 
-## Next steps
+## More on this topic
 
 Work through the [perpendicular lines practice questions](/resources/cambridge-o-level-mathematics-4024-perpendicular-lines-practice/) and recap with the [coordinate geometry revision notes](/resources/o-level-mathematics-coordinate-geometry-revision-notes/).
 

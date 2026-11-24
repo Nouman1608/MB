@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -212,7 +212,7 @@ temperature and pressure on the yield, and why a compromise is used (Higher tier
 - The Haber process in **4.10.4** is the main industrial application of these ideas.
 - Rate ideas from **4.6.1** explain why temperature is a compromise.
 
-## Next steps
+## More on this topic
 
 - [Reversible reactions and dynamic equilibrium revision notes](/resources/aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium-revision-notes/)
 - [Reversible reactions and dynamic equilibrium practice questions](/resources/aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium-practice/)

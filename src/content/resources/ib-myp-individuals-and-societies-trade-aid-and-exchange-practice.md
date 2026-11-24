@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -166,7 +166,7 @@ Specialisation follows comparative advantage, not absolute advantage. Work out t
 **How do you evaluate a source in a trade or aid question?**
 Link each value and limitation to the source's origin or purpose and to the research topic. A general comment such as "it might be biased" earns little; explain why the author's purpose might make them stress some effects and omit others.
 
-## Next steps
+## More on this topic
 
 - Review the [trade, aid and exchange revision notes](/resources/ib-myp-individuals-and-societies-trade-aid-and-exchange-revision-notes/).
 - Reread the [trade, aid and exchange study guide](/resources/ib-myp-individuals-and-societies-trade-aid-and-exchange/).

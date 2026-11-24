@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -140,7 +140,7 @@ To what extent has Riverton become a more sustainable city? Use both sources and
 - Using only one source in an extended answer, or ignoring who wrote each source.
 - Judging sustainability on environmental points alone.
 
-## Next steps
+## More on this topic
 
 - [Settlement and urban morphology revision notes](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology-revision-notes/)
 - [Settlement and urban morphology study guide](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology/)

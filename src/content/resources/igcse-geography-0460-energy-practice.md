@@ -22,6 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -161,7 +162,7 @@ Iceland lies on the Mid-Atlantic Ridge, a constructive plate boundary, so hot ro
 - Forgetting that fuelwood and levels of development are named in the syllabus.
 - Rounding too early in multi-step calculations.
 
-## Next steps
+## More on this topic
 
 - Check gaps in the [energy study guide](/resources/igcse-geography-0460-energy/) and the [energy revision notes](/resources/igcse-geography-0460-energy-revision-notes/).
 - Review plate boundaries in [earthquakes and volcanoes](/resources/igcse-geography-earthquakes-and-volcanoes/) and factory location in [industry](/resources/igcse-geography-0460-industry/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -175,7 +175,7 @@ Shortcut check: a one-digit block over 9, a two-digit block over 99, a three-dig
 - Treating 135% as 0.135 or 0.4% as 0.04.
 - (Extended) Mismatched tails when subtracting, leaving a decimal in the equation.
 
-## Next steps
+## More on this topic
 
 - Worked examples: [fractions, decimals and percentages study guide](/resources/cambridge-igcse-mathematics-0580-fractions-decimals-and-percentages/).
 - Practice: [fractions, decimals and percentages practice questions](/resources/cambridge-igcse-mathematics-0580-fractions-decimals-and-percentages-practice/).

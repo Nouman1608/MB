@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -230,7 +230,7 @@ features of A, then features of C.
 - Quoting whole lines instead of the two or three words that do the work.
 - Writing a comparative plan as two separate blocks with a "both" sentence at the end.
 
-## Next steps
+## More on this topic
 
 - Recall the terms with the [revision notes](/resources/ib-dp-language-a-language-literature-analysing-literary-forms-revision-notes/).
 - Reread the worked examples in the [study guide](/resources/ib-dp-language-a-language-literature-analysing-literary-forms/).

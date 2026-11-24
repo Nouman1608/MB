@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -142,6 +142,6 @@ Further reasons: tourism income, minerals, family and cultural ties to land, and
 
 **Answers:** 1. The probability that a hazard causes harm. 2. For example magnitude, frequency, speed of onset, predictability. 3. Frequency and magnitude are inversely related. 4. Volcanoes show measurable precursors; earthquakes give little or no advance sign. 5. Forecasting gives long-term probability; prediction would state when, where and how big. 6. For example fertile soils and geothermal energy. 7. Exposure is being in the hazard's path; vulnerability is how susceptible those exposed are to harm. 8. For example seismometers, tiltmeters or GPS, and gas sensors. 9. It detects fast P waves and sends an alert before slower, more damaging waves arrive. 10. A fault section that has not moved for a long time has stored strain and is more likely to rupture. 11. Lahars buried the town, and warnings were not acted on in time. 12. Communicating uncertain forecasts clearly is difficult and essential.
 
-## Related resources
+## More resources on this topic
 
 - [Option D: Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/)

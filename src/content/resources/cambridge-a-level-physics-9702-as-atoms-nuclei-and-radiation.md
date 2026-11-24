@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ charge = 92e = 92 × 1.60 × 10⁻¹⁹ = 1.47 × 10⁻¹⁷ C
 - **Explain** (continuous β spectrum): "shared between three bodies" and "the antineutrino or neutrino takes a variable share".
 - **Calculate**: multiply by 1.66 × 10⁻²⁷ kg to convert u to kg.
 
-## Related resources
+## More resources on this topic
 
 - [Particle physics study guide](/resources/as-physics-particle-physics/) — the whole of Topic 11
 - [Atoms, nuclei and radiation revision notes](/resources/cambridge-a-level-physics-9702-as-atoms-nuclei-and-radiation-revision-notes/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -192,7 +192,7 @@ No. Examples only show a statement is true for particular numbers; a proof needs
 **When can you cancel in an algebraic fraction?**
 Only cancel whole factors that multiply the entire numerator and denominator. Factorise both first; cancelling individual terms, such as the x² terms in a quadratic over a quadratic, is wrong.
 
-## Next steps
+## More on this topic
 
 - Refresh the key results: [revision notes](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-revision-notes/)
 - Re-learn anything you missed: [study guide](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation/)

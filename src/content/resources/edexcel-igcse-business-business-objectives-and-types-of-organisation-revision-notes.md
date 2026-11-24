@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026, Topic 1, sections 1.1 and 1.2. Full explanations and worked examples are in the [study guide](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation/); questions to try are in the [practice set](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-practice/). Course links: the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). Paper 1 uses a small business and Paper 2 a large one, and both can draw on all of this content.
@@ -219,7 +219,7 @@ For "outline", give two linked points. For "explain", give a statement of fact w
 - Writing a one-sided answer to "evaluate" or "justify" with no judgement at the end.
 - Describing a franchise from the franchisor's side only, when the question asks about the franchisee.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-practice/), re-read the [study guide](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation/) where you slip, and check the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/).
 

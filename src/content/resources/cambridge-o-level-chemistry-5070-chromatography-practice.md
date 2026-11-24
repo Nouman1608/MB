@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ D: 6.5 cm
 - Describing the use of a locating agent without saying it makes spots visible.
 - Treating a spot on the baseline as evidence of purity.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [chromatography study guide](/resources/cambridge-o-level-chemistry-5070-chromatography/).
 - Move on to the [separation and purification practice questions](/resources/cambridge-o-level-chemistry-5070-separation-and-purification-practice/).

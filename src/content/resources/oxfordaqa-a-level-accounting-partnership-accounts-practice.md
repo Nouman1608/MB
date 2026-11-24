@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ Judgement: Sallow has a strong case, as the terms leave most risk with the large
 - Giving an incoming partner a share of revaluation profit or goodwill created.
 - Using one ratio for the whole year when a partner joins part-way through.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/oxfordaqa-a-level-accounting-partnership-accounts-revision-notes/)
 - [Study guide for this topic](/resources/oxfordaqa-a-level-accounting-partnership-accounts/)

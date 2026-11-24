@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ This set tests sections 5.1 and 5.2 of the Cambridge IGCSE Economics 0455 syllab
 - Writing "it depends" instead of a reasoned judgement with a stated condition.
 - Not showing the line or formula before substituting numbers.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-igcse-economics-living-standards-and-poverty-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-living-standards-and-poverty/).
 - Go to the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/) and tick off topics on the [printable checklist](/checklists/cambridge/igcse/economics/).

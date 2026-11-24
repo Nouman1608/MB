@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Describe a plane polarised wave as one whose oscillations are confined to a sing
 **How do you explain why light bends towards the normal?**
 Say that light slows down because the second medium has a higher refractive index, so the ray bends towards the normal. Mentioning slowing down without the higher refractive index is incomplete.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal/).
 - Open the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [checklist](/checklists/ocr/a-level/physics/).

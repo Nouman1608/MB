@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -161,7 +161,7 @@ Study first with the [study guide](/resources/ib-myp-design-sustainable-and-ethi
 - Digital designs that collect personal data without saying why it is needed.
 - Impact evaluations with no data and no limitation.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-myp-design-sustainable-and-ethical-design-revision-notes/)
 - [Study guide](/resources/ib-myp-design-sustainable-and-ethical-design/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Multiply the numerator and the denominator by the conjugate a − √b, then use
 **Where are marks usually lost on indices and surds questions?**
 Common losses include adding indices when the bases differ, treating a negative index as a negative number, dropping the middle term when expanding a surd bracket, rounding to a decimal when an exact answer is needed, and not converting back to x after a substitution.
 
-## Next steps
+## More on this topic
 
 - Recap the methods with the [revision notes](/resources/aqa-a-level-mathematics-rational-indices-and-surds-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/aqa-a-level-mathematics-rational-indices-and-surds/).

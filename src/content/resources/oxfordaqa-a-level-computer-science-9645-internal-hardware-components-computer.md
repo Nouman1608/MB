@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -150,7 +150,7 @@ Harvard designs are common in small embedded devices. Most general-purpose compu
 - Confusing main memory with secondary storage. Main memory holds what is running now and is lost when power is off.
 - Describing the stored program concept as "programs are stored on the hard disk". The concept is about instructions held in main memory.
 
-## Next steps
+## More on this topic
 
 - [Internal hardware components revision notes](/resources/oxfordaqa-a-level-computer-science-9645-internal-hardware-components-computer-revision-notes/)
 - [Internal hardware components practice questions](/resources/oxfordaqa-a-level-computer-science-9645-internal-hardware-components-computer-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,6 +162,6 @@ No. Ligand substitution is not redox. Cobalt is +2 in both [Co(H₂O)₆]²⁺ a
 **Why is the chelate effect described as entropy-driven?**
 Because ΔH is close to zero while the number of particles rises, so ΔS is positive and the −TΔS term makes ΔG negative.
 
-## Next steps
+## More on this topic
 
 Condense this with the [substitution reactions revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-2-revision-notes/), then try the [substitution reactions practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-2-practice/). The shapes of the complexes formed here are covered in [shapes of complex ions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-3/), and their colours in [formation of coloured ions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-4/).

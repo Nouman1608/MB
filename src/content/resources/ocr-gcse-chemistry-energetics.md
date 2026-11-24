@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Sub-topic **C3.2 Energetics** sits in Topic C3 Chemical reactions of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026), and this guide teaches all of it: learning outcomes C3.2a to C3.2d, the mathematical learning outcomes CM3.2i and CM3.2ii, and the practical suggestion linked to PAG C8. Outcomes C3.2a, C3.2b and C3.2c are assessed at both tiers. Outcome C3.2d, calculating energy changes from bond energies, is **Higher Tier only**. In the specification's assessment overview, Topic C3 content belongs to Paper 1 for Foundation Tier candidates and Paper 3 for Higher Tier candidates.
@@ -279,7 +279,7 @@ Reading a profile (M4a) means taking levels off the energy axis and subtracting 
 - Writing "products − reactants" for bond energies. For bond energies it is **broken − made**.
 - Dropping the sign on the final answer.
 
-## Next steps
+## More on this topic
 
 Use the [Energetics revision notes](/resources/ocr-gcse-chemistry-energetics-revision-notes/) for a summary and self-test, then the [Energetics practice questions](/resources/ocr-gcse-chemistry-energetics-practice/). Relative formula mass, needed when energy changes are compared per gram, is in the [purity and separating mixtures guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/). Activation energy returns in the [controlling reactions guide](/resources/ocr-gcse-chemistry-controlling-reactions/), which covers collision theory and catalysts.
 

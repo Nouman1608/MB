@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -190,7 +190,7 @@ Without feedback, the full gain is available only up to about 10 Hz. Lowering th
 - **Explain** a choice of configuration: compare input resistance and phase (inverting draws current and inverts; non-inverting has very high input resistance and keeps phase).
 - **Sketch** questions on output waveforms: show inversion, the correct peak value and flat clipped tops if saturation occurs.
 
-## Next steps
+## More on this topic
 
 Condense the circuits with the [operational amplifier revision notes](/resources/aqa-a-level-physics-7408-operational-amplifier-revision-notes/) and test yourself with the [operational amplifier practice questions](/resources/aqa-a-level-physics-7408-operational-amplifier-practice/). Digital-to-analogue conversion links to [analogue and digital signals](/resources/aqa-a-level-physics-7408-analogue-and-digital-signals/).
 

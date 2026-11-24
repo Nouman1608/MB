@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -209,7 +209,7 @@ Use R = 8.31 J mol⁻¹ K⁻¹ wherever needed. The Arrhenius equation is k = Ae
 - Missing the negative sign of the gradient, or quoting J mol⁻¹ as kJ mol⁻¹.
 - Proposing mechanism steps that do not add up to the overall equation.
 
-## Next steps
+## More on this topic
 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)

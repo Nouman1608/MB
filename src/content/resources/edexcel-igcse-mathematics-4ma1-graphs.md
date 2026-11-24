@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -187,7 +187,7 @@ Parallel lines have equal gradients. Perpendicular gradients multiply to −1, s
 - **"Find the equation of the line"**: give it in the form asked (y = mx + c or ax + by = c).
 - **"Describe the transformation"**: name it (translation or stretch) and give the vector, direction or scale factor.
 
-## Next steps
+## More on this topic
 
 Use the [graphs revision notes](/resources/edexcel-igcse-mathematics-4ma1-graphs-revision-notes/) for recall, then the [graphs practice questions](/resources/edexcel-igcse-mathematics-4ma1-graphs-practice/). Higher students can find exact gradients of curves with the [calculus study guide](/resources/edexcel-igcse-mathematics-4ma1-calculus/).
 

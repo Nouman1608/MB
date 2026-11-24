@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ D: Average revenue is greater than average cost.
 - Choosing an option on revenue alone.
 - Rounding average cost too early.
 
-## Next steps
+## More on this topic
 
 - Recheck weak areas in the [QS6 study guide](/resources/oxfordaqa-a-level-economics-9640-qs6-quantitative-skills/).
 - Use the [QS6 revision notes](/resources/oxfordaqa-a-level-economics-9640-qs6-quantitative-skills-revision-notes/) for a final recap.

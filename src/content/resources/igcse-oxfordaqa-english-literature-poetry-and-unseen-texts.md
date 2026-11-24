@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Poetry and Unseen Texts**, examined on Paper 2a, in
@@ -204,7 +204,7 @@ It also reflects the qualification's broader assessment design, which
 balances studied and unstudied material so that a candidate's grade
 genuinely tracks reading and analytical skill rather than recall alone.
 
-## Related resources
+## More resources on this topic
 
 - [Poetry and Unseen Texts revision notes](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes/)
 - [Poetry and Unseen Texts practice questions](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-practice/)

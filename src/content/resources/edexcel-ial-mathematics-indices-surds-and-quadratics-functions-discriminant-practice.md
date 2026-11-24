@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ Equal roots need b² − 4ac = 0, and two distinct real roots need b² − 4ac >
 **Are exact answers required in Edexcel IAL P1 surd questions?**
 When a question asks for an exact answer or a form such as a + b√c, a decimal approximation will not earn the final mark. Keep surds and fractions in your working and final answer.
 
-## Next steps
+## More on this topic
 
 - Recap the methods with the [revision notes](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant/).

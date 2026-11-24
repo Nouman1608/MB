@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.11, Standard costing and variance analysis, of the AQA A-level
@@ -293,7 +293,7 @@ Management by exception means managers set targets, measure performance against 
 **What are the disadvantages of standard costing?**
 Standards take time and money to set and update, can become out of date, suit repetitive production rather than one-off jobs, and can demotivate staff if too tight. A buyer chasing a favourable price variance may also cause adverse usage variances elsewhere.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes/)
 - [Practice questions](/resources/aqa-a-level-accounting-standard-costing-and-variance-analysis-practice/)

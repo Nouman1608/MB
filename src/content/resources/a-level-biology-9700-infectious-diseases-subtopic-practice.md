@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Course links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 - Linking cholera to the air or TB to water.
 - Saying insecticide or antibiotic "causes" the resistance mutation.
 
-## Next steps
+## More on this topic
 
 - Recap the tables: [infectious diseases revision notes](/resources/a-level-biology-9700-infectious-diseases-revision-notes/)
 - Relearn a weak outcome: [infectious diseases study guide](/resources/a-level-biology-9700-infectious-diseases/)

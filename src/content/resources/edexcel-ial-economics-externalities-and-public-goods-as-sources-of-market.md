@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It covers section 1.3.5 Market failure, items 1 to 3: sources of market failure, positive and negative externalities, and public goods with the free-rider problem. These sit in Unit 1: Markets in action. In the specification, Units 1 and 2 are the International AS (IAS) units and Units 3 and 4 add the extra International A2 (IA2) content. Unit 1 is therefore IAS and also counts towards the full IAL.
@@ -213,7 +213,7 @@ No. State provision does not make a good public. A public good must be non-rival
 **Which Edexcel International A Level Economics items cover externalities and public goods?**
 Items 1 to 3 of 1.3.5 in Unit 1 of the Pearson Edexcel International A Level Economics specification cover socially optimal output, externalities with marginal diagrams, and public goods and free riders.
 
-## Next steps
+## More on this topic
 
 Work through the [practice set](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-practice/), then use the [revision notes](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-revision-notes/) to fix the definitions. The existing [Unit 1 revision notes](/resources/a-economics-markets-in-action-revision-notes/) and [Unit 1 practice](/resources/a-economics-markets-in-action-practice/) cover the unit as a whole.
 

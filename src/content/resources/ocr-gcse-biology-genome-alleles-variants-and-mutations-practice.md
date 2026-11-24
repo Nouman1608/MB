@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -143,7 +143,7 @@ These questions cover statements B5.1a to B5.1e of OCR GCSE (9-1) Gateway Scienc
 - Skipping the chain from mutation to amino acids to shape to active site.
 - Saying non-coding variants change the protein, when they change how much or when it is made.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-biology-genome-alleles-variants-and-mutations-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-genome-alleles-variants-and-mutations/).
 - See the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and tick off the [checklist](/checklists/ocr/gcse/biology/).

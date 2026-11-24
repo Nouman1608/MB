@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ gap between marginal social cost and marginal social benefit at the market outpu
 No. It means intervention must be judged on whether its likely gains exceed its costs and risks in the specific
 market.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-a-level-economics-7136-market-mechanism-market-failure-and-government-intervention/) for any question you found difficult.
 - Move on to the [measurement of macroeconomic performance practice questions](/resources/aqa-a-level-economics-7136-the-measurement-of-macroeconomic-performance-practice/).

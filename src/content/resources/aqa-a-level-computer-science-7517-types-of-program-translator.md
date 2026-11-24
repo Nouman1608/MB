@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -142,7 +142,7 @@ A company writes a game. Which translator should it use?
 - **Situations:** give a reason tied to the situation, for example "release version, run many times, so compile".
 - **Bytecode:** give the reason (portability), then how it is used (run by a virtual machine on each computer).
 
-## Related resources
+## More resources on this topic
 
 - [Types of program translator revision notes](/resources/aqa-a-level-computer-science-7517-types-of-program-translator-revision-notes/)
 - [Types of program translator practice questions](/resources/aqa-a-level-computer-science-7517-types-of-program-translator-practice/)

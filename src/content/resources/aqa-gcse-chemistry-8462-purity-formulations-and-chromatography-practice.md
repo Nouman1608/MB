@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,7 +144,7 @@ and the [chemical analysis revision notes](/resources/aqa-gcse-chemistry-8462-ch
 - Describing a formulation as "pure" because it is a made product.
 - Calling a single spot proof of purity without a second solvent.
 
-## Next steps
+## More on this topic
 
 - Recap with the [chemical analysis revision notes](/resources/aqa-gcse-chemistry-8462-chemical-analysis-revision-notes/).
 - Reread any weak area in the [study guide](/resources/aqa-gcse-chemistry-8462-purity-formulations-and-chromatography/).

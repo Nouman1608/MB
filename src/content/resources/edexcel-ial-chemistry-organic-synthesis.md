@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Topic 20: Organic Synthesis, outcomes 20.1 to 20.5, as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. It is International A2 (IA2) content in Unit 5 (Transition Metals and Organic Nitrogen Chemistry), and it includes Core Practical 16, the preparation of aspirin. The specification says this section draws on the organic chemistry from the whole course, so expect familiar reactions in new combinations.
@@ -230,7 +230,7 @@ Losses come from product left dissolved in the recrystallisation solvent, transf
 - Giving a control measure that does not match the hazard.
 - Stating a yield above 100% without saying the product is still wet or impure.
 
-## Next steps
+## More on this topic
 
 Read the [revision notes](/resources/edexcel-ial-chemistry-organic-synthesis-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-organic-synthesis-practice/). Tick off 20.1 to 20.5 on the [checklist](/checklists/edexcel/a-level/chemistry/) and take a free [diagnostic](/diagnostics/).
 

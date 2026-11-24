@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -132,7 +132,7 @@ Judgement: very useful for both, but not enough on its own [1]. (Maximum 8 marks
 - Mixing up gross, operating and net margins.
 - Analysing without a comparison or a reason.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-income-statements/) for any gaps.
 - Try the [statement of financial position practice questions](/resources/ocr-a-level-business-h431-statement-of-financial-position-practice/).

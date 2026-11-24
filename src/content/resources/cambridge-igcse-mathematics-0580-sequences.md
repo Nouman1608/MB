@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ Tₙ means the nth term of sequence T. If Tₙ = 5n − 2, then T₁ = 3 and T�
 - **"Explain why"** a number is not in a sequence: solve nth term = number and comment on the value of n.
 - Always check your nth term against two of the given terms.
 
-## Next steps
+## More on this topic
 
 - [Sequences revision notes](/resources/cambridge-igcse-mathematics-0580-sequences-revision-notes/) for the methods in brief and a self-test.
 - [Sequences practice questions](/resources/cambridge-igcse-mathematics-0580-sequences-practice/) with marked answers.

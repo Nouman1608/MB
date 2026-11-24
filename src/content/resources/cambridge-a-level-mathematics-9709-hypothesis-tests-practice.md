@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ Related: the [6.5 Hypothesis tests study guide](/resources/cambridge-a-level-mat
 - Quoting 0.05 as the Type I probability for a discrete test.
 - Ending with "reject H₀" and no sentence in context.
 
-## Next steps
+## More on this topic
 
 Review any slips with the [Hypothesis tests study guide](/resources/cambridge-a-level-mathematics-9709-hypothesis-tests/), and revisit the sample-mean results behind questions 9 and 10 in the [Sampling and estimation practice questions](/resources/cambridge-a-level-mathematics-9709-sampling-and-estimation-practice/).
 

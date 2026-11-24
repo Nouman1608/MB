@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-biology-4b
 - Leaving off the unit (s⁻¹) on a rate, or dividing the wrong way in a percentage.
 - In the pH practical (Paper 2 only), forgetting that temperature must now be controlled.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules-revision-notes/).
 - Reread any weak section in the [study guide](/resources/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules/).

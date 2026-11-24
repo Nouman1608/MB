@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ These questions cover subtopic E6.4, Trigonometric functions, in the Cambridge I
 - Rounding α before adding or subtracting it.
 - Missing the endpoints 0° and 360° in equations with a value of 0.
 
-## Next steps
+## More on this topic
 
 - Recap the graphs and exact values in the [exact values and trigonometric functions study guide](/resources/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions/).
 - Mixed Topic 6 questions: [trigonometry (Extended) practice](/resources/igcse-mathematics-trigonometry-extended-practice/).

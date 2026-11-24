@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ If the degree of the numerator is not lower than the degree of the denominator, 
 **Do you need + c on integration answers in Edexcel IAL P4?**
 Yes, an indefinite integral needs an arbitrary constant, and omitting + c is a common way to lose a mark. A definite integral has no constant because the limits are substituted.
 
-## Next steps
+## More on this topic
 
 - Revise any weak method with the [revision notes](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and/).
 - Return to the [Edexcel IAL Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).

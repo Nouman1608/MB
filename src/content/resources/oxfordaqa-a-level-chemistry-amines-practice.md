@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Before starting, work through the [amines study guide](/resources/oxfordaqa-a-le
 - HCl given as a by-product of an acid anhydride reaction.
 - Dropping the N- from N-substituted amide names.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes for amines](/resources/oxfordaqa-a-level-chemistry-amines-revision-notes/)
 - Re-read the [study guide for amines](/resources/oxfordaqa-a-level-chemistry-amines/)

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -124,7 +124,7 @@ These questions cover section **3.3.13.2 Proteins** of the AQA AS and A-level Ch
 - Describing S–S bonds as hydrogen bonds.
 - Using ink for the baseline, or measuring Rf from the wrong place.
 
-## Next steps
+## More on this topic
 
 - [Amino acids, proteins and DNA revision notes](/resources/aqa-a-level-chemistry-amino-acids-proteins-and-dna-revision-notes/)
 - [Enzymes practice questions](/resources/aqa-a-level-chemistry-7405-enzymes-practice/)

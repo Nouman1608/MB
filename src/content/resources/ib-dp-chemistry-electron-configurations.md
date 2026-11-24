@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches **Structure 1.3, Electron configurations**, as set out in the IB *Chemistry guide* for the Diploma Programme (published February 2023 for first assessment in 2025). It works through understandings Structure 1.3.1 to 1.3.7. Understandings 1.3.1 to 1.3.5 are taught at both SL and HL; 1.3.6 and 1.3.7 sit in the additional higher level (AHL) part of the guide, so they are **HL only**. The page applies to the course as first assessed in 2025.
@@ -311,7 +311,7 @@ Silicon is in group 14 (configuration [Ne] 3s² 3p²).
 - (HL) Explaining the N to O dip by "half-filled stability" alone, without naming repulsion between paired electrons.
 - (HL) Giving the group as the position of the jump, not the number of electrons removed before it.
 
-## Next steps
+## More on this topic
 
 - [Structure 1.3 revision notes](/resources/ib-dp-chemistry-electron-configurations-revision-notes/) and [practice questions](/resources/ib-dp-chemistry-electron-configurations-practice/)
 - The [full-course syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/), [course hub](/boards/ib/ib-dp/chemistry/) and [printable checklist](/checklists/ib/ib-dp/chemistry/)

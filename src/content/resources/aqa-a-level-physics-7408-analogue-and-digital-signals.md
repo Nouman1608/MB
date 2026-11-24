@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ The margin between each level and the threshold (2.5 V here) is the largest nois
 - **Explain** questions on noise need a chain: noise is added, an analogue amplifier amplifies it, a digital regenerator compares each pulse with a threshold and restores clean levels.
 - **Discuss** or **compare** questions on choosing a sampling rate or bit depth reward a trade-off: better quality against a higher data rate, storage and bandwidth.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [analogue and digital signals revision notes](/resources/aqa-a-level-physics-7408-analogue-and-digital-signals-revision-notes/), then try the [analogue and digital signals practice questions](/resources/aqa-a-level-physics-7408-analogue-and-digital-signals-practice/). Pulse code modulation and multiplexing are used again in [data communication systems](/resources/aqa-a-level-physics-7408-data-communication-systems/), and the comparator used in regeneration is explained in [analogue signal processing](/resources/aqa-a-level-physics-7408-analogue-signal-processing/).
 

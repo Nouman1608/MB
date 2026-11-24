@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ Related: the [Business objectives and stakeholder objectives study guide](/resou
 - Giving a judgement in question 10 without saying what it depends on.
 - Stating that the public corporation "does not care about costs".
 
-## Next steps
+## More on this topic
 
 Review conflict analysis in the [Business objectives and stakeholder objectives study guide](/resources/cambridge-o-level-business-7115-business-objectives-and-stakeholder-objectives/), then move on to Topic 2 with the [Recruitment, selection and training practice questions](/resources/cambridge-o-level-business-7115-recruitment-selection-and-training-of-employees-practice/).
 

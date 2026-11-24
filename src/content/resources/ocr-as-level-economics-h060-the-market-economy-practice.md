@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the concept of the margin and rationality sit within The market economy in the H060 specification, as questions 3, 7 and 10 assume."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the concept of the margin and rationality sit within The market economy in the H060 specification, as questions 3, 7 and 10 assume. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ D: Consumers can choose between competing sellers.
 - Not quoting the extract's figures in question 8.
 - Ending the essay without a judgement.
 
-## Next steps
+## More on this topic
 
 - Revisit the [market economy study guide](/resources/ocr-as-level-economics-h060-the-market-economy/) for any weak area.
 - Recap with the [market economy revision notes](/resources/ocr-as-level-economics-h060-the-market-economy-revision-notes/).

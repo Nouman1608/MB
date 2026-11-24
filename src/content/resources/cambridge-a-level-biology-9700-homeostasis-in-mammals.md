@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,6 +171,6 @@ On a **test strip**, the colour that develops is compared with a printed chart; 
 - **Identify** (nephron parts): use the syllabus names exactly.
 - **State** (urea): one sentence, naming the liver and deamination.
 
-## Next steps
+## More on this topic
 
 Condense this with the [14.1 revision notes](/resources/cambridge-a-level-biology-9700-homeostasis-in-mammals-revision-notes/) and test yourself with the [14.1 practice questions](/resources/cambridge-a-level-biology-9700-homeostasis-in-mammals-practice/). Section 14.2 continues with the [homeostasis in plants study guide](/resources/cambridge-a-level-biology-9700-homeostasis-in-plants/), and the hormones reappear in the [control and coordination in mammals study guide](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-mammals-cambridge/).

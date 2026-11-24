@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -145,7 +145,7 @@ For mixed ecology questions, use the [Energy transfer, biomass pyramids and adap
 - Missing the word "concentrated" in a mark about water saving in desert animals.
 - Dividing by the wrong mean in a percentage reduction (divide by the starting value).
 
-## Next steps
+## More on this topic
 
 - [Adaptations, interdependence and competition study guide](/resources/oxfordaqa-igcse-biology-9201-adaptations-interdependence-and-competition/)
 - [Energy transfer, biomass pyramids and adaptations revision notes](/resources/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Evaluate the role of the financial sector in the real economy of Country C. **[1
 - Using percent when the question needs percentage points.
 - Ignoring the data and giving generic points in the evaluation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-economics-financial-institutions-markets-and-borrowing-revision-notes/) and [study guide](/resources/ocr-a-level-economics-financial-institutions-markets-and-borrowing/).
 - Open the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ chord = 24 cm
 11. **11 cm**
 12. **x = 5** (the perpendicular bisector of the chord)
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [Circle theorems II study guide](/resources/igcse-mathematics-0580-circle-theorems-ii/).
 - Practise with the [Circle theorems II practice questions](/resources/cambridge-igcse-mathematics-0580-circle-theorems-ii-practice/).

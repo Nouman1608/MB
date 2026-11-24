@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Learn the content first with the [study guide](/resources/edexcel-igcse-biology-
 - Describing a trend without explaining it (no kinetic energy, no gradient).
 - Describing plasmolysis as "the cell shrinks" instead of the membrane pulling away from the wall.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells-revision-notes/) for this sub-topic
 - [Study guide](/resources/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells/) with full explanations

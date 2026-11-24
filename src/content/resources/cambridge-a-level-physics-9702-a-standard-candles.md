@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Because d ∝ 1/√F, a percentage error in F produces about half that percentag
 - **Calculate**: rearrange first, then substitute; check the answer is sensible (galaxies are typically 10²¹ m or more away).
 - **Suggest** (sources of uncertainty): dust absorption, calibration, non-typical luminosity.
 
-## Related resources
+## More resources on this topic
 
 - [Astronomy and Cosmology study guide](/resources/a-physics-astronomy-and-cosmology/) — the whole of Topic 25
 - [Standard candles revision notes](/resources/cambridge-a-level-physics-9702-a-standard-candles-revision-notes/)

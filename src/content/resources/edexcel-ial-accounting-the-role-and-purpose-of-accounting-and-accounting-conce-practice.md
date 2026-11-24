@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ Costs and prices are per unit.
 - Stating a result as material or immaterial without a comparison.
 - Adding an adjustment to profit when it should be deducted, and the reverse.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce-revision-notes/)
 - [Study guide](/resources/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce/)

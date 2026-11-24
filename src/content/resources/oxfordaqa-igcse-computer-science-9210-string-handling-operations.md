@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -214,7 +214,7 @@ substring. This is a typical "explain your choice" point in an exam answer.
 - **Trace** code with character codes: add columns for the code and each calculation, as in the cipher table.
 - **Explain** a conversion: name the types before and after and why the change is needed.
 
-## Next steps
+## More on this topic
 
 Revise the operations quickly with the [string handling revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-string-handling-operations-revision-notes/) and practise

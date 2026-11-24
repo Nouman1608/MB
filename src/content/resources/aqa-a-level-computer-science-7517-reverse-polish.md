@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -174,7 +174,7 @@ Remove brackets that precedence makes unnecessary: 6 / 2 + 3 − 4 × 5. Its val
 - **Explain why it is used**: give two points, for example no brackets needed and simple to evaluate with a stack.
 - **Name where it is used**: stack-based interpreters, for example PostScript, and bytecode.
 
-## Related resources
+## More resources on this topic
 
 - [Reverse Polish revision notes](/resources/aqa-a-level-computer-science-7517-reverse-polish-revision-notes/)
 - [Reverse Polish practice questions](/resources/aqa-a-level-computer-science-7517-reverse-polish-practice/)

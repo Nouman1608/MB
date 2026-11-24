@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -153,6 +153,6 @@ Retrofitting existing buildings is structural, costly and slow but directly prot
 
 **Answers:** 1. Structural: earthquake-resistant design, tsunami barriers; non-structural: land-use planning, drills. 2. It can reduce harm before an event rather than only repairing damage afterwards. 3. For example heavy rain can trigger lahars or landslides. 4. For example cost, equity, sustainability. 5. Exposure, vulnerability and evidence keep changing, so plans must be reviewed. 6. Flexible bearings absorb ground movement so less shaking reaches the structure. 7. Insurance that pays automatically when a measured trigger, such as a magnitude, is reached. 8. For example understanding disaster risk and investing in risk reduction for resilience. 9. They can be overtopped and give a false sense of security. 10. Warnings may fail to reach remote communities in time. 11. Many buildings did not meet the codes, and amnesties had legalised them. 12. More people and assets are exposed, and informal housing spreads onto unsafe slopes.
 
-## Related resources
+## More resources on this topic
 
 - [Option D: Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/)

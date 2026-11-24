@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -171,7 +171,7 @@ Precise tone words make AO1 sharper than "happy" or "sad".
 12. Because unseen poems allow more than one reading, and exploring possibilities shows a critical,
     personal response.
 
-## Related resources
+## More resources on this topic
 
 - [Unseen poetry practice questions](/resources/aqa-gcse-english-literature-8702-section-c-unseen-poetry-practice/)
 - [Poetry anthology revision notes](/resources/aqa-gcse-english-literature-8702-section-b-poetry-revision-notes/)

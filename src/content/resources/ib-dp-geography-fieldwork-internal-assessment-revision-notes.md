@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -198,6 +198,6 @@ closeness to the true value; reliability is consistency when repeated. 8. (5 squ
 / 20) = 1.25 + 1.25 = 2.5. 9. A clustered pattern. 10. Turning opinions into numerical data. 11. Answer
 the question, state whether hypotheses are supported, cite key evidence and link to theory.
 
-## Related resources
+## More resources on this topic
 
 - [Fieldwork study guide](/resources/ib-dp-geography-fieldwork-study-guide/)

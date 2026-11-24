@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -217,7 +217,7 @@ lost when they were transferred or dried; or some reactant may have formed other
 - **Theoretical mass (HT only):** mass → moles → ratio → mass.
 - **Pathway questions (HT only):** compare each data item for both routes and finish with a decision.
 
-## Next steps
+## More on this topic
 
 - [Yield and atom economy revision notes](/resources/aqa-gcse-chemistry-8462-yield-and-atom-economy-revision-notes/)
 - [Yield and atom economy practice questions](/resources/aqa-gcse-chemistry-8462-yield-and-atom-economy-practice/)

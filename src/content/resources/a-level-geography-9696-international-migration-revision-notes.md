@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -117,7 +117,7 @@ Losing doctors, nurses and engineers can weaken health and education systems in 
 
 **Answers:** 1. Refugee status is granted; an asylum seeker is awaiting a decision. 2. Emigration of skilled and educated workers. 3. Fills labour shortages, adds tax revenue, brings skills and diversity. 4. They raise household incomes and bring in foreign currency. 5. To neighbouring countries. 6. Loss of skills or an ageing, depleted workforce. 7. A person forced to flee who remains within their own country. 8. Many moves involve partial choice under strong pressure, such as drought or rising insecurity. 9. They widen inequality, may fund consumption rather than investment, and fall when the destination economy slows. 10. They often lack the legal right to work. 11. Through remittances, investment, trade links and returning skills.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

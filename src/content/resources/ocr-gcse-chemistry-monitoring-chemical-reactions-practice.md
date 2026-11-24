@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ Route B: C₂H₆ + Cl₂ → C₂H₅Cl + HCl
 - Writing a bare number with no working on a multistep calculation.
 - Choosing a route on atom economy alone when other data are given.
 
-## Next steps
+## More on this topic
 
 - [Monitoring chemical reactions revision notes](/resources/ocr-gcse-chemistry-monitoring-chemical-reactions-revision-notes/)
 - [Monitoring chemical reactions study guide](/resources/ocr-gcse-chemistry-monitoring-chemical-reactions/)

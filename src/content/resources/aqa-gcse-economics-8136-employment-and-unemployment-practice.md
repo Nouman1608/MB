@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Evaluate which policy is more likely to reduce unemployment in Northvale. **[9]*
 - Giving consequences for firms that are all negative, with no mention of easier recruitment or lower wage pressure.
 - Reaching a judgement that ignores the cause of unemployment in the case.
 
-## Next steps
+## More on this topic
 
 - Revise with the [employment and unemployment revision notes](/resources/aqa-gcse-economics-8136-employment-and-unemployment-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-8136-employment-and-unemployment/).
 - For growth and GDP questions, use the [economic growth and unemployment practice questions](/resources/aqa-gcse-economics-economic-growth-and-unemployment-practice/).

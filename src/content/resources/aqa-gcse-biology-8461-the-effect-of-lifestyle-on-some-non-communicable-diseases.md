@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ If a healthy-eating campaign reduced obesity, the incidence and so the number of
 - Giving only financial costs in a "discuss" question.
 - Forgetting that many diseases have several interacting causes.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [effect of lifestyle revision notes](/resources/aqa-gcse-biology-8461-the-effect-of-lifestyle-on-some-non-communicable-diseases-revision-notes/)
 - Exam-style questions: [effect of lifestyle practice questions](/resources/aqa-gcse-biology-8461-the-effect-of-lifestyle-on-some-non-communicable-diseases-practice/)

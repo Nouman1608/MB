@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ the government's mistakes.
 - **Evaluate** an intervention against at least two criteria (effectiveness, cost, equity, risk of government
   failure) and reach a judgement for the specific market.
 
-## Related resources
+## More resources on this topic
 
 - [Merit and demerit goods and market imperfections study guide](/resources/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections/)
 - [Competition policy, public ownership and regulation study guide](/resources/aqa-a-level-economics-competition-policy-public-ownership-regulation-and/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -182,7 +182,7 @@ to the left to become a white dwarf.
 - **Explain** (main-sequence stability): name both forces and say they are balanced.
 - **Describe the differences** (8.10 with 8.9): use the word "whereas" to link each pair of stages.
 
-## Related resources
+## More resources on this topic
 
 - [Stellar evolution revision notes](/resources/edexcel-igcse-physics-4ph1-stellar-evolution-revision-notes/) with a self-test
 - [Stellar evolution practice questions](/resources/edexcel-igcse-physics-4ph1-stellar-evolution-practice/) with mark-scheme answers

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ No. The short run is the period during which at least one factor of production c
 **How do I identify the type of returns to scale?**
 Compare the percentage change in output with the equal percentage change in all inputs. Naming the type without that comparison loses marks.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-production-productivity-specialisation-and-returns-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-production-productivity-specialisation-and-returns/).
 - Return to the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and tick off the [printable checklist](/checklists/aqa/a-level/economics/).

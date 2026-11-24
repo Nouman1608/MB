@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,7 +187,7 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-human-populati
 - Heat island causes named without the mechanism.
 - Evaluations with no judgement, or that ignore the data in the question.
 
-## Next steps
+## More on this topic
 
 - Recap the key facts in the [revision notes](/resources/ib-dp-ess-human-populations-urban-systems-revision-notes/).
 - Re-learn any weak area in the [study guide](/resources/ib-dp-ess-human-populations-urban-systems/).

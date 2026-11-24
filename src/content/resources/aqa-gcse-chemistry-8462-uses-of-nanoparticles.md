@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -203,7 +203,7 @@ Questions often give a short passage, a table or a graph. A quick method:
 - **Explain an effect:** use the surface area to volume ratio.
 - **Calculate:** show each step in cost or ratio calculations.
 
-## Next steps
+## More on this topic
 
 - [Uses of nanoparticles revision notes](/resources/aqa-gcse-chemistry-8462-uses-of-nanoparticles-revision-notes/)
 - [Uses of nanoparticles practice questions](/resources/aqa-gcse-chemistry-8462-uses-of-nanoparticles-practice/)

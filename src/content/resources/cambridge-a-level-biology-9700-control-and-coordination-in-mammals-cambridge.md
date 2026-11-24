@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,6 +171,6 @@ The A band stays the same because the filaments themselves do not shorten; the I
 - **Explain** membrane potential changes: name the ion, the channel type and the direction of movement for every change.
 - **Data** on nerve impulses: read voltages with signs and units; convert units before calculating speeds or frequencies.
 
-## Next steps
+## More on this topic
 
 Revise with the [15.1 revision notes](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-mammals-cambridge-revision-notes/), then try the [15.1 practice questions](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-mammals-cambridge-practice/). For the hormones in more detail see the [homeostasis in mammals study guide](/resources/cambridge-a-level-biology-9700-homeostasis-in-mammals/); section 15.2 continues with the [control and coordination in plants study guide](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -125,7 +125,7 @@ These questions cover section **3.1.3.7 Forces between molecules** of the AQA AS
 - Naming the force but not saying why it is stronger.
 - Comparing atoms rather than molecules.
 
-## Next steps
+## More on this topic
 
 - [Forces between molecules revision notes](/resources/aqa-a-level-chemistry-7405-forces-between-molecules-revision-notes/)
 - [Enthalpy change study guide](/resources/aqa-a-level-chemistry-7405-enthalpy-change/)

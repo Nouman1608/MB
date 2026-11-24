@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -129,7 +129,7 @@ Match each study to the part of the assumption it best supports: Dement and Klei
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, section 3.1.1, Biological approach — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Biological approach study guide](/resources/cambridge-a-level-psychology-9990-biological-approach/)
 - [Biological approach practice questions](/resources/cambridge-a-level-psychology-9990-biological-approach-practice/)

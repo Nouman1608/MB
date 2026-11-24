@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ C₂H₄(g) + H₂O(g) ⇌ C₂H₅OH(g); the forward reaction is exothermic.
 - Not quoting data in table-based questions.
 - Saying a catalyst increases yield.
 
-## Next steps
+## More on this topic
 
 - Review the rules in the [factors affecting equilibrium study guide](/resources/oxfordaqa-igcse-chemistry-9202-factors-affecting-equilibrium/).
 - Recheck the key ideas in the [factors affecting equilibrium revision notes](/resources/oxfordaqa-igcse-chemistry-9202-factors-affecting-equilibrium-revision-notes/).

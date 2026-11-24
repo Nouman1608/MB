@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -170,7 +170,7 @@ The bank statement for June shows:
 - Using the wrong sign for a bank error, because the effect on the statement was not checked first.
 - Dropping the word "overdrawn" on an overdraft.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/igcse-accounting-bank-reconciliation-revision-notes/) and the [study guide](/resources/igcse-accounting-bank-reconciliation/).
 - Visit the [Cambridge IGCSE Accounting hub](/boards/cambridge/igcse/accounting/) and tick off the [checklist](/checklists/cambridge/igcse/accounting/).

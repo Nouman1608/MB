@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ E = c² Δm = (3.00 × 10⁸)² × 3.13 × 10⁻²⁹ = 2.82 × 10⁻¹² J (17.
 - **Calculate** (energy released): list masses before and after, subtract, convert u to kg, multiply by c², and convert to MeV only if asked.
 - **Complete** a nuclear equation: balance A and Z separately, and identify the particle from the missing values.
 
-## Related resources
+## More resources on this topic
 
 - [Nuclear Physics study guide](/resources/a-physics-nuclear-physics/) — the whole of Topic 23
 - [Mass defect and binding energy revision notes](/resources/cambridge-a-level-physics-9702-a-mass-defect-and-nuclear-binding-energy-revision-notes/)

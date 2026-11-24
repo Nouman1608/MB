@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 6.2.1, Amines, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section opens 6.2, Nitrogen compounds, polymers and synthesis, inside Module 6, Organic chemistry and analysis. It has two lettered learning outcomes, 6.2.1(a) and (b), and (b) has two parts; every one is covered below with worked examples. H432 is the full A level. The specification states that Module 6 content is assessed in Synthesis and analytical techniques (02) and Unified chemistry (03). No PAG is listed against this section.
@@ -240,7 +240,7 @@ To put NH₂ on a benzene ring, use the nitroarene route, not ammonia substituti
 - Giving "Sn/HCl" without "concentrated", or omitting the NaOH step.
 - Balancing a nitroarene reduction with 4[H] or 2[H] instead of 6[H] per NO₂ group.
 
-## Next steps
+## More on this topic
 
 - Condensed tables and a quick self-test: [Amines revision notes](/resources/ocr-a-level-chemistry-amines-revision-notes/)
 - Original questions with mark-by-mark answers: [Amines practice questions](/resources/ocr-a-level-chemistry-amines-practice/)

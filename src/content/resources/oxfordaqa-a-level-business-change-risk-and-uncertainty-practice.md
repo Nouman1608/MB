@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ No. Some risks, such as a strategic failure like a failed product launch, cannot
 **Which OxfordAQA 9725 paper tests change, risk and uncertainty?**
 Section 3.4.6 of OxfordAQA International AS and A-level Business (9725) is examined in the Unit 4: Business strategy paper, a 1 hour 45 minute written exam worth 80 marks.
 
-## Next steps
+## More on this topic
 
 - Recap the lists with the [change, risk and uncertainty revision notes](/resources/oxfordaqa-a-level-business-change-risk-and-uncertainty-revision-notes/)
 - Rework the examples in the [change, risk and uncertainty study guide](/resources/oxfordaqa-a-level-business-change-risk-and-uncertainty/)

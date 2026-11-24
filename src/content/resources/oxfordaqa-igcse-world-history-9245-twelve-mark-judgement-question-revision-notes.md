@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,6 +178,6 @@ Two separate, well-explained factors with no comparison stay at Level 3.
 11. About 18 minutes.
 12. In the introduction.
 
-## Next steps
+## More on this topic
 
 Plan and write answers in the [12-mark judgement question practice](/resources/oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question-practice/).

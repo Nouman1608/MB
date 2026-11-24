@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ On a non-calculator paper, numbers in a Pythagoras question are usually chosen t
 11. √(6² + 8²) = **10 units**
 12. √(400 + 441) = √841 = **29 km**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [Pythagoras' theorem study guide](/resources/igcse-mathematics-0580-pythagoras-theorem/).
 - Practise with the [Pythagoras' theorem practice questions](/resources/cambridge-igcse-mathematics-0580-pythagoras-theorem-practice/).

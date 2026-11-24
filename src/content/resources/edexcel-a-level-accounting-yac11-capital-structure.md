@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ Creation: Dr statement of comprehensive income (expense), Cr provision (liabilit
 - **Compare** rights and bonus issues using cash, equity and purpose.
 - Check that total equity changes only when something real enters or leaves the company.
 
-## Related resources
+## More resources on this topic
 
 [Limited companies revision notes](/resources/edexcel-ial-accounting-limited-companies-revision-notes/) |
 [Capital structure practice questions](/resources/edexcel-a-level-accounting-yac11-capital-structure-practice/) |

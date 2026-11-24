@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -158,7 +158,7 @@ The goods are not unpacked between steps.
 | Justify | A case backed with evidence |
 | Evaluate | A judgement of value, ending with a conclusion |
 
-## Next steps
+## More on this topic
 
 Read the full explanations in the [Transport study guide](/resources/cambridge-o-level-commerce-7100-transport/), then try the [Transport practice questions](/resources/cambridge-o-level-commerce-7100-transport-practice/).
 

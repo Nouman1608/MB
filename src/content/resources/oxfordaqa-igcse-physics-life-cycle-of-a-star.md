@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, section 3.8.1 (Life cycle of a star), statements a to i. The qualification is untiered, so this content applies to all candidates. Use it with the [revision notes](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-practice/). The course page is the [OxfordAQA IGCSE Physics hub](/boards/oxfordaqa/igcse/physics/), the [printable checklist](/checklists/oxfordaqa/igcse/physics/) lists every outcome, and the [10-minute diagnostics](/diagnostics/) show where to start. For the energy ideas behind this topic see [OxfordAQA IGCSE Physics: Energy](/resources/igcse-oxfordaqa-physics-energy/).
 
@@ -214,7 +214,7 @@ Model answer, one point per step:
 - Saying a larger star lasts longer because it has more fuel. It uses fuel much faster.
 - Writing that the red supergiant "turns blue". It expands, cools and turns red.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-practice/). Tick off 3.8.1 on the [checklist](/checklists/oxfordaqa/igcse/physics/) when you can write both routes from memory, and take the [diagnostics](/diagnostics/) to check your recall.
 

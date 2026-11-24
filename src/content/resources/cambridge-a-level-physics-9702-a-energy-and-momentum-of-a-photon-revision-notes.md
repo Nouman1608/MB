@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ For a beam spreading equally in all directions from a point source, the power re
 
 **Answers:** 1. A quantum (discrete packet) of electromagnetic energy. 2. 6.63 × 10⁻³⁴ × 5.0 × 10¹⁴ = 3.3 × 10⁻¹⁹ J = 2.1 eV. 3. hc/λ = 3.98 × 10⁻¹⁹ J = 2.5 eV. 4. p = E/c = 1.3 × 10⁻²⁷ kg m s⁻¹. 5. The energy transferred when an electron moves through a potential difference of one volt. 6. E = 4.0 × 10⁻¹⁹ J; f = E/h = 6.0 × 10¹⁴ Hz. 7. λ = c/f = 5.0 × 10⁻⁷ m. 8. 60 ÷ 3.98 × 10⁻¹⁹ = 1.5 × 10²⁰ s⁻¹. 9. It is unchanged; there are twice as many photons per second. 10. P/c = 6.7 × 10⁻⁹ N. 11. 2P/c = 1.3 × 10⁻⁸ N. 12. 2000 eV (2.0 keV).
 
-## Related resources
+## More resources on this topic
 
 - [Quantum Physics revision notes](/resources/a-physics-quantum-physics-revision-notes/) — the whole of Topic 22
 - [Energy and momentum of a photon practice questions](/resources/cambridge-a-level-physics-9702-a-energy-and-momentum-of-a-photon-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -181,7 +181,7 @@ A full answer names the factor, applies it to both ions, and links it to the str
 - **Calculate:** write the Hess's law sum before substituting; give units and sign.
 - **Explain** a trend: name nuclear charge, distance and shielding, and say which dominates.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and self-test: [Lattice energy and Born–Haber cycles revision notes](/resources/cambridge-a-level-chemistry-9701-a-lattice-energy-and-born-haber-cycles-revision-notes/)
 - Exam-style questions with full answers: [Lattice energy and Born–Haber cycles practice questions](/resources/cambridge-a-level-chemistry-9701-a-lattice-energy-and-born-haber-cycles-practice/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -176,7 +176,7 @@ osmosis, which uses a lot of energy, so it is more difficult and expensive."
 Example: dish 24.512 g empty and 24.537 g with residue from 50.0 cm³. Residue = 0.025 g; volume = 0.0500 dm³;
 0.025 ÷ 0.0500 = **0.50 g/dm³**.
 
-## Next steps
+## More on this topic
 
 - [Using the Earth's resources and obtaining potable water study guide](/resources/aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water/)
 - [Using the Earth's resources and obtaining potable water practice questions](/resources/aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water-practice/)

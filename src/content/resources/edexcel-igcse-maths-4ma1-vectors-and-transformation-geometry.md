@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches topic 5, Vectors and transformation geometry, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. It covers section 5.1 (Vectors) and section 5.2 (Transformation geometry). Section 5.1 is **Higher tier only**. Section 5.2 is Foundation tier content, and the Higher tier assumes it ("See Foundation Tier"), so every candidate needs it.
@@ -367,7 +367,7 @@ Show that one is a scalar multiple of the other. For example, 6**a** − 9**b** 
 **How do you rotate a shape 90° anticlockwise about a point that is not the origin?**
 Subtract the centre from each vertex, turn the result using (x, y) → (−y, x), then add the centre back. Anticlockwise rotations are positive angles and clockwise rotations are negative.
 
-## Next steps
+## More on this topic
 
 Recap with the [revision notes](/resources/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry-practice/).
 

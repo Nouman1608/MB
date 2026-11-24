@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Dividing by –2 changes the sign of every term: –2y = 4 – x becomes y = –
 - If two lines are drawn on the same grid, label each with its equation.
 - On Paper 1 or Paper 2 there is no calculator, so choose x-values that keep the arithmetic simple.
 
-## Next steps
+## More on this topic
 
 - Recap with the [drawing linear graphs revision notes](/resources/cambridge-igcse-mathematics-0580-drawing-linear-graphs-revision-notes/) and practise with the [drawing linear graphs practice questions](/resources/cambridge-igcse-mathematics-0580-drawing-linear-graphs-practice/).
 - The next skill is reading a gradient from your line: see the [gradient of linear graphs study guide](/resources/cambridge-igcse-mathematics-0580-gradient-of-linear-graphs/).

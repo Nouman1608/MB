@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -152,7 +152,7 @@ Use: speed of sound in air 340 m/s; 1 day = 86 400 s.
 - Using red shift as the only evidence when two pieces are asked for.
 - Writing the age of the universe as 14 million years.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang-revision-notes/) for the points you missed.
 - Revisit the [study guide](/resources/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang/) for full explanations.

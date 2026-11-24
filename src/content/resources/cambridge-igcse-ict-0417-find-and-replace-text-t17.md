@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ In the practical paper the instruction is usually "replace the word X with Y". T
 5. How do you swap *left* and *right* throughout a document? *Use a placeholder: left to a temporary word, right to left, then the temporary word to right.*
 6. What should you do after Replace all? *Check the count, then search for the old text to confirm nothing wrong remains.*
 
-## Next steps
+## More on this topic
 
 Revise with the [find and replace revision notes](/resources/cambridge-igcse-ict-0417-find-and-replace-text-t17-revision-notes/), then try the [find and replace practice questions](/resources/cambridge-igcse-ict-0417-find-and-replace-text-t17-practice/).
 

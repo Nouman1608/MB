@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -124,7 +124,7 @@ This set covers section 6.3 (Business and the environment) of the Cambridge IGCS
 - Giving a one-sided answer to a justify or recommend question, or ending with no decision.
 - Ignoring the case numbers when asked to justify.
 
-## Next steps
+## More on this topic
 
 - Review the [study guide](/resources/igcse-business-0264-business-and-the-environment/) and the [revision notes](/resources/igcse-business-0264-business-and-the-environment-revision-notes/).
 - Return to the [course hub](/boards/cambridge/igcse/business/) and [checklist](/checklists/cambridge/igcse/business/).

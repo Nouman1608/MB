@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ D: vena cava
 - "Portal vein" or "liver vein" instead of the full syllabus names.
 - Claiming diffusion of oxygen happens through vein walls.
 
-## Next steps
+## More on this topic
 
 - Re-read the [blood vessels study guide](/resources/cambridge-igcse-biology-0610-blood-vessels/) for any question you found hard.
 - Move on to the [blood practice questions](/resources/cambridge-igcse-biology-0610-blood-practice/).

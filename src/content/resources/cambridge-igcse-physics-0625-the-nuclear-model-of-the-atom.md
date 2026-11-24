@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -171,7 +171,7 @@ If a question asks how many neutrons are released, subtract the product nucleon 
 - **Describe** (Extended): for alpha scattering, write each observation followed by "which shows...".
 - **Complete an equation** (Extended): balance the top row and the bottom row separately and show the check.
 
-## Next steps
+## More on this topic
 
 Condense this with the [nuclear model revision notes](/resources/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-revision-notes/) and practise with the [nuclear model practice questions](/resources/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-practice/). The next subtopic is [radioactivity](/resources/cambridge-igcse-physics-0625-radioactivity/).
 

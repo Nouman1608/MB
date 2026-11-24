@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Setting for most questions: Country T uses the tarn and Country V uses the vesk.
 - Giving a conclusion that never says what the answer depends on.
 - Leaving figures unlabelled so that the currency of each number is unclear.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-igcse-economics-foreign-exchange-rates-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-foreign-exchange-rates/).
 - Visit the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/) and tick off outcomes on the [printable checklist](/checklists/cambridge/igcse/economics/).

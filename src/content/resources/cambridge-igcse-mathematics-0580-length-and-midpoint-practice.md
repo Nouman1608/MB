@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Related: [length and midpoint study guide](/resources/cambridge-igcse-mathematic
 - Rounding lengths before adding them.
 - Finding the midpoint of A and M instead of the far end B.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [length and midpoint study guide](/resources/cambridge-igcse-mathematics-0580-length-and-midpoint/).
 - Recap with the [length and midpoint revision notes](/resources/cambridge-igcse-mathematics-0580-length-and-midpoint-revision-notes/).

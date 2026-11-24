@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is for OCR GCSE (9-1) Mathematics, aligned to the OCR specification Version 2.1 (August 2026). It covers sections 6.01a to 6.01d: algebraic terminology and proofs, collecting like terms, simplifying products and quotients, and multiplying out brackets. Most of it is for both tiers. Content marked **Higher tier only** is for Higher tier candidates alone. These are algebra skills, so every example is done by hand.
@@ -370,7 +370,7 @@ A check: put x = 1 into the original and the answer. In worked example 22, the l
 * Ending a proof without saying why the final form shows the property.
 * Treating a negative power as a negative number. x⁻² is 1/x², not −x².
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding-revision-notes/), then test yourself on the [practice questions](/resources/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding-practice/). Factorising and algebraic fractions follow in 6.01e to 6.01g.
 

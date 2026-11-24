@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ A private developer would choose B, the only project with a private gain. On soc
 - **Analyse:** draw MPC, MSC (or MPB, MSB), both quantities and the welfare-loss triangle.
 - **Evaluate:** in cost-benefit questions, test whether the decision changes if a hard-to-value item changes.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [externalities revision notes](/resources/cambridge-a-level-economics-9708-private-costs-externalities-and-social-costs-revision-notes/).
 - Test yourself with the [externalities practice questions](/resources/cambridge-a-level-economics-9708-private-costs-externalities-and-social-costs-practice/).

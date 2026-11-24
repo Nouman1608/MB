@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Consequences of uses of computing (section 4.8 of AQA A-Level Computer Science 7517) asks you to discuss the
@@ -178,7 +178,7 @@ Accurate reference to real laws, such as the Data Protection Act 2018, makes a l
 Cover several different issues, explain each consequence in the context of the scenario, balance
 opportunities against risks and finish with a justified judgement.
 
-## Related resources
+## More resources on this topic
 
 [Consequences of uses of computing study guide](/resources/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide/) |
 [Consequences of uses of computing practice questions](/resources/aqa-a-level-computer-science-consequences-of-uses-of-computing-practice/)

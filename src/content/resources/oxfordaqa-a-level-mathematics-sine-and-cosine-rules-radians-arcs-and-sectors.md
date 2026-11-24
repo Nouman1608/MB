@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is written for the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the first part of content statement PP1.2 (Trigonometry): the sine and cosine rules, the area of a triangle, degree and radian measure, arc length and sector area, and the sine, cosine and tangent graphs. The specification files this content under International AS Unit PSM1 (section 3.2, PP1). Solving trigonometric equations and the identities are taught separately.
 
@@ -328,7 +328,7 @@ Replacing x with kx shrinks the graph horizontally and divides the period by k. 
 - Forgetting the straight edges when adding up the boundary of a sector.
 - Drawing tan x with a maximum, or stopping the curve before the asymptote.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-sine-and-cosine-rules-radians-arcs-and-sectors-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-sine-and-cosine-rules-radians-arcs-and-sectors-revision-notes/) to keep the key results fresh. Record your progress on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 

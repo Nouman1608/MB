@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -175,7 +175,7 @@ Choose those that fit your novel:
     characters, so development can be traced.
 12. Close to half: 30 of 64 marks.
 
-## Related resources
+## More resources on this topic
 
 - [The 19th-century novel practice questions](/resources/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel-practice/)
 - [Shakespeare revision notes](/resources/aqa-gcse-english-literature-8702-section-a-shakespeare-revision-notes/)

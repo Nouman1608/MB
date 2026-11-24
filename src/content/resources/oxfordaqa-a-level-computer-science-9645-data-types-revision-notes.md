@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -154,7 +154,7 @@ Python type hints look like `def area(w: float, h: float) -> float:`. Python doe
 11. It supports calendar arithmetic and sorts in true date order.
 12. Floats can store money inexactly; whole pence are exact.
 
-## Next steps
+## More on this topic
 
 - [Data types study guide](/resources/oxfordaqa-a-level-computer-science-9645-data-types/)
 - [Data types practice questions](/resources/oxfordaqa-a-level-computer-science-9645-data-types-practice/)

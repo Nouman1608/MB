@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide teaches section 6.2 Business strategy of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is an A Level topic, part of Topic 6, Business and its environment. Section 6.2.1 covers developing business strategy and 6.2.2 covers corporate planning and implementation. The syllabus says Topics 6 to 10 are the direct focus of Paper 3 (Business Decision-Making) and Paper 4 (Business Strategy), with the AS content assumed knowledge.
 
@@ -280,7 +280,7 @@ Crisis management is the way a business handles a crisis once it occurs: forming
 - Presenting a decision tree answer without questioning the probabilities.
 - Describing contingency planning and crisis management as the same thing.
 
-## Next steps
+## More on this topic
 
 Recap with the [revision notes](/resources/cambridge-a-level-business-business-strategy-revision-notes/), test yourself with the [practice questions](/resources/cambridge-a-level-business-business-strategy-practice/), and take the [free diagnostics](/diagnostics/). To go further, [book a free trial class](/trial/).
 

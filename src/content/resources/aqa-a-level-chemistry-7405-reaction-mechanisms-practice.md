@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ These questions cover section **3.3.1.2 Reaction mechanisms** of the AQA AS and 
 - Leaving out partial charges on polar bonds.
 - Mixing up nucleophile and electrophile.
 
-## Next steps
+## More on this topic
 
 - [Reaction mechanisms revision notes](/resources/aqa-a-level-chemistry-7405-reaction-mechanisms-revision-notes/)
 - [Introduction to organic chemistry practice questions](/resources/aqa-a-level-chemistry-introduction-to-organic-chemistry-practice/)

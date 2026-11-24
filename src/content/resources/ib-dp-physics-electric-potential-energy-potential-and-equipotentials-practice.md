@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ These questions cover the additional higher level part of sub-topic D.2, Electri
 - Giving the potential inside a conducting sphere as zero rather than the surface value.
 - Giving all the energy to one particle in a two-body release.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-physics-electric-potential-energy-potential-and-equipotentials-revision-notes/) and the [study guide](/resources/ib-dp-physics-electric-potential-energy-potential-and-equipotentials/).
 - Return to the [IB DP Physics course hub](/boards/ib/ib-dp/physics/) and tick off the [printable checklist](/checklists/ib/ib-dp/physics/).

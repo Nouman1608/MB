@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ These questions cover the demand side of the topic Wage determination in Compone
 - Naming a factor without explaining how it changes labour demand or its elasticity.
 - Evaluation that lists caveats with no judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs/).
 - Go to the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

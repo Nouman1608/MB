@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -156,6 +156,6 @@ A right is enforceable when the holder can go to a court or tribunal and obtain 
 
 **Answers:** 1. That law balances individual, public and social interests so as to satisfy as many as possible with the least friction. 2. Repressive law punishes and dominates in simple societies; restitutive law restores people to their position and grows in complex societies. 3. The Consumer Rights Act 2015. 4. Fees made claims unaffordable, so rights existed on paper but could not be enforced in practice. 5. It granted an injunction limiting the number and timing of motorboat races rather than banning them. 6. That the public benefit of an activity, including planning permission, can be relevant to whether damages or an injunction is awarded. 7. Privacy against freedom of expression. 8. Intention, then subjective recklessness, then negligence. 9. *Alphacell v Woodward* (1972): a company was liable for river pollution without proof of negligence (or *Harrow LBC v Shah*, 1999). 10. That Parliament is presumed to intend mens rea unless it clearly states otherwise. 11. It shows that fault in tort is objective: a learner doing her best was still at fault. 12. Any two: vicarious liability; *Rylands v Fletcher*; producer liability under the Consumer Protection Act 1987.
 
-## Related resources
+## More resources on this topic
 
 [Law and Society study guide](/resources/aqa-a-level-law-7162-nature-of-law-law-and-society/) | [Law and Society practice questions](/resources/aqa-a-level-law-7162-nature-of-law-law-and-society-practice/) | [Nature of Law revision notes](/resources/aqa-a-level-law-7162-nature-of-law-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -152,7 +152,7 @@ Use eV = p²/2m, so p = √(2meV), when the accelerating voltage is given. Then 
 **What must you say about the electron diffraction rings?**
 Name diffraction of the electrons by the regularly spaced atoms in the graphite as the cause of the rings. Simply saying the rings "prove" electrons are waves is not enough.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-a-level-physics-photons-photoelectric-effect-and-wave-particle-duality-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-photons-photoelectric-effect-and-wave-particle-duality/).
 - Return to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick items off the [checklist](/checklists/ocr/a-level/physics/).

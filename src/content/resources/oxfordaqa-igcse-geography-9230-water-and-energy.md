@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for four examples (large-scale water transfer, local water scheme in an LIC or NEE, fossil fuel extraction, local renewable energy scheme in an LIC or NEE) but does not fix places. This page uses the South-North Water Transfer in China, sand dams in Kitui (Kenya), oil in the Niger Delta (Nigeria) and micro-hydro schemes in Nepal. Check every detail against your own notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for four examples (large-scale water transfer, local water scheme in an LIC or NEE, fossil fuel extraction, local renewable energy scheme in an LIC or NEE) but does not fix places. This page uses the South-North Water Transfer in China, sand dams in Kitui (Kenya), oil in the Niger Delta (Nigeria) and micro-hydro schemes in Nepal. Check every detail against your own notes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -194,6 +194,6 @@ The answer links demand, supply, over-abstraction and infrastructure.
 - **Saying renewable energy has no disadvantages.** Cost, intermittency and local impacts matter.
 - **Mixing up water conservation and increasing supply.** Conservation reduces demand.
 
-## Next steps
+## More on this topic
 
 Condense this with the [water and energy revision notes](/resources/oxfordaqa-igcse-geography-9230-water-and-energy-revision-notes/) and test yourself with the [water and energy practice questions](/resources/oxfordaqa-igcse-geography-9230-water-and-energy-practice/).

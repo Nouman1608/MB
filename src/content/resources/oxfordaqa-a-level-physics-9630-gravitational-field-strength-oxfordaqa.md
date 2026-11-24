@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,6 +135,6 @@ A second planet of the same density but twice the radius would have g = 7.4 N kg
 - **Calculate** a resultant field: find each field separately, assign directions, then add as vectors.
 - **Explain** why the near-surface field is uniform: compare the change in height with the planet's radius and quote the percentage change in g.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [gravitational field strength revision notes](/resources/oxfordaqa-a-level-physics-9630-gravitational-field-strength-oxfordaqa-revision-notes/) and test yourself with the [gravitational field strength practice questions](/resources/oxfordaqa-a-level-physics-9630-gravitational-field-strength-oxfordaqa-practice/). The force law behind these fields is in the [Newton's gravitational law study guide](/resources/oxfordaqa-a-level-physics-9630-newtons-gravitational-law/), and the energy description of the same field is in the [gravitational potential study guide](/resources/oxfordaqa-a-level-physics-9630-gravitational-potential-oxfordaqa/).

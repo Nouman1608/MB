@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -147,6 +147,6 @@ The conclusion needs a judgement, not a summary.
 - **Forgetting secondary hazards.** Tsunamis, landslides and fires after earthquakes often cause more harm than the first shock.
 - **Using made-up facts as if real.** If you cite a real event, you must be sure of the details. If unsure, describe the process instead of quoting figures.
 
-## Next steps
+## More on this topic
 
 Condense this with the [natural hazards revision notes](/resources/oxfordaqa-igcse-geography-9230-natural-hazards-revision-notes/) and test yourself with the [natural hazards practice questions](/resources/oxfordaqa-igcse-geography-9230-natural-hazards-practice/). The next theme builds on these ideas with the [tectonic hazards study guide](/resources/oxfordaqa-igcse-geography-9230-tectonic-hazards/).

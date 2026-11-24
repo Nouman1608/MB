@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section **3.13 Theory of computation** of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1 (International AS exams May/June 2025 onwards, International A-level exams May/June 2026 onwards). Subsections 3.13.1 to 3.13.5 are included, and every one is **International A-level only**; the section is examined in Unit 4: Advanced concepts and principles of computer science, a written exam.
@@ -302,7 +302,7 @@ Some problems cannot be solved algorithmically. The **Halting problem** is the u
 - Calling O(n²) exponential. n² is polynomial; 2ⁿ is exponential.
 - Describing the Halting problem as "too slow". It is unsolvable.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-a-level-computer-science-theory-of-computation-revision-notes/) and [practice questions](/resources/oxfordaqa-a-level-computer-science-theory-of-computation-practice/). Search and sort traces: [searching and sorting guide](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms/); binary search trees: [advanced data structures guide](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures/).
 

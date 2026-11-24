@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -219,7 +219,7 @@ net total of related variances or on overall profit, with quality checks and reg
 - Leaving out the volume adjustment in a cost reconciliation.
 - Evaluations with no final judgement.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis/)

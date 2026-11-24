@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ Learn the content first in the [study guide](/resources/cambridge-a-level-econom
 - Giving "it depends" in evaluation without naming the condition.
 - Using a base of the new value when calculating a percentage change.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer/).
 - Visit the [course hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -198,7 +198,7 @@ chapters, a turning point, the climax and the final chapter. 11. Link the extrac
 later moment, so the answer does both parts of the task. 12. For example: "Comparing the hidden
 crack to a scar shows that the hurt has been covered, not healed."
 
-## Related resources
+## More resources on this topic
 
 - [Prose fiction practice questions](/resources/oxfordaqa-igcse-english-literature-9275-prose-fiction-practice/)
 - [Prose and Drama revision notes](/resources/igcse-oxfordaqa-english-literature-prose-and-drama-revision-notes/)

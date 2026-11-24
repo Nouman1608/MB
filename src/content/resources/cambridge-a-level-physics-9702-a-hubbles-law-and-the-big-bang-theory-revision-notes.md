@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,7 +121,7 @@ d = v / H₀        v = c Δλ / λ
 
 **Answers:** 1. Spectral lines at longer wavelengths than their laboratory values (redshift). 2. Δλ/λ ≈ Δf/f ≈ v/c. 3. v = 3.00 × 10⁸ × 7.9 / 393.4 = 6.0 × 10⁶ m s⁻¹. 4. The wavelength has decreased (blueshift), so the galaxy is approaching, at about 2.3 × 10⁵ m s⁻¹. 5. The recession speed of a galaxy is approximately proportional to its distance from us. 6. s⁻¹. 7. v = 2.3 × 10⁻¹⁸ × 8.0 × 10²⁴ = 1.8 × 10⁷ m s⁻¹. 8. H₀ = v/d = 2.3 × 10⁻¹⁸ s⁻¹. 9. Almost all distant galaxies are redshifted, so they are receding; more distant galaxies recede faster; so the distances between galaxies are increasing. 10. No: in a uniform expansion every observer sees all distant galaxies receding with speed proportional to distance. 11. Reversing the expansion shows all galaxies were together at about the same time, so the Universe began in a very small, hot, dense state and has expanded since. 12. It applies only when v is much smaller than c.
 
-## Related resources
+## More resources on this topic
 
 - [Astronomy and Cosmology revision notes](/resources/a-physics-astronomy-cosmology-revision-notes/) — the whole of Topic 25
 - [Hubble's law and the Big Bang practice questions](/resources/cambridge-a-level-physics-9702-a-hubbles-law-and-the-big-bang-theory-practice/)

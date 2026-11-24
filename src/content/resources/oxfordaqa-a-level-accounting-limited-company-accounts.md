@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Section 3.1.7, Limited company accounts, is taught here in full. The source is the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. This is International AS content; Paper 2: Financial & Management Accounting is the paper the specification names for it. Names and numbers in the examples are made up, and the currency is dollars.
@@ -315,7 +315,7 @@ Preference shares and general reserves sit outside the examined content, accordi
 - Treating an entire instalment loan as non-current when part is due within 12 months.
 - Using trial balance share figures as opening balances when the trial balance already includes an issue made during the year.
 
-## Next steps
+## More on this topic
 
 Test what you remember using the [revision notes](/resources/oxfordaqa-a-level-accounting-limited-company-accounts-revision-notes/), and move on to the [practice questions](/resources/oxfordaqa-a-level-accounting-limited-company-accounts-practice/). How the AS and A-level papers fit together is explained in the [exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/) for 9615.
 

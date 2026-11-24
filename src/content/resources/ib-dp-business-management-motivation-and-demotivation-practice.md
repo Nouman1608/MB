@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -129,7 +129,7 @@ Evaluate which option Quarrington Lodges should choose to improve motivation. **
 - Treating pay as irrelevant because of Herzberg, or as the only motivator because of Taylor.
 - Writing generic points that would suit any business instead of using the data given.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ib-dp-business-management-motivation-and-demotivation-revision-notes/) and the [study guide](/resources/ib-dp-business-management-motivation-and-demotivation/).
 - Open the [Business Management hub](/boards/ib/ib-dp/business/) and tick off topics on the [printable checklist](/checklists/ib/ib-dp/business/).

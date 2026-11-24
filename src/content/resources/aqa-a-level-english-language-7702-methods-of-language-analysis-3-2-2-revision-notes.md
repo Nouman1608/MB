@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -183,7 +183,7 @@ variation**.
 12. Modal verbs of obligation ("should", "must"); generic noun phrases ("young people today"); imperatives
     ("stop saying...").
 
-## Related resources
+## More resources on this topic
 
 - [Paper 2 methods of language analysis practice questions](/resources/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2-practice/)
 - [Language Diversity and Change revision notes](/resources/a-level-aqa-english-language-diversity-and-change-revision-notes/)

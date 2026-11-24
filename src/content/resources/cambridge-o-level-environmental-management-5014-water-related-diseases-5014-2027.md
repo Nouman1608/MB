@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -117,7 +117,7 @@ Each strategy is named, applied to the camp and given a short reason. "Clean wat
 
 For **describe** questions on transmission, use the three numbered steps and name the vector and the parasite. For **describe** strategies, say what the strategy is and how it works. For **discuss**, put each strategy against at least one limitation and end with a judgement, such as which combination suits the place in the question. Mark totals are a guide: a 3-mark "describe" usually needs three distinct strategies.
 
-## Next steps
+## More on this topic
 
 - Recall sheet and self-test: [water-related diseases revision notes](/resources/cambridge-o-level-environmental-management-5014-water-related-diseases-5014-2027-revision-notes/).
 - Practise with full mark schemes: [water-related diseases practice questions](/resources/cambridge-o-level-environmental-management-5014-water-related-diseases-5014-2027-practice/).

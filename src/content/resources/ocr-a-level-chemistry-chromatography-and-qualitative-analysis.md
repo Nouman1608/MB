@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Section 6.3.1, on chromatography and qualitative analysis, is taught here from scratch, following the H432 Chemistry A specification from OCR (Version 3.1, May 2026, for first assessment in 2017). The section belongs to Module 6, Organic chemistry and analysis. All three lettered outcomes, with their additional guidance and the PAG6 and PAG7 links, are covered here. H432 is the full A level. Its assessment overview lists Module 6 under component 02 (Synthesis and analytical techniques); component 03 (Unified chemistry) draws on it too.
@@ -259,7 +259,7 @@ Bottles A to D hold butanal, butanone, butan-2-ol and 2-methylpropan-2-ol, in so
 - Writing "turns clear" for bromine water instead of "orange to colourless".
 - Warming flammable organic liquids over a Bunsen flame.
 
-## Next steps
+## More on this topic
 
 - Condensed tables, method boxes and a self-test: [Chromatography and qualitative analysis revision notes](/resources/ocr-a-level-chemistry-chromatography-and-qualitative-analysis-revision-notes/)
 - Original questions with mark-by-mark answers: [Chromatography and qualitative analysis practice questions](/resources/ocr-a-level-chemistry-chromatography-and-qualitative-analysis-practice/)

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -139,7 +139,7 @@ In a temperate climate the soil typically reaches deficit in late summer and rec
 
 **Answers:** 1. The watershed. 2. Evapotranspiration and river discharge. 3. Throughflow moves through the soil; overland flow moves across the surface. 4. Precipitation enters and water and energy leave across its boundary. 5. Impermeable rock or saturated ground; intense rainfall; steep slopes; sparse vegetation. 6. Precipitation = evapotranspiration + runoff, plus or minus change in storage. 7. Infiltration-excess: rain falls faster than the soil can absorb it. Saturation-excess: the soil is already full. 8. 300 mm. 9. The maximum water a soil can hold against gravity. 10. Baseflow from groundwater. 11. The trees have lost their leaves.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

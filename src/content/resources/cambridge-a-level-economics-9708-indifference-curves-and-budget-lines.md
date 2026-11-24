@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Evaluate by noting that, unlike marginal utility theory, the model does not need
 - **Analyse:** draw and label BL1, BL2, BLc, IC1, IC2 and points A, B and C, and name each movement.
 - **Assess** and **Evaluate:** weigh the model's insight against its assumptions; in the unstructured Paper 4 essays, link the limitations to the question set.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [indifference curves revision notes](/resources/cambridge-a-level-economics-9708-indifference-curves-and-budget-lines-revision-notes/).
 - Test yourself with the [indifference curves practice questions](/resources/cambridge-a-level-economics-9708-indifference-curves-and-budget-lines-practice/).

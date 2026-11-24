@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Use these relative atomic masses: N = 14.0, C = 12.0, Cl = 35.5, H = 1.0, O = 16
 - Removing the wrong number of water molecules from a peptide.
 - Giving test results without a matching deduction.
 
-## Next steps
+## More on this topic
 
 - [Topic 19 revision notes](/resources/edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins-revision-notes/)
 - [Topic 19 study guide](/resources/edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins/)

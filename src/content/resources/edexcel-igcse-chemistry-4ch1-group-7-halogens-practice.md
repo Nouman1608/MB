@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,6 +152,6 @@ These questions cover sub-topic 2(b) Group 7 (halogens) of the Pearson Edexcel I
 - Describing a "no change" result as a reaction because the added reagent is coloured.
 - Using "loses electrons" in the Group 7 explanation.
 
-## Next steps
+## More on this topic
 
 Go back to the [Group 7 study guide](/resources/edexcel-igcse-chemistry-4ch1-group-7-halogens/) for any gaps, then try the mixed [groups, acids, salts and tests practice questions](/resources/edexcel-igcse-chemistry-4ch1-inorganic-groups-acids-salts-tests-practice/).

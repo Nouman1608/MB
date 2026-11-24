@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -195,7 +195,7 @@ it as passing on ruling-class ideology". When asked to evaluate a view (for exam
 benefits all its members), use the other two perspectives as your counter-arguments and finish with
 a judgement grounded in a named society.
 
-## Next steps
+## More on this topic
 
 - [Perspectives on families revision notes](/resources/oxfordaqa-a-level-sociology-9690-perspectives-on-families-revision-notes/)
 - [Perspectives on families practice questions](/resources/oxfordaqa-a-level-sociology-9690-perspectives-on-families-practice/)

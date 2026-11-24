@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **4.2.1 Principles of Organisation** and **4.2.2.1
@@ -201,7 +201,7 @@ Required practical 5 investigates the effect of pH on the rate of reaction of am
 **Which tests are used in required practical 4?**
 Benedict's test for sugars, the iodine test for starch and Biuret reagent for protein. The AQA 8461 practical uses qualitative reagents to test for carbohydrates, lipids and proteins.
 
-## Related resources
+## More resources on this topic
 
 [Enzymes and the Digestive System revision notes](/resources/aqa-gcse-biology-enzymes-digestive-revision-notes/) |
 [Enzymes and the Digestive System practice questions](/resources/aqa-gcse-biology-enzymes-digestive-practice/)

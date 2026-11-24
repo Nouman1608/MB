@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -153,7 +153,7 @@ The adjustment is made after the period ends. It does not change the cost alread
 - State clearly whether the answer is under- or over-absorbed, and whether it is added to or deducted from profit.
 - **Explain** (why absorption is needed) means link the reason to a decision: for example, to find the full cost of a job so a selling price can be set.
 
-## Related resources
+## More resources on this topic
 
 [Introduction to costing revision notes](/resources/edexcel-ial-accounting-introduction-to-costing-revision-notes/) |
 [Overhead costs practice questions](/resources/edexcel-a-level-accounting-yac11-overhead-costs-practice/) |

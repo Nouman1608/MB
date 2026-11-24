@@ -23,6 +23,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -129,7 +130,7 @@ The extended answers (questions 9 to 11) are shown as indicative creditworthy po
 - Using the same place for both local and contrasting examples when the question needs contrast.
 - Ending an extended answer without a clear judgement.
 
-## Next steps
+## More on this topic
 
 Revisit weak areas in the [study guide](/resources/oxfordaqa-a-level-geography-9635-changing-places/). Test wider knowledge with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/) for help with your place studies. For timing and technique across all units, see the [OxfordAQA A-level Geography exam preparation guide](/resources/oxfordaqa-a-level-geography-exam-preparation/).
 

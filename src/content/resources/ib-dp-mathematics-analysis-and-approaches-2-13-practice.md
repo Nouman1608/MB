@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ This set covers **section 2.13 (AHL only)** of IB DP Mathematics: Analysis and A
 - Giving intercepts as single numbers instead of coordinates.
 - Sign tables that ignore a squared factor, which never changes sign.
 
-## Next steps
+## More on this topic
 
 - Re-read the sketching checklist in the [rational functions study guide](/resources/ib-dp-mathematics-analysis-and-approaches-2-13/).
 - Practise reciprocal graphs in the [modulus and related graphs practice set](/resources/ib-dp-mathematics-analysis-and-approaches-2-16-practice/).

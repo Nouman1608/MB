@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ In a metal, the delocalised electrons are already mobile in the solid. In an ion
 **Does every metal atom give up the same number of electrons?**
 No. Each atom contributes its outer-shell electrons: one for sodium, two for magnesium and three for aluminium.
 
-## Related resources
+## More resources on this topic
 
 - [Metallic bonding revision notes](/resources/cambridge-a-level-chemistry-9701-as-metallic-bonding-revision-notes/)
 - [Metallic bonding practice questions](/resources/cambridge-a-level-chemistry-9701-as-metallic-bonding-practice/)

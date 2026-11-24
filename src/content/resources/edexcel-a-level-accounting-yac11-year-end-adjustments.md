@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -190,7 +190,7 @@ Only the **change** in the allowance goes through the statement of profit or los
 - **Explain** (the use of a provision) needs a reason, such as prudence, linked to a consequence such as profit not being overstated.
 - Keep a list of the notes and tick each one off as you use it. Missed notes are the main source of lost marks in long questions.
 
-## Related resources
+## More resources on this topic
 
 [Financial statements of organisations revision notes](/resources/edexcel-ial-accounting-financial-statements-of-organisations-revision-notes/) |
 [Year-end adjustments practice questions](/resources/edexcel-a-level-accounting-yac11-year-end-adjustments-practice/) |

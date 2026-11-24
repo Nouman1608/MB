@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the treatment of EU law (1.2.10 to 1.2.12) after the UK's exit from the EU, and the civil track limits, which have changed since the Issue 4 specification was published."
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the treatment of EU law (1.2.10 to 1.2.12) after the UK's exit from the EU, and the civil track limits, which have changed since the Issue 4 specification was published. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -158,6 +158,6 @@ A strong answer applies each method to Amira's facts, not just describes it.
 - Describing EU law as though the UK were still a member state.
 - Forgetting that a declaration of incompatibility does not invalidate an Act.
 
-## Next steps
+## More on this topic
 
 Use the [sources of English law revision notes](/resources/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration-revision-notes/) to condense this page, then practise with the [law making practice questions](/resources/a-law-underlying-principles-practice/). Section 1.1 is covered in the [nature, purpose of and liability in law study guide](/resources/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law/).

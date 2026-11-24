@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -124,7 +124,7 @@ Evaluation: the effect depends on how reliable the suppliers are and how the cha
 - Recommending JIT without checking supplier reliability.
 - Evaluating with benefits only, and no costs or risks.
 
-## Next steps
+## More on this topic
 
 - Revisit the [lean production study guide](/resources/ocr-a-level-business-h431-lean-production/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Section B is an essay on your selection, usually discussing more than one poem. 
 choose one poem of beauty and one of damage, then a third that complicates the distinction. Unit 2
 is open book, so mark short phrases in advance and spend exam time on analysis. Allow about an hour.
 
-## Related resources
+## More resources on this topic
 
 - [Natural world and despoliation revision notes](/resources/oxfordaqa-a-level-english-literature-9675-natural-world-and-despoliation-revision-notes/)
 - [Natural world and despoliation practice questions](/resources/oxfordaqa-a-level-english-literature-9675-natural-world-and-despoliation-practice/)

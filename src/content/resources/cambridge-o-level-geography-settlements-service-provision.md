@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -194,7 +194,7 @@ only, and the time and day of the survey may not be typical.
   a closed factory.
 - For the case study, name settlements at different levels in one area and the services each has.
 
-## Next steps
+## More on this topic
 
 Revise with the
 [Settlements and Service Provision revision notes](/resources/cambridge-o-level-geography-settlements-service-provision-revision-notes/)

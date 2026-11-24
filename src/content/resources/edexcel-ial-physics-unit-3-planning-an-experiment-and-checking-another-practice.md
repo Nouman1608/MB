@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 - Describing a graph without saying what the gradient represents.
 - Removing an anomalous point without a check.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another-revision-notes/) and the [study guide](/resources/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another/).
 - Back to the [Edexcel A Level Physics hub](/boards/edexcel/a-level/physics/) and the [checklist](/checklists/edexcel/a-level/physics/).

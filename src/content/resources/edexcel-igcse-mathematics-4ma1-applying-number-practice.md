@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Related: [section 1.10 study guide](/resources/edexcel-igcse-mathematics-4ma1-ap
 - Charging 15p for all 640 km in question 10.
 - Forgetting to convert litres to m³ in question 12.
 
-## Next steps
+## More on this topic
 
 - Recap the facts in the [section 1.10 revision notes](/resources/edexcel-igcse-mathematics-4ma1-applying-number-revision-notes/).
 - For more unit, bill and calculator questions, try the [applying number and electronic calculators practice questions](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice/).

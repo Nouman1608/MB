@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ To see where this unit sits in the course, use the [IB DP chemistry hub](/boards
 - (HL only) Using the small-K approximation without stating or checking it.
 - (HL only) Putting kJ or °C into ΔG⦵ = −RT lnK.
 
-## Next steps
+## More on this topic
 
 - Go back over the [revision notes](/resources/ib-dp-chemistry-how-far-the-extent-of-chemical-change-revision-notes/)
 - Re-read the [study guide](/resources/ib-dp-chemistry-how-far-the-extent-of-chemical-change/)

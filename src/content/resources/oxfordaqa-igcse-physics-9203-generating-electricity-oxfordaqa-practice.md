@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ D: a current that increases slowly
 - Vague factors such as "better magnet" or "more power".
 - Missing the turbine stage in a power station description.
 
-## Next steps
+## More on this topic
 
 - Revise with the [generating electricity revision notes](/resources/oxfordaqa-igcse-physics-9203-generating-electricity-oxfordaqa-revision-notes/).
 - Re-read the [generating electricity study guide](/resources/oxfordaqa-igcse-physics-9203-generating-electricity-oxfordaqa/).

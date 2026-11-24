@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -115,6 +115,6 @@ Evaluation: states still control borders, law and taxation [1]; during the coron
 
 **Level guidance:** top answers separate the spread of rights ideas from their realisation and use contrasting perspectives; middle answers list evidence for and against; low answers assert progress or failure.
 
-## Next steps
+## More on this topic
 
 Continue with [globalisation, poverty and inequalities](/resources/cambridge-a-level-sociology-9699-globalisation-poverty-inequalities/), or review [globalisation and identity](/resources/cambridge-a-level-sociology-9699-globalisation-and-identity/).

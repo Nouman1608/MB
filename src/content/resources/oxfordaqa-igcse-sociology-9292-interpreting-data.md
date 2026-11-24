@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ digital divide, urbanisation. Say what the data suggests, but avoid claiming tha
 - Treating a qualitative extract as representative of everyone.
 - Claiming correlation proves causation.
 
-## Next steps
+## More on this topic
 
 Condense with the [interpreting data revision notes](/resources/oxfordaqa-igcse-sociology-9292-interpreting-data-revision-notes/)
 and practise with the [interpreting data practice questions](/resources/oxfordaqa-igcse-sociology-9292-interpreting-data-practice/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -137,7 +137,7 @@ Evaluate which project the vineyard should choose. **[10]**
 - Judging gearing as good or bad without risk and context.
 - Evaluating with one side only or no final judgement.
 
-## Next steps
+## More on this topic
 
 - Return to the [revision notes](/resources/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy/).
 - Check coverage on the [checklist](/checklists/cambridge/a-level/business/) and the [course hub](/boards/cambridge/a-level/business/).

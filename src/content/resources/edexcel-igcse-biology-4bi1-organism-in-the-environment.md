@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -190,7 +190,7 @@ To score full marks, link a named factor to a process and then to the population
 
 **Answers:** (1) A population is one species in an area; a community is all the species. (2) To avoid bias in choosing the sites, so the sample is representative. (3) 3 ÷ 0.25 = 12 per m². (4) Abiotic: for example temperature and light intensity. Biotic: for example predators and competition.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions for this sub-topic](/resources/edexcel-igcse-biology-4bi1-organism-in-the-environment-practice/), then move on to [feeding relationships](/resources/edexcel-igcse-biology-4bi1-feeding-relationships/). Tick off each point on the [printable checklist](/checklists/edexcel/igcse/biology/).
 

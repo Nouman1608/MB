@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 5.1.1, How fast?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, covering outcomes (a) to (k). H432 is the full A level. OCR's assessment overview places Module 5 in Periodic table, elements and physical chemistry (01) and in Unified chemistry (03).
@@ -266,7 +266,7 @@ Using k = Ae^(–Ea/RT) directly: with Ea = 63.0 kJ mol⁻¹ and A = 5.0 × 10�
 - Leaving Ea in J mol⁻¹ when kJ mol⁻¹ is asked for, or putting T in °C.
 - Writing a slow step that contains a zero-order reactant.
 
-## Next steps
+## More on this topic
 
 Once the ideas make sense, drill them with the [condensed How fast? notes](/resources/ocr-a-level-chemistry-how-fast-revision-notes/) and test them on the [How fast? questions](/resources/ocr-a-level-chemistry-how-fast-practice/). Tangent and gradient skills are revisited in our page on [written-paper practical skills](/resources/ocr-a-level-chemistry-practical-skills-written-examination/).
 

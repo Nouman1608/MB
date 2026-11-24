@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Read the [study guide](/resources/cambridge-a-level-economics-effectiveness-of-f
 - Writing that monetary policy solves cost-push inflation.
 - Ending an evaluation without a judgement that says what it depends on.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including-revision-notes/).
 - Tick off outcomes on the [checklist](/checklists/cambridge/a-level/economics/) and see the [course hub](/boards/cambridge/a-level/economics/).

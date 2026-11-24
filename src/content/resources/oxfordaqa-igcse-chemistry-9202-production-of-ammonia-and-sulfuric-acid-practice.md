@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ D: 200 °C, 1 atmosphere, vanadium(V) oxide
 - Fertiliser answers that do not mention food yields or limited farmland.
 - In calculations, using the 2 : 1 ratio of SO₂ : O₂ when the question asks about SO₂ and SO₃.
 
-## Next steps
+## More on this topic
 
 - Rework weak areas in the [production of ammonia and sulfuric acid study guide](/resources/oxfordaqa-igcse-chemistry-9202-production-of-ammonia-and-sulfuric-acid/).
 - Recheck facts in the [ammonia and sulfuric acid revision notes](/resources/oxfordaqa-igcse-chemistry-9202-production-of-ammonia-and-sulfuric-acid-revision-notes/).

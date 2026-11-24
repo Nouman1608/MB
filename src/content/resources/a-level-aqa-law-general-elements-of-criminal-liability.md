@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **General Elements of Liability**, part of Section
@@ -177,7 +177,7 @@ at least one element.
 - Practise applying the coincidence and transferred malice doctrines to
 short scenario questions.
 
-## Related resources
+## More resources on this topic
 
 [General Elements of Liability revision notes](/resources/aqa-a-level-law-criminal-liability-revision-notes/) |
 [General Elements of Liability practice questions](/resources/aqa-a-level-law-criminal-liability-practice/)

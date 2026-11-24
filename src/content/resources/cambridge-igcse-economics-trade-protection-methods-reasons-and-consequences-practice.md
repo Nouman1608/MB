@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Revise first with the [study guide](/resources/cambridge-igcse-economics-trade-p
 - Leaving out units or the word "per" in cost-per-job answers.
 - Ending an evaluation without a judgement.
 
-## Next steps
+## More on this topic
 
 - Recall the key points in the [revision notes](/resources/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences/).

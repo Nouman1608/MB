@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -152,7 +152,7 @@ Relative atomic masses: H = 1, C = 12, N = 14, O = 16, F = 19.
 - Giving the wrong number of water molecules lost (links are one fewer than units).
 - Confusing nucleotides, amino acids and sugars as monomers.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-revision-notes/).
 - Reread any weak area in the [study guide](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers/).

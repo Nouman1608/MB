@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,7 +187,7 @@ P₄ + 3OH⁻ + 3H₂O → PH₃ + 3H₂PO₂⁻
 - Using the molar mass of a halogen atom instead of the diatomic molecule.
 - Forgetting to convert dm³ to cm³ when the question asks for cm³.
 
-## Next steps
+## More on this topic
 
 - [Redox revision notes](/resources/edexcel-ial-chemistry-redox-chemistry-revision-notes/)
 - [Redox study guide](/resources/edexcel-ial-chemistry-redox-chemistry/)

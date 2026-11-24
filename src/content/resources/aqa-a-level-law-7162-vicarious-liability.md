@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification heading 'Other areas of vicarious liability' is not defined further; a teacher should confirm that lent employees, independent contractors and the employer's indemnity are the areas centres teach under it."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification heading 'Other areas of vicarious liability' is not defined further; a teacher should confirm that lent employees, independent contractors and the employer's indemnity are the areas centres teach under it. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -163,6 +163,6 @@ Stage 2:  Lu: Zed was driving to deliver parcels - an authorised act done
 
 State the two-stage test first, then apply each stage with authority. In problem questions, deal with each claimant separately at stage 2: one act can be within the course of employment for one victim and outside it for another, as the worked problem shows.
 
-## Related resources
+## More resources on this topic
 
 [Vicarious liability revision notes](/resources/aqa-a-level-law-7162-vicarious-liability-revision-notes/) | [Vicarious liability practice questions](/resources/aqa-a-level-law-7162-vicarious-liability-practice/) | [Tort overview](/resources/aqa-a-level-law-tort/)

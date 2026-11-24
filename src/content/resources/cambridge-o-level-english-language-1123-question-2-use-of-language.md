@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -185,7 +185,7 @@ collapsing like emptied sacks".
 - Question 2 is 9 marks, about a third of Section A: give it time after Question 1, not the minutes
   left over.
 
-## Related resources
+## More resources on this topic
 
 - [Question 2 Use of Language: revision notes](/resources/cambridge-o-level-english-language-1123-question-2-use-of-language-revision-notes/)
 - [Question 2 Use of Language: practice questions](/resources/cambridge-o-level-english-language-1123-question-2-use-of-language-practice/)

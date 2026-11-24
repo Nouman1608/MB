@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ Identify and correct **two** errors in this statement. **[4]**
 - Reversing the temperature gradient in the column.
 - Mixing up the uses of kerosene, diesel oil and fuel oil.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [fuels study guide](/resources/cambridge-o-level-chemistry-5070-fuels/).
 - Move on to the [alkanes practice questions](/resources/cambridge-o-level-chemistry-5070-alkanes-practice/).

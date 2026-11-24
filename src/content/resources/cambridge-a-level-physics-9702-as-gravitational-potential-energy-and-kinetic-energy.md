@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -216,7 +216,7 @@ is at right angles to the weight and does no work against gravity.
 Kinetic energy is proportional to v², so multiplying v by 2 multiplies Eₖ by
 2² = 4.
 
-## Related resources
+## More resources on this topic
 
 - [Work, Energy and Power](/resources/as-physics-work-energy-and-power/) — the whole of Topic 5 in one guide
 - [Energy conservation](/resources/cambridge-a-level-physics-9702-as-energy-conservation/) — subtopic 5.1, work, efficiency and power

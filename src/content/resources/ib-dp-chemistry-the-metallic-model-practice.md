@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Aluminium: 2.70 × 50.0 = **135 g** [1]
 - Not using the data supplied when a question says to.
 - (HL only) Ignoring the 3d electrons when explaining transition element properties.
 
-## Next steps
+## More on this topic
 
 - Find your weak spots first with [all free 10-minute diagnostics](/diagnostics/)
 - Recap the key points: [metallic model revision notes](/resources/ib-dp-chemistry-the-metallic-model-revision-notes/)

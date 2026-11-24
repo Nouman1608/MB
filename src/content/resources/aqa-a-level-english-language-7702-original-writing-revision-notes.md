@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -179,7 +179,7 @@ Keep dated drafts so the commentary can point to real decisions rather than reco
     reached its verb sooner and created pace."
 12. Connections between your writing and the style model are assessed, so discussing only one limits the commentary.
 
-## Related resources
+## More resources on this topic
 
 - [Original writing practice questions](/resources/aqa-a-level-english-language-7702-original-writing-practice/)
 - [NEA revision notes](/resources/aqa-english-language-nea-revision-notes/)

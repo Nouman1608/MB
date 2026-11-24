@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ From a volume ratio:  k = cube root(volume ratio)
 11. **Alternate angles** (AB parallel to DE)
 12. Small cone: 640 × (½)³ = 80; frustum = **560 cm³**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [similarity study guide](/resources/cambridge-igcse-mathematics-0580-similarity/).
 - Practise with the [similarity practice questions](/resources/cambridge-igcse-mathematics-0580-similarity-practice/).

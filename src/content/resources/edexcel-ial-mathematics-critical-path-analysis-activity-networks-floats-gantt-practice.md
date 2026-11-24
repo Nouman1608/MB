@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -183,7 +183,7 @@ No. A dummy has duration 0 and is drawn dashed. Giving it a duration or counting
 **Is a lower bound for the number of workers the same as a schedule?**
 No. A lower bound is the total of the durations divided by the minimum project time, rounded up. You still need to show a schedule with start and finish times that meets every precedence.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt/).
 - Tick off the topic on the [checklist](/checklists/edexcel/a-level/mathematics/) and see the [course hub](/boards/edexcel/a-level/mathematics/).

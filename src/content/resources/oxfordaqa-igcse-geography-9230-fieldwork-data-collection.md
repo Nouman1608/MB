@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -167,6 +167,6 @@ The answer describes equipment, distance, position, repeats and sites, then give
 - **Justifications that only say "it was easy"**, without linking to the enquiry.
 - **Pre-processed data presented as primary data.**
 
-## Next steps
+## More on this topic
 
 Condense this with the [fieldwork data collection revision notes](/resources/oxfordaqa-igcse-geography-9230-fieldwork-data-collection-revision-notes/) and test yourself with the [fieldwork data collection practice questions](/resources/oxfordaqa-igcse-geography-9230-fieldwork-data-collection-practice/). The previous stage of the enquiry is covered in [planning a fieldwork enquiry](/resources/oxfordaqa-igcse-geography-9230-enquiry-planning/), and recording what you see in [photographs, field sketches and sketch maps](/resources/oxfordaqa-igcse-geography-9230-photographs-sketches/).

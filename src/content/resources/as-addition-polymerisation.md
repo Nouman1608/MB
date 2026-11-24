@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -203,7 +203,7 @@ Addition polymers have a saturated carbon backbone with strong, non-polar C–C 
 **Why is burning PVC more harmful than burning poly(ethene)?**
 PVC contains chlorine, so burning it releases toxic and corrosive hydrogen chloride gas. Plain hydrocarbon polymers such as poly(ethene) produce the same combustion products as any hydrocarbon.
 
-## Related resources
+## More resources on this topic
 
 - [Hydrocarbons: Alkanes and Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/) — where addition polymerisation was first introduced, alongside alkenes' other reactions
 - [Organic Synthesis: Planning Multi-Step Routes](/resources/as-organic-synthesis-planning-multi-step-routes/) — applying every AS organic reaction, including this one, to plan a route

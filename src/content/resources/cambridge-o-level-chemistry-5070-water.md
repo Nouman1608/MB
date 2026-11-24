@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Each mark pairs a named stage with its purpose. Writing "the water is filtered a
 - **Describe** (treatment): name each stage in order and say what it removes.
 - **Explain** (distilled water): give the reason and the consequence: tap water contains dissolved impurities, which could react with or interfere with the substances in the experiment.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [water revision notes](/resources/cambridge-o-level-chemistry-5070-water-revision-notes/).
 - Test yourself with the [water practice questions](/resources/cambridge-o-level-chemistry-5070-water-practice/).

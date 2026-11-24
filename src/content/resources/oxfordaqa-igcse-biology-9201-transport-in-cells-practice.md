@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -130,7 +130,7 @@ For mixed questions on the whole of Topic 1, use the [Organisation practice ques
 - Dividing by the final mass instead of the initial mass.
 - Giving "large surface area" for an exchange surface with no mention of being thin or having a blood supply.
 
-## Next steps
+## More on this topic
 
 - [Transport in cells study guide](/resources/oxfordaqa-igcse-biology-9201-transport-in-cells/)
 - [Organisation revision notes](/resources/igcse-oxfordaqa-biology-organisation-revision-notes/)

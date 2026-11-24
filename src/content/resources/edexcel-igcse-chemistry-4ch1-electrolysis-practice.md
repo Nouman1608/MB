@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Where needed: molar volume of a gas = 24 000 cm³ at rtp.
 - Dividing a cm³ volume by 24 instead of 24 000.
 - Giving a gas test without its result, or "litmus turns red" for chlorine.
 
-## Next steps
+## More on this topic
 
 - Recap the rules in the [electrolysis revision notes](/resources/edexcel-igcse-chemistry-4ch1-electrolysis-revision-notes/).
 - Rework anything you missed with the [electrolysis study guide](/resources/edexcel-igcse-chemistry-4ch1-electrolysis/).

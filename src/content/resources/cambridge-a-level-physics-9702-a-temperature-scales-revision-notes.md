@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ T / K = θ / °C + 273.15
 
 **Answers:** 1. Any three of: density of a liquid; volume of a gas at constant pressure; resistance of a metal; e.m.f. of a thermocouple. 2. Any two: changes measurably with temperature; has a single value for each temperature in the range; reproducible. 3. Its density is a maximum near 4 °C, so the same density occurs at two different temperatures. 4. θ = (115.4 – 100.0) ÷ (138.5 – 100.0) × 100 = 40.0 °C. 5. The e.m.f. and the resistance do not vary with temperature in the same way between the fixed points. 6. Its definition is not based on how any one material's property changes, so all correct thermodynamic temperatures agree regardless of the thermometer's substance. 7. 310.15 K (310 K). 8. –268.95 °C (about –269 °C). 9. 50 K. 10. 0 K; –273.15 °C. 11. 373.15 ÷ 273.15 = 1.37. 12. The temperature difference between its two junctions (and the pair of metals used).
 
-## Related resources
+## More resources on this topic
 
 - [Temperature revision notes](/resources/a-physics-temperature-revision-notes/) — the whole of Topic 14
 - [Temperature scales practice questions](/resources/cambridge-a-level-physics-9702-a-temperature-scales-practice/)

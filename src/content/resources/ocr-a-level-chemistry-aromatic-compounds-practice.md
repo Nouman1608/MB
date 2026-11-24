@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Relative atomic masses: N 14.0; H 1.0; O 16.0; C 12.0. Any further data is given
 - Ignoring directing effects when ordering synthesis steps.
 - Forgetting the 3HBr in the bromination equations of phenol and phenylamine.
 
-## Next steps
+## More on this topic
 
 - Recap with the [aromatic compounds revision notes](/resources/ocr-a-level-chemistry-aromatic-compounds-revision-notes/)
 - Reread the explanations in the [aromatic compounds study guide](/resources/ocr-a-level-chemistry-aromatic-compounds/)

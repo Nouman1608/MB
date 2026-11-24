@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -220,7 +220,7 @@ It is a length divided by a length, so the units cancel.
 The gradient of a stress–strain graph in its linear region equals E. A
 force–extension graph gives F/x, which must be multiplied by L/A.
 
-## Related resources
+## More resources on this topic
 
 - [Deformation of Solids](/resources/as-physics-deformation-of-solids/) — the whole of Topic 6 in one guide
 - [Elastic and plastic behaviour](/resources/cambridge-a-level-physics-9702-as-elastic-and-plastic-behaviour/) — subtopic 6.2, elastic limits and stored energy

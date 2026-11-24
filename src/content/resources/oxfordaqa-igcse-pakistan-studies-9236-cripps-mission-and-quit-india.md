@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ For "importance" questions, explain the effect on the League's position, not onl
 9-mark comparisons, give each event its own developed paragraph and then a judgement that compares
 them directly.
 
-## Related resources
+## More resources on this topic
 
 - [Cripps Mission and Quit India revision notes](/resources/oxfordaqa-igcse-pakistan-studies-9236-cripps-mission-and-quit-india-revision-notes/)
 - [Cripps Mission and Quit India practice questions](/resources/oxfordaqa-igcse-pakistan-studies-9236-cripps-mission-and-quit-india-practice/)

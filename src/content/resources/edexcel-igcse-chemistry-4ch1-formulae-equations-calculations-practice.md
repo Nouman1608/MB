@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -202,7 +202,7 @@ Percentage yield = (84.0 ÷ 96.0) × 100 [1] = **87.5%** [1].
 - Not converting cm³ to dm³ (÷ 1000) before using mol/dm³.
 - Mixing up 24 dm³ and 24 000 cm³.
 
-## Next steps
+## More on this topic
 
 - [Principles of chemistry revision notes](/resources/igcse-edexcel-chemistry-principles-revision-notes/)
 - [Principles of chemistry study guide](/resources/igcse-edexcel-chemistry-principles-of-chemistry/)

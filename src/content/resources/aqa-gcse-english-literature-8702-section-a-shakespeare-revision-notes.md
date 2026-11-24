@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -183,7 +183,7 @@ Use whichever fits your play and question:
 12. The audience knows something a character does not, so lines carry a second meaning; it lets you
     discuss audience response and structure together.
 
-## Related resources
+## More resources on this topic
 
 - [Shakespeare practice questions](/resources/aqa-gcse-english-literature-8702-section-a-shakespeare-practice/)
 - [Paper 1 revision notes](/resources/aqa-gcse-english-literature-paper-1-revision-notes/)

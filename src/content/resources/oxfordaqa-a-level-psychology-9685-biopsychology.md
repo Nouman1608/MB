@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,7 +177,7 @@ Recovery tends to be greater in younger people and with rehabilitation such as p
 - Writing that adrenaline is released by the pituitary.
 - Describing split-brain research without stating which hemisphere processed which visual field.
 
-## Related resources
+## More resources on this topic
 
 - [Biopsychology revision notes](/resources/oxfordaqa-a-level-psychology-9685-biopsychology-revision-notes/)
 - [Biopsychology practice questions](/resources/oxfordaqa-a-level-psychology-9685-biopsychology-practice/)

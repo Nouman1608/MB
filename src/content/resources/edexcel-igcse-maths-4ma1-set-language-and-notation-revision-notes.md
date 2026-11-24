@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes cover section 1.5, Set language and notation, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for papers sat in January and June. Foundation statements 1.5 A–E apply to both tiers. Higher statements 1.5 A–D (algebraic sets, subsets, n(A) and practical problems) are marked **Higher tier only**. For full explanations and worked examples, read the [set language and notation study guide](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation/).
@@ -239,7 +239,7 @@ Write the empty set as ∅, with no curly brackets. {∅} and {0} are both wrong
 **What is the complement of a set?**
 The complement A′ is the set of elements of the universal set ℰ that are not in A. You cannot find a complement without knowing the universal set.
 
-## Next steps
+## More on this topic
 
 Go back to the [study guide](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation/) for any self-test question you got wrong, then try the full [practice set](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-practice/). For Venn diagrams in probability, see the [statistics and probability revision notes](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability-revision-notes/).
 

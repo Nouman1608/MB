@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ Evaluate the corporate governance of Yarrowfield Foods plc and recommend changes
 - Recommending going to the media or a regulator first, before internal routes and professional advice.
 - Ending an "evaluate" answer without a judgement.
 
-## Next steps
+## More on this topic
 
 - Short notes with a self-test: [revision notes](/resources/oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes/)
 - Full explanations and worked examples: [study guide](/resources/oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations/)

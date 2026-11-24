@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -157,7 +157,7 @@ Mutant 3: an addition of one base (A). [1] This is a frame shift: from the fifth
 - Describing iPS cells as embryonic.
 - Giving one side only in an evaluation, with no judgement.
 
-## Next steps
+## More on this topic
 
 - Go back over weak areas in the [study guide](/resources/aqa-a-level-biology-gene-mutations-and-stem-cells/) and the [revision notes](/resources/aqa-a-level-biology-gene-mutations-and-stem-cells-revision-notes/).
 - Track progress with the [printable checklist](/checklists/aqa/a-level/biology/) and browse the [AQA A-level Biology hub](/boards/aqa/a-level/biology/).

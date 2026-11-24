@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics (YPH11) specification, Issue 3, and covers sections 3.3 Planning and 3.4 Implementation and measurements. Unit 3 is an International AS (IAS) unit. The specification gives it as a written paper of 1 hour 20 minutes and 50 marks, with a minimum of 20 marks awarded for mathematics at Level 2 or above, and it tests the experiments you meet while studying Units 1 and 2.
@@ -219,7 +219,7 @@ A micrometer measuring a wire shows 1.5 mm on the sleeve and the thimble line at
 - Listing safety as "wear goggles" with no hazard named.
 - Giving "human error" as an improvement point instead of a specific cause.
 
-## Next steps
+## More on this topic
 
 Do the [practice set](/resources/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another-practice/) under timed conditions, then use the [revision notes](/resources/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another-revision-notes/) to fix the gaps.
 

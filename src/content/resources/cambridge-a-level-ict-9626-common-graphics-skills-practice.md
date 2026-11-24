@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the expansion given for CMS (colour management system) against the course materials; the syllabus lists CMS but does not expand it."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the expansion given for CMS (colour management system) against the course materials; the syllabus lists CMS but does not expand it. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -129,7 +129,7 @@ Revise first with the [study guide](/resources/cambridge-a-level-ict-9626-common
 - Saying "high resolution is always better" without mentioning file size.
 - Mixing up align (put on a line) with distribute (equal gaps).
 
-## Next steps
+## More on this topic
 
 - Recap with the [topic revision notes](/resources/a-level-cambridge-ict-graphics-creation-revision-notes/).
 - Reread the [study guide](/resources/cambridge-a-level-ict-9626-common-graphics-skills/).

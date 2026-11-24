@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -250,7 +250,7 @@ Write the product concentrations over the reactant concentrations, with each ter
 **What is dynamic equilibrium?**
 Dynamic equilibrium is reached in a closed system when the forward and reverse reactions occur at the same rate, so the concentrations stay constant. It is subtopic 7.1 of Cambridge International AS & A Level Chemistry 9701.
 
-## Related resources
+## More resources on this topic
 
 - [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — the IGCSE/O Level qualitative treatment this resource builds on
 - [Acids and Bases: The Brønsted-Lowry Theory](/resources/as-acids-and-bases-bronsted-lowry-theory/) — the other AS Level equilibria topic

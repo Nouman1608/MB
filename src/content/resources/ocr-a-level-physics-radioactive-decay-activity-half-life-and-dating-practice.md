@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -168,7 +168,7 @@ No. Gamma rays are absorbed at random, so their intensity falls exponentially wi
 **How should you describe the dice simulation of decay?**
 Say what is varied and counted: throw all the dice, remove those showing a six, count the dice remaining, and repeat. Each die has a 1/6 chance of "decaying" per throw, giving an exponential pattern.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating/).
 - Open the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [checklist](/checklists/ocr/a-level/physics/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Give evidence from the data, such as the growth rate, unemployment and inflation
 **Why does the sign of the output gap matter for stimulus?**
 With a negative gap, stimulus can raise output using spare capacity; with a positive gap, it mainly raises prices. Ignoring the sign of the gap weakens an evaluation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business-revision-notes/) and [study guide](/resources/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business/).
 - Use the [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/) and [checklist](/checklists/cambridge/a-level/economics/).

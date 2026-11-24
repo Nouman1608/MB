@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,6 +139,6 @@ On the graph, the two lines are **parallel**, with B's line shifted to the right
 - **Use a graph**: read f₀ from the f-axis intercept, find h from the gradient, and ϕ from the extrapolated intercept or from hf₀.
 - **Describe** the evidence for photons: no emission below f₀, instant emission above it, and Ek(max) depending on frequency only.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [photoelectric effect revision notes](/resources/oxfordaqa-a-level-physics-9630-photoelectric-effect-oxfordaqa-revision-notes/) and test yourself with the [photoelectric effect practice questions](/resources/oxfordaqa-a-level-physics-9630-photoelectric-effect-oxfordaqa-practice/). The way this effect changed ideas about light is continued in the [wave-particle duality study guide](/resources/oxfordaqa-a-level-physics-9630-wave-particle-duality-oxfordaqa/), and photon energies from atoms are in the [electron collisions study guide](/resources/oxfordaqa-a-level-physics-9630-collisions-of-electrons-with-atoms-oxfordaqa/).

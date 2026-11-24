@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -168,7 +168,7 @@ algae that live in them. 10. Most land is very low-lying and their economies are
 options for retreat. 11. It has no legal status under the 1951 Refugee Convention and most movement
 is internal.
 
-## Related resources
+## More resources on this topic
 
 - [Global Climate study guide](/resources/ib-dp-geography-global-climate/)
 - [Global Climate practice questions](/resources/ib-dp-geography-global-climate-practice/)

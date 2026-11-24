@@ -42,7 +42,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches the number, approximation, sequences and financial mathematics unit of IB Diploma Programme Mathematics: Applications and Interpretation from scratch. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 1.1 to 1.8, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -317,7 +317,7 @@ Write the system down before quoting the solution.
 - Quoting all roots of a polynomial when the context rules some out.
 - Using the laws of logarithms, which belong to HL (AHL 1.9), rather than technology.
 
-## Next steps
+## More on this topic
 
 Go to the [revision notes](/resources/ib-dp-mathematics-ai-number-approximation-financial-revision-notes/) for a one-page recap, then try the [practice questions](/resources/ib-dp-mathematics-ai-number-approximation-financial-practice/). Related: [geometry and trigonometry](/resources/ib-dp-mathematics-ai-geometry-trigonometry/), [statistics and probability](/resources/ib-dp-mathematics-ai-statistics-probability/), the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/) and [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
 

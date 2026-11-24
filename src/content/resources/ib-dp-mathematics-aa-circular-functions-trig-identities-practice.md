@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ Learn the methods first in the [circular functions study guide](/resources/ib-dp
 - (HL only) Proving an inverse-function result without stating the range that makes the angle unique.
 - (HL only) Sign slips in compound angle expansions, especially cos(A + B).
 
-## Next steps
+## More on this topic
 
 - Recap the key facts in the [circular functions revision notes](/resources/ib-dp-mathematics-aa-circular-functions-trig-identities-revision-notes/).
 - Re-learn any weak topic in the [circular functions study guide](/resources/ib-dp-mathematics-aa-circular-functions-trig-identities/).

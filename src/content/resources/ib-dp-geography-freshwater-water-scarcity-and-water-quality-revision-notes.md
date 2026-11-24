@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -139,6 +139,6 @@ Ethiopia has built a large hydroelectric dam on the Blue Nile, the source of mos
 
 **Answers:** 1. Water embedded in a traded product. 2. Physical: not enough water; economic: water exists but cannot be accessed for lack of money or infrastructure. 3. For example population growth, irrigation, leaking pipes. 4. Nutrients cause algal blooms; the algae die and decompose, and bacteria consume dissolved oxygen. 5. Sewage and fertiliser; dissolved oxygen tests. 6. Below 1,700 cubic metres per person per year. 7. 6,300 / 9 = 700 cubic metres per person, which is water scarcity. 8. Evaporation leaves salts behind, and a raised water table brings salts to the surface. 9. Heavy organic pollution, such as sewage. 10. Falling fresh groundwater levels let denser seawater move inland underground. 11. River diversion for irrigation removed the inflow, so the supply that remained was too small. 12. Ethiopia wants electricity and development; Egypt fears reduced downstream flow.
 
-## Related resources
+## More resources on this topic
 
 - [Option A: Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/)

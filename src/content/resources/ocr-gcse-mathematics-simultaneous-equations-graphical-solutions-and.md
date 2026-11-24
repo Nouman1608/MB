@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows sections 6.03c, 6.03d and 6.03e of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers simultaneous equations, using graphs for approximate solutions, and sign-change methods. Both tiers study the linear simultaneous equations and the graph work on straight lines and quadratics. Anything labelled **Higher tier only** is for Higher tier candidates alone. The specification states that any content can be set on either type of paper, so practise the algebra by hand.
@@ -285,7 +285,7 @@ Each bisection halves the interval, so you gain accuracy steadily but slowly.
 - Testing only one end of an interval in a sign-change argument. Show both values and their signs.
 - Stopping a decimal search without testing the half-way point when you need a rounded answer.
 
-## Next steps
+## More on this topic
 
 Next, use the [revision notes](/resources/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and-revision-notes/), and then attempt the [practice questions](/resources/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and-practice/). Use the [checklist](/checklists/ocr/gcse/mathematics/) to track progress, and the [diagnostics](/diagnostics/) to find weak spots.
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -225,7 +225,7 @@ cables are heated far less.
 - **Describe** (transformer structure): name all three parts and say what each is connected to.
 - **Describe the factors** (6.15, 6.16): use comparatives ("faster", "stronger", "more turns") linked to "larger induced voltage".
 
-## Related resources
+## More resources on this topic
 
 - [Electromagnetic induction revision notes](/resources/edexcel-igcse-physics-4ph1-electromagnetic-induction-revision-notes/) for a fast recap and self-test
 - [Electromagnetic induction practice questions](/resources/edexcel-igcse-physics-4ph1-electromagnetic-induction-practice/), including transformer calculations

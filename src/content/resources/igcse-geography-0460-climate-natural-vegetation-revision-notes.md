@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -226,7 +226,7 @@ above it, reducing evaporation and the moisture available for rain. 11. For exam
 and protected areas (or ecotourism). 12. Without the canopy and roots, rain reaches the ground faster
 and runs off, carrying soil into rivers.
 
-## Related resources
+## More resources on this topic
 
 - [Climate and Natural Vegetation study guide](/resources/igcse-geography-climate-and-natural-vegetation/)
 - [The Natural Environment revision notes (whole theme)](/resources/igcse-geography-natural-environment-revision-notes/)

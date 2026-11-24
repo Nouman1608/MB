@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide follows the OCR A Level Mathematics A specification (Version 3.1, August 2026, for first assessment in 2018). It covers sections 1.06f to 1.06i of the Pure Mathematics content: the laws of logarithms, equations involving exponentials, reduction to linear form using logarithmic graphs, and modelling with exponential functions. The specification lists all four as Stage 1, so they are common to the AS and A Level courses. Pure Mathematics content is assessed in all three written papers.
 
@@ -348,7 +348,7 @@ If lg y against lg x gives a straight line, the relationship is a power law, y =
 **What are the limitations of exponential growth and decay models?**
 Exponential growth continues without bound, decay never reaches zero, the model gives decimals for whole-number counts, and predictions far outside the data used are unreliable.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-a-level-mathematics-laws-of-logarithms-exponential-equations-reduction-to-practice/), then use the [revision notes](/resources/ocr-a-level-mathematics-laws-of-logarithms-exponential-equations-reduction-to-revision-notes/) for the final weeks.
 

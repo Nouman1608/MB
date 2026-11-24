@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,6 +126,6 @@ These questions cover sub-topic 1(h) Metallic bonding of the Pearson Edexcel Int
 - Identifying a metal from "conducts when molten" alone.
 - Calling metallic bonding an attraction "between metal atoms".
 
-## Next steps
+## More on this topic
 
 Go back to the [metallic bonding study guide](/resources/edexcel-igcse-chemistry-4ch1-metallic-bonding/) for any gaps, then try the mixed [ionic, covalent and metallic bonding practice questions](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice/).

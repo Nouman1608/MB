@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -164,7 +164,7 @@ The reasoning in words, which is what "describe the action" questions want: as i
 - **Describe** a potential divider's action: chain the steps (condition → resistance → share of p.d. → output).
 - **Explain** the junction rule: use the word **charge** and say it is conserved.
 
-## Next steps
+## More on this topic
 
 Condense this with the [electric circuits revision notes](/resources/cambridge-igcse-physics-0625-electric-circuits-revision-notes/) and practise with the [electric circuits practice questions](/resources/cambridge-igcse-physics-0625-electric-circuits-practice/). The previous subtopic is [electrical quantities](/resources/cambridge-igcse-physics-0625-electrical-quantities/) and the next is [electrical safety](/resources/cambridge-igcse-physics-0625-electrical-safety/).
 

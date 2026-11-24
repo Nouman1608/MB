@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -233,7 +233,7 @@ There must be no resultant force and no resultant moment. Balanced moments alone
 **Where are the rest of the 5054 forces topics covered?**
 The balanced and unbalanced forces, friction and circular motion parts of subtopic 1.5 are covered on the Forces and Motion page.
 
-## Related resources
+## More resources on this topic
 
 - [Forces and Motion](/resources/forces-and-motion/) — the rest of
 subtopic 1.5

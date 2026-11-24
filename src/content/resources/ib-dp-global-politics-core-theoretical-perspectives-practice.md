@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -123,7 +123,7 @@ Conclusion: they offer more insight into **why** legitimacy is contested, less i
 - Stating a theory's claim as a fact rather than as an argument that can be challenged.
 - Ending an essay with no judgement on "to what extent" or "discuss".
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/ib-dp-global-politics-core-theoretical-perspectives-revision-notes/)
 - [Study guide for this topic](/resources/ib-dp-global-politics-core-theoretical-perspectives/)

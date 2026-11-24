@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide covers sections 1.3 (Mission statement) and 1.4 (Corporate social responsibility (CSR)) of the OCR A Level Business specification (H431, Version 2.1, January 2026), within Business objectives and strategy. Both sections sit alongside the wider topic notes in [Business objectives and strategic decisions](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), the [topic revision notes](/resources/a-business-strategy-revision-notes/) and the [topic practice questions](/resources/a-business-strategy-practice/). Pair this guide with the [revision notes](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-revision-notes/) and the [practice set](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-practice/). Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Printable list: [checklist](/checklists/ocr/a-level/business/). To find weak spots first, try the [free diagnostics](/diagnostics/).
 
@@ -243,7 +243,7 @@ A business may change its mission after a takeover, a change of ownership, entry
 **Which OCR A Level Business sections cover mission statements and CSR?**
 Section 1.3 (Mission statement) and section 1.4 (Corporate social responsibility) of the OCR A Level Business specification (H431) cover them, within the Business objectives and strategy area of study.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-practice/) and use the [revision notes](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-revision-notes/) for recall.
 

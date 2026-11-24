@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -114,7 +114,7 @@ Study first with the [study guide](/resources/oxfordaqa-a-level-physics-projecti
 - Saying that forces are zero at terminal speed rather than the resultant force.
 - Rounding intermediate values early.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/oxfordaqa-a-level-physics-projectile-motion-friction-drag-and-terminal-speed-revision-notes/) and revisit the [study guide](/resources/oxfordaqa-a-level-physics-projectile-motion-friction-drag-and-terminal-speed/).
 - Return to the [OxfordAQA A-level Physics course page](/boards/oxfordaqa/a-level/physics/) and tick off outcomes on the [checklist](/checklists/oxfordaqa/a-level/physics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ A heatwave increases demand by 200 at every price.
 - Analysis chains that skip the shortage or surplus step.
 - Evaluations that discuss producers only.
 
-## Next steps
+## More on this topic
 
 - Recap with the [2.2 revision notes](/resources/ocr-gcse-economics-j205-demand-revision-notes/).
 - Move on to the [supply practice questions](/resources/ocr-gcse-economics-j205-supply-practice/).

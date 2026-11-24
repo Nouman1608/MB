@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Link each advantage or disadvantage to the business in the question, such as its
 **Which OxfordAQA 9725 section do these questions cover?**
 They cover section 3.4.4 Types of strategies of OxfordAQA International AS and A-level Business (9725): growth, innovation, globalisation and sustainability strategies.
 
-## Next steps
+## More on this topic
 
 - Recall the formulas with the [revision notes](/resources/oxfordaqa-a-level-business-types-of-strategies-revision-notes/).
 - Reread the [study guide](/resources/oxfordaqa-a-level-business-types-of-strategies/) for any question you missed.

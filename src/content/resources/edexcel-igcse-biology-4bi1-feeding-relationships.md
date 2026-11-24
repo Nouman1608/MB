@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -190,7 +190,7 @@ Because 90% of energy is lost at each step, a field of crops can feed more peopl
 
 **Answers:** (1) Lettuce. (2) Hawk. (3) 500 kJ. (4) Any two of: lost as heat from respiration, some parts not eaten, faeces, excretion.
 
-## Next steps
+## More on this topic
 
 Revise with the [feeding relationships revision notes](/resources/edexcel-igcse-biology-4bi1-feeding-relationships-revision-notes/) and then practise with the [feeding relationships practice questions](/resources/edexcel-igcse-biology-4bi1-feeding-relationships-practice/). The next sub-topic is [cycles within ecosystems](/resources/edexcel-igcse-biology-4bi1-cycles-within-ecosystems/).
 

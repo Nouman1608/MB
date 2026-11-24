@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Paper 2 Source-based Reading and Directed Writing**,
@@ -182,7 +182,7 @@ This mirrors how Paper 1's reading section works, but with a deliberately
 different register of source material to test breadth of reading skill
 across genres.
 
-## Related resources
+## More resources on this topic
 
 - [Source-based Reading and Directed Writing revision notes](/resources/igcse-oxfordaqa-english-language-paper-2-revision-notes/)
 - [Source-based Reading and Directed Writing practice questions](/resources/oxfordaqa-english-language-paper-2-practice/)

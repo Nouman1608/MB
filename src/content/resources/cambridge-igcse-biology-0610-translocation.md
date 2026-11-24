@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ This works for organs you have never studied, which is exactly what "explain" qu
 - **Explain** a role switch: give the stage when it is a sink and why, then the stage when it is a source and why.
 - In plant-diagram questions, identify the source first, then trace every route to a sink.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [translocation revision notes](/resources/cambridge-igcse-biology-0610-translocation-revision-notes/).
 - Marked questions: [translocation practice questions](/resources/cambridge-igcse-biology-0610-translocation-practice/).

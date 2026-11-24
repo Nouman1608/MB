@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ These questions cover section 3.12.4, Safety aspects of nuclear reactors, of Oxf
 - Treating 10 years as a whole number of half-lives.
 - Listing risks and benefits without reaching a conclusion.
 
-## Next steps
+## More on this topic
 
 - Recap with the [reactor safety revision notes](/resources/oxfordaqa-a-level-physics-9630-safety-aspects-nuclear-reactors-revision-notes/).
 - Re-read the [reactor safety study guide](/resources/oxfordaqa-a-level-physics-9630-safety-aspects-nuclear-reactors/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ These questions cover sections 3.6.1 and 3.6.2 a to c (variation and natural sel
 - Using Lamarck-type reasoning (use and disuse) to explain natural selection.
 - Missing isolation from a speciation answer, or leaving out the fertile offspring test.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species/).

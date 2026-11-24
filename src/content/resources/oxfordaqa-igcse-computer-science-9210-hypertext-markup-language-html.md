@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -295,7 +295,7 @@ meaningful structure**.
 - **HTML5** questions: give the specific features, such as `<video>` for multimedia and `<header>` as a semantic
   element, rather than saying it is "newer".
 
-## Next steps
+## More on this topic
 
 For a condensed summary and a self-test, use the [Hypertext Markup Language (HTML) revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-hypertext-markup-language-html-revision-notes/), and practise

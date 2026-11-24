@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ Draw only the real forces, such as tension, friction or gravity, and identify wh
 **Which formula should you use for centripetal acceleration in OCR A Level Physics?**
 Use a = v²/r when you know the speed and radius, and a = ω²r when you are given period, frequency or angular velocity. Both appear in OCR H556 section 5.2.2.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force/).
 - Tick off progress on the [checklist to print](/checklists/ocr/a-level/physics/) and see the [subject hub](/boards/ocr/a-level/physics/).

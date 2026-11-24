@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -248,7 +248,7 @@ Layout with columns and the float received [1]; payments in date order with vouc
 - Reimbursing the wrong sum in the petty cash book, or putting an item in the wrong analysis column.
 - Leaving the narrative out of a journal entry.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry-revision-notes/)
 - [Study guide](/resources/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry/)

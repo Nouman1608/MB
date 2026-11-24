@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -237,7 +237,7 @@ one per text, read as two single-text essays placed side by side.
 - Writing "this creates tension" without naming what creates it.
 - In the comparison, describing each passage separately with no linking sentence.
 
-## Next steps
+## More on this topic
 
 - [Prose and drama revision notes](/resources/ib-dp-language-a-literature-prose-and-drama-analysis-revision-notes/)
 - [Prose and drama study guide](/resources/ib-dp-language-a-literature-prose-and-drama-analysis/)

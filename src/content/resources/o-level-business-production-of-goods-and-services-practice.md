@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ Break the point into cause and effect, linking with words such as "so" or "which
 **How do you answer a "two ways" question?**
 Give two separate points and develop each one. A single developed point when two are requested limits the marks available.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/o-level-business-production-of-goods-and-services-revision-notes/) and the [study guide](/resources/o-level-business-production-of-goods-and-services/).
 - Open the [course hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/).

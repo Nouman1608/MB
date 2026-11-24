@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -108,7 +108,7 @@ These questions cover section **3.3.10.1 Bonding** of the AQA AS and A-level Che
 - Explaining stability by "stronger bonds" rather than delocalisation.
 - Stating that benzene cannot undergo addition at all.
 
-## Next steps
+## More on this topic
 
 - [Bonding in benzene revision notes](/resources/aqa-a-level-chemistry-7405-benzene-bonding-revision-notes/)
 - [Electrophilic substitution practice questions](/resources/aqa-a-level-chemistry-7405-electrophilic-substitution-benzene-practice/)

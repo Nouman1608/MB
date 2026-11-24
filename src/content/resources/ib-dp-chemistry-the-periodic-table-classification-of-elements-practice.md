@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ First read the [study guide](/resources/ib-dp-chemistry-the-periodic-table-class
 - (HL) Giving the absorbed colour as the observed colour.
 - (HL) Leaving nm in c = λf, or giving no unit for the final wavelength.
 
-## Next steps
+## More on this topic
 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Structure 3.1 revision notes](/resources/ib-dp-chemistry-the-periodic-table-classification-of-elements-revision-notes/)

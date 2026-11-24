@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ Give the final answer to the same number of significant figures as the least pre
 - Label each amount with its particle: "0.500 mol H₂O molecules", "1.50 mol atoms".
 - Check the size: a few grams of substance contains around 10²² to 10²⁴ particles.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge 9701 Reacting masses and volumes](/resources/cambridge-a-level-chemistry-9701-as-reacting-masses-and-volumes-of-solutions-and-gases/) — the mole in equations
 - [Cambridge 9701 Formulas](/resources/cambridge-a-level-chemistry-9701-as-formulas/) — empirical formulas from mole ratios

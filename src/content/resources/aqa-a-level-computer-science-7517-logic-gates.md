@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -214,7 +214,7 @@ So a D-type flip-flop is a **one-bit memory unit**. Several of them in a row for
 - **Adders:** give the XOR and AND for the half-adder, and two half-adders plus an OR for the full-adder.
 - **Flip-flop:** say that D is stored at the clock edge, and Q holds the value until the next edge.
 
-## Related resources
+## More resources on this topic
 
 - [Logic gates revision notes](/resources/aqa-a-level-computer-science-7517-logic-gates-revision-notes/)
 - [Logic gates practice questions](/resources/aqa-a-level-computer-science-7517-logic-gates-practice/)

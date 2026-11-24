@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,7 +152,7 @@ Ultrasound is used for these tasks because its short wavelength gives detailed r
 - **Calculate:** write speed = distance / time, decide whether the distance is there and back, and include units.
 - **Compare** two traces: comment on both amplitude and frequency, with the effect on loudness and pitch.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Sound revision notes](/resources/cambridge-igcse-physics-0625-sound-revision-notes/) and practise with the [Sound practice questions](/resources/cambridge-igcse-physics-0625-sound-practice/). The previous subtopic is the [electromagnetic spectrum](/resources/cambridge-igcse-physics-0625-electromagnetic-spectrum/); Topic 4 starts with [simple phenomena of magnetism](/resources/cambridge-igcse-physics-0625-simple-phenomena-of-magnetism/).
 

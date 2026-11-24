@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Revise from the [study guide](/resources/oxfordaqa-a-level-chemistry-carboxylic-
 - Writing "safer" or "better" without naming the property.
 - Comparing melting points using only the temperature, without the range.
 
-## Next steps
+## More on this topic
 
 - [Carboxylic acids and derivatives revision notes](/resources/oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives-revision-notes/)
 - [Carboxylic acids and derivatives study guide](/resources/oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives/)

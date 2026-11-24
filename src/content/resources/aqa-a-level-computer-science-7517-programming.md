@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -188,7 +188,7 @@ Frames are then popped in reverse order: frame 3 returns 7 + 4 = 11, frame 2 ret
 - **Complete the trace table**: one row per change of a variable, in execution order; recompute each MOD and DIV.
 - **Write** a subroutine: show the interface (name, parameters, return), initialise variables, and close every structure.
 
-## Related resources
+## More resources on this topic
 
 - [Programming revision notes](/resources/aqa-a-level-computer-science-7517-programming-revision-notes/)
 - [Programming paradigms study guide](/resources/aqa-a-level-computer-science-7517-programming-paradigms/)

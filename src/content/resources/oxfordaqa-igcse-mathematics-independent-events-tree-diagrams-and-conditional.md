@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is aligned to the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It covers section 3.4.3 Probability, statements S17 and S18. Both statements sit in the Extension column of the specification, so everything here is **Extension only**. Core content is also assessable at Extension, but nothing in this guide is Core-only. For quick recall use the [revision notes](/resources/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional-practice/). Course pages: the [OxfordAQA IGCSE Mathematics hub](/boards/oxfordaqa/igcse/mathematics/) and the [checklist](/checklists/oxfordaqa/igcse/mathematics/). To check your level first, use a [free 10-minute diagnostic](/diagnostics/).
 
@@ -363,7 +363,7 @@ The answer 6/11 matches the direct reasoning: once the second pen is known to be
 - Leaving the answer as an unsimplified fraction or rounding too early. Keep exact fractions until the end.
 - Calling events independent because they "look unrelated". You must either be told so or test with the product.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional-practice/). Tick the statements off on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).
 

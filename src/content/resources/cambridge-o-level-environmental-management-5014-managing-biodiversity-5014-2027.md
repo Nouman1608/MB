@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -118,7 +118,7 @@ Why it scores well: both strategies get a benefit and a limitation, the answer s
 4. How does ecotourism give local people a reason to conserve wildlife? *It brings income and jobs that depend on wildlife staying alive.*
 5. A population rises from 150 to 195. Calculate the percentage increase. *45 / 150 x 100 = 30%.*
 
-## Related resources
+## More resources on this topic
 
 - [Managing biodiversity revision notes](/resources/cambridge-o-level-environmental-management-5014-managing-biodiversity-5014-2027-revision-notes/)
 - [Managing biodiversity practice questions](/resources/cambridge-o-level-environmental-management-5014-managing-biodiversity-5014-2027-practice/)

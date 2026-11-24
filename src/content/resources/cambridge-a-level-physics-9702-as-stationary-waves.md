@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -232,7 +232,7 @@ Half a wavelength. Adjacent antinodes are also half a wavelength apart.
 A longer distance has a smaller percentage uncertainty; dividing by the
 number of intervals then gives λ/2 more precisely.
 
-## Related resources
+## More resources on this topic
 
 - [Superposition](/resources/as-physics-superposition/) — the whole of Topic 8 in one guide
 - [Diffraction](/resources/cambridge-a-level-physics-9702-as-diffraction/) — subtopic 8.2

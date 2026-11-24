@@ -32,6 +32,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -193,7 +194,7 @@ Questions 11 and 12 are essays. The real exam marks essays with levels of respon
 - Essays with case-study detail but no judgement on "how far" or "evaluate".
 - A sustainable management answer that describes measures but never weighs them against each other.
 
-## Next steps
+## More on this topic
 
 Go back to any weak areas in the [study guide](/resources/a-level-geography-9696-hazardous-environments/), then check your progress with the [Marlbridge diagnostics](/diagnostics/). Plan your Paper 3 timing with [preparing for the staged four-paper route](/resources/cambridge-a-level-geography-exam-preparation/). If you would like a teacher to go through your answers, [Book a free trial class](/trial/).
 

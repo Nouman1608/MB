@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -167,7 +167,7 @@ Related: [study guide](/resources/edexcel-ial-biology-classification-biodiversit
 - Naming an adaptation without its benefit.
 - Giving only advantages of zoos or seed banks, or saying seed banks protect the habitat.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/edexcel-ial-biology-classification-biodiversity-hardy-weinberg-and-revision-notes/) and [study guide](/resources/edexcel-ial-biology-classification-biodiversity-hardy-weinberg-and/).
 - Tick off statements on the [printable checklist](/checklists/edexcel/a-level/biology/) and visit the [course hub](/boards/edexcel/a-level/biology/).

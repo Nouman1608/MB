@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Private cost is the cost to the producer or consumer making the decision. Social
 **Where is the welfare loss on a market failure diagram?**
 It is the triangle between MSC and MSB, between the socially optimal output and the market output.
 
-## Next steps
+## More on this topic
 
 - Re-read the [market failure study guide](/resources/ocr-as-level-economics-h060-market-failure/).
 - Move on to [externalities](/resources/ocr-as-level-economics-h060-externalities/).

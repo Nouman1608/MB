@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -239,7 +239,7 @@ Each idea in a definition is a separate mark, so leaving out "1 mole", "standard
 **How many significant figures should energetics answers have?**
 Quote no more significant figures than the least precise data justify. Giving too many figures when the data are only to 2 significant figures is a common way to lose a mark.
 
-## Next steps
+## More on this topic
 
 - [Energetics revision notes](/resources/aqa-a-level-chemistry-energetics-revision-notes/)
 - [Energetics study guide](/resources/aqa-a-level-chemistry-energetics/)

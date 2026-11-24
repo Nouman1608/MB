@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -162,6 +162,6 @@ Judge the whole package. The cheapest location can fail on skills, infrastructur
 9. Off-shoring moves the firm's own activity abroad; outsourcing pays another firm to do it.
 10. Any one: culture clash; disagreements between partners; loss of control; sharing profits.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Global markets and business expansion study guide](/resources/edexcel-a-level-business-ybs11-global-markets-and-business-expansion/), then practise with the [practice questions](/resources/edexcel-a-level-business-ybs11-global-markets-and-business-expansion-practice/).

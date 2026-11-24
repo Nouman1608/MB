@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -216,7 +216,7 @@ Kohlberg says active gender learning starts at gender constancy, at about 6. Mar
 **What is the difference between gender incongruence and gender dysphoria?**
 Gender incongruence is the ICD-11 term for a marked, persistent mismatch between experienced gender and sex assigned at birth. Gender dysphoria, the DSM-5 term, refers to the distress that this mismatch may cause.
 
-## Next steps
+## More on this topic
 
 Revisit social learning theory in the [Approaches in Psychology study guide](/resources/a-level-aqa-psychology-approaches-in-psychology/), then attempt the [Gender practice questions](/resources/aqa-a-level-psychology-7182-gender-practice/) under timed conditions.
 

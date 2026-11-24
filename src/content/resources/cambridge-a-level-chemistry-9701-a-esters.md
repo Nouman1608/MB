@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ hydrolysis products tell you its two halves; the acyl chloride route tells you h
   nucleophilicity, then the electron-deficient carbonyl carbon of the acyl chloride.
 - **Calculate:** show Mᵣ values, moles and the ratio from the equation, and round only at the end.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Esters revision notes](/resources/cambridge-a-level-chemistry-9701-a-esters-revision-notes/),
 then test yourself with the [Esters practice questions](/resources/cambridge-a-level-chemistry-9701-a-esters-practice/).

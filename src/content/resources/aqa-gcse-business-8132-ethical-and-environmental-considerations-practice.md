@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -109,7 +109,7 @@ These questions cover section 3.2.2 Ethical and environmental considerations of 
 - Calculating a cost change on one unit and forgetting to multiply by the quantity.
 - Ending an evaluation without a decision.
 
-## Next steps
+## More on this topic
 
 - Reread the trade-off method in the [Ethical and environmental considerations study guide](/resources/aqa-gcse-business-8132-ethical-and-environmental-considerations/).
 - Try the wider [ethics, environment and economic climate practice set](/resources/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-practice/).

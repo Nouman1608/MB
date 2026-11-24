@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers sections 6.4.1 (The nuclear atom) and 6.4.2 (Fundamental particles) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. It is full A level content in Module 6, which the assessment overview places in components 02 and 03. Radioactive decay, half-life and activity, and binding energy, fission and fusion, are separate topics and are not repeated here.
 
@@ -238,7 +238,7 @@ In beta-minus decay a down quark changes into an up quark, emitting an electron 
 **Is a neutral particle its own antiparticle?**
 Not necessarily. Every particle has an antiparticle of the same mass, and the neutron and antineutron are different particles even though both are neutral.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-practice/), then condense with the [revision notes](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-revision-notes/). Tick off 6.4.1 and 6.4.2 on the [checklist](/checklists/ocr/a-level/physics/).
 

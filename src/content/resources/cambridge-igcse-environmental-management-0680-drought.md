@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -162,6 +162,6 @@ The limitation follows from the numbers: if the year's rain falls to 300 mm, the
 - **Discuss**: give a benefit and a limitation for each strategy and say which situations each suits, for example desalination only for wealthy coastal areas.
 - **Calculate**: show units, and convert cubic metres to litres when asked.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Drought revision notes](/resources/cambridge-igcse-environmental-management-0680-drought-revision-notes/), then practise with the [Drought practice questions](/resources/cambridge-igcse-environmental-management-0680-drought-practice/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Revise first with the [study guide](/resources/oxfordaqa-igcse-chemistry-structu
 - Ignoring the information given in "suggest" questions and writing a memorised answer.
 - Giving one structural reason for several properties.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-revision-notes/)
 - [Study guide](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ D: Trade union reform
 - Giving "it costs money" as the only disadvantage.
 - Recommending a policy that does not match the problem in the case.
 
-## Next steps
+## More on this topic
 
 - Revise with the [supply-side policies revision notes](/resources/aqa-gcse-economics-8136-supply-side-policies-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-8136-supply-side-policies/).
 - For mixed questions with externalities, try the [supply-side and externality policies practice questions](/resources/aqa-gcse-economics-supply-side-and-externality-policies-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ Baltoro, Biafo, Hispar** and **Batura** glaciers.
 - **Mixing attrition and abrasion.** Attrition is stones hitting each other; abrasion is stones
   wearing the bed.
 
-## Related resources
+## More resources on this topic
 
 - [Rivers and glaciers revision notes](/resources/oxfordaqa-igcse-pakistan-studies-9236-rivers-and-glaciers-revision-notes/)
 - [Rivers and glaciers practice questions](/resources/oxfordaqa-igcse-pakistan-studies-9236-rivers-and-glaciers-practice/)

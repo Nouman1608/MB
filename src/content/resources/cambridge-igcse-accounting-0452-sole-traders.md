@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -234,7 +234,7 @@ off 100 also reduces the allowance by 4% × 100.
 - For **advantages and disadvantages**, tie each point to the business in the
   question: "Tomas can decide quickly to start offering repairs."
 
-## Next steps
+## More on this topic
 
 Revise with the
 [5.1 revision notes](/resources/cambridge-igcse-accounting-0452-sole-traders-revision-notes/),

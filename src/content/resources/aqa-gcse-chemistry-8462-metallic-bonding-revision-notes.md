@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ with electrons between the particles and no negative ions.
 11. Both are strong electrostatic attractions involving positive metal ions (or both form giant structures).
 12. The electrons stay within the metal structure; they are shared, not removed or transferred.
 
-## Next steps
+## More on this topic
 
 - [Metallic bonding study guide](/resources/aqa-gcse-chemistry-8462-metallic-bonding/)
 - [Metallic bonding practice questions](/resources/aqa-gcse-chemistry-8462-metallic-bonding-practice/)

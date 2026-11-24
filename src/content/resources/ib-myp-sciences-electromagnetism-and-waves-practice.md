@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -214,7 +214,7 @@ Compare more than one technology or option and reach a justified judgement. Desc
 **Is electromagnetism in the IB MYP Sciences on-screen examination?**
 The IB MYP Sciences subject brief (from 2014) lists electromagnetism and waves among the topics the on-screen examinations can draw on. Schools design their own units, so your teacher decides exactly what your unit includes.
 
-## Next steps
+## More on this topic
 
 - [Electromagnetism and waves revision notes](/resources/ib-myp-sciences-electromagnetism-and-waves-revision-notes/)
 - [Electromagnetism and waves study guide](/resources/ib-myp-sciences-electromagnetism-and-waves/)

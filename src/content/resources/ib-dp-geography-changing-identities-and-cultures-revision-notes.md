@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -155,7 +155,7 @@ endangered languages. 9. For example S4C, the 1993 Welsh Language Act or Welsh-m
 10. Ritzer's term for the spread of standardised, efficiency-driven production and consumption.
 11. Age, education, place of residence and social networks shape exposure and attitudes.
 
-## Related resources
+## More resources on this topic
 
 - [Human development and diversity study guide](/resources/ib-dp-geography-human-development-diversity-study-guide/)
 - [Local responses to global interactions revision notes](/resources/ib-dp-geography-local-responses-to-global-interactions-revision-notes/)

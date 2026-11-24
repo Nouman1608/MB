@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ Each use answer needs **structure → property → use**:
     made of simple molecules with weak intermolecular forces that need little energy to
     overcome.
 
-## Next steps
+## More on this topic
 
 Try the [Giant Covalent Structures practice questions](/resources/cambridge-igcse-chemistry-0620-giant-covalent-structures-practice/),
 then compare graphite's delocalised electrons with those in the

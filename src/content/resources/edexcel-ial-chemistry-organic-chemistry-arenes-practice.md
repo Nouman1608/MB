@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, S = 32.1, Br = 79.9.
 - Using a 1 : 1 ratio for phenol and bromine.
 - Missing the white precipitate when describing phenol with bromine water.
 
-## Next steps
+## More on this topic
 
 - [Arenes revision notes](/resources/edexcel-ial-chemistry-organic-chemistry-arenes-revision-notes/)
 - [Arenes study guide](/resources/edexcel-ial-chemistry-organic-chemistry-arenes/)

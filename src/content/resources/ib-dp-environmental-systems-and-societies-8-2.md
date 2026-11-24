@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 8.2 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 8.2 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Indicators must be read with care: a city may score well on one and badly on ano
 - **Evaluate** a planning tool: environmental effect, social effect, cost and enforcement, then a judgement for the city in the case.
 - **Discuss** with perspectives: residents, developers, commuters, farmers and conservation groups value land differently.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [8.2 revision notes](/resources/ib-dp-environmental-systems-and-societies-8-2-revision-notes/) and practise with the [8.2 practice questions](/resources/ib-dp-environmental-systems-and-societies-8-2-practice/). Urban air quality is covered in the [8.3 study guide](/resources/ib-dp-environmental-systems-and-societies-8-3/).
 

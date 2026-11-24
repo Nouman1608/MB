@@ -31,7 +31,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false
@@ -391,7 +391,7 @@ Two parallel wires carrying current in the same direction attract, and wires car
 **What does an iron core do inside a solenoid?**
 A ferrous core greatly increases the magnetic flux density produced for the same current, because the core becomes magnetised and adds its own field. This is the basis of an electromagnet.
 
-## Related resources
+## More resources on this topic
 
 - [Capacitance](/resources/a-physics-capacitance/) — the previous A Level topic
 - [Alternating Currents](/resources/a-physics-alternating-currents/) — the next A Level topic, built on electromagnetic induction

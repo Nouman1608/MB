@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers Pearson Edexcel International Advanced Level Mathematics (YMA01), aligned to the *International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics* specification (Issue 3, April 2019). It teaches Pure Mathematics 3 (P3) topics 5.1 and 5.2. The specification states that P3 is compulsory for IAL Mathematics and Pure Mathematics only; it is not part of IAS.
@@ -272,7 +272,7 @@ Use the identity tan² x = sec² x − 1, so ∫ tan² x dx = tan x − x + c.
 **How do you integrate f′(x)[f(x)]ⁿ?**
 For n ≠ −1, ∫ f′(x)[f(x)]ⁿ dx = [f(x)]ⁿ⁺¹/(n + 1) + c. Look for an inner function whose derivative is sitting beside it, adjusting for any constant factor.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/edexcel-ial-mathematics-integration-of-exponential-reciprocal-and-practice/), then use the [revision notes](/resources/edexcel-ial-mathematics-integration-of-exponential-reciprocal-and-revision-notes/) for quick recall. The [exam preparation guide](/resources/edexcel-ial-mathematics-exam-preparation/) covers wider strategy.
 

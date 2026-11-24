@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,7 +174,7 @@ The voltage is 20 times larger, so the current is 20 times smaller and the loss 
 - **Sketch** (Extended): an e.m.f.–time graph needs labelled axes and a regular wave crossing zero twice per turn.
 - **Calculate:** write the equation, convert kV and MW to V and W, and give units.
 
-## Next steps
+## More on this topic
 
 Condense this with the [electromagnetic effects revision notes](/resources/cambridge-igcse-physics-0625-electromagnetic-effects-revision-notes/) and practise with the [electromagnetic effects practice questions](/resources/cambridge-igcse-physics-0625-electromagnetic-effects-practice/). The previous subtopic is [electrical safety](/resources/cambridge-igcse-physics-0625-electrical-safety/); Topic 5 begins with [the nuclear model of the atom](/resources/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom/).
 

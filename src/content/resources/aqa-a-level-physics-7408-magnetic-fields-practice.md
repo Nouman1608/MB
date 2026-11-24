@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ Data: e = 1.60 × 10⁻¹⁹ C; electron mass 9.11 × 10⁻³¹ kg; g = 9.81 N k
 - Using the transmission voltage in V²/R for the loss.
 - Giving peak values when rms is asked for.
 
-## Next steps
+## More on this topic
 
 - [Magnetic fields revision notes](/resources/aqa-a-level-physics-7408-magnetic-fields-revision-notes/)
 - [Magnetic fields study guide](/resources/aqa-a-level-physics-7408-magnetic-fields/)

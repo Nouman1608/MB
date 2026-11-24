@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -165,7 +165,7 @@ planning and control of the operation did not minimise the risk to life. 11. An 
 perceived for good reasons to be valid at the time, even if mistaken. 12. Independent, effective, prompt,
 open to public scrutiny and involving the family.
 
-## Related resources
+## More resources on this topic
 
 [Article 2 study guide](/resources/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953/) |
 [Article 2 practice questions](/resources/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953-practice/) |

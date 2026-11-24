@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ Check the units and conversions, such as map centimetres to kilometres, and add 
 **When should you compare rates instead of totals?**
 When the groups being compared are different sizes, compare a rate such as cost per person rather than the totals. Comparing totals can lead to the wrong conclusion.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts-revision-notes/) and the [study guide](/resources/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts/).
 - Go to the [MYP mathematics hub](/boards/ib/ib-myp/mathematics/) and tick off topics on the [printable checklist](/checklists/ib/ib-myp/mathematics/).

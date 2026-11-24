@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ These questions cover section 5.1.5(g) to (l) of the OCR A Level Biology A (H420
 - Missing ATP in cross-bridge detachment.
 - Saying adrenaline enters the cell.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-biology-nervous-system-reflexes-heart-control-and-muscle-revision-notes/) and the [study guide](/resources/ocr-a-level-biology-nervous-system-reflexes-heart-control-and-muscle/).
 - Visit the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/).

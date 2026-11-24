@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ Every electrode half-equation is written as a reduction, with electrons on the l
 **Does a feasible reaction have to be fast?**
 No. A positive EMF shows a reaction is feasible under standard conditions, but it says nothing about the rate. Treating feasibility as a statement about rate loses marks.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this section](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes/)
 - [Study guide for this section](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells/)

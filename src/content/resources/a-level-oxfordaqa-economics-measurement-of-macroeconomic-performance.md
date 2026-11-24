@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -196,7 +196,7 @@ Nominal data is measured in the prices of the period it was recorded. Real data 
 **How are index numbers used in economics?**
 Index numbers measure changes in the price level and other variables relative to a base year set at 100, and they are built from weighted components so larger items have more influence.
 
-## Related resources
+## More resources on this topic
 
 - [Measurement of Macroeconomic Performance revision notes](/resources/oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes/)
 - [Measurement of Macroeconomic Performance practice questions](/resources/oxfordaqa-a-level-economics-macroeconomic-performance-practice/)

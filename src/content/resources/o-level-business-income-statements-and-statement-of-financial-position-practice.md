@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,7 +187,7 @@ Compare the two point by point using figures or percentages from the data, then 
 **Is it better to give several recommendations or one?**
 Recommend one main action and say why it beats the alternatives. Listing every possible idea without choosing does not show evaluation.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/o-level-business-income-statements-and-statement-of-financial-position-revision-notes/) and the [study guide](/resources/o-level-business-income-statements-and-statement-of-financial-position/).
 - Visit the [course hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/).

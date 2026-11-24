@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,6 +177,6 @@ Burden: defendant, balance of probabilities
 11. Is coming to the nuisance a defence? *No (Miller v Jackson; Coventry v Lawrence).*
 12. Name two defences to *Rylands*. *Any two: Act of God, act of a stranger, consent, statutory authority, claimant's default.*
 
-## Related resources
+## More resources on this topic
 
 [Defences in tort practice questions](/resources/aqa-a-level-law-7162-defences-tort-practice/) | [Tort revision notes](/resources/aqa-a-level-law-tort-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ Option B: merge with a rival, Pellmere Pets, which has sales revenue of £2.4 mi
 - Writing a recommendation in the evaluation question without weighing the alternative option.
 - Naming a reason for failure without saying how it leads to failure.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/igcse-business-0264-enterprise-business-growth-and-size-revision-notes/) and the [study guide](/resources/igcse-business-0264-enterprise-business-growth-and-size/).
 - Visit the [Cambridge IGCSE Business course page](/boards/cambridge/igcse/business/) and the [checklist](/checklists/cambridge/igcse/business/).

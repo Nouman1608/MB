@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,6 +152,6 @@ The method earns marks because each rule is **named, defined, applied to the fac
 
 For application questions, take each rule in turn: state it, apply it, give the likely outcome. For **evaluate** questions, weigh certainty and supremacy (literal) against justice and flexibility (purposive), and conclude.
 
-## Next steps
+## More on this topic
 
 Condensed recall is in the [Statutory Interpretation revision notes](/resources/aqa-a-level-law-7162-law-making-statutory-interpretation-revision-notes/), and scenario practice is in the [Statutory Interpretation practice questions](/resources/aqa-a-level-law-7162-law-making-statutory-interpretation-practice/). Interpretation decisions become binding through [Judicial Precedent](/resources/aqa-a-level-law-7162-law-making-judicial-precedent/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ No. Rounding may give a point outside the feasible region or one that is feasibl
 **Why do ratio constraints often go wrong?**
 Wording such as "at least twice as many A as B" is easy to reverse. It means x ≥ 2y when x counts A, so check each inequality against the wording with a pair of numbers.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and/).
 - Tick off the topic on the [checklist](/checklists/edexcel/a-level/mathematics/) and see the [course hub](/boards/edexcel/a-level/mathematics/).

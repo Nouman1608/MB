@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -166,7 +166,7 @@ The triangles are congruent (SAS) **[4]** [1]
 - Setting corresponding quantities equal in the wrong pairs when solving for x, y or z.
 - Using an isosceles result without saying which sides are equal.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-mathematics-congruence-and-congruence-proofs-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-congruence-and-congruence-proofs/).
 - Go to the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/).

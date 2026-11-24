@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Key question 1.5 asks why, and with what effects, nations gained and
@@ -234,7 +234,7 @@ Sympathy for Cuban
 independence fanned by the press, the sinking of the *Maine*, economic
 interests in Cuba and a wish for overseas bases.
 
-## Related resources
+## More resources on this topic
 
 - [Overseas empires revision notes](/resources/cambridge-world-history-overseas-empires-revision-notes/)
 - [Overseas empires practice questions](/resources/cambridge-world-history-overseas-empires-practice/)

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -209,7 +209,7 @@ intimate detail, showing an unwanted sense of belonging. 11. Theme, similarity, 
 contrast and evidence (three short quotations per poem). 12. Yes; revise to find and choose evidence
 quickly and to know the pairings, rather than memorising poems word for word.
 
-## Related resources
+## More resources on this topic
 
 - [Poetry practice questions](/resources/oxfordaqa-igcse-english-literature-9275-poetry-practice/)
 - [Poetry and Unseen Texts revision notes](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes/)

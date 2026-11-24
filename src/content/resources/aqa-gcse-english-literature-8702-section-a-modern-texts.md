@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -190,7 +190,7 @@ Where you cannot recall exact words, a precise reference to an event is still va
 - Keep the writer's name active: "Priestley presents", "Golding uses", "Orwell shows".
 - Leave two minutes to check spelling and punctuation for AO4.
 
-## Related resources
+## More resources on this topic
 
 - [Modern texts revision notes](/resources/aqa-gcse-english-literature-8702-section-a-modern-texts-revision-notes/)
 - [Modern texts practice questions](/resources/aqa-gcse-english-literature-8702-section-a-modern-texts-practice/)

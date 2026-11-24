@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -132,7 +132,7 @@ The safeguard must match the threat it is meant to reduce. A safeguard that does
 **Should I recommend reporting wrongdoing to an outside body straight away?**
 No. Recommending external reporting with no internal step first is a common error; internal escalation and professional advice normally come before external reporting.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes/)
 - [Study guide for this topic](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations/)

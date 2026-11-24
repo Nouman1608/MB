@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ When resistive forces act, energy is transferred out of the oscillator, usually 
 - **Sketch** (energy against x or t): label E on the axis; parabolas for x, sin² and cos² shapes for t, with half the period of the displacement.
 - **Determine** (from a graph of E_P against x): read E at x = x₀, then use E = ½mω²x₀² to find ω or m.
 
-## Related resources
+## More resources on this topic
 
 - [Oscillations study guide](/resources/a-physics-oscillations/) — the whole of Topic 17
 - [Energy in SHM revision notes](/resources/cambridge-a-level-physics-9702-a-energy-in-simple-harmonic-motion-revision-notes/)

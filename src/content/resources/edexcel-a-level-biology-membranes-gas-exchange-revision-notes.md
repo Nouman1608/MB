@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -175,7 +175,7 @@ Active transport moves substances against their concentration gradient through c
 **Which transport mechanisms are often forgotten?**
 Endocytosis and exocytosis are often left out when a question covers all membrane transport mechanisms.
 
-## Related resources
+## More resources on this topic
 
 [Gas Exchange Surfaces, Membranes and Osmosis study guide](/resources/a-level-edexcel-biology-membranes-gas-exchange-and-osmosis/) |
 [Gas Exchange Surfaces, Membranes and Osmosis practice questions](/resources/edexcel-a-level-biology-membranes-gas-exchange-practice/)

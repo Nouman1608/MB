@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ Rearrange: distance travelled by substance = Rf × distance travelled by solvent
 - **Interpret:** count spots for purity; compare heights for identity; note anything on the baseline.
 - **Calculate** *(Extended)*: measure both distances from the baseline; give Rf to two significant figures, without units.
 
-## Related resources
+## More resources on this topic
 
 - [Chromatography revision notes](/resources/cambridge-igcse-chemistry-0620-chromatography-revision-notes/) – condensed recall and self-test
 - [Chromatography practice questions](/resources/cambridge-igcse-chemistry-0620-chromatography-practice/) – original exam-style questions with answers

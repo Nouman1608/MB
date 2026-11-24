@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -384,7 +384,7 @@ Government failure occurs when intervention produces a worse outcome than the ma
 **Do economies of scale reduce total cost?**
 No. Internal economies of scale lower average cost, the cost per unit, as output rises; total cost still increases.
 
-## Related resources
+## More resources on this topic
 
 - [The Operation of Markets revision notes](/resources/oxfordaqa-a-level-economics-markets-revision-notes/)
 - [The Operation of Markets practice questions](/resources/oxfordaqa-a-level-economics-markets-practice/)

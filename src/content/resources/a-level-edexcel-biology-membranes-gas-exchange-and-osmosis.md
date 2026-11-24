@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers outcomes **2.1 to 2.5**, the opening cluster of
@@ -211,7 +211,7 @@ Passive transport by diffusion and facilitated diffusion, active transport, and 
 **Why is the fluid mosaic model described as a model?**
 The specification treats it as an interpretation of data used to develop scientific explanations of membrane structure, not simply a fixed structural diagram.
 
-## Related resources
+## More resources on this topic
 
 [Gas Exchange Surfaces, Membranes and Osmosis revision notes](/resources/edexcel-a-level-biology-membranes-gas-exchange-revision-notes/) |
 [Gas Exchange Surfaces, Membranes and Osmosis practice questions](/resources/edexcel-a-level-biology-membranes-gas-exchange-practice/)

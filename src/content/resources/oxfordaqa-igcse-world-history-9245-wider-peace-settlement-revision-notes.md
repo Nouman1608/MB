@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -166,6 +166,6 @@ Section A is entirely source-based, so learn facts as **tests** for sources:
 11. Italy did not receive all the land, such as Dalmatia, promised in 1915.
 12. Strength: new nations for peoples such as Czechs and Poles, or minority treaties. Difficulty: minorities in new states, economic disruption, weak states, revisionism or Arab disappointment.
 
-## Next steps
+## More on this topic
 
 Use this knowledge in the source-based tasks of the [wider peace settlement practice questions](/resources/oxfordaqa-igcse-world-history-9245-wider-peace-settlement-practice/).

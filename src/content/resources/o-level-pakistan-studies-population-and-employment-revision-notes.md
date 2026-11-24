@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **These notes condense Section 8 Population and employment of Cambridge O Level Pakistan Studies
@@ -184,7 +184,7 @@ earning options, so they usually have fewer children.
 The mountainous region now administered as Gilgit-Baltistan, where people live mainly on narrow
 valley floors.
 
-## Related resources
+## More resources on this topic
 
 - [Population and Employment study guide](/resources/o-level-pakistan-studies-population-and-employment/)
 - [Population and Employment practice questions](/resources/o-level-pakistan-studies-population-and-employment-practice/)

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ These questions cover statements 8.8 to 8.16 (including Core Practical 18) of th
 - Naming "the brain" instead of the correct region.
 - Mixing up which scans show structure and which show activity.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain-revision-notes/)
 - [Study guide](/resources/edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain/)

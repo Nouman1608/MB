@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ Student 2: the space between gas particles is empty [1]. Air is itself made of p
 - (Higher Tier only) Using a volume ratio directly as a spacing ratio instead of taking the cube root.
 - (Higher Tier only) Writing "the model is too simple" without naming forces, sizes or spaces.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-chemistry-the-particle-model-revision-notes/)
 - Re-read the [particle model study guide](/resources/ocr-gcse-chemistry-the-particle-model/)

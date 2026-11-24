@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ The slow flow gives more time for oxygen and glucose to diffuse out of the capil
 - Saying blood is oxygenated in the heart; it is oxygenated in the lungs.
 - Leaving out "per minute" or the unit on a rate.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [heart and blood vessels revision notes](/resources/aqa-gcse-biology-8461-the-heart-and-blood-vessels-revision-notes/)
 - Exam-style questions: [heart and blood vessels practice questions](/resources/aqa-gcse-biology-8461-the-heart-and-blood-vessels-practice/)

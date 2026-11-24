@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ These questions cover section 3.2 Cash flow forecasting (points 3.2.1 and 3.2.2)
 - Giving a general list of ways to improve cash flow instead of using the months and figures in the case.
 - Recommending finance without matching it to how long the shortage lasts.
 
-## Next steps
+## More on this topic
 
 - Return to the [cash flow forecasting study guide](/resources/edexcel-igcse-business-4bs1-cash-flow-forecasting/) for the credit-sales method.
 - Recheck the rules in the [cash flow forecasting revision notes](/resources/edexcel-igcse-business-4bs1-cash-flow-forecasting-revision-notes/).

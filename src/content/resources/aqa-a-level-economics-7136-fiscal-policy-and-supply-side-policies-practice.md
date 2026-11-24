@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ average rate.
 No. The specification says fiscal policy can influence both aggregate demand and aggregate supply, and can have
 microeconomic as well as macroeconomic functions.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-a-level-economics-7136-fiscal-policy-and-supply-side-policies/) for any question you found difficult.
 - Review the [economic performance study guide](/resources/aqa-a-level-economics-7136-economic-performance/) to link policies to their objectives.

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -159,7 +159,7 @@ subtract, state the sign and what it means.
 11. Broken: 436 + 158 = 594. Formed: 2 × 568 = 1136. Energy change = 594 − 1136 = −542 kJ/mol.
 12. Exothermic, because the energy released making bonds (1136) is greater than the energy needed to break bonds (594), so the change is negative.
 
-## Next steps
+## More on this topic
 
 - [Exothermic and endothermic reactions study guide](/resources/aqa-gcse-chemistry-8462-exothermic-and-endothermic-reactions/)
 - [Exothermic and endothermic reactions practice questions](/resources/aqa-gcse-chemistry-8462-exothermic-and-endothermic-reactions-practice/)

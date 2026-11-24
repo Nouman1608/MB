@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ Data: ε₀ = 8.85 × 10⁻¹² F m⁻¹.
 - Calculating energy lost from the change in p.d. instead of the change in V².
 - Giving the 50% time as RC.
 
-## Next steps
+## More on this topic
 
 - [Capacitance revision notes](/resources/aqa-a-level-physics-7408-capacitance-revision-notes/)
 - [Capacitance study guide](/resources/aqa-a-level-physics-7408-capacitance/)

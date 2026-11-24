@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Sub-topic **C5.2 Controlling reactions** sits in Topic C5 Monitoring and controlling chemical reactions of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026). Every part of it is taught here: learning outcomes C5.2a to C5.2i, the mathematical learning outcomes CM5.2i to CM5.2iv, and the practical suggestions linked to PAG C1, PAG C7 and PAG C8. No statement in C5.2 is in bold type, so every outcome here is assessed at both Foundation and Higher Tier. According to the assessment overview, Topic C5 is examined in Paper 2 if you sit Foundation Tier, or Paper 4 if you sit Higher Tier.
@@ -277,7 +277,7 @@ On a **reaction profile** (energy on the y-axis, progress of reaction on the x-a
 - Calling a substance a catalyst because the rate went up, without checking that its mass is unchanged.
 - Saying smaller pieces have less surface area. Total surface area goes **up**.
 
-## Next steps
+## More on this topic
 
 Summarise with the [Controlling reactions revision notes](/resources/ocr-gcse-chemistry-controlling-reactions-revision-notes/), then try the [Controlling reactions practice questions](/resources/ocr-gcse-chemistry-controlling-reactions-practice/). Reaction profiles were first met in the [Energetics study guide](/resources/ocr-gcse-chemistry-energetics/). Related units: [Monitoring chemical reactions](/resources/ocr-gcse-chemistry-monitoring-chemical-reactions/) and [Equilibria](/resources/ocr-gcse-chemistry-equilibria/).
 

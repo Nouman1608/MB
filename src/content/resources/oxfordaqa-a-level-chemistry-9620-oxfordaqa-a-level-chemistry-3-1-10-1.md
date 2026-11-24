@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ The specification describes acid–base **equilibria**. With a **strong** acid s
 - **Explain** why a species is an acid or a base: say what it gains or loses, for example "HCO₃⁻ donates a proton to OH⁻, forming CO₃²⁻".
 - **Write an equation** showing a species acting as an acid (or base): include water or another named partner, with the correct charges and state symbols.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.10.1 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-1-revision-notes/), then try the [3.1.10.1 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-1-practice/). Next, [pH (3.1.10.2)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-2/) turns [H⁺] into a number you can calculate.
 

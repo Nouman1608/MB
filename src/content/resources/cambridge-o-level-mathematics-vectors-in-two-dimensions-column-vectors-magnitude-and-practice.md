@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -186,7 +186,7 @@ Add the ratio parts to find the whole. If AP : PB = 2 : 3, then AP is 2/5 of AB,
 **Is |a + b| equal to |a| + |b|?**
 Usually not. Add the vectors first and then find the magnitude of the result.
 
-## Next steps
+## More on this topic
 
 - Return to the [revision notes](/resources/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and-revision-notes/) for quick recall.
 - Re-read the [study guide](/resources/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and/) for any question you could not start.

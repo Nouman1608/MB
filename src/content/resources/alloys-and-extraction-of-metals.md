@@ -35,7 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the remaining subtopics of Topic 9, Metals — **9.2 Uses of
@@ -280,7 +280,7 @@ Limestone decomposes to calcium oxide, which reacts with silica impurities to fo
 **Why must the carbon anodes be replaced in aluminium extraction?**
 The oxygen produced at the anode reacts with the hot carbon, burning it away as carbon dioxide. The anodes therefore wear away and need regular replacement.
 
-## Related resources
+## More resources on this topic
 
 - [Metal Properties and Reactivity](/resources/metal-properties-and-reactivity/) — properties and the reactivity series behind these uses and extraction methods
 - [Redox Reactions](/resources/redox-reactions/) — reduction, applied here to extracting iron and aluminium

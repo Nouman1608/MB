@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -181,7 +181,7 @@ Prefixes help when you estimate how much space something needs.
 - **Unit conversions**: write down the power of 2 or 10, then the multiplication, then the result.
 - **Explain a discrepancy** in reported capacity: decimal prefixes on the label, binary prefixes in the software.
 
-## Related resources
+## More resources on this topic
 
 - [Units of information revision notes](/resources/aqa-a-level-computer-science-7517-units-of-information-revision-notes/)
 - [Units of information practice questions](/resources/aqa-a-level-computer-science-7517-units-of-information-practice/)

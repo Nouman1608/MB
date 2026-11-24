@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -203,7 +203,7 @@ Return 80 on the debit side [1]; owed 430 and discount 10.75 (2.5% of 430) [1]; 
 - Omitting a narrative from the general journal.
 - Giving benefits only when a question asks for limitations too.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/igcse-accounting-business-documents-and-books-of-prime-entry-revision-notes/) and the [study guide](/resources/igcse-accounting-business-documents-and-books-of-prime-entry/).
 - Take the free 10-minute [diagnostics](/diagnostics/) to find weak spots.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -153,7 +153,7 @@ Read the words: "rate of decrease proportional to" needs a minus sign on the rig
 **What makes a good limitation of a differential equation model in OCR A Level Mathematics?**
 Link it to the context with a reason, such as a real population being limited by space or food. A vague comment such as "not realistic" does not earn credit.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/ocr-a-level-mathematics-differential-equations-separable-equations-and-their-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-mathematics-differential-equations-separable-equations-and-their/).

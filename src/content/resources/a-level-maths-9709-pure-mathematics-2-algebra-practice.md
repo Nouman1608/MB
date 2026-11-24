@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -147,7 +147,7 @@ The remainder has lower degree than the divisor, so after dividing by a quadrati
 **When can you square both sides of a modulus equation?**
 Squaring is safe when both sides are moduli, because both are non-negative. If one side is an ordinary expression, solve the two cases separately and check each answer.
 
-## Next steps
+## More on this topic
 
 - [Pure Mathematics 2 Algebra revision notes](/resources/a-level-maths-9709-pure-mathematics-2-algebra-revision-notes/)
 - [Pure Mathematics 2 Algebra study guide](/resources/a-level-maths-9709-pure-mathematics-2-algebra/)

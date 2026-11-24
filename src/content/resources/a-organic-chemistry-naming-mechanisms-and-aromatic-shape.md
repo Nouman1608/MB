@@ -26,7 +26,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -264,7 +264,7 @@ No. Secondary and tertiary amines must be recognised and drawn, but naming them 
 **How many carbons do naming questions cover in Cambridge A Level Chemistry?**
 Aliphatic naming in 9701 goes up to six carbons in the main chain, or six plus six for esters and amides, counting both sides of the linking group. Aromatic naming covers one benzene ring with simple substituents, such as 3-nitrobenzoic acid.
 
-## Related resources
+## More resources on this topic
 
 - [Organic Mechanisms: An
   Introduction](/resources/organic-mechanisms-an-introduction/) — the

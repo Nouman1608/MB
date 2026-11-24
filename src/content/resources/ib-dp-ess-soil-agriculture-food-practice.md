@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-soil-agricultu
 - Confusing a share of losses with a share of production in food waste data.
 - Writing evaluation answers that only describe, or that end without a justified judgement.
 
-## Next steps
+## More on this topic
 
 - [Soil, agriculture and food revision notes](/resources/ib-dp-ess-soil-agriculture-food-revision-notes/)
 - [Soil, agriculture and food study guide](/resources/ib-dp-ess-soil-agriculture-food/)

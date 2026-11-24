@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ D: coulomb
 - Missing the explanation of why the other fuses are unsuitable.
 - Leaving out units, especially kWh against J.
 
-## Next steps
+## More on this topic
 
 - Revise with the [electrical energy revision notes](/resources/oxfordaqa-igcse-physics-9203-transferring-electrical-energy-oxfordaqa-revision-notes/).
 - Re-read the [electrical energy study guide](/resources/oxfordaqa-igcse-physics-9203-transferring-electrical-energy-oxfordaqa/).

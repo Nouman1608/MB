@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches topic 10, Diseases and immunity, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. The topic has one section, 10.1 Diseases and immunity. Its Core statements (pathogens, transmission, body defences and controlling the spread of disease) are examined on Papers 1 and 3. Most of the immunity content, and all of the cholera content, is Supplement: it is marked **Extended only** below and is examined on Papers 2 and 4.
@@ -227,7 +227,7 @@ Link this to the Core content: clean water and sewage treatment are exactly the 
 - In cholera answers, saying the toxin "causes water loss" without the chloride ion and osmosis steps.
 - Explaining clean water, hygiene or waste disposal without naming how the pathogen would otherwise be passed on.
 
-## Next steps
+## More on this topic
 
 - Condense this into the [diseases and immunity revision notes](/resources/igcse-biology-0610-diseases-and-immunity-revision-notes/).
 - Test yourself with the [diseases and immunity practice questions](/resources/igcse-biology-0610-diseases-and-immunity-practice/).

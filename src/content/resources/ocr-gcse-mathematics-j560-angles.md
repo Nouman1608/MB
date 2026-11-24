@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ Use the same idea to test whether shapes fit together round a point. Two regular
 - **Prove** (Higher tier formal proof): state each step with its reason, include any construction line, and finish with a sentence that matches what had to be proved.
 - **Explain why** a regular polygon cannot have a given angle: show the division and say why the result is impossible.
 
-## Next steps
+## More on this topic
 
 - Condense the facts with the [angles revision notes](/resources/ocr-gcse-mathematics-j560-angles-revision-notes/).
 - Test yourself with the [angles practice questions](/resources/ocr-gcse-mathematics-j560-angles-practice/).

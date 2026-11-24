@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,7 +200,7 @@ Corrected balance                              2,040   [1]
 - Leaving out the heading, date or labels on the statement.
 - Giving a list in an "explain" question with no reason attached to each point.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements/) for any question you missed.
 - Use the [revision notes](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements-revision-notes/) for the final check.

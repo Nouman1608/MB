@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -211,7 +211,7 @@ Plot each running total at the upper class boundary, not the midpoint, and start
 **Why do you divide by the total frequency for a grouped mean?**
 The estimated mean is Σfx ÷ Σf, the total of frequency × midpoint divided by the total frequency. Dividing by the number of classes instead is a common way to lose the final marks.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability-revision-notes/)
 - [Study guide for this topic](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability/)

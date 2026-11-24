@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ Unreliable data leads to poor decisions, such as over-ordering stock, which defe
 11. If respondents match the target market, the results are more likely to reflect what real customers want.
 12. It is cheaper and faster, and does not need the product to be made and distributed first.
 
-## Next steps
+## More on this topic
 
 Practise with the [market research practice questions](/resources/edexcel-igcse-business-4bs1-market-research-practice/), and see how research feeds into segmentation in the [revision notes on the market](/resources/edexcel-igcse-business-4bs1-the-market-revision-notes/).
 

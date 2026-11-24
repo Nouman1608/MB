@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -121,7 +121,7 @@ The syllabus requires a case study of **one country's population policy**: attem
 
 **Answers:** 1. Pro-natalist raises birth rates; anti-natalist lowers them. 2. Coercive: penalties or limits. Non-coercive: family planning or girls' education. 3. Ageing population and higher dependency ratio. 4. Child benefit, tax relief, parental leave, childcare. 5. Other factors also change fertility. 6. One country's policy to alter natural increase and manage the results. 7. Continued growth after fertility falls, because of a large young population. 8. A preference for sons combined with sex-selective abortion under the birth limits. 9. One adult child supporting two parents and four grandparents. 10. Relaxing limits to two and then three children, and raising the retirement age or offering childcare support. 11. Education, health care and women's status can lower fertility without coercion.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

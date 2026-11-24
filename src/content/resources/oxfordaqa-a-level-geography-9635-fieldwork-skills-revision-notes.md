@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -169,7 +169,7 @@ Evaluate **every stage**: was the hypothesis testable, the sample large and repr
 
 **Answers:** 1. Unfamiliar fieldwork questions and familiar fieldwork questions. 2. 15. 3. Enquiries in the school grounds, interviews in school or at home, or raw unprocessed data from the teacher. 4. It provides background to justify the hypothesis, choose sites and methods, and later explain results. 5. Reliability is whether repeating the method gives similar results; validity is whether it measures what the hypothesis is about. 6. 24 residential, 21 commercial, 15 industrial. 7. It can miss or repeat a regular pattern in the landscape. 8. To check that methods, equipment and questions work before the main collection. 9. Hazards, their likelihood and severity, and control measures. 10. Informed consent and anonymity (or the right to refuse and secure data storage). 11. Accept or reject it, with evidence. 12. Repeat it in another season or location, or use it to inform a local decision.
 
-## Related resources
+## More resources on this topic
 
 - [Fieldwork skills study guide](/resources/oxfordaqa-a-level-geography-9635-fieldwork-skills/)
 - [Geographical skills checklist revision notes](/resources/oxfordaqa-a-level-geography-9635-geographical-skills-checklist-revision-notes/)

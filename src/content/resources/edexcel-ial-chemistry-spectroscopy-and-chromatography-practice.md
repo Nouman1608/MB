@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ Relative areas **3 : 1 : 3** [1].
 - Measuring Rf from the plate edge instead of the baseline.
 - Saying a matching retention time proves identity.
 
-## Next steps
+## More on this topic
 
 - [Spectroscopy and chromatography revision notes](/resources/edexcel-ial-chemistry-spectroscopy-and-chromatography-revision-notes/) for a final recap
 - [Spectroscopy and chromatography study guide](/resources/edexcel-ial-chemistry-spectroscopy-and-chromatography/) to relearn anything you missed

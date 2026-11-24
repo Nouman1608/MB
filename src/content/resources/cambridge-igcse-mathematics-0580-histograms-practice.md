@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -188,7 +188,7 @@ Class          Frequency   Bar height (frequency density)
 - Reading a bar's height as its frequency.
 - Splitting a class by a fraction of its height instead of the area of the part needed.
 
-## Next steps
+## More on this topic
 
 - Re-read the [histograms study guide](/resources/cambridge-igcse-mathematics-0580-histograms/).
 - Grouped means: [averages and range practice questions](/resources/cambridge-igcse-mathematics-0580-averages-and-range-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -209,7 +209,7 @@ Find dx/dy and take the reciprocal, since dy/dx = 1/(dx/dy). Using dx/dy as the 
 **Which section of Edexcel IAL Pure 3 covers these differentiation rules?**
 Section 4 of Unit P3 in Pearson Edexcel International A Level Mathematics (YMA01) covers standard derivatives, the product, quotient and chain rules, dy/dx = 1/(dx/dy), and exponential models.
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/) for any rule you missed.
 - Read the [study guide](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and/) for the full explanations.

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ A wheel of radius r rolling without slipping moves forward a distance 2πr for e
 - **Explain** (why two points have different speeds): same ω for a rigid body, so v ∝ r.
 - **State** (the direction of the velocity): along the tangent to the circle at that point.
 
-## Related resources
+## More resources on this topic
 
 - [Motion in a Circle study guide](/resources/a-physics-motion-in-a-circle/) — the whole of Topic 12, including centripetal acceleration and force
 - [Kinematics of uniform circular motion revision notes](/resources/cambridge-a-level-physics-9702-a-kinematics-of-uniform-circular-motion-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), and covers section 6.02, Algebraic formulae (6.02a to 6.02e). Most of it is for both tiers. Four formulae are marked **Higher tier only** where they appear. The specification says there is no formula sheet: every formula you must know is listed under 6.02d, and any other formula needed is given in the paper.
 
@@ -440,7 +440,7 @@ Multiply both sides by (t + 2), collect the terms in t on one side, factorise ou
 **Which kinematics formulae are used in OCR GCSE Mathematics?**
 The formulae are v = u + at, s = ut + ½at² and v² = u² + 2as. Choose the one that links the quantity you want to the quantities you are given.
 
-## Next steps
+## More on this topic
 
 Condense this unit using the [revision notes](/resources/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging-practice/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Common slips include mixing up direct and indirect taxes, confusing the deficit 
 **How should you answer an evaluate question on fiscal policy?**
 Give the case for and against using the facts of the country in the question, then reach a supported judgement. Say what the outcome depends on, such as how much spare capacity there is or how fast prices are rising.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses/) and the [revision notes](/resources/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses-revision-notes/).
 - Visit the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and tick off the [printable checklist](/checklists/edexcel/igcse/economics/).

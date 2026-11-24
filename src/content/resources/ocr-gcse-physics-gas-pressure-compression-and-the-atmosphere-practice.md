@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -141,7 +141,7 @@ Links: [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-th
 - Explaining the warm pump as only friction.
 - Saying there is no air at height, instead of less air above and thinner air.
 
-## Next steps
+## More on this topic
 
 - Review: [revision notes](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere/).
 - Tick off statements on the [OCR GCSE Physics checklist](/checklists/ocr/gcse/physics/) and browse the [course hub](/boards/ocr/gcse/physics/).

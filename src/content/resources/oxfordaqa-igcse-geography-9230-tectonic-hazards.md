@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the figures quoted for the Haiti 2010 and Christchurch 2011 earthquakes (magnitude, depth, deaths, displaced people, costs). Death tolls for Haiti are estimates that vary widely between sources."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the figures quoted for the Haiti 2010 and Christchurch 2011 earthquakes (magnitude, depth, deaths, displaced people, costs). Death tolls for Haiti are estimates that vary widely between sources. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -152,6 +152,6 @@ The answer names both places, gives both effects and responses, and ends with a 
 - **Saying earthquakes can be predicted.** They can be monitored and forecast only in terms of long-term likelihood.
 - **Assuming that magnitude alone explains the death toll.** Depth, distance from people, building quality and time of day matter too.
 
-## Next steps
+## More on this topic
 
 Condense this with the [tectonic hazards revision notes](/resources/oxfordaqa-igcse-geography-9230-tectonic-hazards-revision-notes/) and test yourself with the [tectonic hazards practice questions](/resources/oxfordaqa-igcse-geography-9230-tectonic-hazards-practice/). For the wider idea of risk, see the [natural hazards study guide](/resources/oxfordaqa-igcse-geography-9230-natural-hazards/).

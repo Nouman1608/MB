@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -163,7 +163,7 @@ discourages them (for example China's one-child policy). 8. For example a skewed
 ageing. 9. For example raising the pension age and encouraging immigration or automation. 10. It is
 associated with later marriage, wider use of contraception and lower fertility.
 
-## Related resources
+## More resources on this topic
 
 - [Population Distribution study guide](/resources/ib-dp-geography-population-distribution/)
 - [Population Distribution practice questions](/resources/ib-dp-geography-population-distribution-practice/)

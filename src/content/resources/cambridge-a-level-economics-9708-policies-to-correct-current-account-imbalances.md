@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ For a **surplus** caused by weak domestic demand, expansionary fiscal or monetar
 - **Explain:** policy, route, line of the account, effect on the balance.
 - **Assess** and **Evaluate:** match policy to cause, then weigh time lags, side effects on growth, employment and inflation, and retaliation. End with a conditional judgement.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [current account policies revision notes](/resources/cambridge-a-level-economics-9708-policies-to-correct-current-account-imbalances-revision-notes/).
 - Test yourself with the [current account policies practice questions](/resources/cambridge-a-level-economics-9708-policies-to-correct-current-account-imbalances-practice/).

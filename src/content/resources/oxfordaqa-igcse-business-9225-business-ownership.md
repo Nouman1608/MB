@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -151,7 +151,7 @@ The specification asks you to evaluate which structure suits a given business. U
 
 For **describe** and **state** questions, give the key feature in a few words. For **analyse** questions, link a feature to its consequence: unlimited liability means the owner's home could be sold if debts cannot be paid, so the owner may be cautious about borrowing. For **evaluate** questions, weigh the structure against the stated needs of the business (finance, risk, control) and reach a judgement that fits the facts.
 
-## Related resources
+## More resources on this topic
 
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-business-ownership-practice/)
 - [Business in the Real World revision notes](/resources/igcse-oxfordaqa-business-real-world-revision-notes/)

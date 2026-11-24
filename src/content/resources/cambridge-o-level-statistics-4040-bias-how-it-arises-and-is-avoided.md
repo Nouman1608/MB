@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ Pupil B's error is sampling variation; repeated random samples would scatter aro
 - **Suggest an improvement**: name the method and how it is carried out, for example "a simple random sample from the electoral register using random numbers".
 - **Comment on a claim**: decide whether the claim is supported and say which feature of the method limits it.
 
-## Next steps
+## More on this topic
 
 Condense the causes and cures with the [revision notes on bias](/resources/cambridge-o-level-statistics-4040-bias-how-it-arises-and-is-avoided-revision-notes/), then try the [practice questions on bias](/resources/cambridge-o-level-statistics-4040-bias-how-it-arises-and-is-avoided-practice/). Sampling methods themselves are compared in [Data and its collection](/resources/o-level-cambridge-statistics-data-and-its-collection/).
 

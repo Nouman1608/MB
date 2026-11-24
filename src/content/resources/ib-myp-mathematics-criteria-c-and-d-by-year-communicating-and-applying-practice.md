@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -171,7 +171,7 @@ State the domain where the model works, test it against data and record the gaps
 **Should you always round to the nearest whole number in a real-life problem?**
 No. Let the context decide: if you cannot buy part of a tile or a box, round up so there is enough, even if the decimal part is small.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying-revision-notes/) for the one-page version.
 - Revisit the [study guide](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying/) for the worked examples.

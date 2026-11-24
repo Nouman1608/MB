@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches subsection 3.2.3, **Solving equations and inequalities** (specification references A17 to A22), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Linear equations, factorising quadratics, linear/linear simultaneous equations, forming equations and linear inequalities are Foundation content, so they appear at both tiers. Completing the square, the quadratic formula, linear/quadratic simultaneous equations, iteration (A20) and quadratic inequalities are **Higher tier only** and are labelled below.
@@ -467,7 +467,7 @@ Set notation writes the solution as a set, for example {x : x > −3}, read as t
 **How do you show an inequality region on a graph?**
 Draw each boundary line, dashed for a strict inequality and solid for one that includes the boundary, then test a point to decide which side to keep. Regions are Higher tier content.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [revision notes](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities-revision-notes/), then test yourself with the [practice questions](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities-practice/). For the rest of Topic 2, use the [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/) and [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/).
 

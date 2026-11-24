@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ No. The OxfordAQA International GCSE Business (9225) specification states that s
 **Which part of the 9225 specification do these questions cover?**
 They cover section 3.4 Human resources of OxfordAQA International GCSE Business (9225): organisational structures, recruitment and selection, motivating employees and training.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-business-human-resources-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-igcse-business-human-resources/).
 - Browse the [OxfordAQA IGCSE Business hub](/boards/oxfordaqa/igcse/business/) and tick off topics on the [printable checklist](/checklists/oxfordaqa/igcse/business/).

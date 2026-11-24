@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -161,7 +161,7 @@ When the lease ends, the device renews it or the address returns to the pool to 
 - Treating SFTP as plain FTP.
 - Writing the AND of the mask with only some octets.
 
-## Next steps
+## More on this topic
 
 - [TCP/IP revision notes](/resources/oxfordaqa-a-level-computer-science-9645-tcp-ip-revision-notes/)
 - [TCP/IP practice questions](/resources/oxfordaqa-a-level-computer-science-9645-tcp-ip-practice/)

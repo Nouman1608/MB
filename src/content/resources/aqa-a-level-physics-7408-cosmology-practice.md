@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Data: c = 3.00 × 10⁸ m s⁻¹; 1 Mpc = 3.08 × 10²² m; 1 year = 3.15 × 10�
 - Using 0.40 instead of 0.0040 for a 0.40% dip.
 - Forgetting to convert days to seconds for binary stars.
 
-## Next steps
+## More on this topic
 
 - [Cosmology revision notes](/resources/aqa-a-level-physics-7408-cosmology-revision-notes/)
 - [Cosmology study guide](/resources/aqa-a-level-physics-7408-cosmology/)

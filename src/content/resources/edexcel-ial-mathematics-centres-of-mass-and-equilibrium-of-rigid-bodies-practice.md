@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,7 +200,7 @@ Only when the ladder is in limiting equilibrium, on the point of slipping. Other
 **Which units and sections does this Edexcel IAL topic cover?**
 Centres of mass and rigid body equilibrium are sections 2 and 5 of unit M2 (Mechanics 2) in Pearson Edexcel International A Level Mathematics (YMA01).
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-mathematics-centres-of-mass-and-equilibrium-of-rigid-bodies-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-centres-of-mass-and-equilibrium-of-rigid-bodies/).
 - Course hub: [/boards/edexcel/a-level/mathematics/](/boards/edexcel/a-level/mathematics/). Checklist: [/checklists/edexcel/a-level/mathematics/](/checklists/edexcel/a-level/mathematics/).

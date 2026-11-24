@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), sections 5.02 (direct and inverse proportion) and 5.03 (discrete growth and decay). Most of it applies to both tiers. Anything the specification lists only for Higher tier is labelled **Higher tier only**.
 
@@ -352,7 +352,7 @@ Reading a formula the other way is just as common. For A = 250 × 1.04ⁿ, the s
 - Rounding an interim value early, which moves the final answer.
 - Writing a decay multiplier as 0.12 instead of 0.88 when the value falls by 12%.
 
-## Next steps
+## More on this topic
 
 Recap with the revision notes, then try the practice questions (both linked at the top). For earlier percentage work, see [fractions, decimals and percentages](/resources/ocr-gcse-mathematics-fractions-decimals-and-percentages/).
 

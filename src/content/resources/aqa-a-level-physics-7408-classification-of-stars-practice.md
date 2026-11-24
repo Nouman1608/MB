@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,7 +121,7 @@ Data: σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴; Wien constant 2.9 × 10⁻³ m K; 
 - Explaining Balmer weakness without mentioning n = 2.
 - Converting solar masses to kilograms incorrectly.
 
-## Next steps
+## More on this topic
 
 - [Classification of stars revision notes](/resources/aqa-a-level-physics-7408-classification-of-stars-revision-notes/)
 - [Classification of stars study guide](/resources/aqa-a-level-physics-7408-classification-of-stars/)

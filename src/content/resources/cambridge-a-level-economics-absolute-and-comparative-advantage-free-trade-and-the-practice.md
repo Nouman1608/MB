@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Not unless the starting index is 100. Confusing index points with a percentage c
 **Which Cambridge 9708 section does this practice cover?**
 It covers section 6.1 of Cambridge International AS & A Level Economics 9708: comparative advantage, the trading possibility curve and the terms of trade.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the-revision-notes/).
 - Re-read the [study guide](/resources/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the/).

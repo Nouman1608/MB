@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -208,7 +208,7 @@ Rearrange the equation so that one side equals 0, then identify a, b and c. Usin
 **Which references cover equations and inequalities in AQA GCSE Maths 8300?**
 Subsection 3.2.3 Solving equations and inequalities covers A17 to A22: linear and quadratic equations, simultaneous equations, iteration, forming equations and inequalities.
 
-## Next steps
+## More on this topic
 
 - [Solving equations and inequalities revision notes](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities-revision-notes/)
 - [Solving equations and inequalities study guide](/resources/aqa-gcse-maths-8300-solving-equations-and-inequalities/)

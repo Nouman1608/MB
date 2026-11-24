@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -232,7 +232,7 @@ D: V³⁺ **[1]**
 - Forgetting ÷ 1000 for kJ mol⁻¹ or × L for per mole.
 - Not applying the dilution factor after reading from a calibration graph.
 
-## Next steps
+## More on this topic
 
 - [Shapes of complex ions practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-3-practice/)
 - [Variable oxidation states practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-5-practice/)

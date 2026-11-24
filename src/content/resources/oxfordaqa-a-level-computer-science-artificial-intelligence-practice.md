@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,7 +200,7 @@ A deep learning network has several hidden layers rather than just one. Judging 
 **How should you explain bias in an AI system?**
 Link the cause in the training data, such as one group being under-represented, to its effect on a named group, such as unequal shortlisting rates. Stating that the data is biased on its own is too thin.
 
-## Next steps
+## More on this topic
 
 - Recap definitions and methods with the [AI revision notes](/resources/oxfordaqa-a-level-computer-science-artificial-intelligence-revision-notes/).
 - Reread the [AI study guide](/resources/oxfordaqa-a-level-computer-science-artificial-intelligence/) where you dropped marks.

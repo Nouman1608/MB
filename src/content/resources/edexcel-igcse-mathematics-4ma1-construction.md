@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ You can check the drawing: the two bearings differ by 90°, so angle HBC is a ri
 - Scaling an angle as well as the lengths.
 - Measuring a bearing from the second point's north line when the question asks for the bearing from the start.
 
-## Next steps
+## More on this topic
 
 Recall the steps quickly with the [Construction revision notes](/resources/edexcel-igcse-mathematics-4ma1-construction-revision-notes/), then work through the [Construction practice questions](/resources/edexcel-igcse-mathematics-4ma1-construction-practice/) with real instruments. Bearings and angle measurement are covered in more depth in the [Measures study guide](/resources/edexcel-igcse-mathematics-4ma1-measures/).
 

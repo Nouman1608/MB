@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ A quicker comparison, when the centre and radius are known, is the distance from
 - **Exact answers** such as 4√5 are expected unless a decimal is asked for.
 - **Sketch.** A quick labelled sketch of centre, radius and points shows which right-angled triangle to use. It is not marked, but it prevents choosing the wrong lengths.
 
-## Related resources
+## More resources on this topic
 
 - [P2 circle revision notes](/resources/edexcel-a-level-mathematics-yma01-p2-coordinate-geometry-revision-notes/)
 - [P2 circle practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-coordinate-geometry-practice/)

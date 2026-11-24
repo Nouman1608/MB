@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ These questions differ from the [cell membranes practice questions](/resources/a
 - Using mass change instead of percentage change.
 - Saying plant cells "burst" or "shrink" instead of "turgid" and "plasmolysed".
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/a-level-biology-9700-cell-membranes-and-transport-revision-notes/)
 - [Study guide](/resources/a-level-biology-9700-cell-membranes-and-transport/)

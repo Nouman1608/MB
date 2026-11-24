@@ -27,7 +27,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -270,7 +270,7 @@ A prism turns the beam by total internal reflection off a face at 45°, greater 
 **What is the range of human hearing?**
 Humans typically hear frequencies between 20 Hz and 20,000 Hz. This is Physics-only content.
 
-## Related resources
+## More resources on this topic
 
 - [Electricity](/resources/edexcel-igcse-physics-electricity/) — the previous topic
 - [Energy Resources and Energy Transfers](/resources/edexcel-igcse-physics-energy-resources-and-energy-transfers/) — the next topic

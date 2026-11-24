@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -139,7 +139,7 @@ You need a **local-scale coastal environment** showing processes, landscape outc
 - Evaluating management for one town without considering the rest of the cell.
 - Using only UK examples when the specification requires landscapes from beyond the UK.
 
-## Related resources
+## More resources on this topic
 
 - [Coastal systems revision notes](/resources/oxfordaqa-a-level-geography-9635-coastal-systems-and-landscapes-revision-notes/)
 - [Coastal systems practice questions](/resources/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems-practice/)

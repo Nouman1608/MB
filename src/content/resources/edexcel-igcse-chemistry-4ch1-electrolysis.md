@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sub-topic 1(i) Electrolysis of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024): statements 1.55C to 1.60C. The qualification is untiered. Every statement in 1(i) is printed in bold with a C reference, so the whole sub-topic is **Paper 2 only**. Chemistry Paper 2 (1 hour 15 minutes, 70 marks) assesses all the content; Paper 1 assesses only the content that is not in bold.
@@ -242,7 +242,7 @@ The mole and gas-volume methods here are from 1(e); see the [formulae, equations
 - Calling the cathode reaction oxidation. Gain of electrons is reduction.
 - Getting the hydrogen-to-oxygen ratio upside down. Hydrogen has the larger volume.
 
-## Next steps
+## More on this topic
 
 Condense this with the [electrolysis revision notes](/resources/edexcel-igcse-chemistry-4ch1-electrolysis-revision-notes/), then test yourself with the [electrolysis practice questions](/resources/edexcel-igcse-chemistry-4ch1-electrolysis-practice/). For the rest of the topic, use the [Principles of chemistry revision notes](/resources/igcse-edexcel-chemistry-principles-revision-notes/) and [Principles of chemistry practice](/resources/igcse-edexcel-chemistry-principles-practice/).
 

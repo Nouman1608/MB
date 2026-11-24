@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -183,7 +183,7 @@ Integrate the gradient function, include + c, then substitute the given point to
 **Which sections of Edexcel IAL Pure 1 cover differentiation and integration?**
 Differentiation is sections 4.1 to 4.3 and integration is sections 5.1 to 5.2 of Unit P1: Pure Mathematics 1 in Pearson Edexcel International A Level Mathematics (YMA01).
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/) for any rule you missed.
 - Read the [study guide](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/) for the full explanations.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -189,7 +189,7 @@ Write 4/7 using recurring decimal notation. **[1]**
 
 Decide the target form first, then use the shortest route: a denominator that divides into 10, 100 or 1000 converts by scaling, and anything else by division. Write the intermediate fraction (such as 375/1000) before simplifying, because it earns the method mark if the cancelling goes wrong. For recurring decimals, write x, choose the two multiples, subtract, then simplify, in that order every time.
 
-## Next steps
+## More on this topic
 
 - Review conversions in the [revision notes](/resources/cambridge-igcse-mathematics-0580-fractions-decimals-and-percentages-revision-notes/).
 - Apply them in [ordering practice questions](/resources/cambridge-igcse-mathematics-0580-ordering-practice/).

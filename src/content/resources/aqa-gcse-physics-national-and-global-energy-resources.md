@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false
@@ -175,7 +175,7 @@ The use of fossil fuels to generate electricity in the UK has been decreasing, w
 **Does renewable mean environmentally harmless?**
 No. A renewable resource is one that is replenished as it is used, but it can still cause environmental, economic or social issues, such as hydro-electric dams affecting river ecosystems.
 
-## Related resources
+## More resources on this topic
 
 - [National and Global Energy Resources practice questions](/resources/aqa-gcse-physics-national-and-global-energy-resources-practice/)
 - [Conservation and Dissipation of Energy](/resources/aqa-gcse-physics-conservation-and-dissipation-of-energy/) — the previous sub-topic

@@ -33,7 +33,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -332,7 +332,7 @@ For a large sample, the sample mean X̄ is approximately normally distributed wi
 **What is a Type II error?**
 A Type II error is accepting H₀ when it is false. To find its probability you need a specific alternative value of the parameter.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [Probability & Statistics 2 practice questions](/resources/a-level-maths-9709-probability-statistics-2-practice/), then keep the [revision notes](/resources/a-level-maths-9709-probability-statistics-2-revision-notes/) for the final weeks.
 

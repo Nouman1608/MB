@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -203,7 +203,7 @@ For a decreasing function, left-hand heights give an upper bound and right-hand 
 **Why should the calculator be in radians for numerical methods?**
 Questions with trigonometric functions use radians, and degree mode gives wrong values of sin θ and cos θ, which loses every accuracy mark that follows.
 
-## Next steps
+## More on this topic
 
 - [Numerical methods revision notes](/resources/aqa-a-level-mathematics-numerical-methods-revision-notes/)
 - [Numerical methods study guide](/resources/aqa-a-level-mathematics-numerical-methods/)

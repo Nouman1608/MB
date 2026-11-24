@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense sections 3.2.3 and 3.2.4 of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Everyone takes the same untiered papers, and no required practical sits in these sections. Explanations from first principles, with worked examples, are in the [study guide](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles/).
@@ -239,7 +239,7 @@ Pick out the property in the data (for example, very thin layer, high surface ar
 - In information-based questions, ignoring the data given and writing a memorised answer. Quote the information and link it to the use.
 - Listing fullerene uses vaguely ("medicine", "sport"). Use the specification wording: drug delivery, lubricants, catalysts, reinforcing nanotubes.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-practice/), then refresh mole calculations with the [quantitative chemistry revision notes](/resources/oxfordaqa-igcse-chemistry-quantitative-revision-notes/). Use the [diagnostics](/diagnostics/) to choose what to revise next.
 

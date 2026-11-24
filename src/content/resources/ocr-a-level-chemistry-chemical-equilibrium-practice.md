@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ CH₃CH₂CH₂CH₃(g) ⇌ (CH₃)₃CH(g)
 - Missing a power in a Kc expression, or putting reactants on top.
 - Answering an industrial compromise question with yield arguments only.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Chemical equilibrium revision notes](/resources/ocr-a-level-chemistry-chemical-equilibrium-revision-notes/).
 - Re-read any outcome you found hard in the [Chemical equilibrium study guide](/resources/ocr-a-level-chemistry-chemical-equilibrium/).

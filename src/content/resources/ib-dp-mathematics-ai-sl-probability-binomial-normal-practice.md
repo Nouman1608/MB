@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -206,7 +206,7 @@ Links: [course hub](/boards/ib/ib-dp/mathematics-applications-and-interpretation
 - Rounding an intermediate probability early, then using it in a binomial calculation.
 - Answering a "show that" or "determine whether" part with a conclusion and no comparison.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/ib-dp-mathematics-ai-sl-probability-binomial-normal-revision-notes/).
 - Re-read the [study guide](/resources/ib-dp-mathematics-ai-sl-probability-binomial-normal/) for any question you missed.

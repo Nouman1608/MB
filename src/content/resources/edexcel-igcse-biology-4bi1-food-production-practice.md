@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ Learn the content first with the [food production study guide](/resources/edexce
 - Not converting hours to minutes in a doubling question.
 - Describing biological control without a disadvantage.
 
-## Next steps
+## More on this topic
 
 - Re-read the [food production study guide](/resources/edexcel-igcse-biology-4bi1-food-production/).
 - Revise with the [food production revision notes](/resources/edexcel-igcse-biology-4bi1-food-production-revision-notes/).

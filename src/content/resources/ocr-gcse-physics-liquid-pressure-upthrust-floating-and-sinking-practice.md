@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ These questions cover statements P1.3h, P1.3i and P1.3j of OCR GCSE (9-1) Physic
 - Saying "same density" objects float or sink, rather than hang at any depth.
 - Stopping after the upthrust and not comparing it with the weight.
 
-## Next steps
+## More on this topic
 
 - Revise the key points in the [revision notes](/resources/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking/).

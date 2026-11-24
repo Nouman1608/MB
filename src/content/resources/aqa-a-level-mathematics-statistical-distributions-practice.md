@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -219,7 +219,7 @@ When you approximate a binomial distribution by a Normal distribution, because a
 **Which AQA A-level Maths paper tests statistical distributions?**
 Section N: Statistical distributions (N1 to N3) of AQA 7357 is listed as Paper 3 content, and a calculator with binomial and Normal functions is expected.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Statistical distributions revision notes](/resources/aqa-a-level-mathematics-statistical-distributions-revision-notes/).
 - Re-read the [Statistical distributions study guide](/resources/aqa-a-level-mathematics-statistical-distributions/) for any method you missed.

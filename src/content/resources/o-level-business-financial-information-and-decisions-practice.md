@@ -25,7 +25,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -177,7 +177,7 @@ Not by itself. A margin compares profit with revenue, so improving it needs a hi
 **Which finance results need a % sign?**
 Margins and ROCE are percentages, so the % sign is part of the answer. The current ratio is a number such as 1.65 or 1.65 : 1, and adding a % sign to it is marked as an error.
 
-## Next steps
+## More on this topic
 
 - Read the [analysis of accounts study guide](/resources/o-level-business-analysis-of-accounts/) and [revision notes](/resources/o-level-business-analysis-of-accounts-revision-notes/).
 - Practise cash-flow work with the [cash-flow forecasting study guide](/resources/o-level-business-cash-flow-forecasting-and-working-capital/).

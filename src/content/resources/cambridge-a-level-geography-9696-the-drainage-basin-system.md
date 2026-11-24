@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -115,7 +115,7 @@ This scores well because each sentence links a store to a flow and then to the r
 - **Suggest** questions give you an unfamiliar basin. Apply the store-and-flow logic to the information given, such as rock type or vegetation, and avoid answers you could have written without reading the resource.
 - In Section B, a labelled systems diagram can support an explanation, but it must be integrated into your answer and referred to in the text.
 
-## Related resources
+## More resources on this topic
 
 - [1.1 The drainage basin system revision notes](/resources/a-level-geography-9696-drainage-basin-system-revision-notes/)
 - [1.1 The drainage basin system practice questions](/resources/cambridge-a-level-geography-9696-the-drainage-basin-system-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,7 +173,7 @@ consensus, e.g. Handyside, A, B and C v Ireland or Hatton. 10. Article 17 preven
 comparative importance of the rights; consider the justifications for interfering with each; apply
 proportionality to each. 12. The state.
 
-## Related resources
+## More resources on this topic
 
 [Restrictions study guide](/resources/aqa-a-level-law-7162-restrictions/) |
 [Restrictions practice questions](/resources/aqa-a-level-law-7162-restrictions-practice/) |

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section 5.5 (Break-even analysis) of the IB *Business management guide*, first assessment 2024. The section sits in Unit 5 (Operations management) and applies to both SL and HL, because the guide does not mark any of it as HL only. The guide asks for total contribution versus contribution per unit, a break-even chart with six aspects of break-even analysis, the effects of changes in price or cost using graphical and quantitative methods, and the limitations of break-even as a decision-making tool. The depth-of-teaching labels are AO2 and AO4 for the calculations and chart, and AO3 for the limitations.
@@ -287,7 +287,7 @@ The studio would need to sell more than 650 mugs just to equal its present profi
 * Mixing margin of safety units and percentages without saying which one you give.
 * Leaving out units or the currency.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [5.5 practice questions](/resources/ib-dp-business-management-break-even-analysis-practice/), then revise from the [5.5 revision notes](/resources/ib-dp-business-management-break-even-analysis-revision-notes/). The [IB Business Management hub](/boards/ib/ib-dp/business/) lists the other units and the [checklist](/checklists/ib/ib-dp/business/) tracks your progress. The [diagnostics](/diagnostics/) can show you where to start.
 

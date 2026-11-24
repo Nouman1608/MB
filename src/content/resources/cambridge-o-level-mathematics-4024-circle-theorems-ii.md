@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -207,7 +207,7 @@ So AD = AF = 7 cm, BD = BE = 6 cm and CE = CF = 8 cm.
 - **Calculate** the length: show Pythagoras with the numbers.
 - Keep exact values or give three significant figures.
 
-## Next steps
+## More on this topic
 
 Try the [circle theorems II practice questions](/resources/cambridge-o-level-mathematics-4024-circle-theorems-ii-practice/) and recap with the [circle theorems II revision notes](/resources/cambridge-o-level-mathematics-4024-circle-theorems-ii-revision-notes/).
 

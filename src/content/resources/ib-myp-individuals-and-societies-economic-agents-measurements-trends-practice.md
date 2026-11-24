@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -159,7 +159,7 @@ A student is researching how rising prices affected households and firms in Carr
 - Source evaluation that ignores who wrote the source and why.
 - Extended answers with no counter-argument, no example, or no final judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes for this unit](/resources/ib-myp-individuals-and-societies-economic-agents-measurements-trends-revision-notes/).
 - Reread the [study guide for this unit](/resources/ib-myp-individuals-and-societies-economic-agents-measurements-trends/).

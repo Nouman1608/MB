@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ D: mesophyll cells → xylem → root cortex cells → root hair cells **[1]**
 - Giving a variable such as "same conditions" instead of a named, measurable factor.
 - Saying root hairs are separate cells from the root hair cell.
 
-## Next steps
+## More on this topic
 
 - Go back over the [water uptake revision notes](/resources/cambridge-igcse-biology-0610-water-uptake-revision-notes/).
 - Move on to the [transpiration practice questions](/resources/cambridge-igcse-biology-0610-transpiration-practice/).

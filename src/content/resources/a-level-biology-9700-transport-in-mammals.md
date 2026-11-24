@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 8, Transport in mammals, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 8.1 The circulatory system, 8.2 Transport of oxygen and carbon dioxide and 8.3 The heart. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content.
@@ -282,7 +282,7 @@ Knowledge of nervous and hormonal control is not expected.
 - Saying plasma proteins leave the capillary in tissue fluid.
 - Drawing cells or shading in plan diagrams.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [Transport in mammals revision notes](/resources/a-level-biology-9700-transport-in-mammals-revision-notes/)
 - Exam-style questions: [Transport in mammals practice](/resources/a-level-biology-transport-in-mammals-practice/)

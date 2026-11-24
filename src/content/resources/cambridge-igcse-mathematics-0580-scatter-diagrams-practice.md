@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -200,7 +200,7 @@ Arm span   146  151  156  157  161  138  166  171  172  179
 - "Positive" or "negative" with no context when asked to interpret.
 - Treating an extrapolated value as reliable, or claiming that correlation proves cause.
 
-## Next steps
+## More on this topic
 
 - Re-read the [scatter diagrams study guide](/resources/cambridge-igcse-mathematics-0580-scatter-diagrams/).
 - Mixed Topic 9 questions: [Statistics practice questions](/resources/igcse-mathematics-statistics-practice/).

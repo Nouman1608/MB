@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ These questions cover section 3.1.1, The purpose and nature of businesses, of th
 - Analysis answers that list changes but never explain the effect on sales, costs or profit.
 - Evaluations that end with a summary but no decision.
 
-## Next steps
+## More on this topic
 
 - Re-read the [3.1.1 study guide](/resources/aqa-gcse-business-8132-purpose-and-nature-of-businesses/) for anything you missed.
 - Recap with the [3.1.1 revision notes](/resources/aqa-gcse-business-8132-purpose-and-nature-of-businesses-revision-notes/).

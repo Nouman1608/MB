@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -133,6 +133,6 @@ Ask: **who gains**, **who is excluded**, and **is it lasting**? Consider effecti
 
 **Answers:** 1. For example governments, UN agencies, NGOs, transnational corporations. 2. High-yield seeds, fertiliser and irrigation. 3. Higher yields; pollution or costs for small farmers. 4. If it is not linked to local capacity, communities rely on outside supply. 5. Who gains, who is excluded, and is it lasting? 6. The FAO gathers data and advises on agriculture; the WFP delivers emergency food assistance. 7. Cooperation between governments, international bodies and private funders, for example Gavi. 8. For example falling groundwater levels and soil degradation. 9. It had no animal reservoir and could be contained through surveillance and vaccination, while polio campaigns face conflict and mistrust in the remaining endemic areas. 10. Top-down is planned centrally and applied widely; bottom-up is led by communities. 11. By taxing sugar-sweetened drinks. 12. Decisions about food sharing, spending and child care are made there.
 
-## Related resources
+## More resources on this topic
 
 - [Option F: Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/)

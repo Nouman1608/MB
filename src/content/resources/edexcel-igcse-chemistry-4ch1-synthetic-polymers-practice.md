@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -125,6 +125,6 @@ These questions cover sub-topic 4(h) Synthetic polymers of the Pearson Edexcel I
 - Forgetting the water lost in condensation polymerisation.
 - Missing the two ester links in the polyester repeat unit.
 
-## Next steps
+## More on this topic
 
 Review the [synthetic polymers study guide](/resources/edexcel-igcse-chemistry-4ch1-synthetic-polymers/) for any slips, then try mixed questions on the whole of Topic 4 with the [organic chemistry revision notes](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry-revision-notes/).

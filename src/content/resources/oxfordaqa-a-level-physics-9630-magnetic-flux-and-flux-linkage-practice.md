@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ D: The flux linkage depends on the current in the coil.
 - Using the coil area when the field fills only part of it.
 - Drawing a flux linkage graph that changes while the coil is wholly inside a uniform field.
 
-## Next steps
+## More on this topic
 
 - Revisit the explanations in the [flux and flux linkage study guide](/resources/oxfordaqa-a-level-physics-9630-magnetic-flux-and-flux-linkage/).
 - Move on to the [electromagnetic induction practice questions](/resources/oxfordaqa-a-level-physics-9630-electromagnetic-induction-practice/).

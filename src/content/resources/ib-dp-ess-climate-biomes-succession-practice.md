@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-climate-biomes
 - Naming a plagioclimax without the human activity that maintains it.
 - Ending a "to what extent" answer without a clear judgement.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-dp-ess-climate-biomes-succession-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-ess-climate-biomes-succession/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ D: equal to half the amplitude **[1]**
 - Rotating the aerial about its own axis instead of tilting it (Question 10).
 - Converting GHz or MHz incorrectly (Questions 3 and 11).
 
-## Next steps
+## More on this topic
 
 - Review the reasoning in the [longitudinal and transverse waves study guide](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa/).
 - Go back over phase difference with the [progressive waves practice questions](/resources/oxfordaqa-a-level-physics-9630-progressive-waves-practice/).

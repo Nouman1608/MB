@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section 3.1, **Mode of action of enzymes**, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content, so it is examined in Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and the practical skills behind it are tested in Paper 3 (Advanced Practical Skills). Paper 4 at A Level also expects you to know AS content. It goes deeper into 3.1 than the [Enzymes topic overview](/resources/a-level-biology-enzymes/).
@@ -256,7 +256,7 @@ From 6 to 8 min: (0.325 − 0.225) ÷ 2 = 0.050 g dm⁻³ min⁻¹. The rate fal
 - Calling the total oxygen collected the rate. The final volume depends on how much substrate there was.
 - For amylase, saying the iodine "turns orange-brown". Iodine is orange-brown to start with; it **stays** orange-brown when starch has gone.
 
-## Next steps
+## More on this topic
 
 - [3.1 revision notes](/resources/a-level-biology-9700-mode-of-action-of-enzymes-revision-notes/) for condensed recall and a self-test
 - [3.1 practice questions](/resources/a-level-biology-9700-mode-of-action-of-enzymes-practice/) with marked answers

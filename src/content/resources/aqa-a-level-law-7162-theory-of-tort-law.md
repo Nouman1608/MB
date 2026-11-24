@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks only for a basic understanding of five policy areas; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks only for a basic understanding of five policy areas; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -135,6 +135,6 @@ Vicarious liability makes an employer liable for an employee's tort without any 
 
 "Explain" questions want the policy factor plus a case that shows it. "Evaluate" and "discuss" questions want a judgement: state the aim, show where the rule achieves it, show where it fails, and conclude. In Paper 2 essays, one well-developed criticism with an authority earns more than a list of unexplained points.
 
-## Related resources
+## More resources on this topic
 
 [Theory of tort law revision notes](/resources/aqa-a-level-law-7162-theory-of-tort-law-revision-notes/) | [Theory of tort law practice questions](/resources/aqa-a-level-law-7162-theory-of-tort-law-practice/) | [Tort overview](/resources/aqa-a-level-law-tort/)

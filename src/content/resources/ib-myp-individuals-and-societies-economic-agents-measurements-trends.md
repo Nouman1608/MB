@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -307,7 +307,7 @@ Two traps: falling inflation (6.8% to 2.6%) does **not** mean prices fell -- the
 - Confusing a 2 percentage point fall with a 2% fall.
 - Adding the three HDI indices and dividing by 3 (the arithmetic mean) instead of the geometric mean.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/ib-myp-individuals-and-societies-economic-agents-measurements-trends-revision-notes/) and [practice questions](/resources/ib-myp-individuals-and-societies-economic-agents-measurements-trends-practice/). See also the [subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/), [the four criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/), [the disciplines](/resources/ib-myp-individuals-societies-disciplines/) and, for population data, [demographics and human movements](/resources/ib-myp-individuals-and-societies-demographics-and-human-movements/).
 

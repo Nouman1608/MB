@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the research details given (Adorno and colleagues' sample and method; Elms and Milgram's follow-up) against the course textbook."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the research details given (Adorno and colleagues' sample and method; Elms and Milgram's follow-up) against the course textbook. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ those who **defied** the experimenter.
 12. People with an internal locus are more likely to resist orders; people with an external locus are
     more likely to obey.
 
-## Related resources
+## More resources on this topic
 
 - [Authoritarian Personality practice questions](/resources/oxfordaqa-igcse-psychology-9218-authoritarian-personality-practice/)
 - [Milgram's Agency theory revision notes](/resources/oxfordaqa-igcse-psychology-9218-agency-theory-revision-notes/)

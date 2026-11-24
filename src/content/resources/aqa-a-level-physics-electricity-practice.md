@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -171,7 +171,7 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-el
 - Quoting r as negative because the gradient of V against I is negative.
 - Writing "very low resistance" for a superconductor.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Electricity revision notes](/resources/aqa-a-level-physics-electricity-revision-notes/).
 - Go back to the [Electricity study guide](/resources/aqa-a-level-physics-electricity/) for worked examples.

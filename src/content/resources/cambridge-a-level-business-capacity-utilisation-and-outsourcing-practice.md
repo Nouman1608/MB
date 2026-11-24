@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -121,7 +121,7 @@ Judgement: choose A, because it earns more in year one (60,200 against 50,000), 
 - Declaring outsourcing cheaper without comparing costs at the expected volume.
 - Giving a recommendation or judgement that does not use the figures or does not answer the question set.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing/) for any question you missed.
 - Revise from the [revision notes](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing-revision-notes/).

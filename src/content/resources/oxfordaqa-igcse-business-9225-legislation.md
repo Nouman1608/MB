@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -142,7 +142,7 @@ Extra safety testing before sale would have cost about $6,000. The recall costs 
   <figcaption>Law, what the business must do, cost or benefit, effect: then judge.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Legislation revision notes](/resources/oxfordaqa-igcse-business-9225-legislation-revision-notes/)
 - [Legislation practice questions](/resources/oxfordaqa-igcse-business-9225-legislation-practice/)

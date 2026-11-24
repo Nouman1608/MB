@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ The hydration of **two** chloride ions is counted. Dissolving is exothermic beca
 - **Construct** or **draw** a cycle: label every level with species and state symbols, use upward arrows for endothermic steps, and place the elements at zero.
 - **Explain** a difference between cycle and model values: say which is more exothermic, what that shows (covalent character) and why (polarisation of the anion by the cation).
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.8.1 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-8-1-revision-notes/), then try the [3.1.8.1 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-8-1-practice/). Next, [Gibbs free energy and entropy (3.1.8.2)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-8-2/) explains why some reactions with positive ΔH still happen.
 

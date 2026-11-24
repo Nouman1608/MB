@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the procedural details and variation figures given for Milgram's research, and the culture and Hofling examples, against the course textbook."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the procedural details and variation figures given for Milgram's research, and the culture and Hofling examples, against the course textbook. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ for conformity, see the
     Hofling's real-world study.
 12. The agentic state is inferred from obedience, and then used to explain that obedience.
 
-## Related resources
+## More resources on this topic
 
 - [Milgram's Agency theory practice questions](/resources/oxfordaqa-igcse-psychology-9218-agency-theory-practice/)
 - [Authoritarian Personality revision notes](/resources/oxfordaqa-igcse-psychology-9218-authoritarian-personality-revision-notes/)

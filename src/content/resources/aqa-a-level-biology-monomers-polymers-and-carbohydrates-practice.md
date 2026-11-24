@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Read the [study guide](/resources/aqa-a-level-biology-monomers-polymers-and-carb
 - Giving R_f with units or measuring from the wrong baseline.
 - Stating features of glycogen or starch without linking them to function.
 
-## Next steps
+## More on this topic
 
 - Return to the [study guide](/resources/aqa-a-level-biology-monomers-polymers-and-carbohydrates/) wherever an answer fell short.
 - Recall with the [revision notes](/resources/aqa-a-level-biology-monomers-polymers-and-carbohydrates-revision-notes/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -177,7 +177,7 @@ smaller ones [1]
 - Counting a nucleus that absorbs a neutron but does not split as a fission.
 - Writing two separate descriptions in a "compare" question.
 
-## Next steps
+## More on this topic
 
 - [Fission and fusion study guide](/resources/aqa-gcse-physics-8463-nuclear-fission-and-fusion/)
 - [Fission and fusion revision notes](/resources/aqa-gcse-physics-8463-nuclear-fission-and-fusion-revision-notes/)

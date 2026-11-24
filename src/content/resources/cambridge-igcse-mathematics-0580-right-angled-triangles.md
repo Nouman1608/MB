@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -193,7 +193,7 @@ They are named only in the Extended statements (E6.2), together with the perpend
 **How accurate should a trigonometry angle be?**
 The syllabus notes say answers in degrees should be correct to one decimal place, unless a question says otherwise.
 
-## Next steps
+## More on this topic
 
 - Consolidate with the [right-angled triangles revision notes](/resources/cambridge-igcse-mathematics-0580-right-angled-triangles-revision-notes/).
 - Practise with the [right-angled triangles practice questions](/resources/cambridge-igcse-mathematics-0580-right-angled-triangles-practice/).

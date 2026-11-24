@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ These questions cover statements B3.3f to B3.3j of module B3.3 in OCR GCSE (9-1)
 - Mixing up the ureter and urethra, or the cortex and medulla.
 - Using vague terms such as "waste" where the question needs a named substance such as urea.
 
-## Next steps
+## More on this topic
 
 - Reread the [revision notes](/resources/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh/).
 - Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and [checklist](/checklists/ocr/gcse/biology/).

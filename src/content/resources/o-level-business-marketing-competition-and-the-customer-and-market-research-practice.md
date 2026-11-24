@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ State a point about each of the two things being compared. Defining only one of 
 **How do you avoid losing marks on "two" questions?**
 Make sure the two points are genuinely different ideas. Two versions of the same idea, or a benefit and a limitation that are the same point reversed, earn credit only once.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/o-level-business-marketing-competition-and-the-customer-and-market-research-revision-notes/) for any question you lost marks on.
 - Re-read the [study guide](/resources/o-level-business-marketing-competition-and-the-customer-and-market-research/) for the worked examples.

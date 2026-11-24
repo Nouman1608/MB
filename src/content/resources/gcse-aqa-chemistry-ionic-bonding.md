@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -189,7 +189,7 @@ Ionic compounds are held together by the electrostatic force of attraction betwe
 **What must a dot and cross diagram for an ionic compound show?**
 Use dots for one atom's electrons and crosses for the other's, and show square brackets and the correct charge around each ion. Diagrams showing all occupied shells are acceptable provided the charges are shown.
 
-## Related resources
+## More resources on this topic
 
 - [Chemical Bonds and Ionic Bonding revision notes](/resources/aqa-gcse-chemistry-ionic-bonding-revision-notes/)
 - [Chemical Bonds and Ionic Bonding practice questions](/resources/aqa-gcse-chemistry-ionic-bonding-practice/)

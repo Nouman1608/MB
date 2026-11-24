@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ No. A tax cut may encourage more work or investment, but saying it will raise re
 **How do you answer a supply-side question that uses a data table?**
 Use the figures in the table to support each point, show the working for any percentage change with the original value as the base, and link the measure to the macroeconomic aim the question names. General points that ignore the data lose marks in Cambridge O Level Economics 2281.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-o-level-economics-supply-side-policy-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-supply-side-policy/).
 - Check coverage on the [course hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/).

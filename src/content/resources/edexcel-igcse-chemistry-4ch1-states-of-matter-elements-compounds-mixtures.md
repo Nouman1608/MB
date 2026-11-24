@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sub-topics 1(a) **States of matter** and 1(b) **Elements, compounds and mixtures** of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers specification points 1.1 to 1.13. The qualification is untiered. Points 1.5C, 1.6C and 1.7C are printed in bold with a "C" reference, so they are assessed on **Paper 2 only**; everything else can appear on Paper 1 or Paper 2.
@@ -318,7 +318,7 @@ spot 2: Rf = 5.6 / 8.0 = 0.70  → blue
 - Measuring Rf distances from the bottom of the paper instead of the baseline, or dividing the solvent distance by the spot distance.
 - Using filtration to recover a dissolved solid. It only removes insoluble solids.
 
-## Next steps
+## More on this topic
 
 After the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-revision-notes/) and [practice questions](/resources/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-practice/) for this unit, try the [Principles of chemistry practice set](/resources/igcse-edexcel-chemistry-principles-practice/) and the [formulae, equations and calculations practice set](/resources/edexcel-igcse-chemistry-4ch1-formulae-equations-calculations-practice/).
 

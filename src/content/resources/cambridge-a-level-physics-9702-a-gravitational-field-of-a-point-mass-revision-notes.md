@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ For an orbiting body, gravity is the only force, so its centripetal acceleration
 
 **Answers:** 1. F = GMm/r² on a test mass m; g = F/m; so g = GMm/r² ÷ m = GM/r². 2. 12.5 ÷ 4 = 3.1 N kg⁻¹. 3. r = √2 R = 9.0 × 10⁶ m. 4. g = 6.67 × 10⁻¹¹ × 6.42 × 10²³ ÷ (3.39 × 10⁶)² = 3.73 N kg⁻¹. 5. The height change is tiny compared with the Earth's radius, so r and g hardly change. 6. 2h/R = 2 × 3.2 ÷ 6370 = 1.0 × 10⁻³ (0.1%). 7. GM. 8. GM = g₀R². 9. x/(d − x) = √(M/4M) = ½, so x = d/3 from the smaller star. 10. 6.0 m s⁻² (towards the centre). 11. r = 2R, so g = 9.81 ÷ 4 = 2.45 N kg⁻¹. 12. So that its own field does not change the field being described; its mass cancels anyway.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields revision notes](/resources/a-physics-gravitational-fields-revision-notes/) — the whole of Topic 13
 - [Practice questions for this subtopic](/resources/cambridge-a-level-physics-9702-a-gravitational-field-of-a-point-mass-practice/)

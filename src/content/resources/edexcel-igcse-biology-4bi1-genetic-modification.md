@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ The rice is transgenic, because the gene comes from a different species. The whe
 
 **Answers:** (1) Restriction enzyme. (2) Ligase. (3) A plasmid and a virus. (4) An organism containing genetic material transferred from a different species. (5) Benefit: higher yield or less pesticide. Concern: genes may spread to wild plants, or unknown long-term effects.
 
-## Next steps
+## More on this topic
 
 Practise with the [genetic modification practice questions](/resources/edexcel-igcse-biology-4bi1-genetic-modification-practice/). Revise with the [use of biological resources revision notes](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources-revision-notes/). The next sub-topic is [cloning](/resources/edexcel-igcse-biology-4bi1-cloning/).
 

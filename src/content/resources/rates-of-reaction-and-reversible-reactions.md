@@ -27,7 +27,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -261,7 +261,7 @@ The Haber process makes ammonia from nitrogen and hydrogen at about 450 °C and 
 **Does Cambridge IGCSE 0620 include rate equations or Kc?**
 No. The 0620 and 5070 treatment is qualitative collision theory plus the Haber and Contact processes. Rate equations, orders of reaction and Kc belong to A Level Chemistry 9701.
 
-## Related resources
+## More resources on this topic
 
 - [Redox Reactions](/resources/redox-reactions/) — the Contact process is itself a redox reaction
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — testing the gas given off in a rate experiment

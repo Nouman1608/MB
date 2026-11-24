@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the last content group of specification section 3.4 (topic 4, Preparation of financial statements): accounting for organisations with incomplete records. The specification asks for two things. You must calculate the profit of an organisation where there are insufficient records to prepare income statements, and you must explain the benefits and limitations of different record-keeping systems, including single and double entry. It adds that calculations could include statements of affairs. All amounts on this page are in dollars.
@@ -258,7 +258,7 @@ Note that double entry does not guarantee accuracy. A trial balance only proves 
 - Finding credit sales without using the opening receivables balance.
 - Giving only one-word comments on systems, such as "cheaper", without saying why it matters to this business.
 
-## Next steps
+## More on this topic
 
 Test yourself on the [practice questions](/resources/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry-revision-notes/) for quick recall. Take a [free diagnostic](/diagnostics/) to find weak areas.
 

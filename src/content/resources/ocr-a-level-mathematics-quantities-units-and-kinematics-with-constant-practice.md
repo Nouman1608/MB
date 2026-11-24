@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ Both may be valid: the object can pass the same point twice. Check each root aga
 **Can you use suvat across stages with different accelerations?**
 No. The constant acceleration formulae apply to one stage at a time, so treat each stage with its own acceleration separately.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-revision-notes/) for the formulae and methods.
 - Reread the [study guide](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant/) for the worked examples.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -166,7 +166,7 @@ Links: [study guide](/resources/ocr-gcse-mathematics-factorising-completing-the-
 - Not showing the intermediate line in a "show that" question.
 - Stopping at a single bracket pair when a numerical factor, such as the 5 in question 3(c) or the 3 in question 6, is still outside.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic/) for any question you got wrong.
 - Use the [revision notes](/resources/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic-revision-notes/) for the self-test.

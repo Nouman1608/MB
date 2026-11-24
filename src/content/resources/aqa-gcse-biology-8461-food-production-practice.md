@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ supplies [1]
 - Evaluations that give one side only, or no conclusion.
 - Forgetting the unit when calculating food per person.
 
-## Next steps
+## More on this topic
 
 - [Food production study guide](/resources/aqa-gcse-biology-8461-food-production/)
 - [Food production revision notes](/resources/aqa-gcse-biology-8461-food-production-revision-notes/)

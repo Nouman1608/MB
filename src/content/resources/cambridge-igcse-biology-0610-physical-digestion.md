@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Three tubes contain milk with an alkaline pink indicator that turns colourless w
 - **Describe** tooth structure: name each tissue and its position.
 - **Outline** (Extended) the role of bile: emulsifies → smaller droplets → larger surface area → faster digestion by lipase.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [physical digestion revision notes](/resources/cambridge-igcse-biology-0610-physical-digestion-revision-notes/).
 - Marked questions: [physical digestion practice questions](/resources/cambridge-igcse-biology-0610-physical-digestion-practice/).

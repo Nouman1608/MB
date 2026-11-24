@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ D: A country leaving a trade agreement
 - Writing about interdependence without naming who is affected.
 - Evaluating with benefits only.
 
-## Next steps
+## More on this topic
 
 - Revise with the [why countries trade revision notes](/resources/aqa-gcse-economics-8136-why-countries-trade-and-the-importance-of-international-trade-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-8136-why-countries-trade-and-the-importance-of-international-trade/).
 - For exchange-rate questions, try the [exchange rates practice questions](/resources/aqa-gcse-economics-8136-exchange-rates-practice/).

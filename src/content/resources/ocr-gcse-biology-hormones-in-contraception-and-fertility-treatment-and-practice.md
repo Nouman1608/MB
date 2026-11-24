@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ These questions cover statements B3.2e to B3.2i of module B3.2 in OCR GCSE (9-1)
 - Not stating that ethene is a gas, so the explanation of how it reaches nearby fruit is missing.
 - Using the wrong base in a percentage change: it is divided by the starting or comparison value.
 
-## Next steps
+## More on this topic
 
 - Check the key points in the [revision notes](/resources/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and-revision-notes/) and re-read the [study guide](/resources/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and/).
 - Tick off statements on the [printable checklist](/checklists/ocr/gcse/biology/) and see the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/).

@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ Correct genotypes [1]. Females **3 normal red : 1 vestigial red** [1]. Males **3
 - Stopping at "significant" without explaining the cause.
 - Swapping the operator and the promoter.
 
-## Next steps
+## More on this topic
 
 - [A Level diagnostic](/practice/9700/diagnostic/a-level/)
 - [Course hub](/boards/cambridge/a-level/biology/) and [printable checklist](/checklists/cambridge/a-level/biology/)

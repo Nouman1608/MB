@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.6 (Variation and evolution) of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams in May/June 2018 onwards: 3.6.1 (causes of variation) and 3.6.2 parts a to c (natural selection). The qualification is untiered, and the specification says content from any part of it may be assessed in either paper. Use it with the [course hub](/boards/oxfordaqa/igcse/biology/) and the [printable checklist](/checklists/oxfordaqa/igcse/biology/).
@@ -221,7 +221,7 @@ Fertile offspring are the test. Two kinds of animal may mate and still be separa
 - Leaving out isolation in a speciation answer, or ending at "they are different" without saying they can no longer produce fertile offspring.
 - Treating a scar, a tan or a short, nitrate-starved plant as genetic.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species-practice/). Tick off sections on the [checklist](/checklists/oxfordaqa/igcse/biology/).
 

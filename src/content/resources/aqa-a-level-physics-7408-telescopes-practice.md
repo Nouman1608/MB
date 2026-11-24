@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ Revise from the [telescopes study guide](/resources/aqa-a-level-physics-7408-tel
 - Giving only "the atmosphere absorbs it" without naming what absorbs infrared.
 - Forgetting to multiply the angle by the distance to get a size.
 
-## Next steps
+## More on this topic
 
 - [Telescopes revision notes](/resources/aqa-a-level-physics-7408-telescopes-revision-notes/)
 - [Telescopes study guide](/resources/aqa-a-level-physics-7408-telescopes/)

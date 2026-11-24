@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ D: The land the shop stands on.
 - Leaving out fuel or other bought-in inputs when calculating profit.
 - Ending a 10-mark answer without a judgement.
 
-## Next steps
+## More on this topic
 
 - Revisit the [basic economic problem study guide](/resources/ocr-as-level-economics-h060-the-basic-economic-problem/).
 - Recap with the [basic economic problem revision notes](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-revision-notes/).

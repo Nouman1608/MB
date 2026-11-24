@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers AQA A-level Biology (7402) section 3.4.6, *Biodiversity within a community*, as set out in the AQA AS and A-level Biology specification for first teaching 2015. Section 3.4.6 sits in topic 4, which is also AS content. The assessment overview lists topics 1 to 4 for A-level Paper 1, and topics 1 to 8 for Paper 3. For the other pages in this unit see the [revision notes](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-revision-notes/) and the [practice questions](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). To find weak spots first, try the [free diagnostics](/diagnostics/). Genetic diversity within a species is covered separately in [mutation and meiosis](/resources/aqa-a-level-biology-mutation-and-meiosis/).
 
@@ -222,7 +222,7 @@ A good evaluation uses evidence. If a farm trial shows that sown margins raise d
 - Writing that farming "kills wildlife" without a mechanism such as loss of food or habitat.
 - Comparing two values of d from samples taken with different effort and drawing a firm conclusion.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-revision-notes/) for quick recall, then try the [practice questions](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-practice/). All the sample data on this page are invented for practice.
 

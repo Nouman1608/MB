@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ n = 18   (S_17 = 493, S_18 = 549)
 11. The sum from r = 1 to 20 of (5r − 2).
 12. u_n = dn + (u₁ − d) is a linear function of n with gradient d.
 
-## Next steps
+## More on this topic
 
 - [Section 1.2 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-1-2/)
 - [Section 1.2 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-2-practice/)

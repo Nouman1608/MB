@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,7 +144,7 @@ A **customer order** is a job made for a particular customer, and the same metho
 - For **explain** questions about the benefits of job costing, link the reason to a use: "It shows the profit on each customer order, so the business can set better prices."
 - For batch costs, divide by the number of units *at the end* and show the answer to two decimal places.
 
-## Related resources
+## More resources on this topic
 
 [Introduction to costing revision notes](/resources/edexcel-ial-accounting-introduction-to-costing-revision-notes/) |
 [Job costing practice questions](/resources/edexcel-a-level-accounting-yac11-job-costing-practice/) |

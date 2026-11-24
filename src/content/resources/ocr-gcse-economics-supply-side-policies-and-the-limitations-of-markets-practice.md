@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -157,7 +157,7 @@ Not necessarily. If demand is price inelastic, a tax raises the price but cuts c
 **How do you link supply side policy to economic objectives?**
 Explain how the policy raises productive capacity, then show which objective it helps, such as economic growth, lower unemployment or price stability. Forgetting this link is a common reason for lost marks.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets/).
 - Visit the [OCR GCSE Economics hub](/boards/ocr/gcse/economics/) and the [printable checklist](/checklists/ocr/gcse/economics/).

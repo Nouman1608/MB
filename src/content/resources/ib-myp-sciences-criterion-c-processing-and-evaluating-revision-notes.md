@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -163,7 +163,7 @@ Draw one when the points show a trend. Choose a straight line or a smooth curve 
 **What is the difference between an improvement and an extension?**
 An improvement makes the same investigation more valid or reliable. An extension asks a new question that follows from the result.
 
-## Next steps
+## More on this topic
 
 Work through the [Criterion C practice questions](/resources/ib-myp-sciences-criterion-c-processing-and-evaluating-practice/). Then read the [Criterion D study guide](/resources/ib-myp-sciences-criterion-d-reflecting-on-the-impacts-of-science/) to see how science is judged in its wider setting.
 

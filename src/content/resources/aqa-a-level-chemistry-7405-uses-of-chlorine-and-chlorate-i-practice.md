@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -122,7 +122,7 @@ These questions cover section **3.2.3.2 Uses of chlorine and chlorate(I)** of th
 - Leaving out balancing of 4H⁺ and 4Cl⁻ in the sunlight equation.
 - Giving only the benefit or only the risk in a "discuss" question.
 
-## Next steps
+## More on this topic
 
 - [Uses of chlorine and chlorate(I) revision notes](/resources/aqa-a-level-chemistry-7405-uses-of-chlorine-and-chlorate-i-revision-notes/)
 - [Group 7(17), the halogens practice questions](/resources/aqa-a-level-chemistry-group-7-17-the-halogens-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,7 +180,7 @@ The rules agree for every point, so the combination is that half turn. Reflectio
 - **Write down the invariant point(s)** (Higher tier only): give coordinates, or say "none".
 - **Show that** a combination equals a single transformation (Higher tier only): track coordinates through both steps and compare with the single rule.
 
-## Next steps
+## More on this topic
 
 - Condense the rules with the [plane isometric transformations revision notes](/resources/ocr-gcse-mathematics-j560-plane-isometric-transformations-revision-notes/).
 - Test yourself with the [plane isometric transformations practice questions](/resources/ocr-gcse-mathematics-j560-plane-isometric-transformations-practice/).

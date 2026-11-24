@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -204,7 +204,7 @@ Fe + CuSO₄ → FeSO₄ + Cu
 - Mixing up phytomining (plants) and bioleaching (bacteria).
 - Giving "burned" as a step in bioleaching.
 
-## Next steps
+## More on this topic
 
 - [Using the Earth's resources and obtaining potable water revision notes](/resources/aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water-revision-notes/)
 - [Using the Earth's resources and obtaining potable water practice questions](/resources/aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water-practice/)

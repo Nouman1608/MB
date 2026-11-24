@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ These questions cover statements P2.3k, P2.3l and P2.3m of OCR GCSE (9-1) Gatewa
 - Describing a force multiplier without the trade-off in distance or speed.
 - Adding clockwise moments to anticlockwise moments.
 
-## Next steps
+## More on this topic
 
 - Go back over the [study guide](/resources/ocr-gcse-physics-moments-levers-and-gears/) or the [revision notes](/resources/ocr-gcse-physics-moments-levers-and-gears-revision-notes/) for anything you missed.
 - Visit the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and tick off the [checklist](/checklists/ocr/gcse/physics/).

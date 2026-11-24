@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ The correction is used because floats move with the fast surface water, while wa
 - **Compare** channel types: make direct comparisons of load, discharge and bank material.
 - Diagrams are credited when they are labelled with processes, not just features, and when the text refers to them.
 
-## Related resources
+## More resources on this topic
 
 - [1.3 River channel processes and landforms revision notes](/resources/a-level-geography-9696-river-channel-processes-landforms-revision-notes/)
 - [1.3 River channel processes and landforms practice questions](/resources/cambridge-a-level-geography-9696-river-channel-processes-and-landforms-practice/)

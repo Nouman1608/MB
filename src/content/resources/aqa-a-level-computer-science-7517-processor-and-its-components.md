@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -181,7 +181,7 @@ Gains are rarely proportional. Doubling the clock speed does not halve run time 
 - For **interrupt** questions, cover: check at the end of the cycle, save the environment, run the ISR, restore and resume.
 - For **performance** questions, link each factor to its mechanism.
 
-## Related resources
+## More resources on this topic
 
 - [Processor revision notes](/resources/aqa-a-level-computer-science-7517-processor-and-its-components-revision-notes/)
 - [Processor practice questions](/resources/aqa-a-level-computer-science-7517-processor-and-its-components-practice/)

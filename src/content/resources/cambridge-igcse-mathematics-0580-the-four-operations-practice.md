@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ Learn the methods first in the [four operations study guide](/resources/cambridg
 
 Write one operation per line. For fractions, convert mixed numbers immediately and cancel before multiplying; for decimals, count decimal places or scale before dividing. In practical questions, underline the starting value and each change, and check the final answer against a rough estimate.
 
-## Next steps
+## More on this topic
 
 - Review rules in the [four operations revision notes](/resources/cambridge-igcse-mathematics-0580-the-four-operations-revision-notes/).
 - Mixed Topic 1 practice: [Number practice questions](/resources/igcse-mathematics-number-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ These questions cover IB Diploma Programme Biology section D4.3 (Climate change)
 - Leaving out units, or mixing ppm and ppb.
 - HL only: describing individuals adapting rather than populations evolving.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and-revision-notes/) and the [study guide](/resources/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and/).
 - Tick off outcomes on the [IB DP Biology checklist](/checklists/ib/ib-dp/biology/) and visit the [course hub](/boards/ib/ib-dp/biology/).

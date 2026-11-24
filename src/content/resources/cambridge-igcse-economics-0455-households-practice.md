@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ Judgement: income is the most important influence over the long run, because spe
 - Explaining confidence without a reason such as fear of job losses.
 - Listing influences in a "discuss" question without weighing them.
 
-## Next steps
+## More on this topic
 
 - Recap the tables in the [households revision notes](/resources/cambridge-igcse-economics-0455-households-revision-notes/).
 - Reread the interest rate examples in the [households study guide](/resources/cambridge-igcse-economics-0455-households/).

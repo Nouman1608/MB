@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -127,7 +127,7 @@ A **trading bloc** is a group of countries that agree to reduce or remove trade 
 
 For **explain** questions, make one point about the effect on a business and add evidence from the source, for example a tariff rate or GDP per head. For **analyse**, trace the chain: "falling transport costs, cheaper imports of components, lower production cost, higher margin". For **discuss** and **assess**, weigh benefits and risks for the particular firm, such as an exporter's reliance on one market, and give a judgement that depends on the firm's size, flexibility and position in the supply chain.
 
-## Related resources
+## More resources on this topic
 
 - [Globalisation revision notes](/resources/edexcel-a-level-business-ybs11-globalisation-revision-notes/)
 - [Globalisation practice questions](/resources/edexcel-a-level-business-ybs11-globalisation-practice/)

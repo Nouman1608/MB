@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -198,7 +198,7 @@ Calculate P(A) × P(B) and compare it with P(A and B). They are independent only
 **Which references does AQA GCSE Maths Topic 5 Probability cover?**
 Topic 5 Probability in AQA GCSE Mathematics 8300 covers P1 to P9, including relative frequency, expected outcomes, sample spaces, Venn and tree diagrams and, at Higher tier, conditional probability.
 
-## Next steps
+## More on this topic
 
 - [Probability revision notes](/resources/aqa-gcse-maths-8300-probability-revision-notes/)
 - [Probability study guide](/resources/aqa-gcse-maths-8300-probability/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -206,7 +206,7 @@ method and how the results are used.*
 - Formulations link to **alloys** (4.10.3.2) and **NPK fertilisers** (4.10.4.2).
 - Rf values need **ratio and significant figures** from the maths skills.
 
-## Next steps
+## More on this topic
 
 - [Purity, formulations and chromatography practice questions](/resources/aqa-gcse-chemistry-8462-purity-formulations-and-chromatography-practice/)
 - [Chemical analysis revision notes](/resources/aqa-gcse-chemistry-8462-chemical-analysis-revision-notes/)

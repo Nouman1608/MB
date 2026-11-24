@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,7 +155,7 @@ have a reasonable expectation of privacy; if so, is it outweighed by the publish
 expression? 12. The court is a public authority under section 6 of the Human Rights Act 1998 and must give
 effect to Article 8 when deciding the claim.
 
-## Related resources
+## More resources on this topic
 
 [Article 8 study guide](/resources/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953/) |
 [Article 8 practice questions](/resources/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953-practice/) |

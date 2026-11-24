@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ Energy change = 2580 − 2385 [1] = **+195 kJ/mol**, **endothermic** [1]
 - Leaving out a coefficient (such as the 3 in 3H₂) when totalling bonds.
 - Saying a catalyst changes ΔH.
 
-## Next steps
+## More on this topic
 
 - Recap fast with the [energy change revision notes](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change-revision-notes/).
 - Re-learn anything you missed in the [energy change study guide](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change/).

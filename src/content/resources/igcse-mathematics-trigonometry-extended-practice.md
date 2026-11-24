@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -215,7 +215,7 @@ The perpendicular from the centre of a circle to a chord bisects the chord, whic
 **How should bearings be written?**
 Measure bearings clockwise from a north line and always give them with three figures, such as 040°.
 
-## Next steps
+## More on this topic
 
 - Practise with the [Trigonometry practice questions](/resources/igcse-mathematics-trigonometry-practice/) and recap with the [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/).
 - Read the full [Trigonometry study guide](/resources/igcse-mathematics-trigonometry/) if a method here felt unfamiliar.

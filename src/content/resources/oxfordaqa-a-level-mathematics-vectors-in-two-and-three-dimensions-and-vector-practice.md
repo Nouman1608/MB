@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -141,7 +141,7 @@ These questions follow the OxfordAQA International AS and A-level Mathematics sp
 - Giving only one of the two points when "two points" are requested.
 - Converting a surd to a rounded decimal when the question asks for an exact answer.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-a-level-mathematics-vectors-in-two-and-three-dimensions-and-vector-revision-notes/) for the method boxes.
 - Reread the [study guide](/resources/oxfordaqa-a-level-mathematics-vectors-in-two-and-three-dimensions-and-vector/) for any worked example you found hard.

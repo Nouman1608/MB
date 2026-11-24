@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ Multiply the original quantity by 0.92, not by 0.08, which would give only the s
 **Which AQA GCSE Economics sections do these questions cover?**
 They cover AQA GCSE Economics 8136 sections 3.1.3.5 Price elasticity of demand and 3.1.3.6 Price elasticity of supply.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation-revision-notes/) or the [study guide](/resources/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation/) for any question you missed.
 - Visit the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/) and the [checklist](/checklists/aqa/gcse/economics/).

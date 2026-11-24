@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and longer worked examples, use the
@@ -264,7 +264,7 @@ No. Credit balances in the sales ledger, from customer overpayments or returns, 
 **Which bank balance goes in the statement of financial position?**
 The updated cash book balance goes in the statement of financial position, not the bank statement balance.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/aqa-a-level-accounting-verification-of-accounting-records-practice/)
 under timed conditions, and use the [free diagnostics](/diagnostics/) to find any other topics that need

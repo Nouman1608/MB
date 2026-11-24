@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ For y = axⁿ, ln y = ln a + n ln x, so the gradient is n and the intercept is l
 **How should you state a limitation of an exponential growth model?**
 Tie it to the context, for example a town's population cannot grow without limit because of housing and services. A generic phrase such as "models are not perfect" does not earn the mark.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this section](/resources/aqa-a-level-mathematics-exponentials-and-logarithms-revision-notes/)
 - [Study guide for this section](/resources/aqa-a-level-mathematics-exponentials-and-logarithms/)

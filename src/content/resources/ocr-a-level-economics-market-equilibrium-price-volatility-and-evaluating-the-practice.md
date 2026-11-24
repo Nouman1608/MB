@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Only one result is certain. For example, if demand rises and supply falls, price
 **How should you answer an evaluation question on the usefulness of the supply and demand model?**
 Name the market, identify which of the model's assumptions fails most clearly there, and judge whether the model still gives a useful direction of change. Listing limitations without weighing them, or not applying them to the market in the question, scores less well in OCR A Level Economics (H460).
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the/).
 - Check progress against the [course hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-23: self-test 4 working from unrounded value (audit C6)"
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-23: self-test 4 working from unrounded value (audit C6) 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ x² − x − 3 = 0 can be written x = √(x + 3) (for x > 0). With x₀ = 2: x�
 
 **11.** It keeps the full stored value at each step, so rounding errors do not build up.
 
-## Related resources
+## More resources on this topic
 
 - [P3 numerical methods study guide](/resources/edexcel-a-level-mathematics-yma01-p3-numerical-methods/)
 - [P3 numerical methods practice questions](/resources/edexcel-a-level-mathematics-yma01-p3-numerical-methods-practice/)

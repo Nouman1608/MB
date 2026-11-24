@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -199,7 +199,7 @@ Test every pair of values, not just one. For direct proportion y ÷ x (or y ÷ x
 **Is proportion Higher tier only in Edexcel IGCSE Maths 4MA1?**
 Section 2.5, with direct and inverse proportion involving powers and roots, is Higher tier only. Foundation statement 1.7D covers simple direct proportion between two quantities, which Higher questions also assume.
 
-## Next steps
+## More on this topic
 
 - Refresh the formulae: [revision notes](/resources/edexcel-igcse-maths-4ma1-proportion-revision-notes/)
 - Re-learn anything you missed: [study guide](/resources/edexcel-igcse-maths-4ma1-proportion/)

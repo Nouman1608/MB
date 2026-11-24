@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ Read the [study guide](/resources/oxfordaqa-a-level-mathematics-moments-rigid-bo
 * Rounding the centre of mass early and giving a suspension angle that is out in the third figure.
 * Measuring a hanging angle between the wrong edge and the vertical.
 
-## Next steps
+## More on this topic
 
 * [Revision notes](/resources/oxfordaqa-a-level-mathematics-moments-rigid-bodies-in-equilibrium-and-centres-of-mass-revision-notes/)
 * [Study guide](/resources/oxfordaqa-a-level-mathematics-moments-rigid-bodies-in-equilibrium-and-centres-of-mass/)

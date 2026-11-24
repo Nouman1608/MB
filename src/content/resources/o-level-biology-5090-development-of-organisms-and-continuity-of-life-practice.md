@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Revise first with the [study guide](/resources/o-level-biology-5090-development-
 - Mixing up which hormone causes ovulation (LH) and which keeps the lining thick (progesterone).
 - Saying maternal and fetal blood mix at the placenta.
 
-## Next steps
+## More on this topic
 
 - Go back over weak points with the [revision notes](/resources/o-level-biology-5090-development-of-organisms-and-continuity-of-life-revision-notes/) and the [study guide](/resources/o-level-biology-5090-development-of-organisms-and-continuity-of-life/).
 - Link germination back to [Enzymes](/resources/enzymes-practice/) and the placenta to [Disease and immunity](/resources/o-level-biology-5090-disease-and-immunity-practice/).

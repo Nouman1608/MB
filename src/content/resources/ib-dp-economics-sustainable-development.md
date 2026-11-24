@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.7, sustainable development, in Unit 4 The global economy. The meaning of sustainable development and the Sustainable Development Goals are SL and HL. The relationship between sustainability and poverty is **HL only** and is marked that way below. Every country, resource and figure in the worked examples is invented and illustrative.
@@ -230,7 +230,7 @@ Yes. A project can support jobs and growth while working against goals such as l
 **Does recycling make a non-renewable resource sustainable?**
 No. Recycling extends the life of a non-renewable deposit, but it does not make extraction sustainable for ever. It buys time for substitutes to be found.
 
-## Next steps
+## More on this topic
 
 Try the [practice set](/resources/ib-dp-economics-sustainable-development-practice/), then use the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/). The wider course map is in the [IB DP Economics syllabus guide](/resources/ib-dp-economics-syllabus-guide/), and poverty measures are in [inequality and poverty](/resources/ib-dp-economics-inequality-and-poverty/). Check your readiness with the [free diagnostics](/diagnostics/).
 

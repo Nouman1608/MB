@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -171,7 +171,7 @@ These questions follow the OxfordAQA International GCSE Physics (9203) specifica
 - Describing the I-V graph of a lamp or diode as straight.
 - Describing the practical with the voltmeter in series, or omitting reversed readings.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic-revision-notes/) or re-read the [study guide](/resources/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic/)
 - Tick off what you know on the [printable checklist](/checklists/oxfordaqa/igcse/physics/)

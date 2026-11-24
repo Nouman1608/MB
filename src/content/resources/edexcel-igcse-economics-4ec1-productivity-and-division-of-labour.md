@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ They are smaller for made-to-order or creative products, and where absence or st
 - **Explain:** factor plus two developments in the case context.
 - **Assess / Evaluate:** weigh advantages against disadvantages for the group named, and say what the outcome depends on.
 
-## Next steps
+## More on this topic
 
 Condense this with the [productivity and division of labour revision notes](/resources/edexcel-igcse-economics-4ec1-productivity-and-division-of-labour-revision-notes/), then apply it in the [productivity and division of labour practice questions](/resources/edexcel-igcse-economics-4ec1-productivity-and-division-of-labour-practice/). The factors themselves are covered in [production](/resources/edexcel-igcse-economics-4ec1-production/).
 

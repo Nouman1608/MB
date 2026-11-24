@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -167,7 +167,7 @@ Course pages: the [OxfordAQA International GCSE Physics hub](/boards/oxfordaqa/i
 - Leaving out units on a speed.
 - Describing the required practical without repeat readings or a graph of sin i against sin r.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total-revision-notes/) for any answers you missed.
 - Go back to the [study guide](/resources/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total/) for full explanations.

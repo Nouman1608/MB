@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -170,7 +170,7 @@ This example shows a common exam pattern: when the key is a single attribute you
 - Identify and mark **primary and foreign keys** in the final tables.
 - For "why normalise", give two problems of the unnormalised table with a data example from the question.
 
-## Related resources
+## More resources on this topic
 
 - [Normalisation revision notes](/resources/aqa-a-level-computer-science-7517-database-design-and-normalisation-revision-notes/)
 - [Normalisation practice questions](/resources/aqa-a-level-computer-science-7517-database-design-and-normalisation-practice/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is written for OCR GCSE (9-1) Mathematics, specification Version 2.1 (August 2026), sections 8.03 (angles) and 8.04 (properties of polygons). Most of the content is for both tiers. Where the specification places something in the Higher tier column only, it is labelled **Higher tier only**. For quick recall use the [revision notes](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-practice/). The [course hub](/boards/ocr/gcse/mathematics/), the [checklist](/checklists/ocr/gcse/mathematics/) and the free [diagnostics](/diagnostics/) show where you stand.
@@ -345,7 +345,7 @@ So 2(p + q) = 180° and angle ACB = p + q = 90°
 - Forgetting that a rhombus is not a square, and that a parallelogram has no line of symmetry.
 - Writing a proof that shows an example but never states the general reason.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-practice/), keep the [revision notes](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-revision-notes/) open for recall, and tick off progress on the [checklist](/checklists/ocr/gcse/mathematics/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -202,7 +202,7 @@ Before you finish, test your draft against each objective:
 - Keep checking: "Would this sentence work for this audience and this purpose?"
 - Leave time to proofread for W4.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 2 Section B writing revision notes](/resources/oxfordaqa-igcse-english-language-9270-section-b-writing-revision-notes/)
 - [Paper 2 Section B writing practice questions](/resources/oxfordaqa-igcse-english-language-9270-section-b-writing-practice/)

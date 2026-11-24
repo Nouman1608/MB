@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ Revise first with the [study guide](/resources/edexcel-ial-economics-public-expe
 - Calling every tax cut inflationary without mentioning spare capacity.
 - Leaving out a judgement in extended answers.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-economics-public-expenditure-and-taxation/) for any chain you missed.
 - Use the [revision notes](/resources/edexcel-ial-economics-public-expenditure-and-taxation-revision-notes/) for quick recall.

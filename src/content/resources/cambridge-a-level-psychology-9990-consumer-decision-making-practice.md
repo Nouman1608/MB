@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,6 +148,6 @@ Related: [Consumer decision-making study guide](/resources/cambridge-a-level-psy
 - In question 7, saying "the shop makes it seem cheap" without naming the anchor.
 - In question 10, giving a closed question such as "Did you notice the switch?"
 
-## Next steps
+## More on this topic
 
 Check weak areas in the [consumer decision-making study guide](/resources/cambridge-a-level-psychology-9990-consumer-decision-making/), then try mixed questions in the [Consumer Psychology practice questions](/resources/a-level-psychology-consumer-psychology-practice/).

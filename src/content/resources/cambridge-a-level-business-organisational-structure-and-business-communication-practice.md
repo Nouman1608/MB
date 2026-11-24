@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -115,7 +115,7 @@ These questions cover sections 7.1 Organisational structure and 7.2 Business com
 - Evaluating with a list of points and no reasoned judgement.
 - Describing informal communication as only harmful.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-a-level-business-organisational-structure-and-business-communication-revision-notes/) and [study guide](/resources/cambridge-a-level-business-organisational-structure-and-business-communication/).
 - Go to the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/) and the [checklist](/checklists/cambridge/a-level/business/).

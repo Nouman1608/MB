@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ C₇H₁₄O, with concentrated phosphoric acid and distilling the alkene off as
 - No observation for the compound that does not react in a Fehling's or Tollens' test.
 - Curly arrows starting at H⁺ or a positive charge, or no H⁺ released in the last step.
 
-## Next steps
+## More on this topic
 
 - Recap the facts: [9620 alcohols notes](/resources/oxfordaqa-a-level-chemistry-alcohols-revision-notes/)
 - Relearn a method: [9620 alcohols guide](/resources/oxfordaqa-a-level-chemistry-alcohols/)

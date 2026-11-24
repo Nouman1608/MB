@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P2 topics 5.1 to 5.3 (exponentials and logarithms) and 6.1 to 6.2 (trigonometric identities and equations). The specification lists P2 as a compulsory unit for both IAS Mathematics and IAL Mathematics (and Pure Mathematics).
 
@@ -371,7 +371,7 @@ Use sin²θ + cos²θ = 1 to find cos θ, then choose its sign from the quadrant
 **Why should you not divide a trig equation by sin x?**
 Dividing by sin x loses the solutions where sin x = 0. Collect terms on one side and factorise instead.
 
-## Next steps
+## More on this topic
 
 Condense the results with the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-practice/).
 

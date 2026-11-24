@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ The Hong Kong outline in the revision notes covers all three headings; the Vajon
 - **Evaluate** strategies: apply criteria, compare strategies and reach a judgement that depends on the type of movement and setting.
 - **Calculate** slope geometry carefully, stating which trigonometric ratio you used.
 
-## Related resources
+## More resources on this topic
 
 - [3.4 The human impact revision notes](/resources/a-level-geography-9696-slopes-human-impact-revision-notes/)
 - [3.4 The human impact practice questions](/resources/cambridge-a-level-geography-9696-the-human-impact-3-4-practice/)

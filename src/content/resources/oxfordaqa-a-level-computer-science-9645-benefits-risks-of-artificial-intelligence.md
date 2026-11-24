@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -127,7 +127,7 @@ Pointing out the link, for example "the same consistency that makes a system fai
 - Writing only about jobs or only about benefits.
 - Saying that AI will inevitably destroy humanity. The risk is a possible future concern about superintelligent systems.
 
-## Next steps
+## More on this topic
 
 - [Benefits and risks revision notes](/resources/oxfordaqa-a-level-computer-science-9645-benefits-risks-of-artificial-intelligence-revision-notes/)
 - [Benefits and risks practice questions](/resources/oxfordaqa-a-level-computer-science-9645-benefits-risks-of-artificial-intelligence-practice/)

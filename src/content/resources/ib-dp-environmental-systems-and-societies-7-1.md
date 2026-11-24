@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.1 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.1 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Use her work to qualify Hardin: tragedy is likely under **open access**, not und
 - **Evaluate** a management tool: effectiveness, cost, enforcement, who gains and who loses, then a judgement tied to the case.
 - **Discuss** valuation: contrast use and non-use values and at least two value systems.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [7.1 revision notes](/resources/ib-dp-environmental-systems-and-societies-7-1-revision-notes/) and practise with the [7.1 practice questions](/resources/ib-dp-environmental-systems-and-societies-7-1-practice/). Logistic growth and carrying capacity are introduced in the [Topic 2 Ecology guide](/resources/ib-dp-ess-topic-2-ecology/), and value systems in the [Topic 1 Foundations guide](/resources/ib-dp-ess-topic-1-foundations/).
 

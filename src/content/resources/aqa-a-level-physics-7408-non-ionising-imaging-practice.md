@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ Data: speed of ultrasound in soft tissue c = 1540 m s⁻¹. Tissue impedances ar
 - Swapping the jobs of coherent and non-coherent bundles.
 - Leaving out the gradient coils or the computer in MR descriptions.
 
-## Next steps
+## More on this topic
 
 - [Non-ionising imaging study guide](/resources/aqa-a-level-physics-7408-non-ionising-imaging/)
 - [Non-ionising imaging revision notes](/resources/aqa-a-level-physics-7408-non-ionising-imaging-revision-notes/)

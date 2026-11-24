@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -212,7 +212,7 @@ Non-current assets with cost, depreciation and carrying amount [1]; total 25,710
 - Adding goods on sale or return to inventory at selling price.
 - Giving a service business a cost of sales or gross profit line.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole/)

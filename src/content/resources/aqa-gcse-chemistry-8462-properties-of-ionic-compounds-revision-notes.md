@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -166,7 +166,7 @@ same idea explains why a sodium chloride solution lights a bulb in a simple circ
 9. There is one sodium ion for every chloride ion (a 1 : 1 ratio).
 10. Sodium chloride.
 
-## Next steps
+## More on this topic
 
 - [Properties of ionic compounds study guide](/resources/aqa-gcse-chemistry-8462-properties-of-ionic-compounds/)
 - [Properties of ionic compounds practice questions](/resources/aqa-gcse-chemistry-8462-properties-of-ionic-compounds-practice/)

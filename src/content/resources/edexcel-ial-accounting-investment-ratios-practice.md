@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Pennick EPS = 27.00 cents, P/E = 459 / 27.00 = **17.00 times** [1]; DPS = 7.20 c
 - Using profit for the year instead of profit before finance costs for ROCE.
 - Answering "Evaluate" with a list of ratios and no judgement tied to the investor's aim.
 
-## Next steps
+## More on this topic
 
 - [Investment ratios revision notes](/resources/edexcel-ial-accounting-investment-ratios-revision-notes/)
 - [Investment ratios study guide](/resources/edexcel-ial-accounting-investment-ratios/)

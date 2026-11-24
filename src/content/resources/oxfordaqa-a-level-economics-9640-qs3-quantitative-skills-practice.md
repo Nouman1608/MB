@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ These questions cover quantitative skill QS3 from section 3.5 of the OxfordAQA I
 - Saying "the mean is wrong" instead of explaining why it is unrepresentative.
 - Trying to calculate a Gini coefficient when the question only asks you to compare or interpret.
 
-## Next steps
+## More on this topic
 
 - Re-read the [QS3 revision notes](/resources/oxfordaqa-a-level-economics-9640-qs3-quantitative-skills-revision-notes/).
 - Return to the [QS3 study guide](/resources/oxfordaqa-a-level-economics-9640-qs3-quantitative-skills/) for the grouped-data examples.

@@ -35,7 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers Topic 11, Organic chemistry — subtopics **11.3 Fuels**,
@@ -273,7 +273,7 @@ The supply of short-chain hydrocarbons from fractional distillation does not mat
 **What addition reactions do alkenes undergo in Cambridge 0620 and 5070?**
 Alkenes add bromine or aqueous bromine, hydrogen with a nickel catalyst, and steam with an acid catalyst, which produces an alcohol. Only one product forms in each addition reaction.
 
-## Related resources
+## More resources on this topic
 
 - [Organic Chemistry: Formulae and Naming](/resources/organic-chemistry-formulae-and-naming/) — the vocabulary this subtopic assumes
 - [Alcohols and Carboxylic Acids](/resources/alcohols-and-carboxylic-acids/) — ethanol, made industrially from ethene by the steam-addition reaction above

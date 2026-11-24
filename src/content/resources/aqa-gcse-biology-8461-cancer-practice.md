@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ Learn the content first in the [cancer study guide](/resources/aqa-gcse-biology-
 - Multiplying instead of using powers of 2 for repeated division.
 - Treating a correlation, or one risk factor, as proof of cause.
 
-## Next steps
+## More on this topic
 
 - Re-read the [cancer study guide](/resources/aqa-gcse-biology-8461-cancer/).
 - Next in Topic 2: [plant tissues practice questions](/resources/aqa-gcse-biology-8461-plant-tissues-practice/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers Criterion C (Communicating) and Criterion D (Applying mathematics in real-life contexts) in IB MYP Mathematics. It follows the IB MYP *Mathematics guide* (for use from September 2020 and January 2021, first assessment 2022) and its Year 1, Year 3 and Year 5 objectives and assessment criteria. The guide publishes one descriptor set for each of those three years, so this page works the same way and does not split the content by course level. Use it with the [revision notes](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying-revision-notes/) and the [practice questions](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying-practice/). The course hub is at [MYP Mathematics](/boards/ib/ib-myp/mathematics/) and the printable list is the [MYP Mathematics checklist](/checklists/ib/ib-myp/mathematics/).
@@ -282,7 +282,7 @@ The wording is similar across years, but the demands grow: Year 1 asks you to sa
 **How do you present work with a clear logical structure?**
 Present it in an order a reader can follow: the aim, the information used, the method, the result and a conclusion. Number your steps and label diagrams.
 
-## Next steps
+## More on this topic
 
 Use the [practice questions](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying-practice/) to try each strand. See also [the four criteria in practice](/resources/ib-myp-mathematics-criteria-in-practice/) and the [MYP Mathematics subject guide](/resources/ib-myp-mathematics-subject-guide/). Find your gaps with the [free 10-minute diagnostics](/diagnostics/).
 

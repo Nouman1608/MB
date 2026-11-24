@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -194,7 +194,7 @@ as "Lovely weather today." 10. A group united by shared activity that develops s
 11. Because Section B's essay must connect with the data analysed in Section A. 12. A nickname, for example, can build
 rapport, express a relationship and be playful at the same time.
 
-## Next steps
+## More on this topic
 
 Try the [Language and Social Groups – Texts practice questions](/resources/oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts-practice/),
 then the [Unit 2 revision notes](/resources/a-level-oxfordaqa-english-language-unit-2-revision-notes/).

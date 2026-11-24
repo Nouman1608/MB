@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ These questions cover the second half of topic B.1 (Thermal energy transfers) in
 - Squaring the temperature, or taking the fourth power of the radius, in scaling questions.
 - Giving no unit, or W where W m⁻² is wanted.
 
-## Next steps
+## More on this topic
 
 - Review the formulas in the [revision notes](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan-revision-notes/).
 - Work back through the examples in the [study guide](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan/).

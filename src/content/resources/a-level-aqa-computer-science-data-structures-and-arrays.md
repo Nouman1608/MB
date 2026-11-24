@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -190,7 +190,7 @@ AQA sets no pseudocode convention of its own at this level, so check whether the
 **How do you justify choosing an array in an exam answer?**
 State how many dimensions are needed and explain how the data will be accessed, for example a two-dimensional array indexed by day and time slot, rather than just saying use an array.
 
-## Related resources
+## More resources on this topic
 
 [Data Structures and Arrays revision notes](/resources/aqa-a-level-computer-science-data-structures-revision-notes/) |
 [Data Structures and Arrays practice questions](/resources/aqa-a-level-computer-science-data-structures-practice/)

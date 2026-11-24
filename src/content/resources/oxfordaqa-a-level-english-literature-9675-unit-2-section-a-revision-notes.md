@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -176,7 +176,7 @@ There is no exhaustive list: choose the angles that make your novel most interes
 12. It lets you compare places and show whether the traveller changes, linking place to character
     and structure.
 
-## Next steps
+## More on this topic
 
 Practise with the [Unit 2 Section A practice questions](/resources/oxfordaqa-a-level-english-literature-9675-unit-2-section-a-practice/),
 then compare how poems build place in the

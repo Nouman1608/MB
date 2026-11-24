@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -136,7 +136,7 @@ Rainsplash detaches particles. Surface runoff begins as thin **sheetwash**, then
 
 **Answers:** 1. Downslope movement of material under gravity. 2. When shear stress exceeds shear strength. 3. Soil creep, or solifluction. 4. Adds weight and increases pore water pressure, reducing friction. 5. A small channel formed where surface runoff concentrates. 6. Less root binding and interception, and more runoff. 7. Shear stress is greater than shear strength, so failure is likely. 8. Particles are lifted at right angles to the slope by wetting or freezing, then fall back vertically, moving slightly downslope each time. 9. Rotational: curved slip surface; translational: flat plane. 10. Terracettes, leaning walls, fences or trees, soil build-up behind walls. 11. It seals the surface with fine particles, lowering infiltration. 12. Angular rock debris at the foot of a face, formed by rockfall, often after freeze-thaw.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

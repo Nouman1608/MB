@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **These notes condense Section 4 Agricultural development of Cambridge O Level Pakistan Studies
@@ -183,7 +183,7 @@ and asks you to describe a distribution.
 It has one of the world's largest continuous canal networks on flat land, so seepage is huge and drainage
 is slow, while hot summers draw salt to the surface.
 
-## Related resources
+## More resources on this topic
 
 - [Agricultural Development study guide](/resources/o-level-pakistan-studies-agricultural-development/)
 - [Agricultural Development practice questions](/resources/o-level-pakistan-studies-agricultural-development-practice/)

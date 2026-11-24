@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -172,7 +172,7 @@ One member is picked at random.
 - Leaving branches that do not sum to 1 and not noticing.
 - Listing every path for "at least one" when 1 − P(none) was shorter and safer.
 
-## Next steps
+## More on this topic
 
 - Re-read the method in the [study guide](/resources/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional/) where you lost marks.
 - Condense it with the [revision notes](/resources/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional-revision-notes/).

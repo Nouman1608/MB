@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the limited companies row of specification section 3.4, Preparation of financial statements. Content 3 to 5 is the content assessed in Paper 2: Financial Statements, so this topic sits in that paper. The specification does not split the content into tiers.
@@ -257,7 +257,7 @@ For limited companies, the specification states that these will not be examined:
 - Putting accruals in current assets, or prepayments in liabilities.
 - Writing a comment that restates a number without saying what it means.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-revision-notes/) for fast recall, then try the [practice questions](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-practice/) with the answers covered. For the other forms of organisation, see the [course hub](/boards/oxfordaqa/igcse/accounting/). Tick off what you can do on the [checklist](/checklists/oxfordaqa/igcse/accounting/), and use the [diagnostics](/diagnostics/) to find weak spots.
 

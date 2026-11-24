@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ A is 2.0 × 10⁵ Pa and 1.5 × 10⁻³ m³. A to B is a rise in pressure to 4.0
 - Treating the mean of the speeds as the v in P = (1/3)ρv² instead of the root mean square speed.
 - Describing a constant-temperature curve on a P-V diagram as a straight line.
 
-## Next steps
+## More on this topic
 
 - Review the formulas in the [revision notes](/resources/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory-revision-notes/).
 - Re-read the derivations in the [study guide](/resources/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory/).

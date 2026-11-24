@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ A balance on the **wrong side** of the list changes the total by **twice** the b
 11. It falls from +90 to −90 within the list, a change of 180.
 12. Both are statement of financial position accounts; no income or expense is involved.
 
-## Related resources
+## More resources on this topic
 
 [Correction of errors study guide](/resources/edexcel-a-level-accounting-yac11-correction-of-errors/) |
 [Correction of errors practice questions](/resources/edexcel-a-level-accounting-yac11-correction-of-errors-practice/) |

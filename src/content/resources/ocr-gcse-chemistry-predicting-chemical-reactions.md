@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Sub-topic **C4.1 Predicting chemical reactions** opens Topic C4 of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026). This guide teaches all of it: learning outcomes C4.1a to C4.1f, the mathematical learning outcome CM4.1i, and the practical suggestions linked to PAG C1, C5, C7 and C8. None of the C4.1 statements is Higher Tier only, so everything here is assessed at both tiers. The specification marks C4.1c (transition metals) as content found only in the separate chemistry qualification, which is the one you are taking. In the assessment overview, Topic C4 is examined on Paper 2 (Foundation Tier) and Paper 4 (Higher Tier).
@@ -283,7 +283,7 @@ Repeat each test, and use a lidded polystyrene cup to reduce energy loss.
 - Writing Cl instead of Cl₂ in equations, then failing to balance.
 - Giving a transition metal a single fixed charge.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/ocr-gcse-chemistry-predicting-chemical-reactions-revision-notes/) for a quick summary and self-test, then the [practice questions](/resources/ocr-gcse-chemistry-predicting-chemical-reactions-practice/).
 

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -140,7 +140,7 @@ It is a generalisation: rock type and local conditions also matter.
 
 **Answers:** 1. In situ breakdown of rock without transport. 2. Water in cracks and temperatures that cross 0 degrees C repeatedly. 3. Limestone, chalk or other calcium carbonate rocks. 4. Bare rock in deserts with large daily temperature ranges. 5. Root wedging, burrowing or organic acids. 6. Reaction rates rise with temperature and water is plentiful. 7. Calcium carbonate + carbonic acid gives calcium bicarbonate (in solution). 8. Kaolinite clay, with ions removed in solution. 9. Removal of overlying rock lets granite expand upwards, cracking it parallel to the surface. 10. Salt is plentiful from sea spray or groundwater, and evaporation is high, so crystals grow in pores. 11. How weathering type and intensity vary with mean annual temperature and rainfall. 12. It is chemically resistant.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -160,7 +160,7 @@ does not; 2 fits (1 left); 1 fits (0 left). The bits are 1100 1011. Hex: 1100 is
 9. AF (175 ÷ 16 = 10 remainder 15).
 10. 255 and 1111 1111.
 
-## Related resources
+## More resources on this topic
 
 - [Converting between number bases study guide](/resources/oxfordaqa-igcse-computer-science-9210-converting-between-number-bases/)
 - [Converting between number bases practice questions](/resources/oxfordaqa-igcse-computer-science-9210-converting-between-number-bases-practice/)

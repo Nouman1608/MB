@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -125,7 +125,7 @@ Judgement: a smaller, phased expansion funded partly from retained profit reduce
 - Comparing only cost and forgetting risk and control.
 - Using the wrong number of shares for earnings per share.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-sources-of-finance/) for any gaps.
 - Try the [accounting concepts practice questions](/resources/ocr-a-level-business-h431-accounting-concepts-practice/).

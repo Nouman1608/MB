@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -112,7 +112,7 @@ Judgement: these two objectives fit together, but there is a risk of conflict wi
 - Evaluating with benefits only.
 - Forgetting the link to the corporate objectives in the case.
 
-## Next steps
+## More on this topic
 
 - Revisit the [human resource management objectives study guide](/resources/ocr-a-level-business-h431-human-resource-management-objectives/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

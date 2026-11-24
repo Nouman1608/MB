@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ Use tan θ = y/L and then sin θ: **do not assume sin θ ≈ tan θ** at grating
 
 **Answers:** 1. d is the grating spacing, θ the angle from the normal to the maximum, n the order (a whole number), λ the wavelength. 2. d = 1 ÷ (4.00 × 10⁵) = 2.50 × 10⁻⁶ m. 3. d/λ = 4.17, so n_max = 4. 4. 2(4) + 1 = 9. 5. Every wavelength has its zero-order maximum at θ = 0, so all colours combine there. 6. Red. 7. 15.0°. 8. The maxima are sharper and brighter and at larger angles, so their positions and angles are measured with smaller percentage uncertainty. 9. λ = gradient × d = 0.270 × 2.00 × 10⁻⁶ = 5.40 × 10⁻⁷ m. 10. The angles are large, so sin θ and tan θ differ significantly. 11. d halves, so sin θ doubles (if this gives sin θ > 1, that order disappears).
 
-## Related resources
+## More resources on this topic
 
 - [Superposition revision notes](/resources/as-physics-superposition-revision-notes/) — the whole of Topic 8
 - [Interference revision notes](/resources/cambridge-a-level-physics-9702-as-interference-revision-notes/) — subtopic 8.3

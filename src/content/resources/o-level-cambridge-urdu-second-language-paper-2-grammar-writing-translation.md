@@ -17,6 +17,7 @@ description: "Sentence transformation, multiple-choice cloze, extended writing a
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -175,7 +176,7 @@ designed to probe exactly this list.
   <figcaption>Writing and translation carry 35 of 50 marks: weight revision accordingly.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O-Level Urdu: First and Second Language (3247/3248)](/resources/o-level-cambridge-urdu-first-and-second-language/)
 - [Cambridge O-Level First Language Urdu: Paper 2 Texts (3247)](/resources/o-level-cambridge-urdu-first-language-paper-2-texts/)

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -194,7 +194,7 @@ Use C = 12.0, H = 1.0, O = 16.0 and Cl = 35.5 wherever you need relative atomic 
 - Calling bioethanol or hydrogen carbon-neutral with no condition attached.
 - Dividing a mass in kg by Mᵣ without converting to grams.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes-revision-notes/)
 - [Study guide for this topic](/resources/edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes/)

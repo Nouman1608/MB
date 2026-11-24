@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Name the ethical choice, show what it costs using any figure in the case, show t
 **Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
 They cover sections 3.2.1 Technology and 3.2.2 Ethical and environmental considerations of OxfordAQA International GCSE Business (9225).
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations/) for each question you got wrong.
 - Turn to the [revision notes](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations-revision-notes/) for the final weeks.

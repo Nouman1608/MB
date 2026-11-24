@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -182,6 +182,6 @@ When a liquid evaporates from an object, the liquid cools; energy is then transf
 - **Describe** an experiment *(Extended)*: apparatus, measurements (mass, energy, temperature change), precautions, and the equation.
 - **Explain** evaporative cooling: more-energetic particles escape → average kinetic energy of those left falls → temperature falls.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes on thermal properties and temperature](/resources/cambridge-igcse-physics-0625-thermal-properties-and-temperature-revision-notes/) and test yourself with the [practice questions on thermal properties and temperature](/resources/cambridge-igcse-physics-0625-thermal-properties-and-temperature-practice/). The particle ideas are introduced in the [study guide on the kinetic particle model of matter](/resources/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter/), and how thermal energy moves is in the [study guide on transfer of thermal energy](/resources/cambridge-igcse-physics-0625-transfer-of-thermal-energy/).

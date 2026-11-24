@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,6 +155,6 @@ Describe patterns without inventing figures.
 - **Discuss**: for example, "Discuss how in-school factors affect the achievement of ethnic minority pupils": three developed points with evidence.
 - **Evaluate**: for "Evaluate the view that home factors are the main cause of class differences in achievement", set home factors (material, cultural, linguistic) against in-school factors and Marxist structural explanations, then conclude.
 
-## Next steps
+## More on this topic
 
 Revise with the [key question 5.3 revision notes](/resources/cambridge-igcse-sociology-0495-kq-5-3-revision-notes/) and practise with the [key question 5.3 practice questions](/resources/cambridge-igcse-sociology-0495-kq-5-3-practice/). For the perspectives behind these explanations, see [the roles and functions of education (key question 5.2)](/resources/cambridge-igcse-sociology-0495-kq-5-2/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -175,7 +175,7 @@ y = x + 1
 * Giving separate lists of x-values and y-values instead of matched coordinates.
 * Giving a decimal for an answer that should stay as a surd, or the other way round.
 
-## Next steps
+## More on this topic
 
 * Recap the methods: [revision notes](/resources/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic-revision-notes/)
 * Full explanations: [study guide](/resources/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic/)

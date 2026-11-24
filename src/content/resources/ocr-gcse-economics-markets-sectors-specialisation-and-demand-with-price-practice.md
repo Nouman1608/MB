@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ Revenue is price multiplied by quantity sold, while profit is revenue minus cost
 **How should you answer an 8-mark question on specialisation in OCR GCSE Economics?**
 Give the benefits and the costs of specialisation, such as higher productivity against repetitive work or dependence on one product, and reach a conclusion rather than listing benefits only.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price/) for any question you missed.
 - Use the [revision notes](/resources/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price-revision-notes/) for quick recall.

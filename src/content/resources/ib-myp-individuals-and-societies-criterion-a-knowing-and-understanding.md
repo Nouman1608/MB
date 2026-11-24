@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ Criterion A is assessed in all three tasks, for 6 + 6 + 8 = 20 marks out of 80. 
 **Do I need to learn a list of terms?**
 Learn the key terms for each unit and use them in your own sentences. The examination topics are listed in the guide, and the terms come from them.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion A revision notes](/resources/ib-myp-individuals-and-societies-criterion-a-knowing-and-understanding-revision-notes/), then test yourself with the [Criterion A practice questions](/resources/ib-myp-individuals-and-societies-criterion-a-knowing-and-understanding-practice/). See the [MYP Individuals and Societies syllabus guide](/resources/ib-myp-individuals-and-societies-syllabus-guide/) for the full course.
 

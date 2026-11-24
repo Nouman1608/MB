@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -171,6 +171,6 @@ Reasons for success: moral contrast with violent opponents; television; Cold War
 11. Discrimination in the sale and renting of housing.
 12. Any one: continued poverty; housing segregation in northern cities; unequal schooling; weak enforcement of the 1968 Act.
 
-## Next steps
+## More on this topic
 
 Try the [civil rights campaigns practice questions](/resources/aqa-gcse-world-history-8145-civil-rights-campaigns-practice/).

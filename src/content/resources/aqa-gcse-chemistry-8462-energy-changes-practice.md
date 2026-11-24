@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -215,7 +215,7 @@ without fossil fuels, because hydrogen is often made using fossil fuels [1].
 - Saying cells in a battery are connected "in parallel" to increase voltage.
 - Half equations where electrons do not balance, or electrons shown on the wrong side.
 
-## Next steps
+## More on this topic
 
 - [Energy changes revision notes](/resources/aqa-gcse-chemistry-8462-energy-changes-revision-notes/)
 - [Energy changes study guide](/resources/aqa-gcse-chemistry-8462-energy-changes/)

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -219,7 +219,7 @@ A correct figure with no favourable or adverse label usually loses the accuracy 
 **How do I give a good cause for a variance?**
 The cause must match the direction of the variance, and where two variances are linked it should explain both directions at once.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes/)
 - [Study guide](/resources/aqa-a-level-accounting-standard-costing-and-variance-analysis/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ When an object slows down because of friction or an inelastic collision, its ord
 
 **Answers:** 1. The sum of the random kinetic and potential energies of the molecules of the system. 2. No: the state (p, V, T) is unchanged; the gain in gravitational potential energy is ordered energy of the whole box. 3. There are no forces between the molecules except during collisions. 4. (3/2)kT = 1.5 × 1.38 × 10⁻²³ × 400 = 8.28 × 10⁻²¹ J. 5. Mean kinetic energy stays constant (temperature constant); potential energy increases as the molecules separate. 6. The 4.0 kg block has four times the internal energy; the mean kinetic energy per molecule is the same, because the temperature is the same. 7. U ∝ T, so it triples. 8. (3/2)nRT = 1.5 × 1.0 × 8.31 × 300 = 3.7 × 10³ J. 9. (3/2)pV = 1.5 × 1.0 × 10⁵ × 4.0 × 10⁻³ = 600 J. 10. Its value depends only on the present state of the system (such as p, V, T and phase), not on how that state was reached. 11. Zero. 12. Both: the random kinetic energy (vibrations faster, temperature rises) and, slightly, the potential energy (mean separation increases).
 
-## Related resources
+## More resources on this topic
 
 - [Thermodynamics revision notes](/resources/a-physics-thermodynamics-revision-notes/) — the whole of Topic 16
 - [Internal energy practice questions](/resources/cambridge-a-level-physics-9702-a-internal-energy-practice/)

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 3.5.1 and 3.5.2 of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. The qualification is untiered, so everything here is for every candidate. It teaches reproduction, chromosomes, genes and alleles, mitosis, meiosis, fertilisation, differentiation, stem cells, therapeutic cloning, and tumours. Use the [course hub](/boards/oxfordaqa/igcse/biology/) and the [printable checklist](/checklists/oxfordaqa/igcse/biology/) to track your progress, and take a [free diagnostic](/diagnostics/) to find weak spots.
@@ -281,7 +281,7 @@ Growth alone does not show a tumour is malignant. Secondary tumours in other org
 - Writing "the stem cells have the patient's DNA so they are the same as the patient's cells" without saying why this stops rejection.
 - Giving only one side of an ethical question.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours-revision-notes/), then the [practice questions](/resources/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours-practice/). The [exam preparation guide](/resources/oxfordaqa-igcse-biology-exam-preparation/) covers command words.
 

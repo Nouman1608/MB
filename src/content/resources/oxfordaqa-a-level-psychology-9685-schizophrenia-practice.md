@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -172,7 +172,7 @@ The real exam marks extended answers using levels of response, not point by poin
 **What are common mistakes in Schizophrenia practice questions?**
 Students often treat positive symptoms as good symptoms, confuse co-morbidity with symptom overlap, use twin data as proof that schizophrenia is entirely genetic, and describe the dopamine hypothesis without a receptor type or brain area.
 
-## Next steps
+## More on this topic
 
 - Check gaps with the [schizophrenia revision notes](/resources/oxfordaqa-a-level-psychology-9685-schizophrenia-revision-notes/) and the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
 - Practise the methods side of Unit 3 with the [Research methods 2 practice questions](/resources/oxfordaqa-a-level-psychology-9685-research-methods-2-practice/).

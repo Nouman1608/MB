@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -188,7 +188,7 @@ Leave fractions unsimplified until the end; equal denominators (720) make the fi
 - Counting the Venn overlap twice.
 - Rounding probabilities part-way through a tree calculation.
 
-## Next steps
+## More on this topic
 
 Condense the rules with the [Probability revision notes](/resources/edexcel-igcse-mathematics-4ma1-probability-revision-notes/), then test yourself with the [Probability practice questions](/resources/edexcel-igcse-mathematics-4ma1-probability-practice/). Set notation used in Venn diagrams is explained in the [Set language and notation study guide](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation/).
 

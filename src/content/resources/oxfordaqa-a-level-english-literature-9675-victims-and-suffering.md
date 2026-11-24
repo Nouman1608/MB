@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Questions often ask you to **explore the significance** of an element or debate 
 element, prepare three moments per text: a victim's voice or silence, a scene of suffering, and the
 aftermath. Learn short quotations for each.
 
-## Related resources
+## More resources on this topic
 
 - [Victims and suffering revision notes](/resources/oxfordaqa-a-level-english-literature-9675-victims-and-suffering-revision-notes/)
 - [Victims and suffering practice questions](/resources/oxfordaqa-a-level-english-literature-9675-victims-and-suffering-practice/)

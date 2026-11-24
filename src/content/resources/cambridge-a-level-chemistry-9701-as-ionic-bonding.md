@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ A calcium ion carries a 2+ charge and a fluoride ion a 1− charge, so two fluor
 **Do I need lattice energy for subtopic 3.2?**
 No. Lattice energy and Born–Haber cycles are A Level content in Topic 23. At AS you explain lattice strength qualitatively using ion charge and ionic radius.
 
-## Related resources
+## More resources on this topic
 
 - [Ionic bonding revision notes](/resources/cambridge-a-level-chemistry-9701-as-ionic-bonding-revision-notes/)
 - [Ionic bonding practice questions](/resources/cambridge-a-level-chemistry-9701-as-ionic-bonding-practice/)

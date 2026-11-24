@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ No. ln(a + b) is not ln a + ln b, so isolate the exponential term on one side be
 **How many decimal places should you keep when iterating?**
 Carry full calculator accuracy between steps and write down at least four decimal places. Rounding too early can make the sequence drift away from the true value.
 
-## Next steps
+## More on this topic
 
 - Recall methods with the [revision notes](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions/).

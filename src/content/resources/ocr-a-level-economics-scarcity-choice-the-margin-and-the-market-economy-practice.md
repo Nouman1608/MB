@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Treating capital as money is a frequent error: in economics capital means man-ma
 **How do you evaluate the role of government in a market economy?**
 Weigh the benefits of correcting market failure against the risk of government failure, such as poor information, political pressure, unintended consequences and cost. Treating intervention as always beneficial weakens the answer.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy/) on any weak area.
 - Use the [revision notes](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy-revision-notes/) for a final check.

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -137,7 +137,7 @@ Annual expected cost of accidents = 60,000 ÷ 5 = 12,000. The guards cost 15,000
 - Quantify where you can. A figure from the question makes a strong point.
 - Make a table of stakeholders (who, interest, effect) when the question asks about several of them.
 
-## Related resources
+## More resources on this topic
 
 [Social and ethical accounting revision notes](/resources/edexcel-ial-accounting-social-and-ethical-accounting-revision-notes/) |
 [Social accounting practice questions](/resources/edexcel-a-level-accounting-yac11-social-accounting-practice/) |

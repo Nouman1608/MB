@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ In general, **ionic, covalent and metallic bonds are stronger** than intermolecu
 - For "describe hydrogen bonding": use a labelled diagram with partial charges, lone pair and a linear arrangement.
 - For polarity: give the electronegativity reason for polar bonds, then use shape to say whether dipoles cancel.
 
-## Related resources
+## More resources on this topic
 
 - [Intermolecular forces revision notes](/resources/cambridge-a-level-chemistry-9701-as-intermolecular-forces-electronegativity-and-bond-revision-notes/)
 - [Intermolecular forces practice questions](/resources/cambridge-a-level-chemistry-9701-as-intermolecular-forces-electronegativity-and-bond-practice/)

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers sections 3.5.1 (Oscillating systems) and 3.5.2 (Forced vibrations and resonance). Both are shared International AS and A-level content. The derivation of the period formulae sits in section 3.6.2, which is International A-level only, and is marked as such below.
@@ -205,7 +205,7 @@ The lowest stationary wave has half a wavelength on the string: λ = 1.6 m. f = 
 - Giving the energy graphs against time the same frequency as the motion. Theirs is double.
 - Saying resonance happens at "high" frequency. It happens when driving frequency equals natural frequency.
 
-## Next steps
+## More on this topic
 
 Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-physics-oscillating-systems-damping-free-and-forced-vibrations-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-oscillating-systems-damping-free-and-forced-vibrations-practice/).
 

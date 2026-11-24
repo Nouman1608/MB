@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -113,7 +113,7 @@ These questions cover statements B1.1a to B1.1c of OCR GCSE (9-1) Gateway Scienc
 - Leaving out the unit in a final answer, or using the symbol µ for mm.
 - Describing a stain only as "to see it better", without saying it adds contrast.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and/) for any question you found hard.
 - Condense with the [revision notes](/resources/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and-revision-notes/).

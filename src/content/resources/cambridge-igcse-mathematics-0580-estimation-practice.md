@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ That is fine. Give the result of the rounded calculation, such as 16.7 or 0.09. 
 **How do I know whether an estimate is too big?**
 Look at the direction of each rounding and its place in the calculation. Rounding a multiplied number up, or a divisor down, makes the estimate larger.
 
-## Next steps
+## More on this topic
 
 - Re-read the explanations in the [estimation study guide](/resources/cambridge-igcse-mathematics-0580-estimation/).
 - Try more mixed Topic 1 questions in the [Number practice questions](/resources/igcse-mathematics-number-practice/).

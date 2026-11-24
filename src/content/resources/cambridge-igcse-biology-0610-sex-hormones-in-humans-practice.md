@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ D: the fusion of a sperm nucleus with an egg nucleus
 - (Extended) Forgetting that the placenta takes over hormone production in pregnancy.
 - (Extended) Predicting an effect without the hormone link that explains it.
 
-## Next steps
+## More on this topic
 
 - Re-read the [sex hormones study guide](/resources/cambridge-igcse-biology-0610-sex-hormones-in-humans/).
 - Go on to the [sexually transmitted infections practice questions](/resources/cambridge-igcse-biology-0610-sexually-transmitted-infections-practice/).

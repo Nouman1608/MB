@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -200,7 +200,7 @@ A squared factor such as (x − 1)² needs two terms, B/(x − 1) and C/(x − 1
 **How do you compare two models in OCR A Level Mathematics?**
 Use a stated criterion with figures, such as the total difference between each model's predictions and the data, then say which model fits better and why.
 
-## Next steps
+## More on this topic
 
 - Recall the key results in the [revision notes](/resources/ocr-a-level-mathematics-polynomials-factor-theorem-rational-expressions-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/ocr-a-level-mathematics-polynomials-factor-theorem-rational-expressions/).

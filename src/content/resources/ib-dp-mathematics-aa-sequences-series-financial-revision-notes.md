@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These are condensed revision notes. For full explanations and worked examples, use the [sequences, series and financial applications study guide](/resources/ib-dp-mathematics-aa-sequences-series-financial/).
@@ -232,7 +232,7 @@ When you use technology, the guide expects you to identify the first term and th
 - Giving the non-strict inequality 1 ≤ x ≤ 3 when the convergence condition is strict.
 - Keeping a negative or non-integer root when solving S_n = k for n.
 
-## Next steps
+## More on this topic
 
 - Full explanations: [study guide](/resources/ib-dp-mathematics-aa-sequences-series-financial/)
 - Test yourself: [practice questions with mark-by-mark answers](/resources/ib-dp-mathematics-aa-sequences-series-financial-practice/)

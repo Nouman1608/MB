@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ Check: input 5 gives (10 − 1)/3 = 3, and the inverse takes 3 to (9 + 1)/2 = 5.
 - **Show that** a composite is a given expression (Higher tier only): write the substitution line, then expand fully. The marks are for the steps, since the answer is printed.
 - **Explain** why two orders differ: give one input and the two different outputs.
 
-## Next steps
+## More on this topic
 
 - Condense the methods with the [language of functions revision notes](/resources/ocr-gcse-mathematics-j560-language-of-functions-revision-notes/).
 - Test yourself with the [language of functions practice questions](/resources/ocr-gcse-mathematics-j560-language-of-functions-practice/).

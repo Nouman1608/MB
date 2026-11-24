@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -161,6 +161,6 @@ A strong answer keeps returning to the question word **importance**: each point 
 
 For **explain** questions, state the role or idea, show how a specific rule achieves it, and add a case or statute. For **discuss** or **evaluate**, weigh how well the law achieves the role, using the limits (cost of enforcing rights, unfairness of strict liability), and finish with a judgement that answers the question set.
 
-## Next steps
+## More on this topic
 
 Revise with the [Law and Society revision notes](/resources/aqa-a-level-law-7162-nature-of-law-law-and-society-revision-notes/) and test yourself with the [Law and Society practice questions](/resources/aqa-a-level-law-7162-nature-of-law-law-and-society-practice/). Fault links closely to [Law and Morality](/resources/aqa-a-level-law-7162-nature-of-law-law-and-morality/).

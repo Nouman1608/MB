@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -216,7 +216,7 @@ Consequence:      As in Avery v Bowden, her claim for the earlier breach is
 - **Discuss** questions: evaluate the strictness of the performance rule and the narrowness of
   frustration against certainty and freedom of contract.
 
-## Related resources
+## More resources on this topic
 
 [Discharge of a contract revision notes](/resources/aqa-a-level-law-7162-discharge-of-a-contract-revision-notes/) |
 [Discharge of a contract practice questions](/resources/aqa-a-level-law-7162-discharge-of-a-contract-practice/) |

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -169,7 +169,7 @@ Expected value = row total x column total / grand total. For "within 200 m, awar
 - Calculating chi-square expected values from percentages.
 - Interpreting a significant result as proof of cause.
 
-## Related resources
+## More resources on this topic
 
 - [Skills checklist revision notes](/resources/oxfordaqa-a-level-geography-9635-geographical-skills-checklist-revision-notes/)
 - [Skills checklist practice questions](/resources/oxfordaqa-a-level-geography-9635-geographical-skills-checklist-practice/)

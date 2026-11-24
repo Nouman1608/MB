@@ -33,7 +33,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -221,7 +221,7 @@ where major powers had strong interests, as Manchuria and Abyssinia
 show." Revising this way builds exam-ready judgements directly, rather
 than leaving the analysis step to be improvised under timed conditions.
 
-## Related resources
+## More resources on this topic
 
 - [IGCSE World History: International Relations since 1919 (Cambridge 0470)](/resources/igcse-world-history-twentieth-century-1919-1989/)
 - [IGCSE History: The Nineteenth Century 1848-1914 — Revision Notes](/resources/igcse-world-history-nineteenth-century-revision-notes/)

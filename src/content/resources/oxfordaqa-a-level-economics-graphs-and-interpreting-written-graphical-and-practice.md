@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ These questions practise quantitative skills QS4 and QS9 from section 3.5 of the
 - Stating causation from a pattern in a scatter graph.
 - Evaluation that could be pasted onto any data set.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and/).
 - Return to the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/).

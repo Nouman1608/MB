@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ No. Defining them by time horizon alone ignores their level and scope, so includ
 **How should an answer that says "it depends" be written?**
 Say what the decision depends on, such as the reliability of a forecast or the savings available, and then reach a conditional judgement. "It depends" with no detail earns little.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-business-decision-making-and-decision-trees-revision-notes/) and the [study guide](/resources/ocr-a-level-business-decision-making-and-decision-trees/).
 - Find weak spots with the [free diagnostics](/diagnostics/).

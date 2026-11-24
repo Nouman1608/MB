@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu example note and self-test answer on this page is correct and natural."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu example note and self-test answer on this page is correct and natural. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -200,7 +200,7 @@ Exercise 4.
 11. R3.
 12. No.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 3 Note-making: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-3-note-making-practice/)
 - [O Level Urdu Paper 1 revision notes](/resources/o-level-cambridge-urdu-first-and-second-language-revision-notes/)

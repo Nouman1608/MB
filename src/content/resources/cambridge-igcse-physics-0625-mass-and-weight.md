@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -149,6 +149,6 @@ Typical questions: compare the weight of an object on two planets, given g for e
 - **Explain** a balance result: say what is equal at balance (the weights), then why that means the masses are equal (same g on both sides).
 - **Describe** *(Extended)*: weight as "the effect of a gravitational field on a mass", then apply W = mg to the situation.
 
-## Next steps
+## More on this topic
 
 Check your recall with the [revision notes on mass and weight](/resources/cambridge-igcse-physics-0625-mass-and-weight-revision-notes/) and then try the [practice questions on mass and weight](/resources/cambridge-igcse-physics-0625-mass-and-weight-practice/). Weight is the force behind free fall in the [study guide on motion](/resources/cambridge-igcse-physics-0625-motion/), and mass is half of the density equation in the [study guide on density](/resources/cambridge-igcse-physics-0625-density/).

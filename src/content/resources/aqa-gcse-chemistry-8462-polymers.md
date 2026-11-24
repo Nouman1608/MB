@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -210,7 +210,7 @@ In 120 units:  C = 120 x 2 = 240
 - **Compare:** name the particles and the forces for each substance.
 - **Draw:** include the brackets, the bonds through them and the *n*.
 
-## Next steps
+## More on this topic
 
 - [Polymers revision notes](/resources/aqa-gcse-chemistry-8462-polymers-revision-notes/)
 - [Polymers practice questions](/resources/aqa-gcse-chemistry-8462-polymers-practice/)

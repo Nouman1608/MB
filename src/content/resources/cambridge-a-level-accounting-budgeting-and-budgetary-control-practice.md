@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ Label every difference favourable or adverse and add or deduct it in the right d
 **How should a budgeting recommendation be written?**
 Refer to the figures in the question, include non-financial factors, and finish with a justified conclusion. A vague call to "manage cash better" tends to gain little.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-budgeting-and-budgetary-control-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-budgeting-and-budgetary-control/).
 - Visit the [course hub](/boards/cambridge/a-level/accounting/) and printable [checklist](/checklists/cambridge/a-level/accounting/).

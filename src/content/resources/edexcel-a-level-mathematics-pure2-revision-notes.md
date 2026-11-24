@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -284,7 +284,7 @@ Split the integral at the roots and add the sizes of the separate areas. Adding 
 **Are the chain and product rules in Edexcel IAL Pure 2?**
 No. The chain, product and quotient rules are introduced later, in Pure Mathematics 3. Pure 2 applies differentiation to stationary points and integration to definite integrals and areas.
 
-## Related resources
+## More resources on this topic
 
 - [Pure Mathematics 2 study guide](/resources/a-level-edexcel-mathematics-pure-mathematics-2/)
 - [Pure Mathematics 2 practice questions](/resources/edexcel-a-level-mathematics-pure2-practice/)

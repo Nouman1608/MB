@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -125,6 +125,6 @@ These questions cover sub-topic 3(b) Rates of reaction of the Pearson Edexcel In
 - Stating that the final volume of gas increases when the rate increases.
 - Dividing by the wrong interval when calculating mean rate.
 
-## Next steps
+## More on this topic
 
 Review the [rates of reaction study guide](/resources/edexcel-igcse-chemistry-4ch1-rates-of-reaction/) for any slips, then continue with the [reversible reactions and equilibria study guide](/resources/edexcel-igcse-chemistry-4ch1-reversible-reactions-and-equilibria/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ These questions cover section 4.2 The market (points 4.2.1 to 4.2.3) of the Pear
 - Listing segmentation bases without showing how they change product, price or promotion.
 - Recommending price cuts against large rivals without weighing the risk.
 
-## Next steps
+## More on this topic
 
 - Return to the [study guide on the market](/resources/edexcel-igcse-business-4bs1-the-market/) for the market-table analysis.
 - Recheck terms in the [revision notes on the market](/resources/edexcel-igcse-business-4bs1-the-market-revision-notes/).

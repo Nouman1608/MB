@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ D: water and sucrose **[1]**
 - Comparing tissues in two separate lists rather than point by point.
 - (Extended) Naming features of xylem vessels without saying how each helps.
 
-## Next steps
+## More on this topic
 
 - Go back over the [xylem and phloem revision notes](/resources/cambridge-igcse-biology-0610-xylem-and-phloem-revision-notes/).
 - Move on to the [water uptake practice questions](/resources/cambridge-igcse-biology-0610-water-uptake-practice/).

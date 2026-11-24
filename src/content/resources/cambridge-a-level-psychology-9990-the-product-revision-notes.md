@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the gift-wrapping supporting studies (Howard, 1992; Rixom et al., 2020) are accurately summarised; the syllabus names none."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the gift-wrapping supporting studies (Howard, 1992; Rixom et al., 2020) are accurately summarised; the syllabus names none. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -163,7 +163,7 @@ The [product study guide](/resources/cambridge-a-level-psychology-9990-the-produ
 11. Any two: high price; importance; difficulty of reversing; attractive rejected alternatives.
 12. Cultural differences, and demographic (age and gender) differences in store choice.
 
-## Related resources
+## More resources on this topic
 
 - [The product study guide](/resources/cambridge-a-level-psychology-9990-the-product/)
 - [The product practice questions](/resources/cambridge-a-level-psychology-9990-the-product-practice/)

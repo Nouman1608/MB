@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ No. A nudge steers behaviour while leaving every option open and without changin
 **How do you write a strong evaluate answer on behavioural economics?**
 Link each bias or bounded behaviour to the assumption of rational choice it breaks and to the case in the question, then weigh evidence for and against the model. Finish with a reasoned judgement, because the guide sets this unit at evaluation level.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-economics-critique-of-maximising-behaviour-revision-notes/) and the [study guide](/resources/ib-dp-economics-critique-of-maximising-behaviour/).
 - Open the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and tick off the [printable checklist](/checklists/ib/ib-dp/economics/).

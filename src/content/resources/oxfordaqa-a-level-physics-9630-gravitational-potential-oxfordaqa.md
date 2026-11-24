@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,6 +150,6 @@ The field there is zero, but the potential is not. g = −ΔV/Δr says that zero
 - **Use a graph**: say whether you are finding a gradient or an area, and show the values read off.
 - **Explain** equipotentials: no work along them, field lines at right angles, spacing increasing outwards for equal steps of V.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [gravitational potential revision notes](/resources/oxfordaqa-a-level-physics-9630-gravitational-potential-oxfordaqa-revision-notes/) and test yourself with the [gravitational potential practice questions](/resources/oxfordaqa-a-level-physics-9630-gravitational-potential-oxfordaqa-practice/). The field-strength ideas used here are in the [gravitational field strength study guide](/resources/oxfordaqa-a-level-physics-9630-gravitational-field-strength-oxfordaqa/), and satellite energy is continued in the [orbits of planets and satellites study guide](/resources/oxfordaqa-a-level-physics-9630-orbits-of-planets-and-satellites-oxfordaqa/).

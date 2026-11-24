@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Decimal **0.4** and percentage **40%** [1]
 - Calling a die or spinner biased from one small experiment, or giving a reason for a better estimate without mentioning sample size.
 - Saying that earlier results make the next result more or less likely.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected/) again for any weak spots.
 - Return to the [course hub](/boards/oxfordaqa/igcse/mathematics/) and tick off S9 to S13 on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).

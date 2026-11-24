@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -171,7 +171,7 @@ Revise with the [study guide](/resources/igcse-global-perspectives-0457-conflict
 - Writing Individual Report titles that are topics, not contested questions.
 - Measuring a Team Project's success with feedback on enjoyment rather than change in the issue.
 
-## Next steps
+## More on this topic
 
 - Practise more source work with the [Written Exam practice questions](/resources/global-perspectives-practice/) and the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/).
 - Plan coursework with the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).

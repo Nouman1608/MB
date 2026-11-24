@@ -20,7 +20,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -224,7 +224,7 @@ No. Several valid routes to the same target often exist. A route is correct if e
 **Why must you give specific reagents in synthesis questions?**
 Writing "oxidise" or "reduce" is not a complete answer, because different reagents are specified for different changes. Give the actual reagent and conditions, such as acidified K₂Cr₂O₇ with distillation or reflux.
 
-## Related resources
+## More resources on this topic
 
 - [Organic Synthesis: Planning Multi-Step
   Routes](/resources/as-organic-synthesis-planning-multi-step-routes/) —

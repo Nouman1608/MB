@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the sources, classifications and problem method chosen here match how centres teach it."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the sources, classifications and problem method chosen here match how centres teach it. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -183,6 +183,6 @@ Defendant ---- vitiating factor / frustration / exclusion ---- balance of probab
 11. How is a unilateral contract accepted? *By performing the requested act.*
 12. Which section prevents exclusion of the CRA implied terms? *s31 Consumer Rights Act 2015.*
 
-## Related resources
+## More resources on this topic
 
 [Rules of contract law practice questions](/resources/aqa-a-level-law-7162-the-rules-of-contract-law-practice/) | [Law of contract revision notes](/resources/aqa-a-level-law-law-of-contract-revision-notes/)

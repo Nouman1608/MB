@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ D: Supply rises; price falls and sales rise
 - Leaving out the shortage or surplus that explains why the price moves.
 - Ending a discussion without saying what the outcome depends on.
 
-## Next steps
+## More on this topic
 
 - Re-read the [price changes study guide](/resources/cambridge-o-level-economics-2281-price-changes/).
 - Revise from the [price changes revision notes](/resources/cambridge-o-level-economics-2281-price-changes-revision-notes/).

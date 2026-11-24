@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -169,7 +169,7 @@ Use 0 as the initial value for addition and 1 for multiplication.
 11. 1 + (2 + (3 + 0)) = 6.
 12. A base case and a recursive case that works on a smaller problem.
 
-## Next steps
+## More on this topic
 
 - [Writing functional programs study guide](/resources/oxfordaqa-a-level-computer-science-9645-writing-functional-programs/)
 - [Writing functional programs practice questions](/resources/oxfordaqa-a-level-computer-science-9645-writing-functional-programs-practice/)

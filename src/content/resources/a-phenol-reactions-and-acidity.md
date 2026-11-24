@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -245,7 +245,7 @@ In phenol the –OH group directs substitution to the 2-, 4- and 6-positions, be
 **Does phenol react faster with sodium than ethanol does?**
 Yes. Both release hydrogen with sodium metal, but phenol reacts faster because it is the more acidic of the two. The product is sodium phenoxide.
 
-## Related resources
+## More resources on this topic
 
 - [Alcohols: Reactions and
   Oxidation](/resources/as-alcohols-reactions-and-oxidation/) — the AS

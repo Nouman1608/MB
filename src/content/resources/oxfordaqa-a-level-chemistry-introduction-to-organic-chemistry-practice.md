@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -243,7 +243,7 @@ empirical formula mass compared with Mr.
 - Deciding CIP priority by size, mass or number of atoms.
 - Labelling a drawing Z when the higher-priority groups are on opposite sides.
 
-## Next steps
+## More on this topic
 
 - [Revision notes: introduction to organic chemistry](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes/)
 - [Study guide: introduction to organic chemistry](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry/)

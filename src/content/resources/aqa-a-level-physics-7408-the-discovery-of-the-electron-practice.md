@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -117,7 +117,7 @@ Data: e = 1.60 × 10⁻¹⁹ C; mₑ = 9.11 × 10⁻³¹ kg; mass of hydrogen io
 - Putting the drag force upwards for a rising drop.
 - Stating Thomson's significance without the comparison with the hydrogen ion.
 
-## Next steps
+## More on this topic
 
 - [Discovery of the electron study guide](/resources/aqa-a-level-physics-7408-the-discovery-of-the-electron/)
 - [Discovery of the electron revision notes](/resources/aqa-a-level-physics-7408-the-discovery-of-the-electron-revision-notes/)

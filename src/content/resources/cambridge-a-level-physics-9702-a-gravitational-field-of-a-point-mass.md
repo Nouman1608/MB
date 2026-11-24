@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ For a satellite in circular orbit, the only force is gravity, so its centripetal
 - **Determine** (the zero-field point): equate the two field strengths, take a square root, solve for the distance and say which body it is measured from.
 - **Sketch** (g against r): start at the surface value at r = R, show g₀/4 at 2R, and a curve that approaches but does not reach zero.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields study guide](/resources/a-physics-gravitational-fields/) — the whole of Topic 13
 - [Gravitational field](/resources/cambridge-a-level-physics-9702-a-gravitational-field/) — the definition of g (13.1)

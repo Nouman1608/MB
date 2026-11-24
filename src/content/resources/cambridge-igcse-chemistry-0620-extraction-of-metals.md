@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Mr of Fe2O3 = (2 × 56) + (3 × 16) = 160             [1]
 - **Identify:** say which substance is oxidised, reduced, or the reducing agent, using gain or loss of oxygen or electrons.
 - **Calculate:** show the relative formula mass, then the proportion, with units.
 
-## Related resources
+## More resources on this topic
 
 - [Extraction revision notes](/resources/cambridge-igcse-chemistry-0620-extraction-of-metals-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-extraction-of-metals-practice/)
 - [Reactivity series study guide](/resources/cambridge-igcse-chemistry-0620-reactivity-series/), for the positions of carbon and the metals

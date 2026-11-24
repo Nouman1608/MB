@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -182,7 +182,7 @@ Because the acid part is written first in the formula but second in the name, CH
 - **Describe** (oxidation) *(Extended)*: reagent in full and colour change; or bacteria plus air for vinegar.
 - **Describe** (esterification) *(Extended)*: acid + alcohol, acid catalyst, ester + water, and name the ester.
 
-## Related resources
+## More resources on this topic
 
 - [Carboxylic acids revision notes](/resources/cambridge-igcse-chemistry-0620-carboxylic-acids-revision-notes/) – condensed recall and self-test
 - [Carboxylic acids practice questions](/resources/cambridge-igcse-chemistry-0620-carboxylic-acids-practice/) – original exam-style questions with answers

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ No. Complete failure means a missing market that does not exist at all; a small 
 **What is often missed when solving for the social optimum with an externality?**
 Adding the external cost to marginal private cost to find marginal social cost before solving for output.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure/) and [revision notes](/resources/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure-revision-notes/).
 - Open the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

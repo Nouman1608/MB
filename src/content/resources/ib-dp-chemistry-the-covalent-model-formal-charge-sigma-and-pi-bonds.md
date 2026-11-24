@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches the higher level end of **Structure 2.2, The covalent model**, as listed in the IB *Chemistry guide* for Diploma Programme candidates examined from 2025 (issued February 2023). It works through understandings Structure 2.2.11 to 2.2.16. All six belong to the guide's additional higher level (AHL) material, so everything on this page is **HL only**. It applies to the course as first assessed in 2025.
@@ -265,7 +265,7 @@ The chain runs Lewis formula → domains → hybridization → geometry, and bac
 - Writing that a triple bond is three σ bonds.
 - Assigning hybridization from the number of atoms bonded instead of the number of electron domains.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-revision-notes/) for a fast recap
 - [Practice questions](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-practice/) with worked answers

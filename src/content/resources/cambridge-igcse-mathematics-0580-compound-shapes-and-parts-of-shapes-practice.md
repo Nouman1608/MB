@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ Find the area of the whole outer shape and subtract the area of the hole. The sa
 **What is the total surface area of a solid hemisphere?**
 The curved surface 2πr² plus the flat circular face πr², which is 3πr² in total.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [compound shapes study guide](/resources/cambridge-igcse-mathematics-0580-compound-shapes-and-parts-of-shapes/).
 - Recap with the [compound shapes revision notes](/resources/cambridge-igcse-mathematics-0580-compound-shapes-and-parts-of-shapes-revision-notes/).

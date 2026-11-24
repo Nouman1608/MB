@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ These questions cover section 3.3.3, Respiration, of the OxfordAQA *Internationa
 - Using the capillary diameter as the radius.
 - Naming a substrate from an RQ with no comment on how tentative that is.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/oxfordaqa-a-level-biology-respiration-glycolysis-krebs-cycle-and-respiratory-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-a-level-biology-respiration-glycolysis-krebs-cycle-and-respiratory/).
 - Tick off what you know on the [OxfordAQA A-level Biology checklist](/checklists/oxfordaqa/a-level/biology/) and visit the [course hub](/boards/oxfordaqa/a-level/biology/).

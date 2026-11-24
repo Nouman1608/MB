@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the brief descriptions of the syllabus example studies Laba et al. (2012), Riekert and Drotar (1999) and Chung and Naya (2000), which are kept deliberately general."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the brief descriptions of the syllabus example studies Laba et al. (2012), Riekert and Drotar (1999) and Chung and Naya (2000), which are kept deliberately general. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,7 +155,7 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 
 **Compare** questions on measures want a similarity and a difference, such as "pill counts and dispensers are both objective, but dispensers record timing". **Evaluate** questions can use the issues the syllabus lists for 3.2.2, including validity, reliability, quantitative and qualitative data, and idiographic versus nomothetic. **Suggest** questions about a scenario need a technique named, applied to the patient and justified.
 
-## Related resources
+## More resources on this topic
 
 - [Adherence revision notes](/resources/cambridge-a-level-psychology-9990-adherence-to-medical-advice-revision-notes/)
 - [Adherence practice questions](/resources/cambridge-a-level-psychology-9990-adherence-to-medical-advice-practice/)

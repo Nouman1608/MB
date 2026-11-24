@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ No. Once formed it is a normal shared pair; in NH₄⁺ all four N–H bonds hav
 **Why can sulfur form SF₆ but oxygen cannot form OF₆?**
 Sulfur is in Period 3 and can expand its octet; oxygen is in Period 2 and is limited to eight outer electrons.
 
-## Related resources
+## More resources on this topic
 
 - [Covalent and coordinate bonding revision notes](/resources/cambridge-a-level-chemistry-9701-as-covalent-bonding-and-coordinate-dative-covalent-revision-notes/)
 - [Covalent and coordinate bonding practice questions](/resources/cambridge-a-level-chemistry-9701-as-covalent-bonding-and-coordinate-dative-covalent-practice/)

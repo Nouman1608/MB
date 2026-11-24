@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -140,6 +140,6 @@ The conclusion uses the **types** of justice to organise the judgement, refers b
 
 For **explain** questions on a theory, give the core idea, show how it applies to a legal rule, and add a criticism if the tariff allows. For **discuss** or **evaluate**, plan two columns (achieves / fails) for your chosen area, use at least one theory to judge the evidence, and finish with a qualified conclusion.
 
-## Next steps
+## More on this topic
 
 Condensed recall is in the [Law and Justice revision notes](/resources/aqa-a-level-law-7162-nature-of-law-law-and-justice-revision-notes/), and the [Law and Justice practice questions](/resources/aqa-a-level-law-7162-nature-of-law-law-and-justice-practice/) give you scenario and essay practice. Justice links closely to [the Rule of Law](/resources/aqa-a-level-law-7162-the-rule-of-law/).

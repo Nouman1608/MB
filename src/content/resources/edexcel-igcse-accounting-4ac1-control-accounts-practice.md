@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -194,7 +194,7 @@ Both opening balances on the correct sides [1]. Credit purchases (cash purchases
 - Correcting the control account for an error in an individual account, or vice versa.
 - Adjusting a wrong-side posting by the amount once instead of twice.
 
-## Next steps
+## More on this topic
 
 - Revisit the [control accounts study guide](/resources/edexcel-igcse-accounting-4ac1-control-accounts/).
 - Try the combined [trial balance and control accounts practice questions](/resources/edexcel-igcse-accounting-trial-balance-and-control-accounts-practice/).

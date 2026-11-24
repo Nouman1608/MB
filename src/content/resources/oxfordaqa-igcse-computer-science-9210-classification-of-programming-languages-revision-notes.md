@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -175,7 +175,7 @@ out.
 11. Any two: hard to write; hard to debug and maintain; not portable.
 12. Low-level.
 
-## Related resources
+## More resources on this topic
 
 - [Classification of programming languages and translators study guide](/resources/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages/)
 - [Classification of programming languages and translators practice questions](/resources/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-practice/)

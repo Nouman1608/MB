@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -159,7 +159,7 @@ Only two disorders are named in this section: phobias and depression.
 
 **Answers:** 1. Some rare characteristics, such as very high IQ, are desirable (or common disorders are not rare). 2. What counts as a norm differs between cultures and changes over time. 3. For example positive attitude to the self, resistance to stress, autonomy. 4. Selective attention to the phobic stimulus (or irrational beliefs). 5. Disrupted sleep (or changed activity levels, changed appetite). 6. Operant conditioning: avoidance reduces anxiety, so it is negatively reinforced. 7. Fear can be classically conditioned: a white rat paired with a loud noise came to produce fear in an infant, which generalised to similar objects. 8. Relaxation and fear cannot occur together, so relaxation can replace fear. 9. Flooding exposes the patient immediately to the most feared stimulus, with no hierarchy. 10. Self, world and future. 11. Activating event, Belief, Consequence. 12. Empirical, logical and pragmatic.
 
-## Related resources
+## More resources on this topic
 
 - [Psychopathology study guide](/resources/oxfordaqa-a-level-psychology-9685-psychopathology/)
 - [Introductory topics revision notes](/resources/oxfordaqa-a-level-psychology-revision-notes/)

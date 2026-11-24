@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ The factor 3.6 comes from 1000 m ÷ 3600 s. Convert before substituting into v =
 - **Compare** two journeys: make a comparative statement for each feature, such as "A is faster than B in the first 10 s".
 - **Plot** and **draw**: follow the graph checklist above; a line of best fit should be one smooth line.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [Motion practice questions](/resources/oxfordaqa-igcse-physics-9203-motion-practice/), then continue to the [resultant forces and Newton's laws guide](/resources/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws/) for acceleration and velocity-time graphs.
 

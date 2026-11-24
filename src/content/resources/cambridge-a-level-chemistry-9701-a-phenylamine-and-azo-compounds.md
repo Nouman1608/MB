@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -186,7 +186,7 @@ warming is required.
 - **State** why azo compounds are coloured or useful: extended delocalisation absorbs visible light;
   used as dyes.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Phenylamine and azo compounds revision notes](/resources/cambridge-a-level-chemistry-9701-a-phenylamine-and-azo-compounds-revision-notes/),
 then test yourself with the [Phenylamine and azo compounds practice questions](/resources/cambridge-a-level-chemistry-9701-a-phenylamine-and-azo-compounds-practice/).

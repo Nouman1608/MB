@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ Both opening balances correct [1]; bank and returns credited [1]; contra and irr
 - Charging depreciation on a machine sold in a year when the policy says none.
 - Evaluations that never reach a judgement about the business in the question.
 
-## Next steps
+## More on this topic
 
 - [Incomplete records revision notes](/resources/oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete-revision-notes/)
 - [Incomplete records study guide](/resources/oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers statements P4.2g to P4.2j of topic P4.2, Uses of magnetism, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). It teaches how a transformer works, how its potential differences relate to its turns, and how microphones, loudspeakers and headphones turn sound into current and back again. **All four statements are in bold in the specification, so they are tested only in the Higher Tier papers.** Foundation Tier candidates do not need this page.
@@ -241,7 +241,7 @@ The tap moves the cone and the coil attached to it. The coil moves through the m
 - Saying a step-up transformer produces more power. The power out is at most the power in.
 - Mixing up the two devices: in a microphone sound goes in, in a loudspeaker current goes in.
 
-## Next steps
+## More on this topic
 
 Practise with the [practice questions](/resources/ocr-gcse-physics-transformers-microphones-and-loudspeakers-practice/), then condense with the [revision notes](/resources/ocr-gcse-physics-transformers-microphones-and-loudspeakers-revision-notes/). Tick the statements off on the [checklist](/checklists/ocr/gcse/physics/), or book a [free trial class](/trial/).
 

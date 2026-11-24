@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -227,7 +227,7 @@ before you calculate.
 - Averaging non-concordant titres or the rough titre.
 - Forgetting to scale up for a dilution or for titrating 25.0 cm³ of a 250 cm³ solution.
 
-## Next steps
+## More on this topic
 
 - Go back over the [revision notes](/resources/edexcel-ial-chemistry-the-elements-of-groups-1-and-2-revision-notes/).
 - Revisit weak areas in the [study guide](/resources/edexcel-ial-chemistry-the-elements-of-groups-1-and-2/).

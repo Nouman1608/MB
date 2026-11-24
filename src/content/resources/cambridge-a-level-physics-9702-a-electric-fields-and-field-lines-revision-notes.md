@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -118,7 +118,7 @@ Method: find |F| = |q|E, then assign the direction from the sign.
 
 **Answers:** 1. The force per unit positive charge acting on a small stationary charge at that point. 2. So that it does not disturb the charges producing the field. 3. kg m s⁻³ A⁻¹. 4. F = 1.6 × 10⁻¹⁹ × 2.0 × 10⁴ = 3.2 × 10⁻¹⁵ N, opposite to the field. 5. E = 2.0 × 10⁻⁴ ÷ 4.0 × 10⁻⁹ = 5.0 × 10⁴ N C⁻¹, to the right (opposite to the force on a negative charge). 6. The field has only one direction at each point. 7. Midway between them. 8. A uniform field. 9. q = mg/E = 1.6 × 10⁻¹⁵ × 9.81 ÷ 4.9 × 10⁴ = 3.2 × 10⁻¹⁹ C = 2e. 10. √(6.0² + 8.0²) × 10³ = 1.0 × 10⁴ N C⁻¹. 11. 90°; any component along the surface would move the free charges until it disappeared. 12. The alpha particle's acceleration is about half the proton's (twice the charge, four times the mass).
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields revision notes](/resources/a-physics-electric-fields-revision-notes/) — the whole of Topic 18
 - [Electric fields and field lines practice questions](/resources/cambridge-a-level-physics-9702-a-electric-fields-and-field-lines-practice/)

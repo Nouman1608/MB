@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ A protein chain differs from nylon in that its repeating sections carry **differ
 - **Deduce** *(Extended)*: work methodically – identify functional groups, decide the polymer type, remove water, draw the linkage, add brackets and *n*.
 - **Describe the differences** *(Extended)*: compare like with like (products, monomers), one difference per mark.
 
-## Related resources
+## More resources on this topic
 
 - [Polymers revision notes](/resources/cambridge-igcse-chemistry-0620-polymers-revision-notes/) – condensed recall and self-test
 - [Polymers practice questions](/resources/cambridge-igcse-chemistry-0620-polymers-practice/) – original exam-style questions with answers

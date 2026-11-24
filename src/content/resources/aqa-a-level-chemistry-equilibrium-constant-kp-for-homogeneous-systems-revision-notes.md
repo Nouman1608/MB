@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and longer worked examples, read the [Kp study guide](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems/) first. These notes are for fast recall in the final weeks.
@@ -218,7 +218,7 @@ Kp uses partial pressures, written p(X), while Kc uses concentrations [X] in mol
 **Is there a required practical for Kp in AQA A-level Chemistry 7405?**
 No. Section 3.1.10 is A-level only and has no required practical. It builds on the Kc and Le Chatelier content in section 3.1.6.
 
-## Next steps
+## More on this topic
 
 Test yourself fully with the [Kp practice questions](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice/), and check paper formats in the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/). For a quick check of weaker areas, try the [free diagnostics](/diagnostics/).
 

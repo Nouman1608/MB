@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -126,7 +126,7 @@ Evaluation (up to 3): outcomes depend on starting position and institutions [1];
 - Concluding "it depends" without naming the condition that decides the answer.
 - Quoting a payback or share without units or comment.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-globalisation-and-multinational-firms/) for any weak area.
 - Use the [revision notes](/resources/ocr-a-level-economics-globalisation-and-multinational-firms-revision-notes/) for a final check.

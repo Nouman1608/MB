@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -193,7 +193,7 @@ Marks: land and machinery net book value 84,000 [1]; non-current assets total 28
 - Putting an item under the wrong sub-heading even though the total is right.
 - Using retained earnings at the start of the year in the equity section.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies/).
 - Visit the [course hub](/boards/oxfordaqa/igcse/accounting/) and tick the [checklist](/checklists/oxfordaqa/igcse/accounting/).

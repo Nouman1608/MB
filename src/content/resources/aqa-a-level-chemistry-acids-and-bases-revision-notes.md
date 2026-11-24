@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense section **3.1.12 Acids and bases** of the AQA AS and A-level Chemistry specification
@@ -280,7 +280,7 @@ Dilution lowers [HA] and [A⁻] by the same factor, so their ratio stays the sam
 **What units does Ka have?**
 Ka for a weak monoprotic acid has units of mol dm⁻³, while Kw has units of mol² dm⁻⁶. pH and pKa have no units.
 
-## Next steps
+## More on this topic
 
 - [Acids and bases study guide](/resources/aqa-a-level-chemistry-acids-and-bases/)
 - [Acids and bases practice questions](/resources/aqa-a-level-chemistry-acids-and-bases-practice/)

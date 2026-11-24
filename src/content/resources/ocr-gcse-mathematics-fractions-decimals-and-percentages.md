@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -197,7 +197,7 @@ percentage questions will be confined to a "non-calculator" or
 "calculator" paper specifically -- practise both mental-method and
 calculator-method percentage calculations.
 
-## Related resources
+## More resources on this topic
 
 - [Fractions, Decimals and Percentages revision notes](/resources/ocr-gcse-mathematics-fractions-decimals-percentages-revision-notes/)
 - [Fractions, Decimals and Percentages practice questions](/resources/ocr-gcse-mathematics-fractions-decimals-percentages-practice/)

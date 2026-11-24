@@ -35,7 +35,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -283,7 +283,7 @@ No. Bioplastics are made fully or partly from biological raw materials, but they
 **How do malaria and cholera control strategies differ?**
 Malaria is vector-borne, spread by mosquitoes, so it is controlled by personal protection and vector control. Cholera is waterborne, so it is controlled by sanitation, safe water treatment and vaccination.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge IGCSE Environmental Management: Land (0680)](/resources/igcse-cambridge-environmental-management-land/)
 - [Cambridge IGCSE Environmental Management: Natural Resources (0680)](/resources/igcse-cambridge-environmental-management-natural-resources/)

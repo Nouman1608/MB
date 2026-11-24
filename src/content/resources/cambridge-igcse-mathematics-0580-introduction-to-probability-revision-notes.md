@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Adding items changes the total too: recount before finding the new probability.
 11. (4 + 6) ÷ 20 = **1/2**
 12. x/(x + 12) = 1/3, so 3x = x + 12 and **x = 6**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [introduction to probability study guide](/resources/cambridge-igcse-mathematics-0580-introduction-to-probability/).
 - Two-set Venn diagram notation is in the [sets study guide](/resources/igcse-mathematics-0580-sets/).

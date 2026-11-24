@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section 3.2.10, The impact of ethical considerations, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Ethics is **International A-level only**; the specification names it for both Paper 3 (Financial Accounting) and Paper 4 (Accounting for analysis and decision making), so expect ethics in reporting scenarios and in costing or investment scenarios.
@@ -268,7 +268,7 @@ The payroll supervisor is a close friend of Rhosyn's line manager. Rhosyn should
 - Jumping straight to the press or a regulator before internal routes and professional advice.
 - Ignoring given figures: show the effect, then the ethics.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-practice/). For exam technique, read the [9615 exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/) before your mocks.
 

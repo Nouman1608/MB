@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -142,7 +142,7 @@ These questions practise quantitative skills QS5 (calculate and interpret index 
 - Reading an index as an actual level, as in question 10.
 - Stopping at a number in an evaluation question without a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms/) and the [revision notes](/resources/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms-revision-notes/).
 - Check the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/).

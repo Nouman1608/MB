@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -194,7 +194,7 @@ Links: [study guide](/resources/oxfordaqa-igcse-mathematics-graphs-of-quadratic-
 - Reading values off a table without saying which y-value was used.
 - Leaving a sketch unlabelled when intercepts or the turning point were asked for.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and/) for any question you could not start.

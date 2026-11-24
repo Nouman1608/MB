@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ No. AQA says to use it only as an illustration of interdependence between firms,
 **What should an answer on cartels include?**
 Explain why the cartel may fail as well as how it works, since each member has an incentive to cheat on the agreement.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked-revision-notes/) and return to the [study guide](/resources/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked/).
 - Tick off the topic on the [checklist](/checklists/aqa/a-level/economics/) and see the [course hub](/boards/aqa/a-level/economics/).

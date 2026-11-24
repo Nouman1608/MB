@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -163,7 +163,7 @@ Syllabus examples: **personal service**, **flexible opening hours**, **additiona
 
 **Is a self-service checkout a selling technique or a digital trend?** The syllabus lists self service as a selling technique and self-service checkouts as a digital trend, so use the term the question asks about.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [retailing practice questions](/resources/cambridge-o-level-commerce-7100-retailing-practice/), then move on to the [wholesaling revision notes](/resources/cambridge-o-level-commerce-7100-wholesaling-revision-notes/).
 

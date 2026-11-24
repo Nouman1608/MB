@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -132,7 +132,7 @@ Plan B: revenue 95 × 520 = £49,400; variable costs 48 × 520 = £24,960; total
 - Evaluating without reaching a judgement, or reaching one that the earlier points do not support.
 - Leaving out the pound sign or units in calculations.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-gcse-business-product-and-price-decisions-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-gcse-business-product-and-price-decisions/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -188,7 +188,7 @@ Keep each paragraph tied to the sources. Prior knowledge of the conflict earns n
 - In the Individual Report, choosing a title that does not divide opinion or is too broad to research.
 - In the Team Project, choosing an action with no way to measure success.
 
-## Next steps
+## More on this topic
 
 - [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/)
 - [Global Perspectives revision notes](/resources/global-perspectives-revision-notes/)

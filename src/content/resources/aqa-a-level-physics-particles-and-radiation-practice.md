@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Use: h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹
 - Taking the largest energy gap for the longest wavelength.
 - Missing that a larger accelerating voltage means shorter wavelength and less diffraction.
 
-## Next steps
+## More on this topic
 
 - [Particles and radiation revision notes](/resources/aqa-a-level-physics-particles-and-radiation-revision-notes/)
 - [Particles and radiation study guide](/resources/aqa-a-level-physics-particles-and-radiation/)

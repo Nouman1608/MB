@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -124,7 +124,7 @@ These questions cover sections 8.3.1 to 8.3.7 of the Cambridge International AS 
 - Skipping diminishing returns when explaining why the labour demand curve slopes downward.
 - Giving evaluation as a list with no judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect-revision-notes/) for the formulas and self-test.
 - Return to the [study guide](/resources/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect/) for full explanations.

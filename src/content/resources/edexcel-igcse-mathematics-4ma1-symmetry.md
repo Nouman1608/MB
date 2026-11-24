@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Shade exactly the number of squares the question asks for, then check the finish
 - Forgetting that a point on the mirror line maps to itself when completing a shape.
 - Giving the angle of turn instead of the order: a square has order 4, and its smallest angle of turn is 90°.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Symmetry revision notes](/resources/edexcel-igcse-mathematics-4ma1-symmetry-revision-notes/), then try the twelve mark-scheme style [Symmetry practice questions](/resources/edexcel-igcse-mathematics-4ma1-symmetry-practice/). For polygons, angle facts and the rest of topic 4, return to the [Geometry and trigonometry study guide](/resources/edexcel-igcse-maths-4ma1-geometry-and-trigonometry/).
 

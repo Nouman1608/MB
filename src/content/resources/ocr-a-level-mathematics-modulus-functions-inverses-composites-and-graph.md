@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers the modulus function and its graph (1.02l, 1.02s), functions, inverses and composites (1.02u, 1.02v) and graph transformations (1.02w, 1.02x). The specification lists Pure Mathematics content in each of its three components. Stage 1 content is common with AS (H230); Stage 2 content is A Level only, and each section below says which applies.
 
@@ -282,7 +282,7 @@ Write y = f(x), make x the subject, then replace y with x. State the domain of f
 **How do you track a point through a combination of transformations?**
 For y = p·f(qx + r) + s, a point (u, v) on y = f(x) moves to the point (X, Y) with qX + r = u and Y = pv + s. Solve for X and Y.
 
-## Next steps
+## More on this topic
 
 Once the methods feel familiar, use the revision notes for recall and the practice set for timed work.
 

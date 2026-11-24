@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -141,6 +141,6 @@ These questions cover sub-topic 4(g) Esters of the Pearson Edexcel International
 - Writing the structural formula so that the carbon count is wrong.
 - Giving "human error" as a reason for the loss of yield instead of the reversible reaction.
 
-## Next steps
+## More on this topic
 
 Review the [esters study guide](/resources/edexcel-igcse-chemistry-4ch1-esters/) for any slips, then continue with the [synthetic polymers study guide](/resources/edexcel-igcse-chemistry-4ch1-synthetic-polymers/).

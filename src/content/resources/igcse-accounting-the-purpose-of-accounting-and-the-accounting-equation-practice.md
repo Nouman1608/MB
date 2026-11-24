@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -218,7 +218,7 @@ Each row balances: 11,500 + 22,900 = 34,400. **[8]**
 - Stating the effect on fewer than three elements.
 - Assuming that profit equals the increase in the bank balance.
 
-## Next steps
+## More on this topic
 
 - Recall the key points in the [revision notes](/resources/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation-revision-notes/) and re-read the [study guide](/resources/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation/).
 - Use the [course hub](/boards/cambridge/igcse/accounting/), [checklist](/checklists/cambridge/igcse/accounting/) and [free diagnostics](/diagnostics/).

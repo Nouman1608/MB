@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ Agree: rural development reduces the push factors, so fewer people move and citi
 - Strategies described but not evaluated.
 - Case studies of cities in high-income countries when the question asks for a developing country.
 
-## Next steps
+## More on this topic
 
 - Re-read the [Urbanisation study guide](/resources/cambridge-igcse-geography-0460-urbanisation/) for any question you found hard.
 - Revise land use zones with the [Urban Settlements practice questions](/resources/cambridge-igcse-geography-0460-urban-settlements-practice/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ The deficit is a flow, the gap between spending and revenue in one year. The deb
 **How should you present a conflict between objectives?**
 Do not present it as certain. Explain the chain, then say how the size of the change, the time period and the cause of the problem affect whether the conflict holds.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them/).
 - Check coverage on the [course hub](/boards/edexcel/a-level/economics/) and the [checklist](/checklists/edexcel/a-level/economics/).

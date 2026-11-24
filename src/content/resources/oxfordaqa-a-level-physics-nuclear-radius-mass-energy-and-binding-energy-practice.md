@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ Nuclei in 1.0 kg = 6.02 × 10²³/0.235 = 2.56 × 10²⁴ [1]
 - Subtracting masses the wrong way round.
 - Forgetting that atomic masses include electrons.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-physics-nuclear-radius-mass-energy-and-binding-energy/) and the [revision notes](/resources/oxfordaqa-a-level-physics-nuclear-radius-mass-energy-and-binding-energy-revision-notes/).
 - Use the [OxfordAQA Physics hub](/boards/oxfordaqa/a-level/physics/) and tick off topics on the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

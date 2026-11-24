@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ No. Tariff revenue stays at home with the government; only the amount paid to fo
 **Is a tariff an expenditure-reducing policy?**
 No. A tariff is expenditure-switching, because it makes imports dearer and moves spending towards home-produced goods.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct/).
 - Use the [course hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/).

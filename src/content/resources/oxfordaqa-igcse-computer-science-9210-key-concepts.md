@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -216,7 +216,7 @@ For each task, state whether server-side or client-side scripting is more suitab
 - **Describe** dynamic pages: say that the page is **generated** when it is requested, using data.
 - Use the words **client**, **server**, **browser** and **request** where they fit.
 
-## Next steps
+## More on this topic
 
 For a condensed summary and a self-test, use the [Key concepts revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-key-concepts-revision-notes/), and practise with the [Key

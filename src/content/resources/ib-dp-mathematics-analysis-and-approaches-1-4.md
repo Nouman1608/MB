@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the real value of an investment after inflation sits within the AA guide's section 1.4 guidance; it is included here as on the existing unit pages."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the real value of an investment after inflation sits within the AA guide's section 1.4 guidance; it is included here as on the existing unit pages. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,7 +185,7 @@ expected to use it in section 1.4 questions.
 Questions may require technology, including the financial package, but the formula always works too. Use
 whichever you can show clearly.
 
-## Next steps
+## More on this topic
 
 - [Section 1.4 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-1-4-revision-notes/)
 - [Section 1.4 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-4-practice/)

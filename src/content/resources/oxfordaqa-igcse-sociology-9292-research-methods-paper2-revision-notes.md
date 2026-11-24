@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -139,6 +139,6 @@ Condensed notes on **3.1.3 Research methods as applied in Paper 2 Exploring Soci
 
 **Answers:** 1. Occupation (occupational scales), income or wealth, and subjective class. 2. Any two: unemployed people; retired people; students; unpaid carers; the very rich living on wealth. 3. Combined groups, such as working-class women from one minority, may otherwise be too small to analyse reliably. 4. A question asking people to recall the past, such as a parent's job; it relies on memory, which may be inaccurate. 5. Strength: follows the same people, giving valid data on change; limitation: costly and people drop out, reducing representativeness. 6. Ethnicity is an identity people define themselves, so their own answer is more valid than an observer's guess. 7. Any two: consent from child and parent or guardian; power imbalance; wellbeing and safeguarding; confidentiality. 8. Systematically counting or interpreting media content; it cannot show how audiences interpret or are affected by it. 9. Ethnographic fieldwork (participant observation) in a psychiatric hospital, taking a staff role. 10. Self-report studies, because there is no victim to report the crime. 11. Victims often do not know they have been harmed, and many victims are organisations or the public at large. 12. Elites can refuse access, use gatekeepers and lawyers, and present a controlled public image.
 
-## Next steps
+## More on this topic
 
 Apply these notes in the [Paper 2 research methods practice questions](/resources/oxfordaqa-igcse-sociology-9292-research-methods-paper2-practice/), and review crime and control content in the [socialisation revision notes](/resources/igcse-oxfordaqa-sociology-socialisation-revision-notes/).

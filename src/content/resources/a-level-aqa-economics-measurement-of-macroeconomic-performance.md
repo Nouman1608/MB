@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -221,7 +221,7 @@ No. 3.2.1.4 Uses of national income data is A-level only; AQA AS Economics (7135
 **Why are PPP exchange rates used to compare living standards?**
 Purchasing power parity exchange rates adjust for differences in the cost of living between countries, so they give a more meaningful comparison of what income can actually buy than market exchange rates.
 
-## Related resources
+## More resources on this topic
 
 - [The Measurement of Macroeconomic Performance revision notes](/resources/aqa-a-level-economics-macroeconomic-performance-revision-notes/)
 - [The Measurement of Macroeconomic Performance practice questions](/resources/aqa-a-level-economics-macroeconomic-performance-practice/)

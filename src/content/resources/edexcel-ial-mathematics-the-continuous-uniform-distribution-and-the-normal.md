@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers unit S2 (Statistics 2) content 3.1 and 3.2. The specification lists S2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics.
 
@@ -312,7 +312,7 @@ No. A uniform random variable is already continuous, so its probabilities are ar
 **How do you approximate P(X = r) with a Normal distribution?**
 Replace it with P(r − 0.5 < Y < r + 0.5), which needs two standardisations, one for each end of the band.
 
-## Next steps
+## More on this topic
 
 Test yourself on the [practice questions](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal-practice/), then use the [revision notes](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal-revision-notes/) as a quick recall sheet. For wider planning see [Edexcel IAL Mathematics exam preparation](/resources/edexcel-ial-mathematics-exam-preparation/).
 

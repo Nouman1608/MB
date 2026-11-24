@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ All data tables are fictional. Learn the content first in the [study guide](/res
 - Quoting a data trend with no figures from the table.
 - Essays that list facts about one agreement without comparing or reaching a judgement.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-dp-ess-atmosphere-climate-change-ozone-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-ess-atmosphere-climate-change-ozone/)

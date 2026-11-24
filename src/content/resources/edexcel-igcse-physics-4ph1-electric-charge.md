@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -247,7 +247,7 @@ a net attraction.
 - **Identify** conductors and insulators from a list: metals and graphite
   conduct; plastics, rubber, glass and wool insulate.
 
-## Next steps
+## More on this topic
 
 - [Electric charge revision notes](/resources/edexcel-igcse-physics-4ph1-electric-charge-revision-notes/)
 - [Electric charge practice questions](/resources/edexcel-igcse-physics-4ph1-electric-charge-practice/)

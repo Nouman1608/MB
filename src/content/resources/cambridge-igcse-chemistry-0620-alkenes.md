@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Product: CH₂BrCHBrCH₃. Common errors are putting both bromine atoms on one c
 - **Deduce / Complete:** balance atoms, then classify each product by its general formula.
 - **Draw:** in displayed formulae every atom and bond appears; the product of an addition reaction has **no** C=C left.
 
-## Related resources
+## More resources on this topic
 
 - [Alkenes revision notes](/resources/cambridge-igcse-chemistry-0620-alkenes-revision-notes/) – condensed recall and self-test
 - [Alkenes practice questions](/resources/cambridge-igcse-chemistry-0620-alkenes-practice/) – original exam-style questions with answers

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ After setting a rule, try it with values that should be accepted, values that sh
 5. Why is a type check not useful on a mobile number stored as text? *Every entry is text, so the check accepts letters too; a character check is needed.*
 6. A rule allows 1 to 10 tickets. Give two values at the limits that must be accepted. *1 and 10.*
 
-## Next steps
+## More on this topic
 
 Revise with the [software tools revision notes](/resources/cambridge-igcse-ict-0417-software-tools-revision-notes/), then try the [software tools practice questions](/resources/cambridge-igcse-ict-0417-software-tools-practice/).
 

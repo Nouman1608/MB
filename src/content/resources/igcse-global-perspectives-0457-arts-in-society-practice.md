@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -160,7 +160,7 @@ Questions 5(a), 7 and 8 are extended responses. The real exam marks these with l
 - Giving a topic word instead of a question for an Individual Report title.
 - Including research or planning meetings as Evidence of Action.
 
-## Next steps
+## More on this topic
 
 Review weak areas in the [Arts in society study guide](/resources/igcse-global-perspectives-0457-arts-in-society/), then try the general [Global Perspectives practice set](/resources/global-perspectives-practice/), the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and the [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/). Find your gaps with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/).
 

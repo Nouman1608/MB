@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions follow section 3.5.8 (Refraction at a plane surface) of the Oxfo
 - Giving a refractive index with a unit.
 - Rounding intermediate values and carrying the error into a time difference that is small.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-physics-refraction-total-internal-reflection-and-optical-fibres-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-refraction-total-internal-reflection-and-optical-fibres/).
 - Tick off the topic on the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and visit the [course hub](/boards/oxfordaqa/a-level/physics/).

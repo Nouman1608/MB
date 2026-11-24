@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Topic 2 Marketing**, the second of five
@@ -297,7 +297,7 @@ The final 9625 AS series was June 2026, with a resit series in January 2027, and
 **Is the Boston Matrix first-year content in OxfordAQA Business?**
 Under 9625 the Boston Matrix is part of the first-year marketing mix content. Under 9725 it moves to A2 content.
 
-## Related resources
+## More resources on this topic
 
 - [Marketing revision notes](/resources/oxfordaqa-a-level-business-marketing-revision-notes/)
 - [Marketing practice questions](/resources/oxfordaqa-a-level-business-marketing-practice/)

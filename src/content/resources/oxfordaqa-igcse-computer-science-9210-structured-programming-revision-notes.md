@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,7 +178,7 @@ unaffected.
 12. The caller decides what to do with the value, and no other module can change it unexpectedly; the function
 stays independent and reusable.
 
-## Related resources
+## More resources on this topic
 
 - [Structured programming study guide](/resources/oxfordaqa-igcse-computer-science-9210-structured-programming/)
 - [Structured programming practice questions](/resources/oxfordaqa-igcse-computer-science-9210-structured-programming-practice/)

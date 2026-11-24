@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ The domain of f⁻¹ is the range of f, not the domain of f.
 **Which part of Edexcel IAL Pure 3 covers functions and the modulus?**
 Topics 1.1 to 1.4 of Unit P3 in Pearson Edexcel International A Level Mathematics (YMA01) cover algebraic fractions, functions and inverses, the modulus function and combined graph transformations.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-ial-mathematics-functions-the-modulus-function-and-combined-graph-revision-notes/) for any question you lost marks on.
 - Go back to the relevant section of the [study guide](/resources/edexcel-ial-mathematics-functions-the-modulus-function-and-combined-graph/).

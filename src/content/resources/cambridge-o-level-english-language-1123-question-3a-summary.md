@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -185,7 +185,7 @@ aspect fully and the other in a single phrase usually misses reading marks it co
 - Question 3a is the heaviest question on the paper (20 marks): give it a fair share of Section B's
   time, leaving room for the 5-mark Question 3b short response on the same text.
 
-## Related resources
+## More resources on this topic
 
 - [Question 3a Summary: revision notes](/resources/cambridge-o-level-english-language-1123-question-3a-summary-revision-notes/)
 - [Question 3a Summary: practice questions](/resources/cambridge-o-level-english-language-1123-question-3a-summary-practice/)

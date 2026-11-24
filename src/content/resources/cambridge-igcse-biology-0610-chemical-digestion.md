@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ Starch solution is mixed with saliva at 37 °C. A drop is tested with iodine eve
 - **Explain** (Extended) the pH idea: the region's pH matches the enzyme's optimum, linked to active-site shape.
 - In data questions, quote the optimum and the activity values.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [chemical digestion revision notes](/resources/cambridge-igcse-biology-0610-chemical-digestion-revision-notes/).
 - Marked questions: [chemical digestion practice questions](/resources/cambridge-igcse-biology-0610-chemical-digestion-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ Use the right base for any percentage and give units, such as £1,000 a week, ra
 **How do I evaluate a government intervention in AQA GCSE Economics?**
 Go beyond repeating the explanation: give a limit, a cost or an alternative, including the opportunity cost of public money.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-gcse-economics-market-failure-misallocation-of-resources-revision-notes/)
 - [Study guide](/resources/aqa-gcse-economics-market-failure-misallocation-of-resources/)

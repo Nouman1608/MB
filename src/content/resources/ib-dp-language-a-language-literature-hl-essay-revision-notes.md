@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and worked examples, use the [HL essay study guide](/resources/ib-dp-language-a-language-literature-hl-essay/).
@@ -250,7 +250,7 @@ question names a method and an effect, and every text in the body of work can an
 - Missing citations for paraphrased ideas from critics or websites.
 - Going over 1,500 words because no budget was set before drafting.
 
-## Next steps
+## More on this topic
 
 Work through the [HL essay practice set](/resources/ib-dp-language-a-language-literature-hl-essay-practice/),
 then revisit [Readers, writers and texts](/resources/ib-dp-language-a-language-literature-readers-writers-texts-revision-notes/)

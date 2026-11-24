@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -111,7 +111,7 @@ Evaluation: launching straight away saves £1,800 and lets her start earning soo
 - Calculating a percentage increase on the wrong base figure.
 - Assuming research is always worth its cost in an evaluate question.
 
-## Next steps
+## More on this topic
 
 - Return to the [identifying and understanding customers study guide](/resources/aqa-gcse-business-8132-identifying-and-understanding-customers/) for any gaps.
 - Read on through the [Marketing study guide](/resources/aqa-gcse-business-marketing/) for segmentation and research.

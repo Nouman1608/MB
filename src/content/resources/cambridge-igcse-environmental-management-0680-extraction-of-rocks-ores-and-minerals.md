@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -186,6 +186,6 @@ Deposit Y requires three times as much rock to be dug, moved and processed, so i
 
 **Describe** questions on methods want the sequence of what happens. **Explain** questions on factors want the link: "high ore grade, so less rock is processed per tonne of metal, so costs are lower". For **discuss**, give benefits and limitations, refer to the source, and finish with a judgement.
 
-## Next steps
+## More on this topic
 
 Condense the content with the [Extraction of rocks, ores and minerals revision notes](/resources/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals-revision-notes/) and test it with the [Extraction of rocks, ores and minerals practice questions](/resources/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals-practice/). Then see how finite minerals can be conserved in the [Sustainable management of rocks, ores and minerals study guide](/resources/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,6 +177,6 @@ Conclude
 
 **Outline** the process with each stage's function, not a list of names. **Explain** an influence by saying how it works and giving an example. **Discuss** or **evaluate** influences or supremacy by weighing both sides and concluding.
 
-## Next steps
+## More on this topic
 
 Revise with the [Parliamentary Law Making revision notes](/resources/aqa-a-level-law-7162-law-making-parliamentary-law-making-revision-notes/) and test yourself with the [Parliamentary Law Making practice questions](/resources/aqa-a-level-law-7162-law-making-parliamentary-law-making-practice/). Law made under Acts is covered in [Delegated Legislation](/resources/aqa-a-level-law-7162-law-making-delegated-legislation/).

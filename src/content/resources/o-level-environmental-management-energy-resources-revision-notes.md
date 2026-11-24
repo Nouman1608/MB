@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: expanded thin page with a benefits and limitations table for every energy resource (1.4.4) and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: expanded thin page with a benefits and limitations table for every energy resource (1.4.4) and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-21
 featured: false
 ---
@@ -208,7 +208,7 @@ Blue hydrogen is produced from natural gas; green hydrogen is produced using ren
 **Does battery storage save energy?**
 No. It stores surplus electricity, for example from solar panels at midday, so it can be used later, which helps intermittent renewable resources supply a steady demand.
 
-## Related resources
+## More resources on this topic
 
 - [Energy Resources study guide (2027-2029)](/resources/o-level-cambridge-environmental-management-energy-resources/)
 - [Energy Resources practice questions (2027-2029)](/resources/o-level-environmental-management-energy-resources-practice/)

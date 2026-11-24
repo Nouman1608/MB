@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -209,7 +209,7 @@ Be specific: say "the minimum volume of hot solvent" for recrystallisation and "
 **Why is ethanoic anhydride used to make aspirin industrially?**
 The reasons are its safer by-product and easier control of the reaction, not atom economy. Arguing that the anhydride is chosen for atom economy is a known way to lose marks.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/aqa-a-level-chemistry-carboxylic-acids-and-derivatives-revision-notes/)
 - [Study guide for this topic](/resources/aqa-a-level-chemistry-carboxylic-acids-and-derivatives/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -174,7 +174,7 @@ To compare two data sets, draw both box-and-whisker diagrams above **one** commo
 - **Find the total represented by the second pie chart**: square the ratio of the radii.
 - **Calculate the radius**: give it to 2 or 3 significant figures and use it in the drawing.
 
-## Next steps
+## More on this topic
 
 Condense the methods with the [revision notes on diagrams](/resources/cambridge-o-level-statistics-4040-representation-pictorial-diagrammatic-revision-notes/), then practise with the [diagram practice questions](/resources/cambridge-o-level-statistics-4040-representation-pictorial-diagrammatic-practice/). Choosing between diagrams is covered in [purpose, advantages and disadvantages of representations](/resources/cambridge-o-level-statistics-4040-purpose-use-representation-advantages-disadvantages/).
 

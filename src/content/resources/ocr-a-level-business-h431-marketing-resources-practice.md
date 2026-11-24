@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -120,7 +120,7 @@ Judgement: SWOT is a useful first step, but the consultant's claim that it tells
 - Listing SWOT boxes without linking them to a decision.
 - Calculating cost per customer upside down (customers divided by cost).
 
-## Next steps
+## More on this topic
 
 - Move on to the [identifying customer needs study guide](/resources/ocr-a-level-business-h431-identifying-customer-needs/).
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Ignoring arrears and advance receipts in subscriptions income, and counting equi
 **How can I check partnership capital accounts after an admission?**
 Reconcile the closing capital total to the old capital plus any revaluation gain plus the cash brought in by the new partner. A difference points to a slip.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-a-level-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-a-level/).
 - Use the [checklist](/checklists/cambridge/a-level/accounting/) and [course hub](/boards/cambridge/a-level/accounting/).

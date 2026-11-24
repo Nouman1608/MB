@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ profit 24,000, cost of sales 56,000, mark-up = 24,000 ÷ 56,000 × 100 = **42.86
 - **State** the meaning of a ratio in one sentence using the business's figures.
 - Lay out multiple ratios in a table so each working is visible.
 
-## Next steps
+## More on this topic
 
 Use the
 [6.1 revision notes](/resources/cambridge-igcse-accounting-0452-calculation-and-understanding-of-accounting-ratios-revision-notes/)

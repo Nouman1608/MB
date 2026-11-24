@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,7 +155,7 @@ The **first case study** examines water *or* energy issues in a global or region
 - Assuming scarcity always leads to conflict.
 - Ignoring the energy cost of desalination when discussing water futures.
 
-## Related resources
+## More resources on this topic
 
 - [Resource security revision notes](/resources/oxfordaqa-a-level-geography-9635-resource-security-revision-notes/)
 - [Resource security practice questions](/resources/oxfordaqa-a-level-geography-9635-resource-security-practice/)

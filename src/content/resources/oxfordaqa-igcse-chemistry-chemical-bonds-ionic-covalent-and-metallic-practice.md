@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Check: 1 + 6 + 6 + 1 = 14 = 2 × (3 + 4).
 - Treating silicon dioxide as a simple molecule because its formula is small.
 - Answering a comparison question about only one of the substances named.
 
-## Next steps
+## More on this topic
 
 - [Chemical bonds revision notes](/resources/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic-revision-notes/)
 - [Chemical bonds study guide](/resources/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic/)

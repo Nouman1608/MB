@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -215,7 +215,7 @@ Read it directly from a graph of activity or undecayed nuclei against time, or u
 **Can you predict when a nucleus will decay?**
 No. Decay is random, so the decay time of an individual nucleus cannot be predicted; only the statistical behaviour of a large sample follows the exponential decay law.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 5: Thermodynamics](/resources/edexcel-ial-physics-thermodynamics/) — the previous sub-topic
 - [Unit 5: Oscillations](/resources/edexcel-ial-physics-oscillations-ial/) — the next sub-topic

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ Why it works: one specific action, recalculated with figures, a chain to the eff
 - Recommending a long-term loan for a one-month shortage.
 - Forgetting that a forecast is a prediction, not a record.
 
-## Next steps
+## More on this topic
 
 Condense this with the [cash flow forecasting revision notes](/resources/edexcel-igcse-business-4bs1-cash-flow-forecasting-revision-notes/), then try the [cash flow forecasting practice questions](/resources/edexcel-igcse-business-4bs1-cash-flow-forecasting-practice/). The [sources of finance study guide](/resources/edexcel-igcse-business-4bs1-business-finance-sources/) covers the finance options for a forecast shortage.
 

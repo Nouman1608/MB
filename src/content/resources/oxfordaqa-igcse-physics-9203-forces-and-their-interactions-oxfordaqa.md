@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ In the required practical, the limit shows up as the point where force divided b
 - **Calculate**: write the equation, substitute with units converted, and give the answer with its unit. Keep unrounded values until the final line.
 - **Draw**: use a ruler, label each arrow, and state the scale for a scale drawing.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions on forces and their interactions](/resources/oxfordaqa-igcse-physics-9203-forces-and-their-interactions-oxfordaqa-practice/), then move on to the [motion study guide](/resources/oxfordaqa-igcse-physics-9203-motion/), which uses vectors to describe how objects move.
 

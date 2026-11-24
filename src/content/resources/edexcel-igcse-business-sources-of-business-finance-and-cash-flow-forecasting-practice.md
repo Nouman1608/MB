@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ Judgement: a bank loan, because it gives certainty of the full amount and keeps 
 - Not carrying each closing balance into the next opening balance.
 - Offering share capital or a stock market flotation to a sole trader or a private business.
 
-## Next steps
+## More on this topic
 
 Review the [revision notes](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting/). Go back to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off the [checklist](/checklists/edexcel/igcse/business/), take the [free diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 

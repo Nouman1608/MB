@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -396,7 +396,7 @@ At the cathode, positive ions **gain** electrons: **reduction**. At the anode, n
 - Heating the salt solution to dryness instead of letting crystals form.
 - Saying chlorine forms at the cathode, or that sodium forms from sodium chloride solution.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/aqa-gcse-chemistry-8462-chemical-changes-revision-notes/), then the
 [practice questions](/resources/aqa-gcse-chemistry-8462-chemical-changes-practice/). Titration moles are in the

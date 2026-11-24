@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -116,7 +116,7 @@ Calculate each relative share, classify each product on the Boston Matrix and re
 - Recommending without linking to objectives, target market or positioning.
 - Evaluating with a conclusion that does not follow from the points made.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-business-marketing-management-revision-notes/) and the [study guide](/resources/aqa-a-level-business-marketing-management/).
 - Check your coverage on the [AQA A-Level Business checklist](/checklists/aqa/a-level/business/) and the [course hub](/boards/aqa/a-level/business/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Draw a north line at the starting point, find the angle at the start inside the 
 **What if my calculator gives an error for sin⁻¹?**
 The value you entered is greater than 1, which is impossible for a sine. Check that you divided the shorter side by the hypotenuse, not the other way round.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [right-angled triangles study guide](/resources/cambridge-igcse-mathematics-0580-right-angled-triangles/).
 - Recap with the [right-angled triangles revision notes](/resources/cambridge-igcse-mathematics-0580-right-angled-triangles-revision-notes/).

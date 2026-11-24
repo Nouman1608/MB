@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,7 +152,7 @@ the detention is lawful. 11. Indefinite detention of foreign nationals only was 
 discriminatory; the derogation order was quashed and a declaration of incompatibility made. 12. Damages
 under section 8 of the Human Rights Act 1998 and the tort of false imprisonment.
 
-## Related resources
+## More resources on this topic
 
 [Article 5 study guide](/resources/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953/) |
 [Article 5 practice questions](/resources/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953-practice/) |

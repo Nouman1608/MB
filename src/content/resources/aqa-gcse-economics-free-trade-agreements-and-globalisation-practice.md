@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -112,7 +112,7 @@ These questions cover **sections 3.2.4.3 Free-trade agreements including the Eur
 
 **What do examiners mean by moral, ethical and sustainability considerations?** Issues such as low wages and poor conditions in overseas factories, child labour, and the environmental cost of transporting goods long distances. Explain who is affected and why it matters.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-free-trade-agreements-and-globalisation-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-free-trade-agreements-and-globalisation/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).

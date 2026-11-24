@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -143,7 +143,7 @@ Work through these in order. Show your working on every calculation, and write t
 - Quoting a calculated figure with no unit or no comment on what it means.
 - Listing advantages and disadvantages in an evaluation without reaching a justified decision.
 
-## Next steps
+## More on this topic
 
 - Review the [study guide on the nature of operations](/resources/cambridge-a-level-business-the-nature-of-operations/) and its [revision notes](/resources/cambridge-a-level-business-the-nature-of-operations-revision-notes/).
 - Try the [A Level operations questions](/resources/a-level-business-operations-a-level-practice/).

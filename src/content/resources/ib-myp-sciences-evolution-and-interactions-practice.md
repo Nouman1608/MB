@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -195,7 +195,7 @@ Describe the overall pattern and quote values from the table or graph to support
 **What does a good evaluation in a Criterion D answer on ecology need?**
 Weigh benefits against drawbacks and finish with a clear conclusion. Evaluations with benefits only, or no conclusion, limit the credit.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-myp-sciences-evolution-and-interactions-revision-notes/).
 - Relearn any weak area from the [study guide](/resources/ib-myp-sciences-evolution-and-interactions/).

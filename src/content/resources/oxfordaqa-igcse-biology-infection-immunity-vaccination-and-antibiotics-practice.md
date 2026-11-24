@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Total **[6]**
 - Comparing clear zones by diameter when the question asks for area, or leaving out mm².
 - Planning the practical without a control disc, a stated temperature or a repeat.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics/).
 - Go to the [OxfordAQA IGCSE Biology hub](/boards/oxfordaqa/igcse/biology/) and tick off topics on the [checklist](/checklists/oxfordaqa/igcse/biology/).

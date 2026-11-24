@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ AB = OB − OA = (8, −6), so |AB| = √(64 + 36) = 10
 - **Show that**: the final line must be the stated value, reached by exact working.
 - When vectors are given in letters, form the column first: if a = (2, 1), then |3a| needs 3a = (6, 3), or |3| × |a|.
 
-## Next steps
+## More on this topic
 
 Try the [magnitude of a vector practice questions](/resources/cambridge-o-level-mathematics-4024-magnitude-of-a-vector-practice/) and recap with the [magnitude of a vector revision notes](/resources/cambridge-o-level-mathematics-4024-magnitude-of-a-vector-revision-notes/). For vector arithmetic, see [vectors in two dimensions](/resources/cambridge-o-level-mathematics-4024-vectors-in-two-dimensions/); for proofs in shapes, see [vector geometry](/resources/cambridge-o-level-mathematics-4024-vector-geometry/).
 

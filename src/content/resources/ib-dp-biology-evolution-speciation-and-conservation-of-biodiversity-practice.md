@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ These questions follow the IB *Biology guide*, first assessment 2025, sections A
 - Describing causes of loss in general terms instead of naming the case study.
 - Ignoring the ethical and economic debate in prioritizing species.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity-revision-notes/) and the [study guide](/resources/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity/).
 - Tick off outcomes on the [printable checklist](/checklists/ib/ib-dp/biology/) and return to the [IB Biology hub](/boards/ib/ib-dp/biology/).

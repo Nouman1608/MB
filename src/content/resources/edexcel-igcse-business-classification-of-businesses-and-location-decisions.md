@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1 sections 1.3 (Classification of businesses) and 1.4 (Decisions on location), points 1.3.1 and 1.4.1. The specification says both papers can draw on knowledge from across the entire content, so these ideas can appear in a small-business scenario (Paper 1, up to 49 employees) or a large-business scenario (Paper 2, more than 250 employees).
@@ -241,7 +241,7 @@ Whether that is good enough depends on how long the firm expects to stay, whethe
 - Forgetting one-off costs when comparing the cost of a move.
 - Mixing up "explain" and "analyse". The specification's command-word table says "Explain" is a statement of fact with two expansion points and no context, while "Analyse" is an extended answer placed in context.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-business-classification-of-businesses-and-location-decisions-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-business-classification-of-businesses-and-location-decisions-practice/).
 

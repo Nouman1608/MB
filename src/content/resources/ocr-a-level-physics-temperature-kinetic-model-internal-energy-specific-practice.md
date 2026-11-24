@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -182,7 +182,7 @@ Subtract the mass of ice melted by the room in the control funnel from the mass 
 **How do you calculate the energy to melt ice and warm the water?**
 Treat each stage separately: use mcΔθ for each temperature change and ml for the change of phase, then add the energies. Never use one specific heat capacity across a change of phase.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific-revision-notes/).
 - Return to the [study guide](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -194,7 +194,7 @@ mines and jobs) and to evaluate a plan to replace coal with wind power
 - **Evaluate**: for each source give a benefit, a drawback and a
   judgement that depends on the country's circumstances.
 
-## Next steps
+## More on this topic
 
 - Recall the key points with the [Energy revision notes](/resources/cambridge-o-level-geography-energy-revision-notes/).
 - Try the [Energy practice questions](/resources/cambridge-o-level-geography-energy-practice/).

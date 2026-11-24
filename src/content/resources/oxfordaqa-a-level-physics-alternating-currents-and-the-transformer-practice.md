@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-alternating-currents
 - Using the transmission voltage in I²R instead of the line current.
 - Giving a practical improvement such as "be more careful" with no specific action.
 
-## Next steps
+## More on this topic
 
 - Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-physics-alternating-currents-and-the-transformer-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/oxfordaqa-a-level-physics-alternating-currents-and-the-transformer/).

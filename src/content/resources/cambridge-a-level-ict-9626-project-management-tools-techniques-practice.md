@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -126,7 +126,7 @@ Conclusion (one mark): a justified recommendation, for example use the Gantt cha
 - Listing advantages and disadvantages without a conclusion in an "evaluate" question.
 - Recommending extra resources for tasks that have float.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/cambridge-a-level-ict-9626-project-management-tools-techniques-revision-notes/).
 - Reread the [study guide](/resources/cambridge-a-level-ict-9626-project-management-tools-techniques/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The specification names Samson among the sociologists for 3.1.2; this page lists the name but does not describe the work, which a sociology specialist should add."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The specification names Samson among the sociologists for 3.1.2; this page lists the name but does not describe the work, which a sociology specialist should add. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -138,6 +138,6 @@ The specification asks you to compare **literacy rates**, **provision** (free an
 - Explaining attainment gaps only by in-school factors, without material or cultural ones.
 - Forgetting to apply points to a society you know when asked.
 
-## Next steps
+## More on this topic
 
 Condense with the [education revision notes](/resources/oxfordaqa-igcse-sociology-9292-education-revision-notes/) and practise with the [education practice questions](/resources/oxfordaqa-igcse-sociology-9292-education-practice/). Studies such as Rosenthal and Jacobson's are examined as methods too: see the [research methods study guide](/resources/oxfordaqa-igcse-sociology-9292-research-methods/).

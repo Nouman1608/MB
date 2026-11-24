@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -166,7 +166,7 @@ there are no carbon dioxide emissions from the vehicle."
 3. A pair of identical metals gives 0 V.
 4. Cells in series add their voltages: three 1.1 V cells give **3.3 V**.
 
-## Next steps
+## More on this topic
 
 - [Chemical cells and fuel cells study guide](/resources/aqa-gcse-chemistry-8462-chemical-cells-and-fuel-cells/)
 - [Chemical cells and fuel cells practice questions](/resources/aqa-gcse-chemistry-8462-chemical-cells-and-fuel-cells-practice/)

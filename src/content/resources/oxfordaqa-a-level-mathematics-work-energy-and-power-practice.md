@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -136,7 +136,7 @@ Links: [study guide](/resources/oxfordaqa-a-level-mathematics-work-energy-and-po
 - Using R = mg when the force has a vertical component.
 - Rounding in the middle of a calculation, which shifts the final digit.
 
-## Next steps
+## More on this topic
 
 - Reread the [study guide](/resources/oxfordaqa-a-level-mathematics-work-energy-and-power/) and the [revision notes](/resources/oxfordaqa-a-level-mathematics-work-energy-and-power-revision-notes/).
 - Return to the [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/mathematics/) and tick off outcomes on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).

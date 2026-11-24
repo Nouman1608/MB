@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ These questions cover **3.1.2 Motion**, statements a to d, of the OxfordAQA Inte
 - Giving velocity without a direction.
 - Reading tangent coordinates from the curve.
 
-## Next steps
+## More on this topic
 
 Review the [Motion revision notes](/resources/oxfordaqa-igcse-physics-9203-motion-revision-notes/), then move on to the [momentum practice questions](/resources/oxfordaqa-igcse-physics-9203-momentum-practice/).
 

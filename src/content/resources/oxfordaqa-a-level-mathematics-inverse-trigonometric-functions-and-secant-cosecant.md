@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, and covers the first part of content area P2.4 (Trigonometry): the inverse functions sin⁻¹, cos⁻¹ and tan⁻¹, and the reciprocal functions secant, cosecant and cotangent. The specification places this content in International A-level Unit P2 (Pure Maths), so it belongs to the A2 year and is not examined at International AS. The compound-angle, double-angle, R-form and equation-solving parts of P2.4 have their own pages and are not repeated here.
@@ -295,7 +295,7 @@ Answer: **−4/3**.
 - Using 1 + tan²x = sec²x in an equation and then stopping at the quadratic. Solve for tan x, then go back to find the angles, including every solution in the interval.
 - Taking the wrong sign for the root when finding sin(cos⁻¹x) or cos(sin⁻¹x). Use the range to decide.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant-practice/), then condense with the [revision notes](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant-revision-notes/). Check your progress against the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 

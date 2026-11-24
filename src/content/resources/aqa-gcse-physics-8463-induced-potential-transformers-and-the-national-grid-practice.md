@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ the National Grid more efficient. **[4]**
 - Using P = VI for the cable loss with the transmission p.d.; the loss needs I²R.
 - Claiming high p.d. lowers resistance.
 
-## Next steps
+## More on this topic
 
 - [Induced potential, transformers and the National Grid study guide](/resources/aqa-gcse-physics-8463-induced-potential-transformers-and-the-national-grid/)
 - [Induced potential, transformers and the National Grid revision notes](/resources/aqa-gcse-physics-8463-induced-potential-transformers-and-the-national-grid-revision-notes/)

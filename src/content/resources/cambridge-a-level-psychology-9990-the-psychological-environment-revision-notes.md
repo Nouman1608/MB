@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the descriptions of the five spatial behaviour patterns and the outline summaries of Dogu and Erkip (2000), Gil et al. (2009), Pavesic (2005), Lockyer (2006) and Milgram et al. (1986) against the original sources."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the descriptions of the five spatial behaviour patterns and the outline summaries of Dogu and Erkip (2000), Gil et al. (2009), Pavesic (2005), Lockyer (2006) and Milgram et al. (1986) against the original sources. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -179,7 +179,7 @@ featured: false
 
 Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 2, 2.2 The psychological environment — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Psychological environment study guide](/resources/cambridge-a-level-psychology-9990-the-psychological-environment/)
 - [Psychological environment practice questions](/resources/cambridge-a-level-psychology-9990-the-psychological-environment-practice/)

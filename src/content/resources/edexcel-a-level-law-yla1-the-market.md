@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The specification heads 2.1.6 to 2.1.8 'Liability in negligence as an alternative to contract'; this page presents negligence as a second basis of liability in the market, while the Paper 2 guide calls it an alternative route of study. Please confirm which reading is correct."
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The specification heads 2.1.6 to 2.1.8 'Liability in negligence as an alternative to contract'; this page presents negligence as a second basis of liability in the market, while the Paper 2 guide calls it an alternative route of study. Please confirm which reading is correct. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -166,6 +166,6 @@ Where there is no contract, or privity blocks a claim, the injured person may su
 
 Paper 2 questions are built on scenarios. For **explain**, state the rule and its source, then link it to the facts. For **assess** or **evaluate**, weigh how well the law works and reach a conclusion. Use **IRAC**: issue, rule (with case or section), application, conclusion.
 
-## Next steps
+## More on this topic
 
 Condense with the [market revision notes](/resources/edexcel-a-level-law-yla1-the-market-revision-notes/) and test yourself with the [market practice questions](/resources/edexcel-a-level-law-yla1-the-market-practice/).

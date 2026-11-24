@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ Draw up a statement of corrected profit for the year. **[8]**
 - Counting a correction as a profit change when neither account is an income or expense account.
 - Omitting the narrative or the error name when the question asks for it.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit/).
 - See the [course hub](/boards/oxfordaqa/igcse/accounting/) and the [checklist](/checklists/oxfordaqa/igcse/accounting/).

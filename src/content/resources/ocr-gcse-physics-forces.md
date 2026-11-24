@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Topic P2 Forces**, the second of eight content
@@ -224,7 +224,7 @@ link, and investigating Hooke's law) as genuine exam content, not just
 classroom activities -- OCR routinely examines the method, the variables
 controlled, and the reliability of results from practicals like these.
 
-## Related resources
+## More resources on this topic
 
 - [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/)
 - [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/)

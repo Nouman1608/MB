@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -151,7 +151,7 @@ Carry the effect through to the business in the stem, for example from higher lo
 **How do you answer a judgement question on economic issues?**
 Use the figures you have calculated, such as interest costs or falls in revenue, weigh both options and state what the decision depends on before making a clear choice.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/o-level-business-economic-issues-revision-notes/) and [study guide](/resources/o-level-business-economic-issues/).
 - Tick off the [checklist](/checklists/cambridge/o-level/business/) and open the [course hub](/boards/cambridge/o-level/business/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is aligned to the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), and covers Stage 1 content in sections 1.02a to 1.02i of Algebra and Functions. Nothing here is marked as A Level only. The specification says Pure Mathematics is assessed in components 01, 02 and 03.
 
@@ -392,7 +392,7 @@ Treat it as a quadratic in disguise: let u = x², solve for u, then take square 
 **How do you show a quadratic is negative for all x?**
 Complete the square. For example, −x² + 4x − 7 = −(x − 2)² − 3, and since −(x − 2)² ≤ 0, the expression is at most −3, so it is always negative.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-indices-surds-simultaneous-equations-quadratics-and-revision-notes/), then try the [practice questions](/resources/ocr-a-level-mathematics-indices-surds-simultaneous-equations-quadratics-and-practice/). Tick off outcomes on the [checklist](/checklists/ocr/a-level/mathematics/), and use the [diagnostics](/diagnostics/) to check progress. Do these skills by hand, because they underpin later work in the [Pure Mathematics overview](/resources/ocr-a-level-mathematics-pure-mathematics/).
 

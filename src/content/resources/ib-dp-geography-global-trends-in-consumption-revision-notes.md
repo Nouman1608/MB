@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -166,7 +166,7 @@ as incomes rise. 8. Physical: too little water for demand; economic: water exist
 infrastructure to supply it is lacking. 9. A hectare of world-average productivity. 10. 3 toe per
 person. 11. Middle-class households consume more meat, energy and manufactured goods per person.
 
-## Related resources
+## More resources on this topic
 
 - [Global resource consumption study guide](/resources/ib-dp-geography-global-resource-consumption-study-guide/)
 - [Impacts of changing trends in resource consumption revision notes](/resources/ib-dp-geography-impacts-of-changing-trends-in-resource-consumption-revision-notes/)

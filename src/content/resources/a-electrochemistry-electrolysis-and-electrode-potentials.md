@@ -24,7 +24,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -345,7 +345,7 @@ Pass a measured charge through a cell and measure the mass or volume of product.
 **How is ΔG linked to the standard cell potential?**
 ΔG = −nE°cellF, where n is the number of electrons transferred in the overall reaction. A positive E°cell always corresponds to a negative ΔG, meaning the reaction is feasible.
 
-## Related resources
+## More resources on this topic
 
 - [Redox Processes: Oxidation Numbers and Electron
   Transfer](/resources/as-redox-processes/) — half-equations and oxidation

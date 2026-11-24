@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Yes. For a ring or a horseshoe shape it lies in the empty space.
 **Why does a couple not make an object accelerate in a straight line?**
 Its two forces are equal and opposite, so the resultant force is zero.
 
-## Related resources
+## More resources on this topic
 
 - [Turning effects of forces revision notes](/resources/cambridge-a-level-physics-9702-as-turning-effects-of-forces-revision-notes/)
 - [Turning effects of forces practice questions](/resources/cambridge-a-level-physics-9702-as-turning-effects-of-forces-practice/)

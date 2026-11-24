@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -125,7 +125,7 @@ Judgement: the numbers favour going ahead, but the margin is thin and the risk i
 - Giving figures without comment on the decision.
 - Ignoring qualitative factors in a recommendation.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-investment-appraisal/) for any gaps.
 - Try the [budgets and variances practice questions](/resources/ocr-a-level-business-h431-budgets-and-variances-practice/).

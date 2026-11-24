@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -143,7 +143,7 @@ Give answers to 3 significant figures unless a question says otherwise, and keep
 * Forgetting to convert cm² to m² or cm³ to m³, or using 100 or 1000 as the conversion.
 * Writing only a final answer on a multi-step or "show that" question, so the method cannot be seen.
 
-## Next steps
+## More on this topic
 
 * Re-read the [revision notes](/resources/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors-revision-notes/) for the formulas and short reminders.
 * Go back to the [study guide](/resources/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors/) for any step that felt unfamiliar.

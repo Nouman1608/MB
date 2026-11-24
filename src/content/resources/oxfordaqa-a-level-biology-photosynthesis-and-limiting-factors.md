@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide is aligned to the *OxfordAQA International AS and A-level Biology (9610)* specification, Version 5.1, section 3.3.2 (photosynthesis), covering 3.3.2.1 (the light-dependent reaction), 3.3.2.2 (the light-independent reaction) and 3.3.2.3 (limiting factors). It sits in Unit 3, Populations and genes, which the specification lists as International A-level only. It also covers Required practical 7.
@@ -206,7 +206,7 @@ A common version investigates light intensity using a water plant such as *Elode
 - Saying a rate is limited by "all factors". Name one factor and justify it from the data.
 - Stating that "enzymes die" at high temperature. They denature.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors-revision-notes/), then attempt the [practice questions](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors-practice/). Use the [checklist](/checklists/oxfordaqa/a-level/biology/) to record progress and the [course page](/boards/oxfordaqa/a-level/biology/) to find related topics.
 

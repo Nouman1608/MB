@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Orbital period and orbital speed show clear trends with distance. Surface field 
 11. The orbit is an ellipse, so the distance from the Sun varies slightly; an average radius represents it.
 12. T = 2πr / v = 2π × 7.8 × 10⁸ ÷ 13.1 = 3.74 × 10⁸ s; ÷ (365 × 86 400) = about 12 years.
 
-## Related resources
+## More resources on this topic
 
 - [Earth and the Solar System study guide](/resources/cambridge-o-level-physics-5054-earth-and-the-solar-system/)
 - [Earth and the Solar System practice questions](/resources/cambridge-o-level-physics-5054-earth-and-the-solar-system-practice/)

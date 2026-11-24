@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Divide the reserves by the yearly current account deficit, assuming reserves alo
 **What are common mistakes in Edexcel IGCSE Economics current account questions?**
 Frequent errors include giving a balance with no sign or label, mixing up exports and imports for services, multiplying instead of dividing in an exchange rate conversion, and applying a cost rise to total costs instead of only the imported part.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments-revision-notes/).
 - Review the [study guide](/resources/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments/).

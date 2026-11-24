@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -129,7 +129,7 @@ The [study guide](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-
 - In 3D, using a sloping edge as the vertical height or the base diagonal as a side.
 - Leaving out units, or giving a length to more or fewer significant figures than the question asks.
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry-revision-notes/) for the one-page methods.
 - Reread the [study guide](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry/) for any question you could not start.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 - Ignoring one of the named groups or areas in an extended question.
 - Generic points such as "IT is faster" with no technology or effect named.
 
-## Next steps
+## More on this topic
 
 - [IT in society revision notes](/resources/a-level-cambridge-ict-it-in-society-revision-notes/)
 - [IT in society study guide](/resources/a-level-cambridge-ict-it-in-society/)

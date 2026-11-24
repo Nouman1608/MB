@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ D: Removing half of the gas at constant temperature
 - Not converting the answer back to the unit asked for.
 - Describing an experimental error without saying whether Mr goes up or down.
 
-## Next steps
+## More on this topic
 
 - [Mole and Avogadro constant practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-2-2-practice/)
 - [Balanced equations and associated calculations practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-2-5-practice/)

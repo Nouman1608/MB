@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ The wire must be cleaned first, because traces of another compound, especially a
 - **Identify** or **deduce**: give the ion with its charge or the full name, such as "iron(III) ion" or Fe³⁺.
 - **Observations** are what you see: colour, precipitate, fizzing, colour change. Interpretations are what they mean. Keep them separate when a table asks for both.
 
-## Next steps
+## More on this topic
 
 - Condense this with the [identification of ions and gases revision notes](/resources/cambridge-o-level-chemistry-5070-identification-of-ions-and-gases-revision-notes/).
 - Practise with the [identification of ions and gases practice questions](/resources/cambridge-o-level-chemistry-5070-identification-of-ions-and-gases-practice/).

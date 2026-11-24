@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Learn the methods in the [study guide](/resources/ib-dp-mathematics-ai-voronoi-p
 - Choosing the wrong vertex in a toxic waste problem, or not calculating the distance at every vertex.
 - Rounding a vertex before finding a distance, which moves the answer in the third figure.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors-revision-notes/) for a fast recap of the methods
 - [Study guide](/resources/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors/) for full explanations and worked examples

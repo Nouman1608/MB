@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks only for a basic understanding of five policy areas; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks only for a basic understanding of five policy areas; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,6 +174,6 @@ Lord Phillips' five factors (*Catholic Child Welfare Society*, 2012):
 11. Name two of Lord Phillips' five policy factors. *Any two: ability to pay/insurance; activity on employer's behalf; part of business; risk created; control.*
 12. Which case limited vicarious liability for independent contractors? *Various Claimants v Barclays Bank (2020).*
 
-## Related resources
+## More resources on this topic
 
 [Theory of tort law practice questions](/resources/aqa-a-level-law-7162-theory-of-tort-law-practice/) | [Tort revision notes](/resources/aqa-a-level-law-tort-revision-notes/)

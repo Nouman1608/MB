@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2. It covers sections 3.3.3.1 (market structures), 3.3.3.2 (perfect competition) and 3.3.3.3 (monopolistic competition). Section 3.3 is the extra International A2 content, examined in Unit 3. Quantitative skills (3.5) may appear in any unit, so the calculations use QS4 (graphs), QS6 (cost, revenue and profit, with marginal values for A2), QS8 (elasticity) and QS9. Every name and figure is invented.
 
@@ -265,7 +265,7 @@ The advertising pays, because profit rises from zero to 51. If rivals copy and d
 - Claiming perfect competition is efficient without naming the assumptions.
 - Describing non-price competition as only good, or only bad, for consumers.
 
-## Next steps
+## More on this topic
 
 Continue with the revision notes and practice questions linked at the top, and check your progress with the [diagnostics](/diagnostics/).
 

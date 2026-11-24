@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -201,7 +201,7 @@ As its speed increases, drag increases, so the resultant force and acceleration 
 **How is momentum conserved in two-dimensional collisions?**
 Momentum is a vector, so in two-dimensional collisions it must be conserved separately in each of two perpendicular directions, not just as a total magnitude.
 
-## Related resources
+## More resources on this topic
 
 - [Kinematics: Equations of Motion](/resources/as-physics-kinematics-equations-of-motion/) — the motion equations this topic applies force to
 - [Forces, Density and Pressure](/resources/as-physics-forces-density-and-pressure/) — the next AS topic

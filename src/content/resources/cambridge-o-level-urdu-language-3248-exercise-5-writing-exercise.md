@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that the Urdu openings, closings, register examples and the model email on this page are correct and natural."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that the Urdu openings, closings, register examples and the model email on this page are correct and natural. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -180,7 +180,7 @@ is similar; vocabulary, verb forms and tone are entirely different.
   other, so do not let the reading exercises run over.
 - Leave three or four minutes to check gender and number agreement, *نے*, and punctuation.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 5 Writing exercise: revision notes](/resources/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise-revision-notes/)
 - [Exercise 5 Writing exercise: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise-practice/)

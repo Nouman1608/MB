@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu greeting, closing, register example and self-test answer on this page."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu greeting, closing, register example and self-test answer on this page. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -205,7 +205,7 @@ Opening line (10–15 words) · prompt 1 (about 40) · prompt 2 (about 40) · pr
 11. ؟
 12. It may not answer the specific prompts, purpose or audience, so W1 and W5 suffer.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 5 Writing exercise: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise-practice/)
 - [O Level Urdu Paper 1 revision notes](/resources/o-level-cambridge-urdu-first-and-second-language-revision-notes/)

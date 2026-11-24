@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section **4.1.2 Cell division** (4.1.2.1 Chromosomes, 4.1.2.2 Mitosis and the cell
@@ -300,7 +300,7 @@ the feature does not protect against).
 - Writing "stem cells cure diabetes". The specification says they may be able to help.
 - In a therapeutic cloning answer, not stating that the cells will not be rejected.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [Cell division revision notes](/resources/aqa-gcse-biology-8461-cell-division-revision-notes/)
 - Exam-style questions: [Cell division practice questions](/resources/aqa-gcse-biology-8461-cell-division-practice/)

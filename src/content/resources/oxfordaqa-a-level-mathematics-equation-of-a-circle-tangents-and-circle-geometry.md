@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the circle for the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It follows content area PP1.1 (Circle) in section 3.2.1 of the specification. The specification places this content in International AS, Unit PSM1, and gives no further tier labels. Two companion pages are the [revision notes](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-practice/). The course page is the [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/mathematics/) and the printable [checklist](/checklists/oxfordaqa/a-level/mathematics/) lists every topic. If you are unsure where you stand, take a [free 10-minute diagnostic](/diagnostics/) first.
@@ -257,7 +257,7 @@ tangent length = 2√15
 
 Every example here is short algebra that you can do by hand, so write each step out. A clear line of working shows your method even if you slip on the arithmetic later.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-revision-notes/) for quick recall. The wider [Unit P1 pure maths guide](/resources/a-level-oxfordaqa-mathematics-unit-p1/) covers the straight-line and quadratics skills used here. The [diagnostics](/diagnostics/) show which topics to prioritise.
 

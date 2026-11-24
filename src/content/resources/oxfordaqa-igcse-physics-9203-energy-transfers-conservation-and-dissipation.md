@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ To **interpret** a diagram, measure each width, convert with the scale, check th
 - **Calculate**: state the equation, substitute, and give the answer as a decimal or percentage as asked.
 - **Draw** a Sankey diagram: state the scale, label each arrow with its energy and type.
 
-## Next steps
+## More on this topic
 
 Try the [energy transfers practice questions](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-conservation-and-dissipation-practice/), then read the [Energy resources study guide](/resources/oxfordaqa-igcse-physics-9203-energy-resources/).
 

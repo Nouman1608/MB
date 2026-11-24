@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,6 +129,6 @@ These questions cover sub-topic 2(a) Group 1 (alkali metals) of the Pearson Edex
 - Stopping the reactivity explanation at "more shells".
 - Predicting a melting point that rises down the group.
 
-## Next steps
+## More on this topic
 
 Revisit the [Group 1 study guide](/resources/edexcel-igcse-chemistry-4ch1-group-1-alkali-metals/) for any slips, then try the [Group 7 halogens practice questions](/resources/edexcel-igcse-chemistry-4ch1-group-7-halogens-practice/).

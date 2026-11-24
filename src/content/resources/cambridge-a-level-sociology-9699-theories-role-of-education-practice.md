@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,6 +122,6 @@ Argument 2: functionalists deny that the values passed on are ideological [1]. P
 
 **Level guidance:** top answers apply theory to specific market mechanisms and reach a reasoned judgement on "as a whole"; middle answers list arguments for and against; low answers give unsupported opinion.
 
-## Next steps
+## More on this topic
 
 Move on to [education and social mobility](/resources/cambridge-a-level-sociology-9699-education-and-social-mobility/) or revisit the [education, society and the curriculum practice questions](/resources/a-level-sociology-9699-education-society-and-the-curriculum-practice/).

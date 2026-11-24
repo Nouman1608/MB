@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ ZnO(s) + 2HCl(aq) → ZnCl₂(aq) + H₂O(l) ∆H₂
 - Running a ∆cH cycle as products minus reactants.
 - Writing ∆H₂ − ∆H₁ in an indirect cycle without checking the direction of each arrow.
 
-## Next steps
+## More on this topic
 
 - Recap: [Enthalpy changes revision notes](/resources/ocr-a-level-chemistry-enthalpy-changes-revision-notes/)
 - Full explanations: [Enthalpy changes study guide](/resources/ocr-a-level-chemistry-enthalpy-changes/)

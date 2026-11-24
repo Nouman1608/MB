@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Use the "real is positive" sign convention. Take the normal near point as 0.25 m
 - Saying rods give better resolution because they are more sensitive.
 - Describing an astigmatism prescription without the axis.
 
-## Next steps
+## More on this topic
 
 - [Physics of the eye revision notes](/resources/aqa-a-level-physics-7408-physics-of-the-eye-revision-notes/)
 - [Physics of the eye study guide](/resources/aqa-a-level-physics-7408-physics-of-the-eye/)

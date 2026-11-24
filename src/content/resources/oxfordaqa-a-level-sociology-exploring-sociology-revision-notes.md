@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -175,7 +175,7 @@ Triangulation combines quantitative and qualitative methods so that each offsets
 **Why should you pair agencies with types of control?**
 Many questions ask how a named agency controls behaviour, so revise them together. Truancy, for example, is controlled formally through fines or legal action and informally through disapproval from family or peers.
 
-## Related resources
+## More resources on this topic
 
 - [Exploring Sociology study guide](/resources/a-level-oxfordaqa-sociology-exploring-sociology/)
 - [Exploring Sociology practice questions](/resources/oxfordaqa-a-level-sociology-exploring-sociology-practice/)

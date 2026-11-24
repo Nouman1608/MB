@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -116,7 +116,7 @@ Evaluation: there are two people to recruit, induct and train, which costs money
 - Describing zero-hour contracts only from the worker's point of view when the question asks about the business.
 - Ending an evaluate or justify question without a decision, or with a decision that ignores the stem.
 
-## Next steps
+## More on this topic
 
 - Check gaps in the [recruitment and selection study guide](/resources/aqa-gcse-business-8132-recruitment-and-selection-of-employees/).
 - Move on to the [Human resources study guide](/resources/aqa-gcse-business-human-resources/) for motivation and training.

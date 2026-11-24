@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches topic 6, Statistics and probability, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. It covers section 6.1 (Graphical representation of data), 6.2 (Statistical measures) and 6.3 (Probability). Each section has Foundation content, which both tiers need, and extra content marked **Higher tier only**.
@@ -373,7 +373,7 @@ The interquartile range is the upper quartile minus the lower quartile. It measu
 **How do you find the median from a list of values?**
 Put the values in order and find the ((n + 1)/2)th value. For 11 values the median is the 6th value; for an even number of values it lies halfway between the two middle values.
 
-## Next steps
+## More on this topic
 
 Recap with the [revision notes](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability-practice/).
 

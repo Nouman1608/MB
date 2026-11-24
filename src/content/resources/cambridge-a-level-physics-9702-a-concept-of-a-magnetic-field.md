@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ Field strength is measured as magnetic flux density B in tesla (T); the definiti
 - **Explain** (why a compass or charge behaves in a certain way): link the behaviour to the direction of the resultant field or to whether the charge is moving.
 - **Compare** (magnetic with electric or gravitational fields): give the source and the object acted on for each, and point out that only moving charges are affected by a magnetic field.
 
-## Related resources
+## More resources on this topic
 
 - [Magnetic Fields study guide](/resources/a-physics-magnetic-fields/) — the whole of Topic 20
 - [Concept of a magnetic field revision notes](/resources/cambridge-a-level-physics-9702-a-concept-of-a-magnetic-field-revision-notes/)

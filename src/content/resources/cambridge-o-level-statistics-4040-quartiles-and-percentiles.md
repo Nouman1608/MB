@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Quartiles allow fair comparison of groups of different size because they are pos
 - **Find the mark needed for the top k%**: read at the (100 − k)th percentile.
 - **Compare**: one statement about the medians and one about the interquartile ranges, both with figures, in context.
 
-## Next steps
+## More on this topic
 
 Condense the methods with the [revision notes on quartiles and percentiles](/resources/cambridge-o-level-statistics-4040-quartiles-and-percentiles-revision-notes/), then practise with the [quartiles and percentiles practice questions](/resources/cambridge-o-level-statistics-4040-quartiles-and-percentiles-practice/). Graph drawing is in [cumulative frequency in graphical form](/resources/cambridge-o-level-statistics-4040-cumulative-frequency-graphical-form/).
 

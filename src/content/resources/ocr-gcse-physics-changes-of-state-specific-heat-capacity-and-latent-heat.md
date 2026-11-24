@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers topic P1.2 (Changes of state), statements P1.2a to P1.2f, of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). None of these statements is printed in bold, so all of them are for both Foundation and Higher Tier. It teaches the ideas from scratch and works through the two calculations the specification names under PM1.2i and PM1.2ii.
@@ -256,7 +256,7 @@ Lagging reduces energy lost to the surroundings. If energy is lost, the block wa
 **What is the difference between latent heat of fusion and latent heat of vaporisation?**
 Specific latent heat of fusion is used for melting and freezing, and specific latent heat of vaporisation is used for boiling, evaporating and condensing. Both use E = mL with no temperature change.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat-revision-notes/), then try the [practice questions](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat-practice/). Tick off what you can do on the [OCR Physics checklist](/checklists/ocr/gcse/physics/), and use the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 

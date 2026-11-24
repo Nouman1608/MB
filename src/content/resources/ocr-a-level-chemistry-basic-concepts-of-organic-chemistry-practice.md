@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ Relative atomic masses for the calculations: C = 12.0, H = 1.0, O = 16.0, Cl = 3
 - Starting a curly arrow on an atom, or pointing it away from where the pair goes.
 - Rounding a mole ratio such as 1.67 instead of scaling it.
 
-## Next steps
+## More on this topic
 
 - Recap the tables and rules: [revision notes](/resources/ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-revision-notes/)
 - Worked examples and explanations: [study guide](/resources/ocr-a-level-chemistry-basic-concepts-of-organic-chemistry/)

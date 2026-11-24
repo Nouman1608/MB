@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers sections 3.7.1 (Newton's gravitational law) and 3.7.2 (Gravitational field strength). Section 3.7 is marked International A-level only, so you meet this content on the A-level route and not in the International AS. Use it with the [course hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/).
@@ -269,7 +269,7 @@ The value of g is tiny compared with 9.81 N kg⁻¹, yet the force is huge becau
 - **Drawing field lines that stop short or cross.** Radial lines point to the centre and never cross.
 - **Dropping units.** Check that N kg⁻¹ matches your calculation: GM/r² has units N m² kg⁻² × kg / m² = N kg⁻¹.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-physics-newtons-law-of-gravitation-and-gravitational-field-practice/) and use the [revision notes](/resources/oxfordaqa-a-level-physics-newtons-law-of-gravitation-and-gravitational-field-revision-notes/) for the final weeks. Tick off each point on the [checklist](/checklists/oxfordaqa/a-level/physics/).
 

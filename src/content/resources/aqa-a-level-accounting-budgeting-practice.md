@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -207,7 +207,7 @@ No. Only revenue and variable costs are flexed to the actual output; flexing fix
 **How should I end a budgeting evaluation answer?**
 End with a reasoned judgement tied to the business in the question. Without a conclusion full marks are out of reach.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-accounting-budgeting-revision-notes/) and [study guide](/resources/aqa-a-level-accounting-budgeting/).
 - Review [preparation of financial statements of sole traders](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/) for the statement formats.

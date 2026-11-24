@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -147,7 +147,7 @@ These questions cover OCR GCSE Physics A (Gateway Science, J249), specification 
 - Saying "strong field" without linking it to lines being close together.
 - Mixing up the direction of the force on an electron with the arrow direction.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-revision-notes/) for a short recap.
 - Re-read the [study guide](/resources/ocr-gcse-physics-static-electricity-and-electric-fields/) for any part that felt weak.

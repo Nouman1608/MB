@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ Useful structure: "A benefit is ... because ... . However, a risk is ... because
 11. The system costs money to build, maintain and supervise, and there are social costs such as job losses.
 12. A conclusion that weighs the benefits against the risks.
 
-## Next steps
+## More on this topic
 
 - [Benefits and risks study guide](/resources/oxfordaqa-a-level-computer-science-9645-benefits-risks-of-artificial-intelligence/)
 - [Benefits and risks practice questions](/resources/oxfordaqa-a-level-computer-science-9645-benefits-risks-of-artificial-intelligence-practice/)

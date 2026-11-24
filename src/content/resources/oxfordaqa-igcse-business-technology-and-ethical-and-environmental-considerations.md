@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sections 3.2.1 Technology and 3.2.2 Ethical and environmental considerations of the OxfordAQA International GCSE Business (9225) specification, version 3.1, first teaching September 2020 and first examined May/June 2022. Both sit in section 3.2, Influences on business, which the specification says is assessed on both written papers. Use it with the [revision notes](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations-practice/). The wider topic is in the [Influences on business study guide](/resources/igcse-oxfordaqa-business-influences-on-business/), [revision notes](/resources/igcse-oxfordaqa-business-influences-revision-notes/) and [practice set](/resources/oxfordaqa-igcse-business-influences-practice/). Course links: the [OxfordAQA IGCSE Business hub](/boards/oxfordaqa/igcse/business/), the [checklist](/checklists/oxfordaqa/igcse/business/) and the free [diagnostics](/diagnostics/).
@@ -274,7 +274,7 @@ Choose the method to fit the stakeholder and the message. Telling many customers
 **What are the drawbacks of e-commerce for a business?**
 Delivery, packaging and returns cost money, website, payment and security systems cost money to build and maintain, and customers cannot touch the product. Some sales may also simply move from the shop to the website, so revenue does not rise by the full amount of online sales.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations-practice/), then a [free diagnostic](/diagnostics/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ These questions cover section 3.11.3, Ideal gases, of OxfordAQA International AS
 - Using pΔV for a process in which the pressure changes.
 - Stating gas laws without their conditions.
 
-## Next steps
+## More on this topic
 
 - Recap with the [ideal gases revision notes](/resources/oxfordaqa-a-level-physics-9630-ideal-gases-revision-notes/).
 - Re-read the [ideal gases study guide](/resources/oxfordaqa-a-level-physics-9630-ideal-gases/).

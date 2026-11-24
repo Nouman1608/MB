@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -215,7 +215,7 @@ The coefficient of n is the common difference. For 5, 8, 11, 14, the difference 
 **Are quadratic simultaneous equations on the Foundation paper?**
 No. Linear simultaneous equations are Foundation tier, but solving a linear and a quadratic equation simultaneously is Higher tier only in AQA GCSE Maths 8300.
 
-## Related resources
+## More resources on this topic
 
 - [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/)
 - [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/)

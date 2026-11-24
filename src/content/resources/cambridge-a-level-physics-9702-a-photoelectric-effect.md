@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ I = (electrons per second) × e = 2.5 × 10⁹ × 1.60 × 10⁻¹⁹ = 4.0 × 10
 - **Determine** (from a graph): gradient = h; f-intercept = f₀; Φ = hf₀.
 - **Calculate**: convert eV to J first, and give speeds from ½mv²max with m = 9.11 × 10⁻³¹ kg.
 
-## Related resources
+## More resources on this topic
 
 - [Quantum Physics study guide](/resources/a-physics-quantum-physics/) — the whole of Topic 22
 - [Photoelectric effect revision notes](/resources/cambridge-a-level-physics-9702-a-photoelectric-effect-revision-notes/)

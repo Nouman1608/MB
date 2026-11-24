@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,6 +157,6 @@ Competitive advantage comes from fewer defects, lower waste, stronger reputation
 - **Discuss and assess:** give a case for and against, then a judgement that depends on a named feature of the business, such as reliability of suppliers or the steadiness of demand.
 - **Useful link phrases:** "this means", "which leads to", "this is more likely to matter if", "the decision depends on".
 
-## Next steps
+## More on this topic
 
 Check any slips against the [Resource management study guide](/resources/edexcel-a-level-business-ybs11-resource-management/), then practise with the [Resource management practice questions](/resources/edexcel-a-level-business-ybs11-resource-management-practice/).

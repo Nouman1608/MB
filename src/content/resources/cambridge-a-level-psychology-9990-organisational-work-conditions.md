@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -146,7 +146,7 @@ The distinction matters because blaming individuals for system errors leaves the
 
 **Define** shift patterns precisely and give an example. **Evaluate** using the syllabus issues: longitudinal studies and questionnaires for 4.4.1; validity and questionnaires for 4.4.2; individual and situational explanations, longitudinal studies and objective and subjective data for 4.4.3. **Suggest** questions on safety should combine a human-error fix (training, checklists) with a system fix (redesigned display or control).
 
-## Related resources
+## More resources on this topic
 
 - [Organisational work conditions revision notes](/resources/cambridge-a-level-psychology-9990-organisational-work-conditions-revision-notes/)
 - [Organisational work conditions practice questions](/resources/cambridge-a-level-psychology-9990-organisational-work-conditions-practice/)

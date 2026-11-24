@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Dimensions = length of the index tuple. Size = product of the lengths.
 11. `w[i] ← u[i] + v[i]` inside a loop over every index.
 12. The class index.
 
-## Related resources
+## More resources on this topic
 
 - [Arrays study guide](/resources/aqa-a-level-computer-science-7517-single-and-multi-dimensional-arrays/)
 - [Arrays practice questions](/resources/aqa-a-level-computer-science-7517-single-and-multi-dimensional-arrays-practice/)

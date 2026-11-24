@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -152,7 +152,7 @@ and inversely proportional to the volume (double the volume, half the concentrat
 9. 0.20 mol Mg gives 0.20 mol MgO; 0.20 × 40 = 8.0 g.
 10. 0.75 dm³.
 
-## Next steps
+## More on this topic
 
 - [Amount of substance and masses study guide](/resources/aqa-gcse-chemistry-8462-amount-of-substance-and-masses/)
 - [Amount of substance and masses practice questions](/resources/aqa-gcse-chemistry-8462-amount-of-substance-and-masses-practice/)

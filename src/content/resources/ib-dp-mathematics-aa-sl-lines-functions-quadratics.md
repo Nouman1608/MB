@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches the first seven subtopics of the Functions topic in IB Diploma Programme Mathematics: Analysis and Approaches. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 2.1–2.7, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -289,7 +289,7 @@ Paper 1 allows no technology. Paper 2 requires it (and at HL, so does Paper 3). 
 - Solving a quadratic inequality and giving the region between the roots when it should be outside them.
 - Ignoring the case where the coefficient of x² contains k and could be zero.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/ib-dp-mathematics-aa-sl-lines-functions-quadratics-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-aa-sl-lines-functions-quadratics-practice/). For how the course is assessed, read the [syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) and the [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/). These skills feed directly into the [Calculus strand](/resources/ib-dp-mathematics-aa-calculus/).
 

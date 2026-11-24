@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ An angle such as 30° is ambiguous unless you name the reference direction, for 
 **What should you do with a negative root in a time equation?**
 Reject any root that is physically impossible, such as a negative time or a time before the motion starts, and give a reason. Accepting both roots without checking loses marks.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-ial-mathematics-mathematical-models-vectors-in-mechanics-and-constant-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-mathematical-models-vectors-in-mechanics-and-constant/) for weak topics.

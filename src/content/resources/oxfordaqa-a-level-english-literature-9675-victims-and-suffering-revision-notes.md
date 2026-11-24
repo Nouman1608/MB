@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ for the full explanation and a model paragraph see the
 11. The narrator is revealed to be the murderer, so his calm account looks back as concealment.
 12. It focuses on the long aftermath of crime, following a survivor into adult life.
 
-## Next steps
+## More on this topic
 
 Practise with the [victims and suffering practice questions](/resources/oxfordaqa-a-level-english-literature-9675-victims-and-suffering-practice/)
 and the full-essay set in [Elements of Crime and Mystery practice questions](/resources/a-level-oxfordaqa-english-literature-elements-of-crime-and-mystery-practice/).

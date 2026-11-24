@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -173,7 +173,7 @@ State which meter measures the current through the lamp. **[1]**
 - Quoting the thermistor or LDR rule the wrong way round.
 - Drawing a voltmeter in the loop or an ammeter across a component.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols-revision-notes/).
 - Return to the [OxfordAQA International GCSE Physics hub](/boards/oxfordaqa/igcse/physics/) and the [printable checklist](/checklists/oxfordaqa/igcse/physics/).

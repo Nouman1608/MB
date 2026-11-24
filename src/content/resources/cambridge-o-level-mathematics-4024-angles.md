@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -243,7 +243,7 @@ Use three letters to name each angle, as in angle ABC, so there is no doubt whic
 - **Show that**: finish with the stated angle.
 - Mark angles you find on the diagram as you go.
 
-## Next steps
+## More on this topic
 
 Work through the [angles practice questions](/resources/cambridge-o-level-mathematics-4024-angles-practice/) and recap with the [angles revision notes](/resources/cambridge-o-level-mathematics-4024-angles-revision-notes/).
 

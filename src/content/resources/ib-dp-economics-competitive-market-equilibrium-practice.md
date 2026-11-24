@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ No. According to the IB guide, Paper 1 is an extended response paper where calcu
 **What are common mistakes on IB Economics equilibrium diagrams?**
 Frequent slips include leaving new curves and equilibria unlabelled, writing "demand rises" when only the quantity demanded changes, and putting a shortage or surplus on the wrong side of equilibrium.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ib-dp-economics-competitive-market-equilibrium-revision-notes/) and the [study guide](/resources/ib-dp-economics-competitive-market-equilibrium/).
 - Check progress against the [Economics checklist](/checklists/ib/ib-dp/economics/) and the [course hub](/boards/ib/ib-dp/economics/).

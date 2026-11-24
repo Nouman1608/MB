@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers 7.01a (x- and y-coordinates), 7.01b (using a table of values to plot graphs) and 7.01c (recognising and sketching polynomial and reciprocal graphs). Most of it is assessed at both tiers. Solving quadratics with the quadratic formula or by completing the square, and sketching a quadratic with its turning point found by completing the square, are **Higher tier only**. Exponential graphs, straight-line gradient work and circles are covered in other units.
@@ -306,7 +306,7 @@ The curve is upside down with its highest point at (2, −3), which is below the
 - Taking the turning point as (p, q) instead of (−p, q) after completing the square.
 - Sketching a cubic y = x³ with a U-shape, or a y = 1/x curve that meets an axis.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and-practice/), then condense the unit with the [revision notes](/resources/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and-revision-notes/). Use the [checklist](/checklists/ocr/gcse/mathematics/) to mark off 7.01a to 7.01c, and the [diagnostics](/diagnostics/) to find weak spots.
 

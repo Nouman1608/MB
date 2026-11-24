@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ These questions cover section **3.1.3 Marketing management** of the AQA AS and A
 - Defining a confidence interval without applying it.
 - Evaluating with a list and no judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-as-level-business-marketing-management-revision-notes/) for formulas and tables.
 - Return to the [study guide](/resources/aqa-as-level-business-marketing-management/) for any weak area.

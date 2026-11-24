@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **Cambridge IGCSE Mathematics 0580**, aligned to the Cambridge IGCSE Mathematics 0580 syllabus for exams in 2025, 2026 and 2027. It teaches syllabus section **C9.4/E9.4 Statistical charts and diagrams** in depth. The Core and Extended columns of the syllabus list exactly the same learning outcomes for 9.4, so everything on this page applies to both tiers and nothing here is Extended only.
@@ -361,7 +361,7 @@ The key tells you the place value of the stems and leaves, such as 3 | 7 meaning
 **How do you check pie chart angles?**
 Make sure the angles add up to 360°. If they do not, you have used the wrong total or rounded too much along the way.
 
-## Next steps
+## More on this topic
 
 - [Statistics study guide](/resources/igcse-mathematics-statistics/) and [Statistics revision notes](/resources/igcse-mathematics-statistics-revision-notes/)
 - [Statistics practice questions](/resources/igcse-mathematics-statistics-practice/) and [Statistics and Probability (Extended) practice questions](/resources/igcse-mathematics-statistics-and-probability-extended-practice/)

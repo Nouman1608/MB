@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Judgement: the weaker pound is most important this year as it adds the largest c
 - Using the wrong base for a percentage.
 - Writing a one-sided answer to "evaluate", with no counter-argument or decision.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/edexcel-gcse-business-legislation-the-economy-and-external-influences-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-legislation-the-economy-and-external-influences/).
 - Check coverage on the [printable checklist](/checklists/edexcel/gcse/business/) and the [Business hub](/boards/edexcel/gcse/business/).

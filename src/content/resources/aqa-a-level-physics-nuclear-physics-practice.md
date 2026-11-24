@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,7 +201,7 @@ in an emergency the control rods drop fully into the core and stop the chain rea
 - Confusing moderator, control rods and coolant roles.
 - Swapping the fission and fusion regions of the binding energy per nucleon graph.
 
-## Next steps
+## More on this topic
 
 - [Nuclear physics revision notes](/resources/aqa-a-level-physics-nuclear-physics-revision-notes/)
 - [Nuclear physics study guide](/resources/aqa-a-level-physics-nuclear-physics/)

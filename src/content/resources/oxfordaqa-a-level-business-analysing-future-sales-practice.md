@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -123,7 +123,7 @@ No. Give forecasts with units and as whole products; when a forecast is used for
 **Which part of the OxfordAQA 9725 specification do these questions test?**
 They test section 3.3.5 Analysing future sales of OxfordAQA International AS and A-level Business (9725): three period moving averages, extrapolation, qualitative forecasting, and the value and difficulties of sales forecasting.
 
-## Next steps
+## More on this topic
 
 - Go over the formulas again in the [analysing future sales revision notes](/resources/oxfordaqa-a-level-business-analysing-future-sales-revision-notes/)
 - Reread the worked examples in the [analysing future sales study guide](/resources/oxfordaqa-a-level-business-analysing-future-sales/)

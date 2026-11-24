@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Add the step to the angle each frame [1]; test both limits [1]; reverse the sign
 - Calling the background or music a primary component.
 - In evaluations, giving advantages only, or no recommendation linked to the audience.
 
-## Next steps
+## More on this topic
 
 - Revise with the [Animation revision notes](/resources/a-level-cambridge-ict-animation-revision-notes/).
 - Go back to the [Animation study guide](/resources/a-level-cambridge-ict-animation/) for full explanations.

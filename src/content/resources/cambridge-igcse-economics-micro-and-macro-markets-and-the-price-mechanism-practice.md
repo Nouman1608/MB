@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ This set tests sections 2.1 and 2.2 of the Cambridge IGCSE Economics 0455 syllab
 - Listing the price mechanism's functions with no explanation of each.
 - Stopping at one side of a "discuss" question or giving no conclusion.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism/).
 - Tick off what you have covered on the [printable checklist](/checklists/cambridge/igcse/economics/) and see the [course hub](/boards/cambridge/igcse/economics/).

@@ -32,6 +32,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -182,7 +183,7 @@ Revise first with the [study guide](/resources/a-level-geography-9696-economic-t
 - Ignoring the source in "suggest" questions and writing a learned answer instead.
 - Ending an essay without a conclusion that answers "how far" or "assess".
 
-## Next steps
+## More on this topic
 
 Check weak areas against the [study guide](/resources/a-level-geography-9696-economic-transition/), then plan your option choices with the [exam preparation guide](/resources/cambridge-a-level-geography-exam-preparation/). Find gaps quickly with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/) with a Geography teacher.
 

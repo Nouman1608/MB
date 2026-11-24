@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches three subtopics of Topic 1 Number in the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027: **1.4 Fractions, decimals and percentages**, **1.5 Ordering** and **1.6 The four operations**. It covers both tiers. Core candidates (Papers 1 and 3) need everything except the parts marked **Extended only**; Extended candidates (Papers 2 and 4) need all of it. The only Extended-only content in these three subtopics is recurring decimal notation and converting between recurring decimals and fractions (E1.4).
@@ -374,7 +374,7 @@ No. Multiplication and division have equal priority, as do addition and subtract
 **How should you give the answer to an ordering question?**
 Give the final order using the numbers in the form the question listed them, such as fractions and percentages, even if you converted them to decimals to compare.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [Number practice questions](/resources/igcse-mathematics-number-practice/) and, for Extended, the [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/). Tick these sections off on the [0580 checklist](/checklists/cambridge/igcse/mathematics/).
 

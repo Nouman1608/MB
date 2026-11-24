@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ All money is in dollars. All businesses and people are invented. Show your worki
 - Recommending an action without a reason taken from the case data.
 - Stopping at one-sided points on an evaluation question, with no final judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/igcse-business-0264-economic-issues/) for any question you lost marks on.
 - Use the [revision notes](/resources/igcse-business-0264-economic-issues-revision-notes/) to rehearse the stages, tax methods and interest rate chains.

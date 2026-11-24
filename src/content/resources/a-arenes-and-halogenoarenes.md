@@ -23,7 +23,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -282,7 +282,7 @@ In Cambridge 9701 Chemistry, –NH₂, –OH and alkyl (–R) groups direct to t
 **Why does benzene need a catalyst to react with bromine?**
 Plain Br₂ is not electrophilic enough to react with benzene's stable delocalised ring. A halogen carrier such as AlBr₃ polarises Br₂ to generate an electrophilic bromine species that the ring can attack.
 
-## Related resources
+## More resources on this topic
 
 - [A Level Organic Chemistry: Naming, Mechanisms and Aromatic
   Shape](/resources/a-organic-chemistry-naming-mechanisms-and-aromatic-shape/)

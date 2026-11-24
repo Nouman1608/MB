@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -151,6 +151,6 @@ Defence?     Femi could apply under the Access to Neighbouring Land
 
 Work through: **possession** (who can sue), **entry** (what kind), **intention and directness**, **continuing** or not, **defences**, then **remedies**. For **evaluate** questions, weigh the strong protection trespass gives to possession (no damage needed) against the interests of neighbours, the public using highways, and protesters.
 
-## Next steps
+## More on this topic
 
 Condense with the [trespass to land revision notes](/resources/edexcel-a-level-law-yla1-trespass-to-land-revision-notes/) and practise with the [trespass to land practice questions](/resources/edexcel-a-level-law-yla1-trespass-to-land-practice/).

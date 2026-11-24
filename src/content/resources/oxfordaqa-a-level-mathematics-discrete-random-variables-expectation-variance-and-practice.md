@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -169,7 +169,7 @@ These questions cover section S1.2 (Discrete random variables) of the OxfordAQA 
 - Rounding intermediate means and then carrying the rounded value into the variance.
 - Giving variance when the standard deviation was asked for.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-mathematics-discrete-random-variables-expectation-variance-and-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-mathematics-discrete-random-variables-expectation-variance-and/).
 - Return to the [course hub](/boards/oxfordaqa/a-level/mathematics/) and tick off topics on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Venus fly trap timing and closure mechanism wording against the current Cambridge coursebook, as published accounts of the mechanism differ."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Venus fly trap timing and closure mechanism wording against the current Cambridge coursebook, as published accounts of the mechanism differ. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,6 +133,6 @@ Illustrative experiment. Barley grains were cut in half. Halves were placed, cut
 - **Describe** the role of gibberellin: list the steps in order from imbibition to sugar use, naming the aleurone layer and DELLA proteins.
 - With experimental data, calculate percentage changes from the starting value and say which hypothesis the results support.
 
-## Next steps
+## More on this topic
 
 Revise with the [15.2 revision notes](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge-revision-notes/) and test yourself with the [15.2 practice questions](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge-practice/). The DELLA mechanism is covered fully in the [gene control study guide](/resources/cambridge-a-level-biology-9700-gene-control/), and mammalian coordination in the [control and coordination in mammals study guide](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-mammals-cambridge/).

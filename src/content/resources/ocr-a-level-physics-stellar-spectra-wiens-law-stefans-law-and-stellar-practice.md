@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -139,7 +139,7 @@ Take the inverse sine of 2λ/d. Doubling the first order angle is a common mista
 **How much evidence do you need to identify an element in a star?**
 Check that a full set of the element's lines appears at the right wavelengths. A single matching line is weak evidence, because it may match more than one element.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-stellar-spectra-wiens-law-stefans-law-and-stellar-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-stellar-spectra-wiens-law-stefans-law-and-stellar/).
 - Visit the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [printable checklist](/checklists/ocr/a-level/physics/).

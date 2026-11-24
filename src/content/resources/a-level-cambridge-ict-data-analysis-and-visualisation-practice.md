@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ This formula is entered in B2 of the Mall worksheet and copied down to B5:
 - Choosing a pie chart to compare two shops across several products.
 - Forgetting to refresh a pivot table after the source data changes.
 
-## Next steps
+## More on this topic
 
 - [Data analysis and visualisation revision notes](/resources/a-level-cambridge-ict-data-analysis-and-visualisation-revision-notes/)
 - [Data analysis and visualisation study guide](/resources/a-level-cambridge-ict-data-analysis-and-visualisation/)

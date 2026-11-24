@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,7 +180,7 @@ Describe how the farmer could use **each** of the five methods in the syllabus t
 - Explaining intensive growth as "the pigs eat more".
 - Naming methods without linking them to the problem described.
 
-## Next steps
+## More on this topic
 
 - Re-read the [food supply study guide](/resources/cambridge-igcse-biology-0610-food-supply/) for any question you found hard.
 - Move on to the [habitat destruction practice questions](/resources/cambridge-igcse-biology-0610-habitat-destruction-practice/).

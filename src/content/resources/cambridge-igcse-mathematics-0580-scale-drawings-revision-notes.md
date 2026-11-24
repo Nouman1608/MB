@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Reason: north lines are parallel, so the angles at each end are co-interior (the
 11. 12 m ÷ 10 cm = 1.2 m per cm, so use **1 cm to 2 m** (1 : 200), giving 6 cm
 12. Triangle FGH is right-angled and isosceles, so H is 45° north of east: **045°**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [scale drawings study guide](/resources/cambridge-igcse-mathematics-0580-scale-drawings/).
 - Practise with the [scale drawings practice questions](/resources/cambridge-igcse-mathematics-0580-scale-drawings-practice/).

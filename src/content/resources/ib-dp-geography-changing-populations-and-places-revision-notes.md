@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -170,7 +170,7 @@ population to replace itself without migration. 8. Large numbers of mainly male 
 10. Intervening obstacles and personal factors. 11. For example an ageing population left behind,
 or income from remittances.
 
-## Related resources
+## More resources on this topic
 
 - [Population Distribution study guide](/resources/ib-dp-geography-population-distribution/)
 - [Population Distribution practice questions](/resources/ib-dp-geography-population-distribution-practice/)

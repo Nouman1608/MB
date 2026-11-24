@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopic **2.9 Graphs in practical situations**, from
@@ -229,7 +229,7 @@ A negative gradient on a speed–time graph means the object is decelerating. Th
 **What is a conversion graph?**
 A conversion graph shows the relationship between two units or quantities, such as two currencies or temperature scales, as a straight line. Once you know a value in one unit, you can read off its value in the other.
 
-## Related resources
+## More resources on this topic
 
 - [Sequences and Proportion](/resources/sequences-and-proportion/) — the
 previous subtopic

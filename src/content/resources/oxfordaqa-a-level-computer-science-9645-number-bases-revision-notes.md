@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -164,7 +164,7 @@ A value that is a power of 2 has a single 1 bit. A hex number ending in 0 is a m
 11. 219 ÷ 16 = 13 remainder 11, so DB.
 12. Floating point numbers and assembly language (any other topic where a conversion is part of the working).
 
-## Next steps
+## More on this topic
 
 - [Number bases study guide](/resources/oxfordaqa-a-level-computer-science-9645-number-bases/)
 - [Number bases practice questions](/resources/oxfordaqa-a-level-computer-science-9645-number-bases-practice/)

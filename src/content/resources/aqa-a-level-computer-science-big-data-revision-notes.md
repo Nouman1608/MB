@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Big Data (section 4.11 of AQA A-Level Computer Science 7517) is the catch-all term for data that will not fit
@@ -174,7 +174,7 @@ across multiple machines.
 If data can never be changed, several machines can work on it at the same time without interfering with each
 other, so no locks are needed and results are predictable.
 
-## Related resources
+## More resources on this topic
 
 [Big Data study guide](/resources/aqa-a-level-computer-science-big-data-study-guide/) |
 [Big Data practice questions](/resources/aqa-a-level-computer-science-7517-big-data-practice/) |

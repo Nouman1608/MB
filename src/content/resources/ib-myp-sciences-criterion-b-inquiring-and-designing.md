@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -155,7 +155,7 @@ Sufficient means enough measurements and repeats to answer the question. Relevan
 **Do I need to carry out the investigation for Criterion B?**
 Criterion B is about the design. Your teacher will say whether you also carry out the method, which then leads to Criterion C.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion B revision notes](/resources/ib-myp-sciences-criterion-b-inquiring-and-designing-revision-notes/), then test yourself with the [Criterion B practice questions](/resources/ib-myp-sciences-criterion-b-inquiring-and-designing-practice/). Continue to [Criterion C](/resources/ib-myp-sciences-criterion-c-processing-and-evaluating/), which uses the same investigation to show how to process and evaluate results.
 

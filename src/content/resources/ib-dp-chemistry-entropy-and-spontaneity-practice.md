@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Data for every question: R = 8.31 J K⁻¹ mol⁻¹, and T/K = t/°C + 273. Stan
 - Reading positive ΔG as "nothing happens" instead of "the reverse reaction is spontaneous".
 - Forgetting that a spontaneous reaction may still be slow.
 
-## Next steps
+## More on this topic
 
 - [Entropy and spontaneity revision notes](/resources/ib-dp-chemistry-entropy-and-spontaneity-revision-notes/)
 - [Entropy and spontaneity study guide](/resources/ib-dp-chemistry-entropy-and-spontaneity/)

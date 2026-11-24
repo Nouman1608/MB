@@ -22,6 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -165,7 +166,7 @@ Judgement: physical factors set the limits, but human factors decide whether sho
 - Extended answers with no judgement at the end.
 - Writing "manage water better" without naming a method.
 
-## Next steps
+## More on this topic
 
 Check gaps in the [water study guide](/resources/igcse-geography-0460-water/), then link water to irrigation in [food production](/resources/igcse-geography-0460-food-production/) and to access to services in the [development unit](/resources/igcse-geography-0460-development/). Try a [free diagnostic test](/diagnostics/) to find your weakest topics, or [Book a free trial class](/trial/) with one of our teachers.
 

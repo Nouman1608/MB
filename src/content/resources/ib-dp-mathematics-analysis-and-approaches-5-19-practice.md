@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ Learn the methods first in the [section 5.19 study guide](/resources/ib-dp-mathe
 - Ignoring the interval of validity, as tested in question 12(d).
 - Rounding intermediate terms in question 9 before adding them.
 
-## Next steps
+## More on this topic
 
 - Recap the formulae in the [section 5.19 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-5-19-revision-notes/).
 - Practise solving differential equations exactly with the [section 5.18 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-5-18-practice/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Links: the [study guide](/resources/oxfordaqa-a-level-economics-competitive-dyna
 - Calling perfect discrimination fair because the deadweight loss disappears.
 - Judging monopoly on static grounds only.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and/).
 - Use the [course hub](/boards/oxfordaqa/a-level/economics/), the [checklist](/checklists/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/).

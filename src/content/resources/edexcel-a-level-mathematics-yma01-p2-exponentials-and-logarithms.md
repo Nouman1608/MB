@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ This is the standard form of geometric-series and decay questions such as "after
 - **"Hence"** after a substitution such as "using y = 2ˣ" means you must use that substitution.
 - **Check solutions** of log equations in the original equation; one line of checking can save a mark lost to an invalid root.
 
-## Related resources
+## More resources on this topic
 
 - [P2 exponentials and logarithms revision notes](/resources/edexcel-a-level-mathematics-yma01-p2-exponentials-and-logarithms-revision-notes/)
 - [P2 exponentials and logarithms practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-exponentials-and-logarithms-practice/)

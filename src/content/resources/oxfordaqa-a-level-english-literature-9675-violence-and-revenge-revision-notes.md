@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ the full discussion of this aspect is in the
 12. There is no named wrong and no avenger, so suffering has no plot or meaning to resolve it; the
     absence becomes the play's comment on the human condition.
 
-## Next steps
+## More on this topic
 
 Work through the [violence and revenge practice questions](/resources/oxfordaqa-a-level-english-literature-9675-violence-and-revenge-practice/),
 then try a full essay using the [Unit 1 Section B practice set](/resources/oxfordaqa-a-level-english-literature-9675-unit-1-section-b-practice/).

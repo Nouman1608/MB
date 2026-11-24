@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ and 2 on the right. Increasing the pressure shifts the position to the right, gi
 3. For pressure, count gas molecules on each side.
 4. State the direction of shift and the effect on the amount of product.
 
-## Next steps
+## More on this topic
 
 - [Reversible reactions and dynamic equilibrium study guide](/resources/aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium/)
 - [Reversible reactions and dynamic equilibrium practice questions](/resources/aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium-practice/)

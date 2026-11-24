@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -184,7 +184,7 @@ placed on education; internet and digital resources.
 12. Any three: availability of schools; poverty; girls' access; class sizes; cultural values; internet
     and digital access.
 
-## Related resources
+## More resources on this topic
 
 - [Study guide for key question 5.3](/resources/cambridge-o-level-sociology-2251-kq-5-3/)
 - [Practice questions for key question 5.3](/resources/cambridge-o-level-sociology-2251-kq-5-3-practice/)

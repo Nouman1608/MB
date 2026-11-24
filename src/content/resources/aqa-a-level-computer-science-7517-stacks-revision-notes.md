@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ Push every character of "STACK", then pop until empty: "KCATS". The stack must h
 11. The stack must be empty.
 12. Only when the heap has no memory left for a new node.
 
-## Related resources
+## More resources on this topic
 
 - [Stacks study guide](/resources/aqa-a-level-computer-science-7517-stacks/)
 - [Stacks practice questions](/resources/aqa-a-level-computer-science-7517-stacks-practice/)

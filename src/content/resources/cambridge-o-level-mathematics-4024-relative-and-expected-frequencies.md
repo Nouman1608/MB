@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -227,7 +227,7 @@ A difference of 40 might arise by chance. A reasonable answer is that the coin c
 - **Explain** or **comment**: compare data with the expected values, and mention the number of trials.
 - When asked how to make the estimate more reliable, say: repeat the experiment more times.
 
-## Next steps
+## More on this topic
 
 Work through the [relative and expected frequencies practice questions](/resources/cambridge-o-level-mathematics-4024-relative-and-expected-frequencies-practice/) and recap with the [probability revision notes](/resources/o-level-mathematics-probability-revision-notes/).
 

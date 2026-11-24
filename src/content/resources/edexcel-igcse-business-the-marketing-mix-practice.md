@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ These questions cover Topic 4 Marketing, section 4.3 "The marketing mix" (points
 - Reaching no decision on an evaluate or justify question.
 - Forgetting to add fixed cost per unit for cost plus.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-business-the-marketing-mix-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-the-marketing-mix/).
 - Course hub: [4BS1 Business](/boards/edexcel/igcse/business/) and the [printable checklist](/checklists/edexcel/igcse/business/).

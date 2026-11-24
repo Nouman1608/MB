@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -134,7 +134,7 @@ These questions cover references A19 and A22 of section 3.2.3 of the OxfordAQA I
 - Forgetting to define the letters used.
 - Skipping the check that a solution is sensible (negative lengths, parts of people).
 
-## Next steps
+## More on this topic
 
 - Revise the key results: [revision notes](/resources/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems-revision-notes/)
 - Learn the methods from scratch: [study guide](/resources/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems/)

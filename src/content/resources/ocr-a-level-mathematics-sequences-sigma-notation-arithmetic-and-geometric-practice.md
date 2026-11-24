@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -152,7 +152,7 @@ If you divide by the logarithm of a number less than 1, you are dividing by a ne
 **How should you give n when the question asks for a number of years?**
 Give a whole number, and check the integers either side of your decimal answer to confirm which one first meets the condition.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/ocr-a-level-mathematics-sequences-sigma-notation-arithmetic-and-geometric-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-mathematics-sequences-sigma-notation-arithmetic-and-geometric/).

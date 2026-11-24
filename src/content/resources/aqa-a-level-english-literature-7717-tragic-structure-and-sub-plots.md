@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ endings to debate. Plan two or three structural points that cover beginning, tur
 ending, then use AO5 by weighing whether the resolution restores order. In Section A, open by
 placing the passage in the play's structure in one sentence, then analyse the passage itself.
 
-## Related resources
+## More resources on this topic
 
 - [Tragic structure revision notes](/resources/aqa-a-level-english-literature-7717-tragic-structure-and-sub-plots-revision-notes/)
 - [Tragic structure practice questions](/resources/aqa-a-level-english-literature-7717-tragic-structure-and-sub-plots-practice/)

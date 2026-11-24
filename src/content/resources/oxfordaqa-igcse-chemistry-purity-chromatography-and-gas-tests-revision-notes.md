@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes condense sections 3.4.1 Purity and chromatography and 3.4.2 Identification of common gases of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements a to e in each section. The qualification is untiered, so every line applies to everyone sitting the exam. The teaching and worked examples are in the [study guide for this unit](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/).
@@ -255,7 +255,7 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 - Writing "limewater turns cloudy" without saying the gas was bubbled through it.
 - Using smell as the test that tells ammonia and chlorine apart.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-practice/), then go back to the [study guide](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/) for anything you got wrong. The [exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/) covers technique across the course, and the [identification of ions guide](/resources/oxfordaqa-igcse-chemistry-identification-of-ions/) continues chemical analysis with flame tests and precipitates. Find weak spots with the [free 10-minute diagnostics](/diagnostics/).
 

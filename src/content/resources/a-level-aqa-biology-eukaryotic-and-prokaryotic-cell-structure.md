@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **3.2.1.1 Structure of eukaryotic cells** and
@@ -200,7 +200,7 @@ material, capsid, attachment protein.
 - Practise the structure-function-link answer format for at least three
 different organelles.
 
-## Related resources
+## More resources on this topic
 
 [Eukaryotic and Prokaryotic Cell Structure revision notes](/resources/aqa-a-level-biology-cell-structure-revision-notes/) |
 [Eukaryotic and Prokaryotic Cell Structure practice questions](/resources/aqa-a-level-biology-cell-structure-practice/)

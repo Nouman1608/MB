@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -182,7 +182,7 @@ The exploration also covers **identity construction**, **addressing and position
 12. Any three: how identity is constructed; how audiences are addressed and positioned; the functions of the texts;
     their structure and organisation; how representations are produced.
 
-## Related resources
+## More resources on this topic
 
 - [Textual variations and representations practice questions](/resources/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations-practice/)
 - [Paper 1 methods of language analysis revision notes](/resources/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2-revision-notes/)

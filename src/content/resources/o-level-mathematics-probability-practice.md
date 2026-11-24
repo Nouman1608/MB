@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -138,7 +138,7 @@ Multiply along a branch of a tree diagram for one route, and add the probabiliti
 **How should a probability answer be written in Cambridge O Level Mathematics?**
 Give a fraction, decimal or percentage between 0 and 1. A ratio such as 5:2, or a probability above 1, does not earn the mark.
 
-## Next steps
+## More on this topic
 
 - Visit the [Cambridge O Level Mathematics hub](/boards/cambridge/o-level/mathematics/) and the [printable checklist](/checklists/cambridge/o-level/mathematics/).
 - Re-read the [Probability study guide](/resources/o-level-mathematics-probability/) and the [revision notes](/resources/o-level-mathematics-probability-revision-notes/).

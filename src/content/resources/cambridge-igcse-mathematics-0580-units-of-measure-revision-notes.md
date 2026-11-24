@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ A door with an area of 2 cm², or a mug holding 300 litres, signals a conversion
 11. 4.5 × 2.8 = 12.6 m²; 12.6 ÷ 12 = **1.05 litres**
 12. 1800 ÷ 250 = 7.2, so **7 full bags**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [units of measure study guide](/resources/cambridge-igcse-mathematics-0580-units-of-measure/) and the earlier [units of measure, area and perimeter study guide](/resources/igcse-mathematics-0580-units-of-measure-area-and-perimeter/).
 - Practise with the [units of measure practice questions](/resources/cambridge-igcse-mathematics-0580-units-of-measure-practice/).

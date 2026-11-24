@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ State clearly whether the margin is gross or net, and give it as a percentage of
 **How do you answer a "recommend" question using financial information?**
 Use the figures given, such as forecast profit, ARR or break-even, to compare the options, then add a non-financial factor from the case. Finish by choosing one option and saying why it is better than the alternative.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business/) and the [revision notes](/resources/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business-revision-notes/).
 - Return to the [OCR GCSE Business hub](/boards/ocr/gcse/business/) and tick off topics on the [checklist](/checklists/ocr/gcse/business/).

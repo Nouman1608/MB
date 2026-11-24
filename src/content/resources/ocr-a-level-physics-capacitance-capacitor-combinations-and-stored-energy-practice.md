@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-23: brackets in Q11 working corrected (audit C7)"
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-23: brackets in Q11 working corrected (audit C7) 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -166,7 +166,7 @@ State what is measured, with which instruments, and how the capacitance is calcu
 **Which OCR A Level Physics A specification sections do these questions cover?**
 They follow the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), sections 6.1.1(a)–(e) and 6.1.2(a)–(c).
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy/).
 - Tick topics off on the [printable checklist](/checklists/ocr/a-level/physics/) and see the [OCR A Level Physics hub](/boards/ocr/a-level/physics/).

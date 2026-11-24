@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -166,7 +166,7 @@ Give efficiency as a percentage with a percentage sign, or clearly as a fraction
 **Should you round values during an energy calculation?**
 No. Carry full values through the working and round only at the end, otherwise the final answer can drift from the correct value.
 
-## Next steps
+## More on this topic
 
 - Go over the [revision notes](/resources/ocr-a-level-physics-work-energy-power-and-efficiency-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-work-energy-power-and-efficiency/).
 - Return to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick items off the [checklist](/checklists/ocr/a-level/physics/).

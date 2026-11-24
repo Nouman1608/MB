@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -290,7 +290,7 @@ Consider a particle rebounding elastically from one wall of a cube of side L, wi
 **Why is the root-mean-square speed used in kinetic theory?**
 The mean velocity of gas molecules is zero because they move randomly in all directions, so positive and negative components cancel. Squaring the velocities gives all-positive values, and the mean square speed is what emerges from the derivation.
 
-## Related resources
+## More resources on this topic
 
 - [Temperature](/resources/a-physics-temperature/) — the previous A Level topic
 - [Thermodynamics](/resources/a-physics-thermodynamics/) — the next A Level topic

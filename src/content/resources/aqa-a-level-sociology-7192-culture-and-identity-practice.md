@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Using this scenario, explain whether the Lantern Kids are better understood as a
 - Writing a one-sided essay on choice without testing it against class, racism or socialisation.
 - Leaving out a final judgement on "to what extent" questions.
 
-## Next steps
+## More on this topic
 
 Check your weak areas with the [diagnostics](/diagnostics/). Revisit the [study guide](/resources/aqa-a-level-sociology-7192-culture-and-identity/), then practise extended writing in other topics, such as the [education practice set](/resources/a-level-aqa-sociology-education-practice/) and the [crime and deviance practice set](/resources/a-level-aqa-sociology-crime-and-deviance-practice/). For research design questions, use the [methods in context practice](/resources/a-level-sociology-methods-in-context-practice/). Want help from a teacher? [Book a free trial class](/trial/).
 

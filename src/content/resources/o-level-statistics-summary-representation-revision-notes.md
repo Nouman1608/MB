@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -190,7 +190,7 @@ It expects both sides for at least one diagram type. Naming an advantage without
 **Are box-and-whisker and stem-and-leaf diagrams interchangeable?**
 No. A box-and-whisker diagram shows five key values, while a stem-and-leaf diagram keeps the full data set in ordered form.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O Level Statistics: Summary Representation of Data (4040)](/resources/o-level-cambridge-statistics-summary-representation-of-data/)
 - [Cambridge O Level Statistics: Data and Its Collection](/resources/o-level-cambridge-statistics-data-and-its-collection/)

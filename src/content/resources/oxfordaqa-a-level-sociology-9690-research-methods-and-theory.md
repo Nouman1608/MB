@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,7 +170,7 @@ value free"*:
 - Ending with "it depends" instead of a reasoned judgement.
 - Listing practical strengths and weaknesses of methods with no theoretical justification.
 
-## Next steps
+## More on this topic
 
 - [Research methods and theory (Unit 2) revision notes](/resources/oxfordaqa-a-level-sociology-9690-research-methods-and-theory-revision-notes/)
 - [Research methods and theory (Unit 2) practice questions](/resources/oxfordaqa-a-level-sociology-9690-research-methods-and-theory-practice/)

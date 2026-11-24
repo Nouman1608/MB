@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ CO₂ emissions.
 - **Give** or **State** an equation: balance every element; fractional O₂ coefficients are acceptable
   in combustion equations.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and self-test: [Alkanes revision notes](/resources/cambridge-a-level-chemistry-9701-as-alkanes-revision-notes/)
 - Exam-style questions and mark-scheme answers: [Alkanes practice questions](/resources/cambridge-a-level-chemistry-9701-as-alkanes-practice/)

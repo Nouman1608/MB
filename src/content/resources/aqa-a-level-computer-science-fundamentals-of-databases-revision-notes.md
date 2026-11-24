@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Fundamentals of databases (section 4.10 of AQA A-Level Computer Science 7517) covers designing a relational
@@ -192,7 +192,7 @@ update, insertion and deletion problems.
 Record locking stops other clients changing a record while one is editing it. Serialisation makes
 transactions run one after another so their changes cannot interleave.
 
-## Related resources
+## More resources on this topic
 
 [Fundamentals of databases study guide](/resources/aqa-a-level-computer-science-fundamentals-of-databases-study-guide/) |
 [Fundamentals of databases practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-databases-practice/) |

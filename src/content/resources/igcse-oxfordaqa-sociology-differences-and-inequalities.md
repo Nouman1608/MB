@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **3.2.1 Differences and inequalities** is the first topic of Paper 2 (Exploring Sociology) in
@@ -216,7 +216,7 @@ gender combine in the discrimination faced by Black women.
 **What did Walby mean by public patriarchy?** That women now take part in paid work and public life
 but continue to face disadvantage there, rather than being confined to the home.
 
-## Related resources
+## More resources on this topic
 
 - [Differences and Inequalities revision notes](/resources/igcse-oxfordaqa-sociology-differences-and-inequalities-revision-notes/)
 - [Differences and Inequalities practice questions](/resources/igcse-oxfordaqa-sociology-differences-and-inequalities-practice/)

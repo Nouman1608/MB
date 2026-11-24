@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -170,7 +170,7 @@ Topic 1 (Forces and their Effects) established force, motion and momentum; Energ
 - Name two renewable energy resources and state one advantage and one drawback of each.
 - Explain, in one sentence, why "energy loss" is imprecise language and what should be said instead.
 
-## Related resources
+## More resources on this topic
 
 - [Energy study guide](/resources/igcse-oxfordaqa-physics-energy/)
 - [Energy practice questions](/resources/oxfordaqa-igcse-physics-energy-practice/)

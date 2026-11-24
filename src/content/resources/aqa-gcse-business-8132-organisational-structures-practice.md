@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -106,7 +106,7 @@ These questions cover section 3.4.1 Organisational structures of AQA GCSE Busine
 - Mixing up delegation and decentralisation.
 - Giving a judgement that ignores the case, such as the type of work or staff experience.
 
-## Next steps
+## More on this topic
 
 - Review the worked structure change in the [Organisational structures study guide](/resources/aqa-gcse-business-8132-organisational-structures/).
 - Try the broader [Human resources practice set](/resources/aqa-gcse-business-human-resources-practice/).

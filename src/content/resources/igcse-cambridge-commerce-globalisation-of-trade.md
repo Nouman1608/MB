@@ -23,7 +23,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -208,7 +208,7 @@ Upstream covers the suppliers and raw materials before the enterprise, and downs
 **How do you calculate the Balance of Trade?**
 Subtract the value of imports of goods from the value of exports of goods. A positive result is a surplus and a negative result is a deficit.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge IGCSE Commerce: Commercial Operations (0715)](/resources/igcse-cambridge-commerce-commercial-operations/)
 - [Cambridge IGCSE Commerce: Commerce and Production (0715)](/resources/igcse-cambridge-commerce-commerce-and-production/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ Read the [study guide](/resources/ocr-a-level-economics-economies-of-scale-reven
 - Taking the profit-maximising price from the MC curve.
 - Calling every loss a reason to close without comparing price with AVC.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-economics-economies-of-scale-revenue-and-profit-revision-notes/).
 - Reread the [study guide](/resources/ocr-a-level-economics-economies-of-scale-revenue-and-profit/).

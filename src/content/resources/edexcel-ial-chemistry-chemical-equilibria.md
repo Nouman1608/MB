@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches outcomes 13.1 to 13.9, which make up Topic 13: Chemical Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Every outcome here falls within the International A2 (IA2) part of the course, in Unit 4: Rates, Equilibria and Further Organic Chemistry. The specification says it assumes and extends the equilibrium work from [Unit 2, Topic 9B](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/), and the [entropy outcomes of Topic 12](/resources/edexcel-ial-chemistry-entropy/) feed straight into 13.8.
@@ -253,7 +253,7 @@ Know what each of these suggested practicals measures.
 - Leaving ΔH in kJ mol⁻¹ while ΔSsystem is in J K⁻¹ mol⁻¹.
 - Claiming a large K means a fast reaction.
 
-## Next steps
+## More on this topic
 
 Condense this topic with the [chemical equilibria revision notes](/resources/edexcel-ial-chemistry-chemical-equilibria-revision-notes/), then test yourself on the [chemical equilibria practice questions](/resources/edexcel-ial-chemistry-chemical-equilibria-practice/). Record progress against each outcome on the [checklist](/checklists/edexcel/a-level/chemistry/) and find weak spots with the [diagnostics](/diagnostics/).
 

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -141,7 +141,7 @@ Use seating[row][seat], so with zero-based indexing seating[2][5] is the 3rd row
 **What is the disadvantage of a static data structure?**
 A static structure wastes memory if it is oversized and fails if it is undersized, because its size cannot change once created.
 
-## Related resources
+## More resources on this topic
 
 - [Arrays and Lists study guide](/resources/a-level-oxfordaqa-computer-science-arrays-and-lists/)
 - [Arrays and Lists practice questions](/resources/oxfordaqa-a-level-computer-science-arrays-lists-practice/)

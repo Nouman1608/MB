@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ Outline dependency theory as a Marxist, conflict account [1]. Frank (1966): metr
 - Arithmetic slips in natural increase: birth rate minus death rate, not the reverse.
 - Ending an "evaluate" or "to what extent" answer with no judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read sections 1 and 4 of the [study guide](/resources/aqa-a-level-sociology-7192-global-development/) if you lost marks on theories or aid.
 - Link globalisation to [crime and deviance practice questions](/resources/a-level-aqa-sociology-crime-and-deviance-practice/) on green and state crime.

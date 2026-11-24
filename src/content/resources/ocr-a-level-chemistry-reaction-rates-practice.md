@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ C₃H₈ + 5O₂ → 3CO₂ + 4H₂O
 - Using the wrong mole ratio for CO₂ from a fuel, as in question 9.
 - Listing control variables in a plan without saying how each is controlled.
 
-## Next steps
+## More on this topic
 
 - Rules in brief: [Reaction rates revision notes](/resources/ocr-a-level-chemistry-reaction-rates-revision-notes/)
 - Teaching and examples: [Reaction rates study guide](/resources/ocr-a-level-chemistry-reaction-rates/)

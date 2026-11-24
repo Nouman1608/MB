@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the procedural details given for Fox et al. (1987) (stamp rules, team penalties, cost savings) and the outcomes given for Lewin et al. (1992)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the procedural details given for Fox et al. (1987) (stamp rules, team penalties, cost savings) and the outcomes given for Lewin et al. (1992). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,7 +148,7 @@ Information campaigns assume that people will change once they know what to do. 
 
 **Describe** questions on strategies need the method of persuasion plus a supporting study. **Evaluate** questions can use the issues listed for 3.5: individual and situational explanations, cultural differences, longitudinal studies, objective and subjective data, ethics, use of children in research and psychometrics. **Compare** fear arousal with providing information by noting that both aim to change beliefs, but one works through emotion and the other through knowledge.
 
-## Related resources
+## More resources on this topic
 
 - [Health promotion revision notes](/resources/cambridge-a-level-psychology-9990-health-promotion-revision-notes/)
 - [Health promotion practice questions](/resources/cambridge-a-level-psychology-9990-health-promotion-practice/)

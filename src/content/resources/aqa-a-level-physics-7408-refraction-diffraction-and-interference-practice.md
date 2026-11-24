@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ These questions cover section 3.3.2 Refraction, diffraction and interference (3.
 - Writing sin θc = n₁/n₂.
 - Confusing the cause of modal dispersion (paths) with material dispersion (wavelengths).
 
-## Next steps
+## More on this topic
 
 Review the [refraction, diffraction and interference study guide](/resources/aqa-a-level-physics-7408-refraction-diffraction-and-interference/), then mix topics with the [Waves practice questions](/resources/aqa-a-level-physics-waves-practice/). The first half of the topic is practised in the [progressive and stationary waves practice questions](/resources/aqa-a-level-physics-7408-progressive-and-stationary-waves-practice/).
 

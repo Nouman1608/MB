@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -208,7 +208,7 @@ which is not a printable character. A complete version would test each code is i
 11. `+` cannot join a string and an integer in many languages; convert with `INT_TO_STRING(points)` first.
 12. String to real (`STRING_TO_REAL`).
 
-## Related resources
+## More resources on this topic
 
 - [String handling study guide](/resources/oxfordaqa-igcse-computer-science-9210-string-handling-operations/)
 - [String handling practice questions](/resources/oxfordaqa-igcse-computer-science-9210-string-handling-operations-practice/)

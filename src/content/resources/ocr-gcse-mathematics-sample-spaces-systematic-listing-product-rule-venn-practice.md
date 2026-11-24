@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ Dog only: 14 | Both: 8 | Cat only: 11 | Neither: 17   (total 50)
 - Keeping the same number of choices at every stage when choices cannot repeat.
 - Writing set-builder notation without saying what type of number x is.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn/) and [revision notes](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn-revision-notes/).
 - Visit the [hub](/boards/ocr/gcse/mathematics/) and [checklist](/checklists/ocr/gcse/mathematics/).

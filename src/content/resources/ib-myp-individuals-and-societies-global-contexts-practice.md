@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-10-04
 featured: false
 ---
@@ -133,7 +133,7 @@ Evaluate the three questions, choose the best, and improve Q1. **[5]**
 - Action plans with methods but no order, timing or permissions.
 - Extended answers that list topics but never show how the context changes the inquiry.
 
-## Next steps
+## More on this topic
 
 - Review the [global contexts revision notes](/resources/ib-myp-individuals-and-societies-global-contexts-revision-notes/).
 - Reread the [global contexts study guide](/resources/ib-myp-individuals-and-societies-global-contexts/).

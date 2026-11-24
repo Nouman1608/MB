@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ Evaluate which unit Brambleton Pottery should choose. **[9]**
 - Ending an evaluation with a summary of the points and no judgement.
 - Describing the plan's purpose only as raising finance and leaving out setting objectives, starting up and organising functions.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-gcse-business-business-location-and-business-planning/) for anything you missed.
 - Condense your learning with the [revision notes](/resources/aqa-gcse-business-business-location-and-business-planning-revision-notes/).

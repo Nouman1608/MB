@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers section 4.3 Capacity utilisation and outsourcing (4.3.1 and 4.3.2) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It sits in Topic 4, Operations management, which is an AS Level topic. The syllabus says AS Level content is assumed knowledge for the A Level papers on decision-making and strategy, so it is worth knowing well even if you go on to the full A Level.
 
@@ -210,7 +210,7 @@ End an evaluation with a judgement that answers the question, not a summary.
 - Calling outsourcing "cheaper" without comparing costs at the business's actual volume.
 - Confusing outsourcing with simply buying raw materials.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing-revision-notes/), then the [practice set](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing-practice/). Tick off the topic on the [checklist](/checklists/cambridge/a-level/business/) and find weak spots with the [diagnostics](/diagnostics/).
 

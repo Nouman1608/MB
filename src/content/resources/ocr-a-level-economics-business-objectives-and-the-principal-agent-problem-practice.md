@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Questions 2 to 4, 6 and 10 use Firm Beta, a made-up producer. Output (Q) is in t
 - Treating CSR as only a cost.
 - Ending 10-mark answers without a judgement and a reason for it.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem/) for any weak area.
 - Use the [revision notes](/resources/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem-revision-notes/) for a final recap.

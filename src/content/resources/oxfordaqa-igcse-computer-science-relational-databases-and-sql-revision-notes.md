@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Relational databases and SQL (topic 3.7 of OxfordAQA International GCSE Computer Science 9210) covers what a
@@ -192,7 +192,7 @@ a primary key value, linking the two tables.
 Data about each thing is stored once in its own table and linked by keys, so the same data does not need to be
 repeated in many records.
 
-## Related resources
+## More resources on this topic
 
 [Relational databases and SQL study guide](/resources/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide/) |
 [Relational databases and SQL practice questions](/resources/oxfordaqa-igcse-computer-science-relational-databases-and-sql-practice/) |

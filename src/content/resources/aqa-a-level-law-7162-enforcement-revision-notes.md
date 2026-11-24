@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -166,7 +166,7 @@ Strasbourg, "no more, but certainly no less". 11. Illegality, irrationality and 
 from Council of Civil Service Unions v Minister for the Civil Service (1985). 12. Proportionality, a more
 intense standard of review than irrationality, applies where Convention rights are engaged.
 
-## Related resources
+## More resources on this topic
 
 [Enforcement study guide](/resources/aqa-a-level-law-7162-enforcement/) |
 [Enforcement practice questions](/resources/aqa-a-level-law-7162-enforcement-practice/) |

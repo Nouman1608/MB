@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Data representation (topic 3.3 of OxfordAQA International GCSE Computer Science 9210) explains how numbers,
@@ -221,7 +221,7 @@ special symbols, and it keeps the same codes as ASCII for the first 128.
 **What does a logical left shift of one place do?**
 It moves every bit one place to the left and puts a 0 on the right, which multiplies the value by 2.
 
-## Related resources
+## More resources on this topic
 
 [Data representation study guide](/resources/oxfordaqa-igcse-computer-science-data-representation-study-guide/) |
 [Data representation practice questions](/resources/oxfordaqa-igcse-computer-science-data-representation-practice/) |

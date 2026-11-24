@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches the HL geometry unit on radians, the unit circle, matrix transformations and vectors in IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 3.7–3.13, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -340,7 +340,7 @@ along b: 4/√21 = 0.873;  perpendicular: √278/√21 = 3.64
 - In kinematics, mixing up r₀ (position) and v (velocity), or forgetting the constant of integration.
 - Giving a GDC answer with no written equation or sketch.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors-practice/). The [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), [subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/) and [exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/) cover the whole course.
 

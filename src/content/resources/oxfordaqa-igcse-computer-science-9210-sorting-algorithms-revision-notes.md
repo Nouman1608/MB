@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -173,7 +173,7 @@ Comparisons for a reverse-ordered list: 100 items need 9,900 for bubble sort and
 10. The first line overwrites `data[i]`, so both positions end up holding the same value; a temporary variable is
     needed.
 
-## Related resources
+## More resources on this topic
 
 - [Sorting algorithms study guide](/resources/oxfordaqa-igcse-computer-science-9210-sorting-algorithms/)
 - [Sorting algorithms practice questions](/resources/oxfordaqa-igcse-computer-science-9210-sorting-algorithms-practice/)

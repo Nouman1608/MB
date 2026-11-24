@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,6 +173,6 @@ When drawing diffracted wavefronts, keep the **spacing the same** before and aft
 - **Draw** wavefronts: use a ruler; keep spacing correct (equal for reflection and diffraction; closer in the slower region for refraction).
 - **Explain** *(Extended)*: compare the gap width with the wavelength in your answer.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes on general properties of waves](/resources/cambridge-igcse-physics-0625-general-properties-of-waves-revision-notes/) and practise with the [practice questions on general properties of waves](/resources/cambridge-igcse-physics-0625-general-properties-of-waves-practice/). The same ideas are applied to light in the [study guide on light](/resources/cambridge-igcse-physics-0625-light/) and to sound in the [study guide on sound](/resources/cambridge-igcse-physics-0625-sound/).

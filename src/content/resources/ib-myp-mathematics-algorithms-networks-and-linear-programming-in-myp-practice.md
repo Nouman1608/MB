@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ No. In a weighted network the length of a path is the sum of the weights on its 
 **What should a linear programming answer include?**
 Give the best value of the objective function together with the point where it happens, answered in context, such as how many of each item to make. A value without the point is incomplete.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp-revision-notes/)
 - [Study guide](/resources/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp/)

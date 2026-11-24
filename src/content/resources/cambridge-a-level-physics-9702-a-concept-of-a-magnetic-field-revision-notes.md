@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -114,7 +114,7 @@ A **magnetic field** is a region in which a **moving charge**, a **current-carry
 
 **Answers:** 1. Moving charges (including currents) and permanent magnets. 2. … a moving charge, a current-carrying conductor or a magnetic material experiences a force. 3. No. 4. The direction of the field (tangent and arrow) and its relative strength (spacing). 5. The field has only one direction at each point; crossing lines would give two. 6. From S to N, completing the closed loop. 7. Parallel, equally spaced straight lines with arrows in the same direction. 8. A uniform field directed out of the page. 9. Midway between the two south poles. 10. Magnetic lines form closed loops; electric lines start on positive charge and end on negative charge. 11. The current produces a magnetic field, so the coil behaves like a magnet with N and S faces; the face nearer an opposite pole attracts it. 12. Along the Earth's magnetic field (roughly north), since the magnets' fields cancel there.
 
-## Related resources
+## More resources on this topic
 
 - [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-revision-notes/) — the whole of Topic 20
 - [Concept of a magnetic field practice questions](/resources/cambridge-a-level-physics-9702-a-concept-of-a-magnetic-field-practice/)

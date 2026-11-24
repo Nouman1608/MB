@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the current magistrates' retirement age and custodial sentencing limit, the juror age limits and disqualification rules, and the statement that the Courts Act 2003 replaced much of the Justices of the Peace Act 1979, since these have changed since the Issue 4 specification was published."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the current magistrates' retirement age and custodial sentencing limit, the juror age limits and disqualification rules, and the statement that the Courts Act 2003 replaced much of the Justices of the Peace Act 1979, since these have changed since the Issue 4 specification was published. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,6 +174,6 @@ Jury deliberations are secret; disclosing them is an offence (now under the Juri
 - Writing that police officers can never sit as jurors: after the 2003 Act they can, subject to *Abdroikov*.
 - Listing advantages without cases or a conclusion.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [magistrates and jurors revision notes](/resources/edexcel-a-level-law-yla1-magistrates-and-juries-revision-notes/), then test yourself with the [magistrates and jurors practice questions](/resources/edexcel-a-level-law-yla1-magistrates-and-juries-practice/).

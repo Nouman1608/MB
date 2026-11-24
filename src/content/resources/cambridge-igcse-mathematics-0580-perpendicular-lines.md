@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ x + 2(2x + 1) = 8  ->  5x = 6  ->  x = 1.2,  y = 3.4
 - **Show that** lines are perpendicular: give both gradients, multiply, state that the product is –1, and conclude.
 - On Paper 2 keep everything as fractions; on Paper 4 exact decimals such as 8.75 are fine.
 
-## Next steps
+## More on this topic
 
 - Recap with the [perpendicular lines revision notes](/resources/cambridge-igcse-mathematics-0580-perpendicular-lines-revision-notes/) and practise with the [perpendicular lines practice questions](/resources/cambridge-igcse-mathematics-0580-perpendicular-lines-practice/).
 - Revisit midpoints in the [length and midpoint study guide](/resources/cambridge-igcse-mathematics-0580-length-and-midpoint/) and the chord and tangent properties in the [Circle theorems II study guide](/resources/igcse-mathematics-0580-circle-theorems-ii/).

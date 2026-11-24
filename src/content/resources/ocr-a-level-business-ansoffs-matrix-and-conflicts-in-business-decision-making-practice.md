@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ Strengths and limitations, followed by a judgement about how far the model helps
 **How do you recommend a growth strategy in an exam answer?**
 Rank the options against the business's objective and the cash available, and say why the rejected options are weaker as well as why your choice is good.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making-revision-notes/) and the [study guide](/resources/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making/).
 - Visit the [OCR A Level Business hub](/boards/ocr/a-level/business/) and the [checklist](/checklists/ocr/a-level/business/).

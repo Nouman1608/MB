@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,6 +153,6 @@ The ratio of the wavelengths, 2.0/3.0, equals the ratio of the speeds. If a ques
 - **Describe** the motion of a particle: give the direction and whether it is speeding up, slowing down or momentarily at rest.
 - **Show that**: every step must be visible, and the final value should be given to one more significant figure than the value you were asked to show.
 
-## Next steps
+## More on this topic
 
 Condense the ideas with the [progressive waves revision notes](/resources/oxfordaqa-a-level-physics-9630-progressive-waves-revision-notes/), then test yourself with the [progressive waves practice questions](/resources/oxfordaqa-a-level-physics-9630-progressive-waves-practice/). The next subtopic, 3.5.4, is covered in the [longitudinal and transverse waves study guide](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa/).

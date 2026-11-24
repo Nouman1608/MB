@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ One for each step that uses a geometrical fact. If a question says "give reasons
 **How can I check an angle answer?**
 Use a different fact on the same diagram: the angles of the triangle or quadrilateral you found should still add to 180° or 360°.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [angles study guide](/resources/cambridge-igcse-mathematics-0580-angles/).
 - Recap with the [angles revision notes](/resources/cambridge-igcse-mathematics-0580-angles-revision-notes/).

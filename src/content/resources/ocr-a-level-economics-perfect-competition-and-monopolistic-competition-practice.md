@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ It is horizontal at the market price, because the firm is a price taker and its 
 **How do you describe entry in a market structure question?**
 Say what changes and why. In perfect competition, supernormal profit attracts entrants, market supply shifts right and price falls; in monopolistic competition, entrants take customers, so each firm's demand curve shifts left until only normal profit remains.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-perfect-competition-and-monopolistic-competition-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-perfect-competition-and-monopolistic-competition/).
 - Visit the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [printable checklist](/checklists/ocr/a-level/economics/).

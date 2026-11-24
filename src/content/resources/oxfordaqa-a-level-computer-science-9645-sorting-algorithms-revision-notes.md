@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -164,7 +164,7 @@ Worst-case comparisons: 100 items, 4,950 (bubble) against 573 (merge); 1,000 ite
 11. It finds a pass with no swaps early and stops.
 12. Swaps 5/1, 5/4, 5/2, giving [1, 4, 2, 5, 8] (8 stays at the end).
 
-## Next steps
+## More on this topic
 
 - [Sorting algorithms study guide](/resources/oxfordaqa-a-level-computer-science-9645-sorting-algorithms/)
 - [Sorting algorithms practice questions](/resources/oxfordaqa-a-level-computer-science-9645-sorting-algorithms-practice/)

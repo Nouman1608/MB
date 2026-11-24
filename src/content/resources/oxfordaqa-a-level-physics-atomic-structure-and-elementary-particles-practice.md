@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-atomic-structure-and
 - Leaving energies in MeV when joules are requested, or using MeV with the Planck constant.
 - Giving a vague "not enough energy" with no threshold figure.
 
-## Next steps
+## More on this topic
 
 - Recall notes: [revision notes](/resources/oxfordaqa-a-level-physics-atomic-structure-and-elementary-particles-revision-notes/)
 - Full explanations: [study guide](/resources/oxfordaqa-a-level-physics-atomic-structure-and-elementary-particles/)

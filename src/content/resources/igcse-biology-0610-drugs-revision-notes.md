@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense topic 15 (Drugs) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, section 15.1. Outcomes 15.1.1 to 15.1.4 are Core (Papers 1 and 3, and needed by Extended candidates too); outcome 15.1.5 is Supplement, labelled "Extended only" here and tested on Papers 2 and 4. For full explanations and worked examples, use the [Drugs study guide](/resources/igcse-biology-0610-drugs/).
@@ -210,7 +210,7 @@ Cover the answers and try each question first.
 - Claiming data "prove" that less antibiotic use caused a fall in resistance. Use "suggests" or "is consistent with".
 - Forgetting that resistant bacteria pass on resistance when they **reproduce** -- survival alone does not change the population.
 
-## Next steps
+## More on this topic
 
 Try the [Drugs practice questions](/resources/igcse-biology-0610-drugs-practice/), then move to topic 16 with the [Reproduction revision notes](/resources/igcse-biology-0610-reproduction-revision-notes/).
 

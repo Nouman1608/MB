@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ These questions cover section 2.4 Motivation and rewards (points 2.4.1 and 2.4.2
 - Calculating a percentage change on the new figure instead of the original.
 - Recommending a costly option without comparing it with the cheaper one.
 
-## Next steps
+## More on this topic
 
 - Return to the [motivation and rewards study guide](/resources/edexcel-igcse-business-4bs1-motivation-and-rewards/) for the theory table.
 - Recheck terms in the [motivation and rewards revision notes](/resources/edexcel-igcse-business-4bs1-motivation-and-rewards-revision-notes/).

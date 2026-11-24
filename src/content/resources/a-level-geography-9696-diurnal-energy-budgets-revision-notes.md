@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -165,7 +165,7 @@ These are typical ranges; use the figures given in a question if they differ.
 
 **Answers:** 1. The proportion of incoming solar radiation reflected by a surface. 2. Latent heat. 3. Cloud returns longwave radiation to the surface; clear skies let it escape. 4. Heating the ground, sensible heat to the air, evaporation (latent heat). 5. There is no shortwave input but longwave is still lost. 6. Energy goes into evaporation as latent heat. 7. Incoming solar radiation, reflected solar radiation, surface absorption, sensible heat transfer, longwave radiation, latent heat transfer. 8. Net radiation stays positive into the early afternoon. 9. Dry air and clear skies: little latent heat use by day and strong longwave loss at night. 10. Air warming with height near the ground; the cold, dense layer does not rise, so pollutants stay trapped. 11. It mixes warmer air down to the surface, reducing cooling. 12. Fresh snow.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

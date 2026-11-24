@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,7 +204,7 @@ Solve dy/dx = 0 to find the x-coordinate, then substitute that value into the eq
 **Which way does f(x + a) move a graph?**
 y = f(x + a) is a translation of a units to the left, and only the x-coordinates change. Moving the graph the wrong way, or changing the y-coordinates as well, is a common error.
 
-## Next steps
+## More on this topic
 
 - Refresh the formulas: [revision notes](/resources/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs-revision-notes/)
 - Re-learn anything you missed: [study guide](/resources/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs/)

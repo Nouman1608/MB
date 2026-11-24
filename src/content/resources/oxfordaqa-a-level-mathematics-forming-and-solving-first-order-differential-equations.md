@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section P2.8 (Differential equations) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. Unit P2 (Pure Maths) is part of the International A-level (A2), and this content does not appear at International AS. You need two skills: forming a simple differential equation from a description, including growth and decay, and solving a first-order equation with separable variables, including in practical problems.
@@ -257,7 +257,7 @@ At t = 5 hours the amount is 15.5 mg (3 s.f.). Rate in minus rate out is the pat
 - Forgetting the units or the meaning of t = 0 in a context question.
 - Leaving a solution as ln y = ... when the question asks for y in terms of x or t.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations-practice/). Integration skills from Unit P1 are reviewed in the [Pure Maths 1 study guide](/resources/a-level-oxfordaqa-mathematics-unit-p1/). Use the [free 10-minute diagnostics](/diagnostics/) to find weak areas.
 

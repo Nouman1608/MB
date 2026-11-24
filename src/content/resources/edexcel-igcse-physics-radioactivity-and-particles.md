@@ -24,7 +24,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -273,7 +273,7 @@ Contamination means radioactive material has been transferred onto or into an ob
 **How is radiation detected at Edexcel IGCSE?**
 The specification names photographic film and the Geiger-Müller detector as detection methods.
 
-## Related resources
+## More resources on this topic
 
 - [Magnetism and Electromagnetism](/resources/edexcel-igcse-physics-magnetism-and-electromagnetism/) — the previous topic
 - [Astrophysics](/resources/edexcel-igcse-physics-astrophysics/) — the final topic

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ They are equal. Use either unless the question asks for a rationalised denominat
 **Why is tan 90° not in the syllabus list?**
 tan 90° has no value: in the triangle the adjacent side becomes zero, and you cannot divide by zero.
 
-## Next steps
+## More on this topic
 
 - Consolidate with the [exact trigonometric values revision notes](/resources/cambridge-igcse-mathematics-0580-exact-trigonometric-values-revision-notes/).
 - Practise with the [exact trigonometric values practice questions](/resources/cambridge-igcse-mathematics-0580-exact-trigonometric-values-practice/).

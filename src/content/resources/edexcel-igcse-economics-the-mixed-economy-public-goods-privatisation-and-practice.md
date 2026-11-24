@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Use the exact terms non-excludable and non-rival, and explain each. Writing "sha
 **How do you evaluate privatisation in an Edexcel IGCSE Economics answer?**
 Weigh the gains, such as sale proceeds and a profit motive that may cut costs, against the losses, such as higher prices and job cuts. Reach a judgement that depends on the facts given, especially whether the firm will face competition.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and-revision-notes/).
 - Reread the [study guide](/resources/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and/).

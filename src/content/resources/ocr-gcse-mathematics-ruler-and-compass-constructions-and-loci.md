@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows section 8.02 (Ruler and compass constructions) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026): 8.02a to 8.02d. All of it is Foundation and Higher content, so no part of it is restricted to the Higher tier. The specification says any content may be assessed on either the calculator or the non-calculator papers. Constructions are done by hand, with a ruler and a pair of compasses.
@@ -273,7 +273,7 @@ Most loci problems are set on a scale drawing. Convert each distance to centimet
 - Shading the wrong side of a boundary.
 - Not converting the scale before drawing.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci-revision-notes/) to check recall. Return to the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) for other topics.
 

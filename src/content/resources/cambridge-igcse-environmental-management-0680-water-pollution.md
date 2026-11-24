@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -169,6 +169,6 @@ Why it scores: each sentence is one step, and every step causes the next. A weak
 
 **Describe** questions want named sources or features in context, with a short detail for each. **Explain** questions want a reason or mechanism: use "because", "so" and "which leads to". **Discuss the benefits and limitations** is not in 3.2's wording, but strategy questions on Paper 2 may still ask you to evaluate them, so learn one benefit and one limitation for each. In data questions, quote figures with their units and do any calculation step by step, as in the first worked example.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [water pollution revision notes](/resources/cambridge-igcse-environmental-management-0680-water-pollution-revision-notes/), then test yourself with the [water pollution practice questions](/resources/cambridge-igcse-environmental-management-0680-water-pollution-practice/).

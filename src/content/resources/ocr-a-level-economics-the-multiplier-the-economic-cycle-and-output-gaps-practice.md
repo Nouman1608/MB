@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ Subtract potential output from actual output and divide by potential output, the
 **How do you write a good evaluation on output gaps in OCR A Level Economics?**
 Judge which causes or consequences matter most rather than listing them, and when you say "it depends", say what it depends on, such as the size of the gap or how long it lasts.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps/).
 - Try the [macroeconomics practice set](/resources/ocr-a-level-economics-macroeconomics-practice/).

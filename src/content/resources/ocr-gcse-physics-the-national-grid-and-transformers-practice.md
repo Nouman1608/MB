@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ These questions cover statements P8.2c to P8.2f of topic P8.2, Powering Earth, i
 - Saying a transformer increases the power, rather than trading potential difference for current.
 - Answering a Higher Tier only question by recall, without linking turns, potential difference and power.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-gcse-physics-the-national-grid-and-transformers-revision-notes/)
 - [Study guide](/resources/ocr-gcse-physics-the-national-grid-and-transformers/)

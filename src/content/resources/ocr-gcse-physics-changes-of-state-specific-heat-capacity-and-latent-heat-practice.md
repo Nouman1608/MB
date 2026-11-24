@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ Say that the same particles remain in the system and are only rearranged, so not
 **How do you solve a multi-stage heating problem?**
 Split it into stages: use E = mcΔθ for each temperature change and E = mL for each change of state, then add the energies. Sketching the temperature-time graph first helps you spot every stage.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat/).
 - Go to the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and tick off the [checklist](/checklists/ocr/gcse/physics/).

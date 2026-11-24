@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -192,7 +192,7 @@ For the practice database (4 members, 4 books, 6 loans, three not returned):
 11. The table it refers to.
 12. Sorts the results from largest to smallest.
 
-## Related resources
+## More resources on this topic
 
 - [SQL study guide](/resources/aqa-a-level-computer-science-7517-structured-query-language-sql/)
 - [SQL practice questions](/resources/aqa-a-level-computer-science-7517-structured-query-language-sql-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ At each price, count only the units whose cost is at or below that price, adjust
 **What must I include when I identify a change in a demand or supply question?**
 Say whether it is a movement or a shift and give its direction, such as a shift to the left or a contraction along the curve.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements-revision-notes/).
 - Learn the full explanations in the [study guide](/resources/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements/).

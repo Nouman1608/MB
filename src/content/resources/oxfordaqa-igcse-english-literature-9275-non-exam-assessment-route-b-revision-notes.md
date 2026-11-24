@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -214,7 +214,7 @@ events, so the reader can judge the gap between his account and his actions. 11.
 acknowledge the source, then test it against a moment in the text and give your own judgement.
 12. For example: "How far does the ending resolve the novel's conflict between ambition and duty?"
 
-## Related resources
+## More resources on this topic
 
 - [Non-exam assessment practice tasks](/resources/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b-practice/)
 - [Route B revision notes](/resources/igcse-oxfordaqa-english-literature-route-b-revision-notes/)

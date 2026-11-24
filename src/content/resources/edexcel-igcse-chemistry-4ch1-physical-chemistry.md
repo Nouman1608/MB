@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -346,7 +346,7 @@ Adding a catalyst → no change in the amount of SO₃ at equilibrium
 - Saying higher temperature only makes particles "collide more". Add that more collisions have energy equal to or greater than the activation energy.
 - Writing that at equilibrium the concentrations are equal, or that the reaction has stopped.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [Physical chemistry practice questions](/resources/edexcel-igcse-chemistry-physical-chemistry-practice/), then use the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-physical-chemistry-revision-notes/) for the final weeks. Moles are in the [Principles of chemistry study guide](/resources/igcse-edexcel-chemistry-principles-of-chemistry/). The next topic is [Organic chemistry](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry/).
 

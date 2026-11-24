@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -229,7 +229,7 @@ but has a different mass.
 - **State the conditions:** write "at room temperature and pressure" when giving 24 dm³.
 - **Check the size:** a gas volume in dm³ should usually be of the order of a few dm³ for a few grams of a light gas.
 
-## Next steps
+## More on this topic
 
 - [Volumes of gases revision notes](/resources/aqa-gcse-chemistry-8462-volumes-of-gases-revision-notes/)
 - [Volumes of gases practice questions](/resources/aqa-gcse-chemistry-8462-volumes-of-gases-practice/)

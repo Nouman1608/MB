@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ A programmer working at one layer can ignore the detail of the layers below. Thi
 11. A piece of work that can be named and described.
 12. Different programmers can write different parts at the same time.
 
-## Next steps
+## More on this topic
 
 - [Abstraction and decomposition study guide](/resources/oxfordaqa-a-level-computer-science-9645-abstraction-decomposition/)
 - [Abstraction and decomposition practice questions](/resources/oxfordaqa-a-level-computer-science-9645-abstraction-decomposition-practice/)

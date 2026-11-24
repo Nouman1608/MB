@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Two lines are visible: 478 nm (blue) and 691 nm (red). *Annotation.* The largest
 - **Calculate** (wavelength or frequency of a line): find ΔE, convert to joules, then use hf = ΔE or λ = hc/ΔE.
 - **Determine** (number of lines): n(n − 1)/2, or draw every possible downward arrow.
 
-## Related resources
+## More resources on this topic
 
 - [Quantum Physics study guide](/resources/a-physics-quantum-physics/) — the whole of Topic 22
 - [Energy levels and line spectra revision notes](/resources/cambridge-a-level-physics-9702-a-energy-levels-in-atoms-and-line-spectra-revision-notes/)
