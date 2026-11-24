@@ -16,6 +16,7 @@ import { activeOnly, academicHubPath, type Combination } from '../../../../../ut
 import { getEntry } from 'astro:content';
 import { routes } from '../../../../../utils/urls/routes';
 import { deckExamInfo } from '../../../../../data/flashcards/exam-years';
+import IbTrademarkNote from '../../../../../components/ib/IbTrademarkNote.astro';
 
 export function getStaticPaths() {
   return FLASHCARD_DECKS.flatMap((deck) => {
@@ -87,4 +88,5 @@ const fromNotes = deck.cards.filter((x) => x.origin === 'revision-notes').length
       </div>
     </Container>
   </Section>
+  {c.boardSlug === 'ib' && <IbTrademarkNote />}
 </PageLayout>

@@ -23,6 +23,7 @@ import { recordRtlLang, nameRtlLang } from '../../../../utils/academic/rtl-names
 import { taughtOnly } from '../../../../utils/academic';
 import { PRICING_TERMS, isOneToOneOnlyCourse } from '../../../../data/pricing';
 import ResourceTutoringPrompt from '../../../../components/tools/ResourceTutoringPrompt.astro';
+import IbTrademarkNote from '../../../../components/ib/IbTrademarkNote.astro';
 
 export async function getStaticPaths() {
   const activeKeys = new Set(activeOnly().map((c) => `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`));
@@ -132,6 +133,7 @@ const promptTrialHref = `/trial/?course=${encodeURIComponent(courseKey)}${oneToO
       )}
     </Container>
   </Section>
+  {board === 'ib' && <IbTrademarkNote />}
 </BaseLayout>
 
 <style>

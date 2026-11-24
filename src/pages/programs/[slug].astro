@@ -20,6 +20,7 @@ import { relatedResources } from '../../utils/content/related';
 import { courseNode } from '../../utils/schema/course';
 import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
+import IbTrademarkNote from '../../components/ib/IbTrademarkNote.astro';
 
 export async function getStaticPaths() {
   const programs = await getPrograms();
@@ -265,4 +266,5 @@ const jsonLd = [
     buttonLabel={cta.label}
     buttonHref={cta.href}
   />
+  {program.id === 'ib' && <IbTrademarkNote />}
 </PageLayout>

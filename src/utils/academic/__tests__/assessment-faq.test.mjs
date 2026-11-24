@@ -6,9 +6,11 @@ import { assessmentAnswer, isStagedAsA, sourceKind, TIER_LABEL } from '../assess
 const answer = (a) => assessmentAnswer(a, { courseLabel: 'X', boardName: 'Board' });
 const find = (code) => ASSESSMENTS.find((a) => a.code === code && a.specStatus === 'current');
 
-// D-448 finding C: the exact defect -- HL figures with no level named.
-test('IB DP Biology (HL-only record) names HL and says SL is not listed', () => {
-  const s = answer(find('DP Biology'));
+// D-448 finding C: the exact defect -- HL figures with no level named. DP Biology now has SL rows
+// (audit round 3), so the HL-only case is built from its HL rows.
+test('an HL-only record names HL and says SL is not listed', () => {
+  const bio = find('DP Biology');
+  const s = answer({ ...bio, tiers: ['hl'], components: bio.components.filter((c) => c.tier === 'hl') });
   assert.match(s, /^X \(DP Biology\) is assessed through: Higher Level \(HL\) candidates take: Paper 1/);
   assert.match(s, /These figures are for Higher Level \(HL\) only; figures for other levels are not listed on this page\./);
   assert.match(s, /Source: official Board subject brief/);
