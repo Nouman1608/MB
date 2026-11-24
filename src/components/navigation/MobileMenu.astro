@@ -11,13 +11,11 @@ const here = Astro.url.pathname;
         removed here too, matching the header. Programs is the first link in
         the list above, so this button only ever duplicated it. */}
     <div class="mt-7 flex flex-col gap-3">
-      {/* v1.x CLOSURE follow-up -- relabelled/restyled from the plain
-          "Contact" ghost button to match the new gold "Free Trial Class"
-          header CTA (same /contact/ destination -- "Contact" is not in
-          primaryNav, so this was the only mobile-menu link to that page;
-          relabelling it keeps that reachable rather than adding a third,
-          duplicate-destination button). */}
-      <a href="/trial/" class="rounded-sm bg-gold-500 py-4 text-center text-[15px] font-semibold text-navy-800">Free Trial Class</a>
+      {/* Audit round 3 (D1): the gold "Free Trial Class" button that sat here
+          was removed. Since D-442 the sticky header shows the trial button
+          ("Free trial class") on phones and tablets, directly above this menu,
+          so with the menu open there were two trial buttons on screen. The
+          header keeps the one. */}
       {/* D-342 -- portal login, matching the header. */}
       <a href="https://portal.marlbridge.com/login" class="rounded-sm border border-navy-rule py-4 text-center text-[15px] font-semibold text-ivory">Portal Login</a>
     </div>
