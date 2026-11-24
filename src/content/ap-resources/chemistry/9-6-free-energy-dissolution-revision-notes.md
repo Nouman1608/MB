@@ -35,7 +35,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 
 ## Recap
 
-- Dissolving a salt, MX(s) ⇌ M⁺(aq) + X⁻(aq), has its own ΔH°, ΔS° and ΔG°, and its K is K_sp.
+- Dissolving a salt, MX(s) ⇌ M⁺(aq) + X⁻(aq), has its own ΔH°, ΔS° and ΔG°, and its K is K<sub>sp</sub>.
 - **Factor 1, breaking up the solid:** ion–ion attractions overcome. ΔH > 0 (large); ΔS > 0 (ions freed).
 - **Factor 2, reorganising the solvent:** some water–water attractions broken; water molecules ordered around ions. ΔH usually > 0; ΔS usually < 0.
 - **Factor 3, ion–solvent attractions:** ion–dipole attractions form. ΔH < 0 (large).
@@ -47,14 +47,14 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | Relationship | Meaning | Use it to |
 |---|---|---|
 | ΔG° = ΔH° − TΔS° | free energy of dissolution from its enthalpy and entropy | decide whether dissolving is favoured |
-| ΔG° = −RT ln K_sp | ΔG° < 0 ⇔ K_sp > 1 (very soluble); ΔG° > 0 ⇔ K_sp < 1 | convert between ΔG° and K_sp |
-| ΔH° > 0: K_sp rises with T | endothermic dissolving | predict the effect of heating |
-| ΔH° < 0: K_sp falls with T | exothermic dissolving | predict the effect of heating |
+| ΔG° = −RT ln K<sub>sp</sub> | ΔG° < 0 ⇔ K<sub>sp</sub> > 1 (very soluble); ΔG° > 0 ⇔ K<sub>sp</sub> < 1 | convert between ΔG° and K<sub>sp</sub> |
+| ΔH° > 0: K<sub>sp</sub> rises with T | endothermic dissolving | predict the effect of heating |
+| ΔH° < 0: K<sub>sp</sub> falls with T | exothermic dissolving | predict the effect of heating |
 
 ## Assumptions behind the reasoning
 
 - ΔH° and ΔS° of dissolution stay roughly constant over the temperature range used.
-- K_sp is written for the dissolving equation as given, with ideal behaviour of the dissolved ions.
+- K<sub>sp</sub> is written for the dissolving equation as given, with ideal behaviour of the dissolved ions.
 - The three factors are a model: they are imaginary steps used to explain, not separate events you could watch.
 
 ## Mistakes to avoid
@@ -63,13 +63,13 @@ Short on time? This page is the recap. For explanations and worked examples, use
 2. **"Exothermic, so soluble."** A strongly negative ΔS° can make ΔG° positive.
 3. **"Dissolving always increases entropy."** Ordered water shells lower it.
 4. **"Separating ions releases energy."** It always needs energy.
-5. **kJ and J mixed** in ΔH° − TΔS° or in −RT ln K_sp.
+5. **kJ and J mixed** in ΔH° − TΔS° or in −RT ln K<sub>sp</sub>.
 6. **Only one factor named.** A full explanation compares the opposing contributions.
 
 ## Quick self-check
 
 1. Which factor has a negative ΔH contribution? *(Factor 3, ion–solvent attractions)*
-2. ΔH° = +8.0 kJ mol⁻¹ and ΔS° = +20 J mol⁻¹ K⁻¹ for an invented salt. Is dissolving favoured at 298 K? *(No: ΔG° = +2.04 kJ mol⁻¹, K_sp = 0.44)*
-3. Dissolving a salt is exothermic. Does warming the water increase or decrease K_sp? *(Decrease)*
+2. ΔH° = +8.0 kJ mol⁻¹ and ΔS° = +20 J mol⁻¹ K⁻¹ for an invented salt. Is dissolving favoured at 298 K? *(No: ΔG° = +2.04 kJ mol⁻¹, K<sub>sp</sub> = 0.44)*
+3. Dissolving a salt is exothermic. Does warming the water increase or decrease K<sub>sp</sub>? *(Decrease)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/9-6-free-energy-dissolution-practice/).

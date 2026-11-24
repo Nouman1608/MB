@@ -47,14 +47,14 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | Excess strong acid | [H₃O⁺] = excess mol ÷ total volume | below 7 |
 | Excess strong base | [OH⁻] = excess mol ÷ total volume, then pOH → pH | above 7 |
 | Only water and spectator ions (strong + strong, equal moles) | — | 7.00 at 25 °C |
-| HA and A⁻ (or B and HB⁺) | pH = pK_a + log(n base form ÷ n acid form) | near pK_a |
-| Only A⁻ (weak acid + strong base, equal moles) | K_b = K_w ÷ K_a; [OH⁻] ≈ √(K_b × c) | slightly above 7 |
-| Only HB⁺ (weak base + strong acid, equal moles) | K_a = K_w ÷ K_b; [H₃O⁺] ≈ √(K_a × c) | slightly below 7 |
-| Weak acid HA + weak base B | K = K_a(HA) ÷ K_a(HB⁺) | products favoured if HA is the stronger acid |
+| HA and A⁻ (or B and HB⁺) | pH = pK<sub>a</sub> + log(n base form ÷ n acid form) | near pK<sub>a</sub> |
+| Only A⁻ (weak acid + strong base, equal moles) | K<sub>b</sub> = K<sub>w</sub> ÷ K<sub>a</sub>; [OH⁻] ≈ √(K<sub>b</sub> × c) | slightly above 7 |
+| Only HB⁺ (weak base + strong acid, equal moles) | K<sub>a</sub> = K<sub>w</sub> ÷ K<sub>b</sub>; [H₃O⁺] ≈ √(K<sub>a</sub> × c) | slightly below 7 |
+| Weak acid HA + weak base B | K = K<sub>a</sub>(HA) ÷ K<sub>a</sub>(HB⁺) | products favoured if HA is the stronger acid |
 
 ## Assumptions
 
-- 25 °C, so K_w = 1.0 × 10⁻¹⁴.
+- 25 °C, so K<sub>w</sub> = 1.0 × 10⁻¹⁴.
 - Volumes add when solutions are mixed.
 - Spectator ions such as Na⁺ and Cl⁻ do not affect pH.
 - The weak species' own reaction with water does not change the buffer's mole ratio noticeably.
@@ -71,7 +71,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Quick self-check
 
 1. 10.0 mL of 0.10 M HCl + 10.0 mL of 0.10 M NaOH. pH? *(7.00)*
-2. 4.0 × 10⁻³ mol of a weak acid (pK_a 4.20) + 1.0 × 10⁻³ mol of NaOH. pH? *(buffer: 4.20 + log(1.0/3.0) = 3.72)*
+2. 4.0 × 10⁻³ mol of a weak acid (pK<sub>a</sub> 4.20) + 1.0 × 10⁻³ mol of NaOH. pH? *(buffer: 4.20 + log(1.0/3.0) = 3.72)*
 3. 5.0 × 10⁻³ mol of a weak acid + 6.0 × 10⁻³ mol of NaOH, total volume 100. mL. pH? *(excess OH⁻ 0.010 M; pH 12.00)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/8-4-acid-base-reactions-buffers-practice/).

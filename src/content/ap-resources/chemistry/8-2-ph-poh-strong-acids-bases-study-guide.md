@@ -132,8 +132,8 @@ Some group 2 hydroxides are only slightly soluble (Mg(OH)₂ barely dissolves at
 2. Write the ionisation or dissociation equation and read off the mole ratio.
 3. Find [H₃O⁺] (acid) or [OH⁻] (base) directly from the solute concentration. If you are given a mass or a dilution, find the concentration first.
 4. Take −log to get pH (acid) or pOH (base).
-5. Use pH + pOH = 14.00 and K_w = [H₃O⁺][OH⁻] at 25 °C to find the other two quantities.
-6. If asked for **all species**, list the ions from the solute, the minor ion from K_w, and note that intact strong acid molecules are essentially zero.
+5. Use pH + pOH = 14.00 and K<sub>w</sub> = [H₃O⁺][OH⁻] at 25 °C to find the other two quantities.
+6. If asked for **all species**, list the ions from the solute, the minor ion from K<sub>w</sub>, and note that intact strong acid molecules are essentially zero.
 
 ### Why water's own ions can usually be ignored
 
@@ -157,13 +157,13 @@ A useful anchor: a factor of 2 in concentration changes pH by about 0.30, and a 
 2. [H₃O⁺] = 0.0250 M.
 3. pH = −log(0.0250) = **1.602** (3 significant figures in 0.0250 → 3 decimal places).
 4. pOH = 14.00 − 1.602 = **12.398**.
-5. [OH⁻] = K_w ÷ [H₃O⁺] = 1.0 × 10⁻¹⁴ ÷ 0.0250 = **4.0 × 10⁻¹³ M**.
+5. [OH⁻] = K<sub>w</sub> ÷ [H₃O⁺] = 1.0 × 10⁻¹⁴ ÷ 0.0250 = **4.0 × 10⁻¹³ M**.
 
 | Species | Concentration (M) | Where it comes from |
 |---|---|---|
 | H₃O⁺ | 0.0250 | complete ionisation of HClO₄ |
 | ClO₄⁻ | 0.0250 | conjugate base, same amount as H₃O⁺ |
-| OH⁻ | 4.0 × 10⁻¹³ | water equilibrium, set by K_w |
+| OH⁻ | 4.0 × 10⁻¹³ | water equilibrium, set by K<sub>w</sub> |
 | HClO₄ | ≈ 0 | almost none remains un-ionised |
 
 **Check.** The charges balance: positive ions (0.0250 M H₃O⁺) match negative ions (0.0250 M ClO₄⁻ plus a negligible amount of OH⁻).
@@ -204,11 +204,11 @@ What is the pH of 1.0 × 10⁻⁸ M HCl? Using pH = −log c gives 8.00, which s
 - **Forgetting the 2 for group 2 hydroxides.** [OH⁻] = 2c for Ca(OH)₂, Sr(OH)₂ and Ba(OH)₂.
 - **Taking −log of a base concentration and calling it pH.** −log[OH⁻] is pOH. Subtract from 14.00 to get pH.
 - **"There are still HCl molecules in hydrochloric acid."** Practically none remain; the solution contains H₃O⁺ and Cl⁻.
-- **"A strong acid solution contains no OH⁻."** A small amount is always present, set by K_w.
+- **"A strong acid solution contains no OH⁻."** A small amount is always present, set by K<sub>w</sub>.
 - **Doubling for H₂SO₄ automatically.** Only the first proton is fully ionised.
 - **Using pH = −log c for extremely dilute acid.** Below about 10⁻⁶ M, water's own H₃O⁺ cannot be ignored. An acid solution always has pH below 7 at 25 °C.
 - **Thinking dilution changes the amount of acid.** Dilution lowers the concentration; the moles stay the same (c₁V₁ = c₂V₂).
 
 ## Where this leads
 
-Strong acids and bases are the simple case: complete reaction, one-step calculation. Next, [Topic 8.3](/advanced-course-resources/chemistry/8-3-weak-acid-base-equilibria-study-guide/) deals with weak acids and bases, which only partly ionise, so you will need K_a, K_b and equilibrium tables. Later, strong acids and bases return as titrants in acid-base reactions and titration curves. Try the [practice questions](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-checklist/) to consolidate.
+Strong acids and bases are the simple case: complete reaction, one-step calculation. Next, [Topic 8.3](/advanced-course-resources/chemistry/8-3-weak-acid-base-equilibria-study-guide/) deals with weak acids and bases, which only partly ionise, so you will need K<sub>a</sub>, K<sub>b</sub> and equilibrium tables. Later, strong acids and bases return as titrants in acid-base reactions and titration curves. Try the [practice questions](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-checklist/) to consolidate.

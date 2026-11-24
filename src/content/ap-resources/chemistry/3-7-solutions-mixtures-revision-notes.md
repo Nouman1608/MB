@@ -49,7 +49,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | [ion] = M(salt) × subscript | e.g. 0.25 M CaCl₂ → 0.50 M Cl⁻ | find ion concentrations |
 | M₁V₁ = M₂V₂ | moles before = moles after; any volume unit, if the same on both sides | dilution |
 | M(mix) = (n₁ + n₂) ÷ (V₁ + V₂) | add moles of the same species | mixing solutions that do not react |
-| N = M × V × N_A | N_A = 6.022 × 10²³ mol⁻¹ | count solute particles |
+| N = M × V × N<sub>A</sub> | N<sub>A</sub> = 6.022 × 10²³ mol⁻¹ | count solute particles |
 
 ## Assumptions behind the numbers
 

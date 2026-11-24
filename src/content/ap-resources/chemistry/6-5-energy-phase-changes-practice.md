@@ -37,7 +37,7 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: H 1.008, O 16.00 g mol⁻¹; for water, ΔH_fus = 6.01 kJ mol⁻¹ at 0 °C, ΔH_vap = 40.7 kJ mol⁻¹ at 100 °C and c(liquid) = 4.18 J g⁻¹ °C⁻¹. Substances with single-letter names (J, K, L, G, X) are fictional. Assume constant pressure throughout.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: H 1.008, O 16.00 g mol⁻¹; for water, ΔH<sub>fus</sub> = 6.01 kJ mol⁻¹ at 0 °C, ΔH<sub>vap</sub> = 40.7 kJ mol⁻¹ at 100 °C and c(liquid) = 4.18 J g⁻¹ °C⁻¹. Substances with single-letter names (J, K, L, G, X) are fictional. Assume constant pressure throughout.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -72,7 +72,7 @@ What is the energy change when 45.0 g of steam condenses to liquid water at 100 
 
 **Answer: (B).** n = 45.0 g ÷ 18.016 g mol⁻¹ = 2.498 mol. Condensing is the reverse of vaporizing, so q = 2.498 mol × (−40.7 kJ mol⁻¹) = −101.7 kJ: 102 kJ is released.
 
-- (A) uses ΔH_fus (2.498 × 6.01 = 15.0 kJ). Condensing is a gas-to-liquid change, so ΔH_vap applies.
+- (A) uses ΔH<sub>fus</sub> (2.498 × 6.01 = 15.0 kJ). Condensing is a gas-to-liquid change, so ΔH<sub>vap</sub> applies.
 - (C) has the right size but the wrong direction. Condensing forms attractions and is exothermic.
 - (D) multiplies the mass in grams by ΔH (45.0 × 40.7), skipping the conversion to moles.
 </details>
@@ -81,7 +81,7 @@ What is the energy change when 45.0 g of steam condenses to liquid water at 100 
 
 The table gives data for four fictional liquids at their boiling points. Which liquid needs the **most** energy to vaporize a 10.0 g sample?
 
-| Liquid | Molar mass (g mol⁻¹) | ΔH_vap (kJ mol⁻¹) |
+| Liquid | Molar mass (g mol⁻¹) | ΔH<sub>vap</sub> (kJ mol⁻¹) |
 |---|---|---|
 | J | 30.0 | 24.0 |
 | K | 60.0 | 42.0 |
@@ -96,7 +96,7 @@ The table gives data for four fictional liquids at their boiling points. Which l
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** The samples have equal **mass**, so find the moles first, then q = n × ΔH_vap.
+**Answer: (C).** The samples have equal **mass**, so find the moles first, then q = n × ΔH<sub>vap</sub>.
 
 | Liquid | n in 10.0 g (mol) | q (kJ) |
 |---|---|---|
@@ -105,7 +105,7 @@ The table gives data for four fictional liquids at their boiling points. Which l
 | L | 0.556 | 10.5 |
 | G | 0.0833 | 4.5 |
 
-- (D) has the largest ΔH_vap per **mole**, which is the trap. Because its molar mass is so large, 10.0 g is only a small amount in moles.
+- (D) has the largest ΔH<sub>vap</sub> per **mole**, which is the trap. Because its molar mass is so large, 10.0 g is only a small amount in moles.
 - (A) and (B) need less energy than L because their energy per gram (0.80 and 0.70 kJ g⁻¹) is lower than L's (1.05 kJ g⁻¹).
 </details>
 
@@ -121,7 +121,7 @@ A 0.250 mol sample of a pure solid is heated at a steady 100 J s⁻¹. Its tempe
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Energy supplied during the flat section: q = 100 J s⁻¹ × 60.0 s = 6000 J = 6.00 kJ. This melts 0.250 mol, so ΔH_fus = 6.00 kJ ÷ 0.250 mol = 24.0 kJ mol⁻¹.
+**Answer: (C).** Energy supplied during the flat section: q = 100 J s⁻¹ × 60.0 s = 6000 J = 6.00 kJ. This melts 0.250 mol, so ΔH<sub>fus</sub> = 6.00 kJ ÷ 0.250 mol = 24.0 kJ mol⁻¹.
 
 - (A) multiplies by the moles (6.00 × 0.250) instead of dividing.
 - (B) is the energy for the whole sample, not per mole.
@@ -169,8 +169,8 @@ A 0.400 mol sample of fictional substance X is heated at constant pressure. The 
 | Temperature (°C) | −20.0 | −5.0 | −5.0 | −5.0 | 30.0 | 65.0 | 65.0 | 65.0 | 75.0 |
 
 (a) State the melting point and the boiling point of X.
-(b) Calculate ΔH_fus and ΔH_vap for X.
-(c) Explain, in terms of the particles, why ΔH_vap is larger than ΔH_fus.
+(b) Calculate ΔH<sub>fus</sub> and ΔH<sub>vap</sub> for X.
+(c) Explain, in terms of the particles, why ΔH<sub>vap</sub> is larger than ΔH<sub>fus</sub>.
 (d) Give the energy change when all 0.400 mol of gaseous X condenses at 65.0 °C.
 
 <details>
@@ -178,18 +178,18 @@ A 0.400 mol sample of fictional substance X is heated at constant pressure. The 
 
 **(a)** The temperature is constant at **−5.0 °C** (melting point) and at **65.0 °C** (boiling point).
 
-**(b)** Melting lasts from 0.6 kJ to 2.6 kJ: 2.0 kJ for 0.400 mol, so ΔH_fus = 2.0 ÷ 0.400 = **5.0 kJ mol⁻¹**.
-Boiling lasts from 6.1 kJ to 18.1 kJ: 12.0 kJ for 0.400 mol, so ΔH_vap = 12.0 ÷ 0.400 = **30.0 kJ mol⁻¹**.
+**(b)** Melting lasts from 0.6 kJ to 2.6 kJ: 2.0 kJ for 0.400 mol, so ΔH<sub>fus</sub> = 2.0 ÷ 0.400 = **5.0 kJ mol⁻¹**.
+Boiling lasts from 6.1 kJ to 18.1 kJ: 12.0 kJ for 0.400 mol, so ΔH<sub>vap</sub> = 12.0 ÷ 0.400 = **30.0 kJ mol⁻¹**.
 
 **(c)** When X melts, the particles move apart only slightly and are still in contact, attracting their neighbours. When X boils, the particles separate completely, so nearly all of the attractions between them must be overcome. More attractions overcome per mole means more energy per mole.
 
-**(d)** Condensing is the reverse of boiling: **q = −12.0 kJ** (12.0 kJ released; ΔH_cond = −30.0 kJ mol⁻¹).
+**(d)** Condensing is the reverse of boiling: **q = −12.0 kJ** (12.0 kJ released; ΔH<sub>cond</sub> = −30.0 kJ mol⁻¹).
 
 | Point | What earns it |
 |---|---|
 | 1 | Both temperatures correct, identified from the constant readings |
-| 1 | ΔH_fus = 5.0 kJ mol⁻¹, dividing the energy of the flat section by 0.400 mol |
-| 1 | ΔH_vap = 30.0 kJ mol⁻¹, with the same method |
+| 1 | ΔH<sub>fus</sub> = 5.0 kJ mol⁻¹, dividing the energy of the flat section by 0.400 mol |
+| 1 | ΔH<sub>vap</sub> = 30.0 kJ mol⁻¹, with the same method |
 | 1 | Part (c): particles still attract in the liquid but are fully separated in the gas |
 | 1 | Part (d): −12.0 kJ, with a negative sign or "released" |
 
@@ -230,7 +230,7 @@ Accept 7.5–7.6 °C depending on rounding of the melting energy.
 
 ## How did you do?
 
-- **Q1 or Q6(c) wrong:** re-read "Why the temperature stays constant" and "Why ΔH_vap is much larger than ΔH_fus" in the [study guide](/advanced-course-resources/chemistry/6-5-energy-phase-changes-study-guide/).
+- **Q1 or Q6(c) wrong:** re-read "Why the temperature stays constant" and "Why ΔH<sub>vap</sub> is much larger than ΔH<sub>fus</sub>" in the [study guide](/advanced-course-resources/chemistry/6-5-energy-phase-changes-study-guide/).
 - **Q2, Q3 or Q5 wrong:** check you converted grams to moles before using ΔH, and J to kJ before adding.
 - **Q4 or Q6(b) wrong:** practise Worked example 3; remember to divide the flat-section energy by the moles.
 - **Q7 incomplete:** set out every step as in Worked example 2, then write one energy balance.

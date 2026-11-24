@@ -38,7 +38,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 - **Strong acids:** HCl, HBr, HI, HClO₄, HNO₃, H₂SO₄. They ionise completely: HA + H₂O → H₃O⁺ + A⁻.
 - **Strong bases:** group 1 hydroxides (LiOH, NaOH, KOH) and group 2 hydroxides (Ca(OH)₂, Sr(OH)₂, Ba(OH)₂). Whatever dissolves dissociates completely.
 - So the solute concentration gives [H₃O⁺] or [OH⁻] **directly**: no equilibrium table needed.
-- In a strong acid solution: [H₃O⁺] = [A⁻] = c, [HA] ≈ 0, and [OH⁻] = K_w ÷ c.
+- In a strong acid solution: [H₃O⁺] = [A⁻] = c, [HA] ≈ 0, and [OH⁻] = K<sub>w</sub> ÷ c.
 - H₂SO₄: only the first proton ionises completely; take [H₃O⁺] = c unless told otherwise.
 
 ## Key relationships
@@ -53,7 +53,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 
 ## Assumptions behind the numbers
 
-- 25 °C, so K_w = 1.0 × 10⁻¹⁴ and pH + pOH = 14.00.
+- 25 °C, so K<sub>w</sub> = 1.0 × 10⁻¹⁴ and pH + pOH = 14.00.
 - Ionisation or dissociation is complete.
 - Water's own H₃O⁺ and OH⁻ are negligible. This fails for strong acids or bases below about 10⁻⁶ M, where the pH is close to 7 (and never on the wrong side of it).
 - Volumes of dilute solutions add when mixed.

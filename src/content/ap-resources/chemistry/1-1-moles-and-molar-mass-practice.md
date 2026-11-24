@@ -36,7 +36,7 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: H 1.008, C 12.01, N 14.01, O 16.00, Na 22.99, Cl 35.45, K 39.10, Ca 40.08, Al 26.98, S 32.06 g mol⁻¹; N_A = 6.022 × 10²³ mol⁻¹.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: H 1.008, C 12.01, N 14.01, O 16.00, Na 22.99, Cl 35.45, K 39.10, Ca 40.08, Al 26.98, S 32.06 g mol⁻¹; N<sub>A</sub> = 6.022 × 10²³ mol⁻¹.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -124,11 +124,11 @@ A sample of an unknown gas contains molecules with an average mass of 7.31 × 10
 <details>
 <summary>Worked solution</summary>
 
-1. Molar mass = mass of one molecule × N_A = 7.31 × 10⁻²³ g × 6.022 × 10²³ mol⁻¹ = **44.0 g mol⁻¹**.
+1. Molar mass = mass of one molecule × N<sub>A</sub> = 7.31 × 10⁻²³ g × 6.022 × 10²³ mol⁻¹ = **44.0 g mol⁻¹**.
 2. Compare: CO 28.01, CO₂ 44.01, NO₂ 46.01, SO₂ 64.06 g mol⁻¹.
 3. The gas is **CO₂**.
 
-Suggested mark points (2): 1 for multiplying by N_A to get about 44.0 g mol⁻¹; 1 for identifying CO₂ with the comparison shown. NO₂ (46.01) is close but outside the precision of the data, so it is not accepted.
+Suggested mark points (2): 1 for multiplying by N<sub>A</sub> to get about 44.0 g mol⁻¹; 1 for identifying CO₂ with the comparison shown. NO₂ (46.01) is close but outside the precision of the data, so it is not accepted.
 </details>
 
 ## Question 6 (constructed response · core)

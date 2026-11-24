@@ -37,17 +37,17 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 
 - Properties repeat (**periodicity**) because valence electron configurations repeat. Elements in a group have the same outer pattern, such as ns¹ for group 1.
 - Each period fills a new outer shell and ends with a filled shell at a noble gas.
-- Every trend is explained with **Coulomb's law** (F ∝ q₁q₂ / r²), the **shell model**, **shielding** by core electrons and **effective nuclear charge**, Z_eff.
-- Simple estimate: Z_eff ≈ protons − core electrons (Na +1, Cl +7, K +1).
+- Every trend is explained with **Coulomb's law** (F ∝ q₁q₂ / r²), the **shell model**, **shielding** by core electrons and **effective nuclear charge**, Z<sub>eff</sub>.
+- Simple estimate: Z<sub>eff</sub> ≈ protons − core electrons (Na +1, Cl +7, K +1).
 
 ## Key relationships
 
 | Property | Across a period → | Down a group ↓ | Reason |
 |---|---|---|---|
-| Atomic radius | decreases | increases | Z_eff rises in the same shell; a new shell is farther out |
+| Atomic radius | decreases | increases | Z<sub>eff</sub> rises in the same shell; a new shell is farther out |
 | First ionization energy | increases (dips at groups 13 and 16) | decreases | stronger or weaker attraction for the outer electron |
-| Electron affinity (energy released) | usually more | usually less | larger Z_eff or a closer shell attracts the added electron more |
-| Electronegativity | increases | decreases | bonding pair held closer or by a larger Z_eff |
+| Electron affinity (energy released) | usually more | usually less | larger Z<sub>eff</sub> or a closer shell attracts the added electron more |
+| Electronegativity | increases | decreases | bonding pair held closer or by a larger Z<sub>eff</sub> |
 
 **Ions:** cations are smaller than their atoms (a shell is lost); anions are larger (extra repulsion, same protons). In an isoelectronic series, more protons means a smaller ion.
 
@@ -55,7 +55,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 
 ## Assumptions behind the model
 
-- Core electrons shield fully and valence electrons barely shield each other (the simple Z_eff estimate).
+- Core electrons shield fully and valence electrons barely shield each other (the simple Z<sub>eff</sub> estimate).
 - An electron in a higher shell is, on average, farther from the nucleus.
 - Trends are general patterns. Explain any exception from the configuration.
 

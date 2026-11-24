@@ -37,7 +37,7 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: ionic radii (pm) Li⁺ 76, Mg²⁺ 72, Al³⁺ 53.5, K⁺ 138, Ca²⁺ 100, F⁻ 133, Cl⁻ 181, Br⁻ 196, O²⁻ 140, S²⁻ 184; N_A = 6.022 × 10²³ mol⁻¹. The molecule in Questions 1 and 4 is fictional, and its data are invented for practice.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: ionic radii (pm) Li⁺ 76, Mg²⁺ 72, Al³⁺ 53.5, K⁺ 138, Ca²⁺ 100, F⁻ 133, Cl⁻ 181, Br⁻ 196, O²⁻ 140, S²⁻ 184; N<sub>A</sub> = 6.022 × 10²³ mol⁻¹. The molecule in Questions 1 and 4 is fictional, and its data are invented for practice.
 
 ## Question 1 (multiple choice · foundation)
 

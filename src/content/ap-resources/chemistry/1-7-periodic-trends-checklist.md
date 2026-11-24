@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Understanding
 
 - I can explain why elements in the same group have similar properties, using their valence electron configurations. *(Guide: "Why the periodic table repeats")*
-- I can explain shielding and effective nuclear charge, and make a simple Z_eff estimate for a main-group atom. *(Guide: "The model behind every trend")*
+- I can explain shielding and effective nuclear charge, and make a simple Z<sub>eff</sub> estimate for a main-group atom. *(Guide: "The model behind every trend")*
 - I can use Coulomb's law to say how nuclear charge and distance change the attraction for an outer electron. *(Guide: "The model behind every trend"; Practice Q6)*
 - I can tell electron affinity apart from electronegativity. *(Guide: "Electron affinity" and "Electronegativity")*
 

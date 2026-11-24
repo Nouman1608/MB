@@ -33,19 +33,19 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can state the three kinds of ion that make a salt's solubility depend on pH: a weak base, a weak acid or hydroxide. *(Guide: "Which salts are sensitive to pH?")*
 - I can explain why salts such as AgCl, AgBr and AgI do not respond to acid. *(Guide: Worked example 1; Practice Q1)*
-- I can explain that K_sp stays constant when the pH changes, and that only the solubility changes. *(Guide: "Removing an ion makes more solid dissolve"; Practice Q2)*
+- I can explain that K<sub>sp</sub> stays constant when the pH changes, and that only the solubility changes. *(Guide: "Removing an ion makes more solid dissolve"; Practice Q2)*
 - I can say that this topic is qualitative: I will not be asked to calculate solubility at a given pH. *(Guide: "What you will not be asked to do")*
 
 ## Skills
 
 - I can write the equation for H₃O⁺ removing a basic anion or OH⁻, and the overall equation for a salt dissolving in acid. *(Guide: Worked example 1; Practice Q6)*
 - I can predict that a salt with a weakly acidic cation dissolves more as the pH rises, and write the reaction with OH⁻. *(Practice Q3)*
-- I can use pH and pK_a to decide whether an ion will be removed at a given pH. *(Guide: "How much does the pH have to change?"; Practice Q4)*
+- I can use pH and pK<sub>a</sub> to decide whether an ion will be removed at a given pH. *(Guide: "How much does the pH have to change?"; Practice Q4)*
 - I can read solubility data collected at different pH values and decide whether a difference is larger than the precision of the measurement. *(Guide: Worked example 2; Practice Q5)*
 
 ## Reasoning
 
-- I can explain a pH effect on solubility in three steps: the ion removed, Q compared with K_sp, and the direction of the shift. *(Practice Q2, Q5, Q6)*
+- I can explain a pH effect on solubility in three steps: the ion removed, Q compared with K<sub>sp</sub>, and the direction of the shift. *(Practice Q2, Q5, Q6)*
 - I can tell a pH effect apart from the common-ion effect, for example when HCl is added to a chloride or NaOH to a hydroxide. *(Guide: Worked example 1(e); Practice Q7)*
 - I can explain why a solubility experiment needs a buffer with no common ion. *(Guide: Worked example 2; Practice Q5)*
 - I can plan a separation of two solids that uses a pH-sensitive solubility, and justify each step. *(Practice Q7)*

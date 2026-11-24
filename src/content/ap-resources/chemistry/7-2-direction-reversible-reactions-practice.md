@@ -79,12 +79,12 @@ A flask is filled with only the products of a reversible reaction. Which stateme
 
 ## Question 3 (multiple choice · core)
 
-The elementary reversible reaction 2R(g) ⇌ R₂(g) has k_f = 0.50 M⁻¹ s⁻¹ (forward rate = k_f[R]²) and k_r = 0.020 s⁻¹ (reverse rate = k_r[R₂]). A mixture contains [R] = 0.10 M and [R₂] = 0.40 M. Which statement is correct?
+The elementary reversible reaction 2R(g) ⇌ R₂(g) has k<sub>f</sub> = 0.50 M⁻¹ s⁻¹ (forward rate = k<sub>f</sub>[R]²) and k<sub>r</sub> = 0.020 s⁻¹ (reverse rate = k<sub>r</sub>[R₂]). A mixture contains [R] = 0.10 M and [R₂] = 0.40 M. Which statement is correct?
 
 - (A) Forward rate 0.050 M s⁻¹, reverse rate 0.0080 M s⁻¹: net formation of R₂.
 - (B) Forward rate 0.0050 M s⁻¹, reverse rate 0.0080 M s⁻¹: net formation of R.
 - (C) Forward rate 0.0050 M s⁻¹, reverse rate 0.0080 M s⁻¹: net formation of R₂.
-- (D) The direction cannot be predicted because k_f is larger than k_r.
+- (D) The direction cannot be predicted because k<sub>f</sub> is larger than k<sub>r</sub>.
 
 <details>
 <summary>Answer and explanation</summary>
@@ -98,7 +98,7 @@ The elementary reversible reaction 2R(g) ⇌ R₂(g) has k_f = 0.50 M⁻¹ s⁻�
 
 ## Question 4 (calculation · core)
 
-The isomerisation U(aq) ⇌ V(aq) is elementary in both directions, with k_f = 2.4 × 10⁻³ s⁻¹ and k_r = 8.0 × 10⁻⁴ s⁻¹. A solution is made with [U] = 0.050 M and [V] = 0.250 M.
+The isomerisation U(aq) ⇌ V(aq) is elementary in both directions, with k<sub>f</sub> = 2.4 × 10⁻³ s⁻¹ and k<sub>r</sub> = 8.0 × 10⁻⁴ s⁻¹. A solution is made with [U] = 0.050 M and [V] = 0.250 M.
 
 (a) Calculate the forward and reverse rates in this solution.
 (b) State the direction of net change and calculate the net rate.

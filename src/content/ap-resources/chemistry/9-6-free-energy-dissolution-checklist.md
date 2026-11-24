@@ -34,14 +34,14 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can describe the three factors in dissolving a salt: breaking up the solid, reorganising the solvent, and ion–solvent attractions. *(Guide: "Three factors at the particle level")*
 - I can give the sign of the enthalpy and entropy contribution of each factor. *(Guide: table; Practice Q1)*
 - I can explain why small or highly charged ions tend to make ΔS° of dissolving less positive or negative. *(Guide: Worked example 2; Practice Q6)*
-- I can link the sign of ΔG° of dissolution to the size of K_sp. *(Guide: "Dissolving as a thermodynamic process"; Practice Q3)*
+- I can link the sign of ΔG° of dissolution to the size of K<sub>sp</sub>. *(Guide: "Dissolving as a thermodynamic process"; Practice Q3)*
 
 ## Calculation
 
 - I can calculate ΔG° of dissolution from ΔH° and ΔS°, keeping kJ and J consistent. *(Guide: Worked example 1; Practice Q2)*
-- I can convert between ΔG° of dissolution and K_sp in either direction. *(Practice Q3, Q4)*
-- I can find ΔS° of dissolution from K_sp and ΔH°. *(Practice Q4)*
-- I can predict, with a calculation, how K_sp changes with temperature for endothermic and exothermic dissolving. *(Guide: "Temperature and solubility"; Practice Q6)*
+- I can convert between ΔG° of dissolution and K<sub>sp</sub> in either direction. *(Practice Q3, Q4)*
+- I can find ΔS° of dissolution from K<sub>sp</sub> and ΔH°. *(Practice Q4)*
+- I can predict, with a calculation, how K<sub>sp</sub> changes with temperature for endothermic and exothermic dissolving. *(Guide: "Temperature and solubility"; Practice Q6)*
 
 ## Reasoning
 

@@ -92,7 +92,7 @@ This lets you go straight from wavelength to energy. Energy is inversely proport
 | Wavelength | λ | m | about 4 × 10⁻⁷ to 7 × 10⁻⁷ m |
 | Frequency | ν | s⁻¹ (Hz) | about 4 × 10¹⁴ to 7.5 × 10¹⁴ s⁻¹ |
 | Energy per photon | E | J | about 3 × 10⁻¹⁹ to 5 × 10⁻¹⁹ J |
-| Energy per mole of photons | E × N_A | J mol⁻¹, then kJ mol⁻¹ | about 170 to 300 kJ mol⁻¹ |
+| Energy per mole of photons | E × N<sub>A</sub> | J mol⁻¹, then kJ mol⁻¹ | about 170 to 300 kJ mol⁻¹ |
 
 ### Per photon or per mole?
 
@@ -100,7 +100,7 @@ E = hν gives the energy of **one** photon, so the number is tiny (around 10⁻�
 
 energy per mole (kJ mol⁻¹) = E(per photon, J) × 6.022 × 10²³ mol⁻¹ ÷ 1000 J kJ⁻¹
 
-The reverse also works: to find the energy one molecule needs to break a bond, divide the bond energy in J mol⁻¹ by N_A.
+The reverse also works: to find the energy one molecule needs to break a bond, divide the bond energy in J mol⁻¹ by N<sub>A</sub>.
 
 ### Choosing a route
 
@@ -110,7 +110,7 @@ Most photon questions are one of four routes. Decide which one before you touch 
 |---|---|---|
 | wavelength λ | energy per photon | convert λ to m, then E = hc/λ |
 | frequency ν | wavelength | λ = c/ν, then convert m to nm if asked |
-| energy per mole (kJ mol⁻¹) | wavelength | × 1000, ÷ N_A to get J per photon, then λ = hc/E |
+| energy per mole (kJ mol⁻¹) | wavelength | × 1000, ÷ N<sub>A</sub> to get J per photon, then λ = hc/E |
 | two energy levels | wavelength of the line | ΔE = upper − lower, then λ = hc/ΔE |
 
 Writing each step as a fraction lets the units check you, just as in mole calculations. For example, to find the wavelength that matches 250 kJ mol⁻¹:
@@ -197,7 +197,7 @@ Brightness changes **how many** atoms or molecules undergo a transition each sec
 ## Common misconceptions
 
 - **Forgetting to convert nm to m.** Using λ = 455 instead of 4.55 × 10⁻⁷ m gives an answer 10⁹ times too small for E. Convert before you substitute.
-- **Mixing per photon and per mole.** E = hν gives joules per photon. Multiply by N_A for J mol⁻¹, then divide by 1000 for kJ mol⁻¹.
+- **Mixing per photon and per mole.** E = hν gives joules per photon. Multiply by N<sub>A</sub> for J mol⁻¹, then divide by 1000 for kJ mol⁻¹.
 - **"Longer wavelength means more energy."** E = hc/λ: energy falls as wavelength rises.
 - **"Wavelength and frequency are directly proportional."** They are inversely proportional; their product is always c.
 - **"An emitted photon's energy equals the energy of the level it came from."** It equals the **difference** between the two levels.

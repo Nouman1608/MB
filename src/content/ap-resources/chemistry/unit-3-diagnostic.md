@@ -42,7 +42,7 @@ Use this page to find **which Unit 3 topics to revisit**. There is one question 
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated and give no predicted score: a wrong answer points to a topic, not a grade.
 
-**Calculator and data.** A scientific calculator is allowed. R = 0.08206 L atm mol⁻¹ K⁻¹; K = °C + 273.15; h = 6.626 × 10⁻³⁴ J s; c = 2.998 × 10⁸ m s⁻¹; N_A = 6.022 × 10²³ mol⁻¹. Molar masses: H 1.008, He 4.003, C 12.01 g mol⁻¹. Treat gases as ideal.
+**Calculator and data.** A scientific calculator is allowed. R = 0.08206 L atm mol⁻¹ K⁻¹; K = °C + 273.15; h = 6.626 × 10⁻³⁴ J s; c = 2.998 × 10⁸ m s⁻¹; N<sub>A</sub> = 6.022 × 10²³ mol⁻¹. Molar masses: H 1.008, He 4.003, C 12.01 g mol⁻¹. Treat gases as ideal.
 
 ## Question 1 (multiple choice · 3.1)
 

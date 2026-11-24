@@ -37,7 +37,7 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All data are at 25 °C: K_w = 1.0 × 10⁻¹⁴ and pK_w = 14.00. Acids and bases named with capital letters (HR, HM, HE, HX, Y, B) are fictional and monoprotic. Assume volumes add when solutions are mixed.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All data are at 25 °C: K<sub>w</sub> = 1.0 × 10⁻¹⁴ and pK<sub>w</sub> = 14.00. Acids and bases named with capital letters (HR, HM, HE, HX, Y, B) are fictional and monoprotic. Assume volumes add when solutions are mixed.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -65,7 +65,7 @@ Equal amounts in moles of a weak acid HA and NaOH are mixed. Which statement des
 - (A) The major species are Na⁺, A⁻ and H₂O, and the pH is above 7 because A⁻ reacts with water to form OH⁻.
 - (B) The major species are Na⁺, A⁻ and H₂O, and the pH is 7 because equal moles of acid and base reacted.
 - (C) The major species are HA, OH⁻ and Na⁺, and the pH is above 7 because the reaction stops at equilibrium.
-- (D) The major species are HA, A⁻ and Na⁺, and the solution is a buffer with pH equal to pK_a.
+- (D) The major species are HA, A⁻ and Na⁺, and the solution is a buffer with pH equal to pK<sub>a</sub>.
 
 <details>
 <summary>Answer and explanation</summary>
@@ -98,7 +98,7 @@ Which mixture, made up to 100. mL with water, is a buffer?
 
 ## Question 4 (multiple choice · core)
 
-The weak acid HX (pK_a = 3.00) is mixed with the weak base Y. The conjugate acid of Y, HY⁺, has pK_a = 8.00. What is K for HX + Y ⇌ X⁻ + HY⁺, and which side is favoured?
+The weak acid HX (pK<sub>a</sub> = 3.00) is mixed with the weak base Y. The conjugate acid of Y, HY⁺, has pK<sub>a</sub> = 8.00. What is K for HX + Y ⇌ X⁻ + HY⁺, and which side is favoured?
 
 - (A) 1.0 × 10⁵, products favoured
 - (B) 1.0 × 10⁻⁵, reactants favoured
@@ -108,16 +108,16 @@ The weak acid HX (pK_a = 3.00) is mixed with the weak base Y. The conjugate acid
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** K = K_a(HX) ÷ K_a(HY⁺) = 10^(−3.00) ÷ 10^(−8.00) = 1.0 × 10⁵. HX is a much stronger acid than HY⁺, so the proton moves to Y.
+**Answer: (A).** K = K<sub>a</sub>(HX) ÷ K<sub>a</sub>(HY⁺) = 10^(−3.00) ÷ 10^(−8.00) = 1.0 × 10⁵. HX is a much stronger acid than HY⁺, so the proton moves to Y.
 
 - (B) divides the wrong way round.
-- (C) multiplies the two K_a values.
-- (D) is just K_a of HX; it ignores the base.
+- (C) multiplies the two K<sub>a</sub> values.
+- (D) is just K<sub>a</sub> of HX; it ignores the base.
 </details>
 
 ## Question 5 (calculation · core)
 
-30.0 mL of 0.200 M HM (pK_a = 5.10) is mixed with 25.0 mL of 0.150 M NaOH. (a) Identify the major species after reaction. (b) Calculate the pH.
+30.0 mL of 0.200 M HM (pK<sub>a</sub> = 5.10) is mixed with 25.0 mL of 0.150 M NaOH. (a) Identify the major species after reaction. (b) Calculate the pH.
 
 <details>
 <summary>Worked solution</summary>
@@ -134,12 +134,12 @@ Using concentrations gives the same ratio: [M⁻] = 0.0682 M and [HM] = 0.0409 M
 
 Suggested mark points (3): 1 for the moles before and after; 1 for naming HM and M⁻ as the major species (a buffer); 1 for pH 5.32.
 
-Common error: writing log(HM ÷ M⁻) gives 4.88. Check: there is more M⁻ than HM, so the pH must be **above** pK_a.
+Common error: writing log(HM ÷ M⁻) gives 4.88. Check: there is more M⁻ than HM, so the pH must be **above** pK<sub>a</sub>.
 </details>
 
 ## Question 6 (constructed response · core)
 
-The weak base B has K_b = 1.6 × 10⁻⁹. A student mixes 50.0 mL of 0.120 M B with 50.0 mL of 0.120 M HCl.
+The weak base B has K<sub>b</sub> = 1.6 × 10⁻⁹. A student mixes 50.0 mL of 0.120 M B with 50.0 mL of 0.120 M HCl.
 
 (a) Calculate the pH of the mixture.
 (b) The student writes: "Equal moles of acid and base were mixed, so the solution is neutral." Evaluate this claim.
@@ -149,7 +149,7 @@ The weak base B has K_b = 1.6 × 10⁻⁹. A student mixes 50.0 mL of 0.120 M B 
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
 **(a)** n(B) = n(H₃O⁺) = 0.0500 × 0.120 = 6.00 × 10⁻³ mol. B + H₃O⁺ → HB⁺ + H₂O goes to completion, leaving only HB⁺.
-[HB⁺] = 6.00 × 10⁻³ ÷ 0.100 L = 0.0600 M. K_a(HB⁺) = 1.0 × 10⁻¹⁴ ÷ 1.6 × 10⁻⁹ = 6.25 × 10⁻⁶.
+[HB⁺] = 6.00 × 10⁻³ ÷ 0.100 L = 0.0600 M. K<sub>a</sub>(HB⁺) = 1.0 × 10⁻¹⁴ ÷ 1.6 × 10⁻⁹ = 6.25 × 10⁻⁶.
 [H₃O⁺] ≈ √(6.25 × 10⁻⁶ × 0.0600) = 6.1 × 10⁻⁴ M (about 1.0% of 0.0600, so the shortcut is fine). pH = **3.21**.
 
 **(b)** The claim is **wrong**. Equal moles means the acid and base have reacted completely, but the product HB⁺ is the conjugate acid of a weak base. It gives H₃O⁺ to water, so the solution is acidic (pH 3.21). Only a strong acid with a strong base gives pH 7.
@@ -160,7 +160,7 @@ The weak base B has K_b = 1.6 × 10⁻⁹. A student mixes 50.0 mL of 0.120 M B 
 | Point | What earns it |
 |---|---|
 | 1 | Recognises equal moles, so only HB⁺ remains, at 0.0600 M in the total volume |
-| 1 | K_a = K_w ÷ K_b = 6.25 × 10⁻⁶ |
+| 1 | K<sub>a</sub> = K<sub>w</sub> ÷ K<sub>b</sub> = 6.25 × 10⁻⁶ |
 | 1 | pH 3.21 |
 | 1 | Claim wrong, because HB⁺ is a weak acid that makes the solution acidic |
 | 1 | pH 1.96 from excess H₃O⁺ divided by the total volume 110.0 mL |
@@ -170,7 +170,7 @@ Accept pH 3.21 or 3.22 in (a): the shortcut and the quadratic differ only in the
 
 ## Question 7 (design and explanation · stretch)
 
-A student needs a buffer with pH 4.60. She has 100.0 mL of 0.100 M HE (pK_a = 4.60), 0.100 M NaOH and 0.100 M HCl.
+A student needs a buffer with pH 4.60. She has 100.0 mL of 0.100 M HE (pK<sub>a</sub> = 4.60), 0.100 M NaOH and 0.100 M HCl.
 
 (a) What volume of NaOH should she add? Explain.
 (b) Her partner adds 100.0 mL of NaOH instead. Calculate the pH and explain why the result is not a buffer.
@@ -180,9 +180,9 @@ A student needs a buffer with pH 4.60. She has 100.0 mL of 0.100 M HE (pK_a = 4.
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** pH = pK_a when [E⁻] = [HE]. n(HE) = 1.00 × 10⁻² mol, so she should convert half: 5.00 × 10⁻³ mol OH⁻ = **50.0 mL** of NaOH. This leaves 5.00 × 10⁻³ mol each of HE and E⁻.
+**(a)** pH = pK<sub>a</sub> when [E⁻] = [HE]. n(HE) = 1.00 × 10⁻² mol, so she should convert half: 5.00 × 10⁻³ mol OH⁻ = **50.0 mL** of NaOH. This leaves 5.00 × 10⁻³ mol each of HE and E⁻.
 
-**(b)** 100.0 mL gives equal moles, so only E⁻ remains: [E⁻] = 1.00 × 10⁻² ÷ 0.2000 L = 0.0500 M. K_b = 10⁻¹⁴ ÷ 10^(−4.60) = 3.98 × 10⁻¹⁰; [OH⁻] ≈ 4.46 × 10⁻⁶ M; pOH 5.35; pH = **8.65**. No HE is left to react with added base, so the solution cannot buffer.
+**(b)** 100.0 mL gives equal moles, so only E⁻ remains: [E⁻] = 1.00 × 10⁻² ÷ 0.2000 L = 0.0500 M. K<sub>b</sub> = 10⁻¹⁴ ÷ 10^(−4.60) = 3.98 × 10⁻¹⁰; [OH⁻] ≈ 4.46 × 10⁻⁶ M; pOH 5.35; pH = **8.65**. No HE is left to react with added base, so the solution cannot buffer.
 
 **(c)** Yes. 4.00 × 10⁻³ mol E⁻ and 6.00 × 10⁻³ mol HE remain, both in comparable amounts. pH = 4.60 + log(4.00 / 6.00) = **4.42**.
 
@@ -190,8 +190,8 @@ A student needs a buffer with pH 4.60. She has 100.0 mL of 0.100 M HE (pK_a = 4.
 
 | Point | What earns it |
 |---|---|
-| 1 | 50.0 mL, linked to [E⁻] = [HE] so that pH = pK_a |
-| 1 | pH 8.65 from K_b of E⁻ |
+| 1 | 50.0 mL, linked to [E⁻] = [HE] so that pH = pK<sub>a</sub> |
+| 1 | pH 8.65 from K<sub>b</sub> of E⁻ |
 | 1 | Not a buffer because all the weak acid has been used up |
 | 1 | (c) still a buffer, pH 4.42 |
 | 1 | (d) HCl cannot make the conjugate base E⁻ |

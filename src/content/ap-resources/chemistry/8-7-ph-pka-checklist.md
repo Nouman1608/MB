@@ -32,21 +32,21 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Understanding
 
 - I can explain what the acid form and the base form of a weak acid are, and what "predominant form" means. *(Guide: "Two forms of the same substance")*
-- I can state which form predominates when pH < pK_a, when pH = pK_a and when pH > pK_a. *(Guide: "The rule: compare pH with pK_a"; Practice Q1)*
-- I can use the rearranged K_a expression to explain why the comparison works. *(Guide: "The rule"; Revision notes)*
+- I can state which form predominates when pH < pK<sub>a</sub>, when pH = pK<sub>a</sub> and when pH > pK<sub>a</sub>. *(Guide: "The rule: compare pH with pK<sub>a</sub>"; Practice Q1)*
+- I can use the rearranged K<sub>a</sub> expression to explain why the comparison works. *(Guide: "The rule"; Revision notes)*
 - I can explain why an indicator changes colour, using its protonated and deprotonated forms. *(Guide: "Indicators are weak acids you can see"; Practice Q4)*
 
 ## Calculation
 
 - I can calculate [A⁻]/[HA] at a given pH and turn it into a percentage in each form. *(Guide: Worked example 1; Practice Q5)*
-- I can convert a pK_b into the pK_a of the conjugate acid and use it to find the predominant form of a weak base. *(Guide: Worked example 1(b); Practice Q2)*
+- I can convert a pK<sub>b</sub> into the pK<sub>a</sub> of the conjugate acid and use it to find the predominant form of a weak base. *(Guide: Worked example 1(b); Practice Q2)*
 - I can find the pH range in which one form makes up at least a given percentage. *(Practice Q5(c))*
 
 ## Reasoning and lab skills
 
-- I can estimate an indicator's pK_a from colour observations in buffers and state how precise the estimate is. *(Practice Q6)*
+- I can estimate an indicator's pK<sub>a</sub> from colour observations in buffers and state how precise the estimate is. *(Practice Q6)*
 - I can choose an indicator for a strong acid–strong base, weak acid–strong base or weak base–strong acid titration. *(Guide: Worked example 2; Practice Q3)*
 - I can explain how a poor indicator choice changes the measured titre and the calculated concentration. *(Guide: Figure 2; Practice Q7)*
-- I can explain why "pH above pK_a" does not mean "fully dissociated". *(Guide: Common misconceptions)*
+- I can explain why "pH above pK<sub>a</sub>" does not mean "fully dissociated". *(Guide: Common misconceptions)*
 
 All ticked? Move on to Topic 8.8, [Properties of Buffers](/advanced-course-resources/chemistry/8-8-properties-buffers-study-guide/), or return to the [course roadmap](/advanced-course-resources/chemistry/#roadmap).

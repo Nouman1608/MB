@@ -89,7 +89,7 @@ Two rules sit behind the table. First, **answer exactly what the verb asks**: an
 
 **Short-answer verbs (Identify, Indicate, Circle).** *Identify the oxidizing agent in Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s).* Answer: Cu²⁺(aq). That is enough. Adding why it is the oxidizing agent costs time and earns nothing extra.
 
-**Number verbs (Calculate, Determine, Estimate).** *Estimate whether the pH of a buffer with [A⁻] = 3[HA] is above or below the pK_a of HA.* Answer: above, because the base form is in excess, so the log term in the Henderson–Hasselbalch equation is positive. An Estimate needs a direction or rough size, not a full calculation, but it still needs the data it rests on.
+**Number verbs (Calculate, Determine, Estimate).** *Estimate whether the pH of a buffer with [A⁻] = 3[HA] is above or below the pK<sub>a</sub> of HA.* Answer: above, because the base form is in excess, so the log term in the Henderson–Hasselbalch equation is positive. An Estimate needs a direction or rough size, not a full calculation, but it still needs the data it rests on.
 
 **Reasoning verbs (Explain, Justify, Make a claim, Predict).** *Predict how the rate of a reaction that is first order in B changes if [B] is halved, and justify.* Answer: the rate halves, because rate = k[B] and k does not change at a fixed temperature.
 
@@ -229,11 +229,11 @@ The course defines Calculate as working that includes the expression, the substi
 Doubling [A] multiplies the rate by 8.0 × 10⁻³ ÷ 2.0 × 10⁻³ = 4 = 2², so the reaction is **second order** in A. Rate = k[A]², so k = 2.0 × 10⁻³ M s⁻¹ ÷ (0.10 M)² = **0.20 M⁻¹ s⁻¹**. Check with the second run: 0.20 × (0.20)² = 8.0 × 10⁻³ M s⁻¹.
 </details>
 
-**Task 5 (Unit 8).** A buffer contains 0.10 M of the fictional weak acid HA (pK_a = 4.20) and 0.30 M of its conjugate base A⁻. Estimate whether the pH is above or below 4.20, then calculate it.
+**Task 5 (Unit 8).** A buffer contains 0.10 M of the fictional weak acid HA (pK<sub>a</sub> = 4.20) and 0.30 M of its conjugate base A⁻. Estimate whether the pH is above or below 4.20, then calculate it.
 
 <details><summary>Model answer</summary>
 
-**Estimate:** above 4.20, because [A⁻] > [HA]. **Calculate:** pH = pK_a + log([A⁻]/[HA]) = 4.20 + log(0.30/0.10) = 4.20 + 0.48 = **4.68**. The calculated value agrees with the estimate.
+**Estimate:** above 4.20, because [A⁻] > [HA]. **Calculate:** pH = pK<sub>a</sub> + log([A⁻]/[HA]) = 4.20 + log(0.30/0.10) = 4.20 + 0.48 = **4.68**. The calculated value agrees with the estimate.
 </details>
 
 **Task 6 (Unit 9).** Make a claim about the sign of ΔS° for N₂(g) + 3H₂(g) → 2NH₃(g). Justify your claim.

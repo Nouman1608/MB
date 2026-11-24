@@ -47,23 +47,23 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-## From K_a to a buffer equation
+## From K<sub>a</sub> to a buffer equation
 
 In [Topic 8.8](/advanced-course-resources/chemistry/8-8-properties-buffers-study-guide/) you saw that a buffer holds large amounts of both members of a conjugate pair: a weak acid HA and its conjugate base A⁻. This topic answers the next question: **what pH does a given buffer have?**
 
 The answer comes straight from the equilibrium you already know:
 
-HA(aq) + H₂O(l) ⇌ H₃O⁺(aq) + A⁻(aq)  K_a = [H₃O⁺][A⁻] / [HA]
+HA(aq) + H₂O(l) ⇌ H₃O⁺(aq) + A⁻(aq)  K<sub>a</sub> = [H₃O⁺][A⁻] / [HA]
 
 Rearrange for [H₃O⁺]:
 
-[H₃O⁺] = K_a × [HA] / [A⁻]
+[H₃O⁺] = K<sub>a</sub> × [HA] / [A⁻]
 
-Now take −log of both sides. Because −log(K_a) = pKa and −log of a ratio flips it:
+Now take −log of both sides. Because −log(K<sub>a</sub>) = pKa and −log of a ratio flips it:
 
 **pH = pKa + log([A⁻] / [HA])**
 
-This is the **Henderson-Hasselbalch equation**. You will not be asked to derive it, but the three lines above show why it holds: it is the K_a expression written in log form. It is valid whenever the solution is at equilibrium, but it is most useful for buffers, where both [HA] and [A⁻] are large.
+This is the **Henderson-Hasselbalch equation**. You will not be asked to derive it, but the three lines above show why it holds: it is the K<sub>a</sub> expression written in log form. It is valid whenever the solution is at equilibrium, but it is most useful for buffers, where both [HA] and [A⁻] are large.
 
 ### Why the starting amounts work
 
@@ -121,7 +121,7 @@ Two useful shortcuts:
 
 Both components are dissolved in the same solution, so each concentration is "moles ÷ the same volume". The volume cancels:
 
-[A⁻]/[HA] = (n_A⁻ ÷ V) / (n_HA ÷ V) = n_A⁻ / n_HA
+[A⁻]/[HA] = (n<sub>A⁻</sub> ÷ V) / (n<sub>HA</sub> ÷ V) = n<sub>A⁻</sub> / n<sub>HA</sub>
 
 So when you mix two solutions to make a buffer, you can work in moles and skip the new volume. The same idea explains why **diluting a buffer with water does not change its pH** in this model: the ratio stays the same.
 
@@ -131,7 +131,7 @@ A buffer can also be made from a weak base B and its conjugate acid BH⁺, for e
 
 pH = pKa(BH⁺) + log([B] / [BH⁺])
 
-If you are given K_b for the base, convert first: pKb = −log K_b, then pKa = 14.00 − pKb (at 25 °C). For ammonia, pKa(NH₄⁺) = 9.25, so pKb(NH₃) = 4.75. Using pKb in place of pKa is a common error; it gives a pH that is far too low.
+If you are given K<sub>b</sub> for the base, convert first: pKb = −log K<sub>b</sub>, then pKa = 14.00 − pKb (at 25 °C). For ammonia, pKa(NH₄⁺) = 9.25, so pKb(NH₃) = 4.75. Using pKb in place of pKa is a common error; it gives a pH that is far too low.
 
 ## Why a small addition barely changes the pH
 
@@ -177,10 +177,10 @@ The pH depends on **log of the ratio**. If both amounts are large, a small shift
 
 ## Worked example 4: finding pKa from a measured buffer pH
 
-**Question.** A student makes a buffer from a fictional weak acid HQ and its sodium salt with [Q⁻]/[HQ] = 0.40. A calibrated pH meter reads 5.12. Find the pKa and K_a of HQ.
+**Question.** A student makes a buffer from a fictional weak acid HQ and its sodium salt with [Q⁻]/[HQ] = 0.40. A calibrated pH meter reads 5.12. Find the pKa and K<sub>a</sub> of HQ.
 
 1. pKa = pH − log([Q⁻]/[HQ]) = 5.12 − log(0.40) = 5.12 − (−0.398) = **5.52**.
-2. K_a = 10^−5.52 = **3.0 × 10⁻⁶**.
+2. K<sub>a</sub> = 10^−5.52 = **3.0 × 10⁻⁶**.
 
 **Check.** The ratio is less than 1 (more acid than base), so the pH must be below the pKa: 5.12 < 5.52. This is also how a pH measurement on a buffer with equal amounts of HA and A⁻ gives the pKa directly: pH = pKa when the ratio is 1.
 

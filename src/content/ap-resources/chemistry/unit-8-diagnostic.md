@@ -41,11 +41,11 @@ Use this page to find **which Unit 8 topics to revisit**. Answer every question 
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score.
 
-**Calculator and data.** Scientific calculator allowed. Data are at 25 °C (K_w = 1.0 × 10⁻¹⁴, pH + pOH = 14.00) unless a question says otherwise. Lettered acids and bases are fictional and monoprotic. Volumes add on mixing.
+**Calculator and data.** Scientific calculator allowed. Data are at 25 °C (K<sub>w</sub> = 1.0 × 10⁻¹⁴, pH + pOH = 14.00) unless a question says otherwise. Lettered acids and bases are fictional and monoprotic. Volumes add on mixing.
 
 ## Question 1 (multiple choice · 8.1)
 
-At a temperature where pK_w = 13.60, a solution has pH 6.95. Which statement is correct?
+At a temperature where pK<sub>w</sub> = 13.60, a solution has pH 6.95. Which statement is correct?
 
 - (A) The solution is acidic, because its pH is below 7.
 - (B) The solution is neutral, because its pH is close to 7.
@@ -55,11 +55,11 @@ At a temperature where pK_w = 13.60, a solution has pH 6.95. Which statement is 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** Neutral means [H₃O⁺] = [OH⁻], so here neutral pH = pK_w ÷ 2 = 6.80. pOH = 6.65, so [OH⁻] = 2.2 × 10⁻⁷ M exceeds [H₃O⁺] = 1.1 × 10⁻⁷ M.
+**Answer: (C).** Neutral means [H₃O⁺] = [OH⁻], so here neutral pH = pK<sub>w</sub> ÷ 2 = 6.80. pOH = 6.65, so [OH⁻] = 2.2 × 10⁻⁷ M exceeds [H₃O⁺] = 1.1 × 10⁻⁷ M.
 
-- (A) pH 7 divides only when pK_w = 14.00.
+- (A) pH 7 divides only when pK<sub>w</sub> = 14.00.
 - (B) Neutral means equal ion concentrations, not "close to 7".
-- (D) pK_w and pH already give [OH⁻].
+- (D) pK<sub>w</sub> and pH already give [OH⁻].
 
 **If you missed this:** read "Neutral means equal, not pH 7" in the [Topic 8.1 study guide](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-study-guide/).
 </details>
@@ -86,7 +86,7 @@ Which solution has the **highest** pH?
 
 ## Question 3 (multiple choice · 8.3)
 
-A 0.050 M solution of the weak acid HV is 2.0% ionized. What is K_a for HV?
+A 0.050 M solution of the weak acid HV is 2.0% ionized. What is K<sub>a</sub> for HV?
 
 - (A) 1.0 × 10⁻³
 - (B) 2.0 × 10⁻⁵
@@ -96,9 +96,9 @@ A 0.050 M solution of the weak acid HV is 2.0% ionized. What is K_a for HV?
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** [H₃O⁺] = [V⁻] = 0.020 × 0.050 = 1.0 × 10⁻³ M, and [HV] = 0.050 − 0.0010 = 0.049 M. K_a = (1.0 × 10⁻³)² ÷ 0.049 = 2.0 × 10⁻⁵.
+**Answer: (B).** [H₃O⁺] = [V⁻] = 0.020 × 0.050 = 1.0 × 10⁻³ M, and [HV] = 0.050 − 0.0010 = 0.049 M. K<sub>a</sub> = (1.0 × 10⁻³)² ÷ 0.049 = 2.0 × 10⁻⁵.
 
-- (A) is [H₃O⁺], not K_a.
+- (A) is [H₃O⁺], not K<sub>a</sub>.
 - (C) squares the fraction ionized (0.020²).
 - (D) forgets to divide by [HV].
 
@@ -107,26 +107,26 @@ A 0.050 M solution of the weak acid HV is 2.0% ionized. What is K_a for HV?
 
 ## Question 4 (short answer · 8.3)
 
-The weak base D has pK_b = 4.30.
+The weak base D has pK<sub>b</sub> = 4.30.
 
 (a) Calculate the pH and percent ionization of 0.080 M D.
-(b) Calculate K_a for HD⁺, the conjugate acid of D. Is HD⁺ stronger or weaker than an acid with K_a = 1.0 × 10⁻⁹?
+(b) Calculate K<sub>a</sub> for HD⁺, the conjugate acid of D. Is HD⁺ stronger or weaker than an acid with K<sub>a</sub> = 1.0 × 10⁻⁹?
 
 <details>
 <summary>Worked answer</summary>
 
-**(a)** D + H₂O ⇌ HD⁺ + OH⁻. K_b = 10⁻⁴·³⁰ = 5.0 × 10⁻⁵.
+**(a)** D + H₂O ⇌ HD⁺ + OH⁻. K<sub>b</sub> = 10⁻⁴·³⁰ = 5.0 × 10⁻⁵.
 
 [OH⁻] = x ≈ √(5.0 × 10⁻⁵ × 0.080) = 2.0 × 10⁻³ M, which is **2.5%** ionized (under 5%, so the shortcut is fine). pOH = 2.70, so **pH = 11.30**.
 
-**(b)** K_a = K_w ÷ K_b = 1.0 × 10⁻¹⁴ ÷ 5.0 × 10⁻⁵ = **2.0 × 10⁻¹⁰** (pK_a = 9.70). Smaller K_a, so HD⁺ is **weaker**.
+**(b)** K<sub>a</sub> = K<sub>w</sub> ÷ K<sub>b</sub> = 1.0 × 10⁻¹⁴ ÷ 5.0 × 10⁻⁵ = **2.0 × 10⁻¹⁰** (pK<sub>a</sub> = 9.70). Smaller K<sub>a</sub>, so HD⁺ is **weaker**.
 
 **If you missed this:** read "Weak bases work the same way" and "Linking a conjugate pair" in the [Topic 8.3 study guide](/advanced-course-resources/chemistry/8-3-weak-acid-base-equilibria-study-guide/).
 </details>
 
 ## Question 5 (multiple choice · 8.4)
 
-20.0 mL of 0.100 M HK (pK_a = 4.20) is mixed with 25.0 mL of 0.100 M NaOH. What is the pH of the mixture?
+20.0 mL of 0.100 M HK (pK<sub>a</sub> = 4.20) is mixed with 25.0 mL of 0.100 M NaOH. What is the pH of the mixture?
 
 - (A) 4.20
 - (B) 8.42
@@ -150,25 +150,25 @@ The weak base D has pK_b = 4.30.
 25.00 mL of a monoprotic acid is titrated with 0.120 M NaOH. The pH starts at 2.86, is 4.65 after 9.00 mL, and is 8.68 at the steepest rise, at 18.00 mL. Which conclusion is correct?
 
 - (A) Strong acid; concentration 0.0864 M
-- (B) Weak acid; concentration 0.0864 M; pK_a 4.65
-- (C) Weak acid; concentration 0.0432 M; pK_a 4.65
-- (D) Weak acid; concentration 0.0864 M; pK_a 8.68
+- (B) Weak acid; concentration 0.0864 M; pK<sub>a</sub> 4.65
+- (C) Weak acid; concentration 0.0432 M; pK<sub>a</sub> 4.65
+- (D) Weak acid; concentration 0.0864 M; pK<sub>a</sub> 8.68
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** At equivalence n(acid) = 18.00 mL × 0.120 M = 2.160 mmol, so c = 2.160 ÷ 25.00 = 0.0864 M. At 9.00 mL (half-equivalence) pH = pK_a = 4.65. A basic equivalence point means a weak acid.
+**Answer: (B).** At equivalence n(acid) = 18.00 mL × 0.120 M = 2.160 mmol, so c = 2.160 ÷ 25.00 = 0.0864 M. At 9.00 mL (half-equivalence) pH = pK<sub>a</sub> = 4.65. A basic equivalence point means a weak acid.
 
 - (A) A strong acid would start near pH 1.06 and reach pH 7.00 at equivalence.
 - (C) uses the half-equivalence volume for the moles.
-- (D) reads pK_a at equivalence, not halfway.
+- (D) reads pK<sub>a</sub> at equivalence, not halfway.
 
 **If you missed this:** read "The equivalence point: moles, not pH" and "The half-equivalence point" in the [Topic 8.5 study guide](/advanced-course-resources/chemistry/8-5-acid-base-titrations-study-guide/).
 </details>
 
 ## Question 7 (short answer · 8.5)
 
-Two 20.00 mL samples of the weak acid HE (pK_a = 5.20) are titrated: sample 1 is 0.100 M HE with 0.100 M NaOH; sample 2 is 0.0100 M HE with 0.0100 M NaOH.
+Two 20.00 mL samples of the weak acid HE (pK<sub>a</sub> = 5.20) are titrated: sample 1 is 0.100 M HE with 0.100 M NaOH; sample 2 is 0.0100 M HE with 0.0100 M NaOH.
 
 (a) Compare the equivalence volumes and the pH values at the half-equivalence points.
 (b) Calculate the pH at each equivalence point and explain the difference.
@@ -176,9 +176,9 @@ Two 20.00 mL samples of the weak acid HE (pK_a = 5.20) are titrated: sample 1 is
 <details>
 <summary>Worked answer</summary>
 
-**(a)** Both need **20.00 mL**: base and acid have equal concentrations. Both half-equivalence points (10.00 mL) have **pH 5.20**, because pH = pK_a whenever [HE] = [E⁻], at any concentration.
+**(a)** Both need **20.00 mL**: base and acid have equal concentrations. Both half-equivalence points (10.00 mL) have **pH 5.20**, because pH = pK<sub>a</sub> whenever [HE] = [E⁻], at any concentration.
 
-**(b)** Only E⁻ is left, in 40.00 mL. K_b = K_w ÷ K_a = 1.6 × 10⁻⁹.
+**(b)** Only E⁻ is left, in 40.00 mL. K<sub>b</sub> = K<sub>w</sub> ÷ K<sub>a</sub> = 1.6 × 10⁻⁹.
 
 - Sample 1: [E⁻] = 0.0500 M; [OH⁻] = √(1.6 × 10⁻⁹ × 0.0500) = 8.9 × 10⁻⁶ M; **pH = 8.95**.
 - Sample 2: [E⁻] = 0.00500 M; [OH⁻] = 2.8 × 10⁻⁶ M; **pH = 8.45**.
@@ -211,7 +211,7 @@ Which ion is the **weakest** base?
 
 ## Question 9 (multiple choice · 8.7)
 
-The weak acid HD (pK_a = 4.4) is added in small amounts to a solution held at pH 1.4 and to one held at pH 7.4. Which statement is correct?
+The weak acid HD (pK<sub>a</sub> = 4.4) is added in small amounts to a solution held at pH 1.4 and to one held at pH 7.4. Which statement is correct?
 
 - (A) At pH 1.4 about 99.9% is HD; at pH 7.4 about 99.9% is D⁻.
 - (B) HD predominates in both, because a weak acid is mostly un-ionized.
@@ -221,13 +221,13 @@ The weak acid HD (pK_a = 4.4) is added in small amounts to a solution held at pH
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** [D⁻]/[HD] = 10^(pH − pK_a): 10⁻³ at pH 1.4, 10³ at pH 7.4.
+**Answer: (A).** [D⁻]/[HD] = 10^(pH − pK<sub>a</sub>): 10⁻³ at pH 1.4, 10³ at pH 7.4.
 
 - (B) "Mostly un-ionized" applies to a weak acid alone, not at a fixed pH.
-- (C) reverses the rule: pH < pK_a favours the protonated form.
-- (D) The forms are equal at pH = pK_a (4.4), not pH 7.
+- (C) reverses the rule: pH < pK<sub>a</sub> favours the protonated form.
+- (D) The forms are equal at pH = pK<sub>a</sub> (4.4), not pH 7.
 
-**If you missed this:** read "The rule: compare pH with pK_a" in the [Topic 8.7 study guide](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/).
+**If you missed this:** read "The rule: compare pH with pK<sub>a</sub>" in the [Topic 8.7 study guide](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/).
 </details>
 
 ## Question 10 (short answer · 8.8)
@@ -252,7 +252,7 @@ A buffer contains 0.080 mol NaHCO₃ and 0.050 mol Na₂CO₃.
 
 ## Question 11 (multiple choice · 8.9)
 
-A buffer is 0.30 M HW and 0.20 M NaW (pK_a of HW = 6.10). A sample is diluted tenfold with water. What is the pH of the diluted buffer?
+A buffer is 0.30 M HW and 0.20 M NaW (pK<sub>a</sub> of HW = 6.10). A sample is diluted tenfold with water. What is the pH of the diluted buffer?
 
 - (A) 5.92
 - (B) 6.28
@@ -273,10 +273,10 @@ A buffer is 0.30 M HW and 0.20 M NaW (pK_a of HW = 6.10). A sample is diluted te
 
 ## Question 12 (multiple choice · 8.10)
 
-A buffer made from the weak acid HL (pK_a = 5.10) and its salt NaL has pH 5.40. Which statement about its buffer capacity is correct?
+A buffer made from the weak acid HL (pK<sub>a</sub> = 5.10) and its salt NaL has pH 5.40. Which statement about its buffer capacity is correct?
 
 - (A) It can neutralize more added acid than added base, because it has more L⁻ than HL.
-- (B) It can neutralize more added base than added acid, because pH > pK_a means more HL.
+- (B) It can neutralize more added base than added acid, because pH > pK<sub>a</sub> means more HL.
 - (C) Its capacity is equal both ways, because only total concentration matters.
 - (D) Nothing can be said without the volume.
 
@@ -285,7 +285,7 @@ A buffer made from the weak acid HL (pK_a = 5.10) and its salt NaL has pH 5.40. 
 
 **Answer: (A).** [L⁻]/[HL] = 10^(5.40 − 5.10) ≈ 2.0: twice as much L⁻, the member that reacts with added acid.
 
-- (B) pH above pK_a means more of the **base** form.
+- (B) pH above pK<sub>a</sub> means more of the **base** form.
 - (C) Total concentration sets overall capacity; the ratio sets which direction is stronger.
 - (D) Volume scales both directions alike.
 
@@ -304,7 +304,7 @@ Calcium oxalate, CaC₂O₄, is slightly soluble; oxalic acid is a weak acid. Wh
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** CaC₂O₄(s) ⇌ Ca²⁺(aq) + C₂O₄²⁻(aq). Oxalate is a weak base, so H₃O⁺ converts it to HC₂O₄⁻. [C₂O₄²⁻] falls, Q < K_sp, and more solid dissolves.
+**Answer: (A).** CaC₂O₄(s) ⇌ Ca²⁺(aq) + C₂O₄²⁻(aq). Oxalate is a weak base, so H₃O⁺ converts it to HC₂O₄⁻. [C₂O₄²⁻] falls, Q < K<sub>sp</sub>, and more solid dissolves.
 
 - (B) and (D) add a common ion, which lowers the solubility.
 - (C) Na⁺ and NO₃⁻ react with neither ion.
@@ -324,7 +324,7 @@ A short answer counts as missed if any part was wrong.
 | 8.4 Acid-Base Reactions and Buffers | 5 | [Study guide](/advanced-course-resources/chemistry/8-4-acid-base-reactions-buffers-study-guide/) |
 | 8.5 Acid-Base Titrations | 6, 7 | [Study guide](/advanced-course-resources/chemistry/8-5-acid-base-titrations-study-guide/) |
 | 8.6 Molecular Structure of Acids and Bases | 8 | [Study guide](/advanced-course-resources/chemistry/8-6-molecular-structure-acids-bases-study-guide/) |
-| 8.7 pH and pK_a | 9 | [Study guide](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/) |
+| 8.7 pH and pK<sub>a</sub> | 9 | [Study guide](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/) |
 | 8.8 Properties of Buffers | 10 | [Study guide](/advanced-course-resources/chemistry/8-8-properties-buffers-study-guide/) |
 | 8.9 Henderson-Hasselbalch Equation | 11 | [Study guide](/advanced-course-resources/chemistry/8-9-henderson-hasselbalch-equation-study-guide/) |
 | 8.10 Buffer Capacity | 12 | [Study guide](/advanced-course-resources/chemistry/8-10-buffer-capacity-study-guide/) |
@@ -333,5 +333,5 @@ A short answer counts as missed if any part was wrong.
 ## How to use your result
 
 - **Look at topics, not the total.** Count a guess as missed.
-- **Fix gaps in order.** Topics 8.1 to 8.3 support everything else; Topics 8.4 and 8.5 add "react first, then equilibrium"; Topics 8.7 to 8.11 compare pH with pK_a. Start with the earliest topic you missed.
+- **Fix gaps in order.** Topics 8.1 to 8.3 support everything else; Topics 8.4 and 8.5 add "react first, then equilibrium"; Topics 8.7 to 8.11 compare pH with pK<sub>a</sub>. Start with the earliest topic you missed.
 - **Then practise.** After each study guide, try that topic's practice questions, then the [Unit 8 mixed review](/advanced-course-resources/chemistry/unit-8-review/), where each question combines topics.

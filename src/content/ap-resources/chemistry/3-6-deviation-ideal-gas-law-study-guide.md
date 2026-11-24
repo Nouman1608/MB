@@ -64,7 +64,7 @@ A simple way to see a deviation is to measure P, V, n and T for a real gas and c
 - **PV/nRT < 1:** the measured pressure (or volume) is **lower** than the ideal prediction. Attractions between particles are the main effect.
 - **PV/nRT > 1:** the measured pressure (or volume) is **higher** than the ideal prediction. The volume of the particles is the main effect.
 
-You can also compare a single measured value directly with the ideal value: calculate P_ideal = nRT/V and compare it with the measured pressure. (Background: PV/nRT is often called the compressibility factor, Z. You do not need the name.)
+You can also compare a single measured value directly with the ideal value: calculate P<sub>ideal</sub> = nRT/V and compare it with the measured pressure. (Background: PV/nRT is often called the compressibility factor, Z. You do not need the name.)
 
 ## Effect 1: attractions lower the pressure
 
@@ -186,8 +186,8 @@ At extremely high pressure the comparison is about size instead: the larger CH�
 (b) Calculate PV/nRT and state which effect is dominant. Justify your answer at the particle level.
 (c) Predict how PV/nRT would change if the cylinder were heated to 500 K.
 
-1. **(a)** P_ideal = nRT / V = (2.00 mol)(0.08206 L atm mol⁻¹ K⁻¹)(250 K) / 5.00 L = **8.21 atm**.
-2. **(b)** PV/nRT = P_measured / P_ideal = 7.65 / 8.206 = **0.932**. The real pressure is about 6.8% lower than ideal.
+1. **(a)** P<sub>ideal</sub> = nRT / V = (2.00 mol)(0.08206 L atm mol⁻¹ K⁻¹)(250 K) / 5.00 L = **8.21 atm**.
+2. **(b)** PV/nRT = P<sub>measured</sub> / P<sub>ideal</sub> = 7.65 / 8.206 = **0.932**. The real pressure is about 6.8% lower than ideal.
 3. Since the ratio is **below 1**, attractions between the particles are the dominant effect. Attractions pull particles back as they approach the walls, so they collide with the walls less often and less forcefully than ideal particles would.
 4. **(c)** At 500 K the particles have twice the average kinetic energy. The attractions are now small compared with the kinetic energy, and the gas is further from condensing. PV/nRT would move **closer to 1**: the gas would behave more ideally.
 

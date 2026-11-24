@@ -143,12 +143,12 @@ Air is a mixture, and so is the gas inside most reaction vessels. In an ideal mi
 
 Two rules follow (Dalton's law of partial pressures):
 
-- **The total pressure is the sum of the partial pressures:** P_total = P_A + P_B + P_C + …
-- **Each partial pressure is proportional to the gas's share of the moles:** P_A = X_A × P_total, where the **mole fraction** X_A = n_A ÷ n_total.
+- **The total pressure is the sum of the partial pressures:** P<sub>total</sub> = P<sub>A</sub> + P<sub>B</sub> + P<sub>C</sub> + …
+- **Each partial pressure is proportional to the gas's share of the moles:** P<sub>A</sub> = X<sub>A</sub> × P<sub>total</sub>, where the **mole fraction** X<sub>A</sub> = n<sub>A</sub> ÷ n<sub>total</sub>.
 
 Mole fractions have no unit, and all the mole fractions in a mixture add up to 1. Note that X uses **moles**, not masses. A gram of hydrogen contributes far more particles, and so far more pressure, than a gram of carbon dioxide.
 
-You can also find any partial pressure directly: P_A = n_A RT / V. This works because each gas fills the whole container.
+You can also find any partial pressure directly: P<sub>A</sub> = n<sub>A</sub> RT / V. This works because each gas fills the whole container.
 
 ## Molar mass from gas density
 
@@ -191,14 +191,14 @@ For example, a gas with density 0.716 g L⁻¹ at 0 °C and 1.00 atm has M = 0.7
 
 **Question.** A 5.00 L flask at 300. K contains 0.150 mol N₂, 0.0500 mol O₂ and 0.0100 mol CO₂. Find the total pressure, the mole fraction of each gas and each partial pressure.
 
-1. Total amount: n_total = 0.150 + 0.0500 + 0.0100 = 0.210 mol.
-2. Total pressure: P_total = n_total RT / V = 0.210 × 0.08206 × 300. ÷ 5.00 = 1.034 atm.
+1. Total amount: n<sub>total</sub> = 0.150 + 0.0500 + 0.0100 = 0.210 mol.
+2. Total pressure: P<sub>total</sub> = n<sub>total</sub> RT / V = 0.210 × 0.08206 × 300. ÷ 5.00 = 1.034 atm.
 3. Mole fractions: X(N₂) = 0.150 ÷ 0.210 = 0.714; X(O₂) = 0.0500 ÷ 0.210 = 0.238; X(CO₂) = 0.0100 ÷ 0.210 = 0.0476.
-4. Partial pressures, P = X × P_total: N₂ 0.739 atm; O₂ 0.246 atm; CO₂ 0.0492 atm.
+4. Partial pressures, P = X × P<sub>total</sub>: N₂ 0.739 atm; O₂ 0.246 atm; CO₂ 0.0492 atm.
 
 **Check.** 0.739 + 0.246 + 0.0492 = 1.034 atm, equal to the total. The unrounded mole fractions add up to exactly 1 (the rounded values give 0.9996). You can also check one value directly: P(N₂) = 0.150 × 0.08206 × 300. ÷ 5.00 = 0.739 atm.
 
-**Answer.** P_total = 1.03 atm; partial pressures N₂ 0.739 atm, O₂ 0.246 atm, CO₂ 0.0492 atm.
+**Answer.** P<sub>total</sub> = 1.03 atm; partial pressures N₂ 0.739 atm, O₂ 0.246 atm, CO₂ 0.0492 atm.
 
 ## Common misconceptions
 

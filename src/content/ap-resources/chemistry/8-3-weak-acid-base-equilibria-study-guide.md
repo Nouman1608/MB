@@ -52,7 +52,7 @@ In [Topic 8.2](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-base
 
 HA(aq) + H₂O(l) ⇌ H₃O⁺(aq) + A⁻(aq)
 
-but its degree of ionization is set by both the acid ionization constant and the analytical concentration. In the ordinary examples where the concentration is large compared with K_a, only a small percentage ionizes:
+but its degree of ionization is set by both the acid ionization constant and the analytical concentration. In the ordinary examples where the concentration is large compared with K<sub>a</sub>, only a small percentage ionizes:
 
 - [H₃O⁺] is then much less than the starting concentration of HA.
 - Most acid remains as un-ionized HA.
@@ -60,13 +60,13 @@ but its degree of ionization is set by both the acid ionization constant and the
 
 These small-ionization statements are approximations to check, not a definition that holds at every dilution. A weak acid can become substantially ionized when sufficiently dilute.
 
-That constant is the **acid ionization constant**, K_a. Water is the solvent, so it is left out:
+That constant is the **acid ionization constant**, K<sub>a</sub>. Water is the solvent, so it is left out:
 
-K_a = [H₃O⁺][A⁻] / [HA]
+K<sub>a</sub> = [H₃O⁺][A⁻] / [HA]
 
-K_a values are often small and awkward, so they are also reported as **pK_a = −log K_a**. A smaller K_a means a larger pK_a and a weaker acid. Acetic acid, for example, has K_a = 1.8 × 10⁻⁵, so pK_a = −log(1.8 × 10⁻⁵) = 4.74. To go back, K_a = 10^(−pK_a).
+K<sub>a</sub> values are often small and awkward, so they are also reported as **pK<sub>a</sub> = −log K<sub>a</sub>**. A smaller K<sub>a</sub> means a larger pK<sub>a</sub> and a weaker acid. Acetic acid, for example, has K<sub>a</sub> = 1.8 × 10⁻⁵, so pK<sub>a</sub> = −log(1.8 × 10⁻⁵) = 4.74. To go back, K<sub>a</sub> = 10^(−pK<sub>a</sub>).
 
-Like any equilibrium constant, K_a changes only with temperature. Diluting the acid or adding more of it does not change K_a.
+Like any equilibrium constant, K<sub>a</sub> changes only with temperature. Diluting the acid or adding more of it does not change K<sub>a</sub>.
 
 ## Seeing every species in the solution
 
@@ -105,10 +105,10 @@ The figure shows the four species in 0.10 M acetic acid at equilibrium. The scal
 <text x="171" y="194">7.5 × 10⁻¹²</text>
 </g>
 </svg>
-<figcaption>Figure 1. Species in 0.10 M acetic acid at 25 °C (K_a = 1.8 × 10⁻⁵), each row marked with a different symbol and labelled with its value. Only 1.3% of the acid is ionized. The pH is 2.88, not the 1.00 a 0.10 M strong acid would give.</figcaption>
+<figcaption>Figure 1. Species in 0.10 M acetic acid at 25 °C (K<sub>a</sub> = 1.8 × 10⁻⁵), each row marked with a different symbol and labelled with its value. Only 1.3% of the acid is ionized. The pH is 2.88, not the 1.00 a 0.10 M strong acid would give.</figcaption>
 </figure>
 
-The ranking [HA] ≫ [H₃O⁺] ≈ [A⁻] ≫ [OH⁻] holds for almost any weak acid solution. [H₃O⁺] and [A⁻] are equal because each ionization makes one of each. (Water's own ionization adds a little H₃O⁺, but at these concentrations it is negligible.) [OH⁻] comes from K_w: [OH⁻] = K_w ÷ [H₃O⁺].
+The ranking [HA] ≫ [H₃O⁺] ≈ [A⁻] ≫ [OH⁻] holds for almost any weak acid solution. [H₃O⁺] and [A⁻] are equal because each ionization makes one of each. (Water's own ionization adds a little H₃O⁺, but at these concentrations it is negligible.) [OH⁻] comes from K<sub>w</sub>: [OH⁻] = K<sub>w</sub> ÷ [H₃O⁺].
 
 ## Calculating the pH of a weak acid
 
@@ -120,13 +120,13 @@ Use an ICE table, with c for the starting concentration and x for the amount tha
 | Change | −x | +x | +x |
 | Equilibrium | c − x | x | x |
 
-So K_a = x² / (c − x). Because x is small compared with c, you can usually write c − x ≈ c. Then:
+So K<sub>a</sub> = x² / (c − x). Because x is small compared with c, you can usually write c − x ≈ c. Then:
 
-**x = [H₃O⁺] ≈ √(K_a × c)** and **pH = −log x**
+**x = [H₃O⁺] ≈ √(K<sub>a</sub> × c)** and **pH = −log x**
 
-**Always check the approximation.** Work out (x ÷ c) × 100%. If it is under about 5%, the shortcut is fine. If not, solve the quadratic x² + K_a·x − K_a·c = 0 and take the positive root.
+**Always check the approximation.** Work out (x ÷ c) × 100%. If it is under about 5%, the shortcut is fine. If not, solve the quadratic x² + K<sub>a</sub>·x − K<sub>a</sub>·c = 0 and take the positive root.
 
-For example, a 0.010 M acid with K_a = 1.0 × 10⁻³ gives x ≈ 3.2 × 10⁻³ M with the shortcut: 32% of c, so the check fails. The quadratic gives x = 2.7 × 10⁻³ M and pH 2.57, not the 2.50 the shortcut predicts.
+For example, a 0.010 M acid with K<sub>a</sub> = 1.0 × 10⁻³ gives x ≈ 3.2 × 10⁻³ M with the shortcut: 32% of c, so the check fails. The quadratic gives x = 2.7 × 10⁻³ M and pH 2.57, not the 2.50 the shortcut predicts.
 
 ## Percent ionization
 
@@ -134,7 +134,7 @@ For example, a 0.010 M acid with K_a = 1.0 × 10⁻³ gives x ≈ 3.2 × 10⁻³
 
 You can find it in two ways:
 
-- from **pK_a and c**: calculate x first, then divide by c;
+- from **pK<sub>a</sub> and c**: calculate x first, then divide by c;
 - from **c and any one equilibrium concentration**, for example [H₃O⁺] from a measured pH, or [A⁻].
 
 Percent ionization is not a constant. Look at acetic acid at three concentrations:
@@ -145,14 +145,14 @@ Percent ionization is not a constant. Look at acetic acid at three concentration
 | 0.010 | 4.2 × 10⁻⁴ | 3.38 | 4.2% |
 | 0.0010 | 1.3 × 10⁻⁴ | 3.90 | 13% |
 
-Each tenfold dilution lowers [H₃O⁺] by only about √10 ≈ 3.2 times, so the pH rises by about 0.5, not 1. Meanwhile the percent ionization rises. This is Le Châtelier's principle: dilution lowers all concentrations, Q = x²/(c − x) drops below K_a, and more HA ionizes to restore K_a. (At 0.0010 M the 5% check fails, so these values come from the quadratic.)
+Each tenfold dilution lowers [H₃O⁺] by only about √10 ≈ 3.2 times, so the pH rises by about 0.5, not 1. Meanwhile the percent ionization rises. This is Le Châtelier's principle: dilution lowers all concentrations, Q = x²/(c − x) drops below K<sub>a</sub>, and more HA ionizes to restore K<sub>a</sub>. (At 0.0010 M the 5% check fails, so these values come from the quadratic.)
 
 ## Worked example 1: everything in a weak acid solution
 
-**Question.** The fictional acid HZ has pK_a = 5.30 at 25 °C. Find the pH, the percent ionization and the concentrations of all species in 0.150 M HZ.
+**Question.** The fictional acid HZ has pK<sub>a</sub> = 5.30 at 25 °C. Find the pH, the percent ionization and the concentrations of all species in 0.150 M HZ.
 
-1. K_a = 10^(−5.30) = 5.01 × 10⁻⁶.
-2. ICE table: K_a = x² / (0.150 − x) ≈ x² / 0.150.
+1. K<sub>a</sub> = 10^(−5.30) = 5.01 × 10⁻⁶.
+2. ICE table: K<sub>a</sub> = x² / (0.150 − x) ≈ x² / 0.150.
 3. x = √(5.01 × 10⁻⁶ × 0.150) = 8.67 × 10⁻⁴ M = [H₃O⁺] = [Z⁻].
 4. Check: (8.67 × 10⁻⁴ ÷ 0.150) × 100% = **0.58%**. Well under 5%, so the shortcut is fine.
 5. pH = −log(8.67 × 10⁻⁴) = **3.06**.
@@ -162,25 +162,25 @@ Each tenfold dilution lowers [H₃O⁺] by only about √10 ≈ 3.2 times, so th
 
 **Check.** pH 3.06 is above the 0.82 a 0.150 M strong acid would give, as it must be for a weak acid.
 
-## Worked example 2: K_a from a measured pH
+## Worked example 2: K<sub>a</sub> from a measured pH
 
-**Question.** A 0.0500 M solution of the fictional monoprotic acid HG has a measured pH of 3.10 at 25 °C. Calculate the percent ionization, K_a and pK_a.
+**Question.** A 0.0500 M solution of the fictional monoprotic acid HG has a measured pH of 3.10 at 25 °C. Calculate the percent ionization, K<sub>a</sub> and pK<sub>a</sub>.
 
 1. [H₃O⁺] = 10^(−3.10) = 7.94 × 10⁻⁴ M. This is x, so [G⁻] = 7.94 × 10⁻⁴ M too.
 2. Percent ionization = (7.94 × 10⁻⁴ ÷ 0.0500) × 100% = **1.6%**.
 3. [HG] = 0.0500 − 0.000794 = 0.0492 M.
-4. K_a = (7.94 × 10⁻⁴)² ÷ 0.0492 = **1.3 × 10⁻⁵**.
-5. pK_a = −log(1.28 × 10⁻⁵) = **4.89**.
+4. K<sub>a</sub> = (7.94 × 10⁻⁴)² ÷ 0.0492 = **1.3 × 10⁻⁵**.
+5. pK<sub>a</sub> = −log(1.28 × 10⁻⁵) = **4.89**.
 
-**Why step 3 matters less here.** Using 0.0500 instead of 0.0492 gives K_a = 1.26 × 10⁻⁵, which still rounds to 1.3 × 10⁻⁵. The ionization is small, so either is fine. When the percent ionization is larger, subtract x.
+**Why step 3 matters less here.** Using 0.0500 instead of 0.0492 gives K<sub>a</sub> = 1.26 × 10⁻⁵, which still rounds to 1.3 × 10⁻⁵. The ionization is small, so either is fine. When the percent ionization is larger, subtract x.
 
 ## Weak bases work the same way
 
 A **weak base** B takes a proton from water and makes hydroxide ions, but only a small fraction of B reacts:
 
-B(aq) + H₂O(l) ⇌ HB⁺(aq) + OH⁻(aq)  K_b = [OH⁻][HB⁺] / [B], pK_b = −log K_b
+B(aq) + H₂O(l) ⇌ HB⁺(aq) + OH⁻(aq)  K<sub>b</sub> = [OH⁻][HB⁺] / [B], pK<sub>b</sub> = −log K<sub>b</sub>
 
-The ICE table is identical, with x = [OH⁻]. So x ≈ √(K_b × c). The answer is [OH⁻], which gives **pOH** first. Convert with pH = 14.00 − pOH at 25 °C.
+The ICE table is identical, with x = [OH⁻]. So x ≈ √(K<sub>b</sub> × c). The answer is [OH⁻], which gives **pOH** first. Convert with pH = 14.00 − pOH at 25 °C.
 
 The species ranking mirrors the acid case: [B] ≫ [HB⁺] ≈ [OH⁻] ≫ [H₃O⁺]. Most of the base stays as un-reacted B molecules, so [OH⁻] does **not** equal the starting base concentration, unlike the strong bases of Topic 8.2.
 
@@ -193,26 +193,26 @@ A routine that works for every weak acid or weak base problem:
 
 ## Worked example 3: a weak base and its conjugate acid
 
-**Question.** Ammonia has K_b = 1.8 × 10⁻⁵ at 25 °C. (a) Find the pH and percent ionization of 0.250 M NH₃. (b) Find K_a and pK_a for the ammonium ion, NH₄⁺.
+**Question.** Ammonia has K<sub>b</sub> = 1.8 × 10⁻⁵ at 25 °C. (a) Find the pH and percent ionization of 0.250 M NH₃. (b) Find K<sub>a</sub> and pK<sub>a</sub> for the ammonium ion, NH₄⁺.
 
 **(a)** NH₃ + H₂O ⇌ NH₄⁺ + OH⁻.
 1. x = [OH⁻] ≈ √(1.8 × 10⁻⁵ × 0.250) = 2.12 × 10⁻³ M.
 2. Check: (2.12 × 10⁻³ ÷ 0.250) × 100% = **0.85%**. The shortcut is fine.
 3. pOH = −log(2.12 × 10⁻³) = 2.67, so pH = 14.00 − 2.67 = **11.33**.
 
-**(b)** NH₄⁺ and NH₃ are a conjugate pair, so K_a = K_w ÷ K_b = 1.0 × 10⁻¹⁴ ÷ 1.8 × 10⁻⁵ = **5.6 × 10⁻¹⁰**, and pK_a = 14.00 − 4.74 = **9.26**.
+**(b)** NH₄⁺ and NH₃ are a conjugate pair, so K<sub>a</sub> = K<sub>w</sub> ÷ K<sub>b</sub> = 1.0 × 10⁻¹⁴ ÷ 1.8 × 10⁻⁵ = **5.6 × 10⁻¹⁰**, and pK<sub>a</sub> = 14.00 − 4.74 = **9.26**.
 
-**Common slip.** Treating 0.250 M NH₃ as a strong base gives pOH 0.60 and pH 13.40, far too high. A weak base must go through K_b.
+**Common slip.** Treating 0.250 M NH₃ as a strong base gives pOH 0.60 and pH 13.40, far too high. A weak base must go through K<sub>b</sub>.
 
-## Linking a conjugate pair: K_a × K_b = K_w
+## Linking a conjugate pair: K<sub>a</sub> × K<sub>b</sub> = K<sub>w</sub>
 
 Write the two equilibria for a conjugate pair HA / A⁻ and multiply their constants:
 
-K_a × K_b = ([H₃O⁺][A⁻]/[HA]) × ([HA][OH⁻]/[A⁻]) = [H₃O⁺][OH⁻] = K_w
+K<sub>a</sub> × K<sub>b</sub> = ([H₃O⁺][A⁻]/[HA]) × ([HA][OH⁻]/[A⁻]) = [H₃O⁺][OH⁻] = K<sub>w</sub>
 
-Taking −log of both sides gives **pK_a + pK_b = pK_w = 14.00 at 25 °C**.
+Taking −log of both sides gives **pK<sub>a</sub> + pK<sub>b</sub> = pK<sub>w</sub> = 14.00 at 25 °C**.
 
-| Acid | pK_a | Conjugate base | pK_b |
+| Acid | pK<sub>a</sub> | Conjugate base | pK<sub>b</sub> |
 |---|---|---|---|
 | Acetic acid | 4.74 | acetate, CH₃COO⁻ | 9.26 |
 | HZ (fictional) | 5.30 | Z⁻ | 8.70 |
@@ -222,14 +222,14 @@ The pattern: **the weaker the acid, the stronger its conjugate base**. Acetic ac
 
 ## Common misconceptions
 
-- **"[H₃O⁺] equals the acid concentration."** Only for a strong acid. For a weak acid, [H₃O⁺] is a small fraction of c and must come from K_a.
+- **"[H₃O⁺] equals the acid concentration."** Only for a strong acid. For a weak acid, [H₃O⁺] is a small fraction of c and must come from K<sub>a</sub>.
 - **"Weak means dilute."** Weak is about the fraction ionized; dilute is about the amount dissolved per litre.
-- **"A larger pK_a means a stronger acid."** The reverse: larger pK_a, smaller K_a, weaker acid.
+- **"A larger pK<sub>a</sub> means a stronger acid."** The reverse: larger pK<sub>a</sub>, smaller K<sub>a</sub>, weaker acid.
 - **"Diluting a weak acid lowers its percent ionization."** It raises it. [H₃O⁺] falls, but by less than c does.
-- **"Diluting changes K_a."** K_a changes only with temperature.
+- **"Diluting changes K<sub>a</sub>."** K<sub>a</sub> changes only with temperature.
 - **Reporting pOH as pH for a weak base.** The weak-base calculation gives [OH⁻]. Convert at the end.
 - **Skipping the 5% check.** The shortcut can be badly wrong when K is large or c is small.
-- **Using K_a for a base problem.** If you are given K_a of the conjugate acid, convert first with K_b = K_w ÷ K_a.
+- **Using K<sub>a</sub> for a base problem.** If you are given K<sub>a</sub> of the conjugate acid, convert first with K<sub>b</sub> = K<sub>w</sub> ÷ K<sub>a</sub>.
 
 ## Where this leads
 

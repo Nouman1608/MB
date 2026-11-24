@@ -47,7 +47,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 |---|---|---|
 | pH = pK<sub>a</sub> + log([A⁻]/[HA]) | buffer pH from the pair | find the pH of a buffer |
 | [A⁻]/[HA] = 10<sup>(pH − pK<sub>a</sub>)</sup> | rearranged form | find the ratio needed for a target pH |
-| n_A⁻ / n_HA = [A⁻]/[HA] | volume cancels | work in moles after mixing solutions |
+| n<sub>A⁻</sub> / n<sub>HA</sub> = [A⁻]/[HA] | volume cancels | work in moles after mixing solutions |
 | pK<sub>a</sub>(BH⁺) = 14.00 − pK<sub>b</sub>(B) | 25 °C | handle weak-base buffers such as NH₃/NH₄⁺ |
 
 | Ratio [A⁻]/[HA] | 0.10 | 1 | 10 |

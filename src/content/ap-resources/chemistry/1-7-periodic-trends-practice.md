@@ -134,7 +134,7 @@ The first ionization energies of three period 3 elements are: Na 496, Mg 738 and
 
 | Point | What earns it |
 |---|---|
-| 1 | (a) Mg has a greater nuclear charge (or Z_eff) **and** the electron is removed from the same shell or subshell with the same shielding |
+| 1 | (a) Mg has a greater nuclear charge (or Z<sub>eff</sub>) **and** the electron is removed from the same shell or subshell with the same shielding |
 | 1 | (b) Identifies that the Al electron is removed from 3p, while the Mg electron is removed from 3s |
 | 1 | (b) Links the 3p electron to higher energy or extra shielding by the 3s electrons, so it is held less strongly |
 | 1 | (c) Predicts "greater" with a reason: more protons, same shell, no new subshell or pairing |
@@ -162,7 +162,7 @@ The first ionization energies of potassium and caesium are 419 and 376 kJ mol⁻
 | Point | What earns it |
 |---|---|
 | 1 | (a) An estimate between the two given values, with a method (such as the mean) |
-| 1 | (b) Outer electron in a higher shell, farther from the nucleus, with similar Z_eff |
+| 1 | (b) Outer electron in a higher shell, farther from the nucleus, with similar Z<sub>eff</sub> |
 | 1 | (b) Links greater distance to weaker attraction (Coulomb's law), so less energy needed |
 | 1 | (c) "Greater", because Sr has more protons, the same shell and the same core shielding |
 

@@ -36,43 +36,43 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Recap
 
 - Dissolving an ionic solid is **reversible**. In a saturated solution with solid present, dissolving and precipitating happen at equal rates, so the ion concentrations stay constant.
-- The equilibrium constant for dissolving is the **solubility-product constant, K_sp**. It changes only with temperature.
+- The equilibrium constant for dissolving is the **solubility-product constant, K<sub>sp</sub>**. It changes only with temperature.
 - **Molar solubility, s**, is the moles of salt that dissolve per litre of saturated solution (mol L⁻¹). Multiply by the molar mass to get g L⁻¹.
-- You can go from K_sp to s, or from a measured s (or one measured ion concentration) back to K_sp.
-- **K_sp > 1** matches a soluble salt (all Na⁺, K⁺, NH₄⁺ and NO₃⁻ salts). Sparingly soluble salts have K_sp much less than 1.
+- You can go from K<sub>sp</sub> to s, or from a measured s (or one measured ion concentration) back to K<sub>sp</sub>.
+- **K<sub>sp</sub> > 1** matches a soluble salt (all Na⁺, K⁺, NH₄⁺ and NO₃⁻ salts). Sparingly soluble salts have K<sub>sp</sub> much less than 1.
 
 ## Key relationships
 
 | Relationship | Meaning | Use it to |
 |---|---|---|
 | MₓAᵧ(s) ⇌ x Mᵃ⁺(aq) + y Aᵇ⁻(aq) | dissolving equation | find the coefficients |
-| K_sp = [Mᵃ⁺]ˣ[Aᵇ⁻]ʸ | equilibrium ion concentrations | write the expression |
+| K<sub>sp</sub> = [Mᵃ⁺]ˣ[Aᵇ⁻]ʸ | equilibrium ion concentrations | write the expression |
 | [Mᵃ⁺] = xs, [Aᵇ⁻] = ys | from the formula | link ions to s |
-| K_sp = s² (1:1), 4s³ (1:2 or 2:1), 27s⁴ (1:3), 108s⁵ (2:3 or 3:2) | built from (xs)ˣ(ys)ʸ | solve for s or K_sp |
+| K<sub>sp</sub> = s² (1:1), 4s³ (1:2 or 2:1), 27s⁴ (1:3), 108s⁵ (2:3 or 3:2) | built from (xs)ˣ(ys)ʸ | solve for s or K<sub>sp</sub> |
 | g L⁻¹ = s × M | M = molar mass | convert solubility units |
-| Q vs K_sp (Topic 7.10) | Q > K_sp: precipitate forms | predict precipitation on mixing |
+| Q vs K<sub>sp</sub> (Topic 7.10) | Q > K<sub>sp</sub>: precipitate forms | predict precipitation on mixing |
 
 ## Assumptions
 
 - The ions do not react further with water or with each other.
 - Undissolved solid is present, so the solution is saturated.
-- The temperature matches the one the K_sp was measured at.
+- The temperature matches the one the K<sub>sp</sub> was measured at.
 
 ## Mistakes to avoid
 
 1. **Forgetting the coefficient inside the bracket.** For ZF₂, [F⁻] = 2s, not s.
 2. **Forgetting the power.** (2s)² = 4s², not 2s².
-3. **Including the solid** in the K_sp expression.
-4. **Ranking by K_sp when ion ratios differ.** Calculate s for each salt instead.
-5. **Calling s the K_sp.** s has a unit (mol L⁻¹); K_sp does not.
+3. **Including the solid** in the K<sub>sp</sub> expression.
+4. **Ranking by K<sub>sp</sub> when ion ratios differ.** Calculate s for each salt instead.
+5. **Calling s the K<sub>sp</sub>.** s has a unit (mol L⁻¹); K<sub>sp</sub> does not.
 6. **Using one ion concentration as s** when the ratio is not 1:1. If [Ag⁺] = 2.0 × 10⁻⁴ M for Ag₂X, then s = 1.0 × 10⁻⁴ M.
 7. **Forgetting dilution** when two solutions are mixed before you calculate Q.
 
 ## Quick self-check
 
-1. A 1:1 salt MX has K_sp = 4.0 × 10⁻¹⁰. What is its molar solubility? *(2.0 × 10⁻⁵ mol L⁻¹)*
-2. A 1:2 salt MX₂ has molar solubility 1.0 × 10⁻³ mol L⁻¹. What is its K_sp? *(4s³ = 4.0 × 10⁻⁹)*
-3. A 2:1 salt M₂X has K_sp = 4.0 × 10⁻¹². What is its molar solubility? *(∛(1.0 × 10⁻¹²) = 1.0 × 10⁻⁴ mol L⁻¹)*
-4. Which of these two is more soluble: salt 1 (1:1, K_sp = 4.0 × 10⁻¹⁰) or salt 3 (2:1, K_sp = 4.0 × 10⁻¹²)? *(Salt 3: s = 1.0 × 10⁻⁴ M against 2.0 × 10⁻⁵ M, despite the smaller K_sp)*
+1. A 1:1 salt MX has K<sub>sp</sub> = 4.0 × 10⁻¹⁰. What is its molar solubility? *(2.0 × 10⁻⁵ mol L⁻¹)*
+2. A 1:2 salt MX₂ has molar solubility 1.0 × 10⁻³ mol L⁻¹. What is its K<sub>sp</sub>? *(4s³ = 4.0 × 10⁻⁹)*
+3. A 2:1 salt M₂X has K<sub>sp</sub> = 4.0 × 10⁻¹². What is its molar solubility? *(∛(1.0 × 10⁻¹²) = 1.0 × 10⁻⁴ mol L⁻¹)*
+4. Which of these two is more soluble: salt 1 (1:1, K<sub>sp</sub> = 4.0 × 10⁻¹⁰) or salt 3 (2:1, K<sub>sp</sub> = 4.0 × 10⁻¹²)? *(Salt 3: s = 1.0 × 10⁻⁴ M against 2.0 × 10⁻⁵ M, despite the smaller K<sub>sp</sub>)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/7-11-introduction-solubility-equilibria-practice/).
