@@ -73,7 +73,7 @@ Suppose the net change is to the right:
 - Products are building up, so the **reverse rate rises**.
 - The gap between them shrinks until the two rates are equal. That is equilibrium.
 
-The same happens in the other direction. Figure 1 shows a fictional reaction, E(aq) ⇌ F(aq), started with only F present: [F] = 0.80 M and [E] = 0. Each direction is a single elementary step (Topic 5.4), so forward rate = k_f[E] and reverse rate = k_r[F], with the invented values k_f = 0.060 s⁻¹ and k_r = 0.020 s⁻¹.
+The same happens in the other direction. Figure 1 shows a fictional reaction, E(aq) ⇌ F(aq), started with only F present: [F] = 0.80 M and [E] = 0. Each direction is a single elementary step (Topic 5.4), so forward rate = k<sub>f</sub>[E] and reverse rate = k<sub>r</sub>[F], with the invented values k<sub>f</sub> = 0.060 s⁻¹ and k<sub>r</sub> = 0.020 s⁻¹.
 
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="eq72-r-title eq72-r-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -107,7 +107,7 @@ The same happens in the other direction. Figure 1 shows a fictional reaction, E(
 
 Read Figure 1 like this:
 
-- **At t = 0** there is no E, so the forward rate is zero. The reverse rate is k_r[F] = 0.020 × 0.80 = 0.016 M s⁻¹, its largest value.
+- **At t = 0** there is no E, so the forward rate is zero. The reverse rate is k<sub>r</sub>[F] = 0.020 × 0.80 = 0.016 M s⁻¹, its largest value.
 - **While reverse > forward**, F is used up and E builds up. The net change is to the left.
 - **As this happens** the reverse rate falls (less F) and the forward rate rises (more E).
 - **At equilibrium** [E] = 0.20 M and [F] = 0.60 M, and both rates are 0.012 M s⁻¹.
@@ -118,15 +118,15 @@ The equation is written E ⇌ F, but here the reaction runs "backwards" until eq
 
 When a reversible reaction is a single elementary step, you can write the rate law for each direction from its molecularity, just as in Topic 5.4:
 
-- A ⇌ B: forward rate = k_f[A], reverse rate = k_r[B].
-- 2A ⇌ A₂: forward rate = k_f[A]², reverse rate = k_r[A₂].
-- A + B ⇌ C + D: forward rate = k_f[A][B], reverse rate = k_r[C][D].
+- A ⇌ B: forward rate = k<sub>f</sub>[A], reverse rate = k<sub>r</sub>[B].
+- 2A ⇌ A₂: forward rate = k<sub>f</sub>[A]², reverse rate = k<sub>r</sub>[A₂].
+- A + B ⇌ C + D: forward rate = k<sub>f</sub>[A][B], reverse rate = k<sub>r</sub>[C][D].
 
 Then substitute the concentrations, compare the two rates, and read off the direction. For a reaction that is **not** a single step, you cannot write the rate laws from the equation, but the rule is the same: whichever measured rate is larger decides the direction.
 
 ## Worked example 1: which way will each mixture go?
 
-**Question.** Use the reaction E(aq) ⇌ F(aq) from Figure 1, with k_f = 0.060 s⁻¹ and k_r = 0.020 s⁻¹ at the temperature of the experiment. Three separate mixtures are prepared:
+**Question.** Use the reaction E(aq) ⇌ F(aq) from Figure 1, with k<sub>f</sub> = 0.060 s⁻¹ and k<sub>r</sub> = 0.020 s⁻¹ at the temperature of the experiment. Three separate mixtures are prepared:
 
 | Mixture | [E] (M) | [F] (M) |
 |---|---|---|
@@ -237,14 +237,14 @@ Figure 2 shows four snapshots of a fictional gas reaction, 2Z(g) ⇌ Z₂(g), in
 
 ## Preview: what if you upset an equilibrium?
 
-The rate rule also explains what happens when you disturb a system at equilibrium, which you will study in Topics 7.9 and 7.10. Take mixture 3 from Worked example 1 and suddenly add more F. The reverse rate, k_r[F], jumps up at once, but the forward rate, k_f[E], has not changed yet. Now reverse > forward, so there is a net change to the left until the rates match again. You do not need to calculate this now; just notice that the same rule, "the larger rate wins", decides the direction.
+The rate rule also explains what happens when you disturb a system at equilibrium, which you will study in Topics 7.9 and 7.10. Take mixture 3 from Worked example 1 and suddenly add more F. The reverse rate, k<sub>r</sub>[F], jumps up at once, but the forward rate, k<sub>f</sub>[E], has not changed yet. Now reverse > forward, so there is a net change to the left until the rates match again. You do not need to calculate this now; just notice that the same rule, "the larger rate wins", decides the direction.
 
 ## Common misconceptions
 
 - **"Forward means the reaction always goes left to right."** The net direction depends on which rate is larger. A mixture with too much product goes right to left.
 - **"At the start, the reaction only goes forward."** Only if no product is present. If both reactants and products are there, both directions run from the start.
-- **"The direction depends on the rate constants alone."** In Worked example 1, the same k_f and k_r gave a net change to the right for mixture 1 and to the left for mixture 2. Concentrations matter as much as the constants.
-- **"A larger k_f means the forward rate is always faster."** Rate = k × concentration term. A large k_f with a tiny reactant concentration can still give the smaller rate.
+- **"The direction depends on the rate constants alone."** In Worked example 1, the same k<sub>f</sub> and k<sub>r</sub> gave a net change to the right for mixture 1 and to the left for mixture 2. Concentrations matter as much as the constants.
+- **"A larger k<sub>f</sub> means the forward rate is always faster."** Rate = k × concentration term. A large k<sub>f</sub> with a tiny reactant concentration can still give the smaller rate.
 - **"The faster direction stays faster until the reactants run out."** The faster direction slows and the slower one speeds up until they are equal. Neither rate reaches zero.
 - **"Two snapshots with equal counts prove nothing is happening."** Equal counts at two times show no net change, not no reaction.
 - **"One snapshot is enough to tell the direction."** One snapshot shows amounts only. Direction needs a change over time or rate information.

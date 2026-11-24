@@ -68,7 +68,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Quick self-check
 
 1. A sealed jar of water at constant temperature has a steady water level. Which two rates are equal? *(The rate of evaporation and the rate of condensation.)*
-2. For A ⇌ 2B starting with 1.00 atm of A, P_A levels off at 0.70 atm. What is P_B at equilibrium? *(0.60 atm.)*
+2. For A ⇌ 2B starting with 1.00 atm of A, P<sub>A</sub> levels off at 0.70 atm. What is P<sub>B</sub> at equilibrium? *(0.60 atm.)*
 3. At equilibrium, is the forward rate zero? *(No. It equals the reverse rate, and both are greater than zero.)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/7-1-introduction-equilibrium-practice/).

@@ -49,21 +49,21 @@ reviewedDate: 2026-11-08
 
 Every weak acid exists in two forms. The **acid form** (protonated), HA, still holds its proton. The **base form** (deprotonated), A⁻, has lost it. In water the two forms are linked by an equilibrium:
 
-HA(aq) + H₂O(l) ⇌ H₃O⁺(aq) + A⁻(aq)  K_a = [H₃O⁺][A⁻] / [HA]
+HA(aq) + H₂O(l) ⇌ H₃O⁺(aq) + A⁻(aq)  K<sub>a</sub> = [H₃O⁺][A⁻] / [HA]
 
 In [Topic 8.3](/advanced-course-resources/chemistry/8-3-weak-acid-base-equilibria-study-guide/) the acid was the only thing setting the pH. In real solutions that is often not the case. A drug molecule in blood, an indicator in a titration flask or an amino acid in a cell sits in a solution whose pH is already fixed by other substances. The useful question then is: **at this pH, which form of the molecule is present at the higher concentration?** The answer is called the **protonation state**, and the form present at the higher concentration is the **predominant form**.
 
-## The rule: compare pH with pK_a
+## The rule: compare pH with pK<sub>a</sub>
 
-Rearrange the K_a expression so the ratio of the two forms is on its own:
+Rearrange the K<sub>a</sub> expression so the ratio of the two forms is on its own:
 
-[A⁻] / [HA] = K_a / [H₃O⁺]
+[A⁻] / [HA] = K<sub>a</sub> / [H₃O⁺]
 
-This one line holds the whole topic. It says the ratio of the two forms depends only on how K_a compares with the hydrogen-ion concentration already in the solution. Written with logarithms (p means −log₁₀), the comparison becomes a comparison of pK_a with pH:
+This one line holds the whole topic. It says the ratio of the two forms depends only on how K<sub>a</sub> compares with the hydrogen-ion concentration already in the solution. Written with logarithms (p means −log₁₀), the comparison becomes a comparison of pK<sub>a</sub> with pH:
 
-- **pH < pK_a:** [H₃O⁺] is larger than K_a, so [A⁻]/[HA] is less than 1. The **acid form, HA, predominates**.
-- **pH = pK_a:** [H₃O⁺] equals K_a, so [A⁻] = [HA]. Neither form predominates.
-- **pH > pK_a:** [H₃O⁺] is smaller than K_a, so [A⁻]/[HA] is greater than 1. The **base form, A⁻, predominates**.
+- **pH < pK<sub>a</sub>:** [H₃O⁺] is larger than K<sub>a</sub>, so [A⁻]/[HA] is less than 1. The **acid form, HA, predominates**.
+- **pH = pK<sub>a</sub>:** [H₃O⁺] equals K<sub>a</sub>, so [A⁻] = [HA]. Neither form predominates.
+- **pH > pK<sub>a</sub>:** [H₃O⁺] is smaller than K<sub>a</sub>, so [A⁻]/[HA] is greater than 1. The **base form, A⁻, predominates**.
 
 A useful way to remember it: a low pH means plenty of H₃O⁺, so the molecule keeps its proton. A high pH means few H₃O⁺ ions, so the molecule gives its proton up.
 
@@ -73,13 +73,13 @@ Because pH is a logarithm, each pH unit is a factor of 10 in [H₃O⁺], and the
 
 | Solution pH | [A⁻] / [HA] | Percentage present as HA |
 |---|---|---|
-| pK_a − 2 | 0.01 | about 99% |
-| pK_a − 1 | 0.1 | about 91% |
-| pK_a | 1 | 50% |
-| pK_a + 1 | 10 | about 9% |
-| pK_a + 2 | 100 | about 1% |
+| pK<sub>a</sub> − 2 | 0.01 | about 99% |
+| pK<sub>a</sub> − 1 | 0.1 | about 91% |
+| pK<sub>a</sub> | 1 | 50% |
+| pK<sub>a</sub> + 1 | 10 | about 9% |
+| pK<sub>a</sub> + 2 | 100 | about 1% |
 
-So "predominates" can mean anything from "just over half" to "almost all". Within about one unit of pK_a, both forms are present in large amounts. Two units or more away, one form is almost all of the substance. In Topic 8.9 you will meet this same relationship as the Henderson–Hasselbalch equation.
+So "predominates" can mean anything from "just over half" to "almost all". Within about one unit of pK<sub>a</sub>, both forms are present in large amounts. Two units or more away, one form is almost all of the substance. In Topic 8.9 you will meet this same relationship as the Henderson–Hasselbalch equation.
 
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="dist-title dist-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -104,42 +104,42 @@ So "predominates" can mean anything from "just over half" to "almost all". Withi
 <text x="170" y="22" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">pH &lt; pK_a: HA predominates</text>
 <text x="460" y="22" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">pH &gt; pK_a: A⁻ predominates</text>
 </svg>
-<figcaption>Figure 1. Acetic acid (pK_a 4.74). The solid line (HA) and dashed line (A⁻) cross at 50% exactly where pH = pK_a. One pH unit either side, the split is about 91% to 9%.</figcaption>
+<figcaption>Figure 1. Acetic acid (pK<sub>a</sub> 4.74). The solid line (HA) and dashed line (A⁻) cross at 50% exactly where pH = pK<sub>a</sub>. One pH unit either side, the split is about 91% to 9%.</figcaption>
 </figure>
 
-Notice that the pK_a, not the concentration of the acid, decides where the curves cross. A 0.001 M and a 1 M solution of acetic acid held at pH 6.00 both have far more acetate than acetic acid.
+Notice that the pK<sub>a</sub>, not the concentration of the acid, decides where the curves cross. A 0.001 M and a 1 M solution of acetic acid held at pH 6.00 both have far more acetate than acetic acid.
 
-## Weak bases: use the pK_a of the conjugate acid
+## Weak bases: use the pK<sub>a</sub> of the conjugate acid
 
-A weak base B and its conjugate acid BH⁺ form the same kind of pair. BH⁺ is the acid form and B is the base form. So the rule is unchanged, as long as you use the **pK_a of BH⁺**:
+A weak base B and its conjugate acid BH⁺ form the same kind of pair. BH⁺ is the acid form and B is the base form. So the rule is unchanged, as long as you use the **pK<sub>a</sub> of BH⁺**:
 
-- pH < pK_a(BH⁺): the protonated form, **BH⁺**, predominates.
-- pH > pK_a(BH⁺): the neutral base, **B**, predominates.
+- pH < pK<sub>a</sub>(BH⁺): the protonated form, **BH⁺**, predominates.
+- pH > pK<sub>a</sub>(BH⁺): the neutral base, **B**, predominates.
 
-Tables often give K_b or pK_b for the base instead. At 25 °C, for any conjugate pair, pK_a + pK_b = 14.00 (because K_a × K_b = K_w). So convert first: pK_a(BH⁺) = 14.00 − pK_b(B).
+Tables often give K<sub>b</sub> or pK<sub>b</sub> for the base instead. At 25 °C, for any conjugate pair, pK<sub>a</sub> + pK<sub>b</sub> = 14.00 (because K<sub>a</sub> × K<sub>b</sub> = K<sub>w</sub>). So convert first: pK<sub>a</sub>(BH⁺) = 14.00 − pK<sub>b</sub>(B).
 
-Do **not** compare the pH directly with the pK_b. pK_b is on the hydroxide side of the scale, so the comparison would point the wrong way.
+Do **not** compare the pH directly with the pK<sub>b</sub>. pK<sub>b</sub> is on the hydroxide side of the scale, so the comparison would point the wrong way.
 
 ## Worked example 1: predicting the predominant form
 
-**Question.** (a) Acetic acid, CH₃COOH, has pK_a = 4.74. Three solutions are held at pH 3.00, 4.74 and 6.50 by other substances. For each, state which form of acetic acid predominates and calculate the ratio [CH₃COO⁻]/[CH₃COOH]. (b) Ammonia has pK_b = 4.74. Which form, NH₃ or NH₄⁺, predominates in a solution held at pH 7.40?
+**Question.** (a) Acetic acid, CH₃COOH, has pK<sub>a</sub> = 4.74. Three solutions are held at pH 3.00, 4.74 and 6.50 by other substances. For each, state which form of acetic acid predominates and calculate the ratio [CH₃COO⁻]/[CH₃COOH]. (b) Ammonia has pK<sub>b</sub> = 4.74. Which form, NH₃ or NH₄⁺, predominates in a solution held at pH 7.40?
 
 **(a)**
 
-1. Use [A⁻]/[HA] = K_a / [H₃O⁺], which is the same as 10^(pH − pK_a).
-2. **pH 3.00:** pH < pK_a, so CH₃COOH predominates. Ratio = 10^(3.00 − 4.74) = 10^(−1.74) = **0.018**. About 98% is still the acid form.
-3. **pH 4.74:** pH = pK_a, so ratio = 10⁰ = **1**. The two forms are present at equal concentrations.
-4. **pH 6.50:** pH > pK_a, so CH₃COO⁻ predominates. Ratio = 10^(6.50 − 4.74) = 10^1.76 = **58**. About 98% is now acetate.
+1. Use [A⁻]/[HA] = K<sub>a</sub> / [H₃O⁺], which is the same as 10^(pH − pK<sub>a</sub>).
+2. **pH 3.00:** pH < pK<sub>a</sub>, so CH₃COOH predominates. Ratio = 10^(3.00 − 4.74) = 10^(−1.74) = **0.018**. About 98% is still the acid form.
+3. **pH 4.74:** pH = pK<sub>a</sub>, so ratio = 10⁰ = **1**. The two forms are present at equal concentrations.
+4. **pH 6.50:** pH > pK<sub>a</sub>, so CH₃COO⁻ predominates. Ratio = 10^(6.50 − 4.74) = 10^1.76 = **58**. About 98% is now acetate.
 
-**Check.** pH 3.00 is 1.74 units below pK_a and pH 6.50 is 1.76 units above. The two ratios are almost exact reciprocals (0.018 and 58), as the symmetry of Figure 1 says they should be.
+**Check.** pH 3.00 is 1.74 units below pK<sub>a</sub> and pH 6.50 is 1.76 units above. The two ratios are almost exact reciprocals (0.018 and 58), as the symmetry of Figure 1 says they should be.
 
 **(b)**
 
-1. Convert: pK_a(NH₄⁺) = 14.00 − 4.74 = 9.26.
+1. Convert: pK<sub>a</sub>(NH₄⁺) = 14.00 − 4.74 = 9.26.
 2. Compare: pH 7.40 < 9.26, so the protonated form, **NH₄⁺, predominates**.
 3. Size: [NH₃]/[NH₄⁺] = 10^(7.40 − 9.26) = 10^(−1.86) = 0.014. About 99% of the ammonia is present as NH₄⁺.
 
-**Trap avoided.** Comparing 7.40 with the pK_b (4.74) would suggest pH > 4.74, so "base form wins". That is wrong: a neutral solution is far too acidic for much free NH₃ to survive.
+**Trap avoided.** Comparing 7.40 with the pK<sub>b</sub> (4.74) would suggest pH > 4.74, so "base form wins". That is wrong: a neutral solution is far too acidic for much free NH₃ to survive.
 
 ## Indicators are weak acids you can see
 
@@ -150,11 +150,11 @@ colour of HIn ⇌ colour of In⁻
 
 The rule you have just learned decides the colour:
 
-- pH well below pK_a(HIn): mostly HIn, so you see the **acid colour**.
-- pH well above pK_a(HIn): mostly In⁻, so you see the **base colour**.
-- pH close to pK_a(HIn): both forms are present in similar amounts, so you see a **mixture** of the two colours.
+- pH well below pK<sub>a</sub>(HIn): mostly HIn, so you see the **acid colour**.
+- pH well above pK<sub>a</sub>(HIn): mostly In⁻, so you see the **base colour**.
+- pH close to pK<sub>a</sub>(HIn): both forms are present in similar amounts, so you see a **mixture** of the two colours.
 
-The eye usually needs about ten times more of one form before it sees that form's colour alone. So the visible colour change happens over a range of roughly **pK_a ± 1**. Some common indicators and their approximate ranges:
+The eye usually needs about ten times more of one form before it sees that form's colour alone. So the visible colour change happens over a range of roughly **pK<sub>a</sub> ± 1**. Some common indicators and their approximate ranges:
 
 | Indicator | Colour below the range | Approximate change range (pH) | Colour above the range |
 |---|---|---|---|
@@ -167,7 +167,7 @@ The indicator is added in tiny amounts, so it does not change the pH of the solu
 
 ## Choosing an indicator for a titration
 
-In a titration you want the colour to change **at the equivalence point**, not before or after. Near the equivalence point the pH rises (or falls) very steeply: one drop of titrant moves it by several units. If the indicator's change range lies on that steep part, the colour changes within one drop of the equivalence point. That is why you choose an indicator whose **pK_a is close to the pH at the equivalence point**.
+In a titration you want the colour to change **at the equivalence point**, not before or after. Near the equivalence point the pH rises (or falls) very steeply: one drop of titrant moves it by several units. If the indicator's change range lies on that steep part, the colour changes within one drop of the equivalence point. That is why you choose an indicator whose **pK<sub>a</sub> is close to the pH at the equivalence point**.
 
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="titr-title titr-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -204,8 +204,8 @@ In a titration you want the colour to change **at the equivalence point**, not b
 The equivalence-point pH depends on the type of titration ([Topic 8.5](/advanced-course-resources/chemistry/8-5-acid-base-titrations-study-guide/)):
 
 - **Strong acid with strong base:** pH 7 at equivalence, and the vertical section is very long (roughly pH 4 to 10). Several indicators work.
-- **Weak acid with strong base:** the conjugate base A⁻ is present at equivalence, so the pH is **above 7**. Choose an indicator with a pK_a above 7, such as phenolphthalein.
-- **Weak base with strong acid:** the conjugate acid BH⁺ is present at equivalence, so the pH is **below 7**. Choose an indicator with a pK_a below 7, such as methyl red.
+- **Weak acid with strong base:** the conjugate base A⁻ is present at equivalence, so the pH is **above 7**. Choose an indicator with a pK<sub>a</sub> above 7, such as phenolphthalein.
+- **Weak base with strong acid:** the conjugate acid BH⁺ is present at equivalence, so the pH is **below 7**. Choose an indicator with a pK<sub>a</sub> below 7, such as methyl red.
 
 What goes wrong with a poor choice? The colour changes at the wrong volume, so the **end point** (what you see) no longer matches the **equivalence point** (where the amounts match). Every calculated concentration that uses that volume is then wrong.
 
@@ -220,18 +220,18 @@ What goes wrong with a poor choice? The colour changes at the wrong volume, so t
 
 **Answer.** Methyl red, changing from yellow to red at the end point.
 
-**Check.** The rule "pK_a of indicator close to pH at equivalence" gives the same answer: methyl red's range is centred near pH 5, and 5.28 is close to that.
+**Check.** The rule "pK<sub>a</sub> of indicator close to pH at equivalence" gives the same answer: methyl red's range is centred near pH 5, and 5.28 is close to that.
 
 ## Common misconceptions
 
-- **"pH above pK_a means the acid is fully dissociated."** No: it means A⁻ is the larger of the two forms. At pK_a + 0.3 there is still about one HA for every two A⁻.
-- **"At pH = pK_a the solution is neutral."** No: at pH = pK_a the *two forms of the acid* are equal. The solution is neutral only if pK_a happens to be 7.
-- **"Concentration decides the predominant form."** In a solution whose pH is fixed, only the pH and the pK_a decide the ratio. The amount of acid changes both concentrations together.
-- **Comparing pH with pK_b for a base.** Convert to the pK_a of the conjugate acid first (14.00 − pK_b at 25 °C).
+- **"pH above pK<sub>a</sub> means the acid is fully dissociated."** No: it means A⁻ is the larger of the two forms. At pK<sub>a</sub> + 0.3 there is still about one HA for every two A⁻.
+- **"At pH = pK<sub>a</sub> the solution is neutral."** No: at pH = pK<sub>a</sub> the *two forms of the acid* are equal. The solution is neutral only if pK<sub>a</sub> happens to be 7.
+- **"Concentration decides the predominant form."** In a solution whose pH is fixed, only the pH and the pK<sub>a</sub> decide the ratio. The amount of acid changes both concentrations together.
+- **Comparing pH with pK<sub>b</sub> for a base.** Convert to the pK<sub>a</sub> of the conjugate acid first (14.00 − pK<sub>b</sub> at 25 °C).
 - **"Choose an indicator that changes colour at pH 7."** Only a strong acid–strong base titration has its equivalence point at pH 7. Match the indicator to the actual equivalence-point pH.
-- **"The indicator's pK_a must equal the equivalence pH exactly."** It only needs to be close enough that the change range falls on the steep part of the curve.
+- **"The indicator's pK<sub>a</sub> must equal the equivalence pH exactly."** It only needs to be close enough that the change range falls on the steep part of the curve.
 - **"The end point and the equivalence point are the same."** The equivalence point is set by amounts; the end point is set by the indicator. A good choice makes them almost coincide.
 
 ## Where this leads
 
-Next, Topic 8.8, [Properties of Buffers](/advanced-course-resources/chemistry/8-8-properties-buffers-study-guide/), uses solutions where both HA and A⁻ are present in large amounts, which happens when the pH is close to the pK_a. Topic 8.9 then turns the ratio [A⁻]/[HA] = 10^(pH − pK_a) into the Henderson–Hasselbalch equation. Try the [practice questions](/advanced-course-resources/chemistry/8-7-ph-pka-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/8-7-ph-pka-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/8-7-ph-pka-checklist/).
+Next, Topic 8.8, [Properties of Buffers](/advanced-course-resources/chemistry/8-8-properties-buffers-study-guide/), uses solutions where both HA and A⁻ are present in large amounts, which happens when the pH is close to the pK<sub>a</sub>. Topic 8.9 then turns the ratio [A⁻]/[HA] = 10^(pH − pK<sub>a</sub>) into the Henderson–Hasselbalch equation. Try the [practice questions](/advanced-course-resources/chemistry/8-7-ph-pka-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/8-7-ph-pka-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/8-7-ph-pka-checklist/).

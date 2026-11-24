@@ -36,11 +36,11 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data at 25 °C: pKa of acetic acid = 4.76; pKa of NH₄⁺ = 9.25; pKa of H₂PO₄⁻ = 7.20; K_w = 1.0 × 10⁻¹⁴. Acids named with letters (HX, HM, HR) are fictional. All sodium salts and NH₄Cl are soluble and fully dissociated.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data at 25 °C: pKa of acetic acid = 4.76; pKa of NH₄⁺ = 9.25; pKa of H₂PO₄⁻ = 7.20; K<sub>w</sub> = 1.0 × 10⁻¹⁴. Acids named with letters (HX, HM, HR) are fictional. All sodium salts and NH₄Cl are soluble and fully dissociated.
 
 ## Question 1 (multiple choice · foundation)
 
-A buffer contains 0.20 M HX and 0.20 M NaX. K_a of HX is 4.0 × 10⁻⁶. What is the pH of the buffer?
+A buffer contains 0.20 M HX and 0.20 M NaX. K<sub>a</sub> of HX is 4.0 × 10⁻⁶. What is the pH of the buffer?
 
 - (A) 3.05
 - (B) 5.40
@@ -52,7 +52,7 @@ A buffer contains 0.20 M HX and 0.20 M NaX. K_a of HX is 4.0 × 10⁻⁶. What i
 
 **Answer: (B).** [X⁻]/[HX] = 0.20 ÷ 0.20 = 1, so log(1) = 0 and pH = pKa = −log(4.0 × 10⁻⁶) = 5.40.
 
-- (A) is the pH of 0.20 M HX on its own (√(K_a × 0.20) gives [H₃O⁺] = 8.9 × 10⁻⁴ M). It ignores the X⁻ that is present.
+- (A) is the pH of 0.20 M HX on its own (√(K<sub>a</sub> × 0.20) gives [H₃O⁺] = 8.9 × 10⁻⁴ M). It ignores the X⁻ that is present.
 - (C) is 14.00 − 5.40, the pKb of X⁻, not a pH.
 - (D) is 14.00 − 3.05; it treats the answer to (A) as a pOH.
 </details>
@@ -103,7 +103,7 @@ A small amount of HCl(aq) is added to a buffer made from equal amounts of a weak
 
 - (A) The added H₃O⁺ reacts with A⁻ to form HA, so [A⁻]/[HA] changes only slightly.
 - (B) The added H₃O⁺ reacts with HA, so the amount of weak acid falls.
-- (C) The K_a of HA increases so that more HA ionises.
+- (C) The K<sub>a</sub> of HA increases so that more HA ionises.
 - (D) Any small amount of strong acid changes the pH of any solution only slightly.
 
 <details>
@@ -112,7 +112,7 @@ A small amount of HCl(aq) is added to a buffer made from equal amounts of a weak
 **Answer: (A).** The conjugate base removes the added acid: A⁻ + H₃O⁺ → HA + H₂O. Because both A⁻ and HA are present in large amounts, their ratio, and therefore log([A⁻]/[HA]), changes very little.
 
 - (B) is wrong: an acid (HA) does not react with another acid (H₃O⁺). The base component does the work.
-- (C) is wrong: K_a is constant at constant temperature.
+- (C) is wrong: K<sub>a</sub> is constant at constant temperature.
 - (D) is wrong: the same small amount in pure water can change the pH by several units. The small change is a property of the buffer.
 </details>
 

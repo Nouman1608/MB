@@ -54,19 +54,19 @@ H₂O(l) + H₂O(l) ⇌ H₃O⁺(aq) + OH⁻(aq)
 
 This is called the **autoionization** (or self-ionization) of water. It happens in every sample of water, all the time, in both directions. It is an equilibrium like the ones in Unit 7, so it has an equilibrium constant. Because water is the pure liquid solvent, it is left out of the expression:
 
-**K_w = [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25 °C**
+**K<sub>w</sub> = [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25 °C**
 
-K_w is tiny, so the equilibrium lies very far to the left. In pure water at 25 °C, each ion forms in a 1 : 1 ratio, so [H₃O⁺] = [OH⁻] = x and x² = 1.0 × 10⁻¹⁴. That gives:
+K<sub>w</sub> is tiny, so the equilibrium lies very far to the left. In pure water at 25 °C, each ion forms in a 1 : 1 ratio, so [H₃O⁺] = [OH⁻] = x and x² = 1.0 × 10⁻¹⁴. That gives:
 
 [H₃O⁺] = [OH⁻] = 1.0 × 10⁻⁷ M in pure water at 25 °C.
 
 To see how small that is, pure water is about 55.5 M in H₂O molecules. So at any moment there are only about 2 hydronium ions for every billion water molecules (1.0 × 10⁻⁷ ÷ 55.5 ≈ 1.8 × 10⁻⁹).
 
-### The K_w relationship holds in every aqueous solution
+### The K<sub>w</sub> relationship holds in every aqueous solution
 
-Here is the key idea for the whole unit. K_w is not only about pure water. **In any aqueous solution at 25 °C, [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴.** If an acid raises [H₃O⁺], the water equilibrium shifts left and [OH⁻] falls, so the product stays the same. If a base raises [OH⁻], [H₃O⁺] falls. This is why you can always find one ion concentration from the other:
+Here is the key idea for the whole unit. K<sub>w</sub> is not only about pure water. **In any aqueous solution at 25 °C, [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴.** If an acid raises [H₃O⁺], the water equilibrium shifts left and [OH⁻] falls, so the product stays the same. If a base raises [OH⁻], [H₃O⁺] falls. This is why you can always find one ion concentration from the other:
 
-[OH⁻] = K_w ÷ [H₃O⁺]  and  [H₃O⁺] = K_w ÷ [OH⁻]
+[OH⁻] = K<sub>w</sub> ÷ [H₃O⁺]  and  [H₃O⁺] = K<sub>w</sub> ÷ [OH⁻]
 
 ### A note on notation
 
@@ -92,11 +92,11 @@ Three features of the scale cause most of the mistakes, so learn them now:
 
 ### Linking pH and pOH
 
-Take −log of both sides of K_w = [H₃O⁺][OH⁻]. The log of a product is the sum of the logs, so:
+Take −log of both sides of K<sub>w</sub> = [H₃O⁺][OH⁻]. The log of a product is the sum of the logs, so:
 
-**pK_w = pH + pOH**, where pK_w = −log K_w.
+**pK<sub>w</sub> = pH + pOH**, where pK<sub>w</sub> = −log K<sub>w</sub>.
 
-At 25 °C, pK_w = −log(1.0 × 10⁻¹⁴) = 14.00, so **pH + pOH = 14.00**. In pure water at 25 °C, pH = pOH = 7.00.
+At 25 °C, pK<sub>w</sub> = −log(1.0 × 10⁻¹⁴) = 14.00, so **pH + pOH = 14.00**. In pure water at 25 °C, pH = pOH = 7.00.
 
 <figure>
 <svg viewBox="0 0 640 250" role="img" aria-labelledby="ph-scale-title ph-scale-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -155,18 +155,18 @@ Two routes to the same answer are a useful check: find [OH⁻] through pOH, then
 1. [H₃O⁺] = 10⁻³·⁴⁰ = 3.98 × 10⁻⁴ M. The pH has 2 decimal places, so report **4.0 × 10⁻⁴ M** (2 significant figures).
 2. pOH = 14.00 − 3.40 = **10.60**.
 3. [OH⁻] = 10⁻¹⁰·⁶⁰ = **2.5 × 10⁻¹¹ M**.
-4. Check with K_w: 1.0 × 10⁻¹⁴ ÷ 3.98 × 10⁻⁴ = 2.5 × 10⁻¹¹ M. The two routes agree.
+4. Check with K<sub>w</sub>: 1.0 × 10⁻¹⁴ ÷ 3.98 × 10⁻⁴ = 2.5 × 10⁻¹¹ M. The two routes agree.
 5. [H₃O⁺] is much greater than [OH⁻], so the drink is **acidic**.
 
 **Interpretation.** Even in an acidic drink, hydroxide ions are still present. They are just very few. No aqueous solution has zero [OH⁻] or zero [H₃O⁺], because the water equilibrium is always there.
 
 ## Neutral means equal, not "pH 7"
 
-A **neutral** solution is one in which [H₃O⁺] = [OH⁻], so pH = pOH. At 25 °C, that happens at pH 7.00 because pK_w = 14.00 and half of 14.00 is 7.00.
+A **neutral** solution is one in which [H₃O⁺] = [OH⁻], so pH = pOH. At 25 °C, that happens at pH 7.00 because pK<sub>w</sub> = 14.00 and half of 14.00 is 7.00.
 
-K_w, like every equilibrium constant, depends on temperature. Measured values show that K_w **increases** as water gets hotter:
+K<sub>w</sub>, like every equilibrium constant, depends on temperature. Measured values show that K<sub>w</sub> **increases** as water gets hotter:
 
-| Temperature | pK_w | K_w | pH of pure (neutral) water |
+| Temperature | pK<sub>w</sub> | K<sub>w</sub> | pH of pure (neutral) water |
 |---|---|---|---|
 | 25 °C | 14.00 | 1.0 × 10⁻¹⁴ | 7.00 |
 | 50 °C | 13.26 | 5.5 × 10⁻¹⁴ | 6.63 |
@@ -174,18 +174,18 @@ K_w, like every equilibrium constant, depends on temperature. Measured values sh
 
 In hot pure water, both [H₃O⁺] and [OH⁻] are larger than 1.0 × 10⁻⁷ M, and they are still **equal**. So the pH falls below 7, yet the water is neutral, not acidic. Similarly, at temperatures above 25 °C, pH + pOH is less than 14.
 
-Why does K_w rise? Heating shifts the equilibrium to the right, towards more ions. By Le Châtelier's principle, an equilibrium that shifts right on heating has an **endothermic** forward reaction. So the autoionization of water absorbs energy.
+Why does K<sub>w</sub> rise? Heating shifts the equilibrium to the right, towards more ions. By Le Châtelier's principle, an equilibrium that shifts right on heating has an **endothermic** forward reaction. So the autoionization of water absorbs energy.
 
 ## Worked example 2: pure water at 50 °C
 
-**Question.** At 50 °C, pK_w = 13.26. For pure water at this temperature, calculate K_w, [H₃O⁺], [OH⁻], pH and pOH. A student says the water is "slightly acidic". Evaluate the claim.
+**Question.** At 50 °C, pK<sub>w</sub> = 13.26. For pure water at this temperature, calculate K<sub>w</sub>, [H₃O⁺], [OH⁻], pH and pOH. A student says the water is "slightly acidic". Evaluate the claim.
 
-1. K_w = 10⁻¹³·²⁶ = **5.5 × 10⁻¹⁴**.
+1. K<sub>w</sub> = 10⁻¹³·²⁶ = **5.5 × 10⁻¹⁴**.
 2. In pure water the ions form 1 : 1, so [H₃O⁺] = [OH⁻] = x, and x² = 5.5 × 10⁻¹⁴.
 3. x = √(5.5 × 10⁻¹⁴) = **2.3 × 10⁻⁷ M** for both ions.
-4. pH = −log(2.34 × 10⁻⁷) = **6.63**; pOH is also **6.63**. Check: 6.63 + 6.63 = 13.26 = pK_w.
+4. pH = −log(2.34 × 10⁻⁷) = **6.63**; pOH is also **6.63**. Check: 6.63 + 6.63 = 13.26 = pK<sub>w</sub>.
 
-**Evaluation.** The claim is **wrong**. The pH is below 7, but [H₃O⁺] = [OH⁻], which is the definition of neutral. The value 7 marks neutrality only when pK_w = 14.00, which is at 25 °C. A quick shortcut for pure water at any temperature: pH = pK_w ÷ 2.
+**Evaluation.** The claim is **wrong**. The pH is below 7, but [H₃O⁺] = [OH⁻], which is the definition of neutral. The value 7 marks neutrality only when pK<sub>w</sub> = 14.00, which is at 25 °C. A quick shortcut for pure water at any temperature: pH = pK<sub>w</sub> ÷ 2.
 
 ## Worked example 3: comparing two solutions
 
@@ -205,15 +205,15 @@ pOH of Q = 14.00 − 8.10 = 5.90, so [OH⁻] = 10⁻⁵·⁹⁰ = **1.3 × 10⁻
 ## Common misconceptions
 
 - **"Neutral always means pH 7."** Neutral means [H₃O⁺] = [OH⁻]. pH 7 is neutral only at 25 °C.
-- **"Hot water with pH 6.6 is acidic."** If it is pure water, it is neutral; K_w is larger, so both ions are more concentrated and equal.
-- **"K_w only applies to pure water."** It applies to every aqueous solution at that temperature.
-- **"An acidic solution contains no OH⁻."** It contains a small but non-zero amount, set by K_w.
+- **"Hot water with pH 6.6 is acidic."** If it is pure water, it is neutral; K<sub>w</sub> is larger, so both ions are more concentrated and equal.
+- **"K<sub>w</sub> only applies to pure water."** It applies to every aqueous solution at that temperature.
+- **"An acidic solution contains no OH⁻."** It contains a small but non-zero amount, set by K<sub>w</sub>.
 - **"A pH change from 4 to 5 means [H₃O⁺] fell by 1 M (or by 20%)."** It fell by a factor of 10.
 - **"Higher pH means more acid."** Higher pH means lower [H₃O⁺].
 - **Using ln instead of log.** pH uses log to base 10. ln gives a value about 2.3 times too large.
 - **Wrong significant figures.** The number of decimal places in pH equals the number of significant figures in [H₃O⁺].
-- **Including water in K_w.** Water is the solvent (a pure liquid), so it does not appear in the expression.
+- **Including water in K<sub>w</sub>.** Water is the solvent (a pure liquid), so it does not appear in the expression.
 
 ## Where this leads
 
-Next, [Topic 8.2](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-study-guide/) uses these relationships to find the pH and pOH of strong acid and strong base solutions straight from their concentrations. Later topics add weak acids, K_a and K_b (linked by K_w = K_a × K_b) and buffers. Try the [practice questions](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-checklist/) to consolidate.
+Next, [Topic 8.2](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-study-guide/) uses these relationships to find the pH and pOH of strong acid and strong base solutions straight from their concentrations. Later topics add weak acids, K<sub>a</sub> and K<sub>b</sub> (linked by K<sub>w</sub> = K<sub>a</sub> × K<sub>b</sub>) and buffers. Try the [practice questions](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-checklist/) to consolidate.

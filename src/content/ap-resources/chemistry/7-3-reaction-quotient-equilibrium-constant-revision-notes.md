@@ -47,7 +47,7 @@ Short on time? This page is the recap. For explanations, a Q-time graph and work
 | Relationship | Meaning | Use it to |
 |---|---|---|
 | Qc = [C]^c[D]^d / ([A]^a[B]^b) | for aA + bB ⇌ cC + dD, concentrations at any moment | describe any mixture in solution or gas |
-| Qp = (P_C)^c(P_D)^d / ((P_A)^a(P_B)^b) | same shape, partial pressures of gases | describe a gas mixture |
+| Qp = (P<sub>C</sub>)^c(P<sub>D</sub>)^d / ((P<sub>A</sub>)^a(P<sub>B</sub>)^b) | same shape, partial pressures of gases | describe a gas mixture |
 | At equilibrium: Qc = Kc, Qp = Kp | Q stops changing once rates are equal | recognise or test for equilibrium |
 
 ## Assumptions behind the expression
@@ -68,9 +68,9 @@ Short on time? This page is the recap. For explanations, a Q-time graph and work
 
 ## Quick self-check
 
-1. Write Kp for CaCO₃(s) ⇌ CaO(s) + CO₂(g). *(Kp = P_CO₂)*
+1. Write Kp for CaCO₃(s) ⇌ CaO(s) + CO₂(g). *(Kp = P<sub>CO₂</sub>)*
 2. Write Kc for Cu²⁺(aq) + 4NH₃(aq) ⇌ Cu(NH₃)₄²⁺(aq). *(Kc = [Cu(NH₃)₄²⁺] / ([Cu²⁺][NH₃]⁴))*
-3. For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), a mixture has P_SO₂ = 0.20 atm, P_O₂ = 0.50 atm and P_SO₃ = 0.40 atm. What is Qp? *(0.40² ÷ (0.20² × 0.50) = 8.0)*
+3. For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), a mixture has P<sub>SO₂</sub> = 0.20 atm, P<sub>O₂</sub> = 0.50 atm and P<sub>SO₃</sub> = 0.40 atm. What is Qp? *(0.40² ÷ (0.20² × 0.50) = 8.0)*
 4. A mixture has Qc = 3.0 and Kc = 3.0 at the same temperature. What can you say? *(It is at equilibrium; the concentrations stay constant.)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/7-3-reaction-quotient-equilibrium-constant-practice/).

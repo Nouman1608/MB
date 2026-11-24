@@ -36,7 +36,7 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Elements, bonds and dyes labelled with a letter are fictional, and their data are invented for practice. Data for every question: h = 6.626 × 10⁻³⁴ J s; c = 2.998 × 10⁸ m s⁻¹; N_A = 6.022 × 10²³ mol⁻¹; 1 cm = 10⁻² m; 1 nm = 10⁻⁹ m.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Elements, bonds and dyes labelled with a letter are fictional, and their data are invented for practice. Data for every question: h = 6.626 × 10⁻³⁴ J s; c = 2.998 × 10⁸ m s⁻¹; N<sub>A</sub> = 6.022 × 10²³ mol⁻¹; 1 cm = 10⁻² m; 1 nm = 10⁻⁹ m.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -90,7 +90,7 @@ What is the energy of one mole of photons of wavelength 380 nm?
 
 **Answer: (B).** Per photon: E = hc/λ = (6.626 × 10⁻³⁴ × 2.998 × 10⁸) ÷ (3.80 × 10⁻⁷ m) = 5.228 × 10⁻¹⁹ J. Per mole: 5.228 × 10⁻¹⁹ J × 6.022 × 10²³ mol⁻¹ = 3.148 × 10⁵ J mol⁻¹ = 315 kJ mol⁻¹.
 
-- (A) is the energy of **one** photon (in J), given the wrong unit; it was never multiplied by N_A.
+- (A) is the energy of **one** photon (in J), given the wrong unit; it was never multiplied by N<sub>A</sub>.
 - (C) is the answer in J mol⁻¹ labelled as kJ mol⁻¹; it misses the ÷ 1000.
 - (D) uses λ = 380 m (no nm → m conversion), giving an answer 10⁹ times too small.
 </details>
@@ -112,9 +112,9 @@ The bond in a fictional diatomic molecule, A–B, has a bond energy of 310 kJ mo
 
 Why "longest"? A longer wavelength means a less energetic photon. Any wavelength longer than 386 nm gives photons with less than 5.15 × 10⁻¹⁹ J, which cannot break the bond on their own.
 
-Suggested mark points (3): 1 for dividing by N_A (with kJ → J) to get the energy per bond; 1 for 386 nm from E = hc/λ with λ converted to nm; 1 for ultraviolet. Carry forward an error from (a) into (b).
+Suggested mark points (3): 1 for dividing by N<sub>A</sub> (with kJ → J) to get the energy per bond; 1 for 386 nm from E = hc/λ with λ converted to nm; 1 for ultraviolet. Carry forward an error from (a) into (b).
 
-Common error: using 310 000 J in E = hc/λ without dividing by N_A gives λ ≈ 6.41 × 10⁻³¹ m, a meaningless wavelength far smaller than an atomic nucleus.
+Common error: using 310 000 J in E = hc/λ without dividing by N<sub>A</sub> gives λ ≈ 6.41 × 10⁻³¹ m, a meaningless wavelength far smaller than an atomic nucleus.
 </details>
 
 ## Question 5 (constructed response · core)
@@ -172,7 +172,7 @@ Moles of photons = 2.756 × 10¹⁸ ÷ 6.022 × 10²³ mol⁻¹ = **4.58 × 10�
 |---|---|
 | 1 | Photon energy 5.44 × 10⁻¹⁹ J with nm → m conversion |
 | 1 | Number of photons = total energy ÷ energy per photon |
-| 1 | Moles of photons by dividing by N_A |
+| 1 | Moles of photons by dividing by N<sub>A</sub> |
 | 1 | 1.83 × 10⁻⁶ mol, using the 40.0% and the 1 : 1 photon-to-molecule ratio |
 
 Dimensional analysis check for (b): J ÷ (J per photon) = photons; photons ÷ (photons mol⁻¹) = mol.

@@ -33,7 +33,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can define a buffer by what it contains: large amounts of both members of a weak conjugate acid–base pair. *(Guide: "What a buffer is"; Practice Q1)*
 - I can say which buffer member removes added acid and which removes added base. *(Guide: "The two reactions that do the work"; Practice Q2)*
-- I can explain why a buffer's pH sits near the pK_a of its weak acid rather than at 7. *(Guide: "What a buffer is"; Revision notes)*
+- I can explain why a buffer's pH sits near the pK<sub>a</sub> of its weak acid rather than at 7. *(Guide: "What a buffer is"; Revision notes)*
 
 ## Skills
 

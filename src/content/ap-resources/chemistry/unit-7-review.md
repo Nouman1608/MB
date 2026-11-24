@@ -53,7 +53,7 @@ These are **original Marlbridge practice questions**, not past exam questions. E
 - **K follows the equation you write**, and so does Q ([Topic 7.6](/advanced-course-resources/chemistry/7-6-properties-equilibrium-constant-study-guide/)).
 - **Particle diagrams are the same mathematics in pictures** ([Topic 7.8](/advanced-course-resources/chemistry/7-8-representations-equilibrium-study-guide/)).
 - **A stress moves Q away from K, and the system shifts to restore Q = K.** Only temperature changes K itself ([Topic 7.9](/advanced-course-resources/chemistry/7-9-introduction-le-ch-teliers-principle-study-guide/), [Topic 7.10](/advanced-course-resources/chemistry/7-10-reaction-quotient-le-ch-teliers-study-guide/)).
-- **Dissolving a salt is one more equilibrium.** A common ion lowers the solubility without changing K_sp ([Topic 7.11](/advanced-course-resources/chemistry/7-11-introduction-solubility-equilibria-study-guide/), [Topic 7.12](/advanced-course-resources/chemistry/7-12-common-ion-effect-study-guide/)).
+- **Dissolving a salt is one more equilibrium.** A common ion lowers the solubility without changing K<sub>sp</sub> ([Topic 7.11](/advanced-course-resources/chemistry/7-11-introduction-solubility-equilibria-study-guide/), [Topic 7.12](/advanced-course-resources/chemistry/7-12-common-ion-effect-study-guide/)).
 
 ## Key relationships and methods
 
@@ -67,8 +67,8 @@ These are **original Marlbridge practice questions**, not past exam questions. E
 | Direction from Q | Q < K: forward; Q > K: reverse; Q = K: equilibrium | 7.7 |
 | Particle boxes | counts → concentrations → Q or K | 7.8 |
 | Stresses | species, volume and dilution change Q; temperature changes K | 7.9, 7.10 |
-| Solubility | MX: K_sp = s²; MX₂: 4s³; MX₃: 27s⁴; compare s, not K_sp | 7.11 |
-| Common ion | put its concentration into K_sp, solve for s, check s is small | 7.12 |
+| Solubility | MX: K<sub>sp</sub> = s²; MX₂: 4s³; MX₃: 27s⁴; compare s, not K<sub>sp</sub> | 7.11 |
+| Common ion | put its concentration into K<sub>sp</sub>, solve for s, check s is small | 7.12 |
 
 ## Question 1 (multiple choice · mixed)
 
@@ -91,7 +91,7 @@ Two particle diagrams show equilibrium mixtures for A₂(g) ⇌ 2A(g) in boxes o
 
 ## Question 2 (multiple choice · mixed)
 
-The fictional salt MY₂ has K_sp = 4.0 × 10⁻¹². Equal volumes of an M(NO₃)₂ solution and a NaY solution are mixed. Which pair of starting concentrations gives a precipitate?
+The fictional salt MY₂ has K<sub>sp</sub> = 4.0 × 10⁻¹². Equal volumes of an M(NO₃)₂ solution and a NaY solution are mixed. Which pair of starting concentrations gives a precipitate?
 
 - (A) 2.0 × 10⁻³ M M(NO₃)₂ and 2.0 × 10⁻⁴ M NaY
 - (B) 2.0 × 10⁻⁴ M M(NO₃)₂ and 2.0 × 10⁻⁴ M NaY
@@ -101,9 +101,9 @@ The fictional salt MY₂ has K_sp = 4.0 × 10⁻¹². Equal volumes of an M(NO�
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Mixing equal volumes halves each concentration. Then compare Q = [M²⁺][Y⁻]² with K_sp (Topics 7.10 and 7.11). For (A): Q = (1.0 × 10⁻³)(1.0 × 10⁻⁴)² = 1.0 × 10⁻¹¹ > K_sp, so a precipitate forms.
+**Answer: (A).** Mixing equal volumes halves each concentration. Then compare Q = [M²⁺][Y⁻]² with K<sub>sp</sub> (Topics 7.10 and 7.11). For (A): Q = (1.0 × 10⁻³)(1.0 × 10⁻⁴)² = 1.0 × 10⁻¹¹ > K<sub>sp</sub>, so a precipitate forms.
 
-- (B) Q = 1.0 × 10⁻¹², below K_sp.
+- (B) Q = 1.0 × 10⁻¹², below K<sub>sp</sub>.
 - (C) Q = 5.0 × 10⁻¹³. Not squaring [Y⁻] gives 1.0 × 10⁻⁸, a false "yes".
 - (D) Q = 2.5 × 10⁻¹². Forgetting the dilution gives 2.0 × 10⁻¹¹, a false "yes".
 </details>
@@ -154,7 +154,7 @@ A fictional compound M dissolves in water and slowly splits into two identical f
 
 ## Question 4 (constructed response · mixed)
 
-The fictional gases D and E combine: D(g) + E(g) ⇌ DE(g), Kp = 2.0. A cylinder with a piston holds an equilibrium mixture with P_D = 0.50 atm, P_E = 0.90 atm and P_DE = 0.90 atm.
+The fictional gases D and E combine: D(g) + E(g) ⇌ DE(g), Kp = 2.0. A cylinder with a piston holds an equilibrium mixture with P<sub>D</sub> = 0.50 atm, P<sub>E</sub> = 0.90 atm and P<sub>DE</sub> = 0.90 atm.
 
 (a) Show that the mixture is at equilibrium.
 (b) The volume is halved at constant temperature. Calculate Qp just after the change and predict the direction of the net reaction. Show that Le Châtelier's principle agrees.
@@ -172,8 +172,8 @@ The fictional gases D and E combine: D(g) + E(g) ⇌ DE(g), Kp = 2.0. A cylinder
 **(c)** Let x atm of D react: 2.0 = (1.80 + x) ÷ ((1.00 − x)(1.80 − x)).
 
 1. 2x² − 6.60x + 1.80 = 0, or x² − 3.30x + 0.90 = 0.
-2. x = (3.30 − 2.70) ÷ 2 = 0.30. (The other root, 3.0, is larger than P_D.)
-3. **P_D = 0.70 atm, P_E = 1.50 atm, P_DE = 2.10 atm.** Check: 2.10 ÷ (0.70 × 1.50) = 2.0 ✓.
+2. x = (3.30 − 2.70) ÷ 2 = 0.30. (The other root, 3.0, is larger than P<sub>D</sub>.)
+3. **P<sub>D</sub> = 0.70 atm, P<sub>E</sub> = 1.50 atm, P<sub>DE</sub> = 2.10 atm.** Check: 2.10 ÷ (0.70 × 1.50) = 2.0 ✓.
 
 **(d)** **Kp decreases and the amount of DE decreases.** Heating favours the endothermic (reverse) direction, so K falls. Heating at constant volume does not change the concentrations, so Qc is unchanged and now greater than the smaller Kc. The net reaction runs in reverse until Q falls to K.
 
@@ -198,34 +198,34 @@ The fictional gases D and E combine: D(g) + E(g) ⇌ DE(g), Kp = 2.0. A cylinder
 The fictional hydroxide Z(OH)₂ is only slightly soluble: Z(OH)₂(s) ⇌ Z²⁺(aq) + 2OH⁻(aq). A student stirs excess solid with water at 25 °C, filters, and titrates 25.00 mL of the saturated solution with 0.0100 M HCl. The end point is at 12.00 mL. Assume all the OH⁻ comes from the salt.
 
 (a) Calculate [OH⁻] and the molar solubility of Z(OH)₂.
-(b) Calculate K_sp.
+(b) Calculate K<sub>sp</sub>.
 (c) Predict the molar solubility of Z(OH)₂ in 0.050 M NaOH, and show that your approximation is valid.
 (d) Explain your answer to (c) in terms of the equilibrium.
-(e) The student forgot to filter, and a few particles of solid entered the titration flask. State and explain the effect on her K_sp.
-(f) A fictional hydroxide WOH (1:1) has K_sp = 4.0 × 10⁻⁶. A classmate says that WOH must be more soluble than Z(OH)₂. Evaluate the claim.
+(e) The student forgot to filter, and a few particles of solid entered the titration flask. State and explain the effect on her K<sub>sp</sub>.
+(f) A fictional hydroxide WOH (1:1) has K<sub>sp</sub> = 4.0 × 10⁻⁶. A classmate says that WOH must be more soluble than Z(OH)₂. Evaluate the claim.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
 **(a)** n(OH⁻) = n(H⁺) = 0.01200 L × 0.0100 M = 1.20 × 10⁻⁴ mol. [OH⁻] = 1.20 × 10⁻⁴ ÷ 0.02500 = **4.80 × 10⁻³ M**, so s = **2.40 × 10⁻³ M**.
 
-**(b)** K_sp = (2.40 × 10⁻³)(4.80 × 10⁻³)² = **5.53 × 10⁻⁸**.
+**(b)** K<sub>sp</sub> = (2.40 × 10⁻³)(4.80 × 10⁻³)² = **5.53 × 10⁻⁸**.
 
-**(c)** s = K_sp ÷ (0.050)² = **2.2 × 10⁻⁵ M**. The salt adds 2s = 4.4 × 10⁻⁵ M OH⁻, under 0.1% of 0.050 M, so the approximation holds.
+**(c)** s = K<sub>sp</sub> ÷ (0.050)² = **2.2 × 10⁻⁵ M**. The salt adds 2s = 4.4 × 10⁻⁵ M OH⁻, under 0.1% of 0.050 M, so the approximation holds.
 
-**(d)** The common ion OH⁻ shifts the dissolving equilibrium left, so Q reaches K_sp after about 100 times less solid has dissolved. K_sp does not change.
+**(d)** The common ion OH⁻ shifts the dissolving equilibrium left, so Q reaches K<sub>sp</sub> after about 100 times less solid has dissolved. K<sub>sp</sub> does not change.
 
-**(e)** **Too high.** The solid also reacts with HCl, so the titre, [OH⁻], s and K_sp all come out too large.
+**(e)** **Too high.** The solid also reacts with HCl, so the titre, [OH⁻], s and K<sub>sp</sub> all come out too large.
 
-**(f)** **Wrong.** For WOH, s = √(4.0 × 10⁻⁶) = 2.0 × 10⁻³ M, less than 2.40 × 10⁻³ M for Z(OH)₂. K_sp expressions differ in form, so compare molar solubilities, not K_sp values.
+**(f)** **Wrong.** For WOH, s = √(4.0 × 10⁻⁶) = 2.0 × 10⁻³ M, less than 2.40 × 10⁻³ M for Z(OH)₂. K<sub>sp</sub> expressions differ in form, so compare molar solubilities, not K<sub>sp</sub> values.
 
 | Point | What earns it |
 |---|---|
 | 1 | (a) [OH⁻] = 4.80 × 10⁻³ M from the titration |
 | 1 | (a) s = 2.40 × 10⁻³ M (half of [OH⁻]) |
-| 1 | (b) K_sp = 5.53 × 10⁻⁸, with [OH⁻] squared |
+| 1 | (b) K<sub>sp</sub> = 5.53 × 10⁻⁸, with [OH⁻] squared |
 | 1 | (c) 2.2 × 10⁻⁵ M with a validity check |
-| 1 | (d) Common ion shifts the equilibrium left; K_sp unchanged |
+| 1 | (d) Common ion shifts the equilibrium left; K<sub>sp</sub> unchanged |
 | 1 | (e) Too high, because undissolved solid adds to the titre |
 | 1 | (f) s for WOH compared, with the reason |
 

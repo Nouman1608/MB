@@ -32,7 +32,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 ## Understanding
 
 - I can explain why chemists need the mole to connect a mass measured on a balance to a number of particles. *(Guide: "Why chemists count in moles"; Practice Q7)*
-- I can state Avogadro's number with its unit, N_A = 6.022 × 10²³ mol⁻¹. *(Guide)*
+- I can state Avogadro's number with its unit, N<sub>A</sub> = 6.022 × 10²³ mol⁻¹. *(Guide)*
 - I can explain why the molar mass in g mol⁻¹ has the same number as the average particle mass in amu. *(Guide: "Molar mass"; Practice Q7)*
 - I can say what "particle" means for an element, a molecular compound and an ionic compound. *(Guide)*
 

@@ -127,12 +127,12 @@ The steeper the line, the smaller the specific heat capacity. Two kilojoules war
 
 Specific heat capacity is "per gram". Sometimes "per mole" is more useful.
 
-- **Molar heat capacity**, C_m, is the energy needed to raise the temperature of **1 mol** of a substance by 1 °C. Its unit is J mol⁻¹ °C⁻¹. To convert, multiply by the molar mass: **C_m = c × M**. Then **q = n C_m ΔT**.
+- **Molar heat capacity**, C<sub>m</sub>, is the energy needed to raise the temperature of **1 mol** of a substance by 1 °C. Its unit is J mol⁻¹ °C⁻¹. To convert, multiply by the molar mass: **C<sub>m</sub> = c × M**. Then **q = n C<sub>m</sub> ΔT**.
 - **Heat capacity** of a whole object, C, is the energy needed to raise the temperature of **that object** by 1 °C. Its unit is J °C⁻¹. For an object made of one substance, C = mc, so **q = CΔT**. A 250 g aluminium pan has C = 250 × 0.897 = 224 J °C⁻¹.
 
 Look what happens when you convert the metals in the table to molar heat capacities:
 
-| Metal | c (J g⁻¹ °C⁻¹) | M (g mol⁻¹) | C_m = c × M (J mol⁻¹ °C⁻¹) |
+| Metal | c (J g⁻¹ °C⁻¹) | M (g mol⁻¹) | C<sub>m</sub> = c × M (J mol⁻¹ °C⁻¹) |
 |---|---|---|---|
 | aluminium | 0.897 | 26.98 | 24.2 |
 | iron | 0.449 | 55.85 | 25.1 |

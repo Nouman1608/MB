@@ -44,7 +44,7 @@ Use this page after the [Unit 3 diagnostic](/advanced-course-resources/chemistry
 
 These are **original Marlbridge practice questions**, not past exam questions. Liquid L and the salt Na₂J are fictional, with invented data. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score.
 
-**Data.** R = 0.08206 L atm mol⁻¹ K⁻¹; K = °C + 273.15; h = 6.626 × 10⁻³⁴ J s; c = 2.998 × 10⁸ m s⁻¹; N_A = 6.022 × 10²³ mol⁻¹. Cl 35.45 g mol⁻¹.
+**Data.** R = 0.08206 L atm mol⁻¹ K⁻¹; K = °C + 273.15; h = 6.626 × 10⁻³⁴ J s; c = 2.998 × 10⁸ m s⁻¹; N<sub>A</sub> = 6.022 × 10²³ mol⁻¹. Cl 35.45 g mol⁻¹.
 
 ## Big ideas of the unit
 
@@ -64,13 +64,13 @@ These are **original Marlbridge practice questions**, not past exam questions. L
 |---|---|---|
 | Comparing forces | more electrons → stronger dispersion; H on N, O or F → hydrogen bonding | 3.1 |
 | Boiling and vapor pressure | stronger forces → higher boiling point, lower vapor pressure | 3.2 |
-| Molar volume | V_m = M ÷ density; solid ≈ liquid ≪ gas | 3.3 |
-| Ideal gas | PV = nRT (T in K); P_A = X_A × P_total; P_total = P_A + P_B + … | 3.4 |
+| Molar volume | V<sub>m</sub> = M ÷ density; solid ≈ liquid ≪ gas | 3.3 |
+| Ideal gas | PV = nRT (T in K); P<sub>A</sub> = X<sub>A</sub> × P<sub>total</sub>; P<sub>total</sub> = P<sub>A</sub> + P<sub>B</sub> + … | 3.4 |
 | Kinetic energy | KE = ½mv²; average KE ∝ T; at equal T, v ∝ 1/√M | 3.5 |
 | Real gases | PV/nRT < 1: attractions dominate; > 1: particle volume dominates | 3.6 |
 | Molarity and dilution | M = n ÷ V (L of solution); n before = n after dilution | 3.7, 3.8 |
 | Chromatography | Rf = solute distance ÷ solvent distance; more attracted to stationary phase → lower Rf | 3.9 |
-| Photons | c = λν; E = hν; per mole × N_A; photon energy = gap | 3.11, 3.12 |
+| Photons | c = λν; E = hν; per mole × N<sub>A</sub>; photon energy = gap | 3.11, 3.12 |
 | Beer–Lambert | A = εbc; error chain: effect on A, then on c | 3.13 |
 
 ## Question 1 (multiple choice · mixed)
@@ -258,7 +258,7 @@ A rigid 1.00 L quartz flask holds chlorine, Cl₂, at 25.0 °C and 0.500 atm. It
 
 **(a)** n = PV/RT = (0.500 × 1.00) ÷ (0.08206 × 298.15) = **0.0204 mol**.
 
-**(b)** E = hc/λ = (6.626 × 10⁻³⁴ × 2.998 × 10⁸) ÷ 3.30 × 10⁻⁷ = **6.02 × 10⁻¹⁹ J**; × N_A = **363 kJ mol⁻¹**. UV causes an **electronic transition**; here the excited molecule falls apart.
+**(b)** E = hc/λ = (6.626 × 10⁻³⁴ × 2.998 × 10⁸) ÷ 3.30 × 10⁻⁷ = **6.02 × 10⁻¹⁹ J**; × N<sub>A</sub> = **363 kJ mol⁻¹**. UV causes an **electronic transition**; here the excited molecule falls apart.
 
 **(c)** One bond: 242 000 ÷ 6.022 × 10²³ = 4.02 × 10⁻¹⁹ J, so λ = hc/E = **494 nm**. Longer wavelengths carry too little energy per photon, however bright.
 
@@ -276,7 +276,7 @@ A rigid 1.00 L quartz flask holds chlorine, Cl₂, at 25.0 °C and 0.500 atm. It
 | 1 | (d) P(Cl) = 0.100 atm |
 | 1 | (e) More particles at the same average KE; Cl faster by √2 |
 
-**Total: 7 points.** Forgetting to divide 242 kJ by N_A in (c) gives a wavelength about 6 × 10²³ times too small.
+**Total: 7 points.** Forgetting to divide 242 kJ by N<sub>A</sub> in (c) gives a wavelength about 6 × 10²³ times too small.
 </details>
 
 ## How did you do?

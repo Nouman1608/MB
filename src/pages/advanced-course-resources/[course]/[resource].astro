@@ -18,6 +18,7 @@ import { AP_MARK_IN_METADATA } from '../../../data/ap/config';
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
 import { authorReference, schemaAuthor } from '../../../utils/schema/person';
+import { apMetaDescription, apSubscriptHtml, escapeHtml } from '../../../utils/ap/text';
 import { absoluteUrl } from '../../../utils/seo/meta';
 import {
   getApResources, apUrls, apCourse, apVisibleName, apNoindex, apTypeLabel, apDifficultyLabel, apCalculatorLabel, apStatusLabel,
@@ -62,11 +63,13 @@ const reviewed = d.editorialStatus === 'reviewed' || d.editorialStatus === 'publ
 const reviewerProfile = d.reviewer ? (await getCollection('authors')).find((a) => a.data.name === d.reviewer && a.data.isReviewer === true && a.data.apCoursesReviewed.includes(d.course)) : undefined;
 const faq = AP_MARK_IN_METADATA ? faqNode(d.faqs) : (d.faqs.length && !d.faqs.some((f) => /\bAP\b|Advanced Placement|College Board/.test(f.question + f.answer)) ? faqNode(d.faqs) : null);
 const correctionHref = `${routes.reportCorrection}#page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
+// Audit 3, item 28: chemistry frontmatter text keeps K_a-style subscripts as plain text; print them as <sub> like the bodies.
+const chemText = (s: string): string => (c.slug === 'chemistry' ? apSubscriptHtml(s) : escapeHtml(s));
 const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800';
 ---
 <PageLayout
   title={apSearchTitle(d.title, d.seoTitle)}
-  description={d.description}
+  description={apMetaDescription(d.description)}
   path={path}
   type="article"
   publishedDate={d.publishedDate}
@@ -92,7 +95,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
           <aside aria-label="Key points" class="mb-8 rounded-sm border-s-4 border-gold-500 bg-ivory p-[clamp(16px,2vw,24px)]">
             <p class="m-0 mb-2 mb-label text-teal-700">In short</p>
             <ul class="m-0 list-disc space-y-1.5 ps-5 text-[16px] leading-[1.6]">
-              {d.keyPoints.map((k) => <li>{k}</li>)}
+              {d.keyPoints.map((k) => <li set:html={chemText(k)} />)}
             </ul>
           </aside>
           <div class="ap-body text-[17px] leading-[1.75] [&_h2]:mt-12 [&_h2]:text-[24px] [&_h2]:font-semibold [&_h2]:text-navy-800 [&_h3]:mt-8 [&_h3]:text-[19px] [&_h3]:font-semibold [&_h3]:text-navy-800 [&_p]:mt-4 [&_ul]:mt-4 [&_ul]:list-disc [&_ul]:ps-6 [&_ol]:mt-4 [&_ol]:list-decimal [&_ol]:ps-6 [&_li]:mt-1 [&_a]:underline [&_a]:decoration-gold-500 [&_a]:underline-offset-2 [&_table]:mt-5 [&_table]:w-full [&_table]:border-collapse [&_table]:text-[15px] [&_th]:border-b [&_th]:border-rule [&_th]:py-2 [&_th]:pe-3 [&_th]:text-left [&_td]:border-b [&_td]:border-rule [&_td]:py-2 [&_td]:pe-3 [&_td]:align-top [&_blockquote]:mt-5 [&_blockquote]:border-s-4 [&_blockquote]:border-rule [&_blockquote]:ps-4 [&_blockquote]:text-ink-mute [&_figure]:my-8 [&_figure_svg]:h-auto [&_figure_svg]:w-full [&_figure_svg]:max-w-[640px] [&_figcaption]:mt-2 [&_figcaption]:text-[14px] [&_figcaption]:text-ink-mute [&_details]:mt-4 [&_details]:rounded-sm [&_details]:border [&_details]:border-rule [&_details]:p-4 [&_summary]:cursor-pointer [&_summary]:font-semibold [&_summary]:text-navy-800 [&_code]:font-mono [&_code]:text-[0.92em]">
@@ -125,14 +128,14 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
             <div><dt class="font-semibold text-navy-800">Resource type</dt><dd class="m-0">{apTypeLabel[d.resourceType]}</dd></div>
             <div><dt class="font-semibold text-navy-800">Study time</dt><dd class="m-0">About {d.studyMinutes} minutes</dd></div>
             <div><dt class="font-semibold text-navy-800">Difficulty</dt><dd class="m-0">{apDifficultyLabel[d.difficulty]}</dd></div>
-            {d.calculator && <div><dt class="font-semibold text-navy-800">Calculator</dt><dd class="m-0">{apCalculatorLabel[d.calculator]}{d.calculatorNote ? `. ${d.calculatorNote}` : ''}</dd></div>}
+            {d.calculator && <div><dt class="font-semibold text-navy-800">Calculator</dt><dd class="m-0">{apCalculatorLabel[d.calculator]}{d.calculatorNote && <>. <Fragment set:html={chemText(d.calculatorNote)} /></>}</dd></div>}
             {(d.prerequisites.length > 0 || prereqResources.length > 0) && (
               <div><dt class="font-semibold text-navy-800">Before this</dt><dd class="m-0"><ul class="m-0 list-disc ps-5">
-                {d.prerequisites.map((p) => <li>{p}</li>)}
+                {d.prerequisites.map((p) => <li set:html={chemText(p)} />)}
                 {prereqResources.map((r) => <li><a href={apUrls.resource(r)} class="underline decoration-teal-500 underline-offset-2">{r.data.title}</a></li>)}
               </ul></dd></div>
             )}
-            <div><dt class="font-semibold text-navy-800">You will be able to</dt><dd class="m-0"><ul class="m-0 list-disc ps-5">{d.learningObjectives.map((o) => <li>{o}</li>)}</ul></dd></div>
+            <div><dt class="font-semibold text-navy-800">You will be able to</dt><dd class="m-0"><ul class="m-0 list-disc ps-5">{d.learningObjectives.map((o) => <li set:html={chemText(o)} />)}</ul></dd></div>
             {skills.length > 0 && <div><dt class="font-semibold text-navy-800">Skills practised</dt><dd class="m-0">{skills.map((s) => `${s.number}. ${s.name}`).join('; ')}</dd></div>}
             <div><dt class="font-semibold text-navy-800">Framework</dt><dd class="m-0">{d.framework.schoolYear} school year, {d.framework.examSeries} exam</dd></div>
             <div><dt class="font-semibold text-navy-800">Written by</dt><dd class="m-0">{author?.data.name ?? 'Marlbridge Academic Team'}</dd></div>

@@ -106,7 +106,7 @@ An endothermic reaction runs the other way. The products have **higher** potenti
 <figcaption>Figure 1. An exothermic reaction in water. Stage 2 shows the products briefly hotter than the water (dashed outline, arrows outward); by stage 3 they have shared that energy with the water and everything is at the same, higher temperature. The temperatures match Worked example 3.</figcaption>
 </figure>
 
-This is why, in calorimetry, the energy gained by the solution (q = mcΔT) equals the energy released by the reaction, with the opposite sign: **q_reaction = −q_surroundings**.
+This is why, in calorimetry, the energy gained by the solution (q = mcΔT) equals the energy released by the reaction, with the opposite sign: **q<sub>reaction</sub> = −q<sub>surroundings</sub>**.
 
 ## Using ΔH as a conversion factor
 
@@ -187,8 +187,8 @@ So two students who carry out the same reaction can see quite different temperat
 1. **Moles:** n(A) = 0.0500 L × 0.400 mol L⁻¹ = 0.0200 mol; n(B) = 0.0500 L × 0.600 mol L⁻¹ = 0.0300 mol.
 2. **Limiting reactant:** 0.0300 mol B needs only 0.0150 mol A, and 0.0200 mol A is available. So **B is limiting**.
 3. **Moles of reaction:** 0.0300 mol B ÷ 2 = 0.0150 mol.
-4. **Heat of reaction:** q_rxn = 0.0150 mol × (−84.0 kJ mol⁻¹) = −1.26 kJ = −1260 J.
-5. **Energy gained by the solution:** q_soln = −q_rxn = +1260 J.
+4. **Heat of reaction:** q<sub>rxn</sub> = 0.0150 mol × (−84.0 kJ mol⁻¹) = −1.26 kJ = −1260 J.
+5. **Energy gained by the solution:** q<sub>soln</sub> = −q<sub>rxn</sub> = +1260 J.
 6. **Temperature change:** ΔT = q ÷ (mc) = 1260 J ÷ (100.0 g × 4.18 J g⁻¹ °C⁻¹) = 3.01 °C.
 
 **Answer.** Final temperature ≈ 21.0 + 3.0 = **24.0 °C**.

@@ -59,7 +59,7 @@ There are two types:
 - a **weak acid and its conjugate base**, for example acetic acid, CH₃COOH, with acetate ions from sodium acetate, CH₃COONa;
 - a **weak base and its conjugate acid**, for example ammonia, NH₃, with ammonium ions from ammonium chloride, NH₄Cl.
 
-"Large" means both are present at concentrations far bigger than the small amounts of acid or base you expect to add. In [Topic 8.7](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/) you saw that HA and A⁻ are both present in large amounts only when the pH is within about one unit of the pK_a. That is why every buffer has a pH near the pK_a of its weak acid.
+"Large" means both are present at concentrations far bigger than the small amounts of acid or base you expect to add. In [Topic 8.7](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/) you saw that HA and A⁻ are both present in large amounts only when the pH is within about one unit of the pK<sub>a</sub>. That is why every buffer has a pH near the pK<sub>a</sub> of its weak acid.
 
 ## The two reactions that do the work
 
@@ -73,7 +73,7 @@ A⁻(aq) + H₃O⁺(aq) → HA(aq) + H₂O(l)
 
 HA(aq) + OH⁻(aq) → A⁻(aq) + H₂O(l)
 
-Both reactions go essentially to completion. For acetate, the equilibrium constant for the first is 1/K_a = 5.6 × 10⁴, and for the second it is K_a/K_w = 1.8 × 10⁹. So you can treat the added H₃O⁺ or OH⁻ as **used up**, and the buffer component that reacted as decreased by the same number of moles.
+Both reactions go essentially to completion. For acetate, the equilibrium constant for the first is 1/K<sub>a</sub> = 5.6 × 10⁴, and for the second it is K<sub>a</sub>/K<sub>w</sub> = 1.8 × 10⁹. So you can treat the added H₃O⁺ or OH⁻ as **used up**, and the buffer component that reacted as decreased by the same number of moles.
 
 For a weak base buffer the pattern is the same; only the formulas change. B removes added acid and BH⁺ removes added base:
 
@@ -185,7 +185,7 @@ What does **not** make a buffer:
 
 ## Common misconceptions
 
-- **"A buffer keeps the pH at 7."** A buffer keeps the pH near the pK_a of its weak acid, which can be anywhere on the scale.
+- **"A buffer keeps the pH at 7."** A buffer keeps the pH near the pK<sub>a</sub> of its weak acid, which can be anywhere on the scale.
 - **"A buffer keeps the pH perfectly constant."** The pH does change, just much less than it would without the buffer.
 - **"The conjugate base reacts with added base."** It is the other way round: the base member removes added acid, and the acid member removes added base.
 - **"Any acid mixed with its salt is a buffer."** Only a weak acid works. The conjugate base of a strong acid (Cl⁻, NO₃⁻) is too weak to remove H₃O⁺.
@@ -194,4 +194,4 @@ What does **not** make a buffer:
 
 ## Where this leads
 
-Topic 8.9, the [Henderson–Hasselbalch Equation](/advanced-course-resources/chemistry/8-9-henderson-hasselbalch-equation-study-guide/), links the pH of a buffer to the pK_a and the ratio [A⁻]/[HA], so you can say exactly where a buffer holds the pH. Topic 8.10 then asks how much acid or base a buffer can absorb. Try the [practice questions](/advanced-course-resources/chemistry/8-8-properties-buffers-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/8-8-properties-buffers-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/8-8-properties-buffers-checklist/).
+Topic 8.9, the [Henderson–Hasselbalch Equation](/advanced-course-resources/chemistry/8-9-henderson-hasselbalch-equation-study-guide/), links the pH of a buffer to the pK<sub>a</sub> and the ratio [A⁻]/[HA], so you can say exactly where a buffer holds the pH. Topic 8.10 then asks how much acid or base a buffer can absorb. Try the [practice questions](/advanced-course-resources/chemistry/8-8-properties-buffers-practice/) now, then use the [revision notes](/advanced-course-resources/chemistry/8-8-properties-buffers-revision-notes/) and the [checklist](/advanced-course-resources/chemistry/8-8-properties-buffers-checklist/).

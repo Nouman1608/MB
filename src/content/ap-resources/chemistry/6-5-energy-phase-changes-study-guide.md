@@ -69,8 +69,8 @@ Only when all of the ice has melted does the added energy start to make the mole
 
 The energy needed depends on **how much** substance changes phase. Chemists quote it per mole, at constant pressure, as a **molar enthalpy** with units of kJ mol⁻¹:
 
-- **Molar enthalpy of fusion, ΔH_fus**: energy absorbed when 1 mol of solid melts.
-- **Molar enthalpy of vaporization, ΔH_vap**: energy absorbed when 1 mol of liquid vaporizes.
+- **Molar enthalpy of fusion, ΔH<sub>fus</sub>**: energy absorbed when 1 mol of solid melts.
+- **Molar enthalpy of vaporization, ΔH<sub>vap</sub>**: energy absorbed when 1 mol of liquid vaporizes.
 
 Both are positive because both processes are endothermic. The energy for any amount is then:
 
@@ -80,24 +80,24 @@ where q is in kJ, n is the amount in **moles**, and ΔH is the molar enthalpy in
 
 | Substance | Phase change | Temperature | Molar enthalpy |
 |---|---|---|---|
-| Water | Fusion | 0 °C | ΔH_fus = +6.01 kJ mol⁻¹ |
-| Water | Vaporization | 100 °C | ΔH_vap = +40.7 kJ mol⁻¹ |
-| Ethanol | Vaporization | 78 °C | ΔH_vap = +38.6 kJ mol⁻¹ |
+| Water | Fusion | 0 °C | ΔH<sub>fus</sub> = +6.01 kJ mol⁻¹ |
+| Water | Vaporization | 100 °C | ΔH<sub>vap</sub> = +40.7 kJ mol⁻¹ |
+| Ethanol | Vaporization | 78 °C | ΔH<sub>vap</sub> = +38.6 kJ mol⁻¹ |
 
 ### Opposite changes, opposite signs
 
 Energy is conserved. If 1 mol of water absorbs 40.7 kJ to become steam, then 1 mol of steam must release exactly 40.7 kJ when it condenses back to liquid at the same temperature. So:
 
-- **ΔH_condensation = −ΔH_vap.** For water at 100 °C, ΔH_cond = −40.7 kJ mol⁻¹.
-- **ΔH_freezing = −ΔH_fus.** For water at 0 °C, ΔH_freezing = −6.01 kJ mol⁻¹.
+- **ΔH<sub>condensation</sub> = −ΔH<sub>vap</sub>.** For water at 100 °C, ΔH<sub>cond</sub> = −40.7 kJ mol⁻¹.
+- **ΔH<sub>freezing</sub> = −ΔH<sub>fus</sub>.** For water at 0 °C, ΔH<sub>freezing</sub> = −6.01 kJ mol⁻¹.
 
-Data tables usually list only ΔH_fus and ΔH_vap. You use the same numbers for freezing and condensing and change the sign. A negative q means the system **released** that energy to the surroundings.
+Data tables usually list only ΔH<sub>fus</sub> and ΔH<sub>vap</sub>. You use the same numbers for freezing and condensing and change the sign. A negative q means the system **released** that energy to the surroundings.
 
-### Why ΔH_vap is much larger than ΔH_fus
+### Why ΔH<sub>vap</sub> is much larger than ΔH<sub>fus</sub>
 
-For water, ΔH_vap is about 6.8 times ΔH_fus. Melting only loosens the arrangement: in the liquid the molecules are still touching and still attract each other strongly. Vaporizing separates the molecules **completely**, so almost all of the remaining attractions must be overcome. This is true for nearly every substance.
+For water, ΔH<sub>vap</sub> is about 6.8 times ΔH<sub>fus</sub>. Melting only loosens the arrangement: in the liquid the molecules are still touching and still attract each other strongly. Vaporizing separates the molecules **completely**, so almost all of the remaining attractions must be overcome. This is true for nearly every substance.
 
-The size of ΔH_vap is also a measure of the strength of intermolecular forces ([Topic 3.1](/advanced-course-resources/chemistry/3-1-intermolecular-interparticle-forces-study-guide/)). Stronger attractions between particles mean more energy is needed per mole to pull them apart, so ΔH_vap is larger.
+The size of ΔH<sub>vap</sub> is also a measure of the strength of intermolecular forces ([Topic 3.1](/advanced-course-resources/chemistry/3-1-intermolecular-interparticle-forces-study-guide/)). Stronger attractions between particles mean more energy is needed per mole to pull them apart, so ΔH<sub>vap</sub> is larger.
 
 ## Reading a heating curve
 
@@ -136,19 +136,19 @@ How to read it:
 - **Sloping sections** (A, C, E): one phase only. Energy raises the average kinetic energy, so the temperature rises. Use q = mcΔT here.
 - **Flat sections** (B, D): two phases are present together. Energy changes the potential energy of the particles, so the temperature is constant. Use q = n × ΔH here.
 - The **temperature of a flat section** is the melting point (B) or the boiling point (D) at that pressure.
-- The **length of a flat section** along the energy axis is the energy for that phase change. Section D is much longer than B because ΔH_vap is larger than ΔH_fus.
+- The **length of a flat section** along the energy axis is the energy for that phase change. Section D is much longer than B because ΔH<sub>vap</sub> is larger than ΔH<sub>fus</sub>.
 - A **steeper** sloping section means less energy is needed per degree, so that phase has a **smaller** heat capacity. In Figure 1, the liquid section C is the least steep.
 
 A **cooling curve** is the same picture run backwards: the sample loses energy, and the flat sections are now condensing and freezing.
 
 ## Worked example 1: boiling a known mass
 
-**Question.** How much energy is needed to vaporize 25.0 g of ethanol, C₂H₅OH, at its boiling point (78 °C)? How much energy is released when the vapour condenses again at 78 °C? ΔH_vap(ethanol) = 38.6 kJ mol⁻¹.
+**Question.** How much energy is needed to vaporize 25.0 g of ethanol, C₂H₅OH, at its boiling point (78 °C)? How much energy is released when the vapour condenses again at 78 °C? ΔH<sub>vap</sub>(ethanol) = 38.6 kJ mol⁻¹.
 
 1. **Molar mass:** M = 2(12.01) + 6(1.008) + 16.00 = 46.068 g mol⁻¹.
 2. **Moles:** n = 25.0 g ÷ 46.068 g mol⁻¹ = 0.5427 mol.
-3. **Energy to vaporize:** q = n × ΔH_vap = 0.5427 mol × 38.6 kJ mol⁻¹ = 20.95 kJ.
-4. **Condensing:** ΔH_cond = −38.6 kJ mol⁻¹, so q = 0.5427 mol × (−38.6 kJ mol⁻¹) = −20.95 kJ.
+3. **Energy to vaporize:** q = n × ΔH<sub>vap</sub> = 0.5427 mol × 38.6 kJ mol⁻¹ = 20.95 kJ.
+4. **Condensing:** ΔH<sub>cond</sub> = −38.6 kJ mol⁻¹, so q = 0.5427 mol × (−38.6 kJ mol⁻¹) = −20.95 kJ.
 
 **Answer.** Vaporizing absorbs **+20.9 kJ**; condensing releases the same amount, **q = −20.9 kJ** (3 significant figures).
 
@@ -156,14 +156,14 @@ A **cooling curve** is the same picture run backwards: the sample loses energy, 
 
 ## Worked example 2: a calculation with several steps
 
-**Question.** 30.0 g of ice at −12.0 °C is warmed until it is liquid water at 40.0 °C. Calculate the total energy needed. Use c(ice) = 2.09 J g⁻¹ °C⁻¹, c(water) = 4.18 J g⁻¹ °C⁻¹ and ΔH_fus = 6.01 kJ mol⁻¹.
+**Question.** 30.0 g of ice at −12.0 °C is warmed until it is liquid water at 40.0 °C. Calculate the total energy needed. Use c(ice) = 2.09 J g⁻¹ °C⁻¹, c(water) = 4.18 J g⁻¹ °C⁻¹ and ΔH<sub>fus</sub> = 6.01 kJ mol⁻¹.
 
 Break the heating curve into its sections. The ice must first reach 0 °C before it can melt.
 
 | Step | What happens | Equation | Working | Energy |
 |---|---|---|---|---|
 | 1 | Ice warms from −12.0 °C to 0.0 °C | q = mcΔT | 30.0 × 2.09 × 12.0 | 752.4 J |
-| 2 | Ice melts at 0.0 °C | q = n × ΔH_fus | (30.0 ÷ 18.016) mol × 6.01 kJ mol⁻¹ = 1.6652 × 6.01 | 10.008 kJ |
+| 2 | Ice melts at 0.0 °C | q = n × ΔH<sub>fus</sub> | (30.0 ÷ 18.016) mol × 6.01 kJ mol⁻¹ = 1.6652 × 6.01 | 10.008 kJ |
 | 3 | Water warms from 0.0 °C to 40.0 °C | q = mcΔT | 30.0 × 4.18 × 40.0 | 5016 J |
 
 **Add, in the same unit:** 0.7524 kJ + 10.008 kJ + 5.016 kJ = 15.776 kJ.
@@ -174,27 +174,27 @@ Break the heating curve into its sections. The ice must first reach 0 °C before
 
 ## Worked example 3: finding molar enthalpies from a heating curve
 
-**Question.** Figure 1 shows the heating curve for 0.500 mol of a fictional substance Q. (a) Find the melting point and boiling point of Q. (b) Calculate ΔH_fus and ΔH_vap for Q. (c) What is the energy change when 0.500 mol of gaseous Q condenses at its boiling point?
+**Question.** Figure 1 shows the heating curve for 0.500 mol of a fictional substance Q. (a) Find the melting point and boiling point of Q. (b) Calculate ΔH<sub>fus</sub> and ΔH<sub>vap</sub> for Q. (c) What is the energy change when 0.500 mol of gaseous Q condenses at its boiling point?
 
 **(a)** The flat sections are at **−10 °C** (melting point) and **50 °C** (boiling point).
 
 **(b)** Read the length of each flat section along the energy axis.
 
 1. Melting (B) runs from 1.2 kJ to 4.8 kJ: q = 3.6 kJ for 0.500 mol.
-   ΔH_fus = q ÷ n = 3.6 kJ ÷ 0.500 mol = **7.2 kJ mol⁻¹**.
+   ΔH<sub>fus</sub> = q ÷ n = 3.6 kJ ÷ 0.500 mol = **7.2 kJ mol⁻¹**.
 2. Boiling (D) runs from 10.8 kJ to 25.8 kJ: q = 15.0 kJ for 0.500 mol.
-   ΔH_vap = 15.0 kJ ÷ 0.500 mol = **30.0 kJ mol⁻¹**.
+   ΔH<sub>vap</sub> = 15.0 kJ ÷ 0.500 mol = **30.0 kJ mol⁻¹**.
 
-**(c)** Condensing is the reverse of boiling, so q = −15.0 kJ (ΔH_cond = −30.0 kJ mol⁻¹). The system releases 15.0 kJ to its surroundings.
+**(c)** Condensing is the reverse of boiling, so q = −15.0 kJ (ΔH<sub>cond</sub> = −30.0 kJ mol⁻¹). The system releases 15.0 kJ to its surroundings.
 
-**Check.** ΔH_vap is about four times ΔH_fus, which fits the pattern that vaporizing separates particles completely while melting only loosens them. Remember to divide by the moles in the sample: the length of the flat section is the energy for 0.500 mol, not for 1 mol.
+**Check.** ΔH<sub>vap</sub> is about four times ΔH<sub>fus</sub>, which fits the pattern that vaporizing separates particles completely while melting only loosens them. Remember to divide by the moles in the sample: the length of the flat section is the energy for 0.500 mol, not for 1 mol.
 
 ## Common misconceptions
 
 - **"The temperature keeps rising while water boils, as long as you keep heating."** For a pure substance at constant pressure the temperature stays at the boiling point until all the liquid has gone. Extra heating makes it boil faster, not hotter.
 - **"During melting the particles speed up."** Their average kinetic energy is constant. The energy raises their potential energy as attractions are overcome.
 - **"Freezing needs energy because you put water in a freezer."** The freezer removes energy from the water. Freezing is exothermic for the water: the water releases energy to the colder surroundings.
-- **Using mass instead of moles with ΔH.** ΔH_fus and ΔH_vap are per mole. Multiplying 18 g of water by 6.01 kJ mol⁻¹ gives a number 18 times too large.
+- **Using mass instead of moles with ΔH.** ΔH<sub>fus</sub> and ΔH<sub>vap</sub> are per mole. Multiplying 18 g of water by 6.01 kJ mol⁻¹ gives a number 18 times too large.
 - **Mixing J and kJ.** q = mcΔT gives joules with the usual heat capacity units; q = n × ΔH gives kilojoules. Convert before you add.
 - **Using q = mcΔT across a phase change.** The equation applies to one phase over a temperature range. Split the problem at every melting or boiling point.
 - **Forgetting the sign when reversing.** Condensing and freezing are exothermic, so their q values are negative.

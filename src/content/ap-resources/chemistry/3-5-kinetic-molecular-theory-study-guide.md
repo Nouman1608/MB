@@ -80,7 +80,7 @@ Every gas law from Topic 3.4 follows from these two ideas.
 | Reduce V (fixed T, n) | Same speeds, but less wall area and less distance to travel, so more hits per unit area per second | P increases (P ∝ 1/V) |
 | Add more gas (fixed V, T) | More particles, so more hits per second | P increases (P ∝ n) |
 | Raise T (fixed P, n), for example a balloon | Faster particles push the walls outward until the collision rate per unit area falls back | V increases (V ∝ T) |
-| Mix two gases (fixed V, T) | Particles do not attract or repel, so each gas hits the walls as if it were alone | P_total = P_A + P_B + … |
+| Mix two gases (fixed V, T) | Particles do not attract or repel, so each gas hits the walls as if it were alone | P<sub>total</sub> = P<sub>A</sub> + P<sub>B</sub> + … |
 
 Notice one point in the second row: squeezing a gas at constant temperature does **not** make the particles move faster. Only a change in temperature changes the average kinetic energy.
 

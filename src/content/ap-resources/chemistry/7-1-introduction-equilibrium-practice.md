@@ -118,15 +118,15 @@ A fictional gas J dimerises in a sealed rigid flask: 2J(g) ⇌ J₂(g). The flas
 
 **(b)**
 
-1. Let x atm of J₂ form. Then J falls by 2x: P_J = 0.900 − 2x and P_J₂ = x.
+1. Let x atm of J₂ form. Then J falls by 2x: P<sub>J</sub> = 0.900 − 2x and P<sub>J₂</sub> = x.
 2. Total: (0.900 − 2x) + x = 0.900 − x = 0.620, so x = 0.280.
-3. **P_J₂ = 0.280 atm** and **P_J = 0.900 − 0.560 = 0.340 atm**.
+3. **P<sub>J₂</sub> = 0.280 atm** and **P<sub>J</sub> = 0.900 − 0.560 = 0.340 atm**.
 
 **(c)** J used = 2 × 0.280 = 0.560 atm out of 0.900 atm, so **62.2%** has been converted.
 
 Suggested mark points (4): 1 for linking constant total pressure to constant amounts (equilibrium); 1 for the 2 : 1 relationship (J falls by 2x); 1 for both partial pressures; 1 for 62.2%.
 
-Common error: writing P_J = 0.900 − x. That ignores the coefficient 2. With it, the total pressure would stay at 0.900 atm and could never fall to 0.620 atm.
+Common error: writing P<sub>J</sub> = 0.900 − x. That ignores the coefficient 2. With it, the total pressure would stay at 0.900 atm and could never fall to 0.620 atm.
 </details>
 
 ## Question 5 (constructed response · core)

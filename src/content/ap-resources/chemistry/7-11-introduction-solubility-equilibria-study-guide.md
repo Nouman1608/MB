@@ -94,35 +94,35 @@ A solution in this state is **saturated**. The test for a saturated solution is 
 <figcaption>Figure 1. A saturated AgCl solution. Solid arrow: ions leave the lattice (dissolving). Dashed arrow: ions rejoin it (precipitating). Ag⁺ ions are drawn with solid outlines and Cl⁻ ions with dashed outlines.</figcaption>
 </figure>
 
-## The solubility-product constant, K_sp
+## The solubility-product constant, K<sub>sp</sub>
 
-Because dissolving is a reversible reaction at equilibrium, you can write an equilibrium constant for it. It is called the **solubility-product constant**, **K_sp**. Write it exactly as you learned in Topic 7.4:
+Because dissolving is a reversible reaction at equilibrium, you can write an equilibrium constant for it. It is called the **solubility-product constant**, **K<sub>sp</sub>**. Write it exactly as you learned in Topic 7.4:
 
 1. Write the dissolving equation with the solid on the left and the separate aqueous ions on the right.
 2. Multiply the equilibrium ion concentrations together, each raised to the power of its coefficient.
 3. Leave out the solid. A pure solid has no concentration term in K.
 
-| Salt | Dissolving equation | K_sp expression |
+| Salt | Dissolving equation | K<sub>sp</sub> expression |
 |---|---|---|
 | AgCl | AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq) | [Ag⁺][Cl⁻] |
 | ZF₂ (fictional) | ZF₂(s) ⇌ Z²⁺(aq) + 2 F⁻(aq) | [Z²⁺][F⁻]² |
 | Ag₂CO₃ | Ag₂CO₃(s) ⇌ 2 Ag⁺(aq) + CO₃²⁻(aq) | [Ag⁺]²[CO₃²⁻] |
 | M₃(PO₄)₂ (any 3:2 salt) | M₃(PO₄)₂(s) ⇌ 3 M²⁺(aq) + 2 PO₄³⁻(aq) | [M²⁺]³[PO₄³⁻]² |
 
-The name says what it is: a **product** of ion concentrations. There is no denominator, because the only "reactant" is the solid. Like every K, the value of K_sp depends on temperature, and tables quote it at a stated temperature, usually 25 °C.
+The name says what it is: a **product** of ion concentrations. There is no denominator, because the only "reactant" is the solid. Like every K, the value of K<sub>sp</sub> depends on temperature, and tables quote it at a stated temperature, usually 25 °C.
 
-## Molar solubility and how it links to K_sp
+## Molar solubility and how it links to K<sub>sp</sub>
 
-The **molar solubility**, s, is the number of moles of the salt that dissolve to make one litre of saturated solution. Its unit is mol L⁻¹ (M). To link s to K_sp, follow the formula:
+The **molar solubility**, s, is the number of moles of the salt that dissolve to make one litre of saturated solution. Its unit is mol L⁻¹ (M). To link s to K<sub>sp</sub>, follow the formula:
 
 - If s mol of ZF₂ dissolves per litre, it releases s mol of Z²⁺ and **2s** mol of F⁻ per litre.
-- So K_sp = [Z²⁺][F⁻]² = (s)(2s)² = 4s³.
+- So K<sub>sp</sub> = [Z²⁺][F⁻]² = (s)(2s)² = 4s³.
 
 The two places students lose marks are the **coefficient inside the bracket** (2s, not s) and the **power outside** (squared). For a general salt MₓAᵧ:
 
-K_sp = (xs)ˣ (ys)ʸ
+K<sub>sp</sub> = (xs)ˣ (ys)ʸ
 
-| Ion ratio | Example formula | [cation], [anion] | K_sp in terms of s |
+| Ion ratio | Example formula | [cation], [anion] | K<sub>sp</sub> in terms of s |
 |---|---|---|---|
 | 1:1 | AgCl | s, s | s² |
 | 1:2 or 2:1 | ZF₂, Ag₂CO₃ | s and 2s | 4s³ |
@@ -156,33 +156,33 @@ Do not learn the right-hand column by heart. Build it each time from the dissolv
 <text x="437" y="45" text-anchor="middle" font-size="14" fill="#1d2b44">× M</text>
 <text x="437" y="140" text-anchor="middle" font-size="14" fill="#1d2b44">÷ M</text>
 </svg>
-<figcaption>Figure 2. Solid arrows go from K_sp towards grams per litre; dashed arrows go back. Molar solubility is always the middle step, just as moles are in Topic 1.1.</figcaption>
+<figcaption>Figure 2. Solid arrows go from K<sub>sp</sub> towards grams per litre; dashed arrows go back. Molar solubility is always the middle step, just as moles are in Topic 1.1.</figcaption>
 </figure>
 
-## Worked example 1: solubility from K_sp
+## Worked example 1: solubility from K<sub>sp</sub>
 
-**Question.** At 25 °C, K_sp for silver chloride is 1.8 × 10⁻¹⁰. Calculate the molar solubility of AgCl, and its solubility in grams per litre. (Ag 107.87, Cl 35.45 g mol⁻¹.)
+**Question.** At 25 °C, K<sub>sp</sub> for silver chloride is 1.8 × 10⁻¹⁰. Calculate the molar solubility of AgCl, and its solubility in grams per litre. (Ag 107.87, Cl 35.45 g mol⁻¹.)
 
 1. Dissolving equation: AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq). Each mole that dissolves gives 1 mol Ag⁺ and 1 mol Cl⁻.
 2. Let the molar solubility be s. At equilibrium [Ag⁺] = s and [Cl⁻] = s.
-3. K_sp = [Ag⁺][Cl⁻] = s², so s = √(1.8 × 10⁻¹⁰) = 1.342 × 10⁻⁵ mol L⁻¹.
+3. K<sub>sp</sub> = [Ag⁺][Cl⁻] = s², so s = √(1.8 × 10⁻¹⁰) = 1.342 × 10⁻⁵ mol L⁻¹.
 4. Molar mass: M(AgCl) = 107.87 + 35.45 = 143.32 g mol⁻¹.
 5. Solubility in g L⁻¹ = 1.342 × 10⁻⁵ mol L⁻¹ × 143.32 g mol⁻¹ = 1.92 × 10⁻³ g L⁻¹.
 
-**Answer.** s = 1.3 × 10⁻⁵ mol L⁻¹, which is 1.9 × 10⁻³ g L⁻¹ (2 significant figures, matching K_sp).
+**Answer.** s = 1.3 × 10⁻⁵ mol L⁻¹, which is 1.9 × 10⁻³ g L⁻¹ (2 significant figures, matching K<sub>sp</sub>).
 
 **Interpretation.** Under 2 mg of AgCl dissolves in a whole litre of water. That is why it counts as "insoluble" in Topic 4.7, but it is not zero: the solution above a silver chloride precipitate always contains some Ag⁺ and Cl⁻ ions.
 
-## Worked example 2: K_sp from a measured solubility
+## Worked example 2: K<sub>sp</sub> from a measured solubility
 
-**Question.** A student stirs excess solid ZF₂ (a fictional metal fluoride, M = 120.0 g mol⁻¹) with water at 25 °C until no more dissolves. She filters off the solid and evaporates exactly 250.0 mL of the clear saturated solution. The dry residue has a mass of 0.0360 g. Calculate K_sp for ZF₂ at 25 °C.
+**Question.** A student stirs excess solid ZF₂ (a fictional metal fluoride, M = 120.0 g mol⁻¹) with water at 25 °C until no more dissolves. She filters off the solid and evaporates exactly 250.0 mL of the clear saturated solution. The dry residue has a mass of 0.0360 g. Calculate K<sub>sp</sub> for ZF₂ at 25 °C.
 
 1. Moles dissolved: n = 0.0360 g ÷ 120.0 g mol⁻¹ = 3.000 × 10⁻⁴ mol.
 2. Molar solubility: s = 3.000 × 10⁻⁴ mol ÷ 0.2500 L = 1.200 × 10⁻³ mol L⁻¹.
 3. Ion concentrations from ZF₂(s) ⇌ Z²⁺(aq) + 2 F⁻(aq): [Z²⁺] = s = 1.200 × 10⁻³ M and [F⁻] = 2s = 2.400 × 10⁻³ M.
-4. K_sp = [Z²⁺][F⁻]² = (1.200 × 10⁻³)(2.400 × 10⁻³)² = 6.91 × 10⁻⁹.
+4. K<sub>sp</sub> = [Z²⁺][F⁻]² = (1.200 × 10⁻³)(2.400 × 10⁻³)² = 6.91 × 10⁻⁹.
 
-**Answer.** K_sp = 6.91 × 10⁻⁹ (3 significant figures).
+**Answer.** K<sub>sp</sub> = 6.91 × 10⁻⁹ (3 significant figures).
 
 **Check.** 4s³ = 4 × (1.200 × 10⁻³)³ = 6.91 × 10⁻⁹, the same. Two common wrong answers show why step 3 matters: forgetting the 2 in front of F⁻ gives s³ = 1.73 × 10⁻⁹ (four times too small); forgetting to square [F⁻] gives 2.88 × 10⁻⁶.
 
@@ -190,11 +190,11 @@ The same idea works if you are given the concentration of **one ion** instead of
 
 ## Worked example 3: which salt is most soluble?
 
-**Question.** Three fictional salts of the metal Q have these K_sp values at 25 °C: QX, 2.0 × 10⁻⁹; QY₂, 3.2 × 10⁻¹¹; Q₃W₂, 1.08 × 10⁻²³. Rank them from most to least soluble in water.
+**Question.** Three fictional salts of the metal Q have these K<sub>sp</sub> values at 25 °C: QX, 2.0 × 10⁻⁹; QY₂, 3.2 × 10⁻¹¹; Q₃W₂, 1.08 × 10⁻²³. Rank them from most to least soluble in water.
 
-You cannot rank them by K_sp alone, because the expressions have different forms (s², 4s³, 108s⁵). Calculate s for each.
+You cannot rank them by K<sub>sp</sub> alone, because the expressions have different forms (s², 4s³, 108s⁵). Calculate s for each.
 
-| Salt | K_sp in terms of s | Working | s (mol L⁻¹) |
+| Salt | K<sub>sp</sub> in terms of s | Working | s (mol L⁻¹) |
 |---|---|---|---|
 | QX | s² | √(2.0 × 10⁻⁹) | 4.5 × 10⁻⁵ |
 | QY₂ | 4s³ | ∛(3.2 × 10⁻¹¹ ÷ 4) = ∛(8.0 × 10⁻¹²) | 2.0 × 10⁻⁴ |
@@ -202,43 +202,43 @@ You cannot rank them by K_sp alone, because the expressions have different forms
 
 **Answer.** Most soluble QY₂ > QX > Q₃W₂ least soluble.
 
-**Interpretation.** QY₂ has a K_sp about 60 times *smaller* than QX, yet it is about 4.5 times *more* soluble. A small number raised to a higher power gives a much smaller product, so K_sp values only compare directly when the salts release ions in the same ratio. For two 1:1 salts, the smaller K_sp is always the less soluble salt; for a 1:1 salt against a 1:2 salt, you must calculate.
+**Interpretation.** QY₂ has a K<sub>sp</sub> about 60 times *smaller* than QX, yet it is about 4.5 times *more* soluble. A small number raised to a higher power gives a much smaller product, so K<sub>sp</sub> values only compare directly when the salts release ions in the same ratio. For two 1:1 salts, the smaller K<sub>sp</sub> is always the less soluble salt; for a 1:1 salt against a 1:2 salt, you must calculate.
 
-## Connecting K_sp to the solubility rules
+## Connecting K<sub>sp</sub> to the solubility rules
 
-Topic 4.7 told you that every sodium, potassium, ammonium and nitrate salt is soluble. K_sp puts a number on that statement. For a salt that dissolves freely, the ion concentrations in a saturated solution are large (often several mol L⁻¹), so the product of those concentrations is large too. As a rule of thumb for this course:
+Topic 4.7 told you that every sodium, potassium, ammonium and nitrate salt is soluble. K<sub>sp</sub> puts a number on that statement. For a salt that dissolves freely, the ion concentrations in a saturated solution are large (often several mol L⁻¹), so the product of those concentrations is large too. As a rule of thumb for this course:
 
-- **K_sp > 1:** a soluble salt. All the salts covered by the Topic 4.7 rule fall here.
-- **K_sp much less than 1** (often 10⁻⁴ or smaller, and for some salts far smaller): a sparingly soluble salt, the kind that forms a precipitate when its ions are mixed.
+- **K<sub>sp</sub> > 1:** a soluble salt. All the salts covered by the Topic 4.7 rule fall here.
+- **K<sub>sp</sub> much less than 1** (often 10⁻⁴ or smaller, and for some salts far smaller): a sparingly soluble salt, the kind that forms a precipitate when its ions are mixed.
 
-You will not be asked to memorise further solubility rules; if a question needs a K_sp, it gives you one.
+You will not be asked to memorise further solubility rules; if a question needs a K<sub>sp</sub>, it gives you one.
 
 ## Will a precipitate form? Using Q (Topic 7.10 applied)
 
 The reaction quotient from [Topic 7.10](/advanced-course-resources/chemistry/7-10-reaction-quotient-le-ch-teliers-study-guide/) works for dissolving too. Calculate Q = [Ag⁺][Cl⁻] using the concentrations **just after mixing**, before any reaction:
 
-- Q < K_sp: the solution is not saturated; no precipitate forms (more solid could dissolve).
-- Q = K_sp: the solution is exactly saturated.
-- Q > K_sp: there are too many ions; the reverse reaction (precipitation) happens until Q falls to K_sp.
+- Q < K<sub>sp</sub>: the solution is not saturated; no precipitate forms (more solid could dissolve).
+- Q = K<sub>sp</sub>: the solution is exactly saturated.
+- Q > K<sub>sp</sub>: there are too many ions; the reverse reaction (precipitation) happens until Q falls to K<sub>sp</sub>.
 
-**Example.** Mix 50.0 mL of 2.0 × 10⁻⁴ M AgNO₃ with 50.0 mL of 4.0 × 10⁻⁴ M NaCl. The volume doubles, so each concentration halves: [Ag⁺] = 1.0 × 10⁻⁴ M and [Cl⁻] = 2.0 × 10⁻⁴ M. Q = 2.0 × 10⁻⁸, which is about 110 times larger than K_sp = 1.8 × 10⁻¹⁰, so AgCl precipitates. With solutions 100 times more dilute, Q would be 2.0 × 10⁻¹², below K_sp, and the mixture would stay clear.
+**Example.** Mix 50.0 mL of 2.0 × 10⁻⁴ M AgNO₃ with 50.0 mL of 4.0 × 10⁻⁴ M NaCl. The volume doubles, so each concentration halves: [Ag⁺] = 1.0 × 10⁻⁴ M and [Cl⁻] = 2.0 × 10⁻⁴ M. Q = 2.0 × 10⁻⁸, which is about 110 times larger than K<sub>sp</sub> = 1.8 × 10⁻¹⁰, so AgCl precipitates. With solutions 100 times more dilute, Q would be 2.0 × 10⁻¹², below K<sub>sp</sub>, and the mixture would stay clear.
 
 ## Assumptions in these calculations
 
 - The salt dissolves completely into the separate ions shown in the equation, and those ions do not react further with water. (Ions that do react, such as weak-acid anions, come up in Unit 8.)
-- The solution is at the temperature the K_sp refers to.
+- The solution is at the temperature the K<sub>sp</sub> refers to.
 - Undissolved solid is present, so the solution really is saturated.
 
-These are the assumptions of the simple model used in this course. Measured solubilities of real salts can differ from the K_sp prediction when they are not met.
+These are the assumptions of the simple model used in this course. Measured solubilities of real salts can differ from the K<sub>sp</sub> prediction when they are not met.
 
 ## Common misconceptions
 
-- **"Insoluble means none dissolves."** Every ionic solid dissolves to some extent. "Insoluble" in Topic 4.7 means K_sp is very small.
-- **"Smaller K_sp always means less soluble."** Only for salts with the same ion ratio. Worked example 3 shows a smaller K_sp with a larger solubility.
+- **"Insoluble means none dissolves."** Every ionic solid dissolves to some extent. "Insoluble" in Topic 4.7 means K<sub>sp</sub> is very small.
+- **"Smaller K<sub>sp</sub> always means less soluble."** Only for salts with the same ion ratio. Worked example 3 shows a smaller K<sub>sp</sub> with a larger solubility.
 - **Writing [F⁻] = s for ZF₂.** Two fluoride ions are released per formula unit, so [F⁻] = 2s, and that 2 is then squared.
-- **Putting the solid in the expression.** K_sp has no denominator; the solid is left out.
-- **"Adding more solid increases the ion concentrations."** Once the solution is saturated, extra solid just sits at the bottom. Only a temperature change alters K_sp.
-- **Confusing s with K_sp.** s is a concentration with a unit (mol L⁻¹); K_sp is an equilibrium constant. For AgCl, s = 1.3 × 10⁻⁵ M but K_sp = 1.8 × 10⁻¹⁰.
+- **Putting the solid in the expression.** K<sub>sp</sub> has no denominator; the solid is left out.
+- **"Adding more solid increases the ion concentrations."** Once the solution is saturated, extra solid just sits at the bottom. Only a temperature change alters K<sub>sp</sub>.
+- **Confusing s with K<sub>sp</sub>.** s is a concentration with a unit (mol L⁻¹); K<sub>sp</sub> is an equilibrium constant. For AgCl, s = 1.3 × 10⁻⁵ M but K<sub>sp</sub> = 1.8 × 10⁻¹⁰.
 - **Mixing up units of solubility.** Check whether a question wants mol L⁻¹ or g L⁻¹, and use the molar mass to switch.
 
 ## Where this leads

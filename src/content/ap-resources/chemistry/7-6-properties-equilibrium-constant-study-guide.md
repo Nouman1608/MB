@@ -69,7 +69,7 @@ Written the other way, 2 NO₂(g) ⇌ 2 NO(g) + O₂(g), the products and reacta
 
 K₂ = [NO]²[O₂] / [NO₂]² = 1 / K₁
 
-So **K_reverse = 1 / K_forward**. This fits Topic 7.5: if the forward reaction is strongly product-favoured (large K), the reverse reaction is strongly reactant-favoured (small K).
+So **K<sub>reverse</sub> = 1 / K<sub>forward</sub>**. This fits Topic 7.5: if the forward reaction is strongly product-favoured (large K), the reverse reaction is strongly reactant-favoured (small K).
 
 ## Rule 2: multiplying the coefficients by c raises K to the power c
 
@@ -89,13 +89,13 @@ A two-step pathway that could make NO₂ (values invented):
 
 | Step | Equation | K |
 |---|---|---|
-| 1 | 2 NO(g) ⇌ N₂O₂(g) | K_a = 80 |
-| 2 | N₂O₂(g) + O₂(g) ⇌ 2 NO₂(g) | K_b = 8.0 × 10⁷ |
-| Overall | 2 NO(g) + O₂(g) ⇌ 2 NO₂(g) | K = K_a × K_b = 6.4 × 10⁹ |
+| 1 | 2 NO(g) ⇌ N₂O₂(g) | K<sub>a</sub> = 80 |
+| 2 | N₂O₂(g) + O₂(g) ⇌ 2 NO₂(g) | K<sub>b</sub> = 8.0 × 10⁷ |
+| Overall | 2 NO(g) + O₂(g) ⇌ 2 NO₂(g) | K = K<sub>a</sub> × K<sub>b</sub> = 6.4 × 10⁹ |
 
 Check with the expressions:
 
-K_a × K_b = [N₂O₂]/[NO]² × [NO₂]²/([N₂O₂][O₂]) = [NO₂]² / ([NO]²[O₂])
+K<sub>a</sub> × K<sub>b</sub> = [N₂O₂]/[NO]² × [NO₂]²/([N₂O₂][O₂]) = [NO₂]² / ([NO]²[O₂])
 
 The intermediate N₂O₂ cancels, and what is left is the expression for the overall equation. This is how you **represent a multistep process with one overall expression**: add the steps, multiply the K values, and check that the intermediates cancel.
 

@@ -58,7 +58,7 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 
 | Idea | Relationship or method | Topic |
 |---|---|---|
-| Moles and particles | n = m / M; N = n × N_A | 1.1 |
+| Moles and particles | n = m / M; N = n × N<sub>A</sub> | 1.1 |
 | Average atomic mass | Σ (isotope mass × fractional abundance); heights scaled to 100 must be divided by their total | 1.2 |
 | Percent by mass | (atoms in formula × atomic mass) ÷ molar mass × 100 | 1.3 |
 | Empirical formula | grams → moles → divide by the smallest → whole numbers (× 2, 3 or 4 if needed) | 1.3 |
@@ -66,7 +66,7 @@ These are **original Marlbridge practice questions**, not past exam questions. T
 | Two-component mixture | one equation for total mass, one for the analysed element | 1.4 |
 | Coulomb's law | F ∝ q₁q₂ / r²; core charge ≈ protons − core electrons | 1.5 |
 | PES | one peak per subshell; height ∝ electrons; position = binding energy | 1.6 |
-| Trends | across a period: Z_eff rises, same shell; down a group: new shell, farther out | 1.7 |
+| Trends | across a period: Z<sub>eff</sub> rises, same shell; down a group: new shell, farther out | 1.7 |
 | Ionic formulas | charge from valence electrons; smallest ratio with total charge zero | 1.8 |
 
 ## Question 1 (multiple choice · mixed)

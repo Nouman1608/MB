@@ -88,7 +88,7 @@ Silver has a specific heat capacity of 0.233 J g⁻¹ °C⁻¹. What is its mola
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** One mole of silver has a mass of 107.87 g, so C_m = c × M = 0.233 J g⁻¹ °C⁻¹ × 107.87 g mol⁻¹ = **25.1 J mol⁻¹ °C⁻¹**. The grams cancel, which confirms the setup.
+**Answer: (C).** One mole of silver has a mass of 107.87 g, so C<sub>m</sub> = c × M = 0.233 J g⁻¹ °C⁻¹ × 107.87 g mol⁻¹ = **25.1 J mol⁻¹ °C⁻¹**. The grams cancel, which confirms the setup.
 
 - (A) divides c by M; the units would be J g⁻² mol °C⁻¹, which is meaningless.
 - (B) copies the specific value and only changes the unit.
@@ -125,12 +125,12 @@ A 120.0 g block of iron at 95.0 °C is placed in 200.0 g of water at 20.0 °C in
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** q(iron) + q(water) = 0, so m(Fe) c(Fe) (T_f − 95.0) + m(w) c(w) (T_f − 20.0) = 0.
+**(a)** q(iron) + q(water) = 0, so m(Fe) c(Fe) (T<sub>f</sub> − 95.0) + m(w) c(w) (T<sub>f</sub> − 20.0) = 0.
 
 **(b)** Heat capacities: iron 120.0 × 0.449 = 53.88 J °C⁻¹; water 200.0 × 4.18 = 836.0 J °C⁻¹.
-53.88 (T_f − 95.0) + 836.0 (T_f − 20.0) = 0
-889.88 T_f = 53.88 × 95.0 + 836.0 × 20.0 = 21 838.6
-T_f = **24.5 °C**
+53.88 (T<sub>f</sub> − 95.0) + 836.0 (T<sub>f</sub> − 20.0) = 0
+889.88 T<sub>f</sub> = 53.88 × 95.0 + 836.0 × 20.0 = 21 838.6
+T<sub>f</sub> = **24.5 °C**
 
 **Check:** iron loses 53.88 × (95.0 − 24.541) = 3796 J; water gains 836.0 × (24.541 − 20.0) = 3796 J. Energy lost = energy gained.
 
@@ -140,7 +140,7 @@ T_f = **24.5 °C**
 |---|---|
 | 1 | Correct energy-conservation equation (or "heat lost by iron = heat gained by water") |
 | 1 | Correct substitution, with ΔT written as final − initial for each part |
-| 1 | T_f = 24.5 °C |
+| 1 | T<sub>f</sub> = 24.5 °C |
 | 1 | (c) Links the result to the water's much larger mc (heat capacity), not just "more water" |
 
 A final temperature of 57.5 °C (the midpoint) earns no credit for (b): it assumes equal heat capacities.

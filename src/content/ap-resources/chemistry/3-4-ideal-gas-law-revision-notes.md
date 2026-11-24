@@ -46,8 +46,8 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 |---|---|---|
 | PV = nRT | R = 0.08206 L atm mol⁻¹ K⁻¹ or 62.36 L torr mol⁻¹ K⁻¹ | find any one of P, V, n, T |
 | P₁V₁ / T₁ = P₂V₂ / T₂ | fixed n; T in K | find new conditions after a change |
-| P_A = X_A × P_total | X_A = n_A ÷ n_total (no unit) | find a partial pressure in a mixture |
-| P_total = P_A + P_B + … | same pressure units throughout | find the total, or one gas by subtraction |
+| P<sub>A</sub> = X<sub>A</sub> × P<sub>total</sub> | X<sub>A</sub> = n<sub>A</sub> ÷ n<sub>total</sub> (no unit) | find a partial pressure in a mixture |
+| P<sub>total</sub> = P<sub>A</sub> + P<sub>B</sub> + … | same pressure units throughout | find the total, or one gas by subtraction |
 | M = dRT / P | d in g L⁻¹ | find a molar mass from gas density |
 | K = °C + 273.15; 1 atm = 760 torr | conversions | make units consistent |
 

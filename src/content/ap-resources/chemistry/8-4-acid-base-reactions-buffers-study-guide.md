@@ -124,17 +124,17 @@ The reaction H₃O⁺ + OH⁻ → 2 H₂O goes to completion. Whatever is in exc
 
 HA + OH⁻ → A⁻ + H₂O goes to completion. What is left depends on which reactant runs out.
 
-- **Weak acid in excess.** Some HA remains, together with the A⁻ just made. A weak acid and its conjugate base together form a **buffer**. Its pH follows from the K_a expression rearranged, the Henderson–Hasselbalch equation (studied fully in Topic 8.9):
+- **Weak acid in excess.** Some HA remains, together with the A⁻ just made. A weak acid and its conjugate base together form a **buffer**. Its pH follows from the K<sub>a</sub> expression rearranged, the Henderson–Hasselbalch equation (studied fully in Topic 8.9):
 
-  **pH = pK_a + log([A⁻] / [HA])**
+  **pH = pK<sub>a</sub> + log([A⁻] / [HA])**
 
   Both species share one volume, so you can put the mole ratio straight in.
-- **Equal moles.** All the HA has become A⁻. A⁻ is a weak base (Topic 8.3), so it reacts slightly with water: A⁻ + H₂O ⇌ HA + OH⁻. The pH is **slightly basic**. Use K_b = K_w ÷ K_a.
+- **Equal moles.** All the HA has become A⁻. A⁻ is a weak base (Topic 8.3), so it reacts slightly with water: A⁻ + H₂O ⇌ HA + OH⁻. The pH is **slightly basic**. Use K<sub>b</sub> = K<sub>w</sub> ÷ K<sub>a</sub>.
 - **Strong base in excess.** The leftover OH⁻ swamps the tiny amount A⁻ makes. pH comes from the excess OH⁻ moles ÷ total volume.
 
 ## Worked example 2: one weak acid, three amounts of base
 
-**Question.** The fictional weak acid HQ has pK_a = 4.80. A 50.0 mL sample of 0.100 M HQ is mixed with 0.100 M NaOH. Find the pH after adding (a) 20.0 mL, (b) 50.0 mL, (c) 60.0 mL of NaOH.
+**Question.** The fictional weak acid HQ has pK<sub>a</sub> = 4.80. A 50.0 mL sample of 0.100 M HQ is mixed with 0.100 M NaOH. Find the pH after adding (a) 20.0 mL, (b) 50.0 mL, (c) 60.0 mL of NaOH.
 
 Start: n(HQ) = 0.0500 L × 0.100 M = 5.00 × 10⁻³ mol.
 
@@ -146,10 +146,10 @@ Start: n(HQ) = 0.0500 L × 0.100 M = 5.00 × 10⁻³ mol.
 | After (mol) | 3.00 × 10⁻³ | 0 | 2.00 × 10⁻³ |
 
 Both HQ and Q⁻ are left: a buffer. pH = 4.80 + log(2.00 / 3.00) = 4.80 − 0.18 = **4.62**.
-Check: there is more acid than conjugate base, so the pH should be a little below pK_a. It is.
+Check: there is more acid than conjugate base, so the pH should be a little below pK<sub>a</sub>. It is.
 
 **(b) 50.0 mL.** n(OH⁻) = 5.00 × 10⁻³ mol, exactly equal. Only Q⁻ is left.
-[Q⁻] = 5.00 × 10⁻³ mol ÷ 0.100 L = 0.0500 M. K_b = 1.0 × 10⁻¹⁴ ÷ 10^(−4.80) = 6.31 × 10⁻¹⁰.
+[Q⁻] = 5.00 × 10⁻³ mol ÷ 0.100 L = 0.0500 M. K<sub>b</sub> = 1.0 × 10⁻¹⁴ ÷ 10^(−4.80) = 6.31 × 10⁻¹⁰.
 [OH⁻] ≈ √(6.31 × 10⁻¹⁰ × 0.0500) = 5.62 × 10⁻⁶ M (0.011% of 0.0500, so the shortcut is fine).
 pOH = 5.25, so pH = **8.75**. Slightly basic, as predicted.
 
@@ -160,18 +160,18 @@ pOH = 5.25, so pH = **8.75**. Slightly basic, as predicted.
 
 B + H₃O⁺ → HB⁺ + H₂O goes to completion. The three outcomes mirror the weak acid case:
 
-- **weak base in excess**: a buffer of B and HB⁺, with pH = pK_a(HB⁺) + log([B] / [HB⁺]);
+- **weak base in excess**: a buffer of B and HB⁺, with pH = pK<sub>a</sub>(HB⁺) + log([B] / [HB⁺]);
 - **equal moles**: only HB⁺ remains, and HB⁺ + H₂O ⇌ B + H₃O⁺ makes the pH **slightly acidic**;
 - **strong acid in excess**: pH from the excess H₃O⁺ moles ÷ total volume.
 
 ## Worked example 3: ammonia and hydrochloric acid
 
-**Question.** A 40.0 mL sample of 0.250 M NH₃ (K_b = 1.8 × 10⁻⁵) is mixed with 0.250 M HCl. Find the pH after adding (a) 10.0 mL, (b) 40.0 mL of the acid.
+**Question.** A 40.0 mL sample of 0.250 M NH₃ (K<sub>b</sub> = 1.8 × 10⁻⁵) is mixed with 0.250 M HCl. Find the pH after adding (a) 10.0 mL, (b) 40.0 mL of the acid.
 
-Start: n(NH₃) = 0.0400 L × 0.250 M = 1.00 × 10⁻² mol. For NH₄⁺, K_a = K_w ÷ K_b = 5.56 × 10⁻¹⁰ and pK_a = 9.26.
+Start: n(NH₃) = 0.0400 L × 0.250 M = 1.00 × 10⁻² mol. For NH₄⁺, K<sub>a</sub> = K<sub>w</sub> ÷ K<sub>b</sub> = 5.56 × 10⁻¹⁰ and pK<sub>a</sub> = 9.26.
 
 **(a) 10.0 mL.** n(H₃O⁺) = 2.50 × 10⁻³ mol, limiting. After reaction: 7.50 × 10⁻³ mol NH₃ and 2.50 × 10⁻³ mol NH₄⁺. A buffer.
-pH = 9.255 + log(7.50 / 2.50) = 9.255 + 0.477 = **9.73** (keep the unrounded pK_a until the end).
+pH = 9.255 + log(7.50 / 2.50) = 9.255 + 0.477 = **9.73** (keep the unrounded pK<sub>a</sub> until the end).
 
 **(b) 40.0 mL.** n(H₃O⁺) = 1.00 × 10⁻² mol, equal to NH₃. Only NH₄⁺ remains.
 [NH₄⁺] = 1.00 × 10⁻² ÷ 0.0800 L = 0.125 M.
@@ -185,12 +185,12 @@ When neither reactant is strong, the reaction does not go to completion. It reac
 
 HA(aq) + B(aq) ⇌ A⁻(aq) + HB⁺(aq)
 
-Its constant combines what you know from Topic 8.3: K = K_a(HA) × K_b(B) ÷ K_w, which is the same as **K = K_a(HA) ÷ K_a(HB⁺)**. Read it as a contest between two acids, HA on the left and HB⁺ on the right. The proton ends up mostly on the weaker acid's conjugate base.
+Its constant combines what you know from Topic 8.3: K = K<sub>a</sub>(HA) × K<sub>b</sub>(B) ÷ K<sub>w</sub>, which is the same as **K = K<sub>a</sub>(HA) ÷ K<sub>a</sub>(HB⁺)**. Read it as a contest between two acids, HA on the left and HB⁺ on the right. The proton ends up mostly on the weaker acid's conjugate base.
 
 - Acetic acid with ammonia: K = 1.8 × 10⁻⁵ ÷ 5.56 × 10⁻¹⁰ = **3.2 × 10⁴**. Acetic acid is the stronger acid, so products are favoured: mostly CH₃COO⁻ and NH₄⁺.
-- A fictional acid with pK_a 9.00 and a base whose conjugate acid has pK_a 5.00: K = 10^(−9.00) ÷ 10^(−5.00) = **1.0 × 10⁻⁴**. Reactants are favoured; very little proton transfer happens.
+- A fictional acid with pK<sub>a</sub> 9.00 and a base whose conjugate acid has pK<sub>a</sub> 5.00: K = 10^(−9.00) ÷ 10^(−5.00) = **1.0 × 10⁻⁴**. Reactants are favoured; very little proton transfer happens.
 
-The rule: **products are favoured when the acid on the left is stronger (smaller pK_a) than the acid on the right.**
+The rule: **products are favoured when the acid on the left is stronger (smaller pK<sub>a</sub>) than the acid on the right.**
 
 ## What makes a buffer, and the boundary of this topic
 
@@ -202,8 +202,8 @@ A buffer contains a weak acid and its conjugate base (or a weak base and its con
 - **Subtracting concentrations instead of moles.** Mixing changes volumes; always convert to moles first.
 - **Forgetting the total volume** when converting excess moles back to a concentration.
 - **Running an ICE table on HA + OH⁻.** That reaction goes to completion; use a before/after table, then do the equilibrium step.
-- **Using H–H when one species has run out.** A buffer needs both members of the pair. At equal moles, use K_b (or K_a) of what is left.
-- **Flipping the ratio.** It is log(base form ÷ acid form). More base form means pH above pK_a.
+- **Using H–H when one species has run out.** A buffer needs both members of the pair. At equal moles, use K<sub>b</sub> (or K<sub>a</sub>) of what is left.
+- **Flipping the ratio.** It is log(base form ÷ acid form). More base form means pH above pK<sub>a</sub>.
 - **"Any acid plus any base goes to completion."** Two weak species reach an equilibrium whose K may be large or small.
 
 ## Where this leads

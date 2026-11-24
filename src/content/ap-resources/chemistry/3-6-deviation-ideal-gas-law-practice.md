@@ -108,7 +108,7 @@ A rigid container holds a known amount of a gas at 220 K. The measured pressure 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** V_ideal = nRT/P = (1.00)(0.08206)(273) / 1000 = 0.0224 L = 22.4 mL. At such an extreme pressure the particles fill much of that space, so the gas cannot be squeezed as far as the ideal law predicts. Particle volume dominates and the real volume is larger.
+**Answer: (A).** V<sub>ideal</sub> = nRT/P = (1.00)(0.08206)(273) / 1000 = 0.0224 L = 22.4 mL. At such an extreme pressure the particles fill much of that space, so the gas cannot be squeezed as far as the ideal law predicts. Particle volume dominates and the real volume is larger.
 
 - (B) describes the effect of attractions, which dominates at moderate pressures, not at extreme ones.
 - (C) The KMT assumptions of negligible particle volume and no attractions fail at very high pressure.
@@ -127,7 +127,7 @@ A rigid 0.500 L vessel contains 0.800 mol of gas Z at 200 K. The measured pressu
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** P_ideal = nRT/V = (0.800 mol)(0.08206 L atm mol⁻¹ K⁻¹)(200 K) / 0.500 L = **26.3 atm**.
+**(a)** P<sub>ideal</sub> = nRT/V = (0.800 mol)(0.08206 L atm mol⁻¹ K⁻¹)(200 K) / 0.500 L = **26.3 atm**.
 
 **(b)** PV/nRT = 21.7 / 26.26 = **0.826**. The measured pressure is (26.26 − 21.7) / 26.26 × 100 = **17.4% lower** than ideal.
 
@@ -188,13 +188,13 @@ Accept "the gas is further from condensation at 400 K" in (a) if it is linked to
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** V_ideal = nRT/P = (1.00)(0.08206)(300) / 600 = 0.04103 L = **41.0 mL**.
+**(a)** V<sub>ideal</sub> = nRT/P = (1.00)(0.08206)(300) / 600 = 0.04103 L = **41.0 mL**.
 
-**(b)** PV/nRT = V_measured / V_ideal = 62.0 / 41.03 = **1.51**. Above 1, so **particle volume dominates**.
+**(b)** PV/nRT = V<sub>measured</sub> / V<sub>ideal</sub> = 62.0 / 41.03 = **1.51**. Above 1, so **particle volume dominates**.
 
 **(c)** The ideal gas law assumes all 41.0 mL is free space. But the molecules themselves take up about 40 mL, nearly the whole ideal volume. The gas cannot be compressed into a space that small and still leave room for the molecules to move, so the real volume is much larger than predicted.
 
-**(d)** At 1 atm and 300 K, V_ideal = (1.00)(0.08206)(300) / 1 = 24.6 L = 24 600 mL. The molecules then take up 40 / 24 600 × 100 = **0.16%** of the volume, which is negligible. The claim is **incorrect**: particle volume matters only when the gas is compressed into a volume not much bigger than the molecules themselves.
+**(d)** At 1 atm and 300 K, V<sub>ideal</sub> = (1.00)(0.08206)(300) / 1 = 24.6 L = 24 600 mL. The molecules then take up 40 / 24 600 × 100 = **0.16%** of the volume, which is negligible. The claim is **incorrect**: particle volume matters only when the gas is compressed into a volume not much bigger than the molecules themselves.
 
 | Point | What earns it |
 |---|---|

@@ -128,7 +128,7 @@ A student collects hydrogen gas over water at 25.0 °C. The gas occupies 245.0 m
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** The tube contains hydrogen and water vapour, so P(H₂) = P_total − P(H₂O) = 752.0 − 23.8 = **728.2 torr**.
+**(a)** The tube contains hydrogen and water vapour, so P(H₂) = P<sub>total</sub> − P(H₂O) = 752.0 − 23.8 = **728.2 torr**.
 
 **(b)** Use R in torr: n = PV / RT = (728.2 torr × 0.2450 L) ÷ (62.36 L torr mol⁻¹ K⁻¹ × 298.15 K) = **9.60 × 10⁻³ mol**.
 
@@ -193,7 +193,7 @@ Flask A (2.00 L) contains N₂ at 1.50 atm. Flask B (3.00 L) contains O₂ at 0.
 **(a)** Each gas now spreads through the total volume of 5.00 L, with its amount and the temperature unchanged, so P₁V₁ = P₂V₂ for each gas.
 P(N₂) = 1.50 atm × 2.00 L ÷ 5.00 L = **0.600 atm**. P(O₂) = 0.500 atm × 3.00 L ÷ 5.00 L = **0.300 atm**.
 
-**(b)** P_total = 0.600 + 0.300 = **0.900 atm**. X(N₂) = 0.600 ÷ 0.900 = **0.667**. (Check: n is proportional to PV at fixed T, so n(N₂) : n(O₂) = 3.00 : 1.50 = 2 : 1, which also gives X(N₂) = 2/3.)
+**(b)** P<sub>total</sub> = 0.600 + 0.300 = **0.900 atm**. X(N₂) = 0.600 ÷ 0.900 = **0.667**. (Check: n is proportional to PV at fixed T, so n(N₂) : n(O₂) = 3.00 : 1.50 = 2 : 1, which also gives X(N₂) = 2/3.)
 
 **(c)** The claim is **incorrect**. In an ideal mixture each gas behaves as if the others were absent. The O₂ partial pressure fell from 0.500 to 0.300 atm only because the same amount of O₂ now occupies a larger volume (3.00 L → 5.00 L). It would fall by exactly the same amount if Flask A were empty.
 

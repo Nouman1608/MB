@@ -68,10 +68,10 @@ When sodium hydrogencarbonate is heated in a closed container, this equilibrium 
 
 Which is the expression for Kp?
 
-- (A) P_CO₂
-- (B) P_CO₂ + P_H₂O
-- (C) P_CO₂ × P_H₂O
-- (D) P_CO₂ × P_H₂O / (P_NaHCO₃)²
+- (A) P<sub>CO₂</sub>
+- (B) P<sub>CO₂</sub> + P<sub>H₂O</sub>
+- (C) P<sub>CO₂</sub> × P<sub>H₂O</sub>
+- (D) P<sub>CO₂</sub> × P<sub>H₂O</sub> / (P<sub>NaHCO₃</sub>)²
 
 <details>
 <summary>Answer and explanation</summary>
@@ -133,13 +133,13 @@ CO(g) + 2H₂(g) ⇌ CH₃OH(g)
 
 (a) Write the expression for Kc and the expression for Kp.
 (b) A student says: "Kc and Kp are just two names for the same number." Explain why this is not correct.
-(c) At one moment a reaction vessel contains P_CO = 0.50 atm, P_H₂ = 1.00 atm and P_CH₃OH = 0.10 atm. Calculate Qp.
+(c) At one moment a reaction vessel contains P<sub>CO</sub> = 0.50 atm, P<sub>H₂</sub> = 1.00 atm and P<sub>CH₃OH</sub> = 0.10 atm. Calculate Qp.
 (d) At the temperature of the vessel, Kp = 0.050. Is the mixture at equilibrium? As the system approaches equilibrium, will Qp increase or decrease? Justify your answers.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** Kc = [CH₃OH] / ([CO][H₂]²); Kp = P_CH₃OH / (P_CO × (P_H₂)²).
+**(a)** Kc = [CH₃OH] / ([CO][H₂]²); Kp = P<sub>CH₃OH</sub> / (P<sub>CO</sub> × (P<sub>H₂</sub>)²).
 
 **(b)** Kc is built from concentrations in mol L⁻¹, while Kp is built from partial pressures in atm. The same mixture gives different numbers in the two forms, so for most reactions Kc and Kp have different values. A question must be answered with the one it names.
 
@@ -149,7 +149,7 @@ CO(g) + 2H₂(g) ⇌ CH₃OH(g)
 
 | Point | What earns it |
 |---|---|
-| 1 | Correct Kc **and** Kp expressions, with [H₂]² and (P_H₂)² |
+| 1 | Correct Kc **and** Kp expressions, with [H₂]² and (P<sub>H₂</sub>)² |
 | 1 | States that Kc uses concentrations and Kp uses partial pressures, so their values generally differ |
 | 1 | Qp = 0.20 with substitution shown |
 | 1 | Not at equilibrium, because Qp ≠ Kp |
@@ -216,16 +216,16 @@ Magnesium carbonate decomposes on heating: MgCO₃(s) ⇌ MgO(s) + CO₂(g). Two
 <details>
 <summary>Model answer and suggested Marlbridge rubric</summary>
 
-**(a)** Kp = P_CO₂.
+**(a)** Kp = P<sub>CO₂</sub>.
 
-**(b)** The prediction is **wrong**. Both flasks are at the same temperature, so Kp is the same. Since Kp = P_CO₂, the equilibrium pressure of CO₂ is the **same** in both flasks. Flask 2 simply has more solid left over at equilibrium.
+**(b)** The prediction is **wrong**. Both flasks are at the same temperature, so Kp is the same. Since Kp = P<sub>CO₂</sub>, the equilibrium pressure of CO₂ is the **same** in both flasks. Flask 2 simply has more solid left over at equilibrium.
 
 **(c)** The concentration of a pure solid (moles per litre of the solid itself) is fixed by its density. A bigger lump has more moles but also more volume, so the ratio does not change. Because adding or removing solid cannot change this value, it cannot shift the equilibrium, so it is left out of Q and K. The solids must still be present for the equilibrium to exist.
 
 | Point | What earns it |
 |---|---|
-| 1 | Kp = P_CO₂ (no solids) |
-| 1 | Prediction wrong: same Kp at the same temperature, so the same P_CO₂ |
+| 1 | Kp = P<sub>CO₂</sub> (no solids) |
+| 1 | Prediction wrong: same Kp at the same temperature, so the same P<sub>CO₂</sub> |
 | 1 | The concentration of a pure solid does not depend on the amount present (fixed by density) |
 | 1 | So changing the amount of solid does not change Q or the equilibrium mixture |
 </details>

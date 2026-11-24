@@ -41,7 +41,7 @@ Use this page to find **which Unit 1 topics to revisit**. There is one question 
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score. Treat each wrong answer as a pointer to a topic, not as a grade.
 
-**Calculator and data.** A scientific calculator is allowed. Molar masses: H 1.008, C 12.01, N 14.01, O 16.00, Mg 24.31, P 30.97, Cl 35.45 g mol⁻¹. Avogadro's number N_A = 6.022 × 10²³ mol⁻¹. Use a periodic table for atomic numbers and groups. The element in Question 2 is left unnamed on purpose.
+**Calculator and data.** A scientific calculator is allowed. Molar masses: H 1.008, C 12.01, N 14.01, O 16.00, Mg 24.31, P 30.97, Cl 35.45 g mol⁻¹. Avogadro's number N<sub>A</sub> = 6.022 × 10²³ mol⁻¹. Use a periodic table for atomic numbers and groups. The element in Question 2 is left unnamed on purpose.
 
 ## Question 1 (multiple choice · 1.1)
 

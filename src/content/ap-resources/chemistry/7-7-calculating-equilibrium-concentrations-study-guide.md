@@ -177,9 +177,9 @@ When you sketch a graph like this, check four things:
 
 ## Worked example 3: Q > K, using partial pressures
 
-**Question.** Two fictional isomers interconvert in the gas phase: E(g) ⇌ F(g), with Kp = 3.0. A container starts with P_E = 0.20 atm and P_F = 1.00 atm. Find the equilibrium partial pressures.
+**Question.** Two fictional isomers interconvert in the gas phase: E(g) ⇌ F(g), with Kp = 3.0. A container starts with P<sub>E</sub> = 0.20 atm and P<sub>F</sub> = 1.00 atm. Find the equilibrium partial pressures.
 
-1. **Direction.** Qp = P_F / P_E = 1.00 / 0.20 = 5.0. Since Q > K, the reaction goes **backwards**: F is used up and E forms.
+1. **Direction.** Qp = P<sub>F</sub> / P<sub>E</sub> = 1.00 / 0.20 = 5.0. Since Q > K, the reaction goes **backwards**: F is used up and E forms.
 2. **ICE table** (signs set by step 1).
 
 | | E | F |
@@ -189,7 +189,7 @@ When you sketch a graph like this, check four things:
 | E (atm) | 0.20 + x | 1.00 − x |
 
 3. **Substitute and solve.** (1.00 − x) / (0.20 + x) = 3.0, so 1.00 − x = 0.60 + 3x, 4x = 0.40 and x = 0.10 atm.
-4. **Answer.** P_E = **0.30 atm**, P_F = **0.90 atm**.
+4. **Answer.** P<sub>E</sub> = **0.30 atm**, P<sub>F</sub> = **0.90 atm**.
 
 **Check.** 0.90 / 0.30 = 3.0. ✓ The total pressure stays at 1.20 atm, which makes sense: one molecule of E becomes one molecule of F, so the number of gas molecules does not change.
 

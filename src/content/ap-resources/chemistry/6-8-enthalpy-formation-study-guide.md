@@ -140,7 +140,7 @@ Here Σ means "add up" and n is the coefficient of each substance in the balance
 2. **Make a table**: substance, coefficient n, ΔH°f, and n × ΔH°f. Put 0 for elements in their standard states.
 3. **Add the products column** and **add the reactants column** separately.
 4. **Subtract**: products total − reactants total. Put brackets around a negative reactants total so the double negative is clear.
-5. **Check** the sign makes sense and the unit is kJ per mole of the equation as written (written kJ mol⁻¹ or kJ mol_rxn⁻¹).
+5. **Check** the sign makes sense and the unit is kJ per mole of the equation as written (written kJ mol⁻¹ or kJ mol<sub>rxn</sub>⁻¹).
 
 ## Worked example 1: heating limestone
 
