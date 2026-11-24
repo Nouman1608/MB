@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys1-1.2-checklist"
 title: "Displacement, Velocity, and Acceleration: Topic Checklist (Physics 1 1.2)"
 seoTitle: "Physics 1 1.2 Displacement and Velocity Topic Checklist"
-description: "Specific “I can…” statements for displacement, velocity and acceleration in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for displacement, velocity and acceleration in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 1
 topics: ["1.2"]

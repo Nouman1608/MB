@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-9.1-checklist"
 title: "Electric Potential Energy: Topic Checklist (Physics C: E&M 9.1)"
-description: "Specific “I can…” statements for electric potential energy in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for electric potential energy in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 9
 topics: ["9.1"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-2.3-checklist"
 title: "Plasma Membrane: Topic Checklist (Biology 2.3)"
-description: "Specific “I can…” statements for the plasma membrane and the fluid mosaic model, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the plasma membrane and the fluid mosaic model, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 2
 topics: ["2.3"]

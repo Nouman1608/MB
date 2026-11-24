@@ -2,7 +2,7 @@
 resourceId: "mb-ap-macro-3.4-checklist"
 title: "Long-Run Aggregate Supply (LRAS): Topic Checklist (Macroeconomics 3.4)"
 seoTitle: "Macroeconomics 3.4 Long-Run Aggregate Supply Topic Checklist"
-description: "Specific “I can…” statements for long-run aggregate supply, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for long-run aggregate supply, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.4"]

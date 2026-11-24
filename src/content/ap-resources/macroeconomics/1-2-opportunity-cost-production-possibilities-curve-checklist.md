@@ -2,7 +2,7 @@
 resourceId: "mb-ap-macro-1.2-checklist"
 title: "Opportunity Cost and the Production Possibilities Curve: Topic Checklist (Macroeconomics 1.2)"
 seoTitle: "Macroeconomics 1.2 Opportunity Cost and the PPC Checklist"
-description: "Specific “I can…” statements for opportunity cost and the production possibilities curve, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for opportunity cost and the production possibilities curve, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 1
 topics: ["1.2"]

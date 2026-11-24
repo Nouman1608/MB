@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.12-checklist"
 title: "Potential Problems with Sampling: Topic Checklist (Statistics 1.12)"
-description: "Specific “I can…” statements for bias in sampling, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for bias in sampling, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 1
 topics: ["1.12"]

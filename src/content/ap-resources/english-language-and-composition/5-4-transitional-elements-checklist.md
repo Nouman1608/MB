@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.4-checklist
 title: 'Transitional Elements: Topic Checklist (English Language 5.4)'
-description: Specific “I can…” statements for transitional elements in reading and writing, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for transitional elements in reading and writing, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 5
 topics:

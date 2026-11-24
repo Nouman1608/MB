@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.9-checklist"
 title: "Resistive Forces: Topic Checklist (Physics C: Mechanics 2.9)"
-description: "Specific “I can…” statements for resistive forces F = −kv and terminal velocity, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for resistive forces F = −kv and terminal velocity, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.9"]

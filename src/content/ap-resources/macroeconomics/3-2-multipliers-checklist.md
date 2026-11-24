@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.2-checklist"
 title: "Multipliers: Topic Checklist (Macroeconomics 3.2)"
-description: "Specific “I can…” statements for the MPC, MPS and the spending and tax multipliers, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the MPC, MPS and the spending and tax multipliers, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.2"]

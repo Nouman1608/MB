@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.6-checklist"
 title: "Free Energy of Dissolution: Topic Checklist (Chemistry 9.6)"
-description: "Specific “I can…” statements for the enthalpy, entropy and free energy of dissolving salts, each pointing to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the enthalpy, entropy and free energy of dissolving salts, each pointing to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 9
 topics: ["9.6"]

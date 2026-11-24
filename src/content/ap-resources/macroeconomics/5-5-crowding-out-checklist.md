@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.5-checklist"
 title: "Crowding Out: Topic Checklist (Macroeconomics 5.5)"
-description: "Specific “I can…” statements for crowding out, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for crowding out, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 5
 topics: ["5.5"]

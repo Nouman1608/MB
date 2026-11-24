@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-2.7-checklist"
 title: "VSEPR and Hybridization: Topic Checklist (Chemistry 2.7)"
-description: "Specific “I can…” statements for VSEPR shapes, bond angles, hybridization, sigma and pi bonds and dipole moments, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for VSEPR shapes, bond angles, hybridization, sigma and pi bonds and dipole moments, each linked to the guide section or practice question that tests it."
 course: "chemistry"
 unit: 2
 topics: ["2.7"]

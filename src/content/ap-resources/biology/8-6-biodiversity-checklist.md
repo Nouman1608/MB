@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-8.6-checklist"
 title: "Biodiversity: Topic Checklist (Biology 8.6)"
-description: "Specific “I can…” statements for biodiversity, resilience, keystone species and predicting ecosystem change, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for biodiversity, resilience, keystone species and predicting ecosystem change, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 8
 topics: ["8.6"]

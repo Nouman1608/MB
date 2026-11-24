@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.4-checklist"
 title: "Thermodynamic and Kinetic Control: Topic Checklist (Chemistry 9.4)"
-description: "Specific “I can…” statements for thermodynamic and kinetic control, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for thermodynamic and kinetic control, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 9
 topics: ["9.4"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.5-checklist"
 title: "Rolling: Topic Checklist (Physics C: Mechanics 6.5)"
-description: "Specific “I can…” statements for calculus-based rolling, with and without slipping, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based rolling, with and without slipping, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 6
 topics: ["6.5"]

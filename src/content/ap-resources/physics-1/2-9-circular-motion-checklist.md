@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-2.9-checklist"
 title: "Circular Motion: Topic Checklist (Physics 1 2.9)"
-description: "Specific “I can…” statements for circular motion in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for circular motion in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 2
 topics: ["2.9"]

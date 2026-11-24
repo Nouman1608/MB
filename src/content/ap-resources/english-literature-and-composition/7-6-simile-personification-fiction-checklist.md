@@ -2,7 +2,7 @@
 resourceId: mb-ap-englit-7.6-checklist
 title: 'Simile and Personification in Fiction: Topic Checklist (English Literature 7.6)'
 seoTitle: "English Lit 7.6 Simile and Personification Topic Checklist"
-description: Specific “I can…” statements for simile and personification in prose fiction, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for simile and personification in prose fiction, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 7
 topics:

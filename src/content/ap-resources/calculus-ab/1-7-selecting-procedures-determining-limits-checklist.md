@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-1.7-checklist"
 title: "Selecting Procedures for Determining Limits: Topic Checklist (Calculus AB 1.7)"
 seoTitle: "Calculus AB 1.7 Selecting Procedures for Limits Checklist"
-description: "Specific “I can…” statements for choosing a limit method, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for choosing a limit method, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 1
 topics: ["1.7"]

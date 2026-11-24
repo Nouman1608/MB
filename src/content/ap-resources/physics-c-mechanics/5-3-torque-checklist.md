@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.3-checklist"
 title: "Torque: Topic Checklist (Physics C: Mechanics 5.3)"
-description: "Specific “I can…” statements for torque in the calculus-based course, each linked to the study guide section and the practice question that tests it."
+description: "Specific “I can” statements for torque in the calculus-based course, each linked to the study guide section and the practice question that tests it."
 course: "physics-c-mechanics"
 unit: 5
 topics: ["5.3"]

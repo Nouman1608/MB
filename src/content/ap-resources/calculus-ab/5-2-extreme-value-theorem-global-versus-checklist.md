@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-5.2-checklist"
 title: "Extreme Value Theorem, Global Versus Local Extrema, and Critical Points: Topic Checklist (Calculus AB 5.2)"
 seoTitle: "Calculus AB 5.2 Extreme Value Theorem Topic Checklist"
-description: "Specific “I can…” statements for the Extreme Value Theorem, global and local extrema and critical points, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the Extreme Value Theorem, global and local extrema and critical points, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 5
 topics: ["5.2"]

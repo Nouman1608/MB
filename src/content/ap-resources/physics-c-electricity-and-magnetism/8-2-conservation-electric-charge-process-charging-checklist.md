@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcem-8.2-checklist"
 title: "Conservation of Charge and Charging: Topic Checklist (Physics C: E&M 8.2)"
 seoTitle: "Physics C E&M 8.2 Charge Conservation and Charging Checklist"
-description: "Specific “I can…” statements for conservation of charge and charging processes, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for conservation of charge and charging processes, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 8
 topics: ["8.2"]

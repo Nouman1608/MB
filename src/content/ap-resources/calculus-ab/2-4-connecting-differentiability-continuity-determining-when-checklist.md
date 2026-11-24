@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-2.4-checklist"
 title: "Connecting Differentiability and Continuity: Topic Checklist (Calculus AB 2.4)"
 seoTitle: "Calculus AB 2.4 Differentiability and Continuity Checklist"
-description: "Specific “I can…” statements for deciding when a derivative exists, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for deciding when a derivative exists, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 2
 topics: ["2.4"]

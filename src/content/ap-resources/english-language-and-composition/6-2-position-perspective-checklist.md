@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.2-checklist
 title: 'Position and Perspective: Topic Checklist (English Language 6.2)'
-description: Specific “I can…” statements for identifying and using position and perspective in sources, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for identifying and using position and perspective in sources, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 6
 topics:

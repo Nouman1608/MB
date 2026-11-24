@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-7.7-checklist"
 title: "Calculating Equilibrium Concentrations: Topic Checklist (Chemistry 7.7)"
 seoTitle: "Chemistry 7.7 Equilibrium Concentrations Topic Checklist"
-description: "Specific “I can…” statements for Q versus K, dynamic equilibrium and ICE-table calculations, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Q versus K, dynamic equilibrium and ICE-table calculations, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 7
 topics: ["7.7"]

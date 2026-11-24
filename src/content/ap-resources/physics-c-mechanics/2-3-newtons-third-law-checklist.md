@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.3-checklist"
 title: "Newton’s Third Law: Topic Checklist (Physics C: Mechanics 2.3)"
-description: "Specific “I can…” statements for Newton’s third law, internal forces, ideal strings and pulleys, and tension in strings with mass, each linked to the guide section and practice question."
+description: "Specific “I can” statements for Newton’s third law, internal forces, ideal strings and pulleys, and tension in strings with mass, each linked to the guide section and practice question."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.3"]

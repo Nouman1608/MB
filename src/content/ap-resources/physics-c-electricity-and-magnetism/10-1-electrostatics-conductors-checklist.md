@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-10.1-checklist"
 title: "Electrostatics with Conductors: Topic Checklist (Physics C: E&M 10.1)"
-description: "Specific “I can…” statements for conductors in electrostatic equilibrium in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for conductors in electrostatic equilibrium in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 10
 topics: ["10.1"]

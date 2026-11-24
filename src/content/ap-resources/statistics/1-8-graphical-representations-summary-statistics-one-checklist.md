@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-1.8-checklist"
 title: "Graphical Representations of Summary Statistics: Topic Checklist (Statistics 1.8)"
 seoTitle: "Statistics 1.8 Graphing Summary Statistics Topic Checklist"
-description: "Specific “I can…” statements for five-number summaries, boxplots and the mean–median link to shape, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for five-number summaries, boxplots and the mean–median link to shape, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 1
 topics: ["1.8"]

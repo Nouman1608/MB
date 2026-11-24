@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-1.6-checklist"
 title: "Nucleic Acids: Topic Checklist (Biology 1.6)"
-description: "Specific “I can…” statements for nucleotides, strand direction, base pairing and DNA–RNA differences, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for nucleotides, strand direction, base pairing and DNA–RNA differences, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 1
 topics: ["1.6"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-4.1-checklist"
 title: "Linear Momentum: Topic Checklist (Physics 1 4.1)"
-description: "Specific “I can…” statements for linear momentum in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for linear momentum in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 4
 topics: ["4.1"]

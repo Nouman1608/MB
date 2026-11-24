@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-9.1-checklist"
 title: "Defining and Differentiating Parametric Equations: Topic Checklist (Calculus BC 9.1)"
 seoTitle: "Calculus BC 9.1 Parametric Differentiation Topic Checklist"
-description: "Specific “I can…” statements for parametric curves and dy/dx, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for parametric curves and dy/dx, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 9
 topics: ["9.1"]

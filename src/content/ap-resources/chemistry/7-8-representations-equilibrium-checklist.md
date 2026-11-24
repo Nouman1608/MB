@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.8-checklist"
 title: "Representations of Equilibrium: Topic Checklist (Chemistry 7.8)"
-description: "Specific “I can…” statements for particle diagrams of equilibrium, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for particle diagrams of equilibrium, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 7
 topics: ["7.8"]

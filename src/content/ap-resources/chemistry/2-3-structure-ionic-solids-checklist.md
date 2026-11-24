@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-2.3-checklist"
 title: "Structure of Ionic Solids: Topic Checklist (Chemistry 2.3)"
-description: "Specific “I can…” statements for the structure of ionic solids, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the structure of ionic solids, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 2
 topics: ["2.3"]

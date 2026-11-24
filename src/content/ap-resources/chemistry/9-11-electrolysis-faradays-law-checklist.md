@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.11-checklist"
 title: "Electrolysis and Faraday's Law: Topic Checklist (Chemistry 9.11)"
-description: "Specific “I can…” statements for electrolysis and Faraday's law, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for electrolysis and Faraday's law, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 9
 topics: ["9.11"]

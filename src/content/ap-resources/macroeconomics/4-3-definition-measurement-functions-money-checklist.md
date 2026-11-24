@@ -2,7 +2,7 @@
 resourceId: "mb-ap-macro-4.3-checklist"
 title: "Definition, Measurement, and Functions of Money: Topic Checklist (Macroeconomics 4.3)"
 seoTitle: "Macroeconomics 4.3 Functions of Money Topic Checklist"
-description: "Specific “I can…” statements for the definition, functions and measurement of money, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the definition, functions and measurement of money, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 4
 topics: ["4.3"]

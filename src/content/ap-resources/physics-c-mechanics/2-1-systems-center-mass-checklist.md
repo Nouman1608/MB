@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-2.1-checklist"
 title: "Systems and Center of Mass: Topic Checklist (Physics C: Mechanics 2.1)"
 seoTitle: "Physics C Mechanics 2.1 Systems and Center of Mass Checklist"
-description: "Specific “I can…” statements for systems and center of mass in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for systems and center of mass in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.1"]

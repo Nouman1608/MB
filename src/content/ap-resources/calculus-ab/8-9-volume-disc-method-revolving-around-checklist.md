@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-8.9-checklist"
 title: "Volume with the Disc Method: Revolving Around the x- or y-Axis: Topic Checklist (Calculus AB 8.9)"
 seoTitle: "Calculus AB 8.9 Disc Method About x or y Axis Checklist"
-description: "Specific “I can…” statements for disc-method volumes about the x- and y-axes, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for disc-method volumes about the x- and y-axes, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 8
 topics: ["8.9"]

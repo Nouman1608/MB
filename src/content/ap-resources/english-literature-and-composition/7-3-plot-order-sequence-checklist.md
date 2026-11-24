@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.3-checklist
 title: 'Plot Order and Sequence: Topic Checklist (English Literature 7.3)'
-description: Specific “I can…” statements for plot order, pacing and the order of revealed information in short fiction, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for plot order, pacing and the order of revealed information in short fiction, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 7
 topics:

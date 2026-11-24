@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys2-10.2-checklist"
 title: "Conservation of Electric Charge and the Process of Charging: Topic Checklist (Physics 2 10.2)"
 seoTitle: "Physics 2 10.2 Conservation of Charge Topic Checklist"
-description: "Specific “I can…” statements for charge conservation and charging by friction, contact and induction, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for charge conservation and charging by friction, contact and induction, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 10
 topics: ["10.2"]

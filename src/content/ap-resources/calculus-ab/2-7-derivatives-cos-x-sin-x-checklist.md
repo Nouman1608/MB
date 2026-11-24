@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-2.7-checklist"
 title: "Derivatives of cos x, sin x, eˣ and ln x: Topic Checklist (Calculus AB 2.7)"
 seoTitle: "Calculus AB 2.7 Derivatives of sin, cos, eˣ, ln x Checklist"
-description: "Specific “I can…” statements for the derivatives of sin x, cos x, eˣ and ln x, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the derivatives of sin x, cos x, eˣ and ln x, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 2
 topics: ["2.7"]

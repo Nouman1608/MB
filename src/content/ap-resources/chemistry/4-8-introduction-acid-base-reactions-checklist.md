@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-4.8-checklist"
 title: "Introduction to Acid-Base Reactions: Topic Checklist (Chemistry 4.8)"
-description: "Specific “I can…” statements for Brønsted-Lowry acids and bases, conjugate pairs and acid strength, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Brønsted-Lowry acids and bases, conjugate pairs and acid strength, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 4
 topics: ["4.8"]

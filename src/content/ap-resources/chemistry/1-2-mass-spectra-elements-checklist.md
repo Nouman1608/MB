@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.2-checklist"
 title: "Mass Spectra of Elements: Topic Checklist (Chemistry 1.2)"
-description: "Specific “I can…” statements for mass spectra of elements and average atomic mass, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for mass spectra of elements and average atomic mass, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 1
 topics: ["1.2"]

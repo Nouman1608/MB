@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.5-checklist
 title: 'Tone and Connotation: Topic Checklist (English Language 6.5)'
-description: Specific “I can…” statements for analysing and creating tone through word choice and connotation, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for analysing and creating tone through word choice and connotation, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 6
 topics:

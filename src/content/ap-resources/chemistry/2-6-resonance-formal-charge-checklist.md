@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-2.6-checklist"
 title: "Resonance and Formal Charge: Topic Checklist (Chemistry 2.6)"
-description: "Specific “I can…” statements for resonance and formal charge, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for resonance and formal charge, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 2
 topics: ["2.6"]

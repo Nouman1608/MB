@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.3-checklist"
 title: "Imagery: Topic Checklist (English Literature 5.3)"
-description: "Specific “I can…” statements on how images and collections of images appeal to the senses and emphasise ideas in a poem, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements on how images and collections of images appeal to the senses and emphasise ideas in a poem, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 5
 topics: ["5.3"]

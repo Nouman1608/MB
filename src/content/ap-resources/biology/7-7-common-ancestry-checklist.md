@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.7-checklist"
 title: "Common Ancestry: Topic Checklist (Biology 7.7)"
-description: "Specific “I can…” statements for the common ancestry of eukaryotes, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the common ancestry of eukaryotes, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 7
 topics: ["7.7"]

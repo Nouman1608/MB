@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-7.6-checklist"
 title: "Properties of the Equilibrium Constant: Topic Checklist (Chemistry 7.6)"
 seoTitle: "Chemistry 7.6 Properties of Equilibrium Constant Checklist"
-description: "Specific “I can…” statements for reversing, rescaling and combining equations to find K or Q, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for reversing, rescaling and combining equations to find K or Q, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 7
 topics: ["7.6"]

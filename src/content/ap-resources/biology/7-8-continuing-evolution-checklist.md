@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.8-checklist"
 title: "Continuing Evolution: Topic Checklist (Biology 7.8)"
-description: "Specific “I can…” statements for ongoing evolution, resistance and emergent diseases, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for ongoing evolution, resistance and emergent diseases, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 7
 topics: ["7.8"]

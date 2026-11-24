@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys2-9.3-checklist"
 title: "Thermal Energy Transfer and Equilibrium: Topic Checklist (Physics 2 9.3)"
 seoTitle: "Physics 2 9.3 Thermal Energy Transfer Topic Checklist"
-description: "Specific “I can…” statements for thermal energy transfer and equilibrium, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for thermal energy transfer and equilibrium, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 9
 topics: ["9.3"]

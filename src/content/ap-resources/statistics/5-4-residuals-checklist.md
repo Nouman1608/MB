@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-5.4-checklist"
 title: "Residuals: Topic Checklist (Statistics 5.4)"
-description: "Specific “I can…” statements for residuals and residual plots, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for residuals and residual plots, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 5
 topics: ["5.4"]

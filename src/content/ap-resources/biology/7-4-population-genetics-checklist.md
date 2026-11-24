@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-7.4-checklist"
 title: "Population Genetics: Topic Checklist (Biology 7.4)"
-description: "Specific “I can…” statements for mutation, genetic drift, bottleneck and founder effects and gene flow, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for mutation, genetic drift, bottleneck and founder effects and gene flow, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 7
 topics: ["7.4"]

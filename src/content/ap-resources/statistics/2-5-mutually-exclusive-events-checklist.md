@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.5-checklist"
 title: "Mutually Exclusive Events: Topic Checklist (Statistics 2.5)"
-description: "Specific “I can…” statements for joint probability and mutually exclusive events, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for joint probability and mutually exclusive events, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 2
 topics: ["2.5"]

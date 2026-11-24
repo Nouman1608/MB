@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.7-checklist"
 title: "Coupled Reactions: Topic Checklist (Chemistry 9.7)"
-description: "Specific “I can…” statements for coupled reactions and outside energy sources, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for coupled reactions and outside energy sources, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 9
 topics: ["9.7"]

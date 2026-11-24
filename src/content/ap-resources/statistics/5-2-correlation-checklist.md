@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-5.2-checklist"
 title: "Correlation: Topic Checklist (Statistics 5.2)"
-description: "Specific “I can…” statements for the correlation coefficient r, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the correlation coefficient r, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 5
 topics: ["5.2"]

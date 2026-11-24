@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.5-checklist
 title: 'Connotation and Denotation: Topic Checklist (English Language 5.5)'
-description: Specific “I can…” statements for denotation and connotation in reading and writing, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for denotation and connotation in reading and writing, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 5
 topics:

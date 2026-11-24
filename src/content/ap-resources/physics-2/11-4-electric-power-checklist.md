@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-11.4-checklist"
 title: "Electric Power: Topic Checklist (Physics 2 11.4)"
-description: "Specific “I can…” statements for electric power, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for electric power, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 11
 topics: ["11.4"]

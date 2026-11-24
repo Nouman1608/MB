@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-2.5-checklist"
 title: "Lewis Diagrams: Topic Checklist (Chemistry 2.5)"
-description: "Specific “I can…” statements for drawing Lewis diagrams, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for drawing Lewis diagrams, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 2
 topics: ["2.5"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.13-checklist"
 title: "Beer-Lambert Law: Topic Checklist (Chemistry 3.13)"
-description: "Specific “I can…” statements for the Beer-Lambert law, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the Beer-Lambert law, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 3
 topics: ["3.13"]

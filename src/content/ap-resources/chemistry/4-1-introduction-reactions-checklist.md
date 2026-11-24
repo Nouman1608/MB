@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-4.1-checklist"
 title: "Introduction for Reactions: Topic Checklist (Chemistry 4.1)"
-description: "Specific “I can…” statements for recognising physical and chemical changes and judging evidence of a reaction, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for recognising physical and chemical changes and judging evidence of a reaction, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 4
 topics: ["4.1"]

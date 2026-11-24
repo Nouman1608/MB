@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-12.2-checklist"
 title: "Magnetism and Moving Charges: Topic Checklist (Physics 2 12.2)"
-description: "Specific “I can…” statements for magnetism and moving charges, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for magnetism and moving charges, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 12
 topics: ["12.2"]

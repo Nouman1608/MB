@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-6.7-checklist"
 title: "Mutations: Topic Checklist (Biology 6.7)"
-description: "Specific “I can…” statements for mutation types, causes, chromosome errors and sources of variation, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for mutation types, causes, chromosome errors and sources of variation, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 6
 topics: ["6.7"]

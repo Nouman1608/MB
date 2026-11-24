@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.11-checklist"
 title: "pH and Solubility: Topic Checklist (Chemistry 8.11)"
-description: "Specific “I can…” statements for pH and solubility, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for pH and solubility, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 8
 topics: ["8.11"]

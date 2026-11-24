@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-4.3-checklist"
 title: "Representations of Reactions: Topic Checklist (Chemistry 4.3)"
-description: "Specific “I can…” statements for drawing and reading particle diagrams of reactions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for drawing and reading particle diagrams of reactions, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 4
 topics: ["4.3"]

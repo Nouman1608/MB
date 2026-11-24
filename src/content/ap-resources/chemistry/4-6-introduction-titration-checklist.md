@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-4.6-checklist"
 title: "Introduction to Titration: Topic Checklist (Chemistry 4.6)"
-description: "Specific “I can…” statements for introductory titration, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for introductory titration, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 4
 topics: ["4.6"]

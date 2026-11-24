@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-2.1-checklist"
 title: "Cell Structure and Function: Topic Checklist (Biology 2.1)"
-description: "Specific “I can…” statements for subcellular structures and their functions, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for subcellular structures and their functions, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 2
 topics: ["2.1"]

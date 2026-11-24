@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-8.3-checklist"
 title: "Electric Fields: Topic Checklist (Physics C: E&M 8.3)"
-description: "Specific “I can…” statements for electric fields in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for electric fields in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 8
 topics: ["8.3"]

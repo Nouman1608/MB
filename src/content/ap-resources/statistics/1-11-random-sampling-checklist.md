@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.11-checklist"
 title: "Random Sampling: Topic Checklist (Statistics 1.11)"
-description: "Specific “I can…” statements for random sampling methods, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for random sampling methods, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 1
 topics: ["1.11"]

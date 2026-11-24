@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-5.4-checklist"
 title: "Non-Mendelian Genetics: Topic Checklist (Biology 5.4)"
-description: "Specific “I can…” statements for linkage and mapping, sex-linked traits, incomplete dominance, codominance, pleiotropy and organelle inheritance, each linked to a guide section or question."
+description: "Specific “I can” statements for linkage and mapping, sex-linked traits, incomplete dominance, codominance, pleiotropy and organelle inheritance, each linked to a guide section or question."
 course: "biology"
 unit: 5
 topics: ["5.4"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.13-checklist"
 title: "Experimental Design: Topic Checklist (Statistics 1.13)"
-description: "Specific “I can…” statements for experimental design, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for experimental design, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 1
 topics: ["1.13"]

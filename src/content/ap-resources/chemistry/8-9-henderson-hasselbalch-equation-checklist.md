@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.9-checklist"
 title: "Henderson-Hasselbalch Equation: Topic Checklist (Chemistry 8.9)"
-description: "Specific “I can…” statements for the Henderson-Hasselbalch equation, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the Henderson-Hasselbalch equation, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 8
 topics: ["8.9"]

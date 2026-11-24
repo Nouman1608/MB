@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.1-checklist"
 title: "Structure in Poetry: Topic Checklist (English Literature 5.1)"
-description: "Specific “I can…” statements on how the arrangement of lines, stanzas and patterns in closed and open poetic forms shapes relationships among ideas, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements on how the arrangement of lines, stanzas and patterns in closed and open poetic forms shapes relationships among ideas, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 5
 topics: ["5.1"]

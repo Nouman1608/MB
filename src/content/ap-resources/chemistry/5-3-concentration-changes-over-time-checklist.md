@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.3-checklist"
 title: "Concentration Changes Over Time: Topic Checklist (Chemistry 5.3)"
-description: "Specific “I can…” statements for integrated rate laws, reaction order from data and first-order half-life, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for integrated rate laws, reaction order from data and first-order half-life, each linked to the guide section or practice question that tests it."
 course: "chemistry"
 unit: 5
 topics: ["5.3"]

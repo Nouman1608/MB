@@ -2,7 +2,7 @@
 resourceId: mb-ap-englang-5.1-checklist
 title: 'Body Paragraphs and the Line of Reasoning: Topic Checklist (English Language 5.1)'
 seoTitle: "English Language 5.1 Body Paragraphs Topic Checklist"
-description: Specific “I can…” statements for body paragraphs and lines of reasoning, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for body paragraphs and lines of reasoning, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 5
 topics:

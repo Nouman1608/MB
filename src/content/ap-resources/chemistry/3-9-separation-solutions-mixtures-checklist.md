@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.9-checklist"
 title: "Separation of Solutions and Mixtures: Topic Checklist (Chemistry 3.9)"
-description: "Specific “I can…” statements for separating solutions and mixtures, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for separating solutions and mixtures, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 3
 topics: ["3.9"]

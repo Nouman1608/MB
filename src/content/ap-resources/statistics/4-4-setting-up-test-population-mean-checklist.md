@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-4.4-checklist"
 title: "Setting Up a Test for a Population Mean or Population Mean Difference: Topic Checklist (Statistics 4.4)"
 seoTitle: "Statistics 4.4 Setting Up a Test for a Mean Checklist"
-description: "Specific “I can…” statements for setting up a t-test for a mean or a matched-pairs mean difference, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for setting up a t-test for a mean or a matched-pairs mean difference, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 4
 topics: ["4.4"]

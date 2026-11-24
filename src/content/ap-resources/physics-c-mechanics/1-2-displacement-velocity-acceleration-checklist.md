@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-1.2-checklist"
 title: "Displacement, Velocity, and Acceleration: Topic Checklist (Physics C: Mechanics 1.2)"
 seoTitle: "Physics C Mechanics 1.2 Velocity and Acceleration Checklist"
-description: "Specific “I can…” statements for calculus-based displacement, velocity and acceleration, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based displacement, velocity and acceleration, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 1
 topics: ["1.2"]

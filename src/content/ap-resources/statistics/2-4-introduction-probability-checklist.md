@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.4-checklist"
 title: "Introduction to Probability: Topic Checklist (Statistics 2.4)"
-description: "Specific “I can…” statements for sample spaces, equally likely outcomes, the basic probability rules and complements, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for sample spaces, equally likely outcomes, the basic probability rules and complements, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 2
 topics: ["2.4"]

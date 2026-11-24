@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-6.8-checklist"
 title: "Biotechnology: Topic Checklist (Biology 6.8)"
-description: "Specific “I can…” statements for gel electrophoresis, PCR, bacterial transformation and DNA sequencing, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for gel electrophoresis, PCR, bacterial transformation and DNA sequencing, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 6
 topics: ["6.8"]

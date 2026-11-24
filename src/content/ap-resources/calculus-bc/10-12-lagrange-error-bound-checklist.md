@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.12-checklist"
 title: "Lagrange Error Bound: Topic Checklist (Calculus BC 10.12)"
-description: "Specific “I can…” statements for the Lagrange error bound, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the Lagrange error bound, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.12"]

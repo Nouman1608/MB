@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcem-11.3-checklist"
 title: "Resistance, Resistivity and Ohm's Law: Topic Checklist (Physics C: E&M 11.3)"
 seoTitle: "Physics C E&M 11.3 Resistivity and Ohm's Law Topic Checklist"
-description: "Specific “I can…” statements for resistance, resistivity and Ohm's law in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for resistance, resistivity and Ohm's law in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.3"]

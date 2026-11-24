@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.3-checklist"
 title: "Money Growth and Inflation: Topic Checklist (Macroeconomics 5.3)"
-description: "Specific “I can…” statements for money growth and inflation, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for money growth and inflation, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 5
 topics: ["5.3"]

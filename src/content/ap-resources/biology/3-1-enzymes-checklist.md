@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-3.1-checklist"
 title: "Enzymes: Topic Checklist (Biology 3.1)"
-description: "Specific “I can…” statements for enzymes, activation energy and the enzyme–substrate complex, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for enzymes, activation energy and the enzyme–substrate complex, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 3
 topics: ["3.1"]

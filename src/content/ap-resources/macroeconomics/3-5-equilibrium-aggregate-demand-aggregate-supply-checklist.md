@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.5-checklist"
 title: "Equilibrium in the AD–AS Model: Topic Checklist (Macroeconomics 3.5)"
-description: "Specific “I can…” statements for equilibrium in the AD–AS model, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for equilibrium in the AD–AS model, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.5"]

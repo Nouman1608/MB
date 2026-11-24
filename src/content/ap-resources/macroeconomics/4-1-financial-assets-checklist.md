@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.1-checklist"
 title: "Financial Assets: Topic Checklist (Macroeconomics 4.1)"
-description: "Specific “I can…” statements for financial assets, bond prices and the opportunity cost of holding money, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for financial assets, bond prices and the opportunity cost of holding money, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 4
 topics: ["4.1"]

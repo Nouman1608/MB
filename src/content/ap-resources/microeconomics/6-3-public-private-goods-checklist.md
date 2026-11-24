@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.3-checklist"
 title: "Public and Private Goods: Topic Checklist (Microeconomics 6.3)"
-description: "Specific “I can…” statements for public and private goods, free riding and open-access resources, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for public and private goods, free riding and open-access resources, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 6
 topics: ["6.3"]

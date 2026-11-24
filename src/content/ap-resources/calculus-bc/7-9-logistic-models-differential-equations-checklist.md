@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-7.9-checklist"
 title: "Logistic Models with Differential Equations: Topic Checklist (Calculus BC 7.9)"
 seoTitle: "Calculus BC 7.9 Logistic Differential Equations Checklist"
-description: "Specific “I can…” statements for logistic models, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for logistic models, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 7
 topics: ["7.9"]

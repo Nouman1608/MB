@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.2-checklist
 title: 'Unity and Coherence: Topic Checklist (English Language 5.2)'
-description: Specific “I can…” statements for unity and coherence in reading and writing, each linked to the guide section and practice question that tests it.
+description: Specific “I can” statements for unity and coherence in reading and writing, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 5
 topics:

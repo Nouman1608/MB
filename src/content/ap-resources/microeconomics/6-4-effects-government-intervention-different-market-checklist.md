@@ -2,7 +2,7 @@
 resourceId: "mb-ap-micro-6.4-checklist"
 title: "The Effects of Government Intervention in Different Market Structures: Topic Checklist (Microeconomics 6.4)"
 seoTitle: "Microeconomics 6.4 Market Structure Intervention Checklist"
-description: "Specific “I can…” statements for taxes, subsidies, price controls, natural monopoly regulation and antitrust policy across market structures, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for taxes, subsidies, price controls, natural monopoly regulation and antitrust policy across market structures, each linked to the guide section and practice question that tests it."
 course: "microeconomics"
 unit: 6
 topics: ["6.4"]

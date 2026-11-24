@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-4.2-checklist"
 title: "Introduction to Signal Transduction: Topic Checklist (Biology 4.2)"
-description: "Specific “I can…” statements for signal transduction, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for signal transduction, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 4
 topics: ["4.2"]

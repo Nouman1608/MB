@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.7-checklist"
 title: "The Loanable Funds Market: Topic Checklist (Macroeconomics 4.7)"
-description: "Specific “I can…” statements for the loanable funds market, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the loanable funds market, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 4
 topics: ["4.7"]

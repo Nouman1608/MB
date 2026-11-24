@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.4-checklist"
 title: "Composition of Mixtures: Topic Checklist (Chemistry 1.4)"
-description: "Specific “I can…” statements for pure substances, mixtures, purity and mixture calculations, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for pure substances, mixtures, purity and mixture calculations, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 1
 topics: ["1.4"]

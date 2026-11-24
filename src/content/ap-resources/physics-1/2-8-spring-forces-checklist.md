@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-2.8-checklist"
 title: "Spring Forces: Topic Checklist (Physics 1 2.8)"
-description: "Specific “I can…” statements for ideal springs and Hooke's law in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for ideal springs and Hooke's law in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 2
 topics: ["2.8"]

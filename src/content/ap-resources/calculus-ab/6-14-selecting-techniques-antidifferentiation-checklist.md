@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-6.14-checklist"
 title: "Selecting Techniques for Antidifferentiation: Topic Checklist (Calculus AB 6.14)"
 seoTitle: "Calculus AB 6.14 Antidifferentiation Techniques Checklist"
-description: "Specific “I can…” statements for choosing an integration technique, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for choosing an integration technique, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 6
 topics: ["6.14"]

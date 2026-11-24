@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.4-checklist
 title: 'Narrator Reliability: Topic Checklist (English Literature 7.4)'
-description: Specific “I can…” statements for narrator reliability in short fiction, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for narrator reliability in short fiction, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 7
 topics:

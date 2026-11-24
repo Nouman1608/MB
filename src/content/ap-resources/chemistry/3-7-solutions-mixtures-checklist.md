@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.7-checklist"
 title: "Solutions and Mixtures: Topic Checklist (Chemistry 3.7)"
-description: "Specific “I can…” statements for solutions, mixtures and molarity, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for solutions, mixtures and molarity, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 3
 topics: ["3.7"]

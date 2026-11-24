@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-1.5-checklist"
 title: "Lipids: Topic Checklist (Biology 1.5)"
-description: "Specific “I can…” statements for fatty acids, fats, phospholipids, steroids and cholesterol, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for fatty acids, fats, phospholipids, steroids and cholesterol, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 1
 topics: ["1.5"]

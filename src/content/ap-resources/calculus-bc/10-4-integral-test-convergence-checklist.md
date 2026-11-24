@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.4-checklist"
 title: "Integral Test for Convergence: Topic Checklist (Calculus BC 10.4)"
-description: "Specific “I can…” statements for the integral test for convergence, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the integral test for convergence, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.4"]

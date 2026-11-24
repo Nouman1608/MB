@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.8-checklist"
 title: "Properties of Buffers: Topic Checklist (Chemistry 8.8)"
-description: "Specific “I can…” statements for buffer composition, the reactions that remove added acid and base, and spotting buffers, each linked to the guide and practice."
+description: "Specific “I can” statements for buffer composition, the reactions that remove added acid and base, and spotting buffers, each linked to the guide and practice."
 course: "chemistry"
 unit: 8
 topics: ["8.8"]

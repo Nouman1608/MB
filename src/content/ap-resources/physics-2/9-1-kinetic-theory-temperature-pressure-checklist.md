@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys2-9.1-checklist"
 title: "Kinetic Theory of Temperature and Pressure: Topic Checklist (Physics 2 9.1)"
 seoTitle: "Physics 2 9.1 Kinetic Theory and Pressure Topic Checklist"
-description: "Specific “I can…” statements for kinetic theory of pressure and temperature, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for kinetic theory of pressure and temperature, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 9
 topics: ["9.1"]

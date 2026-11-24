@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.1-checklist"
 title: "Rotational Kinematics: Topic Checklist (Physics C: Mechanics 5.1)"
-description: "Specific “I can…” statements for calculus-based rotational kinematics, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculus-based rotational kinematics, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 5
 topics: ["5.1"]

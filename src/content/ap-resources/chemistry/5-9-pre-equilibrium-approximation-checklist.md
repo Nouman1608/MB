@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.9-checklist"
 title: "Pre-Equilibrium Approximation: Topic Checklist (Chemistry 5.9)"
-description: "Specific “I can…” statements for the pre-equilibrium approximation, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the pre-equilibrium approximation, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 5
 topics: ["5.9"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-6.2-checklist"
 title: "Energy Diagrams: Topic Checklist (Chemistry 6.2)"
-description: "Specific “I can…” statements for energy diagrams, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for energy diagrams, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 6
 topics: ["6.2"]

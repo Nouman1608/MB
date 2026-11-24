@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-10.6-checklist"
 title: "Capacitors: Topic Checklist (Physics 2 10.6)"
-description: "Specific “I can…” statements for parallel-plate capacitors, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for parallel-plate capacitors, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 10
 topics: ["10.6"]

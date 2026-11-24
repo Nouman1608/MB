@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-8.1-checklist"
 title: "Responses to the Environment: Topic Checklist (Biology 8.1)"
-description: "Specific “I can…” statements for responses to the environment, signalling and cooperation, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for responses to the environment, signalling and cooperation, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 8
 topics: ["8.1"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-3.2-checklist"
 title: "Work: Topic Checklist (Physics C: Mechanics 3.2)"
-description: "Specific “I can…” statements for work in the calculus-based course, from dot products and integrals to the work–energy theorem and path dependence, each linked to where it is tested."
+description: "Specific “I can” statements for work in the calculus-based course, from dot products and integrals to the work–energy theorem and path dependence, each linked to where it is tested."
 course: "physics-c-mechanics"
 unit: 3
 topics: ["3.2"]

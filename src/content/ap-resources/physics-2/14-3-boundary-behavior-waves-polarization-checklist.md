@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys2-14.3-checklist"
 title: "Boundary Behavior of Waves and Polarization: Topic Checklist (Physics 2 14.3)"
 seoTitle: "Physics 2 14.3 Wave Boundaries and Polarization Checklist"
-description: "Specific “I can…” statements for wave boundaries, inversion on reflection, fixed frequency, polarization and intensity, each linked to the guide and practice."
+description: "Specific “I can” statements for wave boundaries, inversion on reflection, fixed frequency, polarization and intensity, each linked to the guide and practice."
 course: "physics-2"
 unit: 14
 topics: ["14.3"]

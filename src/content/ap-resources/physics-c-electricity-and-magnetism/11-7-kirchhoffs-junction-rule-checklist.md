@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-11.7-checklist"
 title: "Kirchhoff's Junction Rule: Topic Checklist (Physics C: E&M 11.7)"
-description: "Specific “I can…” statements for Kirchhoff's junction rule in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Kirchhoff's junction rule in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.7"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.2-checklist"
 title: "Externalities: Topic Checklist (Microeconomics 6.2)"
-description: "Specific “I can…” statements for externalities, their graphs, deadweight loss and corrective policies, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for externalities, their graphs, deadweight loss and corrective policies, each linked to the guide section and practice question that shows whether you can do it."
 course: "microeconomics"
 unit: 6
 topics: ["6.2"]

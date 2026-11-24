@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.3-checklist"
 title: "Representing Motion: Topic Checklist (Physics C: Mechanics 1.3)"
-description: "Specific “I can…” statements for representing motion with diagrams, graphs, equations and words, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for representing motion with diagrams, graphs, equations and words, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 1
 topics: ["1.3"]

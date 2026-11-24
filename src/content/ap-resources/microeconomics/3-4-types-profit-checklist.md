@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.4-checklist"
 title: "Types of Profit: Topic Checklist (Microeconomics 3.4)"
-description: "Specific “I can…” statements for accounting, economic and normal profit, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for accounting, economic and normal profit, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 3
 topics: ["3.4"]

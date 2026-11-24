@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.1-checklist"
 title: "Moles and Molar Mass: Topic Checklist (Chemistry 1.1)"
-description: "Specific “I can…” statements for moles and molar mass, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for moles and molar mass, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 1
 topics: ["1.1"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-7.3-checklist"
 title: "Reaction Quotient and Equilibrium Constant: Topic Checklist (Chemistry 7.3)"
 seoTitle: "Chemistry 7.3 Reaction Quotient and Equilibrium K Checklist"
-description: "Specific “I can…” statements for writing Q and K expressions, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for writing Q and K expressions, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 7
 topics: ["7.3"]

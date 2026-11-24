@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-4.5-checklist"
 title: "Stoichiometry: Topic Checklist (Chemistry 4.5)"
-description: "Specific “I can…” statements for stoichiometry, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for stoichiometry, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 4
 topics: ["4.5"]

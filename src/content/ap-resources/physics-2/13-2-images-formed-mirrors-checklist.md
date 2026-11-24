@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-13.2-checklist"
 title: "Images Formed by Mirrors: Topic Checklist (Physics 2 13.2)"
-description: "Specific “I can…” statements for images in plane, concave and convex mirrors, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for images in plane, concave and convex mirrors, each linked to the guide section and practice question that shows whether you can do it."
 course: "physics-2"
 unit: 13
 topics: ["13.2"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.3-checklist"
 title: "Weak Acid and Base Equilibria: Topic Checklist (Chemistry 8.3)"
-description: "Specific “I can…” statements for weak acid and weak base equilibria, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for weak acid and weak base equilibria, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 8
 topics: ["8.3"]

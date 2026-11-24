@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-6.3-checklist"
 title: "Angular Momentum and Angular Impulse: Topic Checklist (Physics 1 6.3)"
-description: "Specific “I can…” statements for angular momentum, angular impulse and the rotational impulse–momentum theorem, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for angular momentum, angular impulse and the rotational impulse–momentum theorem, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 6
 topics: ["6.3"]

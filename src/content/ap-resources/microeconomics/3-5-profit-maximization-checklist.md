@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.5-checklist"
 title: "Profit Maximization: Topic Checklist (Microeconomics 3.5)"
-description: "Specific “I can…” statements for profit maximization and the MR = MC rule, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for profit maximization and the MR = MC rule, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 3
 topics: ["3.5"]

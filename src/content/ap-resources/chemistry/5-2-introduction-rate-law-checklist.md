@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.2-checklist"
 title: "Introduction to Rate Law: Topic Checklist (Chemistry 5.2)"
-description: "Specific “I can…” statements for rate laws, orders and rate constants, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for rate laws, orders and rate constants, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 5
 topics: ["5.2"]

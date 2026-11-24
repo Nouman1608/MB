@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-1.5-checklist"
 title: "Vectors and Motion in Two Dimensions: Topic Checklist (Physics 1 1.5)"
-description: "Specific “I can…” statements for vector components, adding vectors and projectile motion in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for vector components, adding vectors and projectile motion in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 1
 topics: ["1.5"]

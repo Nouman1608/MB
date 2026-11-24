@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-8.3-checklist"
 title: "Fluids and Newton’s Laws: Topic Checklist (Physics 1 8.3)"
-description: "Specific “I can…” statements for Newton's laws in fluids and the buoyant force, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Newton's laws in fluids and the buoyant force, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 8
 topics: ["8.3"]

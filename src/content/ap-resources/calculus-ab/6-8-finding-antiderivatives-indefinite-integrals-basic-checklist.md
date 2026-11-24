@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-6.8-checklist"
 title: "Antiderivatives and Indefinite Integrals: Basic Rules and Notation: Topic Checklist (Calculus AB 6.8)"
 seoTitle: "Calculus AB 6.8 Indefinite Integrals Basic Rules Checklist"
-description: "Specific “I can…” statements for indefinite integrals and basic antiderivative rules, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for indefinite integrals and basic antiderivative rules, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 6
 topics: ["6.8"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.2-checklist"
 title: "Absolute Entropy and Entropy Change: Topic Checklist (Chemistry 9.2)"
-description: "Specific “I can…” statements for standard molar entropy and ΔS° calculations, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for standard molar entropy and ΔS° calculations, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 9
 topics: ["9.2"]

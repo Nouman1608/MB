@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-4.1-checklist"
 title: "Cell Communication: Topic Checklist (Biology 4.1)"
-description: "Specific “I can…” statements for cell communication, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for cell communication, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 4
 topics: ["4.1"]

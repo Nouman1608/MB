@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-10.13-checklist"
 title: "Radius and Interval of Convergence of Power Series: Topic Checklist (Calculus BC 10.13)"
 seoTitle: "Calculus BC 10.13 Power Series Convergence Topic Checklist"
-description: "Specific “I can…” statements for radius and interval of convergence, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for radius and interval of convergence, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.13"]

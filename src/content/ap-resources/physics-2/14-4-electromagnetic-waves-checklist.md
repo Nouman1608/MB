@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.4-checklist"
 title: "Electromagnetic Waves: Topic Checklist (Physics 2 14.4)"
-description: "Specific “I can…” statements for electromagnetic waves, field directions, plane waves, the spectrum order and c = fλ, each linked to the guide and practice."
+description: "Specific “I can” statements for electromagnetic waves, field directions, plane waves, the spectrum order and c = fλ, each linked to the guide and practice."
 course: "physics-2"
 unit: 14
 topics: ["14.4"]

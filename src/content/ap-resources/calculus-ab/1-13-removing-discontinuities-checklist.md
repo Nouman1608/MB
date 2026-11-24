@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.13-checklist"
 title: "Removing Discontinuities: Topic Checklist (Calculus AB 1.13)"
-description: "Specific “I can…” statements for removable discontinuities and continuity parameters in piecewise functions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for removable discontinuities and continuity parameters in piecewise functions, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 1
 topics: ["1.13"]

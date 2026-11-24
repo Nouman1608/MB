@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-7.7-checklist"
 title: "Particular Solutions from Initial Conditions and Separation of Variables: Topic Checklist (Calculus AB 7.7)"
 seoTitle: "Calculus AB 7.7 Particular Solutions Topic Checklist"
-description: "Specific “I can…” statements for particular solutions, signs, domains and the integral form, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for particular solutions, signs, domains and the integral form, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 7
 topics: ["7.7"]

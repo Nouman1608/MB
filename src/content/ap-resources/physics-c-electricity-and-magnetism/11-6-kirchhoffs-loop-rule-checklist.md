@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-11.6-checklist"
 title: "Kirchhoff's Loop Rule: Topic Checklist (Physics C: E&M 11.6)"
-description: "Specific “I can…” statements for Kirchhoff's loop rule in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Kirchhoff's loop rule in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.6"]

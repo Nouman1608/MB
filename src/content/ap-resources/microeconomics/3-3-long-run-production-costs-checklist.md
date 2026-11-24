@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.3-checklist"
 title: "Long-Run Production Costs: Topic Checklist (Microeconomics 3.3)"
-description: "Specific “I can…” statements for long-run production costs, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for long-run production costs, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 3
 topics: ["3.3"]

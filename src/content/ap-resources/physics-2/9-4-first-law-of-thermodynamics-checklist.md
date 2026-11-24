@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-9.4-checklist"
 title: "The First Law of Thermodynamics: Topic Checklist (Physics 2 9.4)"
-description: "Specific “I can…” statements for the first law of thermodynamics, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the first law of thermodynamics, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 9
 topics: ["9.4"]

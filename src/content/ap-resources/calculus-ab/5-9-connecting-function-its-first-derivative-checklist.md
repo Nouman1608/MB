@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-5.9-checklist"
 title: "Connecting a Function, Its First Derivative, and Its Second Derivative: Topic Checklist (Calculus AB 5.9)"
 seoTitle: "Calculus AB 5.9 First and Second Derivatives Topic Checklist"
-description: "Specific “I can…” statements for linking the graphs of f, f′ and f″, each tied to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for linking the graphs of f, f′ and f″, each tied to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 5
 topics: ["5.9"]

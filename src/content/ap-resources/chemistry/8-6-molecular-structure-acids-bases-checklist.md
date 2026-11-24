@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-8.6-checklist"
 title: "Molecular Structure of Acids and Bases: Topic Checklist (Chemistry 8.6)"
 seoTitle: "Chemistry 8.6 Structure of Acids and Bases Topic Checklist"
-description: "Specific “I can…” statements for linking acid and base strength to molecular structure, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for linking acid and base strength to molecular structure, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 8
 topics: ["8.6"]

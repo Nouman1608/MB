@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.1-checklist"
 title: "Introduction to Entropy: Topic Checklist (Chemistry 9.1)"
-description: "Specific “I can…” statements for predicting the sign and size of entropy changes, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for predicting the sign and size of entropy changes, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 9
 topics: ["9.1"]

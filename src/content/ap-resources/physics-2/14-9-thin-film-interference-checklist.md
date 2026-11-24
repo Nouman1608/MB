@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.9-checklist"
 title: "Thin-Film Interference: Topic Checklist (Physics 2 14.9)"
-description: "Specific “I can…” statements for thin-film interference, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for thin-film interference, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 14
 topics: ["14.9"]

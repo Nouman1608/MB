@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-7.5-checklist"
 title: "Magnitude of the Equilibrium Constant: Topic Checklist (Chemistry 7.5)"
 seoTitle: "Chemistry 7.5 Magnitude of Equilibrium Constant Checklist"
-description: "Specific “I can…” statements for reading the size of K, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for reading the size of K, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 7
 topics: ["7.5"]

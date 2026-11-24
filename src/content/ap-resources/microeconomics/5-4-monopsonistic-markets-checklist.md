@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.4-checklist"
 title: "Monopsonistic Markets: Topic Checklist (Microeconomics 5.4)"
-description: "Specific “I can…” statements for monopsonistic labour markets, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for monopsonistic labour markets, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 5
 topics: ["5.4"]

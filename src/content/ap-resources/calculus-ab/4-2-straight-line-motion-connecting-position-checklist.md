@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-4.2-checklist"
 title: "Straight-Line Motion: Connecting Position, Velocity, and Acceleration: Topic Checklist (Calculus AB 4.2)"
 seoTitle: "Calculus AB 4.2 Straight-Line Motion Topic Checklist"
-description: "Specific “I can…” statements for straight-line motion: velocity, acceleration, speed, direction and distance, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for straight-line motion: velocity, acceleration, speed, direction and distance, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 4
 topics: ["4.2"]

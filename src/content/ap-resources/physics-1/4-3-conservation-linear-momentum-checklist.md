@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-4.3-checklist"
 title: "Conservation of Linear Momentum: Topic Checklist (Physics 1 4.3)"
-description: "Specific “I can…” statements for system momentum, centre-of-mass velocity, choosing a system, and collisions and explosions, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for system momentum, centre-of-mass velocity, choosing a system, and collisions and explosions, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 4
 topics: ["4.3"]

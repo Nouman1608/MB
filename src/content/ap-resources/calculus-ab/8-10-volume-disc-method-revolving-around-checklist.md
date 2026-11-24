@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-8.10-checklist"
 title: "Volume with the Disc Method: Revolving Around Other Axes: Topic Checklist (Calculus AB 8.10)"
 seoTitle: "Calculus AB 8.10 Disc Method Around Other Axes Checklist"
-description: "Specific “I can…” statements for disc-method volumes about lines such as y = k and x = h, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for disc-method volumes about lines such as y = k and x = h, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 8
 topics: ["8.10"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-6.2-checklist"
 title: "DNA Replication: Topic Checklist (Biology 6.2)"
-description: "Specific “I can…” statements for DNA replication, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for DNA replication, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 6
 topics: ["6.2"]

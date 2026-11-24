@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-11.2-checklist"
 title: "Simple Circuits: Topic Checklist (Physics C: E&M 11.2)"
-description: "Specific “I can…” statements for simple circuits in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for simple circuits in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.2"]

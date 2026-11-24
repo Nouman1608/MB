@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.4-checklist"
 title: "Calculating the Equilibrium Constant: Topic Checklist (Chemistry 7.4)"
-description: "Specific “I can…” statements for calculating Kc and Kp from equilibrium data, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for calculating Kc and Kp from equilibrium data, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 7
 topics: ["7.4"]

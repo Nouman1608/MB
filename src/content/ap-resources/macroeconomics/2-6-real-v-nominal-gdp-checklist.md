@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-2.6-checklist"
 title: "Real v. Nominal GDP: Topic Checklist (Macroeconomics 2.6)"
-description: "Specific “I can…” statements for real and nominal GDP and the GDP deflator, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for real and nominal GDP and the GDP deflator, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 2
 topics: ["2.6"]

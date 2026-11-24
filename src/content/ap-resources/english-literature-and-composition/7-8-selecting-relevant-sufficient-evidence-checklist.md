@@ -2,7 +2,7 @@
 resourceId: mb-ap-englit-7.8-checklist
 title: 'Selecting Relevant and Sufficient Evidence: Topic Checklist (English Literature 7.8)'
 seoTitle: "English Lit 7.8 Selecting Relevant Evidence Topic Checklist"
-description: Specific “I can…” statements for selecting relevant and sufficient evidence in a literary argument, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for selecting relevant and sufficient evidence in a literary argument, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 7
 topics:

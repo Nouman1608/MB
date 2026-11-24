@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-1.2-checklist"
 title: "Elements of Life: Topic Checklist (Biology 1.2)"
-description: "Specific “I can…” statements for the elements of life, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the elements of life, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 1
 topics: ["1.2"]

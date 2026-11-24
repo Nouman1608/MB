@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.8-checklist"
 title: "Fiscal Policy: Topic Checklist (Macroeconomics 3.8)"
-description: "Specific “I can…” statements for fiscal policy, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for fiscal policy, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.8"]

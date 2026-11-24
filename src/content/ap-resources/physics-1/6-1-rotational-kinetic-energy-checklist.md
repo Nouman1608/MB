@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-6.1-checklist"
 title: "Rotational Kinetic Energy: Topic Checklist (Physics 1 6.1)"
-description: "Specific “I can…” statements for rotational kinetic energy in the algebra-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for rotational kinetic energy in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 6
 topics: ["6.1"]

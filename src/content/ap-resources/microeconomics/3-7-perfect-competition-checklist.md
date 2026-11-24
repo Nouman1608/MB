@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.7-checklist"
 title: "Perfect Competition: Topic Checklist (Microeconomics 3.7)"
-description: "Specific “I can…” statements for perfect competition, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for perfect competition, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 3
 topics: ["3.7"]

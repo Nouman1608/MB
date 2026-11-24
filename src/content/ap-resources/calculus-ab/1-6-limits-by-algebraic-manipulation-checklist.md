@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-1.6-checklist"
 title: "Determining Limits Using Algebraic Manipulation: Topic Checklist (Calculus AB 1.6)"
 seoTitle: "Calculus AB 1.6 Limits by Algebraic Manipulation Checklist"
-description: "Specific “I can…” statements for 0/0 limits and algebraic rewriting, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for 0/0 limits and algebraic rewriting, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 1
 topics: ["1.6"]

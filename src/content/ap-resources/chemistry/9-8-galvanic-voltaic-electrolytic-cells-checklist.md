@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-9.8-checklist"
 title: "Galvanic (Voltaic) and Electrolytic Cells: Topic Checklist (Chemistry 9.8)"
 seoTitle: "Chemistry 9.8 Galvanic and Electrolytic Cells Checklist"
-description: "Specific “I can…” statements for galvanic and electrolytic cells, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for galvanic and electrolytic cells, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 9
 topics: ["9.8"]

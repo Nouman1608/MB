@@ -2,7 +2,7 @@
 resourceId: "mb-ap-macro-3.6-checklist"
 title: "Changes in the AD–AS Model in the Short Run: Topic Checklist (Macroeconomics 3.6)"
 seoTitle: "Macroeconomics 3.6 Short-Run AD–AS Model Changes Checklist"
-description: "Specific “I can…” statements for short-run changes in the AD–AS model, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for short-run changes in the AD–AS model, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 3
 topics: ["3.6"]

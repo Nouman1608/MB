@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.7-checklist"
 title: "pH and pKa: Topic Checklist (Chemistry 8.7)"
-description: "Specific “I can…” statements for comparing pH with pKa, predicting protonation states, reading indicators and choosing them, each linked to the guide and practice."
+description: "Specific “I can” statements for comparing pH with pKa, predicting protonation states, reading indicators and choosing them, each linked to the guide and practice."
 course: "chemistry"
 unit: 8
 topics: ["8.7"]

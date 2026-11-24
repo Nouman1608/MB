@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.9-checklist"
 title: "Cell Potential and Free Energy: Topic Checklist (Chemistry 9.9)"
-description: "Specific “I can…” statements for standard cell potentials and ΔG° = −nFE°, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for standard cell potentials and ΔG° = −nFE°, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 9
 topics: ["9.9"]

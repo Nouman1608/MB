@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.3-checklist"
 title: "Emission and Absorption Spectra: Topic Checklist (Physics 2 15.3)"
-description: "Specific “I can…” statements for emission and absorption spectra, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for emission and absorption spectra, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 15
 topics: ["15.3"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.5-checklist"
 title: "Collision Model: Topic Checklist (Chemistry 5.5)"
-description: "Specific “I can…” statements for the collision model, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the collision model, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 5
 topics: ["5.5"]

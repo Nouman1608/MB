@@ -1,7 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.5-checklist
 title: 'Symbol: Topic Checklist (English Literature 6.5)'
-description: Specific “I can…” statements for symbol in longer works, each linked to the guide section or practice question that tests it.
+description: Specific “I can” statements for symbol in longer works, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 6
 topics:

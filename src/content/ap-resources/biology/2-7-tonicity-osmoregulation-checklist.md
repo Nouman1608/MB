@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-2.7-checklist"
 title: "Tonicity and Osmoregulation: Topic Checklist (Biology 2.7)"
-description: "Specific “I can…” statements for tonicity, water potential and osmoregulation, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for tonicity, water potential and osmoregulation, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 2
 topics: ["2.7"]

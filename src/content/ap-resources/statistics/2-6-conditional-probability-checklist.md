@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.6-checklist"
 title: "Conditional Probability: Topic Checklist (Statistics 2.6)"
-description: "Specific “I can…” statements for conditional probability, the general multiplication rule and tree diagrams, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for conditional probability, the general multiplication rule and tree diagrams, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 2
 topics: ["2.6"]

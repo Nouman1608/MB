@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.12-checklist"
 title: "Properties of Photons: Topic Checklist (Chemistry 3.12)"
-description: "Specific “I can…” statements for photon energy, c = λν and E = hν, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for photon energy, c = λν and E = hν, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 3
 topics: ["3.12"]

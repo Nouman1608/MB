@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-6.3-checklist"
 title: "Heat Transfer and Thermal Equilibrium: Topic Checklist (Chemistry 6.3)"
 seoTitle: "Chemistry 6.3 Heat Transfer, Thermal Equilibrium Checklist"
-description: "Specific “I can…” statements for heat transfer and thermal equilibrium, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for heat transfer and thermal equilibrium, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 6
 topics: ["6.3"]

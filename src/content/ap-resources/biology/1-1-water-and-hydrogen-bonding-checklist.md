@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-1.1-checklist"
 title: "Water and Hydrogen Bonding: Topic Checklist (Biology 1.1)"
-description: "Specific “I can…” statements for water's polarity and hydrogen bonding, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for water's polarity and hydrogen bonding, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 1
 topics: ["1.1"]

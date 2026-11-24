@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcem-12.3-checklist"
 title: "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law: Topic Checklist (Physics C: E&M 12.3)"
 seoTitle: "Physics C E&M 12.3 Biot-Savart Law Topic Checklist"
-description: "Specific “I can…” statements for the Biot-Savart law and forces on wires in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the Biot-Savart law and forces on wires in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 12
 topics: ["12.3"]

@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-1.4-checklist"
 title: "Reference Frames and Relative Motion: Topic Checklist (Physics C: Mechanics 1.4)"
 seoTitle: "Physics C Mechanics 1.4 Frames and Relative Motion Checklist"
-description: "Specific “I can…” statements for reference frames and relative motion, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for reference frames and relative motion, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 1
 topics: ["1.4"]

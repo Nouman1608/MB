@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcem-11.8-checklist"
 title: "Resistor-Capacitor (RC) Circuits: Topic Checklist (Physics C: E&M 11.8)"
 seoTitle: "Physics C E&M 11.8 RC Circuits Topic Checklist"
-description: "Specific “I can…” statements for RC circuits in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for RC circuits in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.8"]

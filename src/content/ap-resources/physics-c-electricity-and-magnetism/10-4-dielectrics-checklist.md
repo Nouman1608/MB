@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-10.4-checklist"
 title: "Dielectrics: Topic Checklist (Physics C: E&M 10.4)"
-description: "Specific “I can…” statements for dielectrics in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for dielectrics in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 10
 topics: ["10.4"]

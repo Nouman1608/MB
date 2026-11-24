@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-5.1-checklist"
 title: "Reaction Rates: Topic Checklist (Chemistry 5.1)"
-description: "Specific “I can…” statements for reaction rates, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for reaction rates, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 5
 topics: ["5.1"]

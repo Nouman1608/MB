@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.3-checklist"
 title: "The nth Term Test for Divergence: Topic Checklist (Calculus BC 10.3)"
-description: "Specific “I can…” statements for the nth term test for divergence, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for the nth term test for divergence, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10
 topics: ["10.3"]

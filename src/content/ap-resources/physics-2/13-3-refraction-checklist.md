@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-13.3-checklist"
 title: "Refraction: Topic Checklist (Physics 2 13.3)"
-description: "Specific “I can…” statements for refraction, Snell's law and total internal reflection, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for refraction, Snell's law and total internal reflection, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 13
 topics: ["13.3"]

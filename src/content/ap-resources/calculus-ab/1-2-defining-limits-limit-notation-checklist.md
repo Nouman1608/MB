@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-1.2-checklist"
 title: "Defining Limits and Using Limit Notation: Topic Checklist (Calculus AB 1.2)"
 seoTitle: "Calculus AB 1.2 Defining Limits and Limit Notation Checklist"
-description: "Specific “I can…” statements for the meaning of a limit and correct limit notation, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the meaning of a limit and correct limit notation, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 1
 topics: ["1.2"]

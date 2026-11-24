@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-8.6-checklist"
 title: "Gauss's Law: Topic Checklist (Physics C: E&M 8.6)"
-description: "Specific “I can…” statements for Gauss's law in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for Gauss's law in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 8
 topics: ["8.6"]

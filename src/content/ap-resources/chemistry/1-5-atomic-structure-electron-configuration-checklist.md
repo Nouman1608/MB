@@ -2,7 +2,7 @@
 resourceId: "mb-ap-chem-1.5-checklist"
 title: "Atomic Structure and Electron Configuration: Topic Checklist (Chemistry 1.5)"
 seoTitle: "Chemistry 1.5 Electron Configuration Topic Checklist"
-description: "Specific “I can…” statements for atomic structure, Coulomb's law and electron configurations, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for atomic structure, Coulomb's law and electron configurations, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 1
 topics: ["1.5"]

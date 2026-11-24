@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.2-checklist"
 title: "Variables: Topic Checklist (Statistics 1.2)"
-description: "Specific “I can…” statements for observational units, variable types and parameters versus statistics, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for observational units, variable types and parameters versus statistics, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 1
 topics: ["1.2"]

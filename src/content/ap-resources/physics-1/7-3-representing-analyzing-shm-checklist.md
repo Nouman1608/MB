@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-7.3-checklist"
 title: "Representing and Analyzing SHM: Topic Checklist (Physics 1 7.3)"
-description: "Specific “I can…” statements for describing and graphing simple harmonic motion in the algebra-based course, each linked to the guide section or practice question that covers it."
+description: "Specific “I can” statements for describing and graphing simple harmonic motion in the algebra-based course, each linked to the guide section or practice question that covers it."
 course: "physics-1"
 unit: 7
 topics: ["7.3"]

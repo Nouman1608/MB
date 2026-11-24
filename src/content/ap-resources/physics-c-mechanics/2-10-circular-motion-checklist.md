@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.10-checklist"
 title: "Circular Motion: Topic Checklist (Physics C: Mechanics 2.10)"
-description: "Specific “I can…” statements for calculus-based circular motion, loops, banked curves, conical pendulums and circular orbits, each linked to the guide or practice."
+description: "Specific “I can” statements for calculus-based circular motion, loops, banked curves, conical pendulums and circular orbits, each linked to the guide or practice."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.10"]

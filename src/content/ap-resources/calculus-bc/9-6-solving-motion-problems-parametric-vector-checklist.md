@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-9.6-checklist"
 title: "Solving Motion Problems Using Parametric and Vector-Valued Functions: Topic Checklist (Calculus BC 9.6)"
 seoTitle: "Calculus BC 9.6 Parametric and Vector Motion Checklist"
-description: "Specific “I can…” statements for planar motion problems, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for planar motion problems, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 9
 topics: ["9.6"]

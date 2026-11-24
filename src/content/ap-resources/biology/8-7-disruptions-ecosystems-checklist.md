@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-8.7-checklist"
 title: "Disruptions in Ecosystems: Topic Checklist (Biology 8.7)"
-description: "Specific “I can…” statements for ecosystem disruptions and chi-square testing, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for ecosystem disruptions and chi-square testing, each linked to the guide section and practice question that shows whether you can really do it."
 course: "biology"
 unit: 8
 topics: ["8.7"]

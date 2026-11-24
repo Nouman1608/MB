@@ -2,7 +2,7 @@
 resourceId: "mb-ap-phys2-11.3-checklist"
 title: "Resistance, Resistivity and Ohm's Law: Topic Checklist (Physics 2 11.3)"
 seoTitle: "Physics 2 11.3 Resistivity and Ohm's Law Topic Checklist"
-description: "Specific “I can…” statements for resistance, resistivity and Ohm's law, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for resistance, resistivity and Ohm's law, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 11
 topics: ["11.3"]

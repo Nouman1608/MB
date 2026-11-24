@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-2.1-checklist"
 title: "Types of Chemical Bonds: Topic Checklist (Chemistry 2.1)"
-description: "Specific “I can…” statements for electronegativity, bond polarity, the ionic–covalent continuum and metallic bonding, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for electronegativity, bond polarity, the ionic–covalent continuum and metallic bonding, each linked to the guide section or practice question that tests it."
 course: "chemistry"
 unit: 2
 topics: ["2.1"]

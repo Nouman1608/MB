@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.6-checklist"
 title: "Monetary Policy: Topic Checklist (Macroeconomics 4.6)"
-description: "Specific “I can…” statements for monetary policy, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for monetary policy, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 4
 topics: ["4.6"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-2.10-checklist"
 title: "Origins of Cell Compartmentalization: Topic Checklist (Biology 2.10)"
-description: "Specific “I can…” statements for comparing prokaryotic and eukaryotic compartmentalization and arguing for endosymbiosis, each linked to the section or question that tests it."
+description: "Specific “I can” statements for comparing prokaryotic and eukaryotic compartmentalization and arguing for endosymbiosis, each linked to the section or question that tests it."
 course: "biology"
 unit: 2
 topics: ["2.10"]

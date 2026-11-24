@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-13.1-checklist"
 title: "Reflection: Topic Checklist (Physics 2 13.1)"
-description: "Specific “I can…” statements for rays and reflection, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for rays and reflection, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 13
 topics: ["13.1"]

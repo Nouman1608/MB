@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcab-8.4-checklist"
 title: "Finding the Area Between Curves Expressed as Functions of x: Topic Checklist (Calculus AB 8.4)"
 seoTitle: "Calculus AB 8.4 Area Between Curves in x Topic Checklist"
-description: "Specific “I can…” statements for the area between curves with vertical strips, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the area between curves with vertical strips, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 8
 topics: ["8.4"]

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.1-checklist"
 title: "Balance of Payments Accounts: Topic Checklist (Macroeconomics 6.1)"
-description: "Specific “I can…” statements for the balance of payments, the current account and the capital and financial account, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for the balance of payments, the current account and the capital and financial account, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 6
 topics: ["6.1"]

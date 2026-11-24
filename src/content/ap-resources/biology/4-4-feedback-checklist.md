@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-4.4-checklist"
 title: "Feedback: Topic Checklist (Biology 4.4)"
-description: "Specific “I can…” statements for negative and positive feedback and for predicting the effects of disrupted loops, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for negative and positive feedback and for predicting the effects of disrupted loops, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 4
 topics: ["4.4"]

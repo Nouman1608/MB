@@ -2,7 +2,7 @@
 resourceId: "mb-ap-physcm-3.1-checklist"
 title: "Translational Kinetic Energy: Topic Checklist (Physics C: Mechanics 3.1)"
 seoTitle: "Physics C Mechanics 3.1 Kinetic Energy Topic Checklist"
-description: "Specific “I can…” statements for translational kinetic energy in the calculus-based course, each linked to the guide section and practice question that tests it."
+description: "Specific “I can” statements for translational kinetic energy in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 3
 topics: ["3.1"]

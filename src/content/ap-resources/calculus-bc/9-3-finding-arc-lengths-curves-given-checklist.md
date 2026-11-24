@@ -2,7 +2,7 @@
 resourceId: "mb-ap-calcbc-9.3-checklist"
 title: "Finding Arc Lengths of Curves Given by Parametric Equations: Topic Checklist (Calculus BC 9.3)"
 seoTitle: "Calculus BC 9.3 Arc Length of Parametric Curves Checklist"
-description: "Specific “I can…” statements for parametric arc length, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for parametric arc length, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 9
 topics: ["9.3"]

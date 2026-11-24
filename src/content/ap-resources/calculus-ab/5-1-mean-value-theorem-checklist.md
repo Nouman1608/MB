@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.1-checklist"
 title: "Using the Mean Value Theorem: Topic Checklist (Calculus AB 5.1)"
-description: "Specific “I can…” statements for the Mean Value Theorem, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for the Mean Value Theorem, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 5
 topics: ["5.1"]

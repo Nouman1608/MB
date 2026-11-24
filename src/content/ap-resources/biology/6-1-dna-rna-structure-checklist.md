@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-6.1-checklist"
 title: "DNA and RNA Structure: Topic Checklist (Biology 6.1)"
-description: "Specific “I can…” statements for how DNA and RNA store hereditary information, each linked to the guide section and practice question that shows whether you can do it."
+description: "Specific “I can” statements for how DNA and RNA store hereditary information, each linked to the guide section and practice question that shows whether you can do it."
 course: "biology"
 unit: 6
 topics: ["6.1"]

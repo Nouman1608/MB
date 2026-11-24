@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-6.4-checklist"
 title: "Heat Capacity and Calorimetry: Topic Checklist (Chemistry 6.4)"
-description: "Specific “I can…” statements for heat capacity and calorimetry, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for heat capacity and calorimetry, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 6
 topics: ["6.4"]

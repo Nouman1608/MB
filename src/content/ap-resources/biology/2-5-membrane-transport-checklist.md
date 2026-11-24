@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-2.5-checklist"
 title: "Membrane Transport: Topic Checklist (Biology 2.5)"
-description: "Specific “I can…” statements for concentration gradients, passive and active transport, endocytosis and exocytosis, each linked to the guide section or practice question that tests it."
+description: "Specific “I can” statements for concentration gradients, passive and active transport, endocytosis and exocytosis, each linked to the guide section or practice question that tests it."
 course: "biology"
 unit: 2
 topics: ["2.5"]

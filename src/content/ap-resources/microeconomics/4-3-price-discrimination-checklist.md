@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-micro-4.3-checklist"
 title: "Price Discrimination: Topic Checklist (Microeconomics 4.3)"
-description: "Specific “I can…” statements for price discrimination, each linked to the guide section and practice question that shows whether you can really do it."
+description: "Specific “I can” statements for price discrimination, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 4
 topics: ["4.3"]
