@@ -91,15 +91,56 @@ export interface ExamSeriesKeyDates {
   readonly partialNote?: string;
   /** Extra official source documents (e.g. one per administrative zone). */
   readonly extraSources?: readonly { readonly label: string; readonly url: string }[];
+  /**
+   * What the source is, in the page's "Sourced directly from Cambridge's own
+   * ..." line. Leave out for a key-dates document (the default wording).
+   */
+  readonly sourceDocument?: string;
+  /** Text of the officialSourceUrl link. Leave out for "view the original PDF". */
+  readonly officialSourceLabel?: string;
 }
 
 /**
  * Holds the series currently relevant to visitors. Labels (past/now/next) are
  * computed in the browser from the visitor's date, never at build time.
- * When a later series becomes the relevant "upcoming" one, add a new
- * record here (and update src/pages/exam-calendar/index.astro's featured
- * series if it doesn't already just pick the nearest future one) rather
- * than editing this record in place -- keeps a genuine, dated history.
+ * The page renders every record here, in this order (oldest series first),
+ * so a new series is one new record and nothing else: no template change.
+ * Add it rather than editing an earlier series' record -- keeps a genuine,
+ * dated history. examSeriesProblems() below checks every record when the
+ * page is built (and in scripts/test-exam-calendar-status.mjs once wired).
+ *
+ * ---------------------------------------------------------------------------
+ * HOW TO COMPLETE MAY/JUNE 2027 (audit 3 item 44, 25 Nov 2026)
+ * ---------------------------------------------------------------------------
+ * The 'june-2027' record below holds only the timetabled weeks. When
+ * Cambridge publishes its "Key dates for the June 2027 series
+ * (International)" document (the November 2026 one is 746006, linked in the
+ * first record), edit ONLY that record, copying every value from the PDF:
+ *
+ *   finalEntriesDeadline: '<D Month YYYY>',   finalEntriesDeadlineIso: '<YYYY-MM-DD>',
+ *   lateEntriesDeadline: '<D Month YYYY>',    lateEntriesDeadlineIso: '<YYYY-MM-DD>',
+ *   resultsReleased: [
+ *     { qualificationGroup: 'Cambridge International AS & A Level', date: '<D Month YYYY>' },
+ *     { qualificationGroup: 'Cambridge IGCSE and Cambridge O Level', date: '<D Month YYYY>' },
+ *   ],
+ *   resultsIso: '<YYYY-MM-DD of the EARLIEST results date>',
+ *   enquiriesAboutResultsDeadline: '<D Month YYYY>',   // only if the PDF gives one
+ *   accessToScriptsDeadline: '<D Month YYYY>',          // only if the PDF gives one
+ *   officialSourceUrl: '<the key-dates PDF>',
+ *   sourceScope: 'International centres; UK centres have a separate document',
+ *   verifiedOn: '<the day you read it, YYYY-MM-DD>',
+ * and DELETE partialNote, sourceDocument, officialSourceLabel and
+ * extraSources (they describe the zone timetables). Keep examPeriodStart/End
+ * and examStartIso/EndIso unless the key-dates PDF gives other dates.
+ * Then run: node --experimental-strip-types scripts/test-exam-calendar-status.mjs
+ * The page heading, status labels ("Next series", "Exams in progress now"),
+ * the entry-deadline warning and the results card all follow from the record.
+ * Do not fill any field before Cambridge publishes it.
+ *
+ * A LATER SERIES (e.g. October/November 2027): add one record at the end,
+ * in the same shape as 'november-2026'. Update the page's title and
+ * description in src/pages/exam-calendar/index.astro only if they name the
+ * series (they name November 2026 to May/June 2027).
  */
 export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
   {
@@ -174,6 +215,8 @@ export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
     verifiedOn: '2026-11-23',
     examStartIso: '2027-04-26',
     examEndIso: '2027-06-12',
+    sourceDocument: 'final exam timetables',
+    officialSourceLabel: 'Zone 1',
     partialNote: 'Only the exam window is listed so far. Cambridge has not yet published the key-dates document for the June 2027 series, so entry deadlines and results dates are not shown here. Confirm them with your exams officer.',
     extraSources: [
       { label: 'Zone 2', url: 'https://www.cambridgeinternational.org/Images/766279-june-2027-zone-2-timetable.pdf' },
@@ -184,3 +227,62 @@ export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
     ],
   },
 ] as const;
+
+const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+/** "16 August 2026" -> "2026-08-16"; undefined for text that is not one whole date ("Late September 2026"). */
+export function isoFromDateText(text: string): string | undefined {
+  const m = /^(\d{1,2}) ([A-Z][a-z]+) (\d{4})$/.exec(text.trim());
+  if (!m) return undefined;
+  const month = MONTHS.indexOf(m[2]);
+  if (month < 0) return undefined;
+  return `${m[3]}-${String(month + 1).padStart(2, '0')}-${m[1].padStart(2, '0')}`;
+}
+
+/**
+ * Audit 3 item 44 -- what would make a record show wrong or half-filled
+ * dates. The exam-calendar page throws on any problem, so the build fails
+ * instead of publishing it. One line per problem.
+ *   - a displayed date and its machine date must come together, and agree
+ *     when the displayed text is one whole date;
+ *   - results dates and resultsIso come together; resultsIso is the
+ *     earliest results date (it turns the label to "Results released");
+ *   - a record with entry deadlines and results dates must not keep the
+ *     "only the exam window is listed" partialNote;
+ *   - slugs are unique and records are in exam order.
+ */
+export function examSeriesProblems(list: readonly ExamSeriesKeyDates[] = EXAM_SERIES_KEY_DATES): string[] {
+  const out: string[] = [];
+  const iso = /^\d{4}-\d{2}-\d{2}$/;
+  const slugs = new Set<string>();
+  list.forEach((s, i) => {
+    const id = s.seriesSlug || `record ${i + 1}`;
+    if (slugs.has(s.seriesSlug)) out.push(`${id}: duplicate seriesSlug`);
+    slugs.add(s.seriesSlug);
+    for (const [name, v] of [['examStartIso', s.examStartIso], ['examEndIso', s.examEndIso], ['finalEntriesDeadlineIso', s.finalEntriesDeadlineIso], ['lateEntriesDeadlineIso', s.lateEntriesDeadlineIso], ['resultsIso', s.resultsIso]] as const) {
+      if (v !== undefined && !iso.test(v)) out.push(`${id}: ${name} "${v}" is not YYYY-MM-DD`);
+    }
+    if (s.examEndIso < s.examStartIso) out.push(`${id}: examEndIso is before examStartIso`);
+    const pairs: [string, string | undefined, string | undefined][] = [
+      ['finalEntriesDeadline', s.finalEntriesDeadline, s.finalEntriesDeadlineIso],
+      ['lateEntriesDeadline', s.lateEntriesDeadline, s.lateEntriesDeadlineIso],
+      ['examPeriodStart', s.examPeriodStart, s.examStartIso],
+    ];
+    for (const [name, text, machine] of pairs) {
+      if ((text === undefined) !== (machine === undefined)) out.push(`${id}: ${name} and ${name === 'examPeriodStart' ? 'examStartIso' : `${name}Iso`} must both be set or both be left out`);
+      const parsed = text !== undefined ? isoFromDateText(text) : undefined;
+      if (parsed && machine && parsed !== machine) out.push(`${id}: ${name} "${text}" does not match its machine date ${machine}`);
+    }
+    if ((s.resultsReleased.length > 0) !== (s.resultsIso !== undefined)) out.push(`${id}: resultsReleased and resultsIso must both be set or both be left out`);
+    const resultIsos = s.resultsReleased.map((r) => isoFromDateText(r.date));
+    if (s.resultsIso && resultIsos.every((x) => x !== undefined)) {
+      const earliest = [...(resultIsos as string[])].sort()[0];
+      if (earliest !== s.resultsIso) out.push(`${id}: resultsIso ${s.resultsIso} is not the earliest results date (${earliest})`);
+    }
+    if (s.partialNote && s.finalEntriesDeadline && s.resultsReleased.length > 0) out.push(`${id}: entry and results dates are filled in, so delete partialNote (it says they are not listed)`);
+    if (!s.officialSourceUrl.startsWith('https://')) out.push(`${id}: officialSourceUrl must be https`);
+    if (!iso.test(s.verifiedOn)) out.push(`${id}: verifiedOn "${s.verifiedOn}" is not YYYY-MM-DD`);
+    if (i > 0 && s.examStartIso < list[i - 1].examStartIso) out.push(`${id}: records must be in exam order (starts before ${list[i - 1].seriesSlug})`);
+  });
+  return out;
+}

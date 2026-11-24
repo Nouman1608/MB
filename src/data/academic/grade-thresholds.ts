@@ -91,6 +91,35 @@ const ALL_ROUTES_NOTE =
 const STAGED_ASSESSMENT_NOTE =
   "This table covers every standard (single-series) route Cambridge published for this syllabus and series. It does NOT include \"staged assessment\" routes, where the AS papers were sat in an earlier series and the A2 papers in a later one -- Cambridge publishes roughly 20 further combination rows for that path, which this table does not reproduce. If you sat your papers in a staged (multi-series) pattern, use the official PDF linked below, which lists every staged route in full.";
 
+/*
+ * ---------------------------------------------------------------------------
+ * HOW TO ADD THE NOVEMBER 2026 THRESHOLDS (audit 3 item 44, 25 Nov 2026)
+ * ---------------------------------------------------------------------------
+ * Cambridge publishes November-series grade thresholds with the results
+ * (November 2026 results: 7 January 2027 for AS & A Level, 14 January 2027
+ * for IGCSE and O Level, per src/data/academic/exam-calendar.ts). Not before.
+ *
+ * For each syllabus, ADD one record (do not edit the June 2026 one: each
+ * series is its own dated snapshot), with every row copied from Cambridge's
+ * own "<syllabus> November 2026 grade threshold table" PDF:
+ *
+ *   {
+ *     code: '0620', subjectLabel: 'Chemistry', qualificationLabel: 'IGCSE',
+ *     series: 'November 2026',
+ *     rows: [ { combination: 'Core (Components ...)', maxMark: ..., thresholds: { C: ..., ... } }, ... ],
+ *     note: ALL_ROUTES_NOTE,                  // STAGED_ASSESSMENT_NOTE for 9701/9702
+ *     officialSourceUrl: '<the November 2026 PDF>',
+ *     verifiedOn: '<the day you read it, YYYY-MM-DD>',
+ *   },
+ *
+ * Nothing else changes: the page groups records by code, shows the newest
+ * series first under the same drop-down entry, and builds its title,
+ * description and lead from the series present (seriesCovered()). Then run
+ * node --experimental-strip-types scripts/validate-grade-thresholds.mjs
+ * (series format, routes, mark sanity, sources). The page also fails the
+ * build if two records share a code and series (thresholdProblems()).
+ * A syllabus with no November 2026 PDF simply keeps June 2026 only.
+ */
 export const GRADE_THRESHOLDS: readonly SyllabusGradeThresholds[] = [
   {
     code: '0620',
@@ -221,3 +250,58 @@ export const GRADE_THRESHOLDS: readonly SyllabusGradeThresholds[] = [
     verifiedOn: '2026-08-30',
   },
 ] as const;
+
+const SERIES_MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+/** Sort key for "June 2026", "October/November 2026": year, then the last month named. */
+export function seriesSortKey(series: string): number {
+  const m = /^(.+)\s(\d{4})$/.exec(series);
+  if (!m) return 0;
+  const months = m[1].split('/').map((x) => SERIES_MONTHS.indexOf(x)).filter((x) => x >= 0);
+  return Number(m[2]) * 100 + (months.length > 0 ? Math.max(...months) + 1 : 0);
+}
+
+export interface SyllabusThresholdGroup {
+  readonly code: string;
+  readonly subjectLabel: string;
+  readonly qualificationLabel: string;
+  /** Newest series first. */
+  readonly records: readonly SyllabusGradeThresholds[];
+}
+
+/** One entry per syllabus code, in the order codes first appear in GRADE_THRESHOLDS; each code's series newest first. */
+export function thresholdsByCode(list: readonly SyllabusGradeThresholds[] = GRADE_THRESHOLDS): SyllabusThresholdGroup[] {
+  const codes = [...new Set(list.map((g) => g.code))];
+  return codes.map((code) => {
+    const records = list.filter((g) => g.code === code).sort((a, b) => seriesSortKey(b.series) - seriesSortKey(a.series));
+    return { code, subjectLabel: records[0].subjectLabel, qualificationLabel: records[0].qualificationLabel, records };
+  });
+}
+
+/** The series the data holds, newest first, e.g. ['November 2026', 'June 2026']. */
+export function seriesCovered(list: readonly SyllabusGradeThresholds[] = GRADE_THRESHOLDS): string[] {
+  return [...new Set(list.map((g) => g.series))].sort((a, b) => seriesSortKey(b) - seriesSortKey(a));
+}
+
+/** "June 2026"; "November 2026 and June 2026". */
+export const seriesPhrase = (series: readonly string[]): string =>
+  series.length <= 1 ? series.join('') : `${series.slice(0, -1).join(', ')} and ${series[series.length - 1]}`;
+
+/** Two records for the same syllabus and series would show two tables for one series. */
+export function thresholdProblems(list: readonly SyllabusGradeThresholds[] = GRADE_THRESHOLDS): string[] {
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const g of list) {
+    const key = `${g.code} ${g.series}`;
+    if (seen.has(key)) out.push(`${key}: two records for the same syllabus and series`);
+    seen.add(key);
+    if (seriesSortKey(g.series) === 0) out.push(`${key}: series is not "<Month> <YYYY>"`);
+  }
+  const labels = new Map<string, string>();
+  for (const g of list) {
+    const l = `${g.qualificationLabel} ${g.subjectLabel}`;
+    if (labels.has(g.code) && labels.get(g.code) !== l) out.push(`${g.code}: labelled "${labels.get(g.code)}" and "${l}" in different records`);
+    labels.set(g.code, l);
+  }
+  return out;
+}

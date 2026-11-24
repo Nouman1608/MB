@@ -1,0 +1,159 @@
+[
+  {
+    "check": "diagnostics hub: N questions on M topics",
+    "url": "http://127.0.0.1:4325/diagnostics/",
+    "status": 200,
+    "sets": 31,
+    "lines": [
+      "Core → 4 questions on 4 topics · about 10 min Four topics, Core content",
+      "Extended → 5 questions on 5 topics · about 10 min Five topics, Extended content",
+      "Core → 6 questions on 6 topics · about 10 min Six topics across the syllabus, Core content",
+      "Extended → 6 questions on 5 topics · about 10 min Five topics across the syllabus, Extended (Supplement) content",
+      "All topics → 6 questions on 4 topics · about 10 min All four topic areas of the specification",
+      "Core → 6 questions on 6 topics · about 10 min Six topics across the syllabus, Core content",
+      "Extended → 5 questions on 5 topics · about 10 min Five topic areas, Extended content",
+      "Core → 6 questions on 4 topics · about 10 min Four topics across the syllabus, Core content",
+      "Extended → 5 questions on 4 topics · about 10 min Four topic areas, Extended content",
+      "All topics → 6 questions on 6 topics · about 10 min Six topics across the specification",
+      "All topics → 4 questions on 4 topics · about 10 min Four topic areas of the syllabus",
+      "All topics → 6 questions on 5 topics · about 10 min Five topic areas of the syllabus",
+      "Paper 1 topics → 5 questions on 5 topics · about 10 min Five topics from Paper 1",
+      "Paper 2 topics → 5 questions on 4 topics · about 10 min Paper 2: algorithms, programming, databases and logic",
+      "All topics → 5 questions on 4 topics · about 10 min Four topic areas of the syllabus",
+      "All topics → 6 questions on 6 topics · about 10 min Six topic areas of the syllabus",
+      "All topics → 5 questions on 5 topics · about 10 min Five topic areas of the syllabus",
+      "AS topics → 5 questions on 5 topics · about 10 min Five AS topics",
+      "A Level topics → 5 questions on 4 topics · about 10 min Four A Level topics",
+      "AS topics → 5 questions on 4 topics · about 10 min Four AS topics",
+      "A Level topics → 5 questions on 4 topics · about 10 min Four A Level topics",
+      "AS topics → 6 questions on 6 topics · about 10 min AS Level content (Topics 1–22)",
+      "A Level topics → 6 questions on 6 topics · about 10 min A Level content (Topics 23–37)",
+      "AS topics → 5 questions on 4 topics · about 10 min Four AS topics",
+      "A Level topics → 5 questions on 4 topics · about 10 min Four A Level topics",
+      "AS topics → 5 questions on 4 topics · about 10 min Four AS topics",
+      "A Level topics → 5 questions on 4 topics · about 10 min Four A Level topics",
+      "AS topics → 5 questions on 4 topics · about 10 min Four AS papers: Pure 1, Pure 2, Mechanics, Probability & Statistics 1",
+      "A Level topics → 6 questions on 4 topics · about 10 min Pure Mathematics 3, plus one question each from Pure 1, Mechanics and Probability & Statistics 1",
+      "AS topics → 6 questions on 6 topics · about 10 min AS Level content (Topics 1–11)",
+      "A Level topics → 6 questions on 6 topics · about 10 min A Level content (Topics 12–25)"
+    ],
+    "screenshot": "dev-diagnostics-hub-sets.png"
+  },
+  {
+    "check": "course page past-papers section (temporary fixture manifest, never committed)",
+    "url": "http://127.0.0.1:4325/boards/cambridge/igcse/chemistry/",
+    "status": 200,
+    "sections": 1,
+    "text": "Past papers Documents published by Cambridge for this course: 5 documents, 2022 to 2024. Marlbridge hosts the files and did not write them. The newest series are below; every year is on the full list. 2024 June 2024 Paper 4, variant 2 Question paper (PDF) Mark scheme (PDF) Whole series Examiner report (PDF) 2023 November 2023 Paper 2, variant 1 Question paper (PDF) All past papers for this course (5 documents)",
+    "links": [
+      {
+        "text": "Question paper (PDF)",
+        "href": "https://img.marlbridge.com/test-fixture/qp-4-2.pdf",
+        "label": "Question paper (PDF), Paper 4, variant 2, June 2024, Cambridge IGCSE Chemistry (0620)"
+      },
+      {
+        "text": "Mark scheme (PDF)",
+        "href": "https://img.marlbridge.com/test-fixture/ms-4-2.pdf",
+        "label": "Mark scheme (PDF), Paper 4, variant 2, June 2024, Cambridge IGCSE Chemistry (0620)"
+      },
+      {
+        "text": "Examiner report (PDF)",
+        "href": "https://img.marlbridge.com/test-fixture/er.pdf",
+        "label": "Examiner report (PDF), Whole series, June 2024, Cambridge IGCSE Chemistry (0620)"
+      },
+      {
+        "text": "Question paper (PDF)",
+        "href": "https://img.marlbridge.com/test-fixture/qp-2-1-2023.pdf",
+        "label": "Question paper (PDF), Paper 2, variant 1, November 2023, Cambridge IGCSE Chemistry (0620)"
+      },
+      {
+        "text": "All past papers for this course (5 documents)",
+        "href": "/past-papers/cambridge/igcse/chemistry/",
+        "label": null
+      }
+    ],
+    "screenshot": "dev-course-past-papers-FIXTURE.png"
+  },
+  {
+    "check": "course page with no manifest entries renders no past-papers section",
+    "url": "http://127.0.0.1:4325/boards/cambridge/igcse/physics/",
+    "status": 200,
+    "sections": 0,
+    "hubLink": 0
+  },
+  {
+    "check": "exam calendar (dev)",
+    "url": "http://127.0.0.1:4325/exam-calendar/",
+    "status": 200,
+    "series": [
+      {
+        "heading": "October/November 2026 key dates",
+        "status": "Exams over, results pending",
+        "source": "Sourced directly from Cambridge's own key-dates document for the October/November 2026 series (International centres; UK centres have a separate document), verified 2026-08-29 — view the original PDF."
+      },
+      {
+        "heading": "February/March 2027 key dates",
+        "status": "Next series",
+        "source": "Sourced directly from Cambridge's own key-dates document for the February/March 2027 series (March series monthly calendar; the March series runs only in certain countries, such as India), verified 2026-09-24 — view the original PDF."
+      },
+      {
+        "heading": "May/June 2027 key dates",
+        "status": "Later series",
+        "source": "Sourced directly from Cambridge's own final exam timetables for the May/June 2027 series (final June 2027 exam timetables by administrative zone; only the timetabled weeks are listed, no entry or results dates yet), verified 2026-11-23 — Zone 1, Zone 2, Zone 3, Zone 4, Zone 5, Zone 6."
+      }
+    ],
+    "screenshot": "dev-exam-calendar.png"
+  },
+  {
+    "check": "grade thresholds (dev)",
+    "url": "http://127.0.0.1:4325/grade-thresholds/",
+    "status": 200,
+    "info": {
+      "description": "Verified June 2026 grade thresholds (grade boundaries) for Cambridge IGCSE Chemistry, Physics, Mathematics and AS & A Level Chemistry.",
+      "panels": [
+        {
+          "code": "0620",
+          "series": [
+            "June 2026"
+          ],
+          "rows": 17
+        },
+        {
+          "code": "0625",
+          "series": [
+            "June 2026"
+          ],
+          "rows": 17
+        },
+        {
+          "code": "0580",
+          "series": [
+            "June 2026"
+          ],
+          "rows": 7
+        },
+        {
+          "code": "9701",
+          "series": [
+            "June 2026"
+          ],
+          "rows": 16
+        },
+        {
+          "code": "9702",
+          "series": [
+            "June 2026"
+          ],
+          "rows": 16
+        }
+      ],
+      "options": [
+        "0620",
+        "0625",
+        "0580",
+        "9701",
+        "9702"
+      ]
+    }
+  }
+]
