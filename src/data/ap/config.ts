@@ -42,4 +42,7 @@ export const AP_TRADEMARK_ATTRIBUTION =
  * otherwise and flips this switch. Visible headings use the referential "Marlbridge guide
  * to AP® Chemistry" form the guidelines give as an example.
  */
-export const AP_MARK_IN_METADATA = false;
+export const AP_MARK_IN_METADATA = true;
+// D-527 (owner, 24 Nov 2026): the owner lifted the D-389 restriction on College Board marks in
+// <title>, meta description, Open Graph and JSON-LD, and accepts responsibility for the legal
+// risk. URLs and slugs are unchanged (no move was asked for). The (R) symbol and attribution stay.

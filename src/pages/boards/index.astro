@@ -14,6 +14,10 @@ import Container from '../../components/layout/Container.astro';
 import { BOARDS, boardPath, boardsPath, combinationsForBoard } from '../../utils/academic';
 import { QUALIFICATIONS } from '../../data/academic/qualifications';
 import { routes } from '../../utils/urls/routes';
+import { AP_COURSES } from '../../data/ap/frameworks';
+import { AP_LIBRARY_PUBLIC } from '../../data/ap/config';
+import { apUrls } from '../../utils/ap/library';
+import ApTrademarkNote from '../../components/ap/ApTrademarkNote.astro';
 
 const rows = BOARDS.map((b) => {
   const combos = b.status === 'offered' ? combinationsForBoard(b.slug) : [];
@@ -25,12 +29,12 @@ const rows = BOARDS.map((b) => {
 ---
 <PageLayout
   translationKey="boards"
-  title="Exam Boards: Cambridge, Edexcel, AQA, OCR & IB"
-  description="Cambridge, Pearson Edexcel, AQA, OCR, OxfordAQA and the International Baccalaureate — the awarding bodies Marlbridge teaches, with every qualification and subject combination we publish for each."
+  title="Exam Boards: Cambridge, Edexcel, AQA, OCR, IB & AP"
+  description="Cambridge, Pearson Edexcel, AQA, OCR, OxfordAQA, IB and AP: every board and course Marlbridge teaches, with the qualifications and subjects we publish."
   path={boardsPath()}
   eyebrow="Boards"
   heading="Exam boards"
-  lead="Every board in the Marlbridge academic model, and what we publish for each. A board only links through once it is taught by Marlbridge."
+  lead="Every board and course programme in the Marlbridge academic model, and what we publish for each. A board only links through once it is taught by Marlbridge."
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Boards', href: boardsPath() }]}
 >
   <Section surface="white">
@@ -55,7 +59,21 @@ const rows = BOARDS.map((b) => {
             )}
           </li>
         ))}
+        {AP_LIBRARY_PUBLIC && (
+          <li class="m-0 bg-white p-[clamp(20px,3vw,32px)]">
+            {/* Display-only entry (owner decision, 24 Nov 2026, D-527): AP is not a board in the
+                academic matrix, so it is not in BOARDS; this card links to its own library. */}
+            <a href={apUrls.index} class="group block">
+              <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600 font-semibold">AP® (Advanced Placement®)</h2>
+              <p class="m-0 mt-2 text-[15px] text-ink-mute">
+                {AP_COURSES.length} courses from the College Board's AP® programme in sciences, calculus, statistics, economics, computer science and English, with study guides, revision notes, practice and checklists.
+              </p>
+              <span class="mt-4 inline-block border-b border-gold-500 text-[14px] font-medium text-navy-800 group-hover:text-gold-600">View AP® courses →</span>
+            </a>
+          </li>
+        )}
       </ul>
     </Container>
   </Section>
+  {AP_LIBRARY_PUBLIC && <ApTrademarkNote />}
 </PageLayout>
