@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 818" width="900" height="818" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="818" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Active transport</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Schematic</text>
+<rect x="60" y="130" width="780" height="210" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<rect x="60" y="370" width="780" height="190" fill="#dce9e7" stroke="#1e2a44" stroke-width="2"/>
+<rect x="60" y="340" width="780" height="30" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="78" y="362" font-size="16" font-weight="700" fill="#1e2a44" text-anchor="start">cell membrane</text>
+<text x="78" y="162" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">More concentrated solution</text>
+<text x="78" y="544" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="start">More dilute solution</text>
+<circle cx="120" cy="220" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="190" cy="260" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="260" cy="210" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="330" cy="270" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="520" cy="220" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="600" cy="270" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="690" cy="215" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="760" cy="270" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="150" cy="305" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="430" cy="240" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="640" cy="315" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="300" cy="320" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="160" cy="480" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="300" cy="420" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="420" cy="520" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="470" y1="530" x2="470" y2="170" stroke="#b5602e" stroke-width="7" marker-end="url(#ahR)"/>
+<rect x="500" y="400" width="320" height="104" rx="14" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/>
+<text x="520" y="432" font-size="19" font-weight="700" fill="#b5602e" text-anchor="start">Against the gradient</text>
+<text x="520" y="460" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">dilute → concentrated</text>
+<text x="520" y="486" font-size="17" font-weight="700" fill="#1e2a44" text-anchor="start">needs energy from respiration</text>
+<rect x="60" y="596" width="380" height="150" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="80" y="632" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Root hair cells</text>
+<text x="80" y="662" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">mineral ions: very dilute in the soil,</text><text x="80" y="686" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">more concentrated in the cell</text>
+<text x="80" y="724" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">for healthy plant growth</text>
+<rect x="460" y="596" width="380" height="150" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="480" y="632" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Gut</text>
+<text x="480" y="662" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">sugar molecules: lower concentration</text><text x="480" y="686" font-size="17" font-weight="400" fill="#1e2a44" text-anchor="start">in the gut, higher in the blood</text>
+<text x="480" y="724" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">cells use the sugar for respiration</text>
+<text x="450" y="788" font-size="16" font-weight="400" fill="#4a5568" text-anchor="middle">Less respiration means less active transport (e.g. roots in waterlogged soil get little oxygen).</text>
+</svg>
