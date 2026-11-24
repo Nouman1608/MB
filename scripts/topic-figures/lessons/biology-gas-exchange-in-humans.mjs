@@ -58,7 +58,7 @@ function breathing() {
   o.push(t(736, 412, '3 Bronchi', { size: 21, weight: 700 }), lead(730, 406, cx + 62, 466));
   o.push(t(736, 478, '4 Bronchioles', { size: 21, weight: 700 }), lead(730, 472, cx + 112, 530));
   o.push(t(736, 544, '5 Alveoli', { size: 21, weight: 700 }), lead(730, 538, cx + 170, 570));
-  o.push(t(736, 744, 'Diaphragm', { size: 21, weight: 700 }), lead(730, 738, cx + 290, 714));
+  o.push(t(772, 760, 'Diaphragm', { size: 21, weight: 700 }), lead(766, 752, cx + 296, 718));
   o.push(t(140, 380, 'Ribs', { size: 21, weight: 700, anchor: 'end' }), lead(146, 374, cx - 250, 390));
   o.push(t(140, 560, 'Intercostal', { size: 21, weight: 700, anchor: 'end' }), t(140, 586, 'muscles', { size: 21, weight: 700, anchor: 'end' }), lead(146, 566, cx - 262, 548));
   o.push(t(cx, 800, 'Numbers 1 to 5: the route air takes', { size: 20, fill: C.muted, anchor: 'middle' }));

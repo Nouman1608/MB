@@ -350,7 +350,7 @@ function conical() {
   o.push(fa(sxp, syp, tx, ty, C.tealDark, 5, 32));
   o.push(fa(tx, ty, tx, syp, C.ink, 5, 30));
   o.push(t(760, 640, 'T', { size: 21, weight: 700, fill: C.tealDark }));
-  o.push(t(tx - 12, ty + 52, 'mg', { size: 20, weight: 700, anchor: 'end' }));
+  o.push(t(tx - 16, ty + 40, 'mg', { size: 20, weight: 700, anchor: 'end' }));
   o.push(h(660, syp + 34, 'mrω² = 11.3 N', { size: 19, weight: 700, fill: C.olive }));
   o.push(t(W / 2, 848, 'T = mLω² = 12 N; cosθ = g/(Lω²) = 0.327', { size: 22, weight: 700, fill: C.tealDark, anchor: 'middle' }));
   o.push(t(W / 2, 888, 'v = rω is tangent; a = rω² points to the centre', { size: 19, fill: C.muted, anchor: 'middle' }));

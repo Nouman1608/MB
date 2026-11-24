@@ -17,7 +17,7 @@ const num = (x, y, n, fill = C.ink) => `<circle cx="${x}" cy="${y}" r="18" fill=
 
 function antibioticResistance() {
   const out = [];
-  const others = [[80, 30, 20], [170, 70, -25], [240, 40, 10], [300, 75, 30], [380, 35, -15], [390, 85, 35]];
+  const others = [[80, 30, 20], [145, 80, -25], [275, 32, 10], [310, 88, 30], [380, 35, -15], [390, 85, 35]];
   const res0 = [215, 55];
   const dish = (y) => out.push(`<rect x="30" y="${y}" width="440" height="140" rx="16" fill="#fff" stroke="${C.ink}" stroke-width="3"/>`);
   const steps = [

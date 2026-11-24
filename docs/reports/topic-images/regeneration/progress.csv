@@ -246,7 +246,7 @@ igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp,neutral-o
 a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp,neutral-ok,,generic taxonomic hierarchy
 igcse-business-people-in-business--05-leadership-styles.webp,neutral-ok,,"leadership styles, no board marks"
 igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp,neutral-ok,,rounding number line; generic
-igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp,to-regenerate,mathematics-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp,marks: Mixed; major / minor arc:; Extended. 'Mixed' tier badge top right (Core+Extended mix); 'major / minor arc:' caption exists only to introduce the 'Extended' tier badge below it
+igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp,regenerated,mathematics-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp,removed: Mixed; major / minor arc:; Extended
 igcse-mathematics-geometry--04-angle-at-centre.webp,regenerated,mathematics-geometry--04-angle-at-centre.webp,removed: Extended
 igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp,regenerated,mathematics-circle-theorems-ii--02-chord-bisector.webp,removed: Extended
 igcse-mathematics-geometry--05-cyclic-quadrilateral.webp,regenerated,mathematics-geometry--05-cyclic-quadrilateral.webp,removed: Extended
@@ -283,7 +283,7 @@ igcse-mathematics-statistics--03-grouped-mean-midpoints.webp,regenerated,mathema
 igcse-mathematics-statistics--04-correlation-types.webp,neutral-ok,,generic correlation types
 a-level-biology-9700-genetic-technology--02-recombinant-plasmid.webp,regenerated,biology-genetic-technology--02-recombinant-plasmid.webp,removed: All boards
 igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp,neutral-ok,,"job/batch/flow, no board marks"
-igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp,to-regenerate,biology-variation-and-selection--06-antibiotic-resistance.webp,marks: Extended. tier badge next to title
+igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp,regenerated,biology-variation-and-selection--06-antibiotic-resistance.webp,removed: Extended
 igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--05-ribbon-division.webp,neutral-ok,,dividing by a fraction; generic
 a-level-biology-9700-control-and-coordination--08-sarcomere.webp,regenerated,biology-control-and-coordination--08-sarcomere.webp,removed: All boards
 igcse-biology-0610-transport-in-animals--02-heart-structure.webp,regenerated,biology-transport-in-animals--02-heart-structure.webp,removed: Extended; = Extended label
@@ -319,7 +319,7 @@ a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosom
 a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp,regenerated,biology-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp,removed: Mutation types: Cambridge 9700
 a-level-maths-9709-mechanics--08-amth-forces-moments.webp,regenerated,mathematics-mechanics--08-amth-forces-moments.webp,"removed: OCR, Edexcel IAL"
 igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp,neutral-ok,,generic collecting like terms
-igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp,to-regenerate,mathematics-graphs-in-practical-situations--05-tangent-speed.webp,marks: Extended. tier pill by title
+igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp,regenerated,mathematics-graphs-in-practical-situations--05-tangent-speed.webp,removed: Extended
 igcse-mathematics-0580-sets--03-unknown-overlap.webp,neutral-ok,,"Venn unknown overlap, no board marks"
 igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp,regenerated,physics-nuclear-physics--02-alpha-scattering.webp,removed: EXTENDED
 igcse-biology-0610-enzymes--01-enzyme-action.webp,regenerated,biology-enzymes--01-enzyme-action.webp,removed: Extended
@@ -351,7 +351,7 @@ igcse-mathematics-mensuration--03-arc-and-sector.webp,regenerated,mathematics-me
 igcse-mathematics-mensuration--04-compound-shape.webp,neutral-ok,,generic compound shape
 a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp,neutral-ok,,"mitosis stages, no board marks"
 a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp,neutral-ok,,meiosis halves chromosome number; generic
-a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp,to-regenerate,biology-the-mitotic-cell-cycle--07-non-disjunction.webp,marks: AQA only. board badge over 'Fails in meiosis I' section
+a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp,regenerated,biology-the-mitotic-cell-cycle--07-non-disjunction.webp,removed: AQA only
 a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp,neutral-ok,,"chromosome structure, no board marks"
 igcse-mathematics-transformations-and-vectors--06-enlargement-negative.webp,regenerated,mathematics-transformations-and-vectors--06-enlargement-negative.webp,removed: Extended
 a-level-biology-9700-gas-exchange--09-cholera-toxin.webp,regenerated,biology-gas-exchange--09-cholera-toxin.webp,removed: OxfordAQA
@@ -411,7 +411,7 @@ igcse-mathematics-0580-statistical-charts-and-diagrams--02-composite-and-dual-ba
 igcse-mathematics-0580-statistical-charts-and-diagrams--03-pictogram.webp,neutral-ok,,generic pictogram
 a-level-biology-9700-photosynthesis--01-chloroplast-structure.webp,neutral-ok,,generic chloroplast
 a-level-biology-9700-photosynthesis--03-chromatography-rf.webp,neutral-ok,,"chromatography Rf, no board marks"
-igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp,to-regenerate,biology-biotechnology-and-genetic-modification--06-gm-steps.webp,marks: Extended. tier badge top left
+igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp,regenerated,biology-biotechnology-and-genetic-modification--06-gm-steps.webp,removed: Extended
 igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp,regenerated,mathematics-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp,removed: Extended
 igcse-mathematics-0580-functions--03-domain-range-graphs.webp,neutral-ok,,"domain and range graphs, no board marks"
 igcse-mathematics-0580-functions--06-composite-order.webp,neutral-ok,,generic composite functions
@@ -472,7 +472,7 @@ igcse-business-0264-organisation-and-management--11-burdock-chart.webp,neutral-o
 igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp,regenerated,mathematics-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp,removed: Extended
 igcse-mathematics-number--01-types-of-number.webp,neutral-ok,,"types of number Venn, no board marks"
 igcse-mathematics-0580-proportion--03-square-the-change.webp,regenerated,mathematics-proportion--03-square-the-change.webp,removed: Extended
-igcse-mathematics-0580-sets--05-three-set-venn.webp,to-regenerate,mathematics-sets--05-three-set-venn.webp,marks: Extended. tier pill by title
+igcse-mathematics-0580-sets--05-three-set-venn.webp,regenerated,mathematics-sets--05-three-set-venn.webp,removed: Extended
 igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp,regenerated,biology-coordination-and-response--04-pupil-reflex.webp,removed: Extended
 igcse-mathematics-0580-rates-time-and-money--03-across-midnight.webp,neutral-ok,,"time across midnight, no board marks"
 igcse-physics-0625-electricity-and-magnetism--05-dc-motor.webp,regenerated,physics-electricity-and-magnetism--05-dc-motor.webp,removed: Extended
@@ -515,18 +515,18 @@ igcse-biology-0610-gas-exchange-in-humans--06-exercise-breathing.webp,neutral-ok
 igcse-physics-waves--05-lens-focus.webp,regenerated,physics-waves--05-lens-focus.webp,removed: Core
 igcse-physics-waves--06-lens-image.webp,regenerated,physics-waves--06-lens-image.webp,removed: Core
 igcse-mathematics-0580-classifying-and-interpreting-data--04-two-way-table.webp,neutral-ok,,"two-way table, no board marks"
-igcse-mathematics-0580-graphs-in-practical-situations--06-speed-time-area.webp,to-regenerate,mathematics-graphs-in-practical-situations--06-speed-time-area.webp,marks: Extended. tier pill 'Extended'
+igcse-mathematics-0580-graphs-in-practical-situations--06-speed-time-area.webp,regenerated,mathematics-graphs-in-practical-situations--06-speed-time-area.webp,removed: Extended
 igcse-biology-0610-diseases-and-immunity--02-defences.webp,neutral-ok,,generic body defences
 igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp,regenerated,biology-diseases-and-immunity--05-vaccination-memory.webp,removed: Extended
 igcse-mathematics-0580-classifying-and-interpreting-data--01-data-types.webp,neutral-ok,,"data types tree, no board marks"
 igcse-mathematics-0580-functions--02-mapping-domain-range.webp,neutral-ok,,mapping diagram domain/range; generic
-igcse-physics-motion-forces-and-energy--08-sankey-diagram.webp,to-regenerate,physics-motion-forces-and-energy--08-sankey-diagram.webp,marks: Extended. Extended pill top left
+igcse-physics-motion-forces-and-energy--08-sankey-diagram.webp,regenerated,physics-motion-forces-and-energy--08-sankey-diagram.webp,removed: Extended
 igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp,neutral-ok,,"merit and demerit goods, no board marks"
 igcse-biology-0610-reproduction--02-flower-parts.webp,neutral-ok,,generic flower parts
 a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp,regenerated,biology-factors-that-affect-enzyme-action--04-initial-rate.webp,removed: Cambridge 9700 only
 a-level-biology-9700-gas-exchange--02-mucus-escalator.webp,neutral-ok,,generic mucus escalator
 igcse-mathematics-mensuration--01-unit-conversion.webp,neutral-ok,,"squared/cubed units, no board marks"
-igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp,to-regenerate,physics-motion-forces-and-energy--07-stretching-a-spring.webp,marks: Extended. Extended pill in footer caption
+igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp,regenerated,physics-motion-forces-and-energy--07-stretching-a-spring.webp,removed: Extended
 a-level-biology-9700-transport-in-mammals--02-tissue-fluid.webp,regenerated,biology-transport-in-mammals--02-tissue-fluid.webp,removed: Core: all boards
 a-level-biology-9700-transport-in-mammals--03-co2-transport.webp,regenerated,biology-transport-in-mammals--03-co2-transport.webp,removed: Cambridge 9700
 igcse-biology-0610-drugs--02-antibiotic-treatment.webp,neutral-ok,,generic antibiotic treatment
@@ -656,5 +656,5 @@ a-level-biology-9700-cell-membranes-and-transport--02-cell-signalling.webp,regen
 a-level-biology-9700-cell-membranes-and-transport--08-potato-water-potential.webp,regenerated,biology-cell-membranes-and-transport--08-potato-water-potential.webp,removed: Cambridge 9700 only; Water potential of potato tissue; Tissue ψ ≈ −680 kPa
 igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--03-waddell-equation-steps.webp,neutral-ok,,"accounting equation steps, fictional firm; generic"
 igcse-biology-0610-diseases-and-immunity--06-herd-immunity.webp,regenerated,biology-diseases-and-immunity--06-herd-immunity.webp,removed: Extended
-igcse-mathematics-0580-sets--04-subset-or-not.webp,to-regenerate,mathematics-sets--04-subset-or-not.webp,marks: Extended. tier pill top-right
+igcse-mathematics-0580-sets--04-subset-or-not.webp,regenerated,mathematics-sets--04-subset-or-not.webp,removed: Extended
 igcse-business-0264-business-activity-and-economic-sectors--02-sector-and-ownership.webp,neutral-ok,,generic sector/ownership grid

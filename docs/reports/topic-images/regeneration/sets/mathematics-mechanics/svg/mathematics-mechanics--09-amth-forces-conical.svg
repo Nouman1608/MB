@@ -37,7 +37,7 @@
 <line x1="850" y1="700" x2="654.2325497262239" y2="632.0877517634334" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="624,621.6 660.7349558195525,613.3435709331746 647.7301436328952,650.8319325936922" fill="#2e6b62"/>
 <line x1="624" y1="621.6" x2="624" y2="670" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="624,700 605.4,670 642.6,670" fill="#1e2a44"/>
 <text x="760" y="640" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">T</text>
-<text x="612" y="673.6" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">mg</text>
+<text x="608" y="661.6" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">mg</text>
 <text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="660" y="734" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">mrω² = 11.3 N</text>
 <text x="450" y="848" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">T = mLω² = 12 N; cosθ = g/(Lω²) = 0.327</text>
 <text x="450" y="888" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">v = rω is tangent; a = rω² points to the centre</text>

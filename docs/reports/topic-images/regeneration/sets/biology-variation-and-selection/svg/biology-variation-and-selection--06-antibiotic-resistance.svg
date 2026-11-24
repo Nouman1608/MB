@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1170" width="900" height="1170" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1170" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Antibiotic resistance arises</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Selection, step by step</text>
+<rect x="30" y="130" width="440" height="140" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="54" y="158" width="52" height="24" rx="12" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5" transform="rotate(20 80 170)"/>
+<rect x="119" y="208" width="52" height="24" rx="12" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5" transform="rotate(-25 145 220)"/>
+<rect x="249" y="160" width="52" height="24" rx="12" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5" transform="rotate(10 275 172)"/>
+<rect x="284" y="216" width="52" height="24" rx="12" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5" transform="rotate(30 310 228)"/>
+<rect x="354" y="163" width="52" height="24" rx="12" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5" transform="rotate(-15 380 175)"/>
+<rect x="364" y="213" width="52" height="24" rx="12" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5" transform="rotate(35 390 225)"/>
+<rect x="189" y="183" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(0 215 195)"/><g transform="rotate(0 215 195)"><line x1="209" y1="183" x2="209" y2="207" stroke="#1e2a44" stroke-width="2.5"/><line x1="221" y1="183" x2="221" y2="207" stroke="#1e2a44" stroke-width="2.5"/></g>
+<circle cx="510" cy="188" r="18" fill="#1e2a44"/><text x="510" y="195" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="540" y="182" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">A random mutation:</text>
+<text x="540" y="210" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">one bacterium is resistant</text>
+<line x1="250" y1="272" x2="250" y2="316" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="30" y="320" width="440" height="140" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="54" y="348" width="52" height="24" rx="12" fill="#fff" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 4" transform="rotate(20 80 360)"/><path d="M71 351 L89 369 M89 351 L71 369" stroke="#b5602e" stroke-width="3"/>
+<rect x="119" y="398" width="52" height="24" rx="12" fill="#fff" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 4" transform="rotate(-25 145 410)"/><path d="M136 401 L154 419 M154 401 L136 419" stroke="#b5602e" stroke-width="3"/>
+<rect x="249" y="350" width="52" height="24" rx="12" fill="#fff" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 4" transform="rotate(10 275 362)"/><path d="M266 353 L284 371 M284 353 L266 371" stroke="#b5602e" stroke-width="3"/>
+<rect x="284" y="406" width="52" height="24" rx="12" fill="#fff" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 4" transform="rotate(30 310 418)"/><path d="M301 409 L319 427 M319 409 L301 427" stroke="#b5602e" stroke-width="3"/>
+<rect x="354" y="353" width="52" height="24" rx="12" fill="#fff" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 4" transform="rotate(-15 380 365)"/><path d="M371 356 L389 374 M389 356 L371 374" stroke="#b5602e" stroke-width="3"/>
+<rect x="364" y="403" width="52" height="24" rx="12" fill="#fff" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 4" transform="rotate(35 390 415)"/><path d="M381 406 L399 424 M399 406 L381 424" stroke="#b5602e" stroke-width="3"/>
+<rect x="189" y="373" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(0 215 385)"/><g transform="rotate(0 215 385)"><line x1="209" y1="373" x2="209" y2="397" stroke="#1e2a44" stroke-width="2.5"/><line x1="221" y1="373" x2="221" y2="397" stroke="#1e2a44" stroke-width="2.5"/></g>
+<circle cx="510" cy="378" r="18" fill="#1e2a44"/><text x="510" y="385" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="540" y="372" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Antibiotic used:</text>
+<text x="540" y="400" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">non-resistant bacteria die</text>
+<line x1="250" y1="462" x2="250" y2="506" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="30" y="510" width="440" height="140" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="224" y="568" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(0 250 580)"/><g transform="rotate(0 250 580)"><line x1="244" y1="568" x2="244" y2="592" stroke="#1e2a44" stroke-width="2.5"/><line x1="256" y1="568" x2="256" y2="592" stroke="#1e2a44" stroke-width="2.5"/></g>
+<circle cx="510" cy="568" r="18" fill="#1e2a44"/><text x="510" y="575" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="540" y="562" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">The survivor has</text>
+<text x="540" y="590" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">less competition</text>
+<line x1="250" y1="652" x2="250" y2="696" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="30" y="700" width="440" height="140" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="124" y="748" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(0 150 760)"/><g transform="rotate(0 150 760)"><line x1="144" y1="748" x2="144" y2="772" stroke="#1e2a44" stroke-width="2.5"/><line x1="156" y1="748" x2="156" y2="772" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="204" y="728" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(-15 230 740)"/><g transform="rotate(-15 230 740)"><line x1="224" y1="728" x2="224" y2="752" stroke="#1e2a44" stroke-width="2.5"/><line x1="236" y1="728" x2="236" y2="752" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="264" y="768" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(20 290 780)"/><g transform="rotate(20 290 780)"><line x1="284" y1="768" x2="284" y2="792" stroke="#1e2a44" stroke-width="2.5"/><line x1="296" y1="768" x2="296" y2="792" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="224" y="788" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(5 250 800)"/><g transform="rotate(5 250 800)"><line x1="244" y1="788" x2="244" y2="812" stroke="#1e2a44" stroke-width="2.5"/><line x1="256" y1="788" x2="256" y2="812" stroke="#1e2a44" stroke-width="2.5"/></g>
+<circle cx="510" cy="758" r="18" fill="#1e2a44"/><text x="510" y="765" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="540" y="752" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">It reproduces and passes</text>
+<text x="540" y="780" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">on the resistance allele</text>
+<line x1="250" y1="842" x2="250" y2="886" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="30" y="890" width="440" height="140" rx="16" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="54" y="918" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(15 80 930)"/><g transform="rotate(15 80 930)"><line x1="74" y1="918" x2="74" y2="942" stroke="#1e2a44" stroke-width="2.5"/><line x1="86" y1="918" x2="86" y2="942" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="74" y="978" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(0 100 990)"/><g transform="rotate(0 100 990)"><line x1="94" y1="978" x2="94" y2="1002" stroke="#1e2a44" stroke-width="2.5"/><line x1="106" y1="978" x2="106" y2="1002" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="144" y="958" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(-20 170 970)"/><g transform="rotate(-20 170 970)"><line x1="164" y1="958" x2="164" y2="982" stroke="#1e2a44" stroke-width="2.5"/><line x1="176" y1="958" x2="176" y2="982" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="204" y="918" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(0 230 930)"/><g transform="rotate(0 230 930)"><line x1="224" y1="918" x2="224" y2="942" stroke="#1e2a44" stroke-width="2.5"/><line x1="236" y1="918" x2="236" y2="942" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="274" y="928" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(30 300 940)"/><g transform="rotate(30 300 940)"><line x1="294" y1="928" x2="294" y2="952" stroke="#1e2a44" stroke-width="2.5"/><line x1="306" y1="928" x2="306" y2="952" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="284" y="978" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(35 310 990)"/><g transform="rotate(35 310 990)"><line x1="304" y1="978" x2="304" y2="1002" stroke="#1e2a44" stroke-width="2.5"/><line x1="316" y1="978" x2="316" y2="1002" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="344" y="968" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(20 370 980)"/><g transform="rotate(20 370 980)"><line x1="364" y1="968" x2="364" y2="992" stroke="#1e2a44" stroke-width="2.5"/><line x1="376" y1="968" x2="376" y2="992" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="384" y="928" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(-15 410 940)"/><g transform="rotate(-15 410 940)"><line x1="404" y1="928" x2="404" y2="952" stroke="#1e2a44" stroke-width="2.5"/><line x1="416" y1="928" x2="416" y2="952" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="404" y="988" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(10 430 1000)"/><g transform="rotate(10 430 1000)"><line x1="424" y1="988" x2="424" y2="1012" stroke="#1e2a44" stroke-width="2.5"/><line x1="436" y1="988" x2="436" y2="1012" stroke="#1e2a44" stroke-width="2.5"/></g>
+<rect x="174" y="988" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(-10 200 1000)"/><g transform="rotate(-10 200 1000)"><line x1="194" y1="988" x2="194" y2="1012" stroke="#1e2a44" stroke-width="2.5"/><line x1="206" y1="988" x2="206" y2="1012" stroke="#1e2a44" stroke-width="2.5"/></g>
+<circle cx="510" cy="948" r="18" fill="#8a6d0d"/><text x="510" y="955" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="540" y="942" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">A resistant strain forms,</text>
+<text x="540" y="970" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">quickly: bacteria divide fast</text>
+<rect x="290" y="284" width="52" height="22" rx="11" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<text x="354" y="302" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">antibiotic</text>
+<rect x="44" y="1118" width="52" height="24" rx="12" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5" transform="rotate(0 70 1130)"/>
+<text x="108" y="1137" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Not resistant</text>
+<rect x="334" y="1118" width="52" height="24" rx="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5" transform="rotate(0 360 1130)"/><g transform="rotate(0 360 1130)"><line x1="354" y1="1118" x2="354" y2="1142" stroke="#1e2a44" stroke-width="2.5"/><line x1="366" y1="1118" x2="366" y2="1142" stroke="#1e2a44" stroke-width="2.5"/></g>
+<text x="398" y="1137" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Resistant</text>
+<rect x="594" y="1118" width="52" height="24" rx="12" fill="#fff" stroke="#1e2a44" stroke-width="2" stroke-dasharray="4 4" transform="rotate(0 620 1130)"/><path d="M611 1121 L629 1139 M629 1121 L611 1139" stroke="#b5602e" stroke-width="3"/>
+<text x="658" y="1137" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Killed</text>
+</svg>

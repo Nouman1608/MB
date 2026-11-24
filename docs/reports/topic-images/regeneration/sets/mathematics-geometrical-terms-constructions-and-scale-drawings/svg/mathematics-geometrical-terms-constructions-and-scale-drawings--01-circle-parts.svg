@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980" width="900" height="980" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="980" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Parts of a circle</text>
+
+<circle cx="450" cy="320" r="170" fill="#dfeceb" stroke="#1e2a44" stroke-width="4"/>
+<line x1="329.58405421207704" y1="200" x2="570.415945787923" y2="200" stroke="#8a6d0d" stroke-width="5"/>
+<text x="450" y="244" font-size="23" font-weight="700" fill="#8a6d0d" text-anchor="middle">chord</text>
+<line x1="280" y1="320" x2="620" y2="320" stroke="#1e2a44" stroke-width="4"/>
+<text x="450" y="306" font-size="20" font-weight="400" fill="#4a5a78" text-anchor="middle">centre</text>
+<circle cx="450" cy="320" r="9" fill="#1e2a44"/>
+<text x="302" y="358" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">diameter</text>
+<line x1="450" y1="320" x2="529.8" y2="470.1" stroke="#2e6b62" stroke-width="4.5"/>
+<text x="554" y="390" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">radius</text>
+<path d="M280 335 A170 170 0 0 0 352.5 459.3" fill="none" stroke="#c0643a" stroke-width="9"/>
+<line x1="302.8" y1="405" x2="86" y2="522" stroke="#4a5a78" stroke-width="2.5"/>
+<text x="40" y="532" font-size="23" font-weight="700" fill="#c0643a" text-anchor="start">arc</text>
+<line x1="300" y1="490" x2="600" y2="490" stroke="#c0643a" stroke-width="5"/>
+<circle cx="450" cy="490" r="8" fill="#c0643a"/>
+<text x="450" y="528" font-size="23" font-weight="700" fill="#c0643a" text-anchor="middle">tangent</text>
+<line x1="601.2" y1="235" x2="650" y2="235" stroke="#4a5a78" stroke-width="2.5"/>
+<text x="656" y="243" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">circumference</text>
+<line x1="40" y1="600" x2="860" y2="600" stroke="#c9d6d4" stroke-width="2.5"/>
+<circle cx="240" cy="760" r="110" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/>
+<path d="M240 760 L330.1 696.9 A110 110 0 0 1 330.1 823.1 Z" fill="#d4b02e" stroke="#1e2a44" stroke-width="3.5" stroke-linejoin="round"/>
+<text x="240" y="912" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">sector</text>
+<text x="240" y="944" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">2 radii + arc</text>
+<circle cx="660" cy="760" r="110" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/>
+<path d="M564.7 705 A110 110 0 0 1 755.3 705 Z" fill="#6fa7a0" stroke="#1e2a44" stroke-width="3.5" stroke-linejoin="round"/>
+<text x="660" y="912" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">segment</text>
+<text x="660" y="944" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">chord + arc</text>
+</svg>

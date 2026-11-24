@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1044" width="900" height="1044" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1044" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Genetic modification: six steps</text>
+
+<circle cx="330" cy="106" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="352" y="113" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">= human gene</text>
+<rect x="30" y="130" width="840" height="170" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="68" cy="168" r="18" fill="#1e2a44"/><text x="68" y="175" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">a</text>
+<text x="100" y="174" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Cut out the</text><text x="100" y="202" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">human gene</text>
+<text x="100" y="236" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">restriction enzymes</text>
+<line x1="430" y1="180" x2="840" y2="180" stroke="#1e2a44" stroke-width="4"/><line x1="430" y1="192" x2="840" y2="192" stroke="#1e2a44" stroke-width="4"/>
+<line x1="520" y1="180" x2="640" y2="180" stroke="#d4b02e" stroke-width="4"/><line x1="520" y1="192" x2="640" y2="192" stroke="#d4b02e" stroke-width="4"/>
+<line x1="520" y1="166" x2="520" y2="206" stroke="#b5602e" stroke-width="3" stroke-dasharray="6 4"/>
+<line x1="640" y1="166" x2="640" y2="206" stroke="#b5602e" stroke-width="3" stroke-dasharray="6 4"/>
+<text x="580" y="158" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">gene</text>
+<line x1="580" y1="212" x2="580" y2="230" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/><polygon points="580,244 571.6,230 588.4,230" fill="#1e2a44"/>
+<line x1="500" y1="258" x2="520" y2="258" stroke="#b5602e" stroke-width="4"/><line x1="520" y1="258" x2="640" y2="258" stroke="#d4b02e" stroke-width="4"/>
+<line x1="532" y1="270" x2="652" y2="270" stroke="#d4b02e" stroke-width="4"/><line x1="652" y1="270" x2="672" y2="270" stroke="#b5602e" stroke-width="4"/>
+<line x1="684" y1="264" x2="700" y2="264" stroke="#1e2a44" stroke-width="2"/>
+<text x="706" y="271" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">sticky ends</text>
+<rect x="30" y="316" width="840" height="150" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="68" cy="354" r="18" fill="#1e2a44"/><text x="68" y="361" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">b</text>
+<text x="100" y="360" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Cut the plasmid</text><text x="100" y="388" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">with the same</text><text x="100" y="416" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">enzymes</text>
+<path d="M587 351.2346281956403 A54 54 0 1 1 533 351.2346281956403" fill="none" stroke="#1e2a44" stroke-width="4"/><path d="M582.5 359.02885682970026 A45 45 0 1 1 537.5 359.02885682970026" fill="none" stroke="#1e2a44" stroke-width="4"/><path d="M533 351.2346281956403 A54 54 0 0 1 546.0237715644639 345.8400053803903" fill="none" stroke="#b5602e" stroke-width="5"/><path d="M571.6468570296134 354.53333781699195 A45 45 0 0 1 582.5 359.02885682970026" fill="none" stroke="#b5602e" stroke-width="5"/>
+<path d="M573.9762284355361 345.8400053803903 L656 356" fill="none" stroke="#1e2a44" stroke-width="2" stroke-dasharray="3 4"/>
+<text x="662" y="362" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">sticky ends</text>
+<rect x="30" y="482" width="840" height="150" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="68" cy="520" r="18" fill="#1e2a44"/><text x="68" y="527" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">c</text>
+<text x="100" y="526" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Join the gene in</text><text x="100" y="554" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">with DNA ligase</text>
+<circle cx="560" cy="564" r="54" fill="none" stroke="#1e2a44" stroke-width="4"/><circle cx="560" cy="564" r="45" fill="none" stroke="#1e2a44" stroke-width="4"/><path d="M525.5854138189372 514.8508773426605 A60 60 0 0 1 594.4145861810628 514.8508773426605" fill="none" stroke="#d4b02e" stroke-width="7"/><path d="M534 518.9666790032092 A52 52 0 0 1 586 518.9666790032092" fill="none" stroke="#d4b02e" stroke-width="5"/>
+<line x1="614" y1="564" x2="650" y2="564" stroke="#1e2a44" stroke-width="2"/>
+<text x="658" y="558" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">recombinant</text>
+<text x="658" y="584" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">plasmid</text>
+<rect x="30" y="648" width="840" height="120" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="68" cy="686" r="18" fill="#1e2a44"/><text x="68" y="693" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">d</text>
+<text x="100" y="692" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Put plasmids</text><text x="100" y="720" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">into bacteria</text>
+<circle cx="480" cy="710" r="26" fill="none" stroke="#1e2a44" stroke-width="2.4"/><circle cx="480" cy="710" r="20.6" fill="none" stroke="#1e2a44" stroke-width="2.4"/><path d="M463.022137484009 685.7530994890459 A29.6 29.6 0 0 1 496.977862515991 685.7530994890459" fill="none" stroke="#d4b02e" stroke-width="4.2"/><path d="M467.59999999999997 688.522569986146 A24.8 24.8 0 0 1 492.4 688.5225699861459" fill="none" stroke="#d4b02e" stroke-width="3"/>
+<line x1="514" y1="710" x2="540" y2="710" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="556,710 540,719.6 540,700.4" fill="#1e2a44"/>
+<rect x="560" y="666" width="260" height="88" rx="44" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="640" cy="710" r="26" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="750" cy="710" r="22" fill="none" stroke="#1e2a44" stroke-width="2.2"/><circle cx="750" cy="710" r="17.05" fill="none" stroke="#1e2a44" stroke-width="2.2"/><path d="M735.4885161603186 689.2754532794885 A25.3 25.3 0 0 1 764.5114838396814 689.2754532794885" fill="none" stroke="#d4b02e" stroke-width="3.8500000000000005"/><path d="M739.55 691.9000690609053 A20.9 20.9 0 0 1 760.45 691.9000690609053" fill="none" stroke="#d4b02e" stroke-width="2.75"/>
+<rect x="30" y="784" width="840" height="120" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="68" cy="822" r="18" fill="#1e2a44"/><text x="68" y="829" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">e</text>
+<text x="100" y="828" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Bacteria multiply</text>
+<text x="100" y="862" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">e.g. in a fermenter</text>
+<rect x="440" y="831" width="60" height="26" rx="13" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/><circle cx="470" cy="844" r="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.2"/>
+<line x1="504" y1="844" x2="532" y2="844" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/><polygon points="548,844 532,853.6 532,834.4" fill="#2e6b62"/>
+<rect x="560" y="815" width="60" height="26" rx="13" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/><circle cx="590" cy="828" r="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.2"/>
+<rect x="560" y="849" width="60" height="26" rx="13" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/><circle cx="590" cy="862" r="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.2"/>
+<line x1="626" y1="844" x2="654" y2="844" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/><polygon points="670,844 654,853.6 654,834.4" fill="#2e6b62"/>
+<rect x="682" y="815" width="60" height="26" rx="13" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/><circle cx="712" cy="828" r="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.2"/>
+<rect x="750" y="815" width="60" height="26" rx="13" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/><circle cx="780" cy="828" r="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.2"/>
+<rect x="682" y="849" width="60" height="26" rx="13" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/><circle cx="712" cy="862" r="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.2"/>
+<rect x="750" y="849" width="60" height="26" rx="13" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/><circle cx="780" cy="862" r="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.2"/>
+<rect x="30" y="920" width="840" height="98" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="68" cy="958" r="18" fill="#1e2a44"/><text x="68" y="965" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">f</text>
+<text x="100" y="964" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Bacteria make</text><text x="100" y="992" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">the human protein</text>
+<rect x="450" y="936" width="160" height="66" rx="33" fill="#b5d3cf" stroke="#2e6b62" stroke-width="3"/>
+<circle cx="530" cy="969" r="20" fill="none" stroke="#1e2a44" stroke-width="2"/><circle cx="530" cy="969" r="15.5" fill="none" stroke="#1e2a44" stroke-width="2"/><path d="M516.8077419639259 950.1595029813532 A23 23 0 0 1 543.192258036074 950.1595029813532" fill="none" stroke="#d4b02e" stroke-width="3.5"/><path d="M520.5 952.5455173280957 A19 19 0 0 1 539.5 952.5455173280957" fill="none" stroke="#d4b02e" stroke-width="2.5"/>
+<line x1="614" y1="969" x2="634" y2="969" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="650,969 634,978.6 634,959.4" fill="#1e2a44"/>
+<circle cx="664" cy="969" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="690" cy="969" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="716" cy="969" r="11" fill="#8a6d0d" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="742" cy="969" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="1.5"/>
+<circle cx="768" cy="969" r="11" fill="#b5602e" stroke="#1e2a44" stroke-width="1.5"/>
+</svg>

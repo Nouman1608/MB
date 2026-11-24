@@ -105,8 +105,8 @@
 <line x1="730" y1="472" x2="562" y2="530" stroke="#1e2a44" stroke-width="2"/><circle cx="562" cy="530" r="5" fill="#1e2a44"/>
 <text x="736" y="544" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">5 Alveoli</text>
 <line x1="730" y1="538" x2="620" y2="570" stroke="#1e2a44" stroke-width="2"/><circle cx="620" cy="570" r="5" fill="#1e2a44"/>
-<text x="736" y="744" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Diaphragm</text>
-<line x1="730" y1="738" x2="740" y2="714" stroke="#1e2a44" stroke-width="2"/><circle cx="740" cy="714" r="5" fill="#1e2a44"/>
+<text x="772" y="760" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Diaphragm</text>
+<line x1="766" y1="752" x2="746" y2="718" stroke="#1e2a44" stroke-width="2"/><circle cx="746" cy="718" r="5" fill="#1e2a44"/>
 <text x="140" y="380" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Ribs</text>
 <line x1="146" y1="374" x2="200" y2="390" stroke="#1e2a44" stroke-width="2"/><circle cx="200" cy="390" r="5" fill="#1e2a44"/>
 <text x="140" y="560" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Intercostal</text>

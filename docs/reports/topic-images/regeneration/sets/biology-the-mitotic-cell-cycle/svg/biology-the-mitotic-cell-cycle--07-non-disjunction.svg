@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1030" width="900" height="1030" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1030" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Non-disjunction</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">One chromosome pair followed through meiosis</text>
+<text x="30" y="150" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">Fails in meiosis I</text>
+<line x1="84" y1="290" x2="170" y2="240" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="84" y1="290" x2="170" y2="340" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="55" cy="290" r="32" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<g transform="translate(43 290)" stroke-linecap="round"><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#1e2a44" stroke-width="10"/><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#7fb5ae" stroke-width="6"/></g>
+<g transform="translate(67 290)" stroke-linecap="round"><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#1e2a44" stroke-width="10"/><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#d4b02e" stroke-width="6"/></g>
+<circle cx="200" cy="226" r="33" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<g transform="translate(188 226)" stroke-linecap="round"><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#1e2a44" stroke-width="10"/><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#7fb5ae" stroke-width="6"/></g>
+<g transform="translate(212 226)" stroke-linecap="round"><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#1e2a44" stroke-width="10"/><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#d4b02e" stroke-width="6"/></g>
+<circle cx="200" cy="354" r="33" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="233" y1="226" x2="367" y2="150" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="394" cy="150" r="25" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="382" y="133" width="10" height="34" rx="5" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="396" y="133" width="10" height="34" rx="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="430" y="157" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">n + 1 (24)</text>
+<line x1="233" y1="226" x2="367" y2="220" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="394" cy="220" r="25" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="382" y="203" width="10" height="34" rx="5" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="396" y="203" width="10" height="34" rx="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="430" y="227" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">n + 1 (24)</text>
+<line x1="233" y1="354" x2="367" y2="310" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="394" cy="310" r="25" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<text x="430" y="317" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">n − 1 (22)</text>
+<line x1="233" y1="354" x2="367" y2="380" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="394" cy="380" r="25" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<text x="430" y="387" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">n − 1 (22)</text>
+<text x="30" y="490" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">Fails in meiosis II</text>
+<line x1="84" y1="630" x2="170" y2="580" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="84" y1="630" x2="170" y2="680" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="55" cy="630" r="32" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<g transform="translate(43 630)" stroke-linecap="round"><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#1e2a44" stroke-width="10"/><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#7fb5ae" stroke-width="6"/></g>
+<g transform="translate(67 630)" stroke-linecap="round"><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#1e2a44" stroke-width="10"/><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#d4b02e" stroke-width="6"/></g>
+<circle cx="200" cy="566" r="33" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<g transform="translate(200 566)" stroke-linecap="round"><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#1e2a44" stroke-width="10"/><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#7fb5ae" stroke-width="6"/></g>
+<circle cx="200" cy="694" r="33" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<g transform="translate(200 694)" stroke-linecap="round"><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#1e2a44" stroke-width="10"/><path d="M-9 -18 L9 18 M9 -18 L-9 18" stroke="#d4b02e" stroke-width="6"/></g>
+<line x1="233" y1="566" x2="367" y2="490" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="394" cy="490" r="25" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="389" y="473" width="10" height="34" rx="5" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="430" y="497" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">n (23)</text>
+<line x1="233" y1="566" x2="367" y2="560" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="394" cy="560" r="25" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="389" y="543" width="10" height="34" rx="5" fill="#7fb5ae" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="430" y="567" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">n (23)</text>
+<line x1="233" y1="694" x2="367" y2="650" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="394" cy="650" r="25" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<rect x="382" y="633" width="10" height="34" rx="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="396" y="633" width="10" height="34" rx="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="430" y="657" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">n + 1 (24)</text>
+<line x1="233" y1="694" x2="367" y2="720" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="394" cy="720" r="25" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<text x="430" y="727" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">n − 1 (22)</text>
+<rect x="30" y="900" width="840" height="100" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="938" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Normal gamete (23) fuses with:</text>
+<text x="240" y="978" font-size="24" font-weight="700" fill="#8a6d0d" text-anchor="middle">24 + 23 = 47</text>
+<text x="660" y="978" font-size="24" font-weight="700" fill="#8a6d0d" text-anchor="middle">22 + 23 = 45</text>
+</svg>
