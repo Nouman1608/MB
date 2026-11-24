@@ -255,11 +255,20 @@ function partialArea() {
   return svg(W, 804, 'Partial fractions, then integrate', o.join('\n'));
 }
 
+// Owner, 24 Nov 2026: keep the "A2 content" pill (only the board part of the old pill is removed).
+const withA2 = (svgText) => svgText.replace('</svg>', pill(790, 50, 160, 'A2 content', C.olive) + '\n</svg>');
+
 export const figures = [
   { name: '07-substitution-limits', after: '## H5: Substitution and parts', svg: substitution(),
     alt: 'The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged.',
     caption: 'With a substitution, convert the limits and the definite integral keeps its value.' },
   { name: '09-partial-fractions-area', after: '## H6: Partial fractions', svg: partialArea(),
+    alt: 'The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413.',
+    caption: 'Splitting into partial fractions splits the area into two simple logarithmic bands.' },
+  { name: '08-parts-as-area-a2', after: '## H5: Substitution and parts', svg: withA2(partsArea()),
+    alt: 'The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x.',
+    caption: 'Integration by parts is the statement that two complementary areas fill a rectangle.' },
+  { name: '09-partial-fractions-area-a2', after: '## H6: Partial fractions', svg: withA2(partialArea()),
     alt: 'The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413.',
     caption: 'Splitting into partial fractions splits the area into two simple logarithmic bands.' },
   { name: '08-parts-as-area', after: '## H5: Substitution and parts', svg: partsArea(),

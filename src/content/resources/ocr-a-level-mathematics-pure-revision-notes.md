@@ -142,8 +142,8 @@ For **negative or fractional n** the expansion is infinite and valid only for **
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-series--08-binomial-validity.webp" width="900" height="985" alt="A graph of y = (1 - 3x)^(-1/2) with its series up to x cubed, 1 + 3x/2 + 27x^2/8 + 135x^3/16. A shaded band shows the range of validity, x between minus one third and one third. The series matches near zero but the curves separate outside the band and near the asymptote at x = 1/3." loading="lazy">
-  <figcaption>The series for a rational power only represents the function when |bx/a| &lt; 1.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--08-binomial-validity.webp" width="900" height="980" alt="A graph of y = (1 - 3x)^(-1/2) with its series up to x cubed, 1 + 3x/2 + 27x^2/8 + 135x^3/16. A shaded band shows the range of validity, x between minus one third and one third. The series matches near zero but the curves separate outside the band and near the asymptote at x = 1/3." loading="lazy">
+  <figcaption>The series for a rational power only represents the function when |bx/a| &amp;lt; 1.</figcaption>
 </figure>
 
 
@@ -211,7 +211,7 @@ Trigonometric derivatives require **radians**.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-differentiation--06-product-rule-area.webp" width="900" height="650" alt="A rectangle of width u and height v has area uv. When x increases a little, u grows by du and v by dv, adding a strip of area v du on the right, a strip u dv on the top, and a tiny corner du dv which vanishes in the limit. So the change in uv is v du + u dv, giving (uv)′ = u′v + uv′. Example: y = x cubed times e to the 2x at x = 1 has gradient 3e squared + 2e squared = 5e squared, about 36.9." loading="lazy">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--06-product-rule-area.webp" width="900" height="650" alt="A rectangle of width u and height v has area uv. When x increases a little, u grows by du and v by dv, adding a strip of area v du on the right, a strip u dv on the top, and a tiny corner du dv which vanishes in the limit. So the change in uv is v du + u dv, giving (uv)′ = u′v + uv′. Example: y = x cubed times e to the 2x at x = 1 has gradient 3e squared + 2e squared = 5e squared, about 36.9." loading="lazy">
   <figcaption>Why the product rule has two terms: the rectangle area uv grows by v du + u dv.</figcaption>
 </figure>
 
