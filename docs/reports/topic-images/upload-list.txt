@@ -1,1 +1,3 @@
-# Topic-figure images not yet on img.marlbridge.com (2026-11-24): 0 (the 326 regenerated figures are live)
+# 2 images: integration figures with the "A2 content" pill kept (owner, 24 Nov 2026)
+mathematics-integration/mathematics-integration--08-parts-as-area-a2.webp
+mathematics-integration/mathematics-integration--09-partial-fractions-area-a2.webp

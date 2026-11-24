@@ -209,7 +209,7 @@ u = x, dv/dx = e^(2x)  →  du/dx = 1, v = (1/2)e^(2x)
 The method may need applying **twice**. For ∫ x² cos x dx, the first application leaves ∫ 2x sin x dx, and a second gives x² sin x + 2x cos x − 2 sin x + c. Reduction formulae are excluded.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-integration--08-parts-as-area.webp" width="900" height="800" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--08-parts-as-area-a2.webp" width="900" height="800" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
   <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
 </figure>
 
@@ -230,7 +230,7 @@ x = 1:  6 = 3A  → A = 2;     x = −2:  −9 = −3B  → B = 3
 The decomposition itself is taught in Section B (Algebra and functions); see the [Quadratics and inequalities guide](/resources/a-level-aqa-mathematics-quadratics-and-inequalities/) for where Section B fits.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-integration--09-partial-fractions-area.webp" width="900" height="804" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--09-partial-fractions-area-a2.webp" width="900" height="804" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
   <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
 </figure>
 

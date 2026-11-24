@@ -33,7 +33,11 @@ The six priority figures (pages currently have the picture removed):
 
 The manifest was rebuilt from the current site: images whose file name carries a Cambridge code or starts `cambridge-igcse-` / `igcse-`, used on any page whose boards exclude Cambridge. That gives 655 images on 1,062 pages (the owner's list had 463 on 862, made before revision-notes pages took copies of their lessons' figures). Every image was then checked by eye, because an automatic text scan missed more than half of the marks (white text on dark-gold pills, light "All boards" pills).
 
-## Owner review
+## Owner review (resolved 24 Nov 2026)
+
+Owner: all 4 reviewed and kept as they are; "A2 content" pills kept (4 figures keep their original pictures; integration 08 and 09 use `-a2` versions with a plain "A2 content" pill); the "75 beats/min" label stays. 322 figures replaced on 2,361 page uses.
+
+Previously listed:
 
 - `a-level-maths-9709-pure-mathematics-1-differentiation--08-parametric-gradient.webp`: stage pill 'A2 content' (not a board/tier); parametric diff is A2 on AQA/OCR/OxfordAQA/IAL but image also sits on AS-level differentiation pages
 - `a-level-maths-9709-pure-mathematics-1-differentiation--07-exp-and-ln-slopes.webp`: MISSED BY SCAN; 'A2 content' stage pill names no board, but the AS/A2 split fits Cambridge/IAL/OxfordAQA, not the linear AQA/OCR pages it also sits on (15 pages)

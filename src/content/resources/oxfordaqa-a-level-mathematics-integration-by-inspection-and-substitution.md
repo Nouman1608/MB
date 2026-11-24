@@ -71,7 +71,7 @@ Check: differentiating −20e^(−x/2) gives 10e^(−x/2), and differentiating (
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-integration--08-parts-as-area.webp" width="900" height="800" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--08-parts-as-area-a2.webp" width="900" height="800" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
   <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
 </figure>
 
@@ -258,7 +258,7 @@ This one could also be done by inspection. Both methods must agree, which makes 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-integration--09-partial-fractions-area.webp" width="900" height="804" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--09-partial-fractions-area-a2.webp" width="900" height="804" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
   <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
 </figure>
 

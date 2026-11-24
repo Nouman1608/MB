@@ -217,7 +217,7 @@ I = ½ e^(2x) cos x + ¼ e^(2x) sin x − ¼ I
 So **I = e^(2x)(2 cos x + sin x)/5 + c**. Use the same choice of u (trigonometric both times, or exponential both times) in the two passes. If you swap halfway, the integral cancels itself and you get 0 = 0.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-integration--08-parts-as-area.webp" width="900" height="800" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--08-parts-as-area-a2.webp" width="900" height="800" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
   <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
 </figure>
 
@@ -277,7 +277,7 @@ Difference: ln 2 + 1 + 3 ln 5 − 6 ln 2 = 1 + 3 ln 5 − 5 ln 2
 The value is **1 + 3 ln 5 − 5 ln 2**. If the numerator has the same degree as the denominator, or a higher one, divide first (see the revision notes) and integrate the polynomial part separately.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-integration--09-partial-fractions-area.webp" width="900" height="804" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--09-partial-fractions-area-a2.webp" width="900" height="804" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
   <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
 </figure>
 
