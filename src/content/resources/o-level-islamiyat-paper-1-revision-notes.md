@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1). 2026-11-24: (RA) added after Hasan and Husayn."
 publishedDate: 2026-08-25
 featured: false
 ---
@@ -154,7 +154,7 @@ their lives and be ready to explain the importance of their actions and experien
 - **The Prophet's (pbuh) wives** — for example **Khadijah**, his first wife and the first person to accept
   his message, whose support sustained him in Makkah, and **Aisha (RA)**, later an important narrator of
   Hadith.
-- **His descendants** — his children (including **Fatimah**), his grandchildren (including **Hasan**
+- **His descendants** — his children (including **Fatimah**), his grandchildren (including **Hasan (RA)**
   and **Husayn (RA)**), and the line recognised among Shi'a Muslims as the **Imams**.
 - **His leading Companions** — the **Ten Blessed Companions**, his **Scribes** (such as **Zayd ibn
   Thabit**, who wrote down revelation), and the other major figures of his ministry; for converts,
