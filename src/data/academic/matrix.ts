@@ -859,6 +859,14 @@ export const COURSE_SUBJECT_NAMES: Readonly<Record<string, CourseSubjectName>> =
     name: 'History',
     source: 'IB Diploma Programme History guide (ibo.org history-hl-2020-eng.pdf); title as recorded in syllabuses.ts',
   },
+  // Audit round 3 item 25 (25 Nov 2026): the IB's own title for this course is "Business Management"
+  // (syllabuses.ts officialTitle 'International Baccalaureate Diploma Programme Business Management',
+  // code 'DP Business Management'; IB subject brief business-management-hl-subject-brief-en.pdf).
+  // The slug stays business; only the displayed name changes.
+  'ib/ib-dp/business': {
+    name: 'Business Management',
+    source: 'IB Diploma Programme Business Management subject brief (ibo.org business-management-hl-subject-brief-en.pdf); title as recorded in syllabuses.ts',
+  },
   'cambridge/a-level/ict': {
     name: 'Information Technology',
     searchAlias: 'ICT',

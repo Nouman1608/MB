@@ -14,7 +14,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-25: SL Paper 2 total corrected from 55 to 50 marks to match the assessment record (IB Physics guide, November 2024 update, and the May and November 2025 SL Paper 2 covers, \"[50 marks]\"); data correction only."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -25,7 +25,7 @@ structure below is drawn directly from the same official IB Physics guide used t
 Paper 1 (two separate booklets completed together without interruption: Paper 1A multiple-choice,
 SL 25 marks / HL 40 marks, and Paper 1B data-based questions, 20 marks; SL 90 minutes/45 marks/36%, HL
 120 minutes/60 marks/36%, calculator and data booklet permitted), Paper 2 (short-and-extended-response
-questions, SL 90 minutes/55 marks/44%, HL 150 minutes/90 marks/44%, calculator and data booklet
+questions, SL 90 minutes/50 marks/44%, HL 150 minutes/90 marks/44%, calculator and data booklet
 permitted), and an internally assessed scientific investigation (24 marks, 20%, marked against 4
 criteria worth 6 marks each -- research design, data analysis, conclusion and evaluation --
 externally moderated). These notes turn that structure into an exam-day

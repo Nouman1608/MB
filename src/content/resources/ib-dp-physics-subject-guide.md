@@ -13,7 +13,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-25: SL Paper 2 total corrected from 55 to 50 marks to match the assessment record (IB Physics guide, November 2024 update, and the May and November 2025 SL Paper 2 covers, \"[50 marks]\"); data correction only."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -56,7 +56,7 @@ Theme B, and many schools teach it alongside the fields work in Theme D.
 | Component | SL | HL | Weighting |
 | --- | --- | --- | --- |
 | Paper 1 (Paper 1A multiple choice and Paper 1B data-based) | 90 minutes, 45 marks | 120 minutes, 60 marks | 36% |
-| Paper 2 (short and extended response) | 90 minutes, 55 marks | 150 minutes, 90 marks | 44% |
+| Paper 2 (short and extended response) | 90 minutes, 50 marks | 150 minutes, 90 marks | 44% |
 | Internal assessment (individual scientific investigation) | 24 marks | 24 marks | 20% |
 
 Paper 1 is taken as two booklets completed together without a break. At SL, Paper 1A

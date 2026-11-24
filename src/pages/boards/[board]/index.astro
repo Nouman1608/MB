@@ -23,6 +23,7 @@ import { pairedCodeNote, tileSubjectName } from '../../../data/academic/paired-c
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
 import { boardHubTitle } from '../../../utils/seo/hub-titles';
+import IbTrademarkNote from '../../../components/ib/IbTrademarkNote.astro';
 
 export async function getStaticPaths() {
   return boardsWithCombinations().map((boardSlug) => ({ params: { board: boardSlug } }));
@@ -123,4 +124,5 @@ const faq = faqNode(faqs);
     buttonLabel="Find Learning Support"
     buttonHref={routes.tutoring}
   />
+  {boardSlug === 'ib' && <IbTrademarkNote />}
 </PageLayout>
