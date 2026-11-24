@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1070" width="900" height="1070" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1070" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Blood glucose control</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Insulin and glucagon work against each other</text>
+<rect x="100" y="216" width="760" height="36" rx="0" fill="#f2e7b8"/>
+<line x1="100" y1="134" x2="100" y2="324" stroke="#1e2a44" stroke-width="3"/>
+<line x1="100" y1="324" x2="862" y2="324" stroke="#1e2a44" stroke-width="3"/>
+<text transform="rotate(-90 54 229)" x="54" y="229" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">Blood glucose</text>
+<path d="M100 234 C170 226 220 179 290 179 C360 179 380 226 470 232 C560 238 600 260 670 260 C740 260 780 234 860 234" fill="none" stroke="#2e6b62" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="372" y="189" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">insulin</text>
+<text x="670" y="294" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">glucagon</text>
+<text x="860" y="207" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">normal range 4–6 mmol dm<tspan baseline-shift="super" font-size="68%">−3</tspan></text>
+<line x1="290" y1="366" x2="290" y2="332" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<text x="290" y="391" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">meal</text>
+<line x1="670" y1="366" x2="670" y2="332" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<text x="670" y="391" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">exercise</text>
+<rect x="30" y="414" width="400" height="52" rx="26" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="230" y="448" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">Glucose too high</text>
+<line x1="230" y1="468" x2="230" y2="494" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="30" y="498" width="400" height="52" rx="26" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="230" y="532" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Beta cells: insulin</text>
+<line x1="230" y1="552" x2="230" y2="590" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="30" y="594" width="400" height="340" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="46" y="626" font-size="20" font-weight="700" fill="#4a5568" text-anchor="start">Liver cell</text>
+<line x1="46" y1="774" x2="414" y2="774" stroke="#c9d6d4" stroke-width="2"/>
+<rect x="470" y="414" width="400" height="52" rx="26" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="670" y="448" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">Glucose too low</text>
+<line x1="670" y1="468" x2="670" y2="494" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="470" y="498" width="400" height="52" rx="26" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="670" y="532" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Alpha cells: glucagon</text>
+<line x1="670" y1="552" x2="670" y2="590" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="470" y="594" width="400" height="340" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="486" y="626" font-size="20" font-weight="700" fill="#4a5568" text-anchor="start">Liver cell</text>
+<line x1="486" y1="774" x2="854" y2="774" stroke="#c9d6d4" stroke-width="2"/>
+<text x="230" y="659" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">Glycogenesis</text>
+<polygon points="120.0,707.0 115.0,715.7 105.0,715.7 100.0,707.0 105.0,698.3 115.0,698.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="138.0,697.0 133.0,705.7 123.0,705.7 118.0,697.0 123.0,688.3 133.0,688.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="138.0,719.0 133.0,727.7 123.0,727.7 118.0,719.0 123.0,710.3 133.0,710.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="130" y="761" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">glucose</text>
+<line x1="188" y1="709" x2="282" y2="709" stroke="#2e6b62" stroke-width="4.5" marker-end="url(#ahT)"/>
+<line x1="324" y1="697" x2="376" y2="721" stroke="#2e6b62" stroke-width="2"/><line x1="324" y1="721" x2="376" y2="697" stroke="#2e6b62" stroke-width="2"/><polygon points="334.0,697.0 329.0,705.7 319.0,705.7 314.0,697.0 319.0,688.3 329.0,688.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="334.0,721.0 329.0,729.7 319.0,729.7 314.0,721.0 319.0,712.3 329.0,712.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="360.0,709.0 355.0,717.7 345.0,717.7 340.0,709.0 345.0,700.3 355.0,700.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="386.0,697.0 381.0,705.7 371.0,705.7 366.0,697.0 371.0,688.3 381.0,688.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="386.0,721.0 381.0,729.7 371.0,729.7 366.0,721.0 371.0,712.3 381.0,712.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="350" y="761" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">glycogen</text>
+<text x="46" y="805" font-size="20" font-weight="700" fill="#4a5568" text-anchor="start">Muscle and fat cells</text>
+<line x1="68" y1="853" x2="392" y2="853" stroke="#2e6b62" stroke-width="5"/>
+<rect x="134" y="830" width="32" height="46" rx="8" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="148" y1="810" x2="148" y2="874" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<polygon points="200.0,823.0 195.0,831.7 185.0,831.7 180.0,823.0 185.0,814.3 195.0,814.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="294" y="830" width="32" height="46" rx="8" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="308" y1="810" x2="308" y2="874" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<polygon points="360.0,823.0 355.0,831.7 345.0,831.7 340.0,823.0 345.0,814.3 355.0,814.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="230" y="921" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">More glucose channels</text>
+<text x="670" y="659" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Glycogenolysis</text>
+<line x1="534" y1="697" x2="586" y2="721" stroke="#2e6b62" stroke-width="2"/><line x1="534" y1="721" x2="586" y2="697" stroke="#2e6b62" stroke-width="2"/><polygon points="544.0,697.0 539.0,705.7 529.0,705.7 524.0,697.0 529.0,688.3 539.0,688.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="544.0,721.0 539.0,729.7 529.0,729.7 524.0,721.0 529.0,712.3 539.0,712.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="570.0,709.0 565.0,717.7 555.0,717.7 550.0,709.0 555.0,700.3 565.0,700.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="596.0,697.0 591.0,705.7 581.0,705.7 576.0,697.0 581.0,688.3 591.0,688.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><polygon points="596.0,721.0 591.0,729.7 581.0,729.7 576.0,721.0 581.0,712.3 591.0,712.3" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="560" y="761" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">glycogen</text>
+<line x1="618" y1="709" x2="712" y2="709" stroke="#8a6d0d" stroke-width="4.5" marker-end="url(#ahO)"/>
+<polygon points="780.0,707.0 775.0,715.7 765.0,715.7 760.0,707.0 765.0,698.3 775.0,698.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="798.0,697.0 793.0,705.7 783.0,705.7 778.0,697.0 783.0,688.3 793.0,688.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="798.0,719.0 793.0,727.7 783.0,727.7 778.0,719.0 783.0,710.3 793.0,710.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="790" y="761" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">glucose</text>
+<text x="486" y="805" font-size="20" font-weight="700" fill="#4a5568" text-anchor="start">Gluconeogenesis</text>
+<circle cx="530" cy="830" r="12" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="560" cy="845" r="12" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<polygon points="580,820 622,820 601,846" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="638" y1="832" x2="732" y2="832" stroke="#8a6d0d" stroke-width="4.5" marker-end="url(#ahO)"/>
+<polygon points="780.0,830.0 775.0,838.7 765.0,838.7 760.0,830.0 765.0,821.3 775.0,821.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="798.0,820.0 793.0,828.7 783.0,828.7 778.0,820.0 783.0,811.3 793.0,811.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="798.0,842.0 793.0,850.7 783.0,850.7 778.0,842.0 783.0,833.3 793.0,833.3" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="566" y="888" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">amino acids</text>
+<text x="566" y="912" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">glycerol</text>
+<text x="790" y="908" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">glucose</text>
+<rect x="100" y="954" width="260" height="52" rx="26" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="230" y="988" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">Glucose falls</text>
+<rect x="540" y="954" width="260" height="52" rx="26" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="670" y="988" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">Glucose rises</text>
+<text x="450" y="1042" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">Adrenaline (stress) also triggers glycogenolysis</text>
+</svg>

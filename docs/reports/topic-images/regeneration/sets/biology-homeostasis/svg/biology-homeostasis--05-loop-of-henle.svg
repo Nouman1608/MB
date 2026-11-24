@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1044" width="900" height="1044" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1044" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Loop of Henle</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Builds a salt gradient in the medulla</text>
+<rect x="30" y="114" width="840" height="50" rx="0" fill="#dce9e7"/>
+<rect x="30" y="164" width="840" height="112" rx="0" fill="#f3efda"/>
+<rect x="30" y="276" width="840" height="112" rx="0" fill="#f0e8cd"/>
+<rect x="30" y="388" width="840" height="112" rx="0" fill="#ede3c0"/>
+<rect x="30" y="500" width="840" height="112" rx="0" fill="#ebe0b5"/>
+<rect x="30" y="612" width="840" height="112" rx="0" fill="#e8dba8"/>
+<text x="40" y="150" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">CORTEX</text>
+<text x="40" y="200" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="start">MEDULLA</text>
+<rect x="286" y="134" width="30" height="104" rx="0" fill="#f8f2dc"/><rect x="286" y="238" width="30" height="104" rx="0" fill="#f3e7bd"/><rect x="286" y="342" width="30" height="104" rx="0" fill="#eddca5"/><rect x="286" y="446" width="30" height="104" rx="0" fill="#e6cf86"/><rect x="286" y="550" width="30" height="104" rx="0" fill="#dfc25f"/>
+<rect x="426" y="134" width="30" height="104" rx="0" fill="#f8f2dc"/><rect x="426" y="238" width="30" height="104" rx="0" fill="#f3e7bd"/><rect x="426" y="342" width="30" height="104" rx="0" fill="#eddca5"/><rect x="426" y="446" width="30" height="104" rx="0" fill="#e6cf86"/><rect x="426" y="550" width="30" height="104" rx="0" fill="#dfc25f"/>
+<rect x="674" y="134" width="32" height="100" rx="0" fill="#f8f2dc"/><rect x="674" y="234" width="32" height="100" rx="0" fill="#f3e7bd"/><rect x="674" y="334" width="32" height="100" rx="0" fill="#eddca5"/><rect x="674" y="434" width="32" height="100" rx="0" fill="#e6cf86"/><rect x="674" y="534" width="32" height="100" rx="0" fill="#dfc25f"/><rect x="674" y="634" width="32" height="100" rx="0" fill="#dfc25f"/>
+<path d="M286 654 A84 84 0 0 0 456 654 H426 A54 54 0 0 1 316 654 Z" fill="#dfc25f"/>
+<path d="M286 134 V654 A84 84 0 0 0 456 654 V134 M316 134 V654 A54 54 0 0 0 426 654 V134" fill="none" stroke="#1e2a44" stroke-width="3.5"/>
+<path d="M674 134 V734 M706 134 V734" fill="none" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="301" y1="150" x2="301" y2="218" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="441" y1="214" x2="441" y2="154" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="690" y1="150" x2="690" y2="218" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="282" y1="284" x2="216" y2="284" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<line x1="460" y1="284" x2="524" y2="284" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<line x1="670" y1="294" x2="606" y2="294" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<line x1="282" y1="394" x2="216" y2="394" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<line x1="460" y1="394" x2="524" y2="394" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<line x1="670" y1="404" x2="606" y2="404" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<line x1="282" y1="504" x2="216" y2="504" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<line x1="460" y1="504" x2="524" y2="504" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<line x1="670" y1="514" x2="606" y2="514" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<circle cx="301" cy="604" r="18" fill="#1e2a44"/><text x="301" y="610.48" font-size="17.099999999999998" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<circle cx="441" cy="604" r="18" fill="#1e2a44"/><text x="441" y="610.48" font-size="17.099999999999998" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<circle cx="690" cy="604" r="18" fill="#1e2a44"/><text x="690" y="610.48" font-size="17.099999999999998" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<line x1="690" y1="736" x2="690" y2="776" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<text x="690" y="802" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">urine</text>
+<circle cx="50" cy="854" r="20" fill="#1e2a44"/><text x="50" y="861.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text><text x="82" y="861" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Ascending limb: ions out, no water leaves</text>
+<circle cx="50" cy="898" r="20" fill="#1e2a44"/><text x="50" y="905.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text><text x="82" y="905" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Descending limb: water leaves by osmosis</text>
+<circle cx="50" cy="942" r="20" fill="#1e2a44"/><text x="50" y="949.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text><text x="82" y="949" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Collecting duct: water leaves down gradient</text>
+<rect x="40" y="990" width="34" height="28" rx="0" fill="#f3efda" stroke="#d8cfae" stroke-width="2"/>
+<text x="88" y="1011" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">dilute</text>
+<rect x="250" y="990" width="34" height="28" rx="0" fill="#dfc25f" stroke="#8a6d0d" stroke-width="2"/>
+<text x="298" y="1011" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">concentrated</text>
+<line x1="520" y1="1004" x2="600" y2="1004" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<text x="610" y="1011" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">ions</text>
+<line x1="690" y1="1004" x2="770" y2="1004" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<text x="780" y="1011" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="start">water</text>
+</svg>

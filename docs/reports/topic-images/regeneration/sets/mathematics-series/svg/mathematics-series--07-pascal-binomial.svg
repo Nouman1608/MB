@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1130" width="900" height="1130" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1130" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Where binomial coefficients come from</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Pascal’s triangle and (4 + 3x)<tspan baseline-shift="super" font-size="70%">5</tspan></text>
+<line x1="372.74085142663273" y1="459.4260642832909" x2="382.00975847825845" y2="471.01219809782305" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<line x1="431.25914857336727" y1="459.4260642832909" x2="421.9902415217416" y2="471.01219809782305" stroke="#8a6d0d" stroke-width="3.5" marker-end="url(#ahO)"/>
+<text x="40" y="203" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">n = 0</text>
+<circle cx="450" cy="196" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="203" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="40" y="263" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">n = 1</text>
+<circle cx="402" cy="256" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="402" y="263" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<circle cx="498" cy="256" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="498" y="263" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="40" y="323" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">n = 2</text>
+<circle cx="354" cy="316" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="354" y="323" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<circle cx="450" cy="316" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="323" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">2</text>
+<circle cx="546" cy="316" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="546" y="323" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="40" y="383" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">n = 3</text>
+<circle cx="306" cy="376" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="306" y="383" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<circle cx="402" cy="376" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="402" y="383" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<circle cx="498" cy="376" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="498" y="383" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<circle cx="594" cy="376" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="594" y="383" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="40" y="443" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">n = 4</text>
+<circle cx="258" cy="436" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="258" y="443" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<circle cx="354" cy="436" r="27" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="354" y="443" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">4</text>
+<circle cx="450" cy="436" r="27" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="450" y="443" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<circle cx="546" cy="436" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="546" y="443" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">4</text>
+<circle cx="642" cy="436" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="642" y="443" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="40" y="503" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">n = 5</text>
+<circle cx="210" cy="496" r="27" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="210" y="503" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<circle cx="306" cy="496" r="27" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="306" y="503" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">5</text>
+<circle cx="402" cy="496" r="27" fill="#b5d3cf" stroke="#1e2a44" stroke-width="4.5"/>
+<text x="402" y="503" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">10</text>
+<circle cx="498" cy="496" r="27" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="498" y="503" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">10</text>
+<circle cx="594" cy="496" r="27" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="594" y="503" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">5</text>
+<circle cx="690" cy="496" r="27" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="690" y="503" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="40" y="563" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">n = 6</text>
+<circle cx="162" cy="556" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="162" y="563" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<circle cx="258" cy="556" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="258" y="563" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<circle cx="354" cy="556" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="354" y="563" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<circle cx="450" cy="556" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="563" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">20</text>
+<circle cx="546" cy="556" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="546" y="563" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<circle cx="642" cy="556" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="642" y="563" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<circle cx="738" cy="556" r="27" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="738" y="563" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="450" y="626" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">each entry = sum of the two above: 4 + 6 = 10</text>
+<text x="60" y="704" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Row 5 gives the terms of (4 + 3x)<tspan baseline-shift="super" font-size="70%">5</tspan>:</text>
+<line x1="50" y1="960" x2="850" y2="960" stroke="#1e2a44" stroke-width="3"/>
+<rect x="70" y="926.2222222222222" width="100" height="33.77777777777778" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="120" y="914.2222222222222" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1024</text>
+<text x="120" y="994" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x<tspan baseline-shift="super" font-size="70%">0</tspan></text>
+<rect x="204" y="833.3333333333334" width="100" height="126.66666666666667" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="254" y="821.3333333333334" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">3840</text>
+<text x="254" y="994" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x</text>
+<rect x="338" y="770" width="100" height="190" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="388" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">5760</text>
+<text x="388" y="994" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x<tspan baseline-shift="super" font-size="70%">2</tspan></text>
+<rect x="472" y="817.5" width="100" height="142.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="522" y="805.5" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">4320</text>
+<text x="522" y="994" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x<tspan baseline-shift="super" font-size="70%">3</tspan></text>
+<rect x="606" y="906.5625" width="100" height="53.4375" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="656" y="894.5625" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1620</text>
+<text x="656" y="994" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x<tspan baseline-shift="super" font-size="70%">4</tspan></text>
+<rect x="740" y="951.984375" width="100" height="8.015625" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="790" y="939.984375" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">243</text>
+<text x="790" y="994" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">x<tspan baseline-shift="super" font-size="70%">5</tspan></text>
+<rect x="100" y="1030" width="700" height="64" rx="32" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="450" y="1071" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">x = 1: all six add to 7<tspan baseline-shift="super" font-size="70%">5</tspan> = 16 807</text>
+</svg>

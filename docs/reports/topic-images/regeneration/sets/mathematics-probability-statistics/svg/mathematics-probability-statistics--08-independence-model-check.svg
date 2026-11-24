@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 860" width="900" height="860" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="860" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">When is “independent” a good model?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">45% girls; two students chosen, both girls?</text>
+<text x="450" y="170" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Gap = independent model − exact answer</text>
+<line x1="60" y1="242" x2="60" y2="702" stroke="#1e2a44" stroke-width="3"/>
+<text x="76" y="232" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">20 students (illustrative)</text>
+<rect x="60" y="250" width="752" height="46" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<text x="76" y="334" font-size="21" font-weight="700" fill="#4a5568" text-anchor="start">exact 0.1895   model 0.2025   gap 0.0130</text>
+<text x="76" y="402" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">100 students (illustrative)</text>
+<rect x="60" y="420" width="144.61538461538464" height="46" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<text x="76" y="504" font-size="21" font-weight="700" fill="#4a5568" text-anchor="start">exact 0.2000   model 0.2025   gap 0.0025</text>
+<text x="76" y="572" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">1200 students</text>
+<rect x="60" y="590" width="11.56923076923077" height="46" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<text x="76" y="674" font-size="21" font-weight="700" fill="#4a5568" text-anchor="start">exact 0.2023   model 0.2025   gap 0.0002</text>
+<rect x="74" y="730" width="752" height="44" rx="22" fill="#2e6b62"/><text x="450" y="760" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Large population: independence is a fair approximation</text>
+<rect x="74" y="786" width="752" height="44" rx="22" fill="#b5602e"/><text x="450" y="816" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Small group: the gap is large, use without replacement</text>
+</svg>

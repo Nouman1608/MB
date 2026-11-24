@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 756" width="900" height="756" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="756" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Histogram: height is density</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Ages of 120 people</text>
+<line x1="130" y1="401.25" x2="830" y2="401.25" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="130" y1="282.5" x2="830" y2="282.5" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="130" y1="163.75" x2="830" y2="163.75" stroke="#d6e2e0" stroke-width="1.5"/>
+<rect x="130" y="282.5" width="116.66666666666666" height="237.5" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="188.33333333333331" y="314.5" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">20 ÷ 10</text>
+<text x="188.33333333333331" y="338.5" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">= 2</text>
+<rect x="246.66666666666666" y="223.125" width="233.33333333333334" height="296.875" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="363.3333333333333" y="255.125" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">50 ÷ 20</text>
+<text x="363.3333333333333" y="279.125" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">= 2.5</text>
+<rect x="480" y="163.75" width="116.66666666666663" height="356.25" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="538.3333333333333" y="195.75" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">30 ÷ 10</text>
+<text x="538.3333333333333" y="219.75" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">= 3</text>
+<rect x="596.6666666666666" y="401.25" width="233.33333333333337" height="118.75" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="713.3333333333333" y="433.25" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">20 ÷ 20</text>
+<text x="713.3333333333333" y="457.25" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">= 1</text>
+<line x1="130" y1="520" x2="830" y2="520" stroke="#1e2a44" stroke-width="3"/>
+<line x1="130" y1="130" x2="130" y2="520" stroke="#1e2a44" stroke-width="3"/>
+<text x="130" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<text x="246.66666666666666" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">10</text>
+<text x="480" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">30</text>
+<text x="596.6666666666666" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">40</text>
+<text x="830" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">60</text>
+<text x="118" y="526" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<text x="118" y="407.25" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">1</text>
+<text x="118" y="288.5" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">2</text>
+<text x="118" y="169.75" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">3</text>
+<text x="480" y="582" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Age (years)</text>
+<text transform="translate(80 330) rotate(-90)" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Frequency density</text>
+<text x="450" y="640" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Frequency density = frequency ÷ class width</text>
+<text x="450" y="678" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">Area of a bar = frequency</text>
+<text x="450" y="720" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">Gold bar: most people (50) but not the tallest.</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 830" width="900" height="830" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="830" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">How the beat spreads</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Cardiac muscle is myogenic: it starts its own beat</text>
+<path d="M262 220 V680 Q262 760 450 795 Q638 760 638 680 V220 Z" fill="#ecd3cc" stroke="#1e2a44" stroke-width="3.5"/>
+<rect x="290" y="236" width="94" height="122" fill="#cfe3ea" stroke="#2a7090" stroke-width="3"/>
+<rect x="514" y="236" width="94" height="122" fill="#f2cdc8" stroke="#b5352e" stroke-width="3"/>
+<rect x="262" y="364" width="168" height="20" fill="#9aa7b0"/><rect x="470" y="364" width="168" height="20" fill="#9aa7b0"/>
+<path d="M290 392 V655 Q300 725 438 748 V392 Z" fill="#cfe3ea" stroke="#2a7090" stroke-width="3"/>
+<path d="M462 392 V752 Q545 725 566 670 V392 Z" fill="#f2cdc8" stroke="#b5352e" stroke-width="3"/>
+<line x1="345" y1="248" x2="590" y2="248" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<line x1="335" y1="284" x2="335" y2="346" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<line x1="565" y1="284" x2="565" y2="346" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahO)"/>
+<path d="M450 380 V590 L440 690 L400 740 L330 718 L302 650 V488" fill="none" stroke="#b5602e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M450 590 L460 690 L500 742 L540 700 L550 600 V448" fill="none" stroke="#b5602e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="302" y1="520" x2="302" y2="486" stroke="#b5602e" stroke-width="5" marker-end="url(#ahR)"/>
+<line x1="550" y1="490" x2="550" y2="450" stroke="#b5602e" stroke-width="5" marker-end="url(#ahR)"/>
+<circle cx="330" cy="262" r="15" fill="#d4b02e" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="450" cy="372" r="15" fill="#d4b02e" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="30" cy="264" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="30" y="271" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="56" y="271" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">SAN:</text>
+<text x="56" y="299" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">pacemaker</text>
+<line x1="248" y1="264" x2="318" y2="264" stroke="#1e2a44" stroke-width="2.5"/><circle cx="318" cy="264" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="30" cy="404" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="30" y="411" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="56" y="411" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">No conduction</text>
+<text x="56" y="439" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">across this gap</text>
+<line x1="248" y1="398" x2="300" y2="374" stroke="#1e2a44" stroke-width="2.5"/><circle cx="300" cy="374" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="30" cy="582" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="30" y="589" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<text x="56" y="589" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Purkyne tissue</text>
+<line x1="248" y1="582" x2="302" y2="580" stroke="#1e2a44" stroke-width="2.5"/><circle cx="302" cy="580" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="680" cy="182" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="680" y="189" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="706" y="189" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Atria</text>
+<text x="706" y="217" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">contract</text>
+<line x1="664" y1="190" x2="590" y2="248" stroke="#1e2a44" stroke-width="2.5"/><circle cx="590" cy="248" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="680" cy="404" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="680" y="411" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="706" y="411" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">AVN:</text>
+<text x="706" y="439" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">short delay</text>
+<line x1="664" y1="400" x2="466" y2="372" stroke="#1e2a44" stroke-width="2.5"/><circle cx="466" cy="372" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="680" cy="502" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="680" y="509" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="706" y="509" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Bundle of His</text>
+<line x1="664" y1="504" x2="450" y2="510" stroke="#1e2a44" stroke-width="2.5"/><circle cx="450" cy="510" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="680" cy="612" r="16" fill="#8a6d0d" stroke="#8a6d0d" stroke-width="1"/><text x="680" y="619" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">7</text>
+<text x="706" y="619" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Ventricles</text>
+<text x="706" y="647" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">contract from</text><text x="706" y="675" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">apex up</text>
+<line x1="664" y1="612" x2="550" y2="620" stroke="#1e2a44" stroke-width="2.5"/><circle cx="550" cy="620" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+</svg>

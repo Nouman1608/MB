@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1020" width="900" height="1020" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1020" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Sanger sequencing</text>
+
+<defs><marker id="ahRu" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker>
+<marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker></defs><text x="20" y="154" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Template</text>
+<rect x="170" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="192" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="220" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="242" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="270" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="292" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="320" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="342" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="370" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="392" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="420" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="442" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="470" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="492" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="520" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="542" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="570" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="592" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="620" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="642" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">T</text>
+<rect x="670" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="692" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="720" y="166" width="44" height="40" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="742" y="193.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<text x="162" y="194" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">3′</text>
+<text x="774" y="194" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="start">5′</text>
+<text x="20" y="247" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">New strands</text>
+<text x="150" y="292" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">1</text>
+<rect x="170" y="264" width="44" height="40" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/><text x="192" y="291.92" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">G</text>
+<text x="150" y="338" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">2</text>
+<rect x="170" y="310" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="337.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="310" width="44" height="40" rx="8" fill="#dcebd2" stroke="#4f8a3a" stroke-width="3"/><text x="242" y="337.92" font-size="22" font-weight="700" fill="#4f8a3a" text-anchor="middle">A</text>
+<text x="150" y="384" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">3</text>
+<rect x="170" y="356" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="383.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="356" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="383.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="356" width="44" height="40" rx="8" fill="#f6d6d2" stroke="#b5402e" stroke-width="3"/><text x="292" y="383.92" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">T</text>
+<text x="150" y="430" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">4</text>
+<rect x="170" y="402" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="429.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="402" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="429.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="402" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="429.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="402" width="44" height="40" rx="8" fill="#f6d6d2" stroke="#b5402e" stroke-width="3"/><text x="342" y="429.92" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">T</text>
+<text x="150" y="476" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">5</text>
+<rect x="170" y="448" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="475.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="448" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="475.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="448" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="475.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="448" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="342" y="475.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="370" y="448" width="44" height="40" rx="8" fill="#d6e7ef" stroke="#2e6f8e" stroke-width="3"/><text x="392" y="475.92" font-size="22" font-weight="700" fill="#2e6f8e" text-anchor="middle">C</text>
+<text x="150" y="522" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">6</text>
+<rect x="170" y="494" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="521.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="494" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="521.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="494" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="521.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="494" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="342" y="521.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="370" y="494" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="392" y="521.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="420" y="494" width="44" height="40" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/><text x="442" y="521.92" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">G</text>
+<text x="150" y="568" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">7</text>
+<rect x="170" y="540" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="567.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="540" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="567.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="540" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="567.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="540" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="342" y="567.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="370" y="540" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="392" y="567.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="420" y="540" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="442" y="567.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="470" y="540" width="44" height="40" rx="8" fill="#d6e7ef" stroke="#2e6f8e" stroke-width="3"/><text x="492" y="567.92" font-size="22" font-weight="700" fill="#2e6f8e" text-anchor="middle">C</text>
+<text x="150" y="614" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">8</text>
+<rect x="170" y="586" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="613.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="586" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="613.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="586" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="613.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="586" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="342" y="613.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="370" y="586" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="392" y="613.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="420" y="586" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="442" y="613.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="470" y="586" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="492" y="613.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="520" y="586" width="44" height="40" rx="8" fill="#f6d6d2" stroke="#b5402e" stroke-width="3"/><text x="542" y="613.92" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">T</text>
+<text x="150" y="660" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">9</text>
+<rect x="170" y="632" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="659.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="632" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="659.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="632" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="659.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="632" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="342" y="659.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="370" y="632" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="392" y="659.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="420" y="632" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="442" y="659.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="470" y="632" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="492" y="659.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="520" y="632" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="542" y="659.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="570" y="632" width="44" height="40" rx="8" fill="#dcebd2" stroke="#4f8a3a" stroke-width="3"/><text x="592" y="659.92" font-size="22" font-weight="700" fill="#4f8a3a" text-anchor="middle">A</text>
+<text x="150" y="706" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">10</text>
+<rect x="170" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="342" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="370" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="392" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="420" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="442" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="470" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="492" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="520" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="542" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="570" y="678" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="592" y="705.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="620" y="678" width="44" height="40" rx="8" fill="#dcebd2" stroke="#4f8a3a" stroke-width="3"/><text x="642" y="705.92" font-size="22" font-weight="700" fill="#4f8a3a" text-anchor="middle">A</text>
+<text x="150" y="752" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">11</text>
+<rect x="170" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="342" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="370" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="392" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="420" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="442" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="470" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="492" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="520" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="542" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="570" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="592" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="620" y="724" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="642" y="751.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="670" y="724" width="44" height="40" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/><text x="692" y="751.92" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">G</text>
+<text x="150" y="798" font-size="19" font-weight="400" fill="#4a5a78" text-anchor="end">12</text>
+<rect x="170" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="192" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="220" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="242" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="270" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="292" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="320" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="342" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="370" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="392" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="420" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="442" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="470" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="492" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">C</text>
+<rect x="520" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="542" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">T</text>
+<rect x="570" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="592" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="620" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="642" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">A</text>
+<rect x="670" y="770" width="44" height="40" rx="8" fill="#ffffff" stroke="#5f9c95" stroke-width="1.8"/><text x="692" y="797.92" font-size="22" font-weight="400" fill="#4a5a78" text-anchor="middle">G</text>
+<rect x="720" y="770" width="44" height="40" rx="8" fill="#d6e7ef" stroke="#2e6f8e" stroke-width="3"/><text x="742" y="797.92" font-size="22" font-weight="700" fill="#2e6f8e" text-anchor="middle">C</text>
+<text x="815" y="288" font-size="19" font-weight="700" fill="#c0643a" text-anchor="middle">read</text>
+<text x="815" y="315" font-size="19" font-weight="700" fill="#c0643a" text-anchor="middle">order</text>
+<line x1="820" y1="332" x2="820" y2="760" stroke="#c0643a" stroke-width="4"/><polygon points="820,792 803,758 837,758" fill="#c0643a"/>
+<text x="450" y="839" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Coloured last base: dideoxynucleotide, chain stops</text>
+<text x="450" y="881" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">Read last bases, shortest to longest</text>
+<rect x="170" y="896" width="44" height="44" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/><text x="192" y="925.92" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">G</text>
+<rect x="220" y="896" width="44" height="44" rx="8" fill="#dcebd2" stroke="#4f8a3a" stroke-width="3"/><text x="242" y="925.92" font-size="22" font-weight="700" fill="#4f8a3a" text-anchor="middle">A</text>
+<rect x="270" y="896" width="44" height="44" rx="8" fill="#f6d6d2" stroke="#b5402e" stroke-width="3"/><text x="292" y="925.92" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">T</text>
+<rect x="320" y="896" width="44" height="44" rx="8" fill="#f6d6d2" stroke="#b5402e" stroke-width="3"/><text x="342" y="925.92" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">T</text>
+<rect x="370" y="896" width="44" height="44" rx="8" fill="#d6e7ef" stroke="#2e6f8e" stroke-width="3"/><text x="392" y="925.92" font-size="22" font-weight="700" fill="#2e6f8e" text-anchor="middle">C</text>
+<rect x="420" y="896" width="44" height="44" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/><text x="442" y="925.92" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">G</text>
+<rect x="470" y="896" width="44" height="44" rx="8" fill="#d6e7ef" stroke="#2e6f8e" stroke-width="3"/><text x="492" y="925.92" font-size="22" font-weight="700" fill="#2e6f8e" text-anchor="middle">C</text>
+<rect x="520" y="896" width="44" height="44" rx="8" fill="#f6d6d2" stroke="#b5402e" stroke-width="3"/><text x="542" y="925.92" font-size="22" font-weight="700" fill="#b5402e" text-anchor="middle">T</text>
+<rect x="570" y="896" width="44" height="44" rx="8" fill="#dcebd2" stroke="#4f8a3a" stroke-width="3"/><text x="592" y="925.92" font-size="22" font-weight="700" fill="#4f8a3a" text-anchor="middle">A</text>
+<rect x="620" y="896" width="44" height="44" rx="8" fill="#dcebd2" stroke="#4f8a3a" stroke-width="3"/><text x="642" y="925.92" font-size="22" font-weight="700" fill="#4f8a3a" text-anchor="middle">A</text>
+<rect x="670" y="896" width="44" height="44" rx="8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/><text x="692" y="925.92" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">G</text>
+<rect x="720" y="896" width="44" height="44" rx="8" fill="#d6e7ef" stroke="#2e6f8e" stroke-width="3"/><text x="742" y="925.92" font-size="22" font-weight="700" fill="#2e6f8e" text-anchor="middle">C</text>
+<text x="450" y="985" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">New strand 5′ GATTCGCTAAGC 3′</text>
+</svg>

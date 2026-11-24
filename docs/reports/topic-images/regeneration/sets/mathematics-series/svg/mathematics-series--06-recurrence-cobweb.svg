@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1140" width="900" height="1140" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1140" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Where does a recurrence settle?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Cobweb for x<tspan baseline-shift="sub" font-size="70%">n+1</tspan> = 0.6x<tspan baseline-shift="sub" font-size="70%">n</tspan> + 8, x<tspan baseline-shift="sub" font-size="70%">1</tspan> = 5</text>
+<line x1="130" y1="838" x2="790" y2="838" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="130" y1="838" x2="130" y2="180" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="130" y1="838" x2="130" y2="848" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="130" y="878" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="263.33333333333337" y1="838" x2="263.33333333333337" y2="848" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="263.33333333333337" y="878" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<line x1="396.6666666666667" y1="838" x2="396.6666666666667" y2="848" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="396.6666666666667" y="878" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">10</text>
+<line x1="530" y1="838" x2="530" y2="848" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="530" y="878" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">15</text>
+<line x1="663.3333333333334" y1="838" x2="663.3333333333334" y2="848" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="663.3333333333334" y="878" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">20</text>
+<line x1="120" y1="704.6666666666666" x2="130" y2="704.6666666666666" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="711.6666666666666" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">5</text>
+<line x1="120" y1="571.3333333333333" x2="130" y2="571.3333333333333" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="578.3333333333333" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">10</text>
+<line x1="120" y1="438" x2="130" y2="438" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="445" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">15</text>
+<line x1="120" y1="304.66666666666663" x2="130" y2="304.66666666666663" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="112" y="311.66666666666663" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">20</text>
+<text x="450" y="925" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">x<tspan baseline-shift="sub" font-size="70%">n</tspan></text>
+<text x="44" y="520" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle" transform="rotate(-90 44 520)">x<tspan baseline-shift="sub" font-size="70%">n+1</tspan></text>
+<line x1="130" y1="838" x2="770" y2="198" stroke="#1e2a44" stroke-width="3"/>
+<line x1="130" y1="624.6666666666666" x2="770" y2="240.66666666666663" stroke="#2e6b62" stroke-width="4.5"/>
+<text x="148" y="384" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">y = 0.6x + 8</text>
+<text x="684" y="448" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">y = x</text>
+<line x1="130" y1="304.66666666666663" x2="663.3333333333334" y2="304.66666666666663" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="10 7"/>
+<line x1="663.3333333333334" y1="304.66666666666663" x2="663.3333333333334" y2="838" stroke="#8a6d0d" stroke-width="2.5" stroke-dasharray="10 7"/>
+<path d="M263.3 704.7 L263.3 544.7 L423.3 544.7 L423.3 448.7 L519.3 448.7 L519.3 391.1 L576.9 391.1 L576.9 356.5 L611.5 356.5 L611.5 335.8 L632.2 335.8 L632.2 323.3 L644.7 323.3 L644.7 315.9 L652.1 315.9" fill="none" stroke="#b5602e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="263.33333333333337" cy="704.6666666666666" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="277.33333333333337" y="740.6666666666666" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">x<tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<circle cx="423.3333333333333" cy="544.6666666666667" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="437.3333333333333" y="580.6666666666667" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">x<tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<circle cx="519.3333333333333" cy="448.6666666666667" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="533.3333333333333" y="484.6666666666667" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">x<tspan baseline-shift="sub" font-size="70%">3</tspan></text>
+<circle cx="576.9333333333332" cy="391.0666666666668" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="590.9333333333332" y="427.0666666666668" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">x<tspan baseline-shift="sub" font-size="70%">4</tspan></text>
+<circle cx="663.3333333333334" cy="304.66666666666663" r="12" fill="#fff" stroke="#8a6d0d" stroke-width="4"/>
+<text x="637.3333333333334" y="284.66666666666663" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="end">L = 20</text>
+<rect x="60" y="960" width="780" height="64" rx="32" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="450" y="999.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">x<tspan baseline-shift="sub" font-size="70%">2</tspan> = 11, x<tspan baseline-shift="sub" font-size="70%">3</tspan> = 14.6, x<tspan baseline-shift="sub" font-size="70%">4</tspan> = 16.76, …</text>
+<rect x="60" y="1044" width="780" height="64" rx="32" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><text x="450" y="1083.92" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">limit: L = 0.6L + 8, so L = 20</text>
+</svg>

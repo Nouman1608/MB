@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 930" width="900" height="930" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="930" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Equilibrium: forces balance</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Particle of 5 kg on two light strings, g = 9.8 m s⁻²</text>
+<line x1="60" y1="190" x2="840" y2="190" stroke="#1e2a44" stroke-width="4"/>
+<line x1="66" y1="172" x2="80" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="105" y1="172" x2="119" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="144" y1="172" x2="158" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="183" y1="172" x2="197" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="222" y1="172" x2="236" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="261" y1="172" x2="275" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="300" y1="172" x2="314" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="339" y1="172" x2="353" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="378" y1="172" x2="392" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="417" y1="172" x2="431" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="456" y1="172" x2="470" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="495" y1="172" x2="509" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="534" y1="172" x2="548" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="573" y1="172" x2="587" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="612" y1="172" x2="626" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="651" y1="172" x2="665" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="690" y1="172" x2="704" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="729" y1="172" x2="743" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="768" y1="172" x2="782" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="807" y1="172" x2="821" y2="190" stroke="#1e2a44" stroke-width="2"/>
+<line x1="450" y1="400" x2="86.26933041053576" y2="190" stroke="#4a5568" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="450" y1="400" x2="660" y2="190" stroke="#4a5568" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="320" y1="400" x2="580" y2="400" stroke="#4a5568" stroke-width="2" stroke-dasharray="7 6"/>
+<path d="M380 400 A70 70 0 0 1 389.3782217350893 365" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M499.49747468305833 350.50252531694167 A70 70 0 0 1 520 400" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="450" y1="400" x2="374.3154418870665" y2="356.3035" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="348.33467977353337,341.3035 383.61544188706654,340.1954274896094 365.0154418870665,372.41157251039056" fill="#2e6b62"/>
+<line x1="450" y1="400" x2="530.2940963240761" y2="319.70590367592393" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="551.5072997596725,298.4927002403275 543.446282454146,332.8580898059937 517.1419101940063,306.55371754585417" fill="#8a6d0d"/>
+<line x1="450" y1="400" x2="450" y2="526.23" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="450,560.23 428.92,526.23 471.08,526.23" fill="#1e2a44"/>
+<circle cx="450" cy="400" r="15" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="160" y="352" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">T₁ = 35.9 N</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="554" y="350" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">T₂ = 43.9 N</text>
+<text x="300" y="408" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">30°</text>
+<text x="600" y="408" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">45°</text>
+<text x="472" y="484" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">W = 49 N</text>
+<text x="450" y="660" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Head to tail, the three forces close up</text>
+<line x1="330" y1="698" x2="330" y2="828.23" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="330,858.23 311.4,828.23 348.6,828.23" fill="#1e2a44"/>
+<line x1="330" y1="858.23" x2="252.58339107949766" y2="813.5335" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="228.33467977353337,799.5335 261.26339107949764,798.4992989903021 243.90339107949765,828.5677010096979" fill="#2e6b62"/>
+<line x1="228.33467977353337" y1="799.5335" x2="310.18817018892395" y2="717.7861416030755" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="330,698 322.4555779828308,730.0694760859427 297.9207623950171,705.5028071202083" fill="#8a6d0d"/>
+<text x="348" y="786.115" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">W</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="261.1673398867667" y="864.88175" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">T₁</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="259.1673398867667" y="752.76675" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="end">T₂</text>
+<text x="690" y="758" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Closed triangle:</text>
+<text x="690" y="792" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">resultant = 0</text>
+<text x="690" y="848" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">T₁cos30° = T₂cos45°</text>
+<text x="690" y="880" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">T₁sin30° + T₂sin45° = 49</text>
+</svg>

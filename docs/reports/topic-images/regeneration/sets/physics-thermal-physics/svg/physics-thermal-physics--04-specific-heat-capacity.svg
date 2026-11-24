@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1050" width="900" height="1050" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1050" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Measuring specific heat capacity</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Heat a metal block, record the energy and temperature rise</text>
+<rect x="160" y="190" width="360" height="260" rx="14" fill="#f1e5c4" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="200" y="230" width="280" height="190" rx="8" fill="#c7ccd8" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="260" y="150" width="34" height="178" rx="5" fill="#b5602e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="277" y="134" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">heater</text>
+<rect x="388" y="150" width="20" height="190" rx="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2"/>
+<rect x="394" y="220" width="8" height="120" rx="0" fill="#d63a3a"/>
+<circle cx="398" cy="340" r="13" fill="#d63a3a" stroke="#1e2a44" stroke-width="2"/>
+<text x="498" y="134" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">thermometer</text>
+<text x="340" y="405" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1.0 kg metal block</text>
+<text x="535" y="236" font-size="20" font-weight="400" fill="#8a6d0d" text-anchor="start">insulation</text>
+<text x="540" y="298" font-size="31" font-weight="700" fill="#b5602e" text-anchor="start">+16 °C</text>
+<text x="540" y="335" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">rise in 5 min</text>
+<path d="M130 580 V520 H272 M348 520 H560 V560 M560 660 V700 H130 V636" fill="none" stroke="#1e2a44" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="92" y1="587" x2="168" y2="587" stroke="#1e2a44" stroke-width="3"/>
+<rect x="106" y="598" width="48" height="8" rx="3" fill="#1e2a44"/>
+<line x1="92" y1="621" x2="168" y2="621" stroke="#1e2a44" stroke-width="3"/>
+<rect x="106" y="632" width="48" height="8" rx="3" fill="#1e2a44"/>
+<text x="176" y="578" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">+</text>
+<text x="182" y="616" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">12 V</text>
+<circle cx="310" cy="520" r="38" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<text x="310" y="529" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<text x="310" y="594" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">4.0 A</text>
+<line x1="158" y1="502" x2="240" y2="502" stroke="#2e6b62" stroke-width="3.5" marker-end="url(#ahT)"/>
+<text x="162" y="490" font-size="19" font-weight="400" fill="#2e6b62" text-anchor="start">current</text>
+<rect x="538" y="570" width="44" height="80" rx="0" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<text x="594" y="617" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">heater</text>
+<path d="M560 560 H760 V578 M760 642 V660 H560" fill="none" stroke="#1e2a44" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="760" cy="610" r="32" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<text x="760" y="619" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">V</text>
+<circle cx="560" cy="560" r="6" fill="#1e2a44"/><circle cx="560" cy="660" r="6" fill="#1e2a44"/>
+<text x="450" y="744" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">A in series, V across the heater</text>
+<rect x="30" y="770" width="840" height="250" rx="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="820" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">E = I × V × t = 4.0 × 12 × 300 = 14 400 J</text>
+<text x="60" y="877" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">c = E ÷ (m × Δθ)</text>
+<text x="60" y="925" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">= 14 400 ÷ (1.0 × 16)</text>
+<text x="60" y="982" font-size="31" font-weight="700" fill="#2e6b62" text-anchor="start">= 900 J/(kg °C)</text>
+<text x="840" y="982" font-size="20" font-weight="400" fill="#4a5568" text-anchor="end">too high if energy is lost</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1200" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">A reflex arc</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Fast, automatic, protective</text>
+<defs><marker id="ahN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d9a"/></marker>
+<marker id="ahRb" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker>
+<marker id="ahRr" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5402e"/></marker></defs><polygon points="115.0,136.0 122.0,157.9 144.4,153.0 129.0,170.0 144.4,187.0 122.0,182.1 115.0,204.0 108.0,182.1 85.6,187.0 101.0,170.0 85.6,153.0 108.0,157.9" fill="#b5402e" stroke="#7a2a1f" stroke-width="2"/>
+<text x="190" y="178" font-size="21" font-weight="700" fill="#b5402e" text-anchor="start">Stimulus: hot</text>
+<rect x="40" y="240" width="192" height="42" rx="8" fill="#f0dcb4" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="250" y="274" font-size="21" font-weight="700" fill="#2e7d9a" text-anchor="start">Receptor in skin</text>
+<circle cx="500" cy="580" r="190" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<g fill="#c4d4da" stroke="#1e2a44" stroke-width="5"><ellipse cx="435" cy="465" rx="28" ry="62"/><ellipse cx="565" cy="465" rx="28" ry="62"/><rect x="413" y="525" width="174" height="110"/><ellipse cx="425" cy="675" rx="38" ry="48"/><ellipse cx="575" cy="675" rx="38" ry="48"/></g>
+<g fill="#c4d4da" stroke="none"><ellipse cx="435" cy="465" rx="28" ry="62"/><ellipse cx="565" cy="465" rx="28" ry="62"/><rect x="413" y="525" width="174" height="110"/><ellipse cx="425" cy="675" rx="38" ry="48"/><ellipse cx="575" cy="675" rx="38" ry="48"/></g>
+<path d="M130 272 L170 330 L228 350 L300 390" fill="none" stroke="#2e7d9a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="300" y1="390" x2="330" y2="410" stroke="#2e7d9a" stroke-width="5" marker-end="url(#ahN)"/>
+<path d="M330 410 L380 490 L426 522" fill="none" stroke="#2e7d9a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="380" y1="490" x2="424" y2="520" stroke="#2e7d9a" stroke-width="5" marker-end="url(#ahN)"/>
+<circle cx="130" cy="260" r="14" fill="#d6e7ef" stroke="#2e7d9a" stroke-width="3"/>
+<circle cx="228" cy="350" r="22" fill="#d6e7ef" stroke="#2e7d9a" stroke-width="3"/>
+<path d="M441 533 L494 572 L446 618" fill="none" stroke="#8a6d0d" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="494" cy="572" r="22" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="441" cy="533" r="11" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<circle cx="446" cy="618" r="11" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="440" y1="629" x2="434" y2="644" stroke="#b5402e" stroke-width="4"/>
+<path d="M430 670 L370 710 L300 790" fill="none" stroke="#b5402e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="345" y1="738" x2="300" y2="790" stroke="#b5402e" stroke-width="5" marker-end="url(#ahRb)"/>
+<path d="M300 790 L210 860 L150 908" fill="none" stroke="#b5402e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="190" y1="876" x2="150" y2="908" stroke="#b5402e" stroke-width="5" marker-end="url(#ahRb)"/>
+<circle cx="430" cy="665" r="22" fill="#f0cbc3" stroke="#b5402e" stroke-width="3"/>
+<line x1="600" y1="418" x2="600" y2="342" stroke="#1e2a44" stroke-width="5" marker-end="url(#ah)"/>
+<text x="600" y="324" font-size="19" font-weight="700" fill="#4a5568" text-anchor="middle">also up to brain</text>
+<ellipse cx="120" cy="980" rx="100" ry="42" fill="#ecc8c2" stroke="#b5402e" stroke-width="3"/>
+<line x1="70" y1="958" x2="70" y2="1002" stroke="#b7746a" stroke-width="2.5"/>
+<line x1="94" y1="958" x2="94" y2="1002" stroke="#b7746a" stroke-width="2.5"/>
+<line x1="118" y1="958" x2="118" y2="1002" stroke="#b7746a" stroke-width="2.5"/>
+<line x1="142" y1="958" x2="142" y2="1002" stroke="#b7746a" stroke-width="2.5"/>
+<line x1="166" y1="958" x2="166" y2="1002" stroke="#b7746a" stroke-width="2.5"/>
+<line x1="190" y1="958" x2="190" y2="1002" stroke="#b7746a" stroke-width="2.5"/>
+<text x="40" y="1060" font-size="21" font-weight="700" fill="#b5402e" text-anchor="start">Effector: muscle contracts</text>
+<line x1="228" y1="360" x2="150" y2="408" stroke="#1e2a44" stroke-width="2"/><circle cx="150" cy="408" r="5" fill="#1e2a44"/>
+<text x="40" y="441" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="start">Cell body in swelling</text>
+<text x="40" y="469" font-size="19" font-weight="400" fill="#2e7d9a" text-anchor="start">of dorsal root</text>
+<text x="40" y="539" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="start">Sensory neurone</text>
+<text x="316" y="570" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="end">Synapse</text>
+<polyline points="414,542 330,583 414,612" fill="none" stroke="#1e2a44" stroke-width="2"/>
+<text x="40" y="719" font-size="20" font-weight="700" fill="#b5402e" text-anchor="start">Motor neurone</text>
+<text x="40" y="747" font-size="19" font-weight="400" fill="#b5402e" text-anchor="start">cell body in cord</text>
+<text x="300" y="859" font-size="20" font-weight="700" fill="#4a5568" text-anchor="start">Ventral root</text>
+<line x1="655" y1="490" x2="714" y2="416" stroke="#1e2a44" stroke-width="2"/><circle cx="714" cy="416" r="5" fill="#1e2a44"/>
+<text x="726" y="400" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">White matter</text>
+<text x="726" y="428" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">(axons to brain)</text>
+<line x1="516" y1="566" x2="715" y2="520" stroke="#1e2a44" stroke-width="2"/><circle cx="715" cy="520" r="5" fill="#1e2a44"/>
+<text x="726" y="528" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">Relay neurone</text>
+<line x1="585" y1="680" x2="715" y2="720" stroke="#1e2a44" stroke-width="2"/><circle cx="715" cy="720" r="5" fill="#1e2a44"/>
+<text x="726" y="727" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Grey matter</text>
+<rect x="30" y="1080" width="840" height="86" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="1114" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">Reflex time: 0.90 m ÷ 50 m/s = 18 ms, plus 2 synapses × 1.0 ms</text>
+<text x="450" y="1149" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">= 20 ms in total</text>
+</svg>

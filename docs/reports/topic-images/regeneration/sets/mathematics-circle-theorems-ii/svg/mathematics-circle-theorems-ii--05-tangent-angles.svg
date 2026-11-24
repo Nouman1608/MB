@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 770" width="900" height="770" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="770" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Tangent angles: worked</text>
+
+<circle cx="190" cy="380" r="130" fill="#dce9e7" stroke="#1e2a44" stroke-width="4"/>
+<path d="M213.66662265747917 329.2467639259476 A56 56 0 0 1 213.66662265747917 430.7532360740524" fill="none" stroke="#2e6b62" stroke-width="3.5"/>
+<path d="M244.94037402629093 322.1799876852355 A60 60 0 0 0 299.31884124848995 287.5370833896775" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<path d="M244.94037402629093 437.8200123147645 A60 60 0 0 1 299.31884124848995 472.4629166103225" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<path d="M417.8511205505996 342.80959296681846 A88 88 0 0 0 417.8511205505996 417.19040703318154" fill="none" stroke="#b5602e" stroke-width="3.5"/>
+<line x1="190" y1="380" x2="244.94037402629093" y2="262.1799876852355" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="190" y1="380" x2="244.94037402629093" y2="497.8200123147645" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="244.94037402629093" y1="262.1799876852355" x2="244.94037402629093" y2="497.8200123147645" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="9 6"/>
+<line x1="244.94037402629093" y1="262.1799876852355" x2="497.6062058098248" y2="380" stroke="#8a6d0d" stroke-width="5.5" stroke-linecap="round"/>
+<line x1="244.94037402629093" y1="497.8200123147645" x2="497.6062058098248" y2="380" stroke="#8a6d0d" stroke-width="5.5" stroke-linecap="round"/>
+<path d="M238.17848183843972 276.6809122778219 L252.67940643102614 283.44280446567313 L259.44129861887734 268.9418798730867" fill="none" stroke="#b5602e" stroke-width="2.5"/>
+<path d="M238.17848183843972 483.3190877221781 L252.67940643102614 476.55719553432687 L259.44129861887734 491.0581201269133" fill="none" stroke="#b5602e" stroke-width="2.5"/>
+<line x1="376.34470905894625" y1="310.214300398178" x2="366.20187077716946" y2="331.96568728705756" stroke="#b5602e" stroke-width="3" stroke-linecap="round"/>
+<line x1="366.20187077716946" y1="428.03431271294244" x2="376.34470905894625" y2="449.785699601822" stroke="#b5602e" stroke-width="3" stroke-linecap="round"/>
+<circle cx="190" cy="380" r="9" fill="#1e2a44"/>
+<circle cx="244.94037402629093" cy="262.1799876852355" r="9" fill="#1e2a44"/>
+<circle cx="244.94037402629093" cy="497.8200123147645" r="9" fill="#1e2a44"/>
+<circle cx="497.6062058098248" cy="380" r="9" fill="#1e2a44"/>
+<text x="238.94037402629093" y="240.17998768523552" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<text x="238.94037402629093" y="539.8200123147644" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">B</text>
+<text x="166" y="388" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="end">O</text>
+<text x="521.6062058098248" y="388" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">P</text>
+<text x="252" y="388" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">130°</text>
+<text x="344.9403740262909" y="274.1799876852355" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">65°</text>
+<text x="344.9403740262909" y="503.8200123147645" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">65°</text>
+<text x="389.6062058098248" y="388" font-size="21" font-weight="700" fill="#b5602e" text-anchor="end">50°</text>
+<text x="450" y="650" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">Given: ∠APB = 50°</text>
+<text x="450" y="696" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">PA = PB, so ∠PAB = (180° − 50°) ÷ 2 = 65°</text>
+<text x="450" y="736" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">Quadrilateral: ∠AOB = 360° − 90° − 90° − 50° = 130°</text>
+</svg>

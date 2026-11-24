@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 902" width="900" height="902" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="902" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Mean of grouped data</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Heights of 40 students (cm)</text>
+<text x="436" y="128" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">Modal class: 160–&lt;170</text>
+<text x="464" y="128" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">mean ≈ 168.5</text>
+<line x1="110" y1="435" x2="830" y2="435" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="110" y1="350" x2="830" y2="350" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="110" y1="265" x2="830" y2="265" stroke="#d6e2e0" stroke-width="1.5"/>
+<line x1="110" y1="180" x2="830" y2="180" stroke="#d6e2e0" stroke-width="1.5"/>
+<rect x="110" y="350" width="180" height="170" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="200" y="338" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">8</text>
+<text x="200" y="464.75" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">155</text>
+<path d="M200 481.25 l9 9 l-9 9 l-9 -9 z" fill="#1e2a44"/>
+<rect x="290" y="201.25" width="180" height="318.75" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="380" y="189.25" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<text x="380" y="464.75" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">165</text>
+<path d="M380 481.25 l9 9 l-9 9 l-9 -9 z" fill="#1e2a44"/>
+<rect x="470" y="265" width="180" height="255" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="560" y="253" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">12</text>
+<text x="560" y="464.75" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">175</text>
+<path d="M560 481.25 l9 9 l-9 9 l-9 -9 z" fill="#1e2a44"/>
+<rect x="650" y="413.75" width="180" height="106.25" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="740" y="401.75" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">5</text>
+<text x="740" y="464.75" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">185</text>
+<path d="M740 481.25 l9 9 l-9 9 l-9 -9 z" fill="#1e2a44"/>
+<line x1="443" y1="174" x2="443" y2="520" stroke="#b5602e" stroke-width="3.5" stroke-dasharray="9 6"/>
+<line x1="110" y1="520" x2="830" y2="520" stroke="#1e2a44" stroke-width="3"/>
+<line x1="110" y1="170" x2="110" y2="520" stroke="#1e2a44" stroke-width="3"/>
+<text x="110" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">150</text>
+<text x="290" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">160</text>
+<text x="470" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">170</text>
+<text x="650" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">180</text>
+<text x="830" y="548" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">190</text>
+<text x="98" y="526" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<text x="98" y="441" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">4</text>
+<text x="98" y="356" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">8</text>
+<text x="98" y="271" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">12</text>
+<text x="98" y="186" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">16</text>
+<text x="470" y="582" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Height (cm)</text>
+<text transform="translate(54 350) rotate(-90)" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Students</text>
+<text x="40" y="640" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">midpoint × students</text>
+<rect x="40" y="658" width="400" height="50" rx="8" fill="#fff" stroke="#1e2a44" stroke-width="2"/><text x="240" y="690" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">155 × 8 = 1240</text>
+<rect x="460" y="658" width="400" height="50" rx="8" fill="#fff" stroke="#1e2a44" stroke-width="2"/><text x="660" y="690" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">165 × 15 = 2475</text>
+<rect x="40" y="720" width="400" height="50" rx="8" fill="#fff" stroke="#1e2a44" stroke-width="2"/><text x="240" y="752" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">175 × 12 = 2100</text>
+<rect x="460" y="720" width="400" height="50" rx="8" fill="#fff" stroke="#1e2a44" stroke-width="2"/><text x="660" y="752" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">185 × 5 = 925</text>
+<text x="450" y="826" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">6740 ÷ 40 = 168.5 cm</text>
+<text x="450" y="866" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">Only an estimate: each midpoint stands in for its class.</text>
+</svg>

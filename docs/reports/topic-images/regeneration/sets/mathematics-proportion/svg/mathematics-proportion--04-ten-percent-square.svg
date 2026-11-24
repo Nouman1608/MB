@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 934" width="900" height="934" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="934" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">x up 10%: y up 21%</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">y = kx², take x = 1 and k = 1</text>
+<rect x="220" y="180" width="440" height="440" fill="#dce9e7" stroke="#1e2a44" stroke-width="3.5"/>
+<rect x="660" y="180" width="44" height="440" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="220" y="620" width="440" height="44" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="660" y="620" width="44" height="44" fill="#b5602e" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="220" y1="154" x2="660" y2="154" stroke="#1e2a44" stroke-width="3" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="440" y="140" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">x = 1</text>
+<text x="682" y="140" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">+10%</text>
+<text x="440" y="392" font-size="30" font-weight="700" fill="#1e2a44" text-anchor="middle">1 × 1</text>
+<text x="440" y="432" font-size="28" font-weight="700" fill="#2e6b62" text-anchor="middle">= 1.00</text>
+<line x1="682" y1="370" x2="734" y2="360" stroke="#8a6d0d" stroke-width="2"/>
+<text x="740" y="367" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">0.10</text>
+<line x1="440" y1="642" x2="440" y2="698" stroke="#8a6d0d" stroke-width="2"/>
+<text x="440" y="724" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">0.10</text>
+<line x1="682" y1="642" x2="734" y2="688" stroke="#b5602e" stroke-width="2"/>
+<text x="740" y="696" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">0.01</text>
+<rect x="240" y="763" width="420" height="42" rx="21" fill="#2e6b62"/><text x="450" y="791" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">1 + 0.10 + 0.10 + 0.01 = 1.21</text>
+<rect x="240" y="817" width="420" height="42" rx="21" fill="#b5602e"/><text x="450" y="845" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">1.1² = 1.21, so up 21%</text>
+<text x="450" y="896" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Not 20%: square the multiplier 1.1.</text>
+</svg>

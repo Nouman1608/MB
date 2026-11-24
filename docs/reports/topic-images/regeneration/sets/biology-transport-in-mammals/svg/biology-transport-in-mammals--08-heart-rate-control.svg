@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1135" width="900" height="1135" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1135" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">How heart rate is controlled</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">A negative feedback loop</text>
+<text x="450" y="156" font-size="20" font-weight="700" fill="#4a5568" text-anchor="middle">Receptors in carotid arteries and aorta</text>
+<rect x="30" y="182" width="400" height="104" rx="14" fill="#cfe3ea" stroke="#4d8aa3" stroke-width="3"/>
+<text x="230" y="222" font-size="22" font-weight="700" fill="#2a7090" text-anchor="middle">Chemoreceptors</text>
+<text x="230" y="258" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">detect fall in pH</text>
+<rect x="470" y="182" width="400" height="104" rx="14" fill="#cfe3ea" stroke="#4d8aa3" stroke-width="3"/>
+<text x="670" y="222" font-size="22" font-weight="700" fill="#2a7090" text-anchor="middle">Pressure receptors</text>
+<text x="670" y="258" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">detect blood pressure</text>
+<line x1="230" y1="286" x2="338" y2="352" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="670" y1="286" x2="562" y2="352" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<rect x="200" y="358" width="500" height="102" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="398" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Cardiac control centre</text>
+<text x="450" y="434" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">in the medulla oblongata</text>
+<line x1="330" y1="460" x2="330" y2="598" stroke="#b5352e" stroke-width="4.5" marker-end="url(#ahR)"/>
+<line x1="570" y1="460" x2="570" y2="598" stroke="#2a7090" stroke-width="4.5" marker-end="url(#ah)"/>
+<text x="312" y="510" font-size="21" font-weight="700" fill="#b5352e" text-anchor="end">Sympathetic</text>
+<text x="312" y="538" font-size="20" font-weight="400" fill="#b5352e" text-anchor="end">speeds up</text>
+<text x="312" y="566" font-size="20" font-weight="400" fill="#4a5568" text-anchor="end">noradrenaline</text>
+<text x="588" y="510" font-size="21" font-weight="700" fill="#2a7090" text-anchor="start">Vagus nerve</text>
+<text x="588" y="538" font-size="20" font-weight="400" fill="#2a7090" text-anchor="start">slows down</text>
+<text x="588" y="566" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">acetylcholine</text>
+<rect x="200" y="604" width="500" height="102" rx="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<text x="450" y="644" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">SAN (pacemaker)</text>
+<text x="450" y="680" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">sets the heart rate</text>
+<rect x="732" y="618" width="150" height="74" rx="14" fill="#fff" stroke="#b5602e" stroke-width="3"/>
+<text x="807" y="662" font-size="21" font-weight="700" fill="#b5602e" text-anchor="middle">Adrenaline</text>
+<line x1="730" y1="655" x2="704" y2="655" stroke="#b5602e" stroke-width="3.5" marker-end="url(#ahR)"/>
+<line x1="450" y1="706" x2="450" y2="744" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="250" y="746" width="400" height="56" rx="28" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="782" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Heart rate changes</text>
+<path d="M248 774 H92 V300" fill="none" stroke="#566a80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 7"/>
+<path d="M82 304 L92 286 L102 304 Z" fill="#566a80"/>
+<text x="450" y="838" font-size="20" font-weight="700" fill="#4a5568" text-anchor="middle">Faster blood flow clears CO₂: pH and pressure return</text>
+<text x="60" y="896" font-size="20" font-weight="700" fill="#4a5568" text-anchor="start">Heart rate (beats per min), +121% in exercise</text>
+<line x1="60" y1="1072" x2="840" y2="1072" stroke="#1e2a44" stroke-width="3"/>
+<rect x="95" y="1017.6" width="110" height="54.400000000000006" fill="#1e2a44"/>
+<text x="150" y="1005.6" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">68</text>
+<text x="150" y="1102" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Rest: pH 7.40</text>
+<rect x="395" y="952" width="110" height="120" fill="#b5602e"/>
+<text x="450" y="940" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">150</text>
+<text x="450" y="1102" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Exercise: pH 7.32</text>
+<rect x="695" y="1006.4" width="110" height="65.60000000000001" fill="#2e6b62"/>
+<text x="750" y="994.4" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">82</text>
+<text x="750" y="1102" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Recovery: pH 7.39</text>
+</svg>

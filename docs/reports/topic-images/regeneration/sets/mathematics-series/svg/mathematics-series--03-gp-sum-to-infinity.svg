@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1030" width="900" height="1030" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1030" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Why a sum to infinity exists</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Each new term is smaller, so S<tspan baseline-shift="sub" font-size="70%">n</tspan> levels off</text>
+<line x1="120" y1="650" x2="848" y2="650" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="120" y1="650" x2="120" y2="168" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="120" y1="650" x2="120" y2="660" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="120" y="690" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="297.5" y1="650" x2="297.5" y2="660" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="297.5" y="690" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<line x1="475" y1="650" x2="475" y2="660" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="475" y="690" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">10</text>
+<line x1="652.5" y1="650" x2="652.5" y2="660" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="652.5" y="690" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">15</text>
+<line x1="830" y1="650" x2="830" y2="660" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="830" y="690" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">20</text>
+<line x1="110" y1="650" x2="120" y2="650" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="657" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="110" y1="559.8" x2="120" y2="559.8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="566.8" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">50</text>
+<line x1="110" y1="469.6" x2="120" y2="469.6" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="476.6" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">100</text>
+<line x1="110" y1="379.4" x2="120" y2="379.4" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="386.4" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">150</text>
+<line x1="110" y1="289.2" x2="120" y2="289.2" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="296.2" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">200</text>
+<line x1="110" y1="199" x2="120" y2="199" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="104" y="206" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">250</text>
+<text x="475" y="732" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">n (number of terms added)</text>
+<text x="40" y="410" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle" transform="rotate(-90 40 410)">S<tspan baseline-shift="sub" font-size="70%">n</tspan></text>
+<line x1="120" y1="211.628" x2="848" y2="211.628" stroke="#8a6d0d" stroke-width="3" stroke-dasharray="14 8"/>
+<text x="835" y="197.628" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="end">S∞ = 243</text>
+<path d="M155.5 503.9 L191.0 406.5 L226.5 341.5 L262.0 298.2 L297.5 269.4 L333.0 250.1 L368.5 237.3 L404.0 228.7 L439.5 223.0 L475.0 219.2 L510.5 216.7 L546.0 215.0 L581.5 213.9 L617.0 213.1 L652.5 212.6 L688.0 212.3 L723.5 212.1 L759.0 211.9 L794.5 211.8 L830.0 211.8" fill="none" stroke="#7bb3aa" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="297.5" y1="211.628" x2="297.5" y2="269.356" stroke="#b5602e" stroke-width="3"/>
+<text x="285.5" y="247.49200000000002" font-size="20" font-weight="700" fill="#b5602e" text-anchor="end">gap 32</text>
+<circle cx="155.5" cy="503.876" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="191" cy="406.46000000000004" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="226.5" cy="341.516" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="262" cy="298.22" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="297.5" cy="269.356" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
+<circle cx="333" cy="250.11333333333334" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="368.5" cy="237.28488888888887" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="404" cy="228.7325925925926" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="439.5" cy="223.03106172839506" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="475" cy="219.23004115226342" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="510.5" cy="216.69602743484228" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="546" cy="215.00668495656151" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="581.5" cy="213.88045663770765" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="617" cy="213.12963775847174" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="652.5" cy="212.62909183898114" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="688" cy="212.29539455932075" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="723.5" cy="212.07292970621387" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="759" cy="211.9246198041426" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="794.5" cy="211.82574653609504" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="830" cy="211.75983102406332" r="7.5" fill="#fff" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="319.5" y="305.356" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">S<tspan baseline-shift="sub" font-size="70%">5</tspan> = 211</text>
+<rect x="90" y="840" width="720" height="66" rx="33" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="450" y="881.28" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">a = 81, r = 2/3: S∞ = 81 ÷ (1 − 2/3) = 243</text>
+<rect x="90" y="926" width="720" height="66" rx="33" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><text x="450" y="967.28" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">gap = 243(2/3)<tspan baseline-shift="super" font-size="70%">n</tspan> is below 1 from n = 14</text>
+</svg>

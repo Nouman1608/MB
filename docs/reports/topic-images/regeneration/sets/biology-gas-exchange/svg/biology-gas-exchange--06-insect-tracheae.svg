@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1030" width="900" height="1030" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1030" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Insect tracheal system</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Air goes straight to the tissues</text>
+<defs>
+<marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+<marker id="ahBigT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+<marker id="ahBigR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker>
+<marker id="ahBigO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+<marker id="ahT2" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="20" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+</defs><rect x="60" y="240" width="780" height="378" rx="50" fill="#ffffff" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="200" y1="310" x2="700" y2="310" stroke="#2e6b62" stroke-width="11"/>
+<line x1="200" y1="238" x2="200" y2="420" stroke="#2e6b62" stroke-width="8"/>
+<path d="M200 315 C190 370 150 390 114 420" fill="none" stroke="#2e6b62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M200 315 C210 370 250 390 286 420" fill="none" stroke="#2e6b62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="114" y1="420" x2="114" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="114" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<line x1="200" y1="420" x2="200" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="200" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<line x1="286" y1="420" x2="286" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="286" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<rect x="181" y="226" width="38" height="22" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="200" y1="150" x2="200" y2="220" stroke="#2e6b62" stroke-width="5" marker-end="url(#ahBigT)"/>
+<line x1="450" y1="238" x2="450" y2="420" stroke="#2e6b62" stroke-width="8"/>
+<path d="M450 315 C440 370 400 390 364 420" fill="none" stroke="#2e6b62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M450 315 C460 370 500 390 536 420" fill="none" stroke="#2e6b62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="364" y1="420" x2="364" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="364" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<line x1="450" y1="420" x2="450" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="450" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<line x1="536" y1="420" x2="536" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="536" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<rect x="431" y="226" width="38" height="22" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="450" y1="150" x2="450" y2="220" stroke="#2e6b62" stroke-width="5" marker-end="url(#ahBigT)"/>
+<line x1="700" y1="238" x2="700" y2="420" stroke="#2e6b62" stroke-width="8"/>
+<path d="M700 315 C690 370 650 390 614 420" fill="none" stroke="#2e6b62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M700 315 C710 370 750 390 786 420" fill="none" stroke="#2e6b62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="614" y1="420" x2="614" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="614" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<line x1="700" y1="420" x2="700" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="700" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<line x1="786" y1="420" x2="786" y2="508" stroke="#6fa7a0" stroke-width="3"/>
+<ellipse cx="786" cy="545" rx="32" ry="37" fill="#e38b6d" stroke="#c0643a" stroke-width="2.5"/>
+<rect x="681" y="226" width="38" height="22" rx="6" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="700" y1="150" x2="700" y2="220" stroke="#2e6b62" stroke-width="5" marker-end="url(#ahBigT)"/>
+<text x="474" y="196" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">O<tspan font-size="70%" dy="0.3em">2</tspan><tspan dy="-0.3em">​</tspan> in</text>
+<circle cx="255" cy="191" r="19" fill="#1e2a44"/><text x="255" y="198" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<circle cx="230" cy="276" r="19" fill="#1e2a44"/><text x="230" y="283" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<circle cx="390" cy="475" r="19" fill="#1e2a44"/><text x="390" y="482" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<circle cx="364" cy="552" r="19" fill="#1e2a44"/><text x="364" y="559" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<line x1="58" y1="700" x2="226" y2="700" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahBigO)"/>
+<line x1="842" y1="700" x2="674" y2="700" stroke="#8a6d0d" stroke-width="4" marker-end="url(#ahBigO)"/>
+<text x="450" y="708" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">Abdomen squeezes</text>
+<text x="450" y="750" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">(larger or active insects)</text>
+<rect x="30" y="790" width="840" height="214" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="70" cy="830" r="19" fill="#1e2a44"/><text x="70" y="837" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="106" y="837" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Spiracle: air enters</text>
+<circle cx="70" cy="874" r="19" fill="#1e2a44"/><text x="70" y="881" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="106" y="881" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Trachea: air tube to the tissues</text>
+<circle cx="70" cy="918" r="19" fill="#1e2a44"/><text x="70" y="925" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="106" y="925" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Tracheole: thin end tube</text>
+<circle cx="70" cy="962" r="19" fill="#1e2a44"/><text x="70" y="969" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="106" y="969" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Muscle cell: takes O<tspan font-size="70%" dy="0.3em">2</tspan><tspan dy="-0.3em">​</tspan> directly</text>
+</svg>

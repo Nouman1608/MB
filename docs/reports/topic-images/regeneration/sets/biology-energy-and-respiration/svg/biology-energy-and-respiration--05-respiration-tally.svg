@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 830" width="900" height="830" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="830" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">What one glucose gives</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Totals from glycolysis, link reaction and Krebs cycle</text>
+<rect x="40" y="130" width="28" height="28" rx="5" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/>
+<text x="78" y="152" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Glycolysis</text>
+<rect x="230" y="130" width="28" height="28" rx="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="268" y="152" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Link ×2</text>
+<rect x="400" y="130" width="28" height="28" rx="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="2"/>
+<text x="438" y="152" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Krebs ×2</text>
+<text x="40" y="258" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5"></tspan></text>
+<rect x="250" y="222" width="104.4" height="56" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="302.2" y="258" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">2</text>
+<rect x="354.4" y="222" width="208.8" height="56" fill="#1e2a44" stroke="#1e2a44" stroke-width="2"/>
+<text x="458.79999999999995" y="258" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="581.2" y="262" font-size="30" font-weight="700" fill="#2e6b62" text-anchor="start">6</text>
+<text x="40" y="368" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Reduced NAD</text>
+<rect x="250" y="332" width="104.4" height="56" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/>
+<text x="302.2" y="368" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<rect x="354.4" y="332" width="104.4" height="56" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="406.59999999999997" y="368" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">2</text>
+<rect x="458.79999999999995" y="332" width="313.20000000000005" height="56" fill="#1e2a44" stroke="#1e2a44" stroke-width="2"/>
+<text x="615.4" y="368" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="790" y="372" font-size="30" font-weight="700" fill="#2e6b62" text-anchor="start">10</text>
+<text x="40" y="478" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Reduced FAD</text>
+<rect x="250" y="442" width="104.4" height="56" fill="#1e2a44" stroke="#1e2a44" stroke-width="2"/>
+<text x="302.2" y="478" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="372.4" y="482" font-size="30" font-weight="700" fill="#2e6b62" text-anchor="start">2</text>
+<text x="40" y="588" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">ATP (direct)</text>
+<rect x="250" y="552" width="104.4" height="56" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/>
+<text x="302.2" y="588" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<rect x="354.4" y="552" width="104.4" height="56" fill="#1e2a44" stroke="#1e2a44" stroke-width="2"/>
+<text x="406.59999999999997" y="588" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="476.79999999999995" y="592" font-size="30" font-weight="700" fill="#2e6b62" text-anchor="start">4</text>
+<rect x="30" y="670" width="840" height="130" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="56" y="718" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">6 CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">= the 6 carbons of glucose</tspan></text>
+<text x="56" y="766" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">12 reduced NAD and FAD carry hydrogen on</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1070" width="900" height="1070" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1070" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Vertical height or slant height?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">volume uses the vertical one</text>
+<polygon points="450,164 274,358 450,448" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="450,164 450,448 626,358" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round"/>
+<line x1="450" y1="164" x2="450" y2="358" stroke="#2e6b62" stroke-width="4" stroke-dasharray="11 7"/>
+<line x1="450" y1="358" x2="538" y2="403" stroke="#1e2a44" stroke-width="3" stroke-dasharray="10 7"/>
+<line x1="450" y1="164" x2="538" y2="403" stroke="#b5602e" stroke-width="4.5"/>
+<circle cx="450" cy="358" r="6" fill="#1e2a44"/>
+<text x="422" y="262" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle" stroke="#ffffff" stroke-width="5" paint-order="stroke">15</text>
+<text x="466" y="288" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle" stroke="#ffffff" stroke-width="5" paint-order="stroke">17</text>
+<text x="470" y="410" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle" stroke="#ffffff" stroke-width="5" paint-order="stroke">8</text>
+<text x="450" y="536" font-size="26" font-weight="700" fill="#b5602e" text-anchor="middle">15<tspan baseline-shift="super" font-size="68%">2</tspan> + 8<tspan baseline-shift="super" font-size="68%">2</tspan> = 17<tspan baseline-shift="super" font-size="68%">2</tspan></text>
+<text x="450" y="576" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">slant height from vertical height</text>
+<line x1="60" y1="610" x2="840" y2="610" stroke="#c9d6d4" stroke-width="2.5"/>
+<path d="M318 888 L450 712 L582 888 A132 30 0 0 1 318 888 Z" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round"/>
+<line x1="450" y1="712" x2="450" y2="888" stroke="#2e6b62" stroke-width="4" stroke-dasharray="11 7"/>
+<line x1="450" y1="888" x2="582" y2="888" stroke="#1e2a44" stroke-width="3" stroke-dasharray="10 7"/>
+<line x1="450" y1="712" x2="582" y2="888" stroke="#b5602e" stroke-width="4.5"/>
+<path d="M450 868 H470 V888" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="428" y="808" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle" stroke="#ffffff" stroke-width="5" paint-order="stroke">8</text>
+<text x="552" y="790" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle" stroke="#ffffff" stroke-width="5" paint-order="stroke">10</text>
+<text x="516" y="940" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle" stroke="#ffffff" stroke-width="5" paint-order="stroke">6</text>
+<text x="100" y="698" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">vertical</text>
+<text x="100" y="728" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">height: volume</text>
+<text x="100" y="788" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">slant: curved</text>
+<text x="100" y="818" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">surface area</text>
+<text x="450" y="1000" font-size="26" font-weight="700" fill="#b5602e" text-anchor="middle">6<tspan baseline-shift="super" font-size="68%">2</tspan> + 8<tspan baseline-shift="super" font-size="68%">2</tspan> = 10<tspan baseline-shift="super" font-size="68%">2</tspan></text>
+<text x="450" y="1036" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">l<tspan baseline-shift="super" font-size="68%">2</tspan> = r<tspan baseline-shift="super" font-size="68%">2</tspan> + h<tspan baseline-shift="super" font-size="68%">2</tspan></text>
+</svg>

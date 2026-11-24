@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" width="900" height="1000" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1000" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Electron transport and chemiosmosis</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Inner mitochondrial membrane (cristae)</text>
+<rect x="30" y="120" width="840" height="380" fill="#dce9e7"/>
+<rect x="30" y="540" width="840" height="430" fill="#f2e7b8"/>
+<rect x="30" y="500" width="840" height="40" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="46" y="156" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">Intermembrane space</text>
+<text x="46" y="952" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="start">Matrix</text>
+<rect x="95" y="474" width="110" height="130" rx="18" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="150" y1="466" x2="150" y2="400" stroke="#b5602e" stroke-width="4" stroke-linecap="round"/><polygon points="150,370 168,400 132,400" fill="#b5602e"/>
+<circle cx="150" cy="340" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="150" y="347" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<rect x="255" y="474" width="110" height="130" rx="18" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="310" y1="466" x2="310" y2="400" stroke="#b5602e" stroke-width="4" stroke-linecap="round"/><polygon points="310,370 328,400 292,400" fill="#b5602e"/>
+<circle cx="310" cy="340" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="310" y="347" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<rect x="415" y="474" width="110" height="130" rx="18" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="470" y1="466" x2="470" y2="400" stroke="#b5602e" stroke-width="4" stroke-linecap="round"/><polygon points="470,370 488,400 452,400" fill="#b5602e"/>
+<circle cx="470" cy="340" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="470" y="347" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<circle cx="230" cy="270" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="230" y="277" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<circle cx="390" cy="270" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="390" y="277" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<circle cx="530" cy="230" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="530" y="237" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<circle cx="560" cy="300" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="560" y="307" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<circle cx="610" cy="400" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="610" y="407" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<line x1="206" y1="540" x2="234" y2="540" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="254,540 234,552 234,528" fill="#8a6d0d"/>
+<line x1="366" y1="540" x2="394" y2="540" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="414,540 394,552 394,528" fill="#8a6d0d"/>
+<text x="230" y="466" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">e<tspan dy="-8" font-size="70%">−</tspan><tspan dy="8"></tspan></text>
+<text x="390" y="466" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">e<tspan dy="-8" font-size="70%">−</tspan><tspan dy="8"></tspan></text>
+<line x1="120" y1="795" x2="126.98503581420374" y2="629.9785288894367" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/><polygon points="128,606 141.37215314786576,630.5875074009144 112.59791848054172,629.369550377959" fill="#2e6b62"/>
+<line x1="180" y1="610" x2="186.17299944321772" y2="684.0759933186126" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/><polygon points="188,706 173.0185954343853,685.172193652682 199.32740345205013,682.9797929845432" fill="#2e6b62"/>
+<text x="196" y="736" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">NAD</text>
+<rect x="40" y="800" width="180" height="38" rx="19" fill="#dce9e7" stroke="#1e2a44" stroke-width="2"/><text x="130" y="826" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">reduced NAD</text>
+<text x="330" y="652" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Electron</text>
+<text x="330" y="682" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">transport chain</text>
+<line x1="470" y1="606" x2="470" y2="680" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="470,704 455.6,680 484.4,680" fill="#8a6d0d"/>
+<text x="470" y="746" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">O<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">→ H</tspan><tspan dy="5" font-size="70%">2</tspan><tspan dy="-5">O</tspan></text>
+<text x="470" y="782" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">final electron acceptor</text>
+<rect x="702" y="500" width="36" height="96" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><circle cx="720" cy="636" r="46" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="720" cy="360" r="22" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/><text x="720" y="367" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8"></tspan></text>
+<line x1="720" y1="384" x2="720" y2="464" stroke="#b5602e" stroke-width="4" stroke-linecap="round"/><polygon points="720,494 702,464 738,464" fill="#b5602e"/>
+<text x="720" y="722" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">ATP synthase</text>
+<text x="720" y="768" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">ADP + P<tspan dy="5" font-size="70%">i</tspan><tspan dy="-5" dx="5">→ ATP</tspan></text>
+<text x="450" y="880" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8" dx="5">pumped out, then flow back through ATP synthase</tspan></text>
+<text x="450" y="914" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">H<tspan dy="-8" font-size="70%">+</tspan><tspan dy="8" dx="5">gradient = chemiosmosis</tspan></text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1010" width="900" height="1010" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1010" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Other respiratory fuels</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Where lipids and proteins join the pathway</text>
+<rect x="30" y="160" width="270" height="120" rx="12" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="48" y="200" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Carbohydrate</text>
+<text x="48" y="236" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">about 16–17 kJ per g</text>
+<text x="48" y="266" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">RQ about 1.0</text>
+<rect x="30" y="370" width="270" height="120" rx="12" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="48" y="410" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Lipid</text>
+<text x="48" y="446" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">about 37–39 kJ per g</text>
+<text x="48" y="476" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">RQ about 0.7</text>
+<rect x="30" y="610" width="270" height="120" rx="12" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="48" y="650" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Protein</text>
+<text x="48" y="686" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">about 17 kJ per g</text>
+<text x="48" y="716" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">RQ about 0.9</text>
+<rect x="515" y="160" width="250" height="84" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="640" y="212" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Glycolysis</text>
+<rect x="515" y="350" width="250" height="84" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="640" y="402" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Pyruvate 3C</text>
+<rect x="515" y="540" width="250" height="84" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="640" y="592" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Acetyl CoA 2C</text>
+<rect x="515" y="730" width="250" height="84" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="640" y="782" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Krebs cycle</text>
+<line x1="640" y1="244" x2="640" y2="326" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/><polygon points="640,348 626.8,326 653.2,326" fill="#1e2a44"/>
+<line x1="640" y1="434" x2="640" y2="516" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/><polygon points="640,538 626.8,516 653.2,516" fill="#1e2a44"/>
+<line x1="640" y1="624" x2="640" y2="706" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/><polygon points="640,728 626.8,706 653.2,706" fill="#1e2a44"/>
+<line x1="300" y1="192" x2="488" y2="192" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="512,192 488,206.4 488,177.6" fill="#1e2a44"/>
+<text x="312" y="180" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">glucose</text>
+<line x1="300" y1="390" x2="492.84346039200244" y2="244.45776574188494" stroke="#b5602e" stroke-width="3.5" stroke-linecap="round"/><polygon points="512,230 501.5181198371334,255.95168950668346 484.1688009468715,232.96384197708642" fill="#b5602e"/>
+<text x="400" y="382" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">glycerol</text>
+<line x1="300" y1="490" x2="489.760232460261" y2="566.9782075074644" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/><polygon points="512,576 484.34715696473967,580.3220680313078 495.1733079557824,553.634346983621" fill="#2e6b62"/>
+<text x="340" y="490" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">fatty acids</text>
+<line x1="300" y1="710" x2="488.96487384500995" y2="765.2633121622199" stroke="#8a6d0d" stroke-width="3.5" stroke-linecap="round"/><polygon points="512,772 484.9228611423419,779.0843878552139 493.006886547678,751.4422364692259" fill="#8a6d0d"/>
+<text x="312" y="660" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">amino acids,</text>
+<text x="312" y="688" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">NH<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5" dx="5">removed</tspan></text>
+<text x="640" y="862" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">fatty acids cut into 2C units</text><text x="640" y="890" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">protein enters at pyruvate,</text><text x="640" y="918" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">acetyl CoA or Krebs cycle</text>
+<text x="450" y="980" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">Lipids: more hydrogen per gram, so more ATP</text>
+</svg>

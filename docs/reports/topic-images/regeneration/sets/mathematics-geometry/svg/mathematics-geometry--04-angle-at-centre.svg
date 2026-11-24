@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 820" width="900" height="820" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="820" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Angles on the same arc</text>
+
+<circle cx="450" cy="400" r="260" fill="#ffffff" stroke="#1e2a44" stroke-width="4"/>
+<path d="M214.359975370471 290.11925194741815 A260 260 0 0 1 685.640024629529 290.11925194741815" fill="none" stroke="#b5602e" stroke-width="8"/>
+<path d="M450 400 L379.3 367.0 A78 78 0 0 1 520.7 367.0 Z" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<path d="M289.9280164153289 604.8827959377477 L276.9 550.4 A56 56 0 0 1 333.8 570.0 Z" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<path d="M610.0719835846712 604.8827959377477 L566.2 570.0 A56 56 0 0 1 623.1 550.4 Z" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="214.359975370471" y1="290.11925194741815" x2="450" y2="400" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="685.640024629529" y1="290.11925194741815" x2="450" y2="400" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="214.359975370471" y1="290.11925194741815" x2="289.9280164153289" y2="604.8827959377477" stroke="#8a6d0d" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="685.640024629529" y1="290.11925194741815" x2="289.9280164153289" y2="604.8827959377477" stroke="#8a6d0d" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="214.359975370471" y1="290.11925194741815" x2="610.0719835846712" y2="604.8827959377477" stroke="#8a6d0d" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="11 8"/>
+<line x1="685.640024629529" y1="290.11925194741815" x2="610.0719835846712" y2="604.8827959377477" stroke="#8a6d0d" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="11 8"/>
+<circle cx="214.359975370471" cy="290.11925194741815" r="8" fill="#1e2a44"/>
+<circle cx="685.640024629529" cy="290.11925194741815" r="8" fill="#1e2a44"/>
+<circle cx="289.9280164153289" cy="604.8827959377477" r="8" fill="#1e2a44"/>
+<circle cx="610.0719835846712" cy="604.8827959377477" r="8" fill="#1e2a44"/>
+<circle cx="450" cy="400" r="8" fill="#1e2a44"/>
+<text x="450" y="358" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">130°</text>
+<text x="329.9280164153289" y="512.8827959377477" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">65°</text>
+<text x="572.0719835846712" y="512.8827959377477" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">65°</text>
+<text x="186.359975370471" y="284.11925194741815" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<text x="715.640024629529" y="284.11925194741815" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">B</text>
+<text x="257.9280164153289" y="640.8827959377477" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<text x="644.0719835846712" y="640.8827959377477" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">D</text>
+<text x="450" y="444" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<text x="450" y="740" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">Centre angle 130° = 2 × 65°</text>
+<text x="450" y="782" font-size="23" font-weight="700" fill="#8a6d0d" text-anchor="middle">Same arc AB: angles at C and D are equal</text>
+</svg>

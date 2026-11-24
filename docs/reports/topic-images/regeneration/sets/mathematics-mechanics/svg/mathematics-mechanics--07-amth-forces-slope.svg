@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 820" width="900" height="820" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="820" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">A rough slope: resolve along and across</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Block of 4 kg on 30° slope, μ = 0.25, g = 9.8 m s⁻²</text>
+<path d="M160 235.4018169510545 L840 628 L160 628 Z" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M730 628 A110 110 0 0 1 744.7372055837118 573" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="690" y="614" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">30°</text>
+<g transform="translate(506.4101615137755 435.40181695105446) rotate(30)"><rect x="-55" y="-56" width="110" height="56" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/></g>
+<line x1="520.4101615137755" y1="411.1531056450902" x2="602.6825748732972" y2="458.6531056450902" stroke="#8a6d0d" stroke-width="3.5" stroke-dasharray="10 7"/>
+<line x1="520.4101615137755" y1="411.1531056450902" x2="438.25454926887755" y2="553.4508001801812" stroke="#8a6d0d" stroke-width="3.5" stroke-dasharray="10 7"/>
+<line x1="602.6825748732972" y1="458.6531056450902" x2="520.4101615137755" y2="601.1531056450901" stroke="#4a5568" stroke-width="1.8" stroke-dasharray="7 6"/>
+<line x1="438.25454926887755" y1="553.4508001801812" x2="520.4101615137755" y2="601.1531056450901" stroke="#4a5568" stroke-width="1.8" stroke-dasharray="7 6"/>
+<line x1="520.4101615137755" y1="411.1531056450902" x2="520.4101615137755" y2="569.1531056450901" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="520.4101615137755,601.1531056450901 500.57016151377553,569.1531056450901 540.2501615137755,569.1531056450901" fill="#1e2a44"/>
+<line x1="520.4101615137755" y1="411.1531056450902" x2="586.5657737586735" y2="296.56822403110124" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="602.5657737586735,268.8554111099992 603.7477177697567,306.48822403110125 569.3838297475902,286.6482240311012" fill="#2e6b62"/>
+<line x1="520.4101615137755" y1="411.1531056450902" x2="498.3302694396867" y2="398.40527401243713" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/><polygon points="474.0815581337224,384.40527401243713 507.0102694396867,383.37107300273925 489.65026943968667,413.439475022135" fill="#b5602e"/>
+<circle cx="520.4101615137755" cy="411.1531056450902" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="320.9038105676658" y1="256.7082419164193" x2="390.1858428704209" y2="296.7082419164193" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="416.1666049839541,311.7082419164193 380.8858428704209,312.81631442680987 399.4858428704209,280.6001694060287" fill="#8a6d0d"/>
+<text x="383.5352077758099" y="258.22747980288614" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">a</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="616.5657737586735" y="278.8554111099992" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">R = 33.9</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="458.23686830179906" y="360.4949423797841" font-size="20" font-weight="700" fill="#b5602e" text-anchor="end">F = 8.49</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="614.6825748732972" y="466.6531056450902" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">mg sin30° = 19.6</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="426.25454926887755" y="561.4508001801812" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">mg cos30° = 33.9</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="536.4101615137755" y="613.1531056450901" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">W = 39.2</text>
+<text x="450" y="710" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Across the slope: R = mg cos30° = 33.9 N</text>
+<text x="450" y="746" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Along: 19.6 − 8.49 = 4a</text>
+<text x="450" y="786" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="middle">a = 2.78 m s⁻² down the slope</text>
+</svg>

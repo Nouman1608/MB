@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 779" width="900" height="779" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="779" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Why the conjugate works</text>
+
+<rect x="100" y="110" width="270" height="68.75388202501892" fill="#6fa9a2" stroke="#1e2a44" stroke-width="3"/>
+<rect x="301.2461179749811" y="178.75388202501892" width="68.75388202501892" height="201.24611797498108" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
+<rect x="100" y="178.75388202501892" width="201.24611797498108" height="201.24611797498108" fill="none" stroke="#b5602e" stroke-width="3" stroke-dasharray="10 7"/>
+<text x="235" y="94" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<text x="78" y="253" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<text x="200.62305898749054" y="287.37694101250946" font-size="21" font-weight="700" fill="#b5602e" text-anchor="middle">5 cut out</text>
+<text x="200.62305898749054" y="418" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">√5</text>
+<text x="410" y="280" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">Square 9</text>
+<text x="410" y="318" font-size="29" font-weight="700" fill="#2e6b62" text-anchor="start">9 − 5 = 4</text>
+<line x1="450" y1="440" x2="450" y2="488" stroke="#1e2a44" stroke-width="4"/><polygon points="450,506 438,484 462,484" fill="#1e2a44"/>
+<text x="470" y="484" font-size="21" font-weight="400" fill="#4a5568" text-anchor="start">rearrange</text>
+<rect x="100" y="560" width="270" height="68.75388202501892" fill="#6fa9a2" stroke="#1e2a44" stroke-width="3"/>
+<rect x="370" y="560" width="201.24611797498108" height="68.75388202501892" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
+<text x="335.62305898749054" y="544" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">3 + √5</text>
+<text x="587.2461179749811" y="602.3769410125094" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">3 − √5</text>
+<text x="100" y="694.7538820250189" font-size="29" font-weight="700" fill="#2e6b62" text-anchor="start">(3 − √5)(3 + √5) = 4</text>
+<text x="100" y="738.7538820250189" font-size="21" font-weight="400" fill="#4a5568" text-anchor="start">No surd left: a whole number</text>
+</svg>

@@ -1,0 +1,29 @@
+[
+ {
+  "file": "biology-diseases-and-immunity--04-antigen.webp",
+  "width": 900,
+  "height": 1076,
+  "after": "## B6.3m Making monoclonal antibodies (Higher Tier only)",
+  "alt": "A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte.",
+  "caption": "An antibody binds only the antigen whose shape is complementary to it.",
+  "bytes": 106578
+ },
+ {
+  "file": "biology-diseases-and-immunity--05-vaccination-memory.webp",
+  "width": 900,
+  "height": 1100,
+  "after": "## Quick revision checklist",
+  "alt": "Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response.",
+  "caption": "Memory cells make the second response faster and larger.",
+  "bytes": 111082
+ },
+ {
+  "file": "biology-diseases-and-immunity--06-herd-immunity.webp",
+  "width": 900,
+  "height": 1200,
+  "after": "## 4.3.1.7 Vaccination -- method in steps",
+  "alt": "Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well.",
+  "caption": "When most people are vaccinated the pathogen finds few people to infect.",
+  "bytes": 191590
+ }
+]

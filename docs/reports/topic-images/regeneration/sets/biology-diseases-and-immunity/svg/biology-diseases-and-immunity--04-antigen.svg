@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1076" width="900" height="1076" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1076" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Antigens and antibodies</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Complementary shapes</text>
+<text x="225" y="160" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">Fits: antibody binds</text>
+<text x="675" y="160" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">No fit: no binding</text>
+<ellipse cx="225" cy="262" rx="110" ry="88" fill="#f2d5c8" stroke="#1e2a44" stroke-width="3"/>
+<text x="225" y="270" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Pathogen</text>
+<ellipse cx="675" cy="262" rx="110" ry="88" fill="#f2d5c8" stroke="#1e2a44" stroke-width="3"/>
+<text x="675" y="270" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Pathogen</text>
+<path d="M155 345 L180 385 L180 418 L225 455 L270 418 L270 385 L295 345 M205 345 L180 385 M245 345 L270 385 M225 455 V495" fill="none" stroke="#1e2a44" stroke-width="5.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="166,345 194,345 180,372" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<polygon points="256,345 284,345 270,372" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M208 406 L222 420 L245 394" fill="none" stroke="#2e6b62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="600" y="340" width="60" height="26" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="690" y="340" width="60" height="26" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M605 380 L630 420 L630 450 L675 487 L720 450 L720 420 L745 380 M655 380 L630 420 M695 380 L720 420 M675 487 V528" fill="none" stroke="#1e2a44" stroke-width="5.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M661 437 L689 465 M689 437 L661 465" fill="none" stroke="#b5602e" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="44,560 74,560 59,586" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="92" y="582" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">antigen</text>
+<rect x="232" y="558" width="60" height="30" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="310" y="582" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">different antigen</text>
+<path d="M548 556 L560 574 L572 556 M560 574 V592" fill="none" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/>
+<text x="594" y="582" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">antibody (a protein)</text>
+<line x1="30" y1="636" x2="870" y2="636" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="450" y="690" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Binding leads to one of two outcomes</text>
+<polygon points="235.0,782.0 252.6,813.5 287.3,803.7 277.5,838.4 309.0,856.0 277.5,873.6 287.3,908.3 252.6,898.5 235.0,930.0 217.4,898.5 182.7,908.3 192.5,873.6 161.0,856.0 192.5,838.4 182.7,803.7 217.4,813.5" fill="#f2d5c8" stroke="#b5602e" stroke-width="3"/>
+<line x1="235" y1="772" x2="235" y2="750.4" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="235" y1="750.4" x2="242.94856099615032" y2="739.2661427128565" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="235" y1="750.4" x2="227.05143900384965" y2="739.2661427128565" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="235" y1="940" x2="235" y2="961.6" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="235" y1="961.6" x2="227.05143900384968" y2="972.7338572871435" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="235" y1="961.6" x2="242.94856099615032" y2="972.7338572871435" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="152" y1="856" x2="130.4" y2="856" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="130.4" y1="856" x2="119.26614271285655" y2="848.0514390038496" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="130.4" y1="856" x2="119.26614271285655" y2="863.9485609961504" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="318" y1="856" x2="339.6" y2="856" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="339.6" y1="856" x2="350.7338572871435" y2="863.9485609961504" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="339.6" y1="856" x2="350.7338572871435" y2="848.0514390038496" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/>
+<text x="235" y="1014" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Pathogen destroyed</text>
+<text x="235" y="1046" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">directly</text>
+<ellipse cx="715" cy="855" rx="102" ry="78" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<text x="722" y="864" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Phagocyte</text>
+<circle cx="607" cy="855" r="37" fill="#f2d5c8" stroke="#1e2a44" stroke-width="3"/>
+<line x1="566" y1="806" x2="550.7264935263705" y2="790.7264935263706" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="550.7264935263705" y1="790.7264935263706" x2="548.474148918921" y2="777.2331861568155" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="550.7264935263705" y1="790.7264935263706" x2="537.2331861568153" y2="788.4741489189211" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="548" y1="855" x2="526.4" y2="855" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="526.4" y1="855" x2="515.2661427128565" y2="847.0514390038496" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="526.4" y1="855" x2="515.2661427128565" y2="862.9485609961504" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="566" y1="904" x2="550.7264935263706" y2="919.2735064736295" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="550.7264935263706" y1="919.2735064736295" x2="537.2331861568155" y2="921.525851081079" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><line x1="550.7264935263706" y1="919.2735064736295" x2="548.4741489189211" y2="932.7668138431847" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/>
+<text x="700" y="1014" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Pathogen marked for</text>
+<text x="700" y="1046" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">destruction by a phagocyte</text>
+</svg>

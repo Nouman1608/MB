@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1164" width="900" height="1164" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1164" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Calculating magnification</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Worked example, schematic</text>
+<circle cx="120" cy="150" r="3.5" fill="#1e2a44"/>
+<text x="150" y="147" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">Actual size: 0.02 mm</text>
+<text x="150" y="180" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">smaller than the dot</text>
+<line x1="450" y1="204" x2="450" y2="266" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<text x="480" y="244" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">magnified</text>
+<ellipse cx="450" cy="384" rx="300" ry="100" fill="#dce9e7" stroke="#1e2a44" stroke-width="4"/>
+<circle cx="410" cy="384" r="42" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="150" y1="384" x2="150" y2="500" stroke="#4a5568" stroke-width="2" stroke-dasharray="6 5"/><line x1="750" y1="384" x2="750" y2="500" stroke="#4a5568" stroke-width="2" stroke-dasharray="6 5"/>
+<rect x="150" y="500" width="600" height="28" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="150" y="558" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="250" y1="500" x2="250" y2="518" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="250" y="558" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">10</text>
+<line x1="350" y1="500" x2="350" y2="518" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="350" y="558" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">20</text>
+<line x1="450" y1="500" x2="450" y2="518" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="450" y="558" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">30</text>
+<line x1="550" y1="500" x2="550" y2="518" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="550" y="558" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">40</text>
+<line x1="650" y1="500" x2="650" y2="518" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="650" y="558" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">50</text>
+<text x="750" y="558" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">60</text>
+<text x="764" y="522" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">mm</text>
+<text x="450" y="610" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">Image size: 60 mm</text>
+<rect x="30" y="664" width="840" height="216" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="716" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">magnification = image size ÷ actual size</text>
+<text x="60" y="772" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="start">= 60 mm ÷ 0.02 mm</text>
+<text x="60" y="836" font-size="36" font-weight="700" fill="#2e6b62" text-anchor="start">= ×3000</text>
+<polygon points="90,896 120,946 60,946" fill="#e3b83a" stroke="#1e2a44" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="90" y="940" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">!</text>
+<text x="138" y="932" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Use the same units for both sizes</text>
+<rect x="30" y="984" width="840" height="150" rx="14" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="60" y="1040" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">1 mm = 1000 µm</text>
+<text x="60" y="1094" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="start">0.02 mm × 1000 = 20 µm</text>
+</svg>

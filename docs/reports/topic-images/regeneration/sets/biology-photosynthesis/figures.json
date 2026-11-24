@@ -1,0 +1,20 @@
+[
+ {
+  "file": "biology-photosynthesis--05-cyclic-vs-noncyclic.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## Light-dependent reaction in steps",
+  "alt": "Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only.",
+  "caption": "Which products each photophosphorylation route makes.",
+  "bytes": 84190
+ },
+ {
+  "file": "biology-photosynthesis--06-calvin-cycle.webp",
+  "width": 900,
+  "height": 830,
+  "after": "### What changes when conditions change",
+  "alt": "The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2.",
+  "caption": "Counting carbon, ATP and reduced NADP through the Calvin cycle.",
+  "bytes": 88358
+ }
+]

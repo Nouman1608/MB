@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1030" width="900" height="1030" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1030" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Passive transport</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Down a concentration gradient, no ATP</text>
+<rect x="40" y="120" width="820" height="280" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="152" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">high</text>
+<text x="400" y="152" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">low</text>
+<line x1="326" y1="143" x2="354" y2="143" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="149" x2="354" y2="149" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="146" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="146" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="169" x2="354" y2="169" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="175" x2="354" y2="175" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="172" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="172" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="195" x2="354" y2="195" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="201" x2="354" y2="201" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="198" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="198" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="221" x2="354" y2="221" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="227" x2="354" y2="227" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="224" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="224" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="247" x2="354" y2="247" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="253" x2="354" y2="253" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="250" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="250" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="273" x2="354" y2="273" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="279" x2="354" y2="279" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="276" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="276" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="299" x2="354" y2="299" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="305" x2="354" y2="305" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="302" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="302" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="325" x2="354" y2="325" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="331" x2="354" y2="331" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="328" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="328" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="100" cy="190" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="170" cy="220" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="250" cy="180" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="120" cy="270" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="200" cy="290" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="280" cy="260" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="100" cy="330" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="170" cy="350" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="260" cy="330" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="430" cy="210" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="510" cy="280" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="440" cy="340" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<circle cx="340" cy="274" r="8" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<line x1="100" y1="374" x2="450" y2="374" stroke="#2e6b62" stroke-width="3.5" marker-end="url(#ahT)"/>
+<text x="540" y="230" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Simple diffusion</text>
+<text x="540" y="260" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">O₂, CO₂ cross the bilayer</text>
+<rect x="555" y="294" width="190" height="44" rx="22" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/><text x="650" y="323" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">No ATP</text>
+<rect x="40" y="420" width="820" height="280" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="452" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">high</text>
+<text x="400" y="452" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">low</text>
+<line x1="326" y1="443" x2="354" y2="443" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="449" x2="354" y2="449" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="446" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="446" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="469" x2="354" y2="469" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="475" x2="354" y2="475" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="472" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="472" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<rect x="296" y="494" width="30" height="150" rx="12" fill="#6fa89f" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="354" y="494" width="30" height="150" rx="12" fill="#6fa89f" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="100" cy="490" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="170" cy="520" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="250" cy="480" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="120" cy="570" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="200" cy="590" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="280" cy="560" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="100" cy="630" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="170" cy="650" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="260" cy="630" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="430" cy="510" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="510" cy="580" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="440" cy="640" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<circle cx="340" cy="570" r="8" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.2"/>
+<line x1="196" y1="500" x2="290" y2="500" stroke="#b5602e" stroke-width="2.5"/>
+<path d="M282 492 l14 16 M296 492 l-14 16" stroke="#b5602e" stroke-width="2.5"/>
+<line x1="100" y1="674" x2="450" y2="674" stroke="#2e6b62" stroke-width="3.5" marker-end="url(#ahT)"/>
+<text x="540" y="530" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Facilitated: channel</text>
+<text x="540" y="560" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">Ions pass through a pore</text>
+<rect x="555" y="594" width="190" height="44" rx="22" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/><text x="650" y="623" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">No ATP</text>
+<rect x="40" y="720" width="820" height="280" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="752" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">high</text>
+<text x="400" y="752" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">low</text>
+<line x1="326" y1="743" x2="354" y2="743" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="749" x2="354" y2="749" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="746" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="746" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="326" y1="769" x2="354" y2="769" stroke="#1e2a44" stroke-width="2"/><line x1="326" y1="775" x2="354" y2="775" stroke="#1e2a44" stroke-width="2"/><circle cx="316" cy="772" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="364" cy="772" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<rect x="302" y="810" width="76" height="128" rx="34" fill="#6fa89f" stroke="#2e6b62" stroke-width="2.5"/>
+<path d="M302 860 a14 14 0 0 1 0 28 z" fill="#fff"/>
+<polygon points="318,874 314,880.9282032302755 306,880.9282032302755 302,874 306,867.0717967697245 314,867.0717967697245" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<line x1="384" y1="874" x2="422" y2="874" stroke="#2e6b62" stroke-width="3" marker-end="url(#ahT)"/>
+<polygon points="449,874 444.5,881.7942286340599 435.5,881.7942286340599 431,874 435.5,866.2057713659401 444.5,866.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="109,790 104.5,797.7942286340599 95.5,797.7942286340599 91,790 95.5,782.2057713659401 104.5,782.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="179,820 174.5,827.7942286340599 165.5,827.7942286340599 161,820 165.5,812.2057713659401 174.5,812.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="259,780 254.5,787.7942286340599 245.5,787.7942286340599 241,780 245.5,772.2057713659401 254.5,772.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="129,870 124.5,877.7942286340599 115.5,877.7942286340599 111,870 115.5,862.2057713659401 124.5,862.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="209,890 204.5,897.7942286340599 195.5,897.7942286340599 191,890 195.5,882.2057713659401 204.5,882.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="289,860 284.5,867.7942286340599 275.5,867.7942286340599 271,860 275.5,852.2057713659401 284.5,852.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="109,930 104.5,937.7942286340599 95.5,937.7942286340599 91,930 95.5,922.2057713659401 104.5,922.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="179,950 174.5,957.7942286340599 165.5,957.7942286340599 161,950 165.5,942.2057713659401 174.5,942.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="269,930 264.5,937.7942286340599 255.5,937.7942286340599 251,930 255.5,922.2057713659401 264.5,922.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="439,810 434.5,817.7942286340599 425.5,817.7942286340599 421,810 425.5,802.2057713659401 434.5,802.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="519,880 514.5,887.7942286340599 505.5,887.7942286340599 501,880 505.5,872.2057713659401 514.5,872.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="449,940 444.5,947.7942286340599 435.5,947.7942286340599 431,940 435.5,932.2057713659401 444.5,932.2057713659401" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<line x1="100" y1="974" x2="450" y2="974" stroke="#2e6b62" stroke-width="3.5" marker-end="url(#ahT)"/>
+<text x="540" y="830" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Facilitated: carrier</text>
+<text x="540" y="860" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">Carrier changes shape</text>
+<rect x="555" y="894" width="190" height="44" rx="22" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/><text x="650" y="923" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">No ATP</text>
+</svg>

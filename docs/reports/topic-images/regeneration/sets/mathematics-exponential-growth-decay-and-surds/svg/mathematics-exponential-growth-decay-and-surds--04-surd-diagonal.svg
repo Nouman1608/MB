@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="900" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">A surd is an exact length</text>
+
+<rect x="130" y="300" width="400" height="400" fill="#e3eeee"/>
+<line x1="230" y1="300" x2="230" y2="700" stroke="#c9d6d4" stroke-width="1.5"/><line x1="130" y1="400" x2="530" y2="400" stroke="#c9d6d4" stroke-width="1.5"/>
+<line x1="330" y1="300" x2="330" y2="700" stroke="#c9d6d4" stroke-width="1.5"/><line x1="130" y1="500" x2="530" y2="500" stroke="#c9d6d4" stroke-width="1.5"/>
+<line x1="430" y1="300" x2="430" y2="700" stroke="#c9d6d4" stroke-width="1.5"/><line x1="130" y1="600" x2="530" y2="600" stroke="#c9d6d4" stroke-width="1.5"/>
+<rect x="130" y="300" width="400" height="400" fill="none" stroke="#1e2a44" stroke-width="4"/>
+<line x1="130" y1="700" x2="530" y2="300" stroke="#b5602e" stroke-width="6"/>
+<text transform="translate(280 490) rotate(-45)" font-size="21" font-weight="700" fill="#b5602e" text-anchor="middle" paint-order="stroke" stroke="#e3eeee" stroke-width="6">√32 = 4√2</text>
+<text x="116" y="508" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">4 cm</text>
+<text x="330" y="740" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">4 cm</text>
+<path d="M530 300 A565.685424949238 565.685424949238 0 0 1 695.685424949238 700" fill="none" stroke="#b5602e" stroke-width="3.5" stroke-dasharray="10 8"/>
+<line x1="695.685424949238" y1="700" x2="695.685424949238" y2="810" stroke="#b5602e" stroke-width="3"/>
+<line x1="130" y1="810" x2="780" y2="810" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="130" y1="800" x2="130" y2="820" stroke="#1e2a44" stroke-width="3"/>
+<text x="130" y="852" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="230" y1="800" x2="230" y2="820" stroke="#1e2a44" stroke-width="3"/>
+<text x="230" y="852" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="330" y1="800" x2="330" y2="820" stroke="#1e2a44" stroke-width="3"/>
+<text x="330" y="852" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="430" y1="800" x2="430" y2="820" stroke="#1e2a44" stroke-width="3"/>
+<text x="430" y="852" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">3</text>
+<line x1="530" y1="800" x2="530" y2="820" stroke="#1e2a44" stroke-width="3"/>
+<text x="530" y="852" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<line x1="630" y1="800" x2="630" y2="820" stroke="#1e2a44" stroke-width="3"/>
+<text x="630" y="852" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<line x1="730" y1="800" x2="730" y2="820" stroke="#1e2a44" stroke-width="3"/>
+<text x="730" y="852" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">6</text>
+<circle cx="695.685424949238" cy="810" r="10" fill="#b5602e"/>
+<text x="711.685424949238" y="786" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">≈ 5.657</text>
+<text x="130" y="158" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">16 + 16 = 32</text>
+<text x="130" y="194" font-size="24" font-weight="700" fill="#b5602e" text-anchor="start">√32 = √16 × √2 = 4√2</text>
+</svg>

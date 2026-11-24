@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 690" width="900" height="690" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="690" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Why each enzyme is specific</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Only a complementary shape fits</text>
+<rect x="30" y="124" width="840" height="260" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M102 238 H170 L184 282 H216 L230 238 H298 Q310 238 310 250 V342 Q310 354 298 354 H102 Q90 354 90 342 V250 Q90 238 102 238 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round"/><text x="200" y="324" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">lipase</text>
+<polygon points="154,212 246,212 216,282 184,282" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3" stroke-linejoin="round"/>
+<text x="268" y="186" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="start">fat</text>
+<circle cx="530" cy="222" r="28" fill="none" stroke="#2e6b62" stroke-width="4"/><path d="M516 222 L527 234 L546 208" fill="none" stroke="#2e6b62" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="578" y="212" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">fat fits</text>
+<text x="578" y="244" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">complex forms</text>
+<text x="578" y="274" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">reaction happens</text>
+<rect x="30" y="404" width="840" height="260" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="130" cy="458" r="17" fill="#d9cdea" stroke="#6b4f96" stroke-width="2.5"/>
+<circle cx="164" cy="442" r="17" fill="#d9cdea" stroke="#6b4f96" stroke-width="2.5"/>
+<circle cx="198" cy="458" r="17" fill="#d9cdea" stroke="#6b4f96" stroke-width="2.5"/>
+<circle cx="232" cy="442" r="17" fill="#d9cdea" stroke="#6b4f96" stroke-width="2.5"/>
+<circle cx="266" cy="458" r="17" fill="#d9cdea" stroke="#6b4f96" stroke-width="2.5"/>
+<text x="330" y="462" font-size="21" font-weight="700" fill="#6b4f96" text-anchor="start">starch</text>
+<line x1="200" y1="482" x2="200" y2="496" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="200,512 190.4,496 209.6,496" fill="#1e2a44"/>
+<path d="M102 520 H170 L184 564 H216 L230 520 H298 Q310 520 310 532 V624 Q310 636 298 636 H102 Q90 636 90 624 V532 Q90 520 102 520 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round"/><text x="200" y="606" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">lipase</text>
+<circle cx="530" cy="500" r="28" fill="none" stroke="#b5402e" stroke-width="4"/><path d="M516 486 L544 514 M544 486 L516 514" stroke="#b5402e" stroke-width="4.5" stroke-linecap="round"/>
+<text x="578" y="490" font-size="22" font-weight="700" fill="#b5402e" text-anchor="start">starch does not fit</text>
+<text x="578" y="522" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">no complex forms</text>
+<text x="578" y="552" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">no reaction</text>
+</svg>

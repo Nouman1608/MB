@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1010" width="900" height="1010" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1010" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">A lift: R changes with acceleration</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Person of mass 65 kg, g = 9.8 m s⁻²</text>
+<text x="150" y="172" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">At rest</text>
+<rect x="25" y="190" width="250" height="410" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="150" y1="395" x2="150" y2="296" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="150,262 171.07999999999998,296 128.92000000000002,296" fill="#2e6b62"/>
+<line x1="150" y1="395" x2="150" y2="494" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="150,528 128.92000000000002,494 171.07999999999998,494" fill="#1e2a44"/>
+<circle cx="150" cy="395" r="13" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="168" y="339" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">R = 637 N</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="168" y="467" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">W = 637 N</text>
+<text x="35" y="515" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">a = 0</text>
+<text x="150" y="640" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">R − 637 = 0</text>
+<text x="150" y="676" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="middle">R = 637 N</text>
+<text x="450" y="172" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Accelerating up</text>
+<rect x="325" y="190" width="250" height="410" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="450" y1="395" x2="450" y2="285.1428571428571" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="450,251.14285714285714 471.08,285.1428571428571 428.92,285.1428571428571" fill="#2e6b62"/>
+<line x1="450" y1="395" x2="450" y2="494" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="450,528 428.92,494 471.08,494" fill="#1e2a44"/>
+<circle cx="450" cy="395" r="13" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="468" y="339" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">R = 689 N</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="468" y="467" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">W = 637 N</text>
+<line x1="351" y1="440" x2="351" y2="415" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="351,385 369.6,415 332.4,415" fill="#8a6d0d"/>
+<text x="351" y="475" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">a</text>
+<text x="450" y="640" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">R − 637 = 65 × 0.8</text>
+<text x="450" y="676" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="middle">R = 689 N</text>
+<text x="750" y="172" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Accelerating down</text>
+<rect x="625" y="190" width="250" height="410" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="750" y1="395" x2="750" y2="306.85714285714283" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="750,272.85714285714283 771.08,306.85714285714283 728.92,306.85714285714283" fill="#2e6b62"/>
+<line x1="750" y1="395" x2="750" y2="494" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="750,528 728.92,494 771.08,494" fill="#1e2a44"/>
+<circle cx="750" cy="395" r="13" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="768" y="339" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">R = 585 N</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="768" y="467" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">W = 637 N</text>
+<text x="651" y="331" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">a</text>
+<line x1="651" y1="349" x2="651" y2="375" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="651,405 632.4,375 669.6,375" fill="#8a6d0d"/>
+<text x="750" y="640" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">637 − R = 65 × 0.8</text>
+<text x="750" y="676" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="middle">R = 585 N</text>
+<text x="450" y="724" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">Gold arrow = acceleration a (0.8 m s⁻²)</text>
+<text x="450" y="780" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Newton’s third law: a pair on different bodies</text>
+<rect x="90" y="838" width="150" height="62" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="190" y="880" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">person</text>
+<rect x="40" y="900" width="250" height="36" rx="5" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="165" y="926" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">floor</text>
+<line x1="116" y1="900" x2="116" y2="850" stroke="#2e6b62" stroke-width="4" stroke-linecap="round"/><polygon points="116,820 134.6,850 97.4,850" fill="#2e6b62"/>
+<line x1="234" y1="900" x2="234" y2="952" stroke="#b5602e" stroke-width="4" stroke-linecap="round"/><polygon points="234,982 215.4,952 252.6,952" fill="#b5602e"/>
+<text x="320" y="856" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="start">floor pushes person up: R</text>
+<text x="320" y="914" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">equal size, opposite way</text>
+<text x="320" y="972" font-size="19" font-weight="700" fill="#b5602e" text-anchor="start">person pushes floor down: R</text>
+</svg>

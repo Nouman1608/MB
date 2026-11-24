@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 910" width="900" height="910" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="910" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Reabsorption in the proximal tubule</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">One cell, filtrate to blood</text>
+<rect x="30" y="120" width="270" height="490" rx="0" fill="#dde9f0"/>
+<rect x="700" y="120" width="170" height="490" rx="0" fill="#f6dcd6"/>
+<rect x="300" y="120" width="320" height="67" rx="6" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="300" y="530" width="320" height="80" rx="6" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="300" y="192" width="320" height="333" rx="6" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/>
+<path d="M620 202 L632 220 L612 240 L632 270 L620 290 M620 456 L632 475 L612 495 L632 518" fill="none" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="262" y="225" width="40" height="25" rx="10" fill="#ffffff" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="262" y="265" width="40" height="25" rx="10" fill="#ffffff" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="262" y="305" width="40" height="25" rx="10" fill="#ffffff" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="294" y="182" width="14" height="20" rx="0" fill="#1e2a44"/>
+<line x1="200" y1="154" x2="296" y2="184" stroke="#1e2a44" stroke-width="2"/>
+<text x="30" y="152" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Tight junction</text>
+<text x="150" y="216" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Microvilli</text>
+<ellipse cx="450" cy="260" rx="52" ry="23" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="375" y="314" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Mitochondria</text>
+<text x="40" y="568" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Filtrate</text>
+<text x="785" y="160" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">Blood</text>
+<rect x="600" y="274" width="40" height="72" rx="14" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="280" y="334" width="40" height="72" rx="14" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="600" y="384" width="40" height="72" rx="14" fill="#6fa9a1" stroke="#2e6b62" stroke-width="2.5"/>
+<circle cx="545" cy="310" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="565" y1="310" x2="702" y2="310" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="620" cy="310" r="19" fill="#1e2a44"/><text x="620" y="316.84" font-size="18.05" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<line x1="238" y1="370" x2="348" y2="370" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="300" cy="370" r="19" fill="#1e2a44"/><text x="300" y="376.84" font-size="18.05" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<polygon points="556.0,420.0 550.5,429.5 539.5,429.5 534.0,420.0 539.5,410.5 550.5,410.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="565" y1="420" x2="702" y2="420" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="620" cy="420" r="19" fill="#1e2a44"/><text x="620" y="426.84" font-size="18.05" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<line x1="160" y1="470" x2="793" y2="470" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<circle cx="470" cy="470" r="19" fill="#1e2a44"/><text x="470" y="476.84" font-size="18.05" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<polygon points="111.0,270.0 105.5,279.5 94.5,279.5 89.0,270.0 94.5,260.5 105.5,260.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<polygon points="201.0,330.0 195.5,339.5 184.5,339.5 179.0,330.0 184.5,320.5 195.5,320.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<polygon points="151.0,410.0 145.5,419.5 134.5,419.5 129.0,410.0 134.5,400.5 145.5,400.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<polygon points="391.0,350.0 385.5,359.5 374.5,359.5 369.0,350.0 374.5,340.5 385.5,340.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<polygon points="756.0,310.0 750.5,319.5 739.5,319.5 734.0,310.0 739.5,300.5 750.5,300.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<polygon points="811.0,370.0 805.5,379.5 794.5,379.5 789.0,370.0 794.5,360.5 805.5,360.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<polygon points="756.0,420.0 750.5,429.5 739.5,429.5 734.0,420.0 739.5,410.5 750.5,410.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<polygon points="791.0,530.0 785.5,539.5 774.5,539.5 769.0,530.0 774.5,520.5 785.5,520.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="230" cy="270" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="90" cy="370" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="210" cy="420" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="380" cy="390" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="785" cy="270" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="50" cy="670" r="20" fill="#1e2a44"/><text x="50" y="677.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text><text x="82" y="677" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Na⁺–K⁺ pump moves Na⁺ out of the cell (ATP)</text>
+<circle cx="50" cy="716" r="20" fill="#1e2a44"/><text x="50" y="723.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text><text x="82" y="723" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Na⁺ diffuses in, carrying glucose with it</text>
+<circle cx="50" cy="762" r="20" fill="#1e2a44"/><text x="50" y="769.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text><text x="82" y="769" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Glucose leaves by facilitated diffusion</text>
+<circle cx="50" cy="808" r="20" fill="#1e2a44"/><text x="50" y="815.2" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text><text x="82" y="815" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Water follows by osmosis</text>
+<polygon points="71.0,875.0 65.5,884.5 54.5,884.5 49.0,875.0 54.5,865.5 65.5,865.5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="84" y="882" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">glucose</text>
+<circle cx="230" cy="875" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="254" y="882" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">Na⁺</text>
+</svg>

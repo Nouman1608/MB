@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 860" width="900" height="860" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="860" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">The sine rule</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Each side over the sine of its opposite angle</text>
+<polygon points="270,550 628,550 457.0,147.2" fill="#ffffff"/>
+<line x1="457.0" y1="147.2" x2="270.0" y2="550.0" stroke="#1e2a44" stroke-width="3" stroke-linecap="round"/>
+<line x1="270.0" y1="550.0" x2="628.0" y2="550.0" stroke="#2e6b62" stroke-width="6" stroke-linecap="round"/>
+<line x1="457.0" y1="147.2" x2="628.0" y2="550.0" stroke="#8a6d0d" stroke-width="6" stroke-linecap="round"/>
+<path d="M430.1 205.3 A64 64 0 0 0 482.0 206.1" fill="none" stroke="#2e6b62" stroke-width="3.5"/>
+<path d="M340.0 550.0 A70 70 0 0 0 299.6 486.6" fill="none" stroke="#8a6d0d" stroke-width="3.5"/>
+<path d="M601.4 487.4 A68 68 0 0 0 560.0 550.0" fill="none" stroke="#4a5a78" stroke-width="3.5"/>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="457.03342400102656" y="125.22798745603228" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="244" y="578" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">B</text>
+<text stroke="#ffffff" stroke-width="5" paint-order="stroke" x="654" y="578" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<text x="457.03342400102656" y="263.2279874560323" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">48°</text>
+<text x="340" y="503" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">65°</text>
+<text x="560" y="503" font-size="20" font-weight="700" fill="#4a5a78" text-anchor="end">67°</text>
+<text x="338" y="342" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">c</text>
+<text x="568" y="339" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">b = ?</text>
+<text x="449" y="593" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">a = 9 cm</text>
+<text x="450" y="659" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">a ÷ sin A = b ÷ sin B</text>
+<text x="450" y="715" font-size="23" font-weight="400" fill="#1e2a44" text-anchor="middle">9 ÷ sin 48° = b ÷ sin 65°</text>
+<text x="450" y="773" font-size="25" font-weight="700" fill="#8a6d0d" text-anchor="middle">b = 9 × sin 65° ÷ sin 48° = 11.0 cm</text>
+<text x="450" y="826" font-size="21" font-weight="400" fill="#4a5568" text-anchor="middle">Needs a side and its opposite angle</text>
+</svg>

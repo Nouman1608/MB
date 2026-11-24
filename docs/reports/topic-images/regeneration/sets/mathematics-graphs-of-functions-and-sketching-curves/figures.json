@@ -1,0 +1,29 @@
+[
+ {
+  "file": "mathematics-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp",
+  "width": 900,
+  "height": 1150,
+  "after": "## Quadratic graphs: roots, intercepts, turning points (A11)",
+  "alt": "A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is an extra step beyond the sketch.",
+  "caption": "A sketch shows shape, roots, y-intercept and symmetry; the turning point is an extra.",
+  "bytes": 61906
+ },
+ {
+  "file": "mathematics-graphs-of-functions-and-sketching-curves--06-asymptotes.webp",
+  "width": 900,
+  "height": 1200,
+  "after": "## Recognising and sketching graphs (A12)",
+  "alt": "Two sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1.",
+  "caption": "Reciprocal and exponential curves approach their asymptotes but never cross or touch them.",
+  "bytes": 61038
+ },
+ {
+  "file": "mathematics-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp",
+  "width": 900,
+  "height": 1030,
+  "after": "## Recognising and sketching graphs (A12)",
+  "alt": "Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive.",
+  "caption": "Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.",
+  "bytes": 47004
+ }
+]

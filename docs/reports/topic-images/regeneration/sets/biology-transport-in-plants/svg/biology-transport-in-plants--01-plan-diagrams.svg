@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1050" width="900" height="1050" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1050" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Where are xylem and phloem?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Plan diagrams show tissues, not cells</text>
+<rect x="250" y="120" width="26" height="26" rx="5" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<text x="288" y="141" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">xylem</text>
+<rect x="450" y="120" width="26" height="26" rx="5" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="488" y="141" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">phloem</text>
+<text x="30" y="214" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">Stem</text>
+<circle cx="220" cy="330" r="130" fill="#dcebe9" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="220" cy="330" r="38" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="220" y="337" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">pith</text>
+<ellipse cx="310.5401941861061" cy="367.5029763717788" rx="16" ry="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2" transform="rotate(112.5 310.5401941861061 367.5029763717788)"/>
+<circle cx="286.51932634081265" cy="357.55320713028647" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="257.5029763717788" cy="420.5401941861061" rx="16" ry="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2" transform="rotate(157.5 257.5029763717788 420.5401941861061)"/>
+<circle cx="247.55320713028647" cy="396.51932634081265" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="182.4970236282212" cy="420.5401941861061" rx="16" ry="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2" transform="rotate(202.5 182.4970236282212 420.5401941861061)"/>
+<circle cx="192.44679286971353" cy="396.51932634081265" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="129.4598058138939" cy="367.5029763717788" rx="16" ry="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2" transform="rotate(247.5 129.4598058138939 367.5029763717788)"/>
+<circle cx="153.48067365918735" cy="357.55320713028647" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="129.4598058138939" cy="292.4970236282212" rx="16" ry="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2" transform="rotate(292.5 129.4598058138939 292.4970236282212)"/>
+<circle cx="153.48067365918735" cy="302.44679286971353" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="182.49702362822114" cy="239.45980581389392" rx="16" ry="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2" transform="rotate(337.5 182.49702362822114 239.45980581389392)"/>
+<circle cx="192.4467928697135" cy="263.48067365918735" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="257.5029763717788" cy="239.45980581389392" rx="16" ry="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2" transform="rotate(382.50000000000006 257.5029763717788 239.45980581389392)"/>
+<circle cx="247.55320713028647" cy="263.48067365918735" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="310.5401941861061" cy="292.49702362822114" rx="16" ry="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2" transform="rotate(427.49999999999994 310.5401941861061 292.49702362822114)"/>
+<circle cx="286.51932634081265" cy="302.4467928697135" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<line x1="430" y1="212" x2="312" y2="238" stroke="#4f5f7f" stroke-width="2"/><circle cx="312" cy="238" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="218" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">epidermis</text>
+<line x1="430" y1="256" x2="310.5401941861061" y2="292.4970236282212" stroke="#4f5f7f" stroke-width="2"/><circle cx="310.5401941861061" cy="292.4970236282212" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="262" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">phloem: outer side</text>
+<line x1="430" y1="306" x2="286.51932634081265" y2="357.55320713028647" stroke="#4f5f7f" stroke-width="2"/><circle cx="286.51932634081265" cy="357.55320713028647" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="312" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">xylem: towards centre</text>
+<line x1="430" y1="356" x2="280" y2="430" stroke="#4f5f7f" stroke-width="2"/><circle cx="280" cy="430" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="362" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">cortex</text>
+<text x="440" y="404" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">bundles in a ring, near the edge</text>
+<line x1="30" y1="450" x2="870" y2="450" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="30" y="500" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">Root</text>
+<circle cx="220" cy="610" r="125" fill="#dcebe9" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="220" cy="610" r="56" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M208 564 h24 v34 h34 v24 h-34 v34 h-24 v-34 h-34 v-24 h34 Z" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="194" cy="584" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="246" cy="584" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="194" cy="636" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="246" cy="636" r="11" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="430" y1="502" x2="306" y2="520" stroke="#4f5f7f" stroke-width="2"/><circle cx="306" cy="520" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="508" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">epidermis</text>
+<line x1="430" y1="546" x2="250" y2="563" stroke="#4f5f7f" stroke-width="2"/><circle cx="250" cy="563" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="552" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">endodermis</text>
+<line x1="430" y1="590" x2="246" y2="584" stroke="#4f5f7f" stroke-width="2"/><circle cx="246" cy="584" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="596" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">phloem: between arms</text>
+<line x1="430" y1="634" x2="260" y2="610" stroke="#4f5f7f" stroke-width="2"/><circle cx="260" cy="610" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="640" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">xylem: central star</text>
+<line x1="430" y1="678" x2="280" y2="690" stroke="#4f5f7f" stroke-width="2"/><circle cx="280" cy="690" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="440" y="684" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">cortex</text>
+<line x1="30" y1="760" x2="870" y2="760" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="30" y="810" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="start">Leaf</text>
+<path d="M40 860 H190 Q260 810 330 860 H460 V920 H330 Q260 990 190 920 H40 Z" fill="#dcebe9" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="260" cy="866" r="34" fill="#2e6b62" stroke="#1e2a44" stroke-width="2.5"/>
+<ellipse cx="260" cy="922" rx="30" ry="22" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="100" cy="882" r="10" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="100" cy="898" rx="10" ry="7" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="400" cy="882" r="10" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="400" cy="898" rx="10" ry="7" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="520" y1="824" x2="270" y2="856" stroke="#4f5f7f" stroke-width="2"/><circle cx="270" cy="856" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="530" y="830" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">xylem: upper side</text>
+<line x1="520" y1="872" x2="272" y2="924" stroke="#4f5f7f" stroke-width="2"/><circle cx="272" cy="924" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="530" y="878" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">phloem: lower side</text>
+<line x1="520" y1="920" x2="404" y2="884" stroke="#4f5f7f" stroke-width="2"/><circle cx="404" cy="884" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="530" y="926" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">small veins in mesophyll</text>
+<line x1="520" y1="968" x2="360" y2="900" stroke="#4f5f7f" stroke-width="2"/><circle cx="360" cy="900" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="530" y="974" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">mesophyll</text>
+<text x="530" y="1016" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">main bundle in the midrib</text>
+</svg>

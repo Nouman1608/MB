@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" width="900" height="680" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="680" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Image from a converging lens</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Object beyond 2F</text>
+<line x1="60" y1="300" x2="840" y2="300" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M450 160 Q476 300 450 440 Q424 300 450 160 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3"/>
+<line x1="210" y1="291" x2="210" y2="309" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="210" y="336" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">2F</text>
+<line x1="330" y1="291" x2="330" y2="309" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="330" y="336" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">F</text>
+<line x1="570" y1="291" x2="570" y2="309" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="570" y="282" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">F</text>
+<line x1="690" y1="291" x2="690" y2="309" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="690" y="282" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">2F</text>
+<line x1="150" y1="300" x2="150" y2="236" stroke="#1e2a44" stroke-width="5" marker-end="url(#ah)"/>
+<text x="150" y="220" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">object</text>
+<path d="M150 236 H450 L650 342.6666666666667" fill="none" stroke="#8a6d0d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="150" y1="236" x2="650" y2="342.6666666666667" stroke="#b5602e" stroke-width="3"/>
+<line x1="650" y1="300" x2="650" y2="342.6666666666667" stroke="#2e6b62" stroke-width="5" marker-end="url(#ahT)"/>
+<circle cx="650" cy="342.6666666666667" r="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="650" y="376.6666666666667" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">image</text>
+<rect x="40" y="480" width="820" height="170" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="70" y="524" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">The image is:</text>
+<rect x="50" y="554" width="240" height="60" rx="30" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="170" y="592" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">real</text>
+<rect x="330" y="554" width="240" height="60" rx="30" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="450" y="592" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">inverted</text>
+<rect x="610" y="554" width="240" height="60" rx="30" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="730" y="592" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">diminished</text>
+</svg>

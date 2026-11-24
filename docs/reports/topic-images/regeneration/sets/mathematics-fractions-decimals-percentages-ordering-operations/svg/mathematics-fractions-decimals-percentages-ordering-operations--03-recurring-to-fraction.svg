@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 860" width="900" height="860" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="860" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Recurring decimal to fraction</text>
+
+<text x="40" y="112" font-size="21" font-weight="400" fill="#4a5568" text-anchor="start">The block 36 repeats, so multiply by 100.</text>
+<text x="40" y="202" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">x</text>
+<rect x="274" y="160" width="56" height="64" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="302" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">0</text>
+<circle cx="340" cy="216" r="4.5" fill="#1e2a44"/>
+<rect x="350" y="160" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="378" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="406" y="160" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="434" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="462" y="160" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="490" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="518" y="160" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="546" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="574" y="160" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="602" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="630" y="160" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="658" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="686" y="160" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="714" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="742" y="160" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="770" y="203" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<text x="806" y="212" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="start">…</text>
+<text x="40" y="304" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="start">100x</text>
+<rect x="218" y="262" width="56" height="64" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="246" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="274" y="262" width="56" height="64" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="302" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<circle cx="340" cy="318" r="4.5" fill="#1e2a44"/>
+<rect x="350" y="262" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="378" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="406" y="262" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="434" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="462" y="262" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="490" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="518" y="262" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="546" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="574" y="262" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="602" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="630" y="262" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="658" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<rect x="686" y="262" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="714" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="742" y="262" width="56" height="64" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="770" y="305" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="middle">6</text>
+<text x="806" y="314" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="start">…</text>
+<rect x="342" y="150" width="466" height="186" rx="12" fill="none" stroke="#b5602e" stroke-width="3" stroke-dasharray="9 6"/>
+<text x="574" y="374" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">identical tails</text>
+<line x1="40" y1="420" x2="860" y2="420" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="40" y="490" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="start">100x − x = 36</text>
+<text x="480" y="490" font-size="22" font-weight="700" fill="#b5602e" text-anchor="start">tails cancel</text>
+<line x1="120" y1="516" x2="120" y2="568" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<text x="40" y="630" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="start">99x = 36</text>
+<line x1="120" y1="656" x2="120" y2="708" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/>
+<text x="40" y="770" font-size="38" font-weight="700" fill="#2e6b62" text-anchor="start">x = 36/99 = 4/11</text>
+<text x="560" y="768" font-size="21" font-weight="400" fill="#4a5568" text-anchor="start">÷ 9 top and bottom</text>
+<text x="40" y="830" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">Check: 4 ÷ 11 = 0.363636…</text>
+</svg>

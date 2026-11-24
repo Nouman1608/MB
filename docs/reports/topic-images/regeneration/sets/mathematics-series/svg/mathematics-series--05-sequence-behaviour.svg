@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1120" width="900" height="1120" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1120" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">How a sequence can behave</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Three types from the lessons</text>
+<rect x="30" y="150" width="840" height="300" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="192" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Decreasing, then increasing: u<tspan baseline-shift="sub" font-size="70%">n</tspan> = n<tspan baseline-shift="super" font-size="70%">2</tspan> − 8n</text>
+<line x1="150" y1="380" x2="828" y2="380" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="150" y1="380" x2="150" y2="230" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="197" y1="380" x2="197" y2="388" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="197" y="412" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="278.1428571428571" y1="380" x2="278.1428571428571" y2="388" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="278.1428571428571" y="412" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="359.2857142857143" y1="380" x2="359.2857142857143" y2="388" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="359.2857142857143" y="412" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">3</text>
+<line x1="440.42857142857144" y1="380" x2="440.42857142857144" y2="388" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="440.42857142857144" y="412" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<line x1="521.5714285714286" y1="380" x2="521.5714285714286" y2="388" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="521.5714285714286" y="412" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<line x1="602.7142857142858" y1="380" x2="602.7142857142858" y2="388" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="602.7142857142858" y="412" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">6</text>
+<line x1="683.8571428571429" y1="380" x2="683.8571428571429" y2="388" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="683.8571428571429" y="412" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">7</text>
+<line x1="765" y1="380" x2="765" y2="388" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="765" y="412" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">8</text>
+<line x1="142" y1="260" x2="150" y2="260" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="266" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="142" y1="292.6666666666667" x2="150" y2="292.6666666666667" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="298.6666666666667" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">−8</text>
+<line x1="142" y1="325.3333333333333" x2="150" y2="325.3333333333333" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="331.3333333333333" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">−16</text>
+<path d="M197.0 288.6 L278.1 309.0 L359.3 321.3 L440.4 325.3 L521.6 321.3 L602.7 309.0 L683.9 288.6 L765.0 260.0" fill="none" stroke="#a9cfc9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 6"/>
+<circle cx="197" cy="288.5833333333333" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="278.1428571428571" cy="309" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="359.2857142857143" cy="321.25" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="440.42857142857144" cy="325.3333333333333" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="521.5714285714286" cy="321.25" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="602.7142857142858" cy="309" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="683.8571428571429" cy="288.5833333333333" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="765" cy="260" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="318.7142857142857" y="230" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">decreasing</text>
+<text x="643.2857142857142" y="230" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">increasing</text>
+<text x="472.8857142857143" y="361.3333333333333" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">least term u<tspan baseline-shift="sub" font-size="70%">4</tspan> = −16</text>
+<rect x="30" y="470" width="840" height="300" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="512" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Periodic: x<tspan baseline-shift="sub" font-size="70%">n+1</tspan> = 1/(1 − x<tspan baseline-shift="sub" font-size="70%">n</tspan>), x<tspan baseline-shift="sub" font-size="70%">1</tspan> = 3</text>
+<line x1="150" y1="700" x2="828" y2="700" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="150" y1="700" x2="150" y2="560" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="197" y1="700" x2="197" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="197" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="268" y1="700" x2="268" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="268" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="339" y1="700" x2="339" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="339" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">3</text>
+<line x1="410" y1="700" x2="410" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="410" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<line x1="481" y1="700" x2="481" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="481" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<line x1="552" y1="700" x2="552" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="552" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">6</text>
+<line x1="623" y1="700" x2="623" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="623" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">7</text>
+<line x1="694" y1="700" x2="694" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="694" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">8</text>
+<line x1="765" y1="700" x2="765" y2="708" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="765" y="732" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">9</text>
+<line x1="142" y1="665.4285714285714" x2="150" y2="665.4285714285714" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="671.4285714285714" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="142" y1="640.2857142857143" x2="150" y2="640.2857142857143" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="646.2857142857143" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">1</text>
+<line x1="142" y1="615.1428571428571" x2="150" y2="615.1428571428571" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="621.1428571428571" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">2</text>
+<line x1="142" y1="590" x2="150" y2="590" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="596" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">3</text>
+<path d="M197.0 590.0 L268.0 678.0 L339.0 648.7 L410.0 590.0 L481.0 678.0 L552.0 648.7 L623.0 590.0 L694.0 678.0 L765.0 648.7" fill="none" stroke="#a9cfc9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 6"/>
+<circle cx="197" cy="590" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="268" cy="678" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="339" cy="648.6666666666666" r="9" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="410" cy="590" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="481" cy="678" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="552" cy="648.6666666666666" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="623" cy="590" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="694" cy="678" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="765" cy="648.6666666666666" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="509.40000000000003" y="562" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">repeats every 3 terms</text>
+<rect x="30" y="790" width="840" height="300" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="832" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Increasing to a limit: u<tspan baseline-shift="sub" font-size="70%">n</tspan> = (3n − 1)/(n + 2)</text>
+<line x1="150" y1="1020" x2="828" y2="1020" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="150" y1="1020" x2="150" y2="860" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="197" y1="1020" x2="197" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="197" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">1</text>
+<line x1="260.1111111111111" y1="1020" x2="260.1111111111111" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="260.1111111111111" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="323.22222222222223" y1="1020" x2="323.22222222222223" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="323.22222222222223" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">3</text>
+<line x1="386.33333333333337" y1="1020" x2="386.33333333333337" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="386.33333333333337" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<line x1="449.44444444444446" y1="1020" x2="449.44444444444446" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="449.44444444444446" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">5</text>
+<line x1="512.5555555555555" y1="1020" x2="512.5555555555555" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="512.5555555555555" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">6</text>
+<line x1="575.6666666666667" y1="1020" x2="575.6666666666667" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="575.6666666666667" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">7</text>
+<line x1="638.7777777777778" y1="1020" x2="638.7777777777778" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="638.7777777777778" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">8</text>
+<line x1="701.8888888888889" y1="1020" x2="701.8888888888889" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="701.8888888888889" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">9</text>
+<line x1="765" y1="1020" x2="765" y2="1028" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="765" y="1052" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">10</text>
+<line x1="142" y1="998" x2="150" y2="998" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="1004" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="142" y1="962" x2="150" y2="962" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="968" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">1</text>
+<line x1="142" y1="926" x2="150" y2="926" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="932" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">2</text>
+<line x1="142" y1="890" x2="150" y2="890" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="136" y="896" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="end">3</text>
+<path d="M197.0 974.0 L260.1 953.0 L323.2 940.4 L386.3 932.0 L449.4 926.0 L512.6 921.5 L575.7 918.0 L638.8 915.2 L701.9 912.9 L765.0 911.0" fill="none" stroke="#a9cfc9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 6"/>
+<circle cx="197" cy="974" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="260.1111111111111" cy="953" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="323.22222222222223" cy="940.4" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="386.33333333333337" cy="932" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="449.44444444444446" cy="926" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="512.5555555555555" cy="921.5" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="575.6666666666667" cy="918" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="638.7777777777778" cy="915.2" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="701.8888888888889" cy="912.9090909090909" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="765" cy="911" r="9" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="150" y1="890" x2="810" y2="890" stroke="#8a6d0d" stroke-width="3" stroke-dasharray="16 9"/>
+<text x="808" y="878" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">limit 3, never reached</text>
+</svg>

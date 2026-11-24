@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 962" width="900" height="962" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="962" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Moving substances with ATP</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Active transport and bulk transport</text>
+<rect x="40" y="120" width="820" height="300" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="152" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">low</text>
+<text x="360" y="152" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">high</text>
+<line x1="286" y1="143" x2="314" y2="143" stroke="#1e2a44" stroke-width="2"/><line x1="286" y1="149" x2="314" y2="149" stroke="#1e2a44" stroke-width="2"/><circle cx="276" cy="146" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="324" cy="146" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="286" y1="169" x2="314" y2="169" stroke="#1e2a44" stroke-width="2"/><line x1="286" y1="175" x2="314" y2="175" stroke="#1e2a44" stroke-width="2"/><circle cx="276" cy="172" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="324" cy="172" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="286" y1="195" x2="314" y2="195" stroke="#1e2a44" stroke-width="2"/><line x1="286" y1="201" x2="314" y2="201" stroke="#1e2a44" stroke-width="2"/><circle cx="276" cy="198" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="324" cy="198" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="286" y1="351" x2="314" y2="351" stroke="#1e2a44" stroke-width="2"/><line x1="286" y1="357" x2="314" y2="357" stroke="#1e2a44" stroke-width="2"/><circle cx="276" cy="354" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="324" cy="354" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><line x1="286" y1="377" x2="314" y2="377" stroke="#1e2a44" stroke-width="2"/><line x1="286" y1="383" x2="314" y2="383" stroke="#1e2a44" stroke-width="2"/><circle cx="276" cy="380" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/><circle cx="324" cy="380" r="10" fill="#dde9e6" stroke="#2e6b62" stroke-width="2.2"/>
+<rect x="262" y="210" width="76" height="118" rx="34" fill="#6fa89f" stroke="#2e6b62" stroke-width="2.5"/>
+<path d="M262 256 a14 14 0 0 1 0 28 z" fill="#fff"/>
+<polygon points="278,270 274,276.9282032302755 266,276.9282032302755 262,270 266,263.0717967697245 274,263.0717967697245" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="119,210 114.5,217.79422863405995 105.5,217.79422863405995 101,210 105.5,202.20577136594005 114.5,202.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="199,190 194.5,197.79422863405995 185.5,197.79422863405995 181,190 185.5,182.20577136594005 194.5,182.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="239,270 234.5,277.79422863405995 225.5,277.79422863405995 221,270 225.5,262.20577136594005 234.5,262.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="159,320 154.5,327.79422863405995 145.5,327.79422863405995 141,320 145.5,312.20577136594005 154.5,312.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="369,190 364.5,197.79422863405995 355.5,197.79422863405995 351,190 355.5,182.20577136594005 364.5,182.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="429,180 424.5,187.79422863405995 415.5,187.79422863405995 411,180 415.5,172.20577136594005 424.5,172.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="379,240 374.5,247.79422863405995 365.5,247.79422863405995 361,240 365.5,232.20577136594005 374.5,232.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="449,240 444.5,247.79422863405995 435.5,247.79422863405995 431,240 435.5,232.20577136594005 444.5,232.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="369,290 364.5,297.79422863405995 355.5,297.79422863405995 351,290 355.5,282.20577136594005 364.5,282.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="429,310 424.5,317.79422863405995 415.5,317.79422863405995 411,310 415.5,302.20577136594005 424.5,302.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="379,360 374.5,367.79422863405995 365.5,367.79422863405995 361,360 365.5,352.20577136594005 374.5,352.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="439,370 434.5,377.79422863405995 425.5,377.79422863405995 421,370 425.5,362.20577136594005 434.5,362.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="489,290 484.5,297.79422863405995 475.5,297.79422863405995 471,290 475.5,282.20577136594005 484.5,282.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<polygon points="479,360 474.5,367.79422863405995 465.5,367.79422863405995 461,360 465.5,352.20577136594005 474.5,352.20577136594005" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.2"/>
+<line x1="110" y1="400" x2="390" y2="400" stroke="#b5602e" stroke-width="3.5" marker-end="url(#ahR)"/>
+<text x="560" y="212" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Active transport</text>
+<text x="560" y="242" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">Against the gradient</text>
+<rect x="560" y="274" width="200" height="44" rx="22" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="660" y="303" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">Uses ATP</text>
+<text x="560" y="358" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">ATP → ADP + Pᵢ</text>
+<rect x="40" y="440" width="820" height="236" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="474" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Endocytosis</text>
+<rect x="300" y="448" width="160" height="44" rx="22" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="380" y="477" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">Uses ATP</text>
+<text x="60" y="522" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">outside</text>
+<text x="60" y="596" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">inside</text>
+<line x1="120" y1="536" x2="300" y2="536" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><circle cx="210" cy="508" r="11" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="306" y1="536" x2="362" y2="536" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<path d="M370 536 H430 a30 30 0 0 0 60 0 H550" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" /><circle cx="460" cy="548" r="11" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="556" y1="536" x2="612" y2="536" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="620" y1="536" x2="800" y2="536" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><circle cx="710" cy="582" r="28" fill="none" stroke="#2e6b62" stroke-width="5"/><circle cx="710" cy="582" r="11" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="210" y="658" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Membrane folds in</text>
+<text x="460" y="658" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Pinches off</text>
+<text x="710" y="658" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Vesicle inside</text>
+<rect x="40" y="696" width="820" height="236" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="60" y="730" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Exocytosis</text>
+<rect x="300" y="704" width="160" height="44" rx="22" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="380" y="733" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="middle">Uses ATP</text>
+<text x="60" y="778" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">outside</text>
+<text x="60" y="852" font-size="17" font-weight="400" fill="#4a5568" text-anchor="start">inside</text>
+<line x1="120" y1="792" x2="300" y2="792" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><circle cx="210" cy="838" r="28" fill="none" stroke="#2e6b62" stroke-width="5"/><circle cx="210" cy="838" r="11" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="306" y1="792" x2="362" y2="792" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<path d="M370 792 H430 a30 30 0 0 1 60 0 H550" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" /><circle cx="460" cy="780" r="11" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="556" y1="792" x2="612" y2="792" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="620" y1="792" x2="800" y2="792" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><circle cx="692" cy="762" r="11" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><circle cx="722" cy="740" r="11" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><circle cx="732" cy="770" r="11" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="210" y="914" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Vesicle arrives</text>
+<text x="460" y="914" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Fuses, opens</text>
+<text x="710" y="914" font-size="18" font-weight="700" fill="#1e2a44" text-anchor="middle">Contents out</text>
+</svg>

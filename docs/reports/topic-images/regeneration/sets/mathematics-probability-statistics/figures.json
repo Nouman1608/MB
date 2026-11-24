@@ -1,0 +1,119 @@
+[
+ {
+  "file": "mathematics-probability-statistics--06-venn-conditional.webp",
+  "width": 900,
+  "height": 990,
+  "after": "## Method boxes",
+  "alt": "Venn regions A only 0.45, both 0.10, B only 0.25, neither 0.20. Given B the sample space is the B circle (0.35), so P(A|B) = 0.10/0.35 = 2/7. Given not A the space is 0.45, so P(B|A') = 0.25/0.45 = 5/9.",
+  "caption": "The condition becomes the new sample space and sits in the denominator.",
+  "bytes": 106762
+ },
+ {
+  "file": "mathematics-probability-statistics--08-independence-model-check.webp",
+  "width": 900,
+  "height": 860,
+  "after": "## Small worked reminders",
+  "alt": "Two students chosen when 45% are girls: the independent model gives 0.2025. The exact value without replacement is 0.2023 for 1200 students (gap 0.0002); illustrative sizes of 100 and 20 students give gaps 0.0025 and 0.0130.",
+  "caption": "Independence is a good approximation for a large population but poor for a small group.",
+  "bytes": 95950
+ },
+ {
+  "file": "mathematics-probability-statistics--03-dice-sample-space-independence.webp",
+  "width": 900,
+  "height": 1060,
+  "after": "### Answers",
+  "alt": "A 6 by 6 grid of two-dice totals. A (first die even) covers 18 cells, B (total 7) 6 cells, both 3 cells. 1/2 x 1/6 = 1/12 = 3/36, so A and B are independent.",
+  "caption": "Counting cells in the sample space shows P(A and B) equals P(A) x P(B).",
+  "bytes": 78026
+ },
+ {
+  "file": "mathematics-probability-statistics--07-reversing-the-condition.webp",
+  "width": 900,
+  "height": 860,
+  "after": "## Method boxes",
+  "alt": "Out of 10 000 components, 400 faulty and 9 600 good. The test flags 380 faulty and 288 good, 668 in all, so P(faulty given flagged) = 380/668 = 0.569, matching 0.038/0.0668 on a tree.",
+  "caption": "Reversing the condition means dividing one tree path by all paths that end in the observed outcome.",
+  "bytes": 88542
+ },
+ {
+  "file": "mathematics-probability-statistics--09-normal-68-95-997.webp",
+  "width": 900,
+  "height": 940,
+  "after": "## Calculator checklist",
+  "alt": "Bell curve for N(250, 4²), symmetric about 250 g. Shaded bands show 68% within 1 sd (246 to 254), 95% within 2 sd and 99.7% within 3 sd. The points of inflection at 246 and 254 are marked, and a second row gives z from −3 to 3.",
+  "caption": "The Normal curve is symmetrical, has inflection points at μ ± σ and holds about 68%, 95% and 99.7% of values within 1, 2 and 3 sd.",
+  "bytes": 65664
+ },
+ {
+  "file": "mathematics-probability-statistics--02-poisson-approx-binomial.webp",
+  "width": 900,
+  "height": 890,
+  "after": "## Small worked reminders",
+  "alt": "Paired bars for r = 0 to 9 compare the exact binomial B(200, 0.015) with Po(3); they are almost identical. P(X ≤ 2) is 0.421 exactly and 0.423 by the Poisson. The rule is n > 50 and np < 5.",
+  "caption": "B(200, 0.015) and Po(3) side by side, showing why Po(np) works for large n and small p.",
+  "bytes": 55010
+ },
+ {
+  "file": "mathematics-probability-statistics--07-confidence-interval-95.webp",
+  "width": 900,
+  "height": 900,
+  "after": "## Calculator checklist",
+  "alt": "A normal curve of the sample mean centred on 56.5 with standard error 0.675. The central 95% of area, from 55.2 to 57.8, is shaded teal with 2.5% in each tail, and a bracket marks the interval (55.2, 57.8).",
+  "caption": "The 95% interval is the sample mean plus or minus 1.96 standard errors.",
+  "bytes": 71486
+ },
+ {
+  "file": "mathematics-probability-statistics--03-poisson-normal-correction.webp",
+  "width": 900,
+  "height": 940,
+  "after": "## Calculator checklist",
+  "alt": "Bars for Po(25) with the curve N(25, 25) drawn over them. Bars from r = 31 are gold and a dashed line at 30.5 shows the continuity-corrected boundary. z = 1.1 gives 1 − Φ(1.1) = 0.136.",
+  "caption": "Why P(X > 30) becomes P(Y > 30.5) when a Poisson is approximated by a normal.",
+  "bytes": 67780
+ },
+ {
+  "file": "mathematics-probability-statistics--04-linear-combinations-variance.webp",
+  "width": 900,
+  "height": 930,
+  "after": "## Calculator checklist",
+  "alt": "Two normal curves share mean 4040 g. The tall narrow one is the total of four separate bags (variance 4σ² = 256) and the low wide one is four times one bag (variance 16σ² = 1024).",
+  "caption": "Adding four independent bags gives variance 4σ², but scaling one bag by 4 gives 16σ².",
+  "bytes": 76958
+ },
+ {
+  "file": "mathematics-probability-statistics--05-pdf-area-mean-median.webp",
+  "width": 900,
+  "height": 940,
+  "after": "## Calculator checklist",
+  "alt": "Graph of f(x) = (4x − x²)/9 on 0 to 3. The total area is 1 and a dashed line at the median 1.79 splits it into two halves. The mean, 7/4, sits just left of the median. Variance is 0.538.",
+  "caption": "A pdf has area 1; the median splits the area in half and the mean is the balance point.",
+  "bytes": 60256
+ },
+ {
+  "file": "mathematics-probability-statistics--06-sample-mean-distribution.webp",
+  "width": 900,
+  "height": 880,
+  "after": "## Calculator checklist",
+  "alt": "Two normal curves centred on 30: a wide one for a single value (sd 6) and a narrow one for the mean of 50 values (sd 0.85). The area of the narrow curve above 31 is shaded and equals 0.119.",
+  "caption": "The mean of 50 values varies far less than one value, so P(X̄ > 31) is only 0.119.",
+  "bytes": 74474
+ },
+ {
+  "file": "mathematics-probability-statistics--01-poisson-events.webp",
+  "width": 900,
+  "height": 890,
+  "after": "### The binomial distribution",
+  "alt": "Bar chart of Po(3.2) for r = 0 to 10. The bar at r = 2 is gold with probability 0.209 and the bars from r = 3 upward are dark teal with total 0.620. A dashed line at 3.2 marks the mean, which equals the variance.",
+  "caption": "The Po(3.2) distribution, with P(X = 2) = 0.209 and P(X ≥ 3) = 0.620 marked.",
+  "bytes": 52652
+ },
+ {
+  "file": "mathematics-probability-statistics--08-type-i-type-ii-poisson.webp",
+  "width": 900,
+  "height": 980,
+  "after": "## Next steps",
+  "alt": "Two bar charts share a dashed boundary between 8 and 9. Under H0 (Po(4.5)) the bars from 9 upward have probability 0.0403, the Type I error. If the true mean is 7 (Po(7)) the bars up to 8 have probability 0.729, the Type II error.",
+  "caption": "Type I error is landing in the rejection region when H0 is true; Type II is landing outside it when H0 is false.",
+  "bytes": 73848
+ }
+]

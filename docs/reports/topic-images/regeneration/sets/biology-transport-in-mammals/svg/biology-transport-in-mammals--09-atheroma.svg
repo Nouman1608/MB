@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1170" width="900" height="1170" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1170" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">How atheroma narrows an artery</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Cross-sections drawn to the same scale</text>
+<circle cx="235" cy="360" r="190" fill="#efe2c4" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="235" cy="360" r="150" fill="#d89a90" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="235" cy="360" r="126" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="665" cy="360" r="190" fill="#efe2c4" stroke="#1e2a44" stroke-width="3.5"/>
+<circle cx="665" cy="360" r="150" fill="#d89a90" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="665" cy="360" r="126" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="235" cy="360" r="118" fill="#f2cdc8" stroke="#b5352e" stroke-width="2.5"/>
+<line x1="124" y1="380" x2="346" y2="380" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="124" y1="380" x2="346" y2="380" stroke="#1e2a44" stroke-width="3" marker-start="url(#ah)"/>
+<text x="235" y="366" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">4.0 mm</text>
+<circle cx="665" cy="360" r="120" fill="#e6cf6a" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="665" cy="322.6" r="82.6" fill="#f2cdc8" stroke="#b5352e" stroke-width="2.5"/>
+<line x1="586.4" y1="326.6" x2="743.6" y2="326.6" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)" marker-start="url(#ah)"/>
+<text x="665" y="310.6" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">2.8 mm</text>
+<text x="665" y="456" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Atheroma</text>
+<text x="235" y="614" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">Healthy</text>
+<text x="665" y="614" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">With atheroma</text>
+<rect x="30" y="646" width="400" height="52" rx="22" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/><text x="230" y="679.56" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Area 12.57 mm<tspan baseline-shift="super" font-size="70%">2</tspan></text>
+<rect x="470" y="646" width="400" height="52" rx="22" fill="#fff" stroke="#8a6d0d" stroke-width="2.5"/><text x="670" y="679.56" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">Area 6.16 mm<tspan baseline-shift="super" font-size="70%">2</tspan></text>
+<rect x="200" y="716" width="500" height="56" rx="22" fill="#fbe6dc" stroke="#b5602e" stroke-width="2.5"/><text x="450" y="751.92" font-size="22" font-weight="700" fill="#b5602e" text-anchor="middle">Diameter −30%, area −51%</text>
+<rect x="200" y="812" width="500" height="52" rx="22" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/><text x="450" y="845.56" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Atheroma damages the lining</text>
+<line x1="450" y1="864" x2="450" y2="900" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="200" y="902" width="500" height="52" rx="22" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/><text x="450" y="935.56" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Clot (thrombus) forms</text>
+<line x1="450" y1="954" x2="450" y2="990" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="200" y="992" width="500" height="52" rx="22" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/><text x="450" y="1025.56" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Coronary artery blocked</text>
+<line x1="450" y1="1044" x2="450" y2="1080" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="200" y="1082" width="500" height="52" rx="22" fill="#f2cdc8" stroke="#b5352e" stroke-width="2.5"/><text x="450" y="1115.56" font-size="21" font-weight="700" fill="#b5352e" text-anchor="middle">Heart muscle dies: MI</text>
+</svg>

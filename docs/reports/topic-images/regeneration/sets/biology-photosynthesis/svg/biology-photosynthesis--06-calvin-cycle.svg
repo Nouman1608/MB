@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 830" width="900" height="830" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="830" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">The Calvin cycle</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Counting carbon through three turns</text>
+<path d="M558 218 C640 260 690 320 680 420" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="681" y1="400" x2="680.0534955912473" y2="410.09604702669566" stroke="#1e2a44" stroke-width="4" stroke-linecap="round"/><polygon points="678,432 666.9111238072646,408.8639496719473 693.1958673752299,411.328144381444" fill="#1e2a44"/>
+<path d="M650 520 C620 600 520 610 440 568" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="462" y1="580" x2="449.17466181674007" y2="572.7857472719163" stroke="#1e2a44" stroke-width="4" stroke-linecap="round"/><polygon points="430,562 455.64611017988983,561.2809501818723 442.7032134535903,584.2905443619603" fill="#1e2a44"/>
+<path d="M296 470 C250 390 260 260 340 190" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="320" y1="206" x2="329.2055017218795" y2="198.2107293122558" stroke="#1e2a44" stroke-width="4" stroke-linecap="round"/><polygon points="346,184 337.731939309233,208.2874282791281 320.679064134526,188.1340303453835" fill="#1e2a44"/>
+<rect x="346" y="130" width="208" height="88" rx="12" fill="#dce9e7" stroke="#1e2a44" stroke-width="3"/>
+<text x="450" y="172" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">3 RuBP</text>
+<text x="450" y="202" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">3 × 5C = 15C</text>
+<rect x="602" y="430" width="208" height="88" rx="12" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3"/>
+<text x="706" y="472" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">6 GP</text>
+<text x="706" y="502" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">6 × 3C = 18C</text>
+<rect x="212" y="430" width="208" height="88" rx="12" fill="#f2e7b8" stroke="#1e2a44" stroke-width="3"/>
+<text x="316" y="472" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">6 TP</text>
+<text x="316" y="502" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">6 × 3C = 18C</text>
+<line x1="870" y1="216" x2="688.3136377337353" y2="291.5527447047833" stroke="#2e6b62" stroke-width="3.5" stroke-linecap="round"/><polygon points="668,300 683.2452845566053,279.36456206454216 693.3819909108653,303.7409273450245" fill="#2e6b62"/>
+<text x="864" y="196" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="end">3 CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5"></tspan></text>
+<circle cx="744" cy="360" r="18" fill="#8a6d0d"/><text x="744" y="367" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="772" y="352" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Fixation</text>
+<text x="772" y="380" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">rubisco</text>
+<circle cx="564" cy="642" r="18" fill="#8a6d0d"/><text x="564" y="649" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="592" y="636" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Reduction</text>
+<text x="592" y="664" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">6 ATP + 6 reduced NADP</text>
+<circle cx="66" cy="230" r="18" fill="#8a6d0d"/><text x="66" y="237" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="94" y="222" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Regeneration</text>
+<text x="94" y="250" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">5 TP → 3 RuBP</text>
+<text x="94" y="286" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">3 ATP</text>
+<text x="490" y="384" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">stroma</text>
+<text x="490" y="414" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">3 turns</text>
+<line x1="282" y1="518" x2="238.49390095108848" y2="572.3826238111394" stroke="#b5602e" stroke-width="3.5" stroke-linecap="round"/><polygon points="226,588 229.1234752377721,564.8862832404864 247.86432666440484,579.8789643817925" fill="#b5602e"/>
+<rect x="22" y="590" width="300" height="74" rx="10" fill="#ffffff" stroke="#b5602e" stroke-width="2.5"/>
+<text x="172" y="620" font-size="21" font-weight="700" fill="#b5602e" text-anchor="middle">1 TP leaves (3C)</text>
+<text x="172" y="648" font-size="18" font-weight="400" fill="#b5602e" text-anchor="middle">sugars, lipids, amino acids</text>
+<rect x="22" y="696" width="856" height="112" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="450" y="738" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Total for 3 turns: 9 ATP and 6 reduced NADP</text>
+<text x="450" y="774" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">per CO<tspan dy="5" font-size="70%">2</tspan><tspan dy="-5">: 3 ATP and 2 reduced NADP. TP is also called GALP.</tspan></text>
+</svg>

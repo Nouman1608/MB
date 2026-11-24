@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 866" width="900" height="866" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="866" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Net mesh size</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Schematic: net seen from the side</text>
+<rect x="30" y="134" width="410" height="410" rx="14" fill="#d3e5ec" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="460" y="134" width="410" height="410" rx="14" fill="#d3e5ec" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="50" y="172" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Small mesh</text>
+<text x="480" y="172" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Large mesh</text>
+<text x="310" y="186" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">net</text>
+<text x="740" y="186" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">net</text>
+<rect x="286" y="194" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="286" y="238" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="286" y="282" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="286" y="326" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="286" y="370" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="286" y="414" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="286" y="458" width="48" height="15" rx="6" fill="#3b4558"/>
+<ellipse cx="222" cy="246" rx="60" ry="42" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><polygon points="164,246 142,212 142,280" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><circle cx="260" cy="240" r="4.5" fill="#1e2a44"/>
+<ellipse cx="242" cy="316" rx="36" ry="22" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><polygon points="208,316 188,299 188,333" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><circle cx="260" cy="312" r="4.5" fill="#1e2a44"/>
+<ellipse cx="242" cy="394" rx="36" ry="22" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><polygon points="208,394 188,377 188,411" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><circle cx="260" cy="390" r="4.5" fill="#1e2a44"/>
+<ellipse cx="222" cy="470" rx="60" ry="42" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><polygon points="164,470 142,436 142,504" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><circle cx="260" cy="464" r="4.5" fill="#1e2a44"/>
+<rect x="716" y="194" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="716" y="272" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="716" y="350" width="48" height="15" rx="6" fill="#3b4558"/>
+<rect x="716" y="428" width="48" height="15" rx="6" fill="#3b4558"/>
+<ellipse cx="652" cy="246" rx="60" ry="42" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><polygon points="594,246 572,212 572,280" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><circle cx="690" cy="240" r="4.5" fill="#1e2a44"/>
+<ellipse cx="652" cy="470" rx="60" ry="42" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><polygon points="594,470 572,436 572,504" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><circle cx="690" cy="464" r="4.5" fill="#1e2a44"/>
+<line x1="580" y1="316" x2="756" y2="316" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="4 6"/><line x1="580" y1="394" x2="756" y2="394" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="4 6"/>
+<ellipse cx="810" cy="316" rx="36" ry="22" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><polygon points="776,316 756,299 756,333" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><circle cx="828" cy="312" r="4.5" fill="#1e2a44"/>
+<ellipse cx="810" cy="394" rx="36" ry="22" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><polygon points="776,394 756,377 756,411" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><circle cx="828" cy="390" r="4.5" fill="#1e2a44"/>
+<text x="235" y="586" font-size="24" font-weight="700" fill="#b5602e" text-anchor="middle">Young fish caught too</text>
+<text x="665" y="586" font-size="24" font-weight="700" fill="#2e6b62" text-anchor="middle">Young fish escape</text>
+<ellipse cx="120" cy="666" rx="60" ry="42" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><polygon points="62,666 40,632 40,700" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><circle cx="158" cy="660" r="4.5" fill="#1e2a44"/>
+<text x="206" y="674" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">adult</text>
+<ellipse cx="440" cy="666" rx="36" ry="22" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><polygon points="406,666 386,649 386,683" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/><circle cx="458" cy="662" r="4.5" fill="#1e2a44"/>
+<text x="494" y="674" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">young fish</text>
+<rect x="30" y="736" width="840" height="100" rx="14" fill="#ffffff" stroke="#2e6b62" stroke-width="3"/>
+<text x="450" y="776" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">Larger mesh: young fish escape,</text>
+<text x="450" y="812" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="middle">so they survive to breed</text>
+</svg>

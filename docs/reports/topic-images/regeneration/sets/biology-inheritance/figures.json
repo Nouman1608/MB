@@ -1,0 +1,29 @@
+[
+ {
+  "file": "biology-inheritance--04-mitosis-vs-meiosis.webp",
+  "width": 900,
+  "height": 1220,
+  "after": "### Worked example 5: probability",
+  "alt": "A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46.",
+  "caption": "Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.",
+  "bytes": 148064
+ },
+ {
+  "file": "biology-inheritance--09-continuous-variation.webp",
+  "width": 900,
+  "height": 1115,
+  "after": "## Multiple alleles",
+  "alt": "Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes.",
+  "caption": "More genes, plus environment, turn separate steps into a smooth bell-shaped curve.",
+  "bytes": 83624
+ },
+ {
+  "file": "biology-inheritance--04-sex-linkage.webp",
+  "width": 900,
+  "height": 960,
+  "after": "## Sex linkage",
+  "alt": "A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters.",
+  "caption": "A son has one X, so one recessive allele shows; the father passes his Y to sons.",
+  "bytes": 92744
+ }
+]

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 990" width="900" height="990" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="990" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Sonar: how deep is the sea?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Time the echo from the sea bed</text>
+<rect x="40" y="230" width="820" height="470" fill="#d3e6ec"/>
+<line x1="40" y1="230" x2="860" y2="230" stroke="#2e6b62" stroke-width="3"/>
+<rect x="40" y="700" width="820" height="36" fill="#9c8f6e" stroke="#1e2a44" stroke-width="2"/>
+<text x="840" y="725" font-size="18" font-weight="700" fill="#fff" text-anchor="end">sea bed</text>
+<path d="M150 190 H360 L330 236 H180 Z" fill="#1e2a44"/>
+<rect x="210" y="150" width="70" height="40" fill="#fff" stroke="#1e2a44" stroke-width="3"/>
+<line x1="230" y1="244" x2="230" y2="694" stroke="#8a6d0d" stroke-width="6" marker-end="url(#ahO)"/>
+<line x1="300" y1="694" x2="300" y2="244" stroke="#2e6b62" stroke-width="6" marker-end="url(#ahT)"/>
+<text x="210" y="360" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">pulse</text>
+<text x="320" y="360" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">echo</text>
+<line x1="640" y1="234" x2="640" y2="696" stroke="#1e2a44" stroke-width="3" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="664" y="460" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">depth</text>
+<text x="664" y="490" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="start">= 300 m</text>
+<rect x="40" y="760" width="820" height="200" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="70" y="804" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Speed in sea water: 1500 m/s</text>
+<text x="70" y="842" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Echo time: 0.40 s</text>
+<text x="70" y="880" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Distance there and back = 1500 × 0.40 = 600 m</text>
+<text x="70" y="926" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">depth = 600 ÷ 2 = 300 m</text>
+</svg>

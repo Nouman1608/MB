@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 860" width="900" height="860" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="860" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Why heat speeds enzymes up</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Below the optimum temperature</text>
+<rect x="30" y="120" width="840" height="330" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="56" y="160" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Cooler: slow particles</text>
+<path d="M91.2 320 H132 L140.4 346.4 H159.6 L168 320 H208.8 Q216 320 216 327.2 V382.40000000000003 Q216 389.6 208.8 389.6 H91.2 Q84 389.6 84 382.40000000000003 V327.2 Q84 320 91.2 320 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<path d="M391.2 320 H432 L440.4 346.4 H459.6 L468 320 H508.8 Q516 320 516 327.2 V382.40000000000003 Q516 389.6 508.8 389.6 H391.2 Q384 389.6 384 382.40000000000003 V327.2 Q384 320 391.2 320 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<path d="M691.2 320 H732 L740.4 346.4 H759.6 L768 320 H808.8 Q816 320 816 327.2 V382.40000000000003 Q816 389.6 808.8 389.6 H691.2 Q684 389.6 684 382.40000000000003 V327.2 Q684 320 691.2 320 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="422.4,304 477.6,304 459.6,346 440.4,346" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="450,242 454.9748846207462,255.98956607735326 468.3847763108502,249.61522368914976 462.0104339226467,263.02511537925386 476,268 462.0104339226467,272.97488462074614 468.3847763108502,286.3847763108502 454.9748846207462,280.0104339226467 450,294 445.02511537925386,280.0104339226467 431.6152236891498,286.3847763108502 437.9895660773533,272.9748846207462 424,268 437.9895660773533,263.0251153792538 431.6152236891498,249.61522368914976 445.0251153792538,255.9895660773533" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<polygon points="117,205 163,205 148,240 132,240" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<line x1="172" y1="222" x2="204" y2="222" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="220,222 204,231.6 204,212.4" fill="#1e2a44"/>
+<polygon points="557,205 603,205 588,240 572,240" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<line x1="612" y1="222" x2="644" y2="222" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="660,222 644,231.6 644,212.4" fill="#1e2a44"/>
+<polygon points="677,193 723,193 708,228 692,228" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<line x1="732" y1="210" x2="764" y2="210" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="780,210 764,219.6 764,200.4" fill="#1e2a44"/>
+<text x="450" y="426" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">few effective collisions</text>
+<rect x="30" y="470" width="840" height="330" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="56" y="510" font-size="23" font-weight="700" fill="#8a6d0d" text-anchor="start">Warmer: more kinetic energy</text>
+<path d="M91.2 670 H132 L140.4 696.4 H159.6 L168 670 H208.8 Q216 670 216 677.2 V732.4 Q216 739.6 208.8 739.6 H91.2 Q84 739.6 84 732.4 V677.2 Q84 670 91.2 670 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="122.4,654 177.6,654 159.6,696 140.4,696" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="150,592 154.97488462074617,605.9895660773533 168.38477631085024,599.6152236891497 162.01043392264674,613.0251153792539 176,618 162.01043392264674,622.9748846207461 168.38477631085024,636.3847763108503 154.97488462074617,630.0104339226467 150,644 145.02511537925383,630.0104339226467 131.61522368914976,636.3847763108503 137.9895660773533,622.9748846207461 124,618 137.9895660773533,613.0251153792539 131.61522368914976,599.6152236891497 145.02511537925383,605.9895660773533" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<path d="M391.2 670 H432 L440.4 696.4 H459.6 L468 670 H508.8 Q516 670 516 677.2 V732.4 Q516 739.6 508.8 739.6 H391.2 Q384 739.6 384 732.4 V677.2 Q384 670 391.2 670 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="422.4,654 477.6,654 459.6,696 440.4,696" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="450,592 454.9748846207462,605.9895660773533 468.3847763108502,599.6152236891497 462.0104339226467,613.0251153792539 476,618 462.0104339226467,622.9748846207461 468.3847763108502,636.3847763108503 454.9748846207462,630.0104339226467 450,644 445.02511537925386,630.0104339226467 431.6152236891498,636.3847763108503 437.9895660773533,622.9748846207461 424,618 437.9895660773533,613.0251153792539 431.6152236891498,599.6152236891497 445.0251153792538,605.9895660773533" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<path d="M691.2 670 H732 L740.4 696.4 H759.6 L768 670 H808.8 Q816 670 816 677.2 V732.4 Q816 739.6 808.8 739.6 H691.2 Q684 739.6 684 732.4 V677.2 Q684 670 691.2 670 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="722.4,654 777.6,654 759.6,696 740.4,696" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<polygon points="750,592 754.9748846207461,605.9895660773533 768.3847763108503,599.6152236891497 762.0104339226467,613.0251153792539 776,618 762.0104339226467,622.9748846207461 768.3847763108503,636.3847763108503 754.9748846207461,630.0104339226467 750,644 745.0251153792539,630.0104339226467 731.6152236891497,636.3847763108503 737.9895660773533,622.9748846207461 724,618 737.9895660773533,613.0251153792539 731.6152236891497,599.6152236891497 745.0251153792539,605.9895660773533" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<polygon points="167,541 213,541 198,576 182,576" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<line x1="222" y1="558" x2="322" y2="558" stroke="#8a6d0d" stroke-width="3.5" stroke-linecap="round"/><polygon points="340,558 322,568.8 322,547.2" fill="#8a6d0d"/>
+<polygon points="487,535 533,535 518,570 502,570" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.4000000000000004" stroke-linejoin="round"/>
+<line x1="542" y1="552" x2="642" y2="552" stroke="#8a6d0d" stroke-width="3.5" stroke-linecap="round"/><polygon points="660,552 642,562.8 642,541.2" fill="#8a6d0d"/>
+<text x="450" y="776" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">more frequent effective collisions</text>
+<text x="450" y="836" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Arrow length = speed</text>
+</svg>

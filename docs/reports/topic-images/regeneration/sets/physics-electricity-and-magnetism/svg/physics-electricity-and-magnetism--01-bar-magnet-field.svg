@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="600" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Magnetic field of a bar magnet</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Field lines run from N to S</text>
+<g transform="translate(100 0)"><path d="M195 335 C147 283 553 283 505 335" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,296 344,288 344,304" fill="#2e6b62"/>
+<path d="M195 329 C121 247 579 247 505 329" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,267.5 344,259.5 344,275.5" fill="#2e6b62"/>
+<path d="M195 323 C95 211 605 211 505 323" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,239 344,231 344,247" fill="#2e6b62"/>
+<path d="M195 317 C69 175 631 175 505 317" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,210.5 344,202.5 344,218.5" fill="#2e6b62"/>
+<path d="M195 311 C43 139 657 139 505 311" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,182 344,174 344,190" fill="#2e6b62"/>
+<path d="M195 305 C17 103 683 103 505 305" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,153.5 344,145.5 344,161.5" fill="#2e6b62"/>
+<path d="M195 355 C147 407 553 407 505 355" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,394 344,386 344,402" fill="#2e6b62"/>
+<path d="M195 361 C121 443 579 443 505 361" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,422.5 344,414.5 344,430.5" fill="#2e6b62"/>
+<path d="M195 367 C95 479 605 479 505 367" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,451 344,443 344,459" fill="#2e6b62"/>
+<path d="M195 373 C69 515 631 515 505 373" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,479.5 344,471.5 344,487.5" fill="#2e6b62"/>
+<path d="M195 379 C43 551 657 551 505 379" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,508 344,500 344,516" fill="#2e6b62"/>
+<path d="M195 385 C17 587 683 587 505 385" fill="none" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polygon points="360,536.5 344,528.5 344,544.5" fill="#2e6b62"/>
+<rect x="195" y="301" width="155" height="88" fill="#b5602e" stroke="#1e2a44" stroke-width="3"/>
+<rect x="350" y="301" width="155" height="88" fill="#2e6b62" stroke="#1e2a44" stroke-width="3"/>
+<text x="272.5" y="361" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle">N</text>
+<text x="427.5" y="361" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle">S</text>
+<text x="46" y="150" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">Lines close together:</text><text x="46" y="176" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">strong field</text>
+<line x1="92" y1="188" x2="173.99544941230158" y2="283.8052093133208" stroke="#8a6d0d" stroke-width="3" stroke-linecap="round"/><polygon points="187,299 164.87857500029406,291.60793966593985 183.1123238243091,276.00247896070175" fill="#8a6d0d"/>
+<text x="654" y="150" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">Lines far apart:</text><text x="654" y="176" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">weaker field</text>
+<line x1="614" y1="190" x2="489.899370882232" y2="177.50375609578032" stroke="#8a6d0d" stroke-width="3" stroke-linecap="round"/><polygon points="470,175.5 491.1016245397002,165.56413356644111 488.6971172247638,189.44337862511952" fill="#8a6d0d"/></g>
+</svg>

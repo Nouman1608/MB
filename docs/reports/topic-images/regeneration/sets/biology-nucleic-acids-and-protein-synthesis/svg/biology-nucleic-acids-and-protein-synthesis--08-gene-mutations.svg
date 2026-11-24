@@ -1,0 +1,278 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1170" width="900" height="1170" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1170" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Gene mutations</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Effect on the mRNA reading frame</text>
+<defs><marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+<marker id="ahBigT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+<marker id="ahRu" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker></defs><text x="30" y="140" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">Original</text>
+<rect x="30" y="186" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="43" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="58" y="186" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="71" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="86" y="186" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="99" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="144" y="186" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="157" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="172" y="186" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="185" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="200" y="186" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="213" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="258" y="186" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="271" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="286" y="186" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="299" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="314" y="186" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="327" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="372" y="186" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="385" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="400" y="186" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="413" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="428" y="186" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="441" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="486" y="186" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="499" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="514" y="186" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="527" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="542" y="186" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="555" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="600" y="186" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="613" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="628" y="186" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="641" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="656" y="186" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="669" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="714" y="186" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="727" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="742" y="186" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="755" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="770" y="186" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="783" y="213" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="30" y="236" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="80" y="265" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Met</text>
+<rect x="144" y="236" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="194" y="265" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Phe</text>
+<rect x="258" y="236" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="308" y="265" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Gly</text>
+<rect x="372" y="236" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="422" y="265" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Asn</text>
+<rect x="486" y="236" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="536" y="265" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Asp</text>
+<rect x="600" y="236" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="650" y="265" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Gln</text>
+<rect x="714" y="236" width="100" height="42" rx="8" fill="#f2dccc" stroke="#1e2a44" stroke-width="2.5"/><text x="764" y="265" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">STOP</text>
+<text x="30" y="340" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Substitution (1)</text>
+<text x="870" y="340" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">same amino acid: code is degenerate</text>
+<rect x="30" y="386" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="43" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="58" y="386" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="71" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="86" y="386" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="99" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="144" y="386" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="157" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="172" y="386" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="185" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="200" y="386" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="213" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="258" y="386" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="271" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="286" y="386" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="299" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="314" y="386" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#c0643a" stroke-width="3.5"/>
+<text x="327" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="372" y="386" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="385" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="400" y="386" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="413" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="428" y="386" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="441" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="486" y="386" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="499" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="514" y="386" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="527" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="542" y="386" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="555" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="600" y="386" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="613" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="628" y="386" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="641" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="656" y="386" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="669" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="714" y="386" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="727" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="742" y="386" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="755" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="770" y="386" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="783" y="413" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<polygon points="317,366 337,366 327,378" fill="#c0643a"/>
+<text x="347" y="372" font-size="20" font-weight="700" fill="#c0643a" text-anchor="start">base changed</text>
+<rect x="30" y="436" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="80" y="465" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Met</text>
+<rect x="144" y="436" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="194" y="465" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Phe</text>
+<rect x="258" y="436" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="308" y="465" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Gly</text>
+<rect x="372" y="436" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="422" y="465" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Asn</text>
+<rect x="486" y="436" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="536" y="465" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Asp</text>
+<rect x="600" y="436" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="650" y="465" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Gln</text>
+<rect x="714" y="436" width="100" height="42" rx="8" fill="#f2dccc" stroke="#1e2a44" stroke-width="2.5"/><text x="764" y="465" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">STOP</text>
+<text x="30" y="540" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Substitution (2)</text>
+<text x="870" y="540" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">one amino acid changed</text>
+<rect x="30" y="586" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="43" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="58" y="586" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="71" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="86" y="586" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="99" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="144" y="586" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="157" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="172" y="586" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="185" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="200" y="586" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#c0643a" stroke-width="3.5"/>
+<text x="213" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="258" y="586" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="271" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="286" y="586" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="299" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="314" y="586" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="327" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="372" y="586" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="385" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="400" y="586" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="413" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="428" y="586" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="441" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="486" y="586" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="499" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="514" y="586" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="527" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="542" y="586" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="555" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="600" y="586" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="613" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="628" y="586" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="641" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="656" y="586" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="669" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="714" y="586" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="727" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="742" y="586" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="755" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="770" y="586" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="783" y="613" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<polygon points="203,566 223,566 213,578" fill="#c0643a"/>
+<text x="233" y="572" font-size="20" font-weight="700" fill="#c0643a" text-anchor="start">base changed</text>
+<rect x="30" y="636" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="80" y="665" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Met</text>
+<rect x="144" y="636" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="194" y="665" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Leu</text>
+<rect x="258" y="636" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="308" y="665" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Gly</text>
+<rect x="372" y="636" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="422" y="665" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Asn</text>
+<rect x="486" y="636" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="536" y="665" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Asp</text>
+<rect x="600" y="636" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="650" y="665" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Gln</text>
+<rect x="714" y="636" width="100" height="42" rx="8" fill="#f2dccc" stroke="#1e2a44" stroke-width="2.5"/><text x="764" y="665" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">STOP</text>
+<text x="30" y="740" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Deletion</text>
+<text x="870" y="740" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">frame shift: later amino acids change</text>
+<rect x="30" y="786" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="43" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="58" y="786" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="71" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="86" y="786" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="99" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="144" y="786" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="157" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="172" y="786" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="185" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="200" y="786" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="213" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="258" y="786" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="271" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="286" y="786" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="299" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="314" y="786" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="327" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="372" y="786" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="385" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="400" y="786" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="413" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="428" y="786" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="441" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="486" y="786" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="499" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="514" y="786" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="527" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="542" y="786" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="555" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="600" y="786" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="613" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="628" y="786" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="641" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="656" y="786" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="669" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="714" y="786" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="727" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="742" y="786" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="755" y="813" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<polygon points="248,766 268,766 258,778" fill="#c0643a"/>
+<text x="278" y="772" font-size="20" font-weight="700" fill="#c0643a" text-anchor="start">G deleted</text>
+<rect x="30" y="836" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="80" y="865" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Met</text>
+<rect x="144" y="836" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="194" y="865" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Phe</text>
+<rect x="258" y="836" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="308" y="865" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Ala</text>
+<rect x="372" y="836" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="422" y="865" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Thr</text>
+<rect x="486" y="836" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="536" y="865" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Ile</text>
+<rect x="600" y="836" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="650" y="865" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Asn</text>
+<rect x="714" y="836" width="100" height="42" rx="8" fill="#efefef" stroke="#1e2a44" stroke-width="2.5"/><text x="764" y="865" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">–</text>
+<text x="30" y="940" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Insertion</text>
+<text x="870" y="940" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">frame shift: later amino acids change</text>
+<rect x="30" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="43" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="58" y="986" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="71" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="86" y="986" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="99" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="144" y="986" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="157" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="172" y="986" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="185" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="200" y="986" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="213" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="258" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#c0643a" stroke-width="3.5"/>
+<text x="271" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="286" y="986" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="299" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="314" y="986" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="327" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="372" y="986" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="385" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="400" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="413" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="428" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="441" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="486" y="986" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="499" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="514" y="986" width="26" height="40" rx="6" fill="#c9d3ea" stroke="#1e2a44" stroke-width="2"/>
+<text x="527" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">G</text>
+<rect x="542" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="555" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="600" y="986" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="613" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="628" y="986" width="26" height="40" rx="6" fill="#f0c8b0" stroke="#1e2a44" stroke-width="2"/>
+<text x="641" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">C</text>
+<rect x="656" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="669" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="714" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="727" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="742" y="986" width="26" height="40" rx="6" fill="#e2d6ec" stroke="#1e2a44" stroke-width="2"/>
+<text x="755" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">U</text>
+<rect x="770" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="783" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<rect x="828" y="986" width="26" height="40" rx="6" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="841" y="1013" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">A</text>
+<polygon points="261,966 281,966 271,978" fill="#c0643a"/>
+<text x="291" y="972" font-size="20" font-weight="700" fill="#c0643a" text-anchor="start">A inserted</text>
+<rect x="30" y="1036" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="80" y="1065" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Met</text>
+<rect x="144" y="1036" width="100" height="42" rx="8" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><text x="194" y="1065" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Phe</text>
+<rect x="258" y="1036" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="308" y="1065" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Arg</text>
+<rect x="372" y="1036" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="422" y="1065" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Gln</text>
+<rect x="486" y="1036" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="536" y="1065" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Arg</text>
+<rect x="600" y="1036" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="650" y="1065" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Ser</text>
+<rect x="714" y="1036" width="100" height="42" rx="8" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/><text x="764" y="1065" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Ile</text>
+<rect x="828" y="1036" width="30" height="42" rx="8" fill="#efefef" stroke="#1e2a44" stroke-width="2.5"/><text x="843" y="1065" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">–</text>
+<rect x="30" y="1110" width="36" height="28" rx="6" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="80" y="1131" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">amino acid changed from original</text>
+</svg>

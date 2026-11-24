@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1210" width="900" height="1210" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1210" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Connected particles: one equation each</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Light string, smooth pulley, g = 9.8 m s⁻²</text>
+<text x="450" y="140" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Mass on a smooth table</text>
+<text x="40" y="186" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">A: T = 3a</text>
+<text x="40" y="220" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">B: 2g − T = 2a</text>
+<rect x="40" y="300" width="600" height="36" fill="#dce9e7" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="640" y1="300" x2="640" y2="336" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="420" y1="246" x2="640" y2="246" stroke="#1e2a44" stroke-width="2"/>
+<line x1="664" y1="270" x2="664" y2="390" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="640" cy="270" r="24" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><circle cx="640" cy="270" r="4" fill="#1e2a44"/>
+<rect x="300" y="240" width="120" height="60" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="360" y="279" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">3 kg</text>
+<line x1="420" y1="246" x2="474" y2="246" stroke="#2e6b62" stroke-width="4" stroke-linecap="round"/><polygon points="500,246 474,262.12 474,229.88" fill="#2e6b62"/>
+<text x="455" y="232" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">T</text>
+<line x1="305" y1="318" x2="380" y2="318" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="410,318 380,336.6 380,299.4" fill="#8a6d0d"/>
+<text x="355" y="360" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">a</text>
+<rect x="614" y="390" width="100" height="58" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="664" y="427" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">2 kg</text>
+<line x1="664" y1="390" x2="664" y2="362" stroke="#2e6b62" stroke-width="4" stroke-linecap="round"/><polygon points="664,338 678.88,362 649.12,362" fill="#2e6b62"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="644" y="388" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="end">T</text>
+<line x1="740" y1="420" x2="740" y2="462" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="740,490 722.64,462 757.36,462" fill="#8a6d0d"/>
+<text x="756" y="455" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">a</text>
+<line x1="664" y1="448" x2="664" y2="566" stroke="#1e2a44" stroke-width="4" stroke-linecap="round"/><polygon points="664,600 642.92,566 685.08,566" fill="#1e2a44"/>
+<text x="680" y="543" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">2g</text>
+<text x="40" y="468" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">a = 3.92 m s⁻²</text>
+<text x="40" y="506" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">T = 11.8 N</text>
+<text x="40" y="545" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">T is the same either side</text>
+<line x1="60" y1="640" x2="840" y2="640" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="450" y="690" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Two hanging masses</text>
+<line x1="358" y1="705" x2="542" y2="705" stroke="#1e2a44" stroke-width="4"/><line x1="450" y1="705" x2="450" y2="740" stroke="#1e2a44" stroke-width="3"/>
+<line x1="390" y1="800" x2="390" y2="990" stroke="#1e2a44" stroke-width="2"/>
+<line x1="510" y1="800" x2="510" y2="940" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="450" cy="800" r="60" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><circle cx="450" cy="800" r="5" fill="#1e2a44"/>
+<rect x="340" y="990" width="100" height="56" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="390" y="1027" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">7 kg</text>
+<rect x="460" y="940" width="100" height="56" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="510" y="977" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">4 kg</text>
+<line x1="390" y1="990" x2="390" y2="914" stroke="#2e6b62" stroke-width="4" stroke-linecap="round"/><polygon points="390,884 408.6,914 371.4,914" fill="#2e6b62"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="376" y="947" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="end">T</text>
+<line x1="510" y1="940" x2="510" y2="864" stroke="#2e6b62" stroke-width="4" stroke-linecap="round"/><polygon points="510,834 528.6,864 491.4,864" fill="#2e6b62"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="526" y="895" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="start">T</text>
+<line x1="390" y1="1046" x2="390" y2="1156" stroke="#1e2a44" stroke-width="4" stroke-linecap="round"/><polygon points="390,1190 368.92,1156 411.08,1156" fill="#1e2a44"/>
+<text x="376" y="1122" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">7g</text>
+<line x1="510" y1="996" x2="510" y2="1050" stroke="#1e2a44" stroke-width="4" stroke-linecap="round"/><polygon points="510,1080 491.4,1050 528.6,1050" fill="#1e2a44"/>
+<text x="526" y="1044" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">4g</text>
+<line x1="280" y1="995" x2="280" y2="1036" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="280,1064 262.64,1036 297.36,1036" fill="#8a6d0d"/>
+<text x="264" y="1038" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">a</text>
+<line x1="620" y1="1010" x2="620" y2="970" stroke="#8a6d0d" stroke-width="4" stroke-linecap="round"/><polygon points="620,942 637.36,970 602.64,970" fill="#8a6d0d"/>
+<text x="636" y="988" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">a</text>
+<text x="40" y="738" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">7 kg: 7g − T = 7a</text>
+<text x="40" y="776" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">4 kg: T − 4g = 4a</text>
+<text x="860" y="738" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="end">a = 3g/11</text>
+<text x="860" y="776" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="end">= 2.67 m s⁻²</text>
+<text x="860" y="828" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="end">T = 49.9 N</text>
+</svg>

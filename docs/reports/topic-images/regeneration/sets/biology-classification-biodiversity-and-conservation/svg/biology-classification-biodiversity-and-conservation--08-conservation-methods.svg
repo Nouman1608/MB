@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1030" width="900" height="1030" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1030" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Where is it protected?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">In the habitat or outside it</text>
+<text x="40" y="168" font-size="25" font-weight="700" fill="#2e6b62" text-anchor="start">In situ: in the natural habitat</text>
+<text x="40" y="480" font-size="25" font-weight="700" fill="#8a6d0d" text-anchor="start">Ex situ: outside the habitat</text>
+<rect x="40" y="190" width="400" height="230" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="460" y="190" width="400" height="230" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="40" y="510" width="400" height="230" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="460" y="510" width="400" height="230" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="40" y="770" width="400" height="230" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="460" y="770" width="400" height="230" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M95 330 Q170 270 240 295 Q320 265 395 330 Z" fill="#cfe3c6" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="181" y="293" width="8" height="22" rx="0" fill="#8a5a3a"/>
+<circle cx="185" cy="275" r="22" fill="#8fbf88" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="251" y="281" width="8" height="22" rx="0" fill="#8a5a3a"/>
+<circle cx="255" cy="263" r="22" fill="#8fbf88" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="321" y="293" width="8" height="22" rx="0" fill="#8a5a3a"/>
+<circle cx="325" cy="275" r="22" fill="#8fbf88" stroke="#2e6b62" stroke-width="2.5"/>
+<line x1="130" y1="322" x2="360" y2="322" stroke="#1e2a44" stroke-width="3"/>
+<line x1="135" y1="314" x2="135" y2="332" stroke="#1e2a44" stroke-width="3"/>
+<line x1="185" y1="314" x2="185" y2="332" stroke="#1e2a44" stroke-width="3"/>
+<line x1="245" y1="314" x2="245" y2="332" stroke="#1e2a44" stroke-width="3"/>
+<line x1="305" y1="314" x2="305" y2="332" stroke="#1e2a44" stroke-width="3"/>
+<line x1="355" y1="314" x2="355" y2="332" stroke="#1e2a44" stroke-width="3"/>
+<text x="240" y="396" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Wildlife reserve</text>
+<rect x="505" y="250" width="300" height="100" rx="0" fill="#d3e5ec" stroke="#2e6b62" stroke-width="2.5"/>
+<path d="M515 290 L555 282 L595 290 L635 280 L675 288" fill="none" stroke="#7fb0c8" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="505" cy="250" r="10" fill="#b5602e" stroke="#ffffff" stroke-width="2.5"/>
+<circle cx="605" cy="250" r="10" fill="#b5602e" stroke="#ffffff" stroke-width="2.5"/>
+<circle cx="705" cy="250" r="10" fill="#b5602e" stroke="#ffffff" stroke-width="2.5"/>
+<circle cx="805" cy="250" r="10" fill="#b5602e" stroke="#ffffff" stroke-width="2.5"/>
+<ellipse cx="715" cy="314" rx="28" ry="14" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/><polygon points="742,314 764,300 764,328" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="700" cy="311" r="3" fill="#1e2a44"/>
+<text x="660" y="396" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Marine conservation zone</text>
+<rect x="140" y="545" width="200" height="100" rx="4" fill="#f6eed6" stroke="#1e2a44" stroke-width="3"/>
+<line x1="180" y1="545" x2="180" y2="645" stroke="#1e2a44" stroke-width="3"/>
+<line x1="220" y1="545" x2="220" y2="645" stroke="#1e2a44" stroke-width="3"/>
+<line x1="260" y1="545" x2="260" y2="645" stroke="#1e2a44" stroke-width="3"/>
+<line x1="300" y1="545" x2="300" y2="645" stroke="#1e2a44" stroke-width="3"/>
+<ellipse cx="236" cy="613" rx="40" ry="20" fill="#e3b04b" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="272" cy="594" r="22" fill="#f0cc72" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="277" cy="592" r="3" fill="#1e2a44"/>
+<text x="240" y="716" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Zoo: captive breeding</text>
+<path d="M565 640 V575 L655 530 L745 575 V640 Z" fill="#e8f2ef" stroke="#1e2a44" stroke-width="3"/>
+<line x1="610" y1="555" x2="610" y2="640" stroke="#c9d6d4" stroke-width="3"/>
+<line x1="700" y1="555" x2="700" y2="640" stroke="#c9d6d4" stroke-width="3"/>
+<rect x="637" y="614" width="36" height="26" rx="0" fill="#b5602e"/>
+<line x1="655" y1="614" x2="655" y2="585" stroke="#2e6b62" stroke-width="3"/>
+<ellipse cx="634" cy="586" rx="20" ry="10" fill="#8fbf88" stroke="#2e6b62" stroke-width="2"/><ellipse cx="676" cy="576" rx="20" ry="10" fill="#8fbf88" stroke="#2e6b62" stroke-width="2"/>
+<text x="660" y="716" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Botanic garden</text>
+<rect x="200" y="824" width="80" height="18" rx="0" fill="#8a6d0d"/>
+<rect x="190" y="842" width="100" height="92" rx="10" fill="#eef2f6" stroke="#1e2a44" stroke-width="3"/>
+<ellipse cx="220" cy="892" rx="8" ry="5" fill="#a86a3a" stroke="#6e4422" stroke-width="1.5"/>
+<ellipse cx="240" cy="882" rx="8" ry="5" fill="#a86a3a" stroke="#6e4422" stroke-width="1.5"/>
+<ellipse cx="264" cy="886" rx="8" ry="5" fill="#a86a3a" stroke="#6e4422" stroke-width="1.5"/>
+<ellipse cx="212" cy="912" rx="8" ry="5" fill="#a86a3a" stroke="#6e4422" stroke-width="1.5"/>
+<ellipse cx="234" cy="907" rx="8" ry="5" fill="#a86a3a" stroke="#6e4422" stroke-width="1.5"/>
+<ellipse cx="250" cy="900" rx="8" ry="5" fill="#a86a3a" stroke="#6e4422" stroke-width="1.5"/>
+<ellipse cx="262" cy="910" rx="8" ry="5" fill="#a86a3a" stroke="#6e4422" stroke-width="1.5"/>
+<line x1="318" y1="878" x2="362" y2="878" stroke="#2a7891" stroke-width="2.5"/><line x1="329" y1="858.9474411167423" x2="351" y2="897.0525588832577" stroke="#2a7891" stroke-width="2.5"/><line x1="351" y1="858.9474411167423" x2="329" y2="897.0525588832577" stroke="#2a7891" stroke-width="2.5"/>
+<text x="240" y="976" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Seed bank: dried, cold</text>
+<rect x="610" y="817" width="90" height="120" rx="10" fill="#eef2f6" stroke="#1e2a44" stroke-width="3"/>
+<line x1="644" y1="834" x2="666" y2="834" stroke="#2a7891" stroke-width="2.5"/><line x1="649.5" y1="824.4737205583712" x2="660.5" y2="843.5262794416288" stroke="#2a7891" stroke-width="2.5"/><line x1="660.5" y1="824.4737205583712" x2="649.5" y2="843.5262794416288" stroke="#2a7891" stroke-width="2.5"/>
+<rect x="625" y="856" width="14" height="60" rx="7" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="648" y="856" width="14" height="60" rx="7" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="671" y="856" width="14" height="60" rx="7" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<line x1="733" y1="878" x2="777" y2="878" stroke="#2a7891" stroke-width="2.5"/><line x1="744" y1="858.9474411167423" x2="766" y2="897.0525588832577" stroke="#2a7891" stroke-width="2.5"/><line x1="766" y1="858.9474411167423" x2="744" y2="897.0525588832577" stroke="#2a7891" stroke-width="2.5"/>
+<text x="660" y="976" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Frozen zoo: liquid nitrogen</text>
+</svg>

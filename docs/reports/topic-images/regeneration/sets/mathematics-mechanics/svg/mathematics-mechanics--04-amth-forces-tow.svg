@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 940" width="900" height="940" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="940" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Car and trailer: whole system, then one part</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Light tow bar, resistances shown, N</text>
+<text x="450" y="150" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1 Whole system: tension is internal</text>
+<rect x="350" y="200" width="200" height="70" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="230" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">car + trailer</text>
+<text x="450" y="258" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">2000 kg</text>
+<line x1="350" y1="235" x2="292" y2="235" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/><polygon points="262,235 292,216.4 292,253.6" fill="#b5602e"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="310" y="215" font-size="19" font-weight="700" fill="#b5602e" text-anchor="end">500 + 300</text>
+<line x1="550" y1="235" x2="852" y2="235" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="888,235 852,257.32 852,212.68" fill="#2e6b62"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="716" y="215" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">3300</text>
+<text x="450" y="330" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">3300 − 800 = 2000a, so a = 1.25 m s⁻²</text>
+<text x="450" y="420" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">2 Trailer alone: tow bar pulls (tension)</text>
+<rect x="350" y="470" width="200" height="70" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="500" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">trailer</text>
+<text x="450" y="528" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">800 kg</text>
+<line x1="350" y1="505" x2="342" y2="505" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/><polygon points="312,505 342,486.4 342,523.6" fill="#b5602e"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="304" y="485" font-size="19" font-weight="700" fill="#b5602e" text-anchor="start">300</text>
+<line x1="550" y1="505" x2="652" y2="505" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="688,505 652,527.32 652,482.68" fill="#8a6d0d"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="568" y="485" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">T = 1300</text>
+<text x="450" y="600" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">T − 300 = 800 × 1.25, so T = 1300 N</text>
+<text x="450" y="690" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">3 Braking with a rigid bar: thrust</text>
+<rect x="350" y="740" width="200" height="70" rx="7" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="770" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">trailer</text>
+<text x="450" y="798" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">800 kg</text>
+<line x1="350" y1="775" x2="342" y2="775" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/><polygon points="312,775 342,756.4 342,793.6" fill="#b5602e"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="304" y="755" font-size="19" font-weight="700" fill="#b5602e" text-anchor="start">300</text>
+<line x1="614" y1="775" x2="582" y2="775" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="552,775 582,756.4 582,793.6" fill="#8a6d0d"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="588" y="755" font-size="19" font-weight="700" fill="#8a6d0d" text-anchor="start">thrust 620</text>
+<text x="450" y="862" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="middle">Slowing at 1.15 m s⁻²: 300 + X = 800 × 1.15</text>
+<text x="450" y="902" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">X = 620 N: the bar pushes the trailer back</text>
+</svg>

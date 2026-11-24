@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 820" width="900" height="820" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="820" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Focal length and principal focus</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Parallel rays enter each lens</text>
+<text x="60" y="134" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Converging lens</text>
+<line x1="40" y1="230" x2="860" y2="230" stroke="#1e2a44" stroke-width="2" stroke-dasharray="8 7"/>
+<path d="M470 120 Q492 230 470 340 Q448 230 470 120 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3"/>
+<line x1="60" y1="150" x2="470" y2="150" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="470" y1="150" x2="700" y2="258.2352941176471" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="60" y1="230" x2="470" y2="230" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="470" y1="230" x2="700" y2="230" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="60" y1="310" x2="470" y2="310" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="470" y1="310" x2="700" y2="201.76470588235293" stroke="#8a6d0d" stroke-width="3"/>
+<circle cx="640" cy="230" r="9" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<text x="640" y="266" font-size="21" font-weight="700" fill="#b5602e" text-anchor="middle">F</text>
+<line x1="478" y1="370" x2="632" y2="370" stroke="#b5602e" stroke-width="3.5" marker-start="url(#ahR)" marker-end="url(#ahR)"/>
+<text x="555" y="402" font-size="19" font-weight="700" fill="#b5602e" text-anchor="middle">focal length</text>
+<text x="60" y="470" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Diverging lens</text>
+<line x1="40" y1="600" x2="860" y2="600" stroke="#1e2a44" stroke-width="2" stroke-dasharray="8 7"/>
+<path d="M446 488 H494 Q476 600 494 712 H446 Q464 600 446 488 Z" fill="#dde9e6" stroke="#2e6b62" stroke-width="3"/>
+<line x1="60" y1="520" x2="470" y2="520" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="470" y1="520" x2="720" y2="402.3529411764706" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="300" y1="600" x2="470" y2="520" stroke="#8a6d0d" stroke-width="2.2" stroke-dasharray="7 6"/>
+<line x1="60" y1="600" x2="470" y2="600" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="470" y1="600" x2="720" y2="600" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="60" y1="680" x2="470" y2="680" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="470" y1="680" x2="720" y2="797.6470588235294" stroke="#8a6d0d" stroke-width="3"/>
+<line x1="300" y1="600" x2="470" y2="680" stroke="#8a6d0d" stroke-width="2.2" stroke-dasharray="7 6"/>
+<circle cx="300" cy="600" r="9" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<text x="300" y="638" font-size="21" font-weight="700" fill="#b5602e" text-anchor="middle">F</text>
+<text x="60" y="790" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">dashed: traced back, not real rays</text>
+</svg>

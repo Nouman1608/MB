@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1020" width="900" height="1020" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1020" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">How tissue fluid forms and returns</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Pressure in kPa; figures from the lesson example</text>
+<rect x="30" y="140" width="840" height="190" rx="16" fill="#cfe3ea" stroke="#8fb6c4" stroke-width="2.5"/>
+<text x="50" y="178" font-size="22" font-weight="700" fill="#2a7090" text-anchor="start">Tissue fluid</text>
+<ellipse cx="300" cy="262" rx="95" ry="44" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="300" y="269" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">Body cell</text>
+<rect x="560" y="206" width="300" height="56" rx="28" fill="#fff" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="710" y="241" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">Lymph capillary</text>
+<line x1="604" y1="306" x2="640" y2="274" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<text x="586" y="316" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="end">excess drains</text>
+<rect x="50" y="390" width="800" height="130" fill="#f2cdc8"/>
+<line x1="50" y1="390" x2="192" y2="390" stroke="#1e2a44" stroke-width="5"/>
+<line x1="248" y1="390" x2="642" y2="390" stroke="#1e2a44" stroke-width="5"/>
+<line x1="698" y1="390" x2="850" y2="390" stroke="#1e2a44" stroke-width="5"/>
+<line x1="50" y1="520" x2="850" y2="520" stroke="#1e2a44" stroke-width="5"/>
+<line x1="220" y1="452" x2="220" y2="350" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<line x1="670" y1="342" x2="670" y2="452" stroke="#2e6b62" stroke-width="4" marker-end="url(#ahT)"/>
+<circle cx="206" cy="352" r="5" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<circle cx="236" cy="346" r="5" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<circle cx="204" cy="372" r="5" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<circle cx="236" cy="368" r="5" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<circle cx="658" cy="352" r="5" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<circle cx="656" cy="368" r="5" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<circle cx="90" cy="432" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="160" cy="422" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="300" cy="422" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="430" cy="490" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="590" cy="432" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="760" cy="422" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<circle cx="780" cy="482" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<ellipse cx="120" cy="458" rx="24" ry="21.6" fill="#d9534a" stroke="#8f2a24" stroke-width="2.5"/><ellipse cx="120" cy="458" rx="10.8" ry="7.199999999999999" fill="#f2a7a0"/>
+<ellipse cx="350" cy="458" rx="24" ry="21.6" fill="#d9534a" stroke="#8f2a24" stroke-width="2.5"/><ellipse cx="350" cy="458" rx="10.8" ry="7.199999999999999" fill="#f2a7a0"/>
+<ellipse cx="520" cy="458" rx="24" ry="21.6" fill="#d9534a" stroke="#8f2a24" stroke-width="2.5"/><ellipse cx="520" cy="458" rx="10.8" ry="7.199999999999999" fill="#f2a7a0"/>
+<line x1="68" y1="492" x2="140" y2="492" stroke="#b5352e" stroke-width="4" marker-end="url(#ahR)"/>
+<text x="50" y="560" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Arterial end</text>
+<text x="850" y="560" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Venous end</text>
+<ellipse cx="60" cy="598" rx="16" ry="14.4" fill="#d9534a" stroke="#8f2a24" stroke-width="2.5"/><ellipse cx="60" cy="598" rx="7.2" ry="4.8" fill="#f2a7a0"/>
+<text x="88" y="605" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Red cell</text>
+<circle cx="250" cy="598" r="10" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="270" y="605" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Protein</text>
+<circle cx="410" cy="598" r="5" fill="#2e6b62" stroke="#2e6b62" stroke-width="1"/>
+<text x="426" y="605" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">Water, glucose, ions</text>
+<rect x="80" y="654" width="310" height="52" rx="22" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><text x="235" y="687.2" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="middle">+0.7 kPa: net OUT</text>
+<line x1="40" y1="910" x2="430" y2="910" stroke="#1e2a44" stroke-width="3"/>
+<rect x="90" y="750" width="100" height="160" fill="#b5352e"/>
+<text x="140" y="738" font-size="21" font-weight="700" fill="#b5352e" text-anchor="middle">4.0</text>
+<text x="140" y="942" font-size="20" font-weight="700" fill="#b5352e" text-anchor="middle">Pushes out</text>
+<rect x="280" y="778" width="100" height="132" fill="#8a6d0d"/>
+<text x="330" y="766" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">3.3</text>
+<text x="330" y="942" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">Pulls in</text>
+<rect x="510" y="654" width="310" height="52" rx="22" fill="#f2cdc8" stroke="#b5352e" stroke-width="2.5"/><text x="665" y="687.2" font-size="20" font-weight="700" fill="#b5352e" text-anchor="middle">−1.7 kPa: net IN</text>
+<line x1="470" y1="910" x2="860" y2="910" stroke="#1e2a44" stroke-width="3"/>
+<rect x="520" y="846" width="100" height="64" fill="#b5352e"/>
+<text x="570" y="834" font-size="21" font-weight="700" fill="#b5352e" text-anchor="middle">1.6</text>
+<text x="570" y="942" font-size="20" font-weight="700" fill="#b5352e" text-anchor="middle">Pushes out</text>
+<rect x="710" y="778" width="100" height="132" fill="#8a6d0d"/>
+<text x="760" y="766" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="middle">3.3</text>
+<text x="760" y="942" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="middle">Pulls in</text>
+<text x="450" y="990" font-size="18" font-weight="400" fill="#4a5568" text-anchor="middle">Pushes out = blood pressure. Pulls in = plasma proteins (kPa).</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 860" width="900" height="860" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="860" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Water is polar</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Hydrogen bonds join the molecules</text>
+<line x1="320.3040781330517" y1="300.9267263516367" x2="425.3651987708554" y2="381.1817490610701" stroke="#8a6d0d" stroke-width="3.5" stroke-dasharray="4 7" stroke-linecap="round"/>
+<line x1="577.7701033788802" y1="301.02315935438855" x2="474.5070441808174" y2="381.01567000077523" stroke="#8a6d0d" stroke-width="3.5" stroke-dasharray="4 7" stroke-linecap="round"/>
+<line x1="367.67296985112523" y1="462.89661447942586" x2="264.67432970083985" y2="541.2336083965444" stroke="#8a6d0d" stroke-width="3.5" stroke-dasharray="4 7" stroke-linecap="round"/>
+<line x1="530.2898066280295" y1="462.9453838001928" x2="632.3897774739492" y2="541.1496167885568" stroke="#8a6d0d" stroke-width="3.5" stroke-dasharray="4 7" stroke-linecap="round"/>
+<line x1="240" y1="238" x2="270" y2="160" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<line x1="240" y1="238" x2="306" y2="290" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<circle cx="240" cy="238" r="30" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><text x="240" y="246.1" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<circle cx="270" cy="160" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="270" y="165.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<circle cx="306" cy="290" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="306" y="295.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<line x1="657" y1="238" x2="625" y2="160" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<line x1="657" y1="238" x2="592" y2="290" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<circle cx="657" cy="238" r="30" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><text x="657" y="246.1" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<circle cx="625" cy="160" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="625" y="165.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<circle cx="592" cy="290" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="592" y="295.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<line x1="240" y1="560" x2="174" y2="612" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<line x1="240" y1="560" x2="308" y2="612" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<circle cx="240" cy="560" r="30" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><text x="240" y="568.1" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<circle cx="174" cy="612" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="174" y="617.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<circle cx="308" cy="612" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="308" y="617.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<line x1="657" y1="560" x2="592" y2="612" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<line x1="657" y1="560" x2="725" y2="612" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<circle cx="657" cy="560" r="30" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><text x="657" y="568.1" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<circle cx="592" cy="612" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="592" y="617.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<circle cx="725" cy="612" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="725" y="617.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<path d="M412 430 Q450 462 488 430" fill="none" stroke="#b5602e" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="450" y1="400" x2="382" y2="452" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<line x1="450" y1="400" x2="516" y2="452" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<circle cx="450" cy="400" r="30" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><text x="450" y="408.1" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">O</text>
+<circle cx="382" cy="452" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="382" y="457.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<circle cx="516" cy="452" r="17" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="516" y="457.61" font-size="16.15" font-weight="700" fill="#1e2a44" text-anchor="middle">H</text>
+<text x="498" y="390" font-size="22" font-weight="700" fill="#2b5a9a" text-anchor="start">δ−</text>
+<text x="355" y="460" font-size="22" font-weight="700" fill="#b5602e" text-anchor="end">δ+</text>
+<text x="545" y="460" font-size="22" font-weight="700" fill="#b5602e" text-anchor="start">δ+</text>
+<text x="450" y="505" font-size="19" font-weight="700" fill="#b5602e" text-anchor="middle">104.5°</text>
+<text x="450" y="698" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Up to 4 hydrogen bonds per molecule</text>
+<line x1="110" y1="760" x2="190" y2="760" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/>
+<text x="206" y="767" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">covalent O−H bond (strong)</text>
+<line x1="110" y1="806" x2="190" y2="806" stroke="#8a6d0d" stroke-width="3.5" stroke-dasharray="4 7" stroke-linecap="round"/>
+<text x="206" y="813" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">hydrogen bond (weak)</text>
+<circle cx="660" cy="760" r="18" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
+<text x="690" y="767" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">oxygen</text>
+<circle cx="660" cy="807" r="11" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/>
+<text x="690" y="814" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">hydrogen</text>
+</svg>

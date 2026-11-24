@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 910" width="900" height="910" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="910" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Radiation: black absorbs, shiny reflects</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Infrared crosses the gap with no medium</text>
+<rect x="70" y="160" width="90" height="620" rx="10" fill="#efb26b" stroke="#b5602e" stroke-width="3"/>
+<text x="115" y="450" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">radiant</text>
+<text x="115" y="478" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">heater</text>
+<path d="M170 203 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0" fill="none" stroke="#8a6d0d" stroke-width="3"/><polygon points="539,194 555,203 539,212" fill="#8a6d0d"/>
+<path d="M170 243 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0" fill="none" stroke="#8a6d0d" stroke-width="3"/><polygon points="539,234 555,243 539,252" fill="#8a6d0d"/>
+<path d="M170 290 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0" fill="none" stroke="#8a6d0d" stroke-width="3"/><polygon points="539,281 555,290 539,299" fill="#8a6d0d"/>
+<path d="M170 543 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0" fill="none" stroke="#8a6d0d" stroke-width="3"/><polygon points="539,534 555,543 539,552" fill="#8a6d0d"/>
+<path d="M170 583 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0" fill="none" stroke="#8a6d0d" stroke-width="3"/><polygon points="539,574 555,583 539,592" fill="#8a6d0d"/>
+<path d="M170 630 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0 q7.5 -9 15 0 q7.5 9 15 0" fill="none" stroke="#8a6d0d" stroke-width="3"/><polygon points="539,621 555,630 539,639" fill="#8a6d0d"/>
+<text x="572" y="150" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Dull black plate</text>
+<rect x="559" y="170" width="28" height="160" rx="0" fill="#222222" stroke="#1e2a44" stroke-width="3"/>
+<ellipse cx="596" cy="310" rx="9" ry="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2" stroke-dasharray="3 2"/>
+<line x1="596" y1="328" x2="596" y2="360" stroke="#2e6b62" stroke-width="3" marker-end="url(#ahT)"/>
+<line x1="596" y1="376" x2="596" y2="410" stroke="#1e2a44" stroke-width="4"/><circle cx="596" cy="376" r="8" fill="#c8ccd2" stroke="#1e2a44" stroke-width="2"/>
+<text x="700" y="228" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">wax melts,</text>
+<text x="700" y="263" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">pin falls first</text>
+<text x="572" y="490" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Shiny metal plate</text>
+<rect x="559" y="510" width="28" height="160" rx="0" fill="#e3e7ef" stroke="#1e2a44" stroke-width="3"/>
+<line x1="552" y1="553" x2="472" y2="517" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="552" y1="593" x2="472" y2="557" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="552" y1="640" x2="472" y2="604" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<ellipse cx="596" cy="590" rx="9" ry="14" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2"/><line x1="604" y1="590" x2="642" y2="590" stroke="#1e2a44" stroke-width="4"/><circle cx="646" cy="590" r="8" fill="#c8ccd2" stroke="#1e2a44" stroke-width="2"/>
+<text x="666" y="597" font-size="21" font-weight="700" fill="#4a5568" text-anchor="start">pin stays</text>
+<text x="50" y="874" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">Wavy gold lines: infrared. Navy arrows: reflected.</text>
+</svg>

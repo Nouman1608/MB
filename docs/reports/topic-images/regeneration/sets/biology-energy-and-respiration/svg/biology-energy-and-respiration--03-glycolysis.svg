@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1120" width="900" height="1120" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1120" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Glycolysis</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">In the cytoplasm, no oxygen needed</text>
+<text x="350" y="198" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">glucose</text>
+<circle cx="378" cy="190" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="402" cy="190" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="426" cy="190" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="450" cy="190" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="474" cy="190" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="498" cy="190" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="524" y="198" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">6C</text>
+<circle cx="50" cy="300" r="19" fill="#1e2a44"/><text x="50" y="307" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="308" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Add 2 phosphates</text>
+<line x1="450" y1="216" x2="450" y2="308" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="450,330 436.8,308 463.2,308" fill="#1e2a44"/>
+<text x="470" y="260" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="start">2 ATP → 2 ADP</text>
+<circle cx="366" cy="380" r="12" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/><text x="366" y="385" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">P</text>
+<circle cx="390" cy="380" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="414" cy="380" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="438" cy="380" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="462" cy="380" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="486" cy="380" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="510" cy="380" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="534" cy="380" r="12" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/><text x="534" y="385" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">P</text>
+<text x="450" y="432" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">hexose bisphosphate 6C</text>
+<circle cx="50" cy="500" r="19" fill="#1e2a44"/><text x="50" y="507" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="508" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Split in two</text>
+<line x1="430" y1="452" x2="305.93879013506023" y2="513.1569344404633" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="288,522 300.6329507993382,502.3936603594271 311.2446294707823,523.9202085214994" fill="#1e2a44"/>
+<line x1="470" y1="452" x2="613.6406282877481" y2="514.0669381490269" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="632,522 608.8807911771643,525.082561176378 618.4004653983319,503.05131512167577" fill="#1e2a44"/>
+<circle cx="260" cy="580" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="284" cy="580" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="308" cy="580" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="332" cy="580" r="12" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/><text x="332" y="585" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">P</text>
+<text x="290" y="632" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">triose phosphate 3C</text>
+<line x1="290" y1="652" x2="290" y2="798" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="290,820 276.8,798 303.2,798" fill="#1e2a44"/>
+<text x="310" y="692" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">1 reduced NAD</text>
+<text x="310" y="726" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">2 ADP → 2 ATP</text>
+<circle cx="266" cy="850" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="290" cy="850" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="314" cy="850" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="290" y="900" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">pyruvate 3C</text>
+<circle cx="600" cy="580" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="624" cy="580" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="648" cy="580" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="672" cy="580" r="12" fill="#6fa9a2" stroke="#1e2a44" stroke-width="2"/><text x="672" y="585" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">P</text>
+<text x="630" y="632" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">triose phosphate 3C</text>
+<line x1="630" y1="652" x2="630" y2="798" stroke="#1e2a44" stroke-width="3.5" stroke-linecap="round"/><polygon points="630,820 616.8,798 643.2,798" fill="#1e2a44"/>
+<text x="650" y="692" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="start">1 reduced NAD</text>
+<text x="650" y="726" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">2 ADP → 2 ATP</text>
+<circle cx="606" cy="850" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="630" cy="850" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/><circle cx="654" cy="850" r="12" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<text x="630" y="900" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">pyruvate 3C</text>
+<circle cx="50" cy="724" r="19" fill="#1e2a44"/><text x="50" y="731" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="716" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Oxidise</text><text x="80" y="748" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">to pyruvate</text>
+<rect x="30" y="940" width="840" height="150" rx="12" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="56" y="988" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">ATP used 2</text>
+<text x="300" y="988" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">made 4</text>
+<text x="470" y="988" font-size="24" font-weight="700" fill="#8a6d0d" text-anchor="start">net 2 ATP</text>
+<text x="56" y="1040" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">2 reduced NAD</text>
+<text x="380" y="1040" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">2 pyruvate</text>
+<text x="56" y="1076" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">per glucose</text>
+</svg>

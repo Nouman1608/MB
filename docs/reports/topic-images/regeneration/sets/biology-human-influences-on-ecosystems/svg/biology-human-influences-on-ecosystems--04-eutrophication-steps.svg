@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1160" width="900" height="1160" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1160" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Eutrophication in six steps</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Schematic</text>
+<rect x="30" y="120" width="370" height="150" rx="14" fill="#d3e5ec" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="215" y1="272" x2="215" y2="290" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<circle cx="432" cy="162" r="19" fill="#1e2a44"/><text x="432" y="169" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="468" y="169" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">More nitrate and other ions</text>
+<text x="468" y="209" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">from fertiliser or sewage</text>
+<rect x="30" y="292" width="370" height="150" rx="14" fill="#d3e5ec" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="215" y1="444" x2="215" y2="462" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<circle cx="432" cy="334" r="19" fill="#1e2a44"/><text x="432" y="341" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="468" y="341" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Producers (algae) grow fast</text>
+<rect x="30" y="464" width="370" height="150" rx="14" fill="#d3e5ec" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="215" y1="616" x2="215" y2="634" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<circle cx="432" cy="506" r="19" fill="#1e2a44"/><text x="432" y="513" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="468" y="513" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Producers die:</text>
+<text x="468" y="553" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">more decomposition</text>
+<rect x="30" y="636" width="370" height="150" rx="14" fill="#d3e5ec" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="215" y1="788" x2="215" y2="806" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<circle cx="432" cy="678" r="19" fill="#b5602e"/><text x="432" y="685" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="468" y="685" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Decomposers respire aerobically</text>
+<text x="468" y="725" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">Key link: they use up the oxygen</text>
+<rect x="30" y="808" width="370" height="150" rx="14" fill="#d3e5ec" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="215" y1="960" x2="215" y2="978" stroke="#1e2a44" stroke-width="2.5" marker-end="url(#ah)"/>
+<circle cx="432" cy="850" r="19" fill="#1e2a44"/><text x="432" y="857" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="468" y="857" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Dissolved oxygen falls</text>
+<text x="468" y="897" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">9.0 to 2.7 mg/dm³</text>
+<text x="468" y="929" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">= 70 % decrease</text>
+<rect x="30" y="980" width="370" height="150" rx="14" fill="#d3e5ec" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="432" cy="1022" r="19" fill="#1e2a44"/><text x="432" y="1029" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="468" y="1029" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Fish and other animals die</text>
+<text x="468" y="1069" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">they need dissolved oxygen</text>
+<text x="112" y="154" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">NO<tspan baseline-shift="sub" font-size="70%">3</tspan><tspan baseline-shift="super" font-size="68%">−</tspan></text>
+<circle cx="140" cy="170" r="11" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<circle cx="250" cy="165" r="11" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<circle cx="360" cy="175" r="11" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<circle cx="90" cy="220" r="11" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<circle cx="190" cy="200" r="11" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<circle cx="300" cy="210" r="11" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<circle cx="220" cy="230" r="11" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<circle cx="330" cy="238" r="11" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2"/>
+<line x1="40" y1="332" x2="390" y2="332" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="5 6"/>
+<circle cx="117" cy="344" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="78" cy="372" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="136" cy="358" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="155" cy="372" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="98" cy="387" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="117" cy="400" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="60" cy="414" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="193" cy="344" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="212" cy="362" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="174" cy="407" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="212" cy="380" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="231" cy="392" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="250" cy="352" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="269" cy="365" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="288" cy="380" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="250" cy="407" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="327" cy="352" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="346" cy="365" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="307" cy="392" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="365" cy="400" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="307" cy="414" r="14" fill="#2e6b62" stroke="#1e2a44" stroke-width="2"/>
+<circle cx="90" cy="499" r="14" fill="#cfd6d6" stroke="#5a6470" stroke-width="2.5"/>
+<circle cx="170" cy="519" r="14" fill="#cfd6d6" stroke="#5a6470" stroke-width="2.5"/>
+<circle cx="260" cy="504" r="14" fill="#cfd6d6" stroke="#5a6470" stroke-width="2.5"/>
+<circle cx="340" cy="526" r="14" fill="#cfd6d6" stroke="#5a6470" stroke-width="2.5"/>
+<circle cx="130" cy="559" r="14" fill="#cfd6d6" stroke="#5a6470" stroke-width="2.5"/>
+<circle cx="220" cy="564" r="14" fill="#cfd6d6" stroke="#5a6470" stroke-width="2.5"/>
+<circle cx="310" cy="572" r="14" fill="#cfd6d6" stroke="#5a6470" stroke-width="2.5"/>
+<line x1="60" y1="601" x2="372" y2="601" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/>
+<text x="155" y="672" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">O<tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<line x1="110" y1="696" x2="100" y2="728" stroke="#1e2a44" stroke-width="2.5"/><circle cx="110" cy="694" r="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><rect x="70" y="732" width="60" height="30" rx="15" fill="#b5602e" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="205" y1="696" x2="195" y2="728" stroke="#1e2a44" stroke-width="2.5"/><circle cx="205" cy="694" r="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><rect x="165" y="732" width="60" height="30" rx="15" fill="#b5602e" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="300" y1="696" x2="290" y2="728" stroke="#1e2a44" stroke-width="2.5"/><circle cx="300" cy="694" r="10" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/><rect x="260" y="732" width="60" height="30" rx="15" fill="#b5602e" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="60" y1="773" x2="372" y2="773" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/>
+<rect x="100" y="846" width="70" height="70" fill="#6fa9a1" stroke="#1e2a44" stroke-width="2.5"/><rect x="250" y="895" width="70" height="21" fill="#6fa9a1" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="60" y1="916" x2="372" y2="916" stroke="#1e2a44" stroke-width="3"/>
+<text x="135" y="836" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">9.0</text>
+<text x="285" y="885" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">2.7</text>
+<text x="135" y="944" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">above</text>
+<text x="285" y="944" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">400 m on</text>
+<line x1="40" y1="1018" x2="390" y2="1018" stroke="#1e2a44" stroke-width="2.5" stroke-dasharray="5 6"/>
+<ellipse cx="140" cy="1052" rx="38" ry="18" fill="#cfd6d6" stroke="#1e2a44" stroke-width="2.5"/><polygon points="102,1052 76,1036 76,1068" fill="#cfd6d6" stroke="#1e2a44" stroke-width="2.5"/><path d="M156 1043 L166 1053 M166 1043 L156 1053" fill="none" stroke="#1e2a44" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="300" cy="1095" rx="38" ry="18" fill="#cfd6d6" stroke="#1e2a44" stroke-width="2.5"/><polygon points="262,1095 236,1079 236,1111" fill="#cfd6d6" stroke="#1e2a44" stroke-width="2.5"/><path d="M316 1086 L326 1096 M326 1086 L316 1096" fill="none" stroke="#1e2a44" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

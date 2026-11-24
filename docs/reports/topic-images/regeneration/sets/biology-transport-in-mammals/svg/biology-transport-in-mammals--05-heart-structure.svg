@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1110" width="900" height="1110" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1110" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Inside the heart</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Arrows show the direction of blood flow</text>
+<path d="M314 270 L314 420" fill="none" stroke="#1e2a44" stroke-width="47" stroke-linejoin="miter"/><path d="M314 270 L314 420" fill="none" stroke="#cfe3ea" stroke-width="42" stroke-linejoin="miter"/>
+<path d="M414 262 L414 572" fill="none" stroke="#1e2a44" stroke-width="49" stroke-linejoin="miter"/><path d="M414 262 L414 572" fill="none" stroke="#cfe3ea" stroke-width="44" stroke-linejoin="miter"/>
+<path d="M487 572 L487 318 L688 318 L688 362" fill="none" stroke="#1e2a44" stroke-width="47" stroke-linejoin="miter"/><path d="M487 572 L487 318 L688 318 L688 362" fill="none" stroke="#f2cdc8" stroke-width="42" stroke-linejoin="miter"/>
+<path d="M800 467 L600 467" fill="none" stroke="#1e2a44" stroke-width="45" stroke-linejoin="miter"/><path d="M800 467 L600 467" fill="none" stroke="#f2cdc8" stroke-width="40" stroke-linejoin="miter"/>
+<path d="M262 400 V840 Q262 945 450 975 Q638 945 638 840 V400 Z" fill="#ecd3cc" stroke="#1e2a44" stroke-width="3.5"/>
+<rect x="294" y="396" width="40" height="22" fill="#cfe3ea"/>
+<rect x="393" y="396" width="42" height="176" fill="#cfe3ea"/>
+<rect x="467" y="396" width="40" height="176" fill="#f2cdc8"/>
+<rect x="600" y="448" width="40" height="38" fill="#f2cdc8"/>
+<line x1="392" y1="400" x2="392" y2="572" stroke="#2a7090" stroke-width="2.5"/>
+<line x1="436" y1="400" x2="436" y2="572" stroke="#2a7090" stroke-width="2.5"/>
+<line x1="466" y1="400" x2="466" y2="572" stroke="#b5352e" stroke-width="2.5"/>
+<line x1="508" y1="400" x2="508" y2="572" stroke="#b5352e" stroke-width="2.5"/>
+<rect x="290" y="415" width="96" height="125" fill="#cfe3ea" stroke="#2a7090" stroke-width="3"/>
+<rect x="514" y="415" width="96" height="125" fill="#f2cdc8" stroke="#b5352e" stroke-width="3"/>
+<path d="M290 570 V838 Q300 905 438 930 V570 Z" fill="#cfe3ea" stroke="#2a7090" stroke-width="3"/>
+<path d="M462 570 V935 Q545 905 566 845 V570 Z" fill="#f2cdc8" stroke="#b5352e" stroke-width="3"/>
+<rect x="300" y="540" width="80" height="32" fill="#cfe3ea"/>
+<rect x="520" y="540" width="80" height="32" fill="#f2cdc8"/>
+<line x1="314" y1="300" x2="314" y2="395" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="414" y1="548" x2="414" y2="292" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="487" y1="548" x2="487" y2="332" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="688" y1="334" x2="688" y2="372" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="770" y1="467" x2="640" y2="467" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="304" y1="562" x2="328" y2="610" stroke="#1e2a44" stroke-width="4"/>
+<line x1="374" y1="562" x2="350" y2="610" stroke="#1e2a44" stroke-width="4"/>
+<line x1="328" y1="610" x2="330" y2="876" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="350" y1="610" x2="342" y2="876" stroke="#1e2a44" stroke-width="1.5"/>
+<ellipse cx="336" cy="894" rx="20" ry="28" fill="#ecd3cc" stroke="#1e2a44" stroke-width="2.5"/>
+<line x1="478" y1="562" x2="502" y2="610" stroke="#1e2a44" stroke-width="4"/>
+<line x1="548" y1="562" x2="524" y2="610" stroke="#1e2a44" stroke-width="4"/>
+<line x1="502" y1="610" x2="506" y2="890" stroke="#1e2a44" stroke-width="1.5"/>
+<line x1="524" y1="610" x2="518" y2="890" stroke="#1e2a44" stroke-width="1.5"/>
+<ellipse cx="512" cy="908" rx="20" ry="28" fill="#ecd3cc" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M400 548 L414 562 L428 548" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M473 548 L487 562 L501 548" fill="none" stroke="#1e2a44" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M505 556 Q600 560 604 712" fill="none" stroke="#b5352e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="244" y="478" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Right atrium</text>
+<line x1="248" y1="472" x2="298" y2="478" stroke="#1e2a44" stroke-width="2.5"/><circle cx="298" cy="478" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="244" y="536" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Semilunar valve</text>
+<line x1="248" y1="530" x2="408" y2="556" stroke="#1e2a44" stroke-width="2.5"/><circle cx="408" cy="556" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="244" y="628" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Tricuspid valve</text>
+<line x1="248" y1="622" x2="312" y2="584" stroke="#1e2a44" stroke-width="2.5"/><circle cx="312" cy="584" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="244" y="728" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Right ventricle</text>
+<line x1="248" y1="722" x2="296" y2="728" stroke="#1e2a44" stroke-width="2.5"/><circle cx="296" cy="728" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="244" y="754" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">thin wall</text>
+<text x="244" y="868" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Tendons,</text>
+<text x="244" y="894" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">papillary muscle</text>
+<line x1="248" y1="864" x2="324" y2="892" stroke="#1e2a44" stroke-width="2.5"/><circle cx="324" cy="892" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="662" y="568" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Left atrium</text>
+<line x1="656" y1="562" x2="578" y2="478" stroke="#1e2a44" stroke-width="2.5"/><circle cx="578" cy="478" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="662" y="618" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Bicuspid valve</text>
+<line x1="656" y1="612" x2="546" y2="588" stroke="#1e2a44" stroke-width="2.5"/><circle cx="546" cy="588" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="662" y="678" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Coronary artery</text>
+<line x1="656" y1="672" x2="604" y2="680" stroke="#1e2a44" stroke-width="2.5"/><circle cx="604" cy="680" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="662" y="758" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Left ventricle</text>
+<line x1="656" y1="752" x2="560" y2="758" stroke="#1e2a44" stroke-width="2.5"/><circle cx="560" cy="758" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="662" y="784" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="start">thick wall</text>
+<text x="662" y="868" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Septum</text>
+<line x1="656" y1="862" x2="450" y2="868" stroke="#1e2a44" stroke-width="2.5"/><circle cx="450" cy="868" r="4.5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="192" y="230" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Vena cava</text>
+<text x="192" y="256" font-size="20" font-weight="700" fill="#2a7090" text-anchor="middle">from body</text>
+<text x="414" y="218" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Pulmonary artery</text>
+<text x="414" y="244" font-size="20" font-weight="700" fill="#2a7090" text-anchor="middle">to lungs</text>
+<text x="600" y="280" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Aorta to body</text>
+<text x="885" y="424" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">Pulmonary vein</text>
+<text x="885" y="520" font-size="20" font-weight="700" fill="#b5352e" text-anchor="end">from lungs</text>
+<rect x="30" y="1030" width="400" height="52" rx="22" fill="#f2cdc8" stroke="#b5352e" stroke-width="2.5"/><text x="230" y="1063.2" font-size="20" font-weight="700" fill="#b5352e" text-anchor="middle">Oxygenated blood</text>
+<rect x="470" y="1030" width="400" height="52" rx="22" fill="#cfe3ea" stroke="#2a7090" stroke-width="2.5"/><text x="670" y="1063.2" font-size="20" font-weight="700" fill="#2a7090" text-anchor="middle">Deoxygenated blood</text>
+</svg>

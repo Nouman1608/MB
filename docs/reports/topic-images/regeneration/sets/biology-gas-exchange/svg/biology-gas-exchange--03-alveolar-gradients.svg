@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 810" width="900" height="810" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="810" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Gradients along a capillary</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Partial pressure (kPa), alveolar air vs blood</text>
+<defs>
+<marker id="ahBig" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+<marker id="ahBigT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+<marker id="ahBigR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker>
+<marker id="ahBigO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+<marker id="ahT2" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="20" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+</defs><line x1="130" y1="442.5" x2="850" y2="442.5" stroke="#c9d6d4" stroke-width="2"/>
+<line x1="130" y1="285" x2="850" y2="285" stroke="#c9d6d4" stroke-width="2"/>
+<line x1="130" y1="150" x2="130" y2="600" stroke="#1e2a44" stroke-width="3.5"/><line x1="130" y1="600" x2="850" y2="600" stroke="#1e2a44" stroke-width="3.5"/>
+<text x="116" y="607" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<text x="116" y="449.5" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">5</text>
+<text x="116" y="292" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">10</text>
+<text x="60" y="378" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">kPa</text>
+<line x1="130" y1="181.04999999999995" x2="850" y2="181.04999999999995" stroke="#c0643a" stroke-width="2.5" stroke-dasharray="9 6"/>
+<line x1="130" y1="433.05" x2="850" y2="433.05" stroke="#2e6b62" stroke-width="2.5" stroke-dasharray="9 6"/>
+<polyline points="130.0,433.0 137.2,424.0 144.4,415.3 151.6,406.9 158.8,398.8 166.0,391.0 173.2,383.5 180.4,376.2 187.6,369.2 194.8,362.5 202.0,356.0 209.2,349.7 216.4,343.7 223.6,337.8 230.8,332.2 238.0,326.8 245.2,321.6 252.4,316.5 259.6,311.7 266.8,307.0 274.0,302.5 281.2,298.1 288.4,293.9 295.6,289.9 302.8,286.0 310.0,282.2 317.2,278.6 324.4,275.1 331.6,271.7 338.8,268.5 346.0,265.4 353.2,262.3 360.4,259.4 367.6,256.6 374.8,253.9 382.0,251.3 389.2,248.8 396.4,246.3 403.6,244.0 410.8,241.7 418.0,239.6 425.2,237.5 432.4,235.5 439.6,233.5 446.8,231.6 454.0,229.8 461.2,228.1 468.4,226.4 475.6,224.8 482.8,223.2 490.0,221.7 497.2,220.2 504.4,218.8 511.6,217.5 518.8,216.2 526.0,214.9 533.2,213.7 540.4,212.5 547.6,211.4 554.8,210.3 562.0,209.3 569.2,208.2 576.4,207.3 583.6,206.3 590.8,205.4 598.0,204.5 605.2,203.7 612.4,202.9 619.6,202.1 626.8,201.4 634.0,200.6 641.2,199.9 648.4,199.3 655.6,198.6 662.8,198.0 670.0,197.4 677.2,196.8 684.4,196.2 691.6,195.7 698.8,195.1 706.0,194.6 713.2,194.2 720.4,193.7 727.6,193.2 734.8,192.8 742.0,192.4 749.2,192.0 756.4,191.6 763.6,191.2 770.8,190.8 778.0,190.5 785.2,190.1 792.4,189.8 799.6,189.5 806.8,189.2 814.0,188.9 821.2,188.6 828.4,188.4 835.6,188.1 842.8,187.8 850.0,187.6" fill="none" stroke="#c0643a" stroke-width="5"/>
+<polyline points="130.0,407.9 137.2,408.8 144.4,409.6 151.6,410.5 158.8,411.3 166.0,412.1 173.2,412.8 180.4,413.5 187.6,414.2 194.8,414.9 202.0,415.6 209.2,416.2 216.4,416.8 223.6,417.4 230.8,417.9 238.0,418.5 245.2,419.0 252.4,419.5 259.6,420.0 266.8,420.5 274.0,420.9 281.2,421.3 288.4,421.8 295.6,422.2 302.8,422.6 310.0,422.9 317.2,423.3 324.4,423.6 331.6,424.0 338.8,424.3 346.0,424.6 353.2,424.9 360.4,425.2 367.6,425.5 374.8,425.8 382.0,426.0 389.2,426.3 396.4,426.5 403.6,426.8 410.8,427.0 418.0,427.2 425.2,427.4 432.4,427.6 439.6,427.8 446.8,428.0 454.0,428.2 461.2,428.3 468.4,428.5 475.6,428.7 482.8,428.8 490.0,429.0 497.2,429.1 504.4,429.3 511.6,429.4 518.8,429.5 526.0,429.7 533.2,429.8 540.4,429.9 547.6,430.0 554.8,430.1 562.0,430.2 569.2,430.3 576.4,430.4 583.6,430.5 590.8,430.6 598.0,430.7 605.2,430.8 612.4,430.9 619.6,430.9 626.8,431.0 634.0,431.1 641.2,431.2 648.4,431.2 655.6,431.3 662.8,431.4 670.0,431.4 677.2,431.5 684.4,431.5 691.6,431.6 698.8,431.6 706.0,431.7 713.2,431.7 720.4,431.8 727.6,431.8 734.8,431.9 742.0,431.9 749.2,432.0 756.4,432.0 763.6,432.0 770.8,432.1 778.0,432.1 785.2,432.1 792.4,432.2 799.6,432.2 806.8,432.2 814.0,432.3 821.2,432.3 828.4,432.3 835.6,432.3 842.8,432.4 850.0,432.4" fill="none" stroke="#2e6b62" stroke-width="5"/>
+<text x="432" y="163" font-size="21" font-weight="700" fill="#c0643a" text-anchor="start">Alveolar air O<tspan font-size="70%" dy="0.3em">2</tspan><tspan dy="-0.3em">​</tspan> 13.3</text>
+<text x="430" y="264" font-size="21" font-weight="700" fill="#c0643a" text-anchor="start">Blood O<tspan font-size="70%" dy="0.3em">2</tspan><tspan dy="-0.3em">​</tspan></text>
+<line x1="180" y1="307.04999999999995" x2="180" y2="183.04999999999995" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<line x1="180" y1="307.04999999999995" x2="180" y2="431.05" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<text x="196" y="487" font-size="21" font-weight="700" fill="#c0643a" text-anchor="start">Gap 8.0 kPa</text>
+<line x1="808" y1="234" x2="808" y2="193.35000000000002" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/>
+<text x="838" y="266" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Gap at end: 0.2 kPa</text>
+<text x="460" y="417" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">Alveolar air CO<tspan font-size="70%" dy="0.3em">2</tspan><tspan dy="-0.3em">​</tspan> 5.3</text>
+<text x="460" y="465" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">Blood CO<tspan font-size="70%" dy="0.3em">2</tspan><tspan dy="-0.3em">​</tspan>: starts at 6.1</text>
+<text x="130" y="643" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Start of capillary</text>
+<text x="850" y="643" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">End</text>
+<line x1="378" y1="680" x2="734" y2="680" stroke="#1e2a44" stroke-width="5" marker-end="url(#ahBig)"/>
+<text x="450" y="724" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Blood flow</text>
+<text x="450" y="772" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Fresh blood and fresh air restore the gradient</text>
+</svg>

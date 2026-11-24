@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1070" width="900" height="1070" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1070" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Adding an arithmetic series</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Write it forwards and backwards</text>
+<text x="72" y="214" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">7</text>
+<text x="72" y="282" font-size="58" font-weight="700" fill="#1e2a44" text-anchor="middle">∑</text>
+<text x="72" y="322" font-size="18" font-weight="400" fill="#1e2a44" text-anchor="middle">r = 1</text>
+<text x="122" y="266" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="start">(4r − 1) = 3 + 7 + 11 + … + 27</text>
+<text x="450" y="368" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="middle">every column adds up to a + l = 30</text>
+<line x1="60" y1="780" x2="840" y2="780" stroke="#1e2a44" stroke-width="3"/>
+<rect x="70" y="741.2" width="96" height="38.8" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="70" y="392" width="96" height="349.2" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="118" y="768.6" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<text x="118" y="574.6" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">27</text>
+<rect x="178" y="689.4666666666667" width="96" height="90.53333333333333" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="178" y="392" width="96" height="297.4666666666667" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="226" y="742.7333333333333" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">7</text>
+<text x="226" y="548.7333333333333" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">23</text>
+<rect x="286" y="637.7333333333333" width="96" height="142.26666666666668" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="286" y="392" width="96" height="245.73333333333335" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="334" y="716.8666666666667" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">11</text>
+<text x="334" y="522.8666666666667" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">19</text>
+<rect x="394" y="586" width="96" height="194" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="394" y="392" width="96" height="194" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="442" y="691" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<text x="442" y="497" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<rect x="502" y="534.2666666666667" width="96" height="245.73333333333335" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="502" y="392" width="96" height="142.26666666666668" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="550" y="665.1333333333333" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">19</text>
+<text x="550" y="471.1333333333333" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">11</text>
+<rect x="610" y="482.5333333333333" width="96" height="297.4666666666667" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="610" y="392" width="96" height="90.53333333333333" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="658" y="639.2666666666667" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">23</text>
+<text x="658" y="445.26666666666665" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">7</text>
+<rect x="718" y="430.8" width="96" height="349.2" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<rect x="718" y="392" width="96" height="38.8" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="766" y="613.4" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">27</text>
+<text x="766" y="419.4" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">3</text>
+<rect x="110" y="818" width="30" height="30" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="152" y="841" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">terms forwards</text>
+<rect x="470" y="818" width="30" height="30" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="512" y="841" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">terms backwards</text>
+<rect x="110" y="880" width="680" height="64" rx="32" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/><text x="450" y="921" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="middle">2S = 7 × 30 = 210, so S = 105</text>
+<rect x="110" y="966" width="680" height="64" rx="32" fill="#dce9e7" stroke="#2e6b62" stroke-width="2.5"/><text x="450" y="1006.28" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="middle">S<tspan baseline-shift="sub" font-size="70%">n</tspan> = ½n(a + l) = ½ × 7 × (3 + 27)</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1040" width="900" height="1040" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1040" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Perpendicular bisector</text>
+
+<line x1="80" y1="120" x2="80" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="132" y1="120" x2="132" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="184" y1="120" x2="184" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="236" y1="120" x2="236" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="288" y1="120" x2="288" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="340" y1="120" x2="340" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="392" y1="120" x2="392" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="444" y1="120" x2="444" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="496" y1="120" x2="496" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="548" y1="120" x2="548" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="600" y1="120" x2="600" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="652" y1="120" x2="652" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="704" y1="120" x2="704" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="756" y1="120" x2="756" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="808" y1="120" x2="808" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="796" x2="808" y2="796" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="744" x2="808" y2="744" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="692" x2="808" y2="692" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="640" x2="808" y2="640" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="588" x2="808" y2="588" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="536" x2="808" y2="536" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="484" x2="808" y2="484" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="432" x2="808" y2="432" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="380" x2="808" y2="380" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="328" x2="808" y2="328" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="276" x2="808" y2="276" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="224" x2="808" y2="224" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="172" x2="808" y2="172" stroke="#dfe6e6" stroke-width="1.5"/>
+<line x1="80" y1="120" x2="808" y2="120" stroke="#dfe6e6" stroke-width="1.5"/>
+<clipPath id="clip3"><rect x="80" y="120" width="728" height="676"/></clipPath><line x1="80" y1="640" x2="828" y2="640" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/><line x1="288" y1="796" x2="288" y2="100" stroke="#1e2a44" stroke-width="3" marker-end="url(#ah)"/><text x="838" y="647" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start"><tspan font-style="italic">x</tspan></text><text x="302" y="112" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start"><tspan font-style="italic">y</tspan></text><line x1="80" y1="634" x2="80" y2="646" stroke="#1e2a44" stroke-width="2.5"/><text x="80" y="668" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">−4</text><line x1="184" y1="634" x2="184" y2="646" stroke="#1e2a44" stroke-width="2.5"/><text x="184" y="668" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">−2</text><line x1="392" y1="634" x2="392" y2="646" stroke="#1e2a44" stroke-width="2.5"/><text x="392" y="668" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">2</text><line x1="496" y1="634" x2="496" y2="646" stroke="#1e2a44" stroke-width="2.5"/><text x="496" y="668" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">4</text><line x1="600" y1="634" x2="600" y2="646" stroke="#1e2a44" stroke-width="2.5"/><text x="600" y="668" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">6</text><line x1="704" y1="634" x2="704" y2="646" stroke="#1e2a44" stroke-width="2.5"/><text x="704" y="668" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">8</text><line x1="808" y1="634" x2="808" y2="646" stroke="#1e2a44" stroke-width="2.5"/><text x="808" y="668" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">10</text><line x1="282" y1="744" x2="294" y2="744" stroke="#1e2a44" stroke-width="2.5"/><text x="68" y="750" font-size="17" font-weight="400" fill="#4a5568" text-anchor="end">−2</text><line x1="282" y1="536" x2="294" y2="536" stroke="#1e2a44" stroke-width="2.5"/><text x="68" y="542" font-size="17" font-weight="400" fill="#4a5568" text-anchor="end">2</text><line x1="282" y1="432" x2="294" y2="432" stroke="#1e2a44" stroke-width="2.5"/><text x="68" y="438" font-size="17" font-weight="400" fill="#4a5568" text-anchor="end">4</text><line x1="282" y1="328" x2="294" y2="328" stroke="#1e2a44" stroke-width="2.5"/><text x="68" y="334" font-size="17" font-weight="400" fill="#4a5568" text-anchor="end">6</text><line x1="282" y1="224" x2="294" y2="224" stroke="#1e2a44" stroke-width="2.5"/><text x="68" y="230" font-size="17" font-weight="400" fill="#4a5568" text-anchor="end">8</text><line x1="282" y1="120" x2="294" y2="120" stroke="#1e2a44" stroke-width="2.5"/><text x="68" y="126" font-size="17" font-weight="400" fill="#4a5568" text-anchor="end">10</text>
+<path clip-path="url(#clip3)" d="M80.0 920.8 L83.0 917.2 L86.1 913.5 L89.1 909.9 L92.1 906.2 L95.2 902.6 L98.2 899.0 L101.2 895.3 L104.3 891.7 L107.3 888.0 L110.3 884.4 L113.4 880.8 L116.4 877.1 L119.4 873.5 L122.5 869.8 L125.5 866.2 L128.5 862.6 L131.6 858.9 L134.6 855.3 L137.6 851.6 L140.7 848.0 L143.7 844.4 L146.7 840.7 L149.8 837.1 L152.8 833.4 L155.8 829.8 L158.9 826.2 L161.9 822.5 L164.9 818.9 L168.0 815.2 L171.0 811.6 L174.0 808.0 L177.1 804.3 L180.1 800.7 L183.1 797.0 L186.2 793.4 L189.2 789.8 L192.2 786.1 L195.3 782.5 L198.3 778.8 L201.3 775.2 L204.4 771.6 L207.4 767.9 L210.4 764.3 L213.5 760.6 L216.5 757.0 L219.5 753.4 L222.6 749.7 L225.6 746.1 L228.6 742.4 L231.7 738.8 L234.7 735.2 L237.7 731.5 L240.8 727.9 L243.8 724.2 L246.8 720.6 L249.9 717.0 L252.9 713.3 L255.9 709.7 L259.0 706.0 L262.0 702.4 L265.0 698.8 L268.1 695.1 L271.1 691.5 L274.1 687.8 L277.2 684.2 L280.2 680.6 L283.2 676.9 L286.3 673.3 L289.3 669.6 L292.3 666.0 L295.4 662.4 L298.4 658.7 L301.4 655.1 L304.5 651.4 L307.5 647.8 L310.5 644.2 L313.6 640.5 L316.6 636.9 L319.6 633.2 L322.7 629.6 L325.7 626.0 L328.7 622.3 L331.8 618.7 L334.8 615.0 L337.8 611.4 L340.9 607.8 L343.9 604.1 L346.9 600.5 L350.0 596.8 L353.0 593.2 L356.0 589.6 L359.1 585.9 L362.1 582.3 L365.1 578.6 L368.2 575.0 L371.2 571.4 L374.2 567.7 L377.3 564.1 L380.3 560.4 L383.3 556.8 L386.4 553.2 L389.4 549.5 L392.4 545.9 L395.5 542.2 L398.5 538.6 L401.5 535.0 L404.6 531.3 L407.6 527.7 L410.6 524.0 L413.7 520.4 L416.7 516.8 L419.7 513.1 L422.8 509.5 L425.8 505.8 L428.8 502.2 L431.9 498.6 L434.9 494.9 L437.9 491.3 L441.0 487.6 L444.0 484.0 L447.0 480.4 L450.1 476.7 L453.1 473.1 L456.1 469.4 L459.2 465.8 L462.2 462.2 L465.2 458.5 L468.3 454.9 L471.3 451.2 L474.3 447.6 L477.4 444.0 L480.4 440.3 L483.4 436.7 L486.5 433.0 L489.5 429.4 L492.5 425.8 L495.6 422.1 L498.6 418.5 L501.6 414.8 L504.7 411.2 L507.7 407.6 L510.7 403.9 L513.8 400.3 L516.8 396.6 L519.8 393.0 L522.9 389.4 L525.9 385.7 L528.9 382.1 L532.0 378.4 L535.0 374.8 L538.0 371.2 L541.1 367.5 L544.1 363.9 L547.1 360.2 L550.2 356.6 L553.2 353.0 L556.2 349.3 L559.3 345.7 L562.3 342.0 L565.3 338.4 L568.4 334.8 L571.4 331.1 L574.4 327.5 L577.5 323.8 L580.5 320.2 L583.5 316.6 L586.6 312.9 L589.6 309.3 L592.6 305.6 L595.7 302.0 L598.7 298.4 L601.7 294.7 L604.8 291.1 L607.8 287.4 L610.8 283.8 L613.9 280.2 L616.9 276.5 L619.9 272.9 L623.0 269.2 L626.0 265.6 L629.0 262.0 L632.1 258.3 L635.1 254.7 L638.1 251.0 L641.2 247.4 L644.2 243.8 L647.2 240.1 L650.3 236.5 L653.3 232.8 L656.3 229.2 L659.4 225.6 L662.4 221.9 L665.4 218.3 L668.5 214.6 L671.5 211.0 L674.5 207.4 L677.6 203.7 L680.6 200.1 L683.6 196.4 L686.7 192.8 L689.7 189.2 L692.7 185.5 L695.8 181.9 L698.8 178.2 L701.8 174.6 L704.9 171.0 L707.9 167.3 L710.9 163.7 L714.0 160.0 L717.0 156.4 L720.0 152.8 L723.1 149.1 L726.1 145.5 L729.1 141.8 L732.2 138.2 L735.2 134.6 L738.2 130.9 L741.3 127.3 L744.3 123.6 L747.3 120.0 L750.4 116.4 L753.4 112.7 L756.4 109.1 L759.5 105.4 L762.5 101.8 L765.5 98.2 L768.6 94.5 L771.6 90.9 L774.6 87.2 L777.7 83.6 L780.7 80.0 L783.7 76.3 L786.8 72.7 L789.8 69.0 L792.8 65.4 L795.9 61.8 L798.9 58.1 L801.9 54.5 L805.0 50.8 L808.0 47.2" fill="none" stroke="#8a6d0d" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line clip-path="url(#clip3)" x1="132" y1="224" x2="756" y2="744" stroke="#1e2a44" stroke-width="4.5"/>
+<line clip-path="url(#clip3)" x1="276.3486439261065" y1="367.9816272886722" x2="299.65135607389357" y2="340.0183727113278" stroke="#1e2a44" stroke-width="3"/>
+<line clip-path="url(#clip3)" x1="588.3486439261064" y1="627.9816272886723" x2="611.6513560738936" y2="600.0183727113279" stroke="#1e2a44" stroke-width="3"/>
+<path d="M461.9763779425786 469.0196850478512 L479.9527558851572 484 L461.9763779425786 498.9803149521488" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="132" cy="224" r="13" fill="#1e2a44"/>
+<circle cx="756" cy="744" r="13" fill="#1e2a44"/>
+<circle cx="444" cy="484" r="13" fill="#8a6d0d"/>
+<text x="152" y="206" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">A (−3, 8)</text>
+<text x="744" y="784" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">B (9, −2)</text>
+<text x="484" y="492" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">M (3, 3)</text>
+<rect x="31" y="861" width="314" height="42" rx="21" fill="#1e2a44"/><text x="188" y="889" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">1 Gradient of AB: −5/6</text>
+<rect x="536" y="861" width="278" height="42" rx="21" fill="#2e6b62"/><text x="675" y="889" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">2 Perpendicular: 6/5</text>
+<rect x="31" y="913" width="290" height="42" rx="21" fill="#8a6d0d"/><text x="176" y="941" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3 Midpoint M: (3, 3)</text>
+<rect x="480" y="913" width="390" height="42" rx="21" fill="#b5602e"/><text x="675" y="941" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">4 3 = (6/5)(3) + c, c = −3/5</text>
+<text x="450" y="1006" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="middle">y = 6/5 x − 3/5</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 790" width="900" height="790" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="790" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Growth: 2.4% a year</text>
+
+<line x1="130" y1="597.5" x2="690" y2="597.5" stroke="#c9d6d4" stroke-width="2"/><line x1="130" y1="512.5" x2="690" y2="512.5" stroke="#c9d6d4" stroke-width="2"/><line x1="130" y1="427.5" x2="690" y2="427.5" stroke="#c9d6d4" stroke-width="2"/><line x1="130" y1="342.5" x2="690" y2="342.5" stroke="#c9d6d4" stroke-width="2"/><line x1="130" y1="257.5" x2="690" y2="257.5" stroke="#c9d6d4" stroke-width="2"/><line x1="130" y1="172.49999999999994" x2="690" y2="172.49999999999994" stroke="#c9d6d4" stroke-width="2"/>
+<line x1="130" y1="640" x2="690" y2="640" stroke="#1e2a44" stroke-width="3"/><line x1="130" y1="640" x2="130" y2="130" stroke="#1e2a44" stroke-width="3"/>
+<text x="118" y="604.5" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">25 000</text>
+<text x="118" y="519.5" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">26 000</text>
+<text x="118" y="434.5" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">27 000</text>
+<text x="118" y="349.5" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">28 000</text>
+<text x="118" y="264.5" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">29 000</text>
+<text x="118" y="179.49999999999994" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">30 000</text>
+<line x1="130" y1="640" x2="130" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="130" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">0</text>
+<line x1="270" y1="640" x2="270" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="270" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">2</text>
+<line x1="410" y1="640" x2="410" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="410" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">4</text>
+<line x1="550" y1="640" x2="550" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="550" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">6</text>
+<line x1="690" y1="640" x2="690" y2="648" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="690" y="674" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">8</text>
+<text x="410" y="712" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="middle">Years</text>
+<path d="M130 597.5 L690 189.49999999999994" fill="none" stroke="#b5602e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 8"/>
+<path d="M130 597.5 L200 546.5 L270 494.2760000000002 L340 440.7986239999999 L410 386.0377909759994 L480 329.9626979594239 L550 272.5418027104501 L620 213.7428059755007 L690 153.5326333189127" fill="none" stroke="#2e6b62" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="130" cy="597.5" r="6" fill="#2e6b62"/>
+<circle cx="200" cy="546.5" r="6" fill="#2e6b62"/>
+<circle cx="270" cy="494.2760000000002" r="6" fill="#2e6b62"/>
+<circle cx="340" cy="440.7986239999999" r="6" fill="#2e6b62"/>
+<circle cx="410" cy="386.0377909759994" r="6" fill="#2e6b62"/>
+<circle cx="480" cy="329.9626979594239" r="6" fill="#2e6b62"/>
+<circle cx="550" cy="272.5418027104501" r="6" fill="#2e6b62"/>
+<circle cx="620" cy="213.7428059755007" r="6" fill="#2e6b62"/>
+<circle cx="690" cy="153.5326333189127" r="6" fill="#2e6b62"/>
+<line x1="706" y1="153.54499999999996" x2="706" y2="189.49999999999994" stroke="#1e2a44" stroke-width="4"/>
+<text x="720" y="145.54499999999996" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">30 223</text>
+<text x="720" y="223.49999999999994" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">29 800</text>
+<text x="158" y="150" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Exponential</text>
+<text x="158" y="182" font-size="20" font-weight="400" fill="#2e6b62" text-anchor="start">25 000 × 1.024<tspan dy="-8" font-size="70%">n</tspan></text>
+<text x="355" y="514.5" font-size="20" font-weight="700" fill="#b5602e" text-anchor="start">Linear: +600 each year</text>
+<text x="130" y="752" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">Vertical axis starts at 24 500</text>
+</svg>

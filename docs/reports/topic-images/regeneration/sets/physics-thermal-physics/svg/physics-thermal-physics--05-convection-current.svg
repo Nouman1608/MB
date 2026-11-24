@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 780" width="900" height="780" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="780" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Convection current in water</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Heated water expands, becomes less dense and rises</text>
+<rect x="152" y="200" width="596" height="418" rx="0" fill="#d3e5ec"/>
+<path d="M150 160 V620 H750 V160" fill="none" stroke="#1e2a44" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="450" y="240" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">purple dye shows the flow</text>
+<path d="M240 510 V270 H660 V530 H280" fill="none" stroke="#b3afd3" stroke-width="13" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="240" y1="470" x2="240" y2="340" stroke="#7b3fa0" stroke-width="3.5"/>
+<line x1="358" y1="270" x2="520" y2="270" stroke="#7b3fa0" stroke-width="3.5"/>
+<line x1="660" y1="320" x2="660" y2="440" stroke="#7b3fa0" stroke-width="3.5"/>
+<line x1="600" y1="530" x2="380" y2="530" stroke="#7b3fa0" stroke-width="3.5"/>
+<polygon points="226,361 254,361 240,335" fill="#1e2a44"/>
+<polygon points="517,256 517,284 543,270" fill="#1e2a44"/>
+<polygon points="646,437 674,437 660,463" fill="#1e2a44"/>
+<polygon points="383,516 383,544 357,530" fill="#1e2a44"/>
+<text x="276" y="419" font-size="21" font-weight="700" fill="#b5602e" text-anchor="start">hot: rises</text>
+<text x="624" y="419" font-size="21" font-weight="700" fill="#2b6a9a" text-anchor="end">cool: sinks</text>
+<circle cx="240" cy="548" r="14" fill="#7b3fa0" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="266" y="587" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">crystal</text>
+<path d="M240 634 C222 660 214 678 216 692 C218 712 230 722 240 724 C250 722 262 712 264 692 C266 678 258 660 240 634 Z" fill="#d4b02e" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="296" y="699" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="start">heat here</text>
+</svg>

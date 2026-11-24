@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 960" width="900" height="960" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="960" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Pull or push at 25°: R changes</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Box of 12 kg, μ = 0.4, on the point of sliding</text>
+<line x1="450" y1="170" x2="450" y2="850" stroke="#c9d6d4" stroke-width="2.5"/>
+<text x="225" y="205" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Pull with a rope</text>
+<line x1="225" y1="510" x2="225" y2="365.62" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="225,331.62 246.07999999999998,365.62 203.92000000000002,365.62" fill="#2e6b62"/>
+<line x1="225" y1="510" x2="225" y2="687.6800000000001" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="225,721.6800000000001 203.92000000000002,687.6800000000001 246.07999999999998,687.6800000000001" fill="#1e2a44"/>
+<line x1="225" y1="510" x2="183.72" y2="510" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/><polygon points="153.72,510 183.72,491.4 183.72,528.6" fill="#b5602e"/>
+<line x1="225" y1="510" x2="296.2901705283029" y2="510" stroke="#4a5568" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="296.2901705283029" y1="510" x2="296.2901705283029" y2="476.7568475314766" stroke="#4a5568" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="225" y1="510" x2="269.1009369172034" y2="489.43539538369754" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="296.2901705283029,476.7568475314766 276.96163658558044,506.29272022257925 261.24023724882636,472.57807054481583" fill="#8a6d0d"/>
+<circle cx="225" cy="510" r="13" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="207" y="424.81" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="end">R = 99.1</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="195" y="544" font-size="20" font-weight="700" fill="#b5602e" text-anchor="end">F = 39.6</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="207" y="632" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">W = 117.6</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="308.2901705283029" y="474.7568475314766" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">T = 43.7</text>
+<text x="225" y="788" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">R + T sin25° = 117.6</text>
+<text x="225" y="826" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">R = 99.1: less than W</text>
+<text x="675" y="205" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Push downwards</text>
+<line x1="675" y1="510" x2="675" y2="283.72" stroke="#2e6b62" stroke-width="5" stroke-linecap="round"/><polygon points="675,249.72000000000003 696.08,283.72 653.92,283.72" fill="#2e6b62"/>
+<line x1="675" y1="510" x2="675" y2="687.6800000000001" stroke="#1e2a44" stroke-width="5" stroke-linecap="round"/><polygon points="675,721.6800000000001 653.92,687.6800000000001 696.08,687.6800000000001" fill="#1e2a44"/>
+<line x1="675" y1="510" x2="600.96" y2="510" stroke="#b5602e" stroke-width="5" stroke-linecap="round"/><polygon points="570.96,510 600.96,491.4 600.96,528.6" fill="#b5602e"/>
+<line x1="675" y1="510" x2="779.0803862632889" y2="510" stroke="#4a5568" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="779.0803862632889" y1="510" x2="779.0803862632889" y2="558.5334811783019" stroke="#4a5568" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="675" y1="510" x2="751.8911526521894" y2="545.854933326081" stroke="#8a6d0d" stroke-width="5" stroke-linecap="round"/><polygon points="779.0803862632889,558.5334811783019 744.0304529838123,562.7122581649627 759.7518523205664,528.9976084871993" fill="#8a6d0d"/>
+<circle cx="675" cy="510" r="13" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="657" y="383.86" font-size="20" font-weight="700" fill="#2e6b62" text-anchor="end">R = 144.6</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="645" y="544" font-size="20" font-weight="700" fill="#b5602e" text-anchor="end">F = 57.8</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="657" y="632" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">W = 117.6</text>
+<text paint-order="stroke" stroke="#f4f6f6" stroke-width="6" stroke-linejoin="round" x="791.0803862632889" y="588.5334811783019" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">P = 63.8</text>
+<text x="675" y="788" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">R = 117.6 + P sin25°</text>
+<text x="675" y="826" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">R = 144.6: more than W</text>
+<text x="450" y="890" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Same box, same μ: pulling needs 43.7 N, pushing 63.8 N</text>
+<text x="450" y="926" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Limiting: horizontal component = μR</text>
+</svg>

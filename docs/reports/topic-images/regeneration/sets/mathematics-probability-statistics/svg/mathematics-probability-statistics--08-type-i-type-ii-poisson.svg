@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980" width="900" height="980" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="980" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Wrong decisions in a test</text>
+
+<line x1="120" y1="420" x2="850" y2="420" stroke="#1e2a44" stroke-width="3"/><line x1="120" y1="420" x2="120" y2="200" stroke="#1e2a44" stroke-width="3"/>
+<line x1="141.47058823529412" y1="420" x2="141.47058823529412" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="141.47058823529412" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="227.3529411764706" y1="420" x2="227.3529411764706" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="227.3529411764706" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="313.2352941176471" y1="420" x2="313.2352941176471" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="313.2352941176471" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<line x1="399.11764705882354" y1="420" x2="399.11764705882354" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="399.11764705882354" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">6</text>
+<line x1="485" y1="420" x2="485" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="485" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">8</text>
+<line x1="570.8823529411765" y1="420" x2="570.8823529411765" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="570.8823529411765" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">10</text>
+<line x1="656.7647058823529" y1="420" x2="656.7647058823529" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="656.7647058823529" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">12</text>
+<line x1="742.6470588235294" y1="420" x2="742.6470588235294" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="742.6470588235294" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">14</text>
+<line x1="828.5294117647059" y1="420" x2="828.5294117647059" y2="428" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="828.5294117647059" y="452" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">16</text>
+<line x1="112" y1="420" x2="120" y2="420" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="106" y="427" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="112" y1="332" x2="120" y2="332" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="106" y="339" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0.1</text>
+<line x1="112" y1="244" x2="120" y2="244" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="106" y="251" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0.2</text>
+<text transform="translate(48 310) rotate(-90)" font-size="19" fill="#1e2a44" text-anchor="middle">probability</text>
+<line x1="120" y1="780" x2="850" y2="780" stroke="#1e2a44" stroke-width="3"/><line x1="120" y1="780" x2="120" y2="560" stroke="#1e2a44" stroke-width="3"/>
+<line x1="141.47058823529412" y1="780" x2="141.47058823529412" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="141.47058823529412" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="227.3529411764706" y1="780" x2="227.3529411764706" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="227.3529411764706" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">2</text>
+<line x1="313.2352941176471" y1="780" x2="313.2352941176471" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="313.2352941176471" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">4</text>
+<line x1="399.11764705882354" y1="780" x2="399.11764705882354" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="399.11764705882354" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">6</text>
+<line x1="485" y1="780" x2="485" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="485" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">8</text>
+<line x1="570.8823529411765" y1="780" x2="570.8823529411765" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="570.8823529411765" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">10</text>
+<line x1="656.7647058823529" y1="780" x2="656.7647058823529" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="656.7647058823529" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">12</text>
+<line x1="742.6470588235294" y1="780" x2="742.6470588235294" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="742.6470588235294" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">14</text>
+<line x1="828.5294117647059" y1="780" x2="828.5294117647059" y2="788" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="828.5294117647059" y="812" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">16</text>
+<line x1="112" y1="780" x2="120" y2="780" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="106" y="787" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0</text>
+<line x1="112" y1="692" x2="120" y2="692" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="106" y="699" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0.1</text>
+<line x1="112" y1="604" x2="120" y2="604" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="106" y="611" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="end">0.2</text>
+<text x="485" y="854" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">umbrellas sold in a week, r</text>
+<text transform="translate(48 670) rotate(-90)" font-size="19" fill="#1e2a44" text-anchor="middle">probability</text>
+<rect x="124.29411764705881" y="410.2240830463468" width="34.35294117647061" height="9.775916953653223" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="124.29411764705881" y="779.1975438703121" width="34.35294117647061" height="0.8024561296879256" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="167.23529411764707" y="376.0083737085605" width="34.35294117647061" height="43.9916262914395" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="167.23529411764707" y="774.3828070921842" width="34.35294117647061" height="5.61719290781582" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="210.1764705882353" y="321.01884084426104" width="34.35294117647061" height="98.98115915573896" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="210.1764705882353" y="760.3398248226447" width="34.35294117647061" height="19.660175177355313" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="253.11764705882348" y="271.5282612663916" width="34.35294117647061" height="148.4717387336084" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="253.11764705882348" y="734.1262579195042" width="34.35294117647061" height="45.873742080495845" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="296.05882352941177" y="252.9692939246905" width="34.35294117647061" height="167.0307060753095" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="296.05882352941177" y="699.7209513591322" width="34.35294117647061" height="80.27904864086781" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="339" y="269.6723645322215" width="34.35294117647061" height="150.32763546777852" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="339" y="667.6093319027851" width="34.35294117647061" height="112.39066809721487" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="381.94117647058823" y="307.2542733991661" width="34.35294117647061" height="112.7457266008339" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="381.94117647058823" y="648.8775538865826" width="34.35294117647061" height="131.12244611341737" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="424.88235294117646" y="347.52060432803535" width="34.35294117647061" height="72.47939567196465" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="424.88235294117646" y="648.8775538865826" width="34.35294117647061" height="131.12244611341737" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="467.8235294117647" y="379.23033993451986" width="34.35294117647061" height="40.76966006548014" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<rect x="467.8235294117647" y="665.2678596507599" width="34.35294117647061" height="114.73214034924013" fill="#d4b02e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="510.764705882353" y="399.61516996725993" width="34.35294117647061" height="20.38483003274007" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="510.764705882353" y="690.7638908394798" width="34.35294117647061" height="89.23610916052019" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<rect x="553.7058823529412" y="410.82682648526696" width="34.35294117647061" height="9.173173514733037" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="553.7058823529412" y="717.5347235876359" width="34.35294117647061" height="62.46527641236412" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<rect x="596.6470588235295" y="416.2473381076092" width="34.35294117647061" height="3.7526618923907904" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="596.6470588235295" y="740.2493695557683" width="34.35294117647061" height="39.75063044423166" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<rect x="639.5882352941176" y="418.5927517903535" width="34.35294117647061" height="1.407248209646525" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="639.5882352941176" y="756.8121322408648" width="34.35294117647061" height="23.1878677591352" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<rect x="682.5294117647059" y="419.5128756197377" width="34.35294117647061" height="0.4871243802622871" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="682.5294117647059" y="767.5142250527733" width="34.35294117647061" height="12.485774947226673" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<rect x="725.4705882352941" y="419.8434243063443" width="34.35294117647061" height="0.156575693655725" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="725.4705882352941" y="773.7571125263867" width="34.35294117647061" height="6.242887473613337" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<rect x="768.4117647058824" y="419.95302729190325" width="34.35294117647061" height="0.04697270809674592" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="768.4117647058824" y="777.0866525123138" width="34.35294117647061" height="2.9133474876862238" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<rect x="811.3529411764705" y="419.9867889258478" width="34.35294117647061" height="0.013211074152195579" fill="#b5602e" stroke="#1e2a44" stroke-width="2"/>
+<rect x="811.3529411764705" y="778.7254104741373" width="34.35294117647061" height="1.274589525862666" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2"/>
+<line x1="506.47058823529414" y1="140" x2="506.47058823529414" y2="790" stroke="#1e2a44" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="494.47058823529414" y="132" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="end">← accept H<tspan dy="5" font-size="70%">0</tspan><tspan dy="-5"></tspan></text>
+<text x="518.4705882352941" y="132" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">reject H<tspan dy="5" font-size="70%">0</tspan><tspan dy="-5"></tspan> →</text>
+<text x="70" y="168" font-size="21" font-weight="700" fill="#2e6b62" text-anchor="start">If H<tspan dy="5" font-size="70%">0</tspan><tspan dy="-5" dx="5">is true: λ = 4.5</tspan></text>
+<text x="70" y="528" font-size="21" font-weight="700" fill="#8a6d0d" text-anchor="start">If H<tspan dy="5" font-size="70%">0</tspan><tspan dy="-5" dx="5">is false: really λ = 7</tspan></text>
+<text x="614" y="270" font-size="22" font-weight="700" fill="#b5602e" text-anchor="start">Type I error</text>
+<text x="614" y="302" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">P(X ≥ 9) = 0.0403</text>
+<text x="558" y="568" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="start">Type II error</text>
+<text x="558" y="600" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">P(X ≤ 8) = 0.729</text>
+<text x="70" y="908" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Type I: reject H<tspan dy="5" font-size="70%">0</tspan><tspan dy="-5" dx="5">when it is true.</tspan></text>
+<text x="70" y="944" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">Type II: accept H<tspan dy="5" font-size="70%">0</tspan><tspan dy="-5" dx="5">when it is false.</tspan></text>
+</svg>

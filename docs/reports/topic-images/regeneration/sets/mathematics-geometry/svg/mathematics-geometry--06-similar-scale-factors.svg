@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1040" width="900" height="1040" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1040" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Scale factor k = 2</text>
+
+<text x="40" y="130" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Length</text>
+<rect x="70" y="160" width="90" height="22" rx="5" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/><rect x="340" y="160" width="180" height="22" rx="5" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="115" y="218" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<text x="430" y="218" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">2</text>
+<text x="860" y="182" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="end">× 2</text>
+<line x1="40" y1="262" x2="860" y2="262" stroke="#c9d6d4" stroke-width="2.5" stroke-linecap="round"/>
+<text x="40" y="320" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Area</text>
+<rect x="70" y="350" width="90" height="90" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5"/>
+<text x="115" y="478" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<rect x="340" y="350" width="90" height="90" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="340" y="440" width="90" height="90" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="430" y="350" width="90" height="90" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<rect x="430" y="440" width="90" height="90" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="2.5"/>
+<text x="430" y="568" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">4</text>
+<text x="860" y="398" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="end">× 4</text><text x="860" y="438" font-size="22" font-weight="700" fill="#4a5568" text-anchor="end">= 2<tspan baseline-shift="super" font-size="68%">2</tspan></text>
+<line x1="40" y1="592" x2="860" y2="592" stroke="#c9d6d4" stroke-width="2.5" stroke-linecap="round"/>
+<text x="40" y="650" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Volume</text>
+<polygon points="150.0,860.0 103.2,833.0 103.2,779.0 150.0,806.0" fill="#9cc8c3" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><polygon points="150.0,860.0 196.8,833.0 196.8,779.0 150.0,806.0" fill="#b5d3cf" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/><polygon points="150.0,806.0 103.2,779.0 150.0,752.0 196.8,779.0" fill="#e6f1ef" stroke="#2e6b62" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="150" y="892" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1</text>
+<polygon points="420.0,906.0 373.2,879.0 373.2,825.0 420.0,852.0" fill="#f2e3b0" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="420.0,906.0 466.8,879.0 466.8,825.0 420.0,852.0" fill="#e9d06a" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="420.0,852.0 373.2,825.0 420.0,798.0 466.8,825.0" fill="#f8edc6" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="420.0,852.0 373.2,825.0 373.2,771.0 420.0,798.0" fill="#f2e3b0" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="420.0,852.0 466.8,825.0 466.8,771.0 420.0,798.0" fill="#e9d06a" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="420.0,798.0 373.2,771.0 420.0,744.0 466.8,771.0" fill="#f8edc6" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="466.8,933.0 420.0,906.0 420.0,852.0 466.8,879.0" fill="#f2e3b0" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="466.8,933.0 513.5,906.0 513.5,852.0 466.8,879.0" fill="#e9d06a" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="466.8,879.0 420.0,852.0 466.8,825.0 513.5,852.0" fill="#f8edc6" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="373.2,933.0 326.5,906.0 326.5,852.0 373.2,879.0" fill="#f2e3b0" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="373.2,933.0 420.0,906.0 420.0,852.0 373.2,879.0" fill="#e9d06a" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="373.2,879.0 326.5,852.0 373.2,825.0 420.0,852.0" fill="#f8edc6" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="466.8,879.0 420.0,852.0 420.0,798.0 466.8,825.0" fill="#f2e3b0" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="466.8,879.0 513.5,852.0 513.5,798.0 466.8,825.0" fill="#e9d06a" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="466.8,825.0 420.0,798.0 466.8,771.0 513.5,798.0" fill="#f8edc6" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="373.2,879.0 326.5,852.0 326.5,798.0 373.2,825.0" fill="#f2e3b0" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="373.2,879.0 420.0,852.0 420.0,798.0 373.2,825.0" fill="#e9d06a" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="373.2,825.0 326.5,798.0 373.2,771.0 420.0,798.0" fill="#f8edc6" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="420.0,960.0 373.2,933.0 373.2,879.0 420.0,906.0" fill="#f2e3b0" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="420.0,960.0 466.8,933.0 466.8,879.0 420.0,906.0" fill="#e9d06a" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="420.0,906.0 373.2,879.0 420.0,852.0 466.8,879.0" fill="#f8edc6" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="420.0,906.0 373.2,879.0 373.2,825.0 420.0,852.0" fill="#f2e3b0" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="420.0,906.0 466.8,879.0 466.8,825.0 420.0,852.0" fill="#e9d06a" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/><polygon points="420.0,852.0 373.2,825.0 420.0,798.0 466.8,825.0" fill="#f8edc6" stroke="#8a6d0d" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="420" y="1000" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">8</text>
+<text x="860" y="750" font-size="28" font-weight="700" fill="#1e2a44" text-anchor="end">× 8</text><text x="860" y="790" font-size="22" font-weight="700" fill="#4a5568" text-anchor="end">= 2<tspan baseline-shift="super" font-size="68%">3</tspan></text>
+</svg>

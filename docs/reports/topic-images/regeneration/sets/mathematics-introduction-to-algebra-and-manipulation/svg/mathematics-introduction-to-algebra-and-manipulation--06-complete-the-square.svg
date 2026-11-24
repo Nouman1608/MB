@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 830" width="900" height="830" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="830" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Complete the square</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">x² + 8x − 5 as (x + p)² + q</text>
+<rect x="270" y="170" width="240" height="240" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
+<rect x="510" y="170" width="160" height="240" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="270" y="410" width="240" height="160" fill="#f2e7b8" stroke="#8a6d0d" stroke-width="3"/>
+<rect x="510" y="410" width="160" height="160" fill="#fff" stroke="#b5602e" stroke-width="3" stroke-dasharray="9 6"/>
+<text x="390" y="302" font-size="34" font-weight="700" fill="#1e2a44" text-anchor="middle">x²</text>
+<text x="590" y="299" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">4x</text>
+<text x="390" y="499" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">4x</text>
+<text x="590" y="500" font-size="30" font-weight="700" fill="#b5602e" text-anchor="middle">16</text>
+<text x="390" y="154" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">x</text>
+<text x="590" y="154" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">4</text>
+<text x="250" y="298" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="end">x</text>
+<text x="250" y="498" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="end">4</text>
+<text x="686" y="486" font-size="19" font-weight="700" fill="#b5602e" text-anchor="start">added to</text>
+<text x="686" y="510" font-size="19" font-weight="700" fill="#b5602e" text-anchor="start">complete</text>
+<text x="450" y="640" font-size="26" font-weight="700" fill="#1e2a44" text-anchor="middle">x² + 8x = (x + 4)² − 16</text>
+<text x="450" y="680" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">p = half of 8 = 4</text>
+<rect x="230" y="706" width="440" height="52" rx="26" fill="#1e2a44"/>
+<text x="450" y="740" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">x² + 8x − 5 = (x + 4)² − 21</text>
+<text x="450" y="796" font-size="19" font-weight="400" fill="#4a5568" text-anchor="middle">Drawn with x = 6: both sides give 79</text>
+</svg>
