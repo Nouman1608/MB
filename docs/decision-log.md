@@ -16977,3 +16977,10 @@ Owner supplied `...\new topicals\Board PDFs\Command Words`: Pearson Edexcel (IAL
 ## D-540 - Owner decisions implemented on branch owner-decisions-1 (25 Nov 2026, 07:10 PKT)
 
 Implementation of D-531 to D-539 is on the local branch `owner-decisions-1`, not pushed. Record of what changed and deviations: `OWNER-DECISIONS-REPORT.md`. Deviations from the owner's answers: (1) MYP Individuals and Societies and MYP Mathematics do not get the eAssessment/ePortfolio moderation wording, because the IB guides do not support it for those subjects; (2) Edexcel thresholds were not added to the site (data model mismatch), only extracted; (3) the thin-course pilot restructured topics to the specification's numbered sections and wrote no new resource pages.
+
+## D-541 - Owner decisions after the first merge: CI fix, Singapore, Edexcel (25 Nov 2026, 08:55 PKT)
+
+- **CI fix.** PR 246 (AP chemistry FAQ JSON-LD uses the plain subscript twin; audit flattens inline sub/sup) merged after PR 245's CI gate failed on four chemistry FAQs.
+- **Singapore IB article.** The live `ib-tuition-in-singapore-online.md` stays; the new draft `ib-in-singapore-online-diploma-and-myp-lessons.md` stays hidden. After the owner supplies the languages, the draft is diffed against the live article and anything worth merging is listed.
+- **Edexcel grade boundaries.** Extend the threshold model with 9 to 1 grades and a board field, and add the International GCSE overall boundaries for June 2026 from the supplied PDF. IAL waits until its unit structure is designed. Page copy becomes board-neutral.
+- **Edexcel command words.** Show them on `/command-words/` as per-document sections (never one blended Edexcel list, per D-097); update the D-097 disclosure. IAL Business, IAL Economics and IGCSE Physics first; IGCSE Biology 4BI1 only after its by-eye transcription is re-checked against page renders.
