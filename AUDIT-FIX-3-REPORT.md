@@ -76,8 +76,8 @@ Each page already states its time difference. Not present, and needing a source:
 11. **45** Singapore draft: source or delete 5 placeholders; which Language B / MYP Language Acquisition languages are taught?
 12. **41** Split the coarse topic lists of the 21 thin courses into finer topics?
 13. **43 / 21** Other boards' command words and thresholds, and the local facts for region pages, need documents from hosts blocked here.
-15. **AP flashcards** 122 AP flashcard page titles do not start with "AP" (item 28 covered resources). Apply the same rule to flashcard titles?
 14. **A8** If a per-task mark split is ever wanted on the MYP Language Acquisition pages, it stays as on main (16 per task, 32 per criterion).
+15. **AP flashcards** 122 AP flashcard page titles do not start with "AP" (item 28 covered resources). Apply the same rule to flashcard titles?
 
 ## Translations needing a native speaker
 Approved by the owner (no review needed): every item-16 and item-18 string in the table above, the 15 translated legal dates.
