@@ -16920,3 +16920,12 @@ Status: answered; implementation pending.
 - **D-532b Global Politics exam preparation.** Add the guide's per-question figures (P1 25 marks: 3/4/6/12; P2 30; HL P3 28: 3/4/6/15; engagement project 24 SL / 30 HL) to `ib-dp-global-politics-exam-preparation.md`, citing the guide.
 - **D-532c AP meta descriptions.** Add an optional `seoDescription` field to the AP resource schema; draft the 312 listed in `reports/audit3/A4-description-cuts-left.tsv` (unique, about 150 characters) for owner review. Nothing goes live until the owner approves the drafts.
 - **D-532d AP chemistry underscores.** Convert all 77 (24 SVG labels with `<tspan baseline-shift="sub">`, 31 descriptions/leads, 22 FAQs) following the 8.9 `<sub>` pattern; JSON-LD and meta stay plain text.
+
+## D-533 - Owner decisions round 3: languages and forms (25 Nov 2026, 06:20 PKT)
+
+Status: answered; implementation pending.
+
+- **D-533a Arabic homepage.** "AS" becomes "AS Level" in the Arabic qualification list (`src/i18n/copy.ts`), matching `src/i18n/pages/directories.ts`.
+- **D-533b Contact phone.** Stays required on the Arabic, Urdu and Bengali contact pages, as on the English contact page (kind `student`; `PHONE_REQUIRED_KINDS`). No change.
+- **D-533c Urdu 3247 poet.** Show "Aatish" (آتش) with a note that Cambridge's syllabus prints "Ahtish". Applies to the four files that name the poet (`o-level-cambridge-urdu-first-language-paper-2-texts.md`, `cambridge-o-level-urdu-language-3247-paper-2-poetry-essay.md` and its revision notes, `o-level-urdu-first-language-paper-2-texts-revision-notes.md`). The owner supersedes the C19 audit choice to keep the board's spelling.
+- **D-533d Singapore IB article.** Remove the 5 unsourceable passages; add the Language B and MYP Language Acquisition languages once the owner names them (STILL WAITING on the owner); place the article on the branch for review, not pushed.
