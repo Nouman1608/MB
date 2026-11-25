@@ -16947,3 +16947,12 @@ Status: answered; implementation pending.
 - **D-535b papers.marlbridge.com.** Use it. Owner connects the R2 custom domain (R2 > marlbridge-past-papers > Settings > Custom Domains). No file URL goes into a manifest until it works.
 - **D-535c Rights notes.** Claude drafts one factual line per board (copyright holder and file type, no claim of permission) in `PAST_PAPER_RIGHTS_NOTES`; owner confirms the permission basis before any file goes live. No price or legal-page change.
 - **D-535d Thin courses.** Pilot the content-led courses first (Islamiyat IGCSE and O Level, O Level Pakistan Studies, AQA GCSE Psychology, OCR GCSE Business, AQA AS Business), split from the specification PDFs as in D-470. Set-text English and IB courses wait.
+
+## D-536 - Owner decisions round 5b: content planning (25 Nov 2026, 06:55 PKT)
+
+Status: answered; implementation pending.
+
+- **D-536a Filler blocks.** Adopt the rule (one error block per page, at most one checklist, an FAQ may not repeat a bullet) with a warn-only validator in `audit:all`, with a baseline so only new pages are flagged. The "694 pages" figure is not in the repo; existing pages are re-measured first.
+- **D-536b Overview vs subtopic contradictions.** All subjects, by an automated comparison of marks, durations, paper counts and dates; report to the owner, no edits until reviewed.
+- **D-536c Economics 9708 topic 7 and the 60 shared practice links.** Review now on the branch; edit only exact duplicates, list the rest.
+- **D-536d Qur'an passages (2058 topic 1.1).** Claude drafts passage-by-passage notes citing surah, verse and the specification, with no new translation text, for the Islamiyat teacher's review. The owner confirms who the reviewer is (Azam Siddique is the only Islamiyat author profile; it records no Qur'an expertise).
