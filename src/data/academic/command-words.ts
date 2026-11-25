@@ -8,7 +8,15 @@
  * wrong kind of question for the command word used (e.g. writing a
  * one-line "State" answer to a "Discuss" question, or vice versa).
  *
- * Scope, stated honestly: this glossary is Cambridge's own official list,
+ * D-541 (25 Nov 2026): the page now shows Cambridge's generic list PLUS
+ * four named Pearson Edexcel documents (IAL Business, IAL Economics,
+ * International GCSE Physics exemplar pack, International GCSE Biology 4BI1
+ * Getting Started Guide), each as its own section -- never blended into one
+ * "Edexcel list" (D-097 still holds: Edexcel publishes no generic glossary).
+ * AQA, OCR and OxfordAQA, and every other Edexcel subject, are still not
+ * sourced and the page says so.
+ *
+ * Scope, stated honestly: the Cambridge list is Cambridge's own official list,
  * fetched directly from their site (not reconstructed from memory or a
  * third party). Cambridge states it applies "in new and revised
  * syllabuses published from 2019 onwards" -- i.e. essentially every
@@ -18,7 +26,9 @@
  * capture subject-specific command words on top of it. Other boards
  * (Edexcel, AQA, OCR, OxfordAQA) publish their own command-word glossaries
  * too, but they have not yet been sourced and verified for Marlbridge --
- * this is disclosed on the tool's own page rather than silently presenting
+ * this is disclosed on the tool's own page (as of D-541: Cambridge's generic
+ * list plus the named Edexcel documents; other boards not yet sourced)
+ * rather than silently presenting
  * a Cambridge-only list as if it covered every board.
  *
  * Flagship Dominance/Trust programme (2026-08-31, D-097): investigated
@@ -88,13 +98,18 @@ export const CAMBRIDGE_COMMAND_WORDS: readonly CommandWord[] = [
  * list. Definitions are copied as printed; a newline marks a paragraph or
  * bullet break inside a printed cell. `pdfPage` is the PDF viewer page.
  * `marks` is the "Number of marks" column, present only in the two IAL
- * specifications. These exports are additive: no page or validator reads
- * them yet.
+ * specifications. The four documents are rendered, one section each, on
+ * /command-words/ (D-541). The Biology table is an image in the PDF; its
+ * transcription was re-checked against 2.2x page renders of PDF pages 17-18
+ * (2026-11-25) and every entry matched. The Business, Economics and Physics
+ * text was re-checked against the PDFs with PyMuPDF.
  */
 export interface BoardCommandWord {
   readonly word: string;
   readonly definition: string;
   readonly marks?: string;
+  /** Printed sub-heading row the entry sits under, where the table has one. */
+  readonly group?: string;
   readonly pdfPage: number;
 }
 
@@ -103,6 +118,8 @@ export interface BoardCommandWordDocument {
   readonly qualification: string;
   readonly document: string;
   readonly documentLabel: string;
+  /** Plain statement of which question papers the table covers, per the document itself. */
+  readonly appliesTo: string;
   readonly sourceUrl: string;
   readonly entries: readonly BoardCommandWord[];
 }
@@ -112,6 +129,7 @@ export const EDEXCEL_COMMAND_WORD_DOCUMENTS: readonly BoardCommandWordDocument[]
     board: 'Pearson Edexcel',
     qualification: 'International Advanced Subsidiary/Advanced Level in Business',
     document: 'IAL-Business-Specification-with-Command-Words.pdf',
+    appliesTo: 'The question papers of Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business (the specification lists the command words used in those papers). Not a list for other Edexcel subjects.',
     documentLabel: 'Specification - Issue 1 - September 2017, Appendix 6: Command words (printed p56)',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf',
     entries: [
@@ -129,6 +147,7 @@ export const EDEXCEL_COMMAND_WORD_DOCUMENTS: readonly BoardCommandWordDocument[]
     board: 'Pearson Edexcel',
     qualification: 'International Advanced Subsidiary/Advanced Level in Economics',
     document: 'IAL-Economics-Specification-with-Command-Words.pdf',
+    appliesTo: 'The question papers of Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (the specification lists the command words used in those papers). Not a list for other Edexcel subjects.',
     documentLabel: 'Specification - Issue 2 - June 2018, Appendix 6: Command word taxonomy (printed p68)',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf',
     entries: [
@@ -146,7 +165,8 @@ export const EDEXCEL_COMMAND_WORD_DOCUMENTS: readonly BoardCommandWordDocument[]
     board: 'Pearson Edexcel',
     qualification: 'International GCSE Biology (Modular) (2017) (4BI1)',
     document: 'IGCSE-Biology-4BI1-Getting-Started-Guide.pdf',
-    documentLabel: 'Getting Started Guide - Issue 2 - October 2024, Command word taxonomy (the table is an embedded image, so it was transcribed by eye from the rendered pages)',
+    appliesTo: 'Pearson Edexcel International GCSE Biology (Modular) (2017), code 4BI1. Not a list for other Edexcel subjects.',
+    documentLabel: 'Getting Started Guide - Issue 2 - October 2024, Command word taxonomy, PDF pages 17-18 (the table is an embedded image; every entry was re-checked against rendered page images on 2026-11-25)',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Biology/2017/teaching-and-learning-materials/gstt-int-gcse-biology.pdf',
     entries: [
       { word: 'Add/Label', pdfPage: 17, definition: 'Requires the addition or labelling of a stimulus material given in the question, for example labelling a diagram or adding units to a table.' },
@@ -161,7 +181,7 @@ export const EDEXCEL_COMMAND_WORD_DOCUMENTS: readonly BoardCommandWordDocument[]
       { word: 'Draw', pdfPage: 17, definition: 'Produce a diagram either using a ruler or freehand.' },
       { word: 'Estimate', pdfPage: 17, definition: 'Find an approximate value, number or quantity from a diagram/given data or through a calculation.' },
       { word: 'Evaluate', pdfPage: 17, definition: "Review information (e.g. data, methods) then bring it together to form a conclusion, drawing on evidence including strengths, weaknesses, alternative actions, relevant data or information. Come to a supported judgement of a subject's quality and relate it to its context." },
-      { word: 'Explain', pdfPage: 17, definition: 'An explanation requires a justification/exemplification of a point. The answer must contain some element of reasoning/justification - this can include mathematical explanations.' },
+      { word: 'Explain', pdfPage: 17, definition: 'An explanation requires a justification/exemplification of a point. The answer must contain some element of reasoning/justification – this can include mathematical explanations.' },
       { word: 'Give/State/Name', pdfPage: 17, definition: 'All of these command words are really synonyms. They generally all require recall of one or more pieces of information.' },
       { word: 'Give a reason/reasons', pdfPage: 17, definition: 'When a statement has been made and the requirement is only to give the reason(s) why.' },
       { word: 'Identify', pdfPage: 17, definition: 'Usually requires some key information to be selected from a given stimulus/resource.' },
@@ -172,14 +192,15 @@ export const EDEXCEL_COMMAND_WORD_DOCUMENTS: readonly BoardCommandWordDocument[]
       { word: 'Sketch', pdfPage: 18, definition: 'Produce a freehand drawing. For a graph, this would need a line and labelled axes with important features indicated.\nThe axes are not scaled.' },
       { word: 'State what is meant by', pdfPage: 18, definition: 'When the meaning of a term is expected but there are different ways for how these can be described.' },
       { word: 'Suggest', pdfPage: 18, definition: 'Use your knowledge to propose a solution to a problem in a novel context.' },
-      { word: 'Analyse the data/graph to explain', pdfPage: 18, definition: 'Examine the data/graph in detail to provide an explanation.' },
-      { word: 'What, Why, Which', pdfPage: 18, definition: 'Direct command words used for multiple-choice questions.' },
+      { word: 'Analyse the data/graph to explain', group: 'Verb proceeding a command word', pdfPage: 18, definition: 'Examine the data/graph in detail to provide an explanation.' },
+      { word: 'What, Why, Which', group: 'Multiple choice questions', pdfPage: 18, definition: 'Direct command words used for multiple-choice questions.' },
     ],
   },
   {
     board: 'Pearson Edexcel',
     qualification: 'International GCSE Physics (4PH1/4XPH1; also Double Science 4SD0/4XSD1)',
     document: 'IGCSE-Physics-Command-Words-Exemplars.pdf',
+    appliesTo: 'Pearson Edexcel International GCSE Physics (4PH1), Physics (Modular) (4XPH1), Double Science (4SD0) and Double Science (Modular) (4XSD1), per the cover of the exemplar pack. Not a list for other Edexcel subjects.',
     documentLabel: 'Command words exemplars for WPH1/WXPH1 (all series) - Issue 1 - February 2026 (definition column; repeated on every exemplar page, wording varies slightly between pages)',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Physics/2024/teaching-and-learning-materials/ig-physics-command-words-exemplars-ext-v1-0.pdf',
     entries: [
@@ -190,7 +211,7 @@ export const EDEXCEL_COMMAND_WORD_DOCUMENTS: readonly BoardCommandWordDocument[]
       { word: 'Complete', pdfPage: 17, definition: 'Requires completion of a table/diagram' },
       { word: 'Deduce', pdfPage: 21, definition: 'Draw/reach conclusion(s) from the information provided' },
       { word: 'Define', pdfPage: 23, definition: 'Recalling the meaning of a term from the specification' },
-      { word: 'Describe', pdfPage: 24, definition: 'To give an account of something. Statement in the response needs to be developed, as they are often linked but do not need to include a justification or reason' },
+      { word: 'Describe', pdfPage: 24, definition: 'To give an account of something. Statement in the response need to be developed, as they are often linked but do not need to include a justification or reason' },
       { word: 'Design', pdfPage: 27, definition: 'Plan or invent a procedure from existing principles /ideas' },
       { word: 'Determine', pdfPage: 30, definition: 'The answer must have an element that is quantitative from the stimulus provided or must show how the answer can be reached quantitatively. To gain maximum marks, there must be a quantitative element to the answer' },
       { word: 'Discuss', pdfPage: 32, definition: 'Identify the issue/situation/problem/argument that is being assessed within the questions\nExplore all aspects of an issue/situation/problem/argument\nInvestigate the issue/situation etc. by reasoning or argument' },
