@@ -1,6 +1,6 @@
 # AUDIT-FIX-3-REPORT
 
-**Written: 25 Nov 2026, 06:25 PKT; updated 07:45 PKT** (Pakistan Standard Time). Final build and checks completed 06:44 PKT on commit f48ea3cfe. Merged and live: PR 242 (06:55 PKT), PR 243 (07:16 PKT), PR 244 (CI fix). See "Deploy, live check and CI".
+**Written: 25 Nov 2026, 06:25 PKT; updated 08:00 PKT** (Pakistan Standard Time). Final build and checks completed 06:44 PKT on commit f48ea3cfe. Merged and live: PR 242 (06:55 PKT), PR 243 (07:16 PKT), PR 244 (CI fix). See "Deploy, live check and CI".
 Branch `audit-fixes-3`, from origin/main 21bda3e75 (PR 241). Owner's prompt: 25 Nov 2026, 02:10 PKT. Merge to `main` (= deploy through Cloudflare's Git integration) was approved by the owner after the review.
 
 ## Process
@@ -72,7 +72,7 @@ Each page already states its time difference. Not present, and needing a source:
   - IB note on /boards/ib/ib-dp/physics/, not on /boards/cambridge/igcse/chemistry/; Physics "Paper 2 … (SL) 1h 30m 50 44%"; Business page title "IB Diploma Programme Business Management Syllabus".
   - AP: "AP Chemistry 1.1: Moles and Molar Mass Study Guide"; hub shows US$ 22; no dd/mm/yyyy date. Diagnostics hub: "4 questions on 4 topics". Sitemap index: practice-0 and localized-0 lastmod 2026-11-24.
 - **PR 243** ([Nouman1608/MB#243](https://github.com/Nouman1608/MB/pull/243), AP flashcard titles): build exit 0, audit:all exit 0; live at 07:16 PKT ("AP Chemistry Flashcards: 608 Cards by Unit").
-- **CI gate.** The GitHub CI runs for PR 242 and PR 243 failed at `astro check` (not run during this round): 1 error, ts2345 in `diagnosticTopicSlugs` (`src/data/diagnostics.ts`), a parameter type without the topic `label`. Type-only; the built pages were correct and Cloudflare deployed normally. Fixed in **PR 244** ([Nouman1608/MB#244](https://github.com/Nouman1608/MB/pull/244)). Locally on that code: `astro check` 0 errors / 0 warnings; `audit:all` exit 0; negative-fixture suite pass; cross-board regression OK; `test:api` 100/100; `test:tools` 239/239; browser journeys 11/11. The CI run on main for PR 244 was in progress at 07:45 PKT (build passed, type check running).
+- **CI gate.** The GitHub CI runs for PR 242 and PR 243 failed at `astro check` (not run during this round): 1 error, ts2345 in `diagnosticTopicSlugs` (`src/data/diagnostics.ts`), a parameter type without the topic `label`. Type-only; the built pages were correct and Cloudflare deployed normally. Fixed in **PR 244** ([Nouman1608/MB#244](https://github.com/Nouman1608/MB/pull/244)). Locally on that code: `astro check` 0 errors / 0 warnings; `audit:all` exit 0; negative-fixture suite pass; cross-board regression OK; `test:api` 100/100; `test:tools` 239/239; browser journeys 11/11. The CI gate on main for PR 244 ([run 873](https://github.com/Nouman1608/MB/actions/runs/45533735962)) **passed**, every step green (build, astro check, audit gate, negative fixtures, cross-board, unit tests, browser journeys), finished 07:58 PKT. This also clears the failure carried since PR 241.
 - **Not merged, waiting for the owner:** the Global Politics word-limit fix (`audit-fixes-3`, commits ede8002b8 and 4ade773ee). The page keeps the old diagram until the corrected one is on R2; the upload command is under NEEDS OWNER 4.
 
 ## NEEDS OWNER
