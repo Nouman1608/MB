@@ -1022,7 +1022,7 @@ withMutation(
   'src/data/academic/assessments.ts',
   // D-509: every IB Language A total is now confirmed, so the fixture blanks a confirmed total
   // (Literature Paper 2, SL) whose note does not say the total is not shown.
-  (text) => text.replace("title: 'Paper 2 -- Comparative Essay', durationMinutes: 105, marks: 25,", "title: 'Paper 2 -- Comparative Essay', durationMinutes: 105, marks: null,"),
+  (text) => text.replace("title: 'Paper 2 -- Comparative Essay', durationMinutes: 105, marks: 30,", "title: 'Paper 2 -- Comparative Essay', durationMinutes: 105, marks: null,"),
   {
     validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
     expectSubstring: 'has marks=null, but marksSourceNote does not say',

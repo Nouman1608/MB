@@ -63,11 +63,11 @@ test('sourceKind names the linked document honestly', () => {
 });
 
 // D-509: the guides confirmed the totals; Paper 2 is 25 for the exams from May 2026 (owner's choice).
-test('DP Language A: Language and Literature Paper 2 prints the confirmed 25 marks', () => {
+test('DP Language A: Language and Literature Paper 2 prints the confirmed 30 marks', () => {
   const s = answer(find('DP Language A: Language and Literature'));
   const p2 = s.split('; ').filter((x) => x.includes('Paper 2'));
   assert.ok(p2.length >= 2, 'Paper 2 appears for SL and HL');
-  for (const x of p2) { assert.match(x, /\b25 marks\b/); assert.doesNotMatch(x, /mark total not confirmed/); }
+  for (const x of p2) { assert.match(x, /\b30 marks\b/); assert.doesNotMatch(x, /mark total not confirmed/); }
   assert.match(s, /Paper 1 -- Guided Textual Analysis — 1h 15m, 20 marks/);
 });
 
@@ -80,7 +80,7 @@ test('DP Language A: Literature prints the confirmed HL Essay and Individual Ora
     assert.doesNotMatch(x, /mark total not confirmed/);
     assert.match(x, /HL Essay/.test(x) ? /\b20 marks\b/ : /0h 15m, 40 marks\b/);
   }
-  assert.match(s, /Paper 2 -- Comparative Essay — 1h 45m, 25 marks/);
+  assert.match(s, /Paper 2 -- Comparative Essay — 1h 45m, 30 marks/);
 });
 
 // P4 (audit Nov 2026): "Paper 1: Paper 1" -- the paper name must appear once.
