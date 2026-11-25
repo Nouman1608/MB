@@ -86,7 +86,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_URDU_LANGUAGE: FlashcardDeck = {
     ]),
     ...sub('fl-paper-2-texts-3247', 'part-2-poetry-3247', '2', [
       { n: 101, f: 'Part 2 Poetry: what is prescribed and how many questions?', b: '10 ghazals and 3 nazms. You answer 1 of 2 essay questions.' },
-      { n: 102, f: 'The five ghazal poets prescribed for 3247', b: 'Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz.' },
+      { n: 102, f: 'The five ghazal poets prescribed for 3247', b: 'Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz.' },
       { n: 103, f: 'The three prescribed nazms (3247)', b: 'Hali\'s Musaddas (17 selected stanzas), Zameer Jafri\'s "Admi" and Mahmood Sarhadi\'s "Qitaat", as listed on the Marlbridge Paper 2 page.' },
       { n: 104, f: 'Define ghazal and nazm', b: 'A ghazal is made of couplets (اشعار) that each stand alone, linked by a shared rhyme and refrain. A nazm is a poem with a single unified theme developed from beginning to end.' },
       { n: 105, f: 'Ghazal terms: قافیہ، ردیف، مطلع، تخلص', b: 'قافیہ rhyme word; ردیف refrain repeated after the rhyme; مطلع opening couplet where both lines rhyme; تخلص the poet\'s pen name, usually in the last couplet.' },

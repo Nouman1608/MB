@@ -86,8 +86,8 @@ A solution in this state is **saturated**. The test for a saturated solution is 
 <text x="330" y="70" font-weight="600">At equilibrium:</text>
 <text x="330" y="96">rate of dissolving = rate of precipitating</text>
 <text x="330" y="124">[Ag⁺] and [Cl⁻] stay constant</text>
-<text x="330" y="152">K_sp = [Ag⁺][Cl⁻]</text>
-<text x="330" y="180">The solid does not appear in K_sp,</text>
+<text x="330" y="152">K<tspan font-size="75%" dy="3">sp</tspan><tspan dy="-3"> = [Ag⁺][Cl⁻]</tspan></text>
+<text x="330" y="180">The solid does not appear in K<tspan font-size="75%" dy="3">sp</tspan><tspan dy="-3">,</tspan></text>
 <text x="330" y="200">but some must be present.</text>
 </g>
 </svg>
@@ -133,11 +133,11 @@ Do not learn the right-hand column by heart. Build it each time from the dissolv
 
 <figure>
 <svg viewBox="0 0 640 170" role="img" aria-labelledby="ksp-map-title ksp-map-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
-<title id="ksp-map-title">Moving between K_sp, molar solubility and solubility in grams per litre</title>
-<desc id="ksp-map-desc">Three boxes in a row: K_sp, molar solubility s in moles per litre, and solubility in grams per litre. From K_sp to s, write ion concentrations in terms of s and solve for s. From s back to K_sp, substitute the ion concentrations into the K_sp expression. From s to grams per litre multiply by molar mass M; from grams per litre back to s divide by M.</desc>
+<title id="ksp-map-title">Moving between Ksp, molar solubility and solubility in grams per litre</title>
+<desc id="ksp-map-desc">Three boxes in a row: Ksp, molar solubility s in moles per litre, and solubility in grams per litre. From Ksp to s, write ion concentrations in terms of s and solve for s. From s back to Ksp, substitute the ion concentrations into the Ksp expression. From s to grams per litre multiply by molar mass M; from grams per litre back to s divide by M.</desc>
 <defs><marker id="b711" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <rect x="10" y="55" width="150" height="60" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
-<text x="85" y="82" text-anchor="middle" font-size="16" font-weight="600" fill="#1d2b44">K_sp</text>
+<text x="85" y="82" text-anchor="middle" font-size="16" font-weight="600" fill="#1d2b44">K<tspan font-size="75%" dy="3">sp</tspan></text>
 <text x="85" y="102" text-anchor="middle" font-size="13" fill="#1d2b44">(no unit)</text>
 <rect x="245" y="55" width="150" height="60" rx="6" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="320" y="82" text-anchor="middle" font-size="16" font-weight="600" fill="#1d2b44">Molar solubility, s</text>
@@ -150,7 +150,7 @@ Do not learn the right-hand column by heart. Build it each time from the dissolv
 <path d="M397 72 H475" stroke="#1d2b44" stroke-width="2" marker-end="url(#b711)"/>
 <path d="M478 100 H400" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#b711)"/>
 <text x="202" y="30" text-anchor="middle" font-size="13" fill="#1d2b44">solve (xs)ˣ(ys)ʸ</text>
-<text x="202" y="46" text-anchor="middle" font-size="13" fill="#1d2b44">= K_sp for s</text>
+<text x="202" y="46" text-anchor="middle" font-size="13" fill="#1d2b44">= K<tspan font-size="75%" dy="3">sp</tspan><tspan dy="-3"> for s</tspan></text>
 <text x="202" y="140" text-anchor="middle" font-size="13" fill="#1d2b44">substitute ion</text>
 <text x="202" y="156" text-anchor="middle" font-size="13" fill="#1d2b44">concentrations</text>
 <text x="437" y="45" text-anchor="middle" font-size="14" fill="#1d2b44">× M</text>

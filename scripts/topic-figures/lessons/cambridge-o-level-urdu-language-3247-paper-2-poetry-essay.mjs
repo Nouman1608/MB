@@ -114,7 +114,7 @@ const box = (x, y, w, h, fill, edge = C.ink, rx = 6) => `<rect x="${x}" y="${y}"
 {
   let b = '';
   b += panel(30, 110, 840, 268, C.tealLight, C.tealDark) + T(54, 150, 'Ghazals: ten', { size: 22, weight: 700 }) + T(54, 178, 'two each by five poets', { size: 17, fill: C.muted }) + U(846, 166, 'غزلیں', { size: 30, fill: C.tealDark });
-  ['Khwaja Haider Ali Ahtish', 'Parveen Shakir', 'Momin Khan Momin', 'Allama Iqbal', 'Ahmed Faraz'].forEach((n, i) => {
+  ['Khwaja Haider Ali Aatish', 'Parveen Shakir', 'Momin Khan Momin', 'Allama Iqbal', 'Ahmed Faraz'].forEach((n, i) => {
     const x = 54 + (i % 3) * 268, y = 204 + Math.floor(i / 3) * 84;
     b += `<rect x="${x}" y="${y}" width="252" height="70" rx="10" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(x + 126, y + 31, n, { size: 17, weight: 600, anchor: 'middle' }) + T(x + 126, y + 56, '2 ghazals', { size: 15, fill: C.tealDark, anchor: 'middle' });
   });
@@ -126,7 +126,7 @@ const box = (x, y, w, h, fill, edge = C.ink, rx = 6) => `<rect x="${x}" y="${y}"
   b += panel(30, 632, 840, 70) + T(450, 675, 'Set texts may not be taken into the exam: every quotation must be memorised.', { size: 18, weight: 700, anchor: 'middle' });
   add('01-set-poems',
     SV(730, 'The prescribed poems for 2027', b),
-    'Ten ghazals (غزلیں), two each by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali\'s Musadas Hali in seventeen stanzas, Syed Zameer Jafree\'s Admee and Mirza Mahmood Sarhadi\'s Qitaat in six short pieces.',
+    'Ten ghazals (غزلیں), two each by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali\'s Musadas Hali in seventeen stanzas, Syed Zameer Jafree\'s Admee and Mirza Mahmood Sarhadi\'s Qitaat in six short pieces.',
     'Thirteen poems, none allowed in the exam room: quotations must be memorised.',
     '## What the syllabus lists for 2027');
 }

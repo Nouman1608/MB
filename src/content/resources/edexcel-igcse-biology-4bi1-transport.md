@@ -113,7 +113,7 @@ Xylem carries **water and mineral ions** from roots towards stems and leaves in 
 </figure>
 <!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-active-transport-root-hair -->
 
-Root hair cells have long, thin extensions that provide a **large surface area** for absorption. When the soil solution has a higher water potential than the cell sap, water crosses the partially permeable membrane **by osmosis** into the cell; solute concentration is one factor affecting water potential, while pressure also contributes. Water then moves across the root cortex towards the xylem. Mineral ions can be taken up against their concentration gradient by carrier-mediated active transport using energy from respiration; this is a different process from osmosis.
+Root hair cells have long, thin extensions that provide a **large surface area** for absorption. When the soil solution has a higher water concentration than the cell sap, water crosses the partially permeable membrane **by osmosis** into the cell, down its concentration gradient. Water then moves across the root cortex towards the xylem. Mineral ions can be taken up against their concentration gradient by carrier-mediated active transport using energy from respiration; this is a different process from osmosis.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">

@@ -41,10 +41,21 @@ export const PAST_PAPER_PUBLIC_PREFIX = '/papers/';
  * not printed on any page. (.gitignore describes this repository as public,
  * so anyone who can read the repository can read the note.)
  *
- * Deliberately empty. Only the owner can write these; nothing is drafted
- * for him.
+ * D-535c: one factual draft line per board, naming only the copyright holder
+ * and the kind of file. None of them claims permission or a licence; the
+ * permission basis is the owner's to write.
+ *
+ * DRAFT: owner to confirm permission basis before any file goes live.
+ * (The International Baccalaureate has no line: the library records no IB
+ * sessions, see BOARD_SESSIONS, so an IB entry is rejected anyway.)
  */
-export const PAST_PAPER_RIGHTS_NOTES: Partial<Record<BoardSlug, string>> = {};
+export const PAST_PAPER_RIGHTS_NOTES: Partial<Record<BoardSlug, string>> = {
+  cambridge: 'Cambridge past papers, mark schemes, examiner reports and grade thresholds are (c) Cambridge University Press & Assessment; files are PDF documents published by the board, supplied by the owner. Permission basis: owner to confirm.',
+  edexcel: 'Pearson Edexcel past papers, mark schemes, examiner reports and grade boundaries are the copyright of Pearson (the board); files are PDF documents published by the board, supplied by the owner. Permission basis: owner to confirm.',
+  aqa: 'AQA past papers, mark schemes, examiner reports and grade boundaries are the copyright of AQA; files are PDF documents published by the board, supplied by the owner. Permission basis: owner to confirm.',
+  ocr: 'OCR past papers, mark schemes, examiner reports and grade boundaries are the copyright of OCR (part of Cambridge University Press & Assessment); files are PDF documents published by the board, supplied by the owner. Permission basis: owner to confirm.',
+  oxfordaqa: 'OxfordAQA past papers, mark schemes, examiner reports and grade boundaries are the copyright of OxfordAQA (the board); files are PDF documents published by the board, supplied by the owner. Permission basis: owner to confirm.',
+};
 
 /** A rights note shorter than this cannot record a basis ("ok", "TBD"). */
 export const RIGHTS_NOTE_MIN_LENGTH = 20;

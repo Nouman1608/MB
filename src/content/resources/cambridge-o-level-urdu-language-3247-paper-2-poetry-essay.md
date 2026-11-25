@@ -33,15 +33,15 @@ examination year.
 
 ## What the syllabus lists for 2027
 
-- **Ghazals (*غزلیں*)**: ten, two each by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin,
-  Allama Iqbal and Ahmed Faraz.
+- **Ghazals (*غزلیں*)**: ten, two each by Khwaja Haider Ali Aatish (*آتش*; the Cambridge syllabus prints the name as "Ahtish"),
+  Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz.
 - **Nazms (*نظمیں*)**: three: Altaf Hussain Hali's *Musadas Hali*, in seventeen selected stanzas; Syed
   Zameer Jafree's *Admee*; and Mirza Mahmood Sarhadi's *Qitaat*, six short pieces.
 
 Set texts "may not be taken into the examination", so every quotation you use must be memorised.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--01-set-poems.webp" width="900" height="730" alt="Ten ghazals (غزلیں), two each by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali's Musadas Hali in seventeen stanzas, Syed Zameer Jafree's Admee and Mirza Mahmood Sarhadi's Qitaat in six short pieces." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--01-set-poems.webp" width="900" height="730" alt="Ten ghazals (غزلیں), two each by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali's Musadas Hali in seventeen stanzas, Syed Zameer Jafree's Admee and Mirza Mahmood Sarhadi's Qitaat in six short pieces." loading="lazy">
   <figcaption>Thirteen poems, none allowed in the exam room: quotations must be memorised.</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ the question names, or a stanza's final couplet that delivers the judgement.
 
 ## Contexts, briefly
 
-Ahtish and Momin wrote in the classical tradition of the nineteenth century; Iqbal, Faraz and Parveen
+Aatish and Momin wrote in the classical tradition of the nineteenth century; Iqbal, Faraz and Parveen
 Shakir are twentieth-century poets. Context can sharpen a point about attitude or language, but the
 mark scheme credits understanding of the text, so a paragraph of biography earns little.
 

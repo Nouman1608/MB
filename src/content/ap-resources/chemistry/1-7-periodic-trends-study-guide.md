@@ -93,7 +93,7 @@ From these ideas you get two rules:
 <defs><marker id="pt-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <rect x="150" y="75" width="475" height="290" rx="6" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <path d="M160 50 H615" stroke="#1d2b44" stroke-width="3" marker-end="url(#pt-arrow)"/>
-<text x="387" y="36" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Across a period: Z_eff rises, same outer shell</text>
+<text x="387" y="36" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Across a period: Z<tspan font-size="75%" dy="3">eff</tspan><tspan dy="-3"> rises, same outer shell</tspan></text>
 <path d="M120 85 V355" stroke="#1d2b44" stroke-width="3" stroke-dasharray="8 5" marker-end="url(#pt-arrow)"/>
 <text x="16" y="180" font-size="14" font-weight="600" fill="#1d2b44">Down a</text>
 <text x="16" y="199" font-size="14" font-weight="600" fill="#1d2b44">group:</text>

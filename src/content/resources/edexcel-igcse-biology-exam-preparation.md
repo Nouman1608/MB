@@ -51,9 +51,9 @@ Question (original): "A potato cylinder has an initial mass of 5.20 g. After 24 
     Percentage change = (-0.52 / 5.20) x 100 = -10.0%
     The mass decreased by 10.0%.
 
-(b) The sugar solution has a lower water potential than the
+(b) The sugar solution has a lower water concentration than the
     potato cells (a more concentrated solution). Water moves out
-    of the cells by osmosis, down a water potential gradient,
+    of the cells by osmosis, down a concentration gradient of water,
     across the partially permeable membrane, so the cylinder
     loses mass.
 ```

@@ -73,7 +73,7 @@ The bracket in Ca(NO₃)₂ multiplies everything inside it: 2 nitrogen atoms an
 <figure>
 <svg viewBox="0 0 640 170" role="img" aria-labelledby="mole-map-title mole-map-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="mole-map-title">Converting between mass, moles and particles</title>
-<desc id="mole-map-desc">Three boxes in a row: mass in grams, amount in moles, number of particles. From mass to moles divide by molar mass M; from moles back to mass multiply by M. From moles to particles multiply by Avogadro's number N_A; from particles back to moles divide by N_A.</desc>
+<desc id="mole-map-desc">Three boxes in a row: mass in grams, amount in moles, number of particles. From mass to moles divide by molar mass M; from moles back to mass multiply by M. From moles to particles multiply by Avogadro's number NA; from particles back to moles divide by NA.</desc>
 <rect x="10" y="55" width="150" height="60" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="85" y="82" text-anchor="middle" font-size="16" font-weight="600" fill="#1d2b44">Mass, m</text>
 <text x="85" y="102" text-anchor="middle" font-size="13" fill="#1d2b44">grams (g)</text>
@@ -89,8 +89,8 @@ The bracket in Ca(NO₃)₂ multiplies everything inside it: 2 nitrogen atoms an
 <path d="M478 100 H400" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#a1)"/>
 <text x="202" y="45" text-anchor="middle" font-size="14" fill="#1d2b44">÷ M</text>
 <text x="202" y="135" text-anchor="middle" font-size="14" fill="#1d2b44">× M</text>
-<text x="437" y="45" text-anchor="middle" font-size="14" fill="#1d2b44">× N_A</text>
-<text x="437" y="135" text-anchor="middle" font-size="14" fill="#1d2b44">÷ N_A</text>
+<text x="437" y="45" text-anchor="middle" font-size="14" fill="#1d2b44">× N<tspan font-size="75%" dy="3">A</tspan></text>
+<text x="437" y="135" text-anchor="middle" font-size="14" fill="#1d2b44">÷ N<tspan font-size="75%" dy="3">A</tspan></text>
 <defs><marker id="a1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 </svg>
 <figcaption>Figure 1. Solid arrows go left to right (mass → moles → particles); dashed arrows go back. Moles are always the middle step.</figcaption>

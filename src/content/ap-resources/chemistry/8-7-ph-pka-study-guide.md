@@ -84,7 +84,7 @@ So "predominates" can mean anything from "just over half" to "almost all". Withi
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="dist-title dist-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="dist-title">Percentage of acetic acid present as HA and as A⁻ at different pH values</title>
-<desc id="dist-desc">Graph of percentage of each form against pH from 2 to 8 for acetic acid, pK_a 4.74. The solid curve for the acid form HA starts near 100% at pH 2, falls through 50% at pH 4.74 and approaches 0% by pH 7. The dashed curve for the base form A⁻ is its mirror image, rising from near 0% to near 100%. The curves cross at 50% at pH 4.74, marked by a vertical dotted line. The region to the left is labelled HA predominates and the region to the right A⁻ predominates.</desc>
+<desc id="dist-desc">Graph of percentage of each form against pH from 2 to 8 for acetic acid, pKa 4.74. The solid curve for the acid form HA starts near 100% at pH 2, falls through 50% at pH 4.74 and approaches 0% by pH 7. The dashed curve for the base form A⁻ is its mirror image, rising from near 0% to near 100%. The curves cross at 50% at pH 4.74, marked by a vertical dotted line. The region to the left is labelled HA predominates and the region to the right A⁻ predominates.</desc>
 <line x1="70" y1="240" x2="590" y2="240" stroke="#1d2b44" stroke-width="1.5"/>
 <line x1="70" y1="40" x2="70" y2="240" stroke="#1d2b44" stroke-width="1.5"/>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
@@ -96,13 +96,13 @@ So "predominates" can mean anything from "just over half" to "almost all". Withi
 </g>
 <line x1="70" y1="140" x2="590" y2="140" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
 <line x1="307.5" y1="30" x2="307.5" y2="240" stroke="#1d2b44" stroke-width="1" stroke-dasharray="2 3"/>
-<text x="312" y="232" font-size="12" fill="#1d2b44">pK_a = 4.74</text>
+<text x="312" y="232" font-size="12" fill="#1d2b44">pK<tspan font-size="75%" dy="3">a</tspan><tspan dy="-3"> = 4.74</tspan></text>
 <polyline fill="none" stroke="#1d2b44" stroke-width="2.5" points="70.0,40.4 87.3,40.6 104.7,40.9 122.0,41.4 139.3,42.3 156.7,43.6 174.0,45.6 191.3,48.7 208.7,53.5 226.0,60.6 243.3,70.8 260.7,84.8 278.0,102.7 295.3,124.0 312.7,146.9 330.0,169.1 347.3,188.5 364.7,204.1 382.0,215.7 399.3,224.0 416.7,229.6 434.0,233.3 451.3,235.7 468.7,237.3 486.0,238.3 503.3,238.9 520.7,239.3 538.0,239.6 555.3,239.7 572.7,239.8 590.0,239.9"/>
 <polyline fill="none" stroke="#9a5b00" stroke-width="2.5" stroke-dasharray="8 5" points="70.0,239.6 87.3,239.4 104.7,239.1 122.0,238.6 139.3,237.7 156.7,236.4 174.0,234.4 191.3,231.3 208.7,226.5 226.0,219.4 243.3,209.2 260.7,195.2 278.0,177.3 295.3,156.0 312.7,133.1 330.0,110.9 347.3,91.5 364.7,75.9 382.0,64.3 399.3,56.0 416.7,50.4 434.0,46.7 451.3,44.3 468.7,42.7 486.0,41.7 503.3,41.1 520.7,40.7 538.0,40.4 555.3,40.3 572.7,40.2 590.0,40.1"/>
 <text x="92" y="64" font-size="13" fill="#1d2b44">HA (solid)</text>
 <text x="470" y="64" font-size="13" fill="#9a5b00">A⁻ (dashed)</text>
-<text x="170" y="22" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">pH &lt; pK_a: HA predominates</text>
-<text x="460" y="22" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">pH &gt; pK_a: A⁻ predominates</text>
+<text x="170" y="22" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">pH &lt; pK<tspan font-size="75%" dy="3">a</tspan><tspan dy="-3">: HA predominates</tspan></text>
+<text x="460" y="22" font-size="13" font-weight="600" fill="#1d2b44" text-anchor="middle">pH &gt; pK<tspan font-size="75%" dy="3">a</tspan><tspan dy="-3">: A⁻ predominates</tspan></text>
 </svg>
 <figcaption>Figure 1. Acetic acid (pK<sub>a</sub> 4.74). The solid line (HA) and dashed line (A⁻) cross at 50% exactly where pH = pK<sub>a</sub>. One pH unit either side, the split is about 91% to 9%.</figcaption>
 </figure>
@@ -195,7 +195,7 @@ In a titration you want the colour to change **at the equivalence point**, not b
 <circle cx="330" cy="112.9" r="4.5" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="340" y="140" font-size="12" fill="#1d2b44">equivalence point: 25.0 mL, pH 8.72</text>
 <circle cx="200" cy="175.4" r="4" fill="#1d2b44"/>
-<text x="150" y="232" font-size="12" fill="#1d2b44">half-equivalence: pH = pK_a = 4.74</text>
+<text x="150" y="232" font-size="12" fill="#1d2b44">half-equivalence: pH = pK<tspan font-size="75%" dy="3">a</tspan><tspan dy="-3"> = 4.74</tspan></text>
 <line x1="200" y1="180" x2="200" y2="220" stroke="#1d2b44" stroke-width="1"/>
 </svg>
 <figcaption>Figure 2. 25.00 mL of 0.100 M acetic acid titrated with 0.100 M NaOH. Phenolphthalein's range sits on the vertical section, so it changes colour between 24.99 and 25.05 mL. Methyl orange's range sits on the early, gentle slope, so it changes colour between about 0.4 and 7.8 mL, far too soon.</figcaption>

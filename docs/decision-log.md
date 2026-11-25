@@ -16965,3 +16965,7 @@ Status: answered; reminders created in implementation.
 - **D-537b Other boards.** Edexcel first for command words and thresholds. WAITING ON OWNER: the Pearson PDFs (give a folder path). Nothing is added from memory.
 - **D-537c Region pages.** UAE / Dubai first. WAITING ON OWNER: official UAE source documents or links that can be opened.
 - **D-537d Singapore article languages.** The owner chose to type the languages for DP Language B and MYP Language Acquisition but had not typed them when the session ended. WAITING ON OWNER; until then the article leaves the languages sentence out.
+
+## D-538 - Board PDFs supplied (25 Nov 2026)
+
+Owner supplied `C:\Users\nouma\OneDrive - Learners Academy\new topicals\Board PDFs` (answers D-537b). Contents per its README: June 2025/2026 grade boundaries and thresholds for Pearson Edexcel (GCSE, International GCSE, International A Level, A Level), OCR, AQA, and all Cambridge June 2025 tables; starter command-word PDFs for AQA GCSE History and OCR GCSE Mathematics only; AP English Language CED. **No Edexcel command-word document is in the folder**, so Edexcel command words stay waiting on the owner. Edexcel June 2026 International GCSE and International A Level boundaries are used for the threshold work.
