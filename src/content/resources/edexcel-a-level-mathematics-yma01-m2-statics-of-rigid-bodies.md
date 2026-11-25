@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 5 of **Unit M2: Mechanics 2** in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3: "Moment of a force" (5.1) and "Equilibrium of rigid bodies" (5.2). The guidance for 5.2 names "problems involving parallel and non-parallel coplanar forces" and "rods or ladders resting against smooth or rough vertical walls and on smooth or rough ground".
+This guide covers section 5 of **Unit M2: Mechanics 2** (WME02) in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3: "Moment of a force" (5.1) and "Equilibrium of rigid bodies" (5.2). The guidance for 5.2 names "problems involving parallel and non-parallel coplanar forces" and "rods or ladders resting against smooth or rough vertical walls and on smooth or rough ground".
 
 The wider M2 guide on [centres of mass and rigid body equilibrium](/resources/edexcel-ial-mathematics-centres-of-mass-and-equilibrium-of-rigid-bodies/) sets out the basic method. This page goes further into the situations that cost the most marks: hinged rods with an oblique string, rods resting on pegs, and ladders where you must decide whether equilibrium is possible at all. Condensed recall is in the [statics of rigid bodies revision notes](/resources/edexcel-a-level-mathematics-yma01-m2-statics-of-rigid-bodies-revision-notes/), and twelve exam-style questions are in the [statics of rigid bodies practice set](/resources/edexcel-a-level-mathematics-yma01-m2-statics-of-rigid-bodies-practice/).
 

@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 3
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "natural-resources-sustainability-2059"
+    topic: "natural-resources-sustainability-2059"
 description: "Revision notes on water, forests, minerals and fish, with the sustainability evaluation Paper 2 rewards, for Cambridge O Level Pakistan Studies 2059 Section 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

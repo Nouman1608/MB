@@ -12,10 +12,7 @@ syllabusSeries: "For examination in 2026-2027"
 order: 3
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-  - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "rightly-guided-caliphs-0493"
+    topic: "rightly-guided-caliphs-0493"
 description: "The rule, achievements and leadership of Abu Bakr, Umar, Uthman and Ali for Cambridge IGCSE Islamiyat 0493 Paper 2 subtopic 2.3, the Rightly Guided Caliphs."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

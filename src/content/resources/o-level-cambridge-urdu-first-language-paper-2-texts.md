@@ -47,7 +47,7 @@ entirely through Assessment Objective 3, Literature (texts).
   guided by prompts in the question
 - Part 2 Poetry (15 marks) — two essay questions based on the
   prescribed ghazals and nazms; candidates answer one. Set poets
-  include Khwaja Haider Ali Ahtish (spelled Atish or Aatish in other books; Ahtish is the syllabus spelling), Parveen Shakir, Momin Khan Momin,
+  include Khwaja Haider Ali Aatish (آتش; the Cambridge syllabus prints the name as "Ahtish"), Parveen Shakir, Momin Khan Momin,
   Allama Iqbal and Ahmed Faraz (ten prescribed ghazals in total), plus
   three prescribed nazms: Altaf Hussain Hali's Musadas Hali (17
   selected stanzas), Syed Zameer Jafree's "Admee", and Mirza Mahmood
@@ -130,7 +130,7 @@ can be deployed to support an argument -- rather than something to
 recognise in outline only.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--02-set-texts.webp" width="900" height="684" alt="Part 2 Poetry: ten ghazals by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight texts, seven articles and Ghalib's two letters." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--02-set-texts.webp" width="900" height="684" alt="Part 2 Poetry: ten ghazals by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight texts, seven articles and Ghalib's two letters." loading="lazy">
   <figcaption>Know each prescribed text in depth, with quotations ready.</figcaption>
 </figure>
 

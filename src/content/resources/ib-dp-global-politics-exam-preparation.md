@@ -24,6 +24,20 @@ core topics and all three thematic studies evenly, how to answer with more than 
 with a worked scenario and a checklist, alongside the
 [full syllabus guide](/resources/ib-dp-global-politics-syllabus-guide/) already on the site.
 
+## Marks at a glance
+
+These are the maximum marks printed in the IB *Global politics guide* (first assessment 2026), in the assessment outlines for SL and HL and in the external assessment details for each paper.
+
+| Component | Level | Duration | Maximum marks | Marks by question |
+|---|---|---|---|---|
+| Paper 1 (same paper at SL and HL) | SL and HL | 1 hour 15 minutes | 25 | Q1 3, Q2 4, Q3 6, Q4 12 |
+| Paper 2 | SL and HL | 1 hour 45 minutes | 30 | Two essays (one from section A, one from section B) |
+| Paper 3 | HL only | 1 hour 30 minutes | 28 | Q1 3, Q2a 4, Q2b 6, Q3 15 |
+| Engagement project (internal assessment) | SL | 25 hours | 24 | Written report |
+| Engagement project (internal assessment) | HL | 35 hours | 30 | Written report, including a recommendation |
+
+Use the question marks to set your time per part: in Paper 1, Question 4 carries 12 of the 25 marks, and in Paper 3, Question 3 carries 15 of the 28.
+
 ## Cover the core topics and all three thematic studies, not just a favourite one
 
 The core topic (understanding power and global politics) and the three compulsory thematic studies --
@@ -157,8 +171,8 @@ Start with an honest topic-by-topic confidence audit and direct revision time at
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject
-Brief -- Global Politics* -- the same source cited by the
+International Baccalaureate Organization, *Global politics guide* (first assessment 2026), for the marks table above, and *Diploma Programme Subject
+Brief -- Global Politics*, the source cited by the
 [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/) and
 [full syllabus guide](/resources/ib-dp-global-politics-syllabus-guide/). The worked scenario above is
 an original example written for this resource, not a reproduction of any official past or sample

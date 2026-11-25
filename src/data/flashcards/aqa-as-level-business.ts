@@ -2,7 +2,7 @@
  * D-444 -- flashcards for AQA AS Business 7137 (for first teaching from
  * September 2026).
  *
- * One block per subtopic, in syllabus order. Card ids are `<subtopic number>-<n>`
+ * One block per topic (D-535d: the numbered sections, not the papers), in syllabus order. Card ids are `<topic number>-<n>`
  * and are permanent (browser progress is keyed by them): add a new card with
  * the next unused n, never renumber.
  *
@@ -17,11 +17,10 @@ import type { Flashcard, FlashcardDeck } from './types.ts';
 
 interface Spec { n: number; f: string; b: string; src?: string }
 
-const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Flashcard[] =>
+const sub = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
   specs.map(({ n, f, b, src }) => ({
     id: `${number}-${n}`,
     topic,
-    subtopic,
     front: f,
     back: b,
     origin: src ? 'revision-notes' as const : 'authored' as const,
@@ -30,9 +29,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
 
 const WIB = 'aqa-as-level-business-what-is-business-revision-notes';
 const PPL = 'aqa-as-level-business-people-management-revision-notes';
-
-const T1 = 'what-is-business-managing-marketing-and-finance-aqa-aslevel-business';
-const T2 = 'managing-people-and-operations-aqa-aslevel-business';
 
 export const DECK_AQA_AS_LEVEL_BUSINESS: FlashcardDeck = {
   boardSlug: 'aqa',
@@ -45,7 +41,7 @@ export const DECK_AQA_AS_LEVEL_BUSINESS: FlashcardDeck = {
   deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 3.1 What is business? Managing marketing and finance
-    ...sub(T1, 'business-and-objectives-aqa-aslevel-business', '3.1.1', [
+    ...sub('business-and-objectives-aqa-aslevel-business', '3.1.1', [
       { n: 1, f: 'Reasons for setting up in business', b: 'Financial (profit, income) and non-financial (independence, turning a passion into a career, filling a gap noticed in the market).', src: WIB },
       { n: 2, f: 'Characteristics of entrepreneurs named in the specification', b: 'Risk taker, resilient, focused, passionate, innovative, adaptable.', src: WIB },
       { n: 3, f: 'Challenges of setting up in business', b: 'Funding, competition, uncertainty, limited track record.', src: WIB },
@@ -60,7 +56,7 @@ export const DECK_AQA_AS_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 12, f: 'Turn "we want to grow" into a SMART objective', b: 'For example: "increase market share by 5% within two years", with a named manager accountable. A general aim cannot be judged; a SMART one can.' },
       { n: 13, f: 'Purpose and value of setting business objectives', b: 'They give direction and a target, let performance be measured against results, guide decisions and other functions, and make managers accountable.' },
     ]),
-    ...sub(T1, 'forms-of-business-and-stakeholders-aqa-aslevel-business', '3.1.2', [
+    ...sub('forms-of-business-and-stakeholders-aqa-aslevel-business', '3.1.2', [
       { n: 1, f: 'Sole trader vs private limited company (Ltd): liability, finance and control', b: 'Sole trader: unlimited liability, limited access to finance, full control.\nLtd: limited liability, more access to finance, reduced control and must publish accounts.' },
       { n: 2, f: 'Public limited company (plc)', b: 'A company whose shares can be sold to the public on stock markets: limited liability and the most access to finance, but the most diluted control.' },
       { n: 3, f: 'Co-operatives: the three types and their features', b: 'Worker, consumer and producer co-operatives. Owned and controlled by members, usually with limited liability; finance is limited and member-based.' },
@@ -75,7 +71,7 @@ export const DECK_AQA_AS_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 12, f: 'External stakeholders', b: 'Customers, suppliers, other creditors, community, government.', src: WIB },
       { n: 13, f: 'Ethical responsibilities to stakeholders: examples', b: 'Fair pay and safe conditions for employees; honest products and pricing for customers; paying suppliers and creditors on time; limiting harm to the community and environment; paying tax.' },
     ]),
-    ...sub(T1, 'marketing-management-aqa-aslevel-business', '3.1.3', [
+    ...sub('marketing-management-aqa-aslevel-business', '3.1.3', [
       { n: 1, f: 'Purpose of market research', b: 'To reduce risk and to understand and anticipate customer needs. Influences on how it is done: risk, cost, time and the need for reliability.' },
       { n: 2, f: 'Confidence interval vs confidence level', b: 'Confidence interval: the range likely to hold the true figure; narrower means more precise (a larger sample usually narrows it).\nConfidence level: how sure we are the range holds it, for example 95%.' },
       { n: 3, f: 'B2B, B2C and C2C markets', b: 'B2B: few, large business buyers; account managers.\nB2C: many consumer buyers; branding.\nC2C: individuals trading with each other, often online.' },
@@ -91,7 +87,7 @@ export const DECK_AQA_AS_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 13, f: 'Direct distribution vs intermediaries', b: 'Direct (including e-commerce): control, customer data and the full margin, but the firm pays its own delivery costs.\nIntermediaries (wholesalers, retailers): reach and storage, but they take a margin and the firm has less control.' },
       { n: 14, f: 'Click-through rate and conversion rate: 50,000 views, 1,000 clicks, 50 sales', b: 'Click-through rate = clicks ÷ views × 100 = 2%. Conversion rate (on clicks) = buyers ÷ clicks × 100 = 5%.' },
     ]),
-    ...sub(T1, 'financial-management-aqa-aslevel-business', '3.1.4', [
+    ...sub('financial-management-aqa-aslevel-business', '3.1.4', [
       { n: 1, f: 'Financial objectives named in 7137', b: 'Profit, profitability, cash flow, liquidity and levels of borrowing. Influences include owners and their attitude to risk, available cash, interest rates, competitors and the economy.' },
       { n: 2, f: 'Cash flow vs profit', b: 'Profit is revenue minus costs over a period, counted when earned, even on credit. Cash flow records only money actually moving. Cash can arrive from a loan with no profit; profit can be earned long before cash arrives.' },
       { n: 3, f: 'Return on investment and gearing', b: 'ROI = profit from the investment ÷ cost of the investment × 100 (£8,400 ÷ £60,000 = 14%).\nGearing = non-current liabilities ÷ (total equity + non-current liabilities) × 100 (£80,000 ÷ £320,000 = 25%).' },
@@ -107,7 +103,7 @@ export const DECK_AQA_AS_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 13, f: 'Ways of improving cash flow named in 7137', b: 'Debt factoring, shortening payment time from customers, early payment incentives, credit checks, increasing payment time to suppliers, reducing outgoings, better invoice management. Risks: fees, lost income or customers, strained supplier relations.' },
     ]),
     // 3.2 Managing people and operations
-    ...sub(T2, 'people-management-aqa-aslevel-business', '3.2.1', [
+    ...sub('people-management-aqa-aslevel-business', '3.2.1', [
       { n: 1, f: 'HR objectives', b: 'Targets for the number and skills of employees, turnover and retention, engagement, employee costs, and equality, diversity, inclusion and belonging.', src: PPL },
       { n: 2, f: 'HR planning', b: 'Matching the workforce to future needs through recruitment, training, retention, redeployment and redundancy.', src: PPL },
       { n: 3, f: 'Flexible employment', b: 'A mix of employment types and patterns so the workforce can change with demand.', src: PPL },
@@ -123,7 +119,7 @@ export const DECK_AQA_AS_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 13, f: 'Financial and non-financial rewards', b: 'Financial: wages, salaries, piece rate, commission, performance-related pay, shares, fringe benefits.\nNon-financial: delegation, empowerment, job enrichment, training, remote, hybrid and flexible working.' },
       { n: 14, f: 'Individual vs collective representation', b: 'Individual: flexible and personal, but low bargaining power. Collective (trade unions, employee forums): strong voice and protection, but may bring conflict and delay.' },
     ]),
-    ...sub(T2, 'operations-management-aqa-aslevel-business', '3.2.2', [
+    ...sub('operations-management-aqa-aslevel-business', '3.2.2', [
       { n: 1, f: 'Operations objectives named in 7137', b: 'Efficiency, quality, volume of goods and services, flexibility, and environmental impact.' },
       { n: 2, f: 'Added value', b: 'Selling price less the cost of bought-in inputs. Example: price £85, bought-in materials £52 → £33, which is 38.8% of the price.' },
       { n: 3, f: 'Employee productivity, unit costs and capacity utilisation', b: 'Employee productivity = output over a time period ÷ number of employees.\nUnit costs = total costs ÷ number of units of output.\nCapacity utilisation = actual output ÷ maximum possible output × 100.' },

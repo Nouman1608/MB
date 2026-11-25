@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.3
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "life-prophet-2058"
+    topic: "life-prophet-2058"
 description: "Study guide to the Prophet's life from birth to death, his character and his example today, for Cambridge O Level Islamiyat 2058 Paper 1, with a model answer."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

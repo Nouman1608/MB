@@ -33,13 +33,13 @@ for the full method and a model paragraph see the
 
 - **15 marks**; **one** essay from a choice of **two**.
 - Based on the **prescribed** poems only; set texts cannot be taken into the exam.
-- 2027 list: **ten ghazals** (two each by Ahtish, Parveen Shakir, Momin, Iqbal, Faraz) and **three
+- 2027 list: **ten ghazals** (two each by Aatish, spelled "Ahtish" in the Cambridge syllabus, Parveen Shakir, Momin, Iqbal, Faraz) and **three
   nazms** (Hali's *Musadas Hali*, seventeen selected stanzas; Zameer Jafree's *Admee*; Mahmood
   Sarhadi's *Qitaat*). Check the syllabus for your year: set texts can change.
 - Marked on a **five-level** scheme shared with the Prose essay.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--01-set-poems.webp" width="900" height="730" alt="Ten ghazals (غزلیں), two each by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali's Musadas Hali in seventeen stanzas, Syed Zameer Jafree's Admee and Mirza Mahmood Sarhadi's Qitaat in six short pieces." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--01-set-poems.webp" width="900" height="730" alt="Ten ghazals (غزلیں), two each by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali's Musadas Hali in seventeen stanzas, Syed Zameer Jafree's Admee and Mirza Mahmood Sarhadi's Qitaat in six short pieces." loading="lazy">
   <figcaption>Thirteen poems, none allowed in the exam room: quotations must be memorised.</figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ close detail, so that both questions stay open on the day.
 **Answers**
 
 1. Two; one.
-2. Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal, Ahmed Faraz.
+2. Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal, Ahmed Faraz.
 3. The closing couplet of a ghazal, usually containing the poet's pen name.
 4. Each couplet is complete in itself and may treat a different mood, so only some couplets fit a
    given focus.

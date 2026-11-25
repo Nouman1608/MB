@@ -11,8 +11,7 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 2.7
 syllabusTopics:
   - qualification: "gcse"
-    topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-    subtopic: "interdependent-nature-of-business-ocr-gcse-business"
+    topic: "interdependent-nature-of-business-ocr-gcse-business"
 description: "Study guide to section 7 of OCR GCSE Business J204: how the four functions depend on each other, risk and reward, and financial information in decisions."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

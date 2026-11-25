@@ -11,8 +11,7 @@ syllabusSeries: "2026"
 order: 6
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "trade-2059"
+    topic: "trade-2059"
 description: "Study guide to Section 6 Trade of Cambridge O Level Pakistan Studies 2059 Paper 2: exports, imports, GNP and GDP, the balance of trade and trading partners."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

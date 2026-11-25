@@ -86,14 +86,14 @@ Examples you should be able to use:
 
 ### Osmosis
 
-**Osmosis** is the net movement of water across a partially permeable membrane down a water-potential gradient (the term water potential is not required by Edexcel 4BI1). In the simple model with comparable pressure and a solute retained by the membrane, this is from a more dilute solution toward the more concentrated solution. Pressure can also affect water potential, so the dilute-to-concentrated shortcut does not cover every cell or experimental setup.
+**Osmosis** is the net movement of water across a partially permeable membrane down a concentration gradient of water, that is, from a region of higher water concentration to a region of lower water concentration. In the simple model with comparable pressure and a solute retained by the membrane, this is from a more dilute solution toward the more concentrated solution. Pressure can also affect the net movement of water, so the dilute-to-concentrated shortcut does not cover every cell or experimental setup.
 
-<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-water-potential -->
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-water-concentration -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
-  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-osmosis-water-potential.svg" aria-label="Open full-size diagram: osmosis across a partially permeable membrane"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-osmosis-water-potential.svg" width="1528" height="871" alt="Water crosses a partially permeable membrane in both directions, with net movement from higher to lower water potential in a simple retained-solute model." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-osmosis-water-concentration.svg" aria-label="Open full-size diagram: osmosis across a partially permeable membrane"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-osmosis-water-concentration.svg" width="1528" height="871" alt="Water crosses a partially permeable membrane in both directions, with net movement from higher to lower water concentration in a simple retained-solute model." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
   <figcaption>Osmosis in the simple retained-solute model; pressure and membrane selectivity matter.</figcaption>
 </figure>
-<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-water-potential -->
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-water-concentration -->
 
 Osmosis is a special case of diffusion. It is passive, involves net movement of **water**, and requires a membrane that is permeable to water but retains the relevant solute over the time of the model or experiment. Solute permeability varies with membrane and solute; it should not be assumed universally.
 
@@ -102,7 +102,7 @@ What happens to cells depends on the solution around them.
 | Solution around the cell | Animal cell (red blood cell) | Plant cell |
 |---|---|---|
 | More dilute than cell contents (e.g. pure water) | Water enters; cell swells and may burst, because there is no cell wall | Water enters; vacuole swells and pushes the cytoplasm against the cell wall; cell becomes **turgid** but does not burst |
-| Same water potential as cell contents (in the model) | No net movement of water; no change | No net water movement in this simplified comparison |
+| Same water concentration as cell contents (in the model) | No net movement of water; no change | No net water movement in this simplified comparison |
 | More concentrated than cell contents | Water leaves; cell shrinks and becomes shrivelled | Water leaves; cell becomes **flaccid**; if more water is lost the cytoplasm and membrane pull away from the wall (**plasmolysis**) |
 
 *The terms plasmolysis and turgor are not required by the Edexcel 4BI1 specification; included as background.*
@@ -145,7 +145,7 @@ Examples:
 | | Diffusion | Osmosis | Active transport |
 |---|---|---|---|
 | What moves | Any particles that can pass | Water only | Particular ions and molecules |
-| Direction | High to low concentration | Down a water-potential gradient (simple retained-solute model: dilute to concentrated) | Low to high concentration |
+| Direction | High to low concentration | Down a concentration gradient of water (simple retained-solute model: dilute to concentrated) | Low to high concentration |
 | Energy from respiration | No | No | Yes |
 | Membrane needed | No (can happen in air or water) | Yes, partially permeable | Yes, with carrier proteins |
 
@@ -154,10 +154,7 @@ Examples:
   <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="/images/learning/biology/igcse-shared-intl-osmosis.svg" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. A card gives the water potential wording: higher on the dilute side, lower on the concentrated side. The water potential labels are greyed as not required." loading="lazy">
-  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
-</figure>
+Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-plant-cell-osmosis.svg" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms turgor pressure and plasmolysed are greyed as not required by Edexcel." loading="lazy">
@@ -305,7 +302,7 @@ You use percentage change because the cylinders do not start with exactly the sa
 
 Check one row: for 0.4 mol/dm³, (2.16 − 2.20) ÷ 2.20 × 100 = −1.8%.
 
-**Interpreting:** where mass increased, net water entry is supported; where mass decreased, net water exit is supported. On a graph of percentage change against external concentration, the line crosses zero between 0.2 and 0.4 mol/dm³. Straight-line interpolation gives about 0.36 mol/dm³ for the external solution under these conditions. This is an apparent isotonic concentration or water-potential balance estimate—not a direct measurement of the mixed intracellular solute concentration. Cell-wall pressure and other solutes also affect the balance.
+**Interpreting:** where mass increased, net water entry is supported; where mass decreased, net water exit is supported. On a graph of percentage change against external concentration, the line crosses zero between 0.2 and 0.4 mol/dm³. Straight-line interpolation gives about 0.36 mol/dm³ for the external solution under these conditions. This is an apparent isotonic concentration estimate (the concentration at which there is no net water movement)—not a direct measurement of the mixed intracellular solute concentration. Cell-wall pressure and other solutes also affect the balance.
 
 **Improving it:** repeat each concentration and calculate a mean; use more concentrations between 0.2 and 0.4 mol/dm³ to locate the crossing point more precisely; blot every cylinder in the same way.
 

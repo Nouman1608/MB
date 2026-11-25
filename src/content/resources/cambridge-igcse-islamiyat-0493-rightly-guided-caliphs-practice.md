@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 2.3
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "rightly-guided-caliphs-0493"
+    topic: "rightly-guided-caliphs-0493"
 description: "Twelve original questions on the election, policies, conquests and difficulties of the four Rightly Guided Caliphs for IGCSE Islamiyat 0493, with answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 5 of Unit P2 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are three content statements:
+This guide covers section 5 of Unit P2 (WMA12) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are three content statements:
 
 - **5.1** "y = aˣ and its graph", for a > 0, a ≠ 1
 - **5.2** "Laws of logarithms", including log_a(1/x) ≡ −log_a x and log_a a = 1

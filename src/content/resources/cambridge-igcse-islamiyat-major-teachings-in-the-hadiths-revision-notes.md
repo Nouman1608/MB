@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 6
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "major-teachings-hadiths-0493"
+    topic: "major-teachings-hadiths-0493"
 description: "One-line teaching and application for each of the 20 set Hadith in Cambridge IGCSE Islamiyat 0493 Paper 2, with linked Qur'an verses and a worked answer."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

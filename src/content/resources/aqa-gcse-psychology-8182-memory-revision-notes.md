@@ -11,8 +11,7 @@ syllabusSeries: "first teaching 2017"
 order: 1.1
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "memory-8182"
+    topic: "memory-8182"
 description: "Condensed revision notes on 3.1.1 Memory for AQA GCSE Psychology 8182, with a key terms table, study summaries, evaluation points and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

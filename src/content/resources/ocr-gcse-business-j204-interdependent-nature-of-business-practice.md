@@ -11,8 +11,7 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 2.7
 syllabusTopics:
   - qualification: "gcse"
-    topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-    subtopic: "interdependent-nature-of-business-ocr-gcse-business"
+    topic: "interdependent-nature-of-business-ocr-gcse-business"
 description: "Twelve original synoptic questions for OCR GCSE Business J204 section 7: linked functions, risk and reward, margins, ARR, break-even and cash, with answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

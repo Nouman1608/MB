@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 6
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "major-teachings-hadiths-2058"
+    topic: "major-teachings-hadiths-2058"
 description: "Keyword cues, teachings and modern examples for all 20 set Hadith in Cambridge O Level Islamiyat 2058 Paper 2 Question 1, plus a model answer and exam traps."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

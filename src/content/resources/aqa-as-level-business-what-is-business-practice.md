@@ -10,13 +10,6 @@ qualifications: ["as-level"]
 syllabusCodes: ["7137"]
 syllabusSeries: "For first teaching from September 2026"
 order: 3
-syllabusTopics:
-  - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "business-and-objectives-aqa-aslevel-business"
-  - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
 description: "Original practice questions with worked answers on entrepreneurs, objectives, business forms and stakeholders for AQA AS-Level Business (7137), 3.1.1 to 3.1.2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

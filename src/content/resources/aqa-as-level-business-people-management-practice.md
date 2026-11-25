@@ -12,8 +12,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 781
 syllabusTopics:
   - qualification: "as-level"
-    topic: "managing-people-and-operations-aqa-aslevel-business"
-    subtopic: "people-management-aqa-aslevel-business"
+    topic: "people-management-aqa-aslevel-business"
 description: "Original worked practice questions for AQA AS Business 7137 section 3.2.1 People management, with HR data, structures, motivation and case studies."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

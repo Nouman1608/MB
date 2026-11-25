@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 2 of **Unit S1: Statistics 1** in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3: histograms, stem and leaf diagrams and box plots (2.1); measures of location (2.2); measures of dispersion, including "variance, standard deviation, range and interpercentile ranges" (2.3); and "Skewness. Concepts of outliers" (2.4).
+This guide covers section 2 of **Unit S1: Statistics 1** (WST01) in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3: histograms, stem and leaf diagrams and box plots (2.1); measures of location (2.2); measures of dispersion, including "variance, standard deviation, range and interpercentile ranges" (2.3); and "Skewness. Concepts of outliers" (2.4).
 
 The specification's guidance shapes the questions. Drawing diagrams and plain calculation of the mean, median, mode, range and interquartile range "will not be the direct focus of examination questions". Instead, you are expected to read diagrams, use "simple interpolation", use coding, and "draw simple inferences and give interpretations". Any rule for outliers "will be specified in the question".
 

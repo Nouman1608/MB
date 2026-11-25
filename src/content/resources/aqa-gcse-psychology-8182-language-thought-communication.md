@@ -12,8 +12,7 @@ syllabusSeries: "first teaching 2017"
 order: 2.2
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "language-thought-communication-8182"
+    topic: "language-thought-communication-8182"
 description: "Study guide to AQA GCSE Psychology 8182 topic 3.2.2: Piaget and Sapir-Whorf, Von Frisch's bees, non-verbal communication, Darwin and Yuki, with evaluation."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

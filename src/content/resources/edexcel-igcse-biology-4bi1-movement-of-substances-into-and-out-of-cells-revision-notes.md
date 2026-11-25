@@ -200,10 +200,7 @@ For a plant cell that lost water, add the state: flaccid, or plasmolysed if the 
   <figcaption>A red blood cell swells, stays the same or shrivels depending on the solution around it.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="/images/learning/biology/igcse-shared-intl-osmosis.svg" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. A card gives the water potential wording: higher on the dilute side, lower on the concentrated side. The water potential labels are greyed as not required." loading="lazy">
-  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
-</figure>
+Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-plant-cell-osmosis.svg" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms turgor pressure and plasmolysed are greyed as not required by Edexcel." loading="lazy">

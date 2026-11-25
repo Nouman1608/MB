@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.3
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "life-prophet-0493"
+    topic: "life-prophet-0493"
 description: "Study guide to the Prophet's life in Makka and Madina, his character, his example for individuals and states, and the Seal of the Prophets, for IGCSE 0493."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

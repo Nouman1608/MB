@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 7 of Unit P2 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). The single content statement is "applications of differentiation to maxima and minima and stationary points, increasing and decreasing functions". The guidance adds that this includes "applications to curve sketching" and that "maxima and minima problems may be set in the context of a practical problem".
+This guide covers section 7 of Unit P2 (WMA12) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). The single content statement is "applications of differentiation to maxima and minima and stationary points, increasing and decreasing functions". The guidance adds that this includes "applications to curve sketching" and that "maxima and minima problems may be set in the context of a practical problem".
 
 No new differentiation rules appear in Unit P2. You differentiate powers of x exactly as in Unit P1 (including negative and fractional powers and second derivatives), and the chain, product and quotient rules wait until Unit P3. What is new is what you do with the derivative.
 

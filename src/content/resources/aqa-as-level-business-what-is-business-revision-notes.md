@@ -11,11 +11,9 @@ syllabusSeries: "For first teaching from September 2026"
 order: 2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "business-and-objectives-aqa-aslevel-business"
+    topic: "business-and-objectives-aqa-aslevel-business"
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
+    topic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
 description: "Condensed recall notes on entrepreneurs, business objectives, business forms and stakeholders, for AQA AS-Level Business (7137), sub-topics 3.1.1 and 3.1.2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

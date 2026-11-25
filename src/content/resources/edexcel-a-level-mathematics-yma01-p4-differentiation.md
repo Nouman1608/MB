@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 5 of Unit P4: Pure Mathematics 4 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. There are two statements: "Differentiation of simple functions defined implicitly or parametrically", where "the finding of equations of tangents and normals to curves given parametrically or implicitly is required", and "Formation of simple differential equations", where "questions involving connected rates of change may be set". Solving differential equations belongs to section 6, Integration. Here you only set them up.
+This guide covers section 5 of Unit P4: Pure Mathematics 4 (WMA14) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. There are two statements: "Differentiation of simple functions defined implicitly or parametrically", where "the finding of equations of tangents and normals to curves given parametrically or implicitly is required", and "Formation of simple differential equations", where "questions involving connected rates of change may be set". Solving differential equations belongs to section 6, Integration. Here you only set them up.
 
 ## What the specification asks for
 

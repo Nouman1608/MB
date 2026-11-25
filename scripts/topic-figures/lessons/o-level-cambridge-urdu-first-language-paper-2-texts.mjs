@@ -134,14 +134,14 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
   let b = '';
   b += panel(30, 110, 840, 290, C.tealLight, C.tealDark) + T(54, 146, 'Part 2 Poetry', { size: 20, weight: 700 });
   b += T(54, 180, 'Ghazals: ten prescribed in total, by', { size: 16, weight: 700, fill: C.tealDark });
-  ['Khwaja Haider Ali Ahtish', 'Parveen Shakir', 'Momin Khan Momin', 'Allama Iqbal', 'Ahmed Faraz'].forEach((n, i) => { const x = 54 + (i % 3) * 270, y = 200 + Math.floor(i / 3) * 46; b += `<rect x="${x}" y="${y}" width="254" height="38" rx="8" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(x + 127, y + 25, n, { size: 15, anchor: 'middle' }); });
+  ['Khwaja Haider Ali Aatish', 'Parveen Shakir', 'Momin Khan Momin', 'Allama Iqbal', 'Ahmed Faraz'].forEach((n, i) => { const x = 54 + (i % 3) * 270, y = 200 + Math.floor(i / 3) * 46; b += `<rect x="${x}" y="${y}" width="254" height="38" rx="8" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(x + 127, y + 25, n, { size: 15, anchor: 'middle' }); });
   b += T(54, 318, 'Nazms: three prescribed', { size: 16, weight: 700, fill: C.tealDark });
   [['Hali, Musadas Hali', '17 selected stanzas'], ['Syed Zameer Jafree', '"Admee"'], ['Mirza Mahmood Sarhadi', '"Qitaat"']].forEach(([n, d], i) => { const x = 54 + i * 270; b += `<rect x="${x}" y="332" width="254" height="58" rx="8" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(x + 127, 356, n, { size: 15, anchor: 'middle', weight: 600 }) + T(x + 127, 378, d, { size: 15, anchor: 'middle', fill: C.muted }); });
   b += panel(30, 420, 840, 236, C.cream, C.mustard) + T(54, 456, 'Part 3 Prose: eight prescribed articles, by', { size: 20, weight: 700 });
   ['Muhammad Hussain Azad', 'Mirza Farhatullah Baig', 'Ghulam Abbas', 'Ahmad Nadeem Qasmi', 'Sir Syed Ahmed Khan', 'Mushtaq Ahmed Yousafi', 'Syed Imtiaz Ali Taj', 'Mirza Ghalib: two letters'].forEach((n, i) => { const x = 54 + (i % 3) * 270, y = 476 + Math.floor(i / 3) * 56; b += `<rect x="${x}" y="${y}" width="254" height="44" rx="8" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(x + 127, y + 28, n, { size: 15, anchor: 'middle', weight: i === 7 ? 700 : 400 }); });
   add('02-set-texts',
     SV(684, 'The prescribed set texts', b),
-    'Part 2 Poetry: ten ghazals by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight articles, including two of Ghalib\'s letters.',
+    'Part 2 Poetry: ten ghazals by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight articles, including two of Ghalib\'s letters.',
     'Know each prescribed text in depth, with quotations ready.',
     '## The set texts at a glance');
 }

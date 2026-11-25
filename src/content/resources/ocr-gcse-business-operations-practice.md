@@ -12,8 +12,7 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 786
 syllabusTopics:
   - qualification: "gcse"
-    topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-    subtopic: "operations-ocr-gcse-business"
+    topic: "operations-ocr-gcse-business"
 description: "Twelve original practice questions with worked answers on section 4 Operations in OCR GCSE (9-1) Business J204, using invented businesses."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

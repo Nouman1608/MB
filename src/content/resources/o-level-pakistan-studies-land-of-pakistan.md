@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 2
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "the-land-of-pakistan-2059"
+    topic: "the-land-of-pakistan-2059"
 description: "The land of Pakistan for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 1: location, administrative areas and cities, topography and climate, 2026."
 seoDescription: "Cambridge O Level Pakistan Studies (2059) Paper 2, Section 1: location, terrain, climate and administrative divisions of Pakistan explained."
 author: "marlbridge-academic-team"

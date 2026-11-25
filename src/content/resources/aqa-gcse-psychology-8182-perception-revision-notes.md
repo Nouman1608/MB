@@ -11,8 +11,7 @@ syllabusSeries: "first teaching 2017"
 order: 1.2
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "perception-8182"
+    topic: "perception-8182"
 description: "Condensed revision notes on 3.1.2 Perception for AQA GCSE Psychology 8182: depth cues, six illusions, Gibson and Gregory, perceptual set and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

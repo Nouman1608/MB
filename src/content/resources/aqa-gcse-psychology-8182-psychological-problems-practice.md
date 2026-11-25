@@ -12,8 +12,7 @@ syllabusSeries: "first teaching 2017"
 order: 2.4
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "psychological-problems-8182"
+    topic: "psychological-problems-8182"
 description: "Original practice questions with mark-scheme answers on AQA GCSE Psychology 8182 topic 3.2.4: mental health, depression, addiction and their treatments."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

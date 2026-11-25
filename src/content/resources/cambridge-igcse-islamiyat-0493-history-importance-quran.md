@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.2
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "history-importance-quran-0493"
+    topic: "history-importance-quran-0493"
 description: "Study guide to the revelation of the Qur'an (610–632), its compilation under Abu Bakr and Uthman, its use in law and its importance, for IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

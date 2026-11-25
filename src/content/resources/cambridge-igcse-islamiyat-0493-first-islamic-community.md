@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.4
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "first-islamic-community-0493"
+    topic: "first-islamic-community-0493"
 description: "The Prophet's wives, descendants and Imams, the Ten Blessed Companions, scribes, Emigrants, Helpers and the four caliphs, for Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

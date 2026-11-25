@@ -12,8 +12,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 781
 syllabusTopics:
   - qualification: "as-level"
-    topic: "managing-people-and-operations-aqa-aslevel-business"
-    subtopic: "people-management-aqa-aslevel-business"
+    topic: "people-management-aqa-aslevel-business"
 description: "Full study guide to AQA AS Business 7137 section 3.2.1 People management: HR planning, HR data, structures, leadership, motivation, rewards and relations."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

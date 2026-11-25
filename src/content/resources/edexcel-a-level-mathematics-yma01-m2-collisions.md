@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 4 of Unit M2: Mechanics 2 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. The statements are "Momentum as a vector. The impulse-momentum principle in vector form. Conservation of linear momentum", "Direct impact of elastic particles. Newton's law of restitution. Loss of mechanical energy due to impact", and "Successive impacts of up to three particles or two particles and a smooth plane surface". The guidance says you must "know and use the inequalities 0 ≤ e ≤ 1" and that "collision with a plane surface will not involve oblique impact".
+This guide covers section 4 of Unit M2: Mechanics 2 (WME02) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. The statements are "Momentum as a vector. The impulse-momentum principle in vector form. Conservation of linear momentum", "Direct impact of elastic particles. Newton's law of restitution. Loss of mechanical energy due to impact", and "Successive impacts of up to three particles or two particles and a smooth plane surface". The guidance says you must "know and use the inequalities 0 ≤ e ≤ 1" and that "collision with a plane surface will not involve oblique impact".
 
 The broader [work, energy, power and collisions guide](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the/) sets out the basic method for a direct impact. This guide concentrates on the parts that carry the hardest marks: impulse vectors, collisions with letters instead of numbers, using 0 ≤ e ≤ 1 to find a range, and deciding whether a further collision happens.
 

@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.1
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "major-themes-quran-2058"
+    topic: "major-themes-quran-2058"
 description: "Twelve original questions on the set Qur'an passages for Cambridge O Level Islamiyat 2058 Paper 1 Question 1, with themes, key Arabic words and marked answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

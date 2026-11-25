@@ -12,8 +12,7 @@ syllabusSeries: "first teaching 2017"
 order: 2.2
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "language-thought-communication-8182"
+    topic: "language-thought-communication-8182"
 description: "Original practice questions with mark-scheme answers on AQA GCSE Psychology 8182 topic 3.2.2: language and thought, animal communication and non-verbal behaviour."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

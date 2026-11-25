@@ -12,8 +12,7 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 787
 syllabusTopics:
   - qualification: "gcse"
-    topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-    subtopic: "finance-ocr-gcse-business"
+    topic: "finance-ocr-gcse-business"
 description: "Original practice questions with worked answers on Finance for OCR GCSE (9-1) Business J204: sources of finance, margins, ARR, break-even and cash flow."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

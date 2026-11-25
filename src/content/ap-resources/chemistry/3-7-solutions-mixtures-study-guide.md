@@ -138,8 +138,8 @@ Because n = M × V, molarity is a bridge to everything in Topic 1.1:
 <path d="M340 133 V91" stroke="#1d2b44" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#c7a)"/>
 <text x="202" y="22" text-anchor="middle" font-size="13" fill="#1d2b44">÷ molar mass</text>
 <text x="202" y="104" text-anchor="middle" font-size="13" fill="#1d2b44">× molar mass</text>
-<text x="437" y="22" text-anchor="middle" font-size="13" fill="#1d2b44">× N_A</text>
-<text x="437" y="104" text-anchor="middle" font-size="13" fill="#1d2b44">÷ N_A</text>
+<text x="437" y="22" text-anchor="middle" font-size="13" fill="#1d2b44">× N<tspan font-size="75%" dy="3">A</tspan></text>
+<text x="437" y="104" text-anchor="middle" font-size="13" fill="#1d2b44">÷ N<tspan font-size="75%" dy="3">A</tspan></text>
 <text x="292" y="114" text-anchor="end" font-size="13" fill="#1d2b44">÷ V (L)</text>
 <text x="348" y="114" text-anchor="start" font-size="13" fill="#1d2b44">× V (L)</text>
 <defs><marker id="c7a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>

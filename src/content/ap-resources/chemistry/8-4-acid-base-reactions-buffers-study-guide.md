@@ -83,19 +83,19 @@ So every mixing problem has the same shape. First do the **stoichiometry** in mo
 <text x="258" y="196" font-weight="600">Weak acid + its</text>
 <text x="258" y="212" font-weight="600">conjugate base left</text>
 <text x="258" y="228">(or B + HB⁺)</text>
-<text x="258" y="252">Buffer: pH from pK_a</text>
+<text x="258" y="252">Buffer: pH from pK<tspan font-size="75%" dy="3">a</tspan></text>
 <text x="258" y="268">and the ratio</text>
 <rect x="348" y="176" width="160" height="112" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="428" y="196" font-weight="600">Only A⁻ left</text>
 <text x="428" y="212">(equal moles weak</text>
 <text x="428" y="228">acid + strong base)</text>
-<text x="428" y="252">Use K_b</text>
+<text x="428" y="252">Use K<tspan font-size="75%" dy="3">b</tspan></text>
 <text x="428" y="268">pH above 7</text>
 <rect x="518" y="176" width="160" height="112" rx="6" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="598" y="196" font-weight="600">Only HB⁺ left</text>
 <text x="598" y="212">(equal moles weak</text>
 <text x="598" y="228">base + strong acid)</text>
-<text x="598" y="252">Use K_a</text>
+<text x="598" y="252">Use K<tspan font-size="75%" dy="3">a</tspan></text>
 <text x="598" y="268">pH below 7</text>
 </g>
 </svg>

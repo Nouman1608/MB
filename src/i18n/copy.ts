@@ -115,7 +115,9 @@ export const regionName = (locale: LocaleCode, region: string): string => REGION
 export const TIER_COLUMN_LABEL = { igcse: 'IGCSE/GCSE/O Level', aLevel: 'AS/A Level' } as const;
 export const PRICED_QUALIFICATIONS: readonly string[] = (Object.keys(TIER_COLUMN_LABEL) as (keyof typeof TIER_COLUMN_LABEL)[])
   .filter((tier) => REGION_PRICING.some((r) => Number.isFinite(r[tier])))
-  .flatMap((tier) => TIER_COLUMN_LABEL[tier].split('/'));
+  .flatMap((tier) => TIER_COLUMN_LABEL[tier].split('/'))
+  // D-533a: the list names "AS Level", not the bare "AS" left by splitting the "AS/A Level" column heading.
+  .map((q) => (q === 'AS' ? 'AS Level' : q));
 
 export interface LocaleCopy {
   htmlLang: string;

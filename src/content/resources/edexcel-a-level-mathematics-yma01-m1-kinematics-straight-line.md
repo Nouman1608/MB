@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 3 of Unit M1: Mechanics 1 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3: "Motion in a straight line with constant acceleration." The guidance says "graphical solutions may be required, including displacement-time, velocity-time, speed-time and acceleration-time graphs" and that "knowledge and use of formulae for constant acceleration will be required". The five constant acceleration formulae are on the list of formulae you must remember: they are not in the booklet.
+This guide covers section 3 of Unit M1: Mechanics 1 (WME01) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3: "Motion in a straight line with constant acceleration." The guidance says "graphical solutions may be required, including displacement-time, velocity-time, speed-time and acceleration-time graphs" and that "knowledge and use of formulae for constant acceleration will be required". The five constant acceleration formulae are on the list of formulae you must remember: they are not in the booklet.
 
 The broader [models, vectors and constant acceleration guide](/resources/edexcel-ial-mathematics-mathematical-models-vectors-in-mechanics-and-constant/) shows the basic use of these formulae. This guide concentrates on the harder question types: simultaneous equations from several stages, unknowns found from graph areas, all four kinds of graph, and time spent above a height.
 

@@ -9,21 +9,6 @@ qualifications: ["igcse"]
 syllabusCodes: ["0493"]
 syllabusSeries: "2026-2027"
 order: 2
-syllabusTopics:
-  - qualification: "igcse"
-    topic: "paper-2-0493"
-  - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "major-teachings-hadiths-0493"
-  - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "history-importance-hadiths-0493"
-  - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "rightly-guided-caliphs-0493"
-  - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "articles-faith-pillars-0493"
 description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 2 format: set Hadith, their compilation, Abu Bakr, angels and zakat, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

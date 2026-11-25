@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 8
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "population-and-employment-2059"
+    topic: "population-and-employment-2059"
 description: "Study guide to Section 8 of Cambridge O Level Pakistan Studies 2059 Paper 2: population growth and structure, migration, distribution, density and employment."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -291,6 +291,24 @@ for (const [oldTopic, newTopic] of [
   lines.push(`${pad(`${from}/`)}${to}  301`, `${pad(from)}${to}  301`);
 }
 
+// D-535d (25 Nov 2026) -- six thin courses now list the specification's numbered
+// sections as topics instead of two papers or units. Each old paper-level
+// flashcard topic page goes to that course's flashcard page.
+lines.push('', '# Flashcard topic pages replaced by numbered-section topics (D-535d)');
+for (const [course, oldTopics] of [
+  ['cambridge/igcse/islamiyat', ['paper-1-0493', 'paper-2-0493']],
+  ['cambridge/o-level/islamiyat', ['paper-1-2058', 'paper-2-2058']],
+  ['cambridge/o-level/pakistan-studies', ['paper-1-history-culture-2059', 'paper-2-environment-2059']],
+  ['aqa/gcse/psychology', ['paper-1-cognition-and-behaviour-8182', 'paper-2-social-context-and-behaviour-8182']],
+  ['ocr/gcse/business', ['business-activity-marketing-and-people-ocr-gcse-business', 'operations-finance-and-influences-on-business-ocr-gcse-business']],
+  ['aqa/as-level/business', ['what-is-business-managing-marketing-and-finance-aqa-aslevel-business', 'managing-people-and-operations-aqa-aslevel-business']],
+]) {
+  for (const oldTopic of oldTopics) {
+    const from = `/flashcards/${course}/${oldTopic}`;
+    const to = `/flashcards/${course}/`;
+    lines.push(`${pad(`${from}/`)}${to}  301`, `${pad(from)}${to}  301`);
+  }
+}
 lines.push('', '# Syllabus/specification-code discovery: /syllabus/<CODE>/ -> canonical hub (WS1)');
 for (const { code, hubPath } of codeEntries) {
   lines.push(`${pad(`/syllabus/${code}/`)}${hubPath}  301`);

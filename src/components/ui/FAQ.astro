@@ -6,17 +6,18 @@
  * text extraction no longer see a stray "+ −" after every question. The empty
  * alternative text after the slash also hides it from assistive tech.
  */
-interface Props { items: readonly { question: string; answer: string }[]; id?: string }
-const { items, id = 'faqs' } = Astro.props;
+interface Props { items: readonly { question: string; answer: string }[]; id?: string; format?: (text: string) => string }
+/* `format` (optional) returns ESCAPED HTML for question/answer, e.g. apSubscriptHtml for chemistry K_a -> K<sub>a</sub>. The data stays plain text, so JSON-LD is unaffected. */
+const { items, id = 'faqs', format } = Astro.props;
 ---
 {items.length > 0 && (
   <div id={id} class="border-t border-rule">
     {items.map((item) => (
       <details class="group border-b border-rule">
         <summary class="faq-summary flex cursor-pointer list-none items-baseline justify-between gap-4 py-5 text-[17.5px] font-semibold text-navy-800 marker:hidden">
-          {item.question}
+          {format ? <Fragment set:html={format(item.question)} /> : item.question}
         </summary>
-        <p class="m-0 max-w-[68ch] pb-6 text-[16.5px] leading-[1.7] text-ink-mute">{item.answer}</p>
+        <p class="m-0 max-w-[68ch] pb-6 text-[16.5px] leading-[1.7] text-ink-mute">{format ? <Fragment set:html={format(item.answer)} /> : item.answer}</p>
       </details>
     ))}
   </div>

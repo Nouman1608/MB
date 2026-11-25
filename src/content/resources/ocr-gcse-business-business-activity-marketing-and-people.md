@@ -12,7 +12,11 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 1
 syllabusTopics:
   - qualification: "gcse"
-    topic: "business-activity-marketing-and-people-ocr-gcse-business"
+    topic: "business-activity-ocr-gcse-business"
+  - qualification: "gcse"
+    topic: "marketing-ocr-gcse-business"
+  - qualification: "gcse"
+    topic: "people-ocr-gcse-business"
 description: "Business activity, marketing, and people -- the three sections of Component 1 (J204/01) for OCR GCSE Business (J204)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

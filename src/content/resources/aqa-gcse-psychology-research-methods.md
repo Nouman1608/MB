@@ -11,10 +11,9 @@ syllabusSeries: "First teaching September 2017"
 order: 2
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
+    topic: "research-methods-8182"
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "research-methods-8182"
+    topic: "data-handling-8182"
 description: "Guide to section 3.1.4 Research Methods in AQA GCSE Psychology (8182) Paper 1: hypotheses, variables, sampling, experimental designs, ethics and data handling."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

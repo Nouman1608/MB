@@ -12,9 +12,11 @@ type Props = SeoProps & {
   eyebrowMode?: 'learn' | 'review' | 'practice';
   heading: string;
   lead?: string;
+  /** Pre-escaped HTML for the lead (e.g. chemistry subscripts); plain `lead` stays the text/meta source. */
+  leadHtml?: string;
   headingFont?: 'display' | 'sans';
 };
-const { eyebrow, eyebrowMode, heading, lead, headingFont = 'display', ...seo } = Astro.props;
+const { eyebrow, eyebrowMode, heading, lead, leadHtml, headingFont = 'display', ...seo } = Astro.props;
 const headingClass = headingFont === 'display'
   ? 'font-display text-[length:var(--text-h1)] font-bold leading-[1.04] tracking-[-0.03em]'
   : 'font-display text-[clamp(2rem,1.5rem+2.2vw,3.125rem)] font-bold leading-[1.08] tracking-[-0.025em]';
@@ -29,7 +31,9 @@ const headingClass = headingFont === 'display'
         ? <p class={`m-0 mb-4 inline-flex items-center gap-2 rounded-full border px-3 py-1 mb-eyebrow ${MODE[eyebrowMode].tint} ${MODE[eyebrowMode].border} ${MODE[eyebrowMode].text}`}><ModeIcon kind={eyebrowMode} size={18} />{eyebrow}</p>
         : <p class="m-0 mb-4 mb-eyebrow text-teal-700">{eyebrow}</p>)}
       <h1 data-pagefind-weight="10" class={`m-0 max-w-[24ch] text-navy-800 ${headingClass}`}>{heading}</h1>
-      {lead && <p class="m-0 mt-6 max-w-[62ch] text-[length:var(--text-lead)] leading-[1.55] text-ink-mute">{lead}</p>}
+      {lead && (leadHtml
+        ? <p class="m-0 mt-6 max-w-[62ch] text-[length:var(--text-lead)] leading-[1.55] text-ink-mute" set:html={leadHtml} />
+        : <p class="m-0 mt-6 max-w-[62ch] text-[length:var(--text-lead)] leading-[1.55] text-ink-mute">{lead}</p>)}
       <slot name="hero-extra" />
     </Container>
   </section>

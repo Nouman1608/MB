@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 3 of Unit P3 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are three content statements:
+This guide covers section 3 of Unit P3 (WMA13) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are three content statements:
 
 - **3.1** "The function eˣ and its graph", including "the graph of y = e^(ax + b) + c"
 - **3.2** "The function ln x and its graph; ln x as the inverse function of eˣ", where "solution of equations of the form e^(ax + b) = p and ln(ax + b) = q is expected"

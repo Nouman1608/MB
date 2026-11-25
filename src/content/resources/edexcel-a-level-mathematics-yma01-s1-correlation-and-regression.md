@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 4 of **Unit S1: Statistics 1** in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3: "Scatter diagrams. Linear regression" (4.1); "Explanatory (independent) and response (dependent) variables. Applications and interpretations" (4.2); and "The product moment correlation coefficient, its use, interpretation and limitations" (4.3).
+This guide covers section 4 of **Unit S1: Statistics 1** (WST01) in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3: "Scatter diagrams. Linear regression" (4.1); "Explanatory (independent) and response (dependent) variables. Applications and interpretations" (4.2); and "The product moment correlation coefficient, its use, interpretation and limitations" (4.3).
 
 The guidance says the regression line is found by "the method of least squares", that predictions should be made "within the range of values of the explanatory variable", that students should know "the dangers of extrapolation", that "variables other than x and y may be used" and that "linear change of variable may be required". Derivations and significance tests are not required.
 

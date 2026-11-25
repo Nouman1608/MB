@@ -483,6 +483,8 @@ const apResources = defineCollection({
     seoTitle: z.string().max(60).optional(),
     /** One or two sentences; also the visible summary. */
     description: z.string().min(70).max(220),
+    /** D-532c: optional search-result snippet (meta description only), used instead of the cut description. Visible lead and JSON-LD keep `description`. */
+    seoDescription: z.string().min(70).max(160).optional(),
     /** Course slug from src/data/ap/frameworks.ts. */
     course: z.enum([
       'chemistry', 'biology', 'calculus-ab', 'calculus-bc', 'statistics', 'physics-1', 'physics-2',

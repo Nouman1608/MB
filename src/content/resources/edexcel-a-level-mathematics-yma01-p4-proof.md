@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 1 of Unit P4 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). The content statement is "proof by contradiction", and the guidance specifies that this includes "proof of the irrationality of √2 and the infinity of primes, and application to unfamiliar proofs".
+This guide covers section 1 of Unit P4 (WMA14) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). The content statement is "proof by contradiction", and the guidance specifies that this includes "proof of the irrationality of √2 and the infinity of primes, and application to unfamiliar proofs".
 
 Unit P4 assumes Units P1 to P3, so the methods from Unit P2 (proof by exhaustion, disproof by counter-example, and representing integers in algebra) are available inside a P4 proof; see the [P2 proof study guide](/resources/edexcel-a-level-mathematics-yma01-p2-proof/).
 

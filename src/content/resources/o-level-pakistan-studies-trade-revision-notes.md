@@ -11,8 +11,7 @@ syllabusSeries: "2026"
 order: 6
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "trade-2059"
+    topic: "trade-2059"
 description: "Revision notes on exports, imports, GDP versus GNP, the trade deficit, partners, blocs and exchange rates for Cambridge O Level Pakistan Studies 2059 Section 6."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

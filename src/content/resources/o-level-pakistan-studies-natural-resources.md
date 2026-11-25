@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 2
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "natural-resources-sustainability-2059"
+    topic: "natural-resources-sustainability-2059"
 description: "Water, forests, mineral resources and fish -- Section 2 of Paper 2 The Environment of Pakistan, Cambridge O Level Pakistan Studies (2059), 2026 series."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

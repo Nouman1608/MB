@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.3
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "life-prophet-0493"
+    topic: "life-prophet-0493"
 description: "Recall notes on the Prophet's (pbuh) life for 0493 Paper 1: timeline, Makkan opposition, the Madinan battles and treaties, lessons for today, and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

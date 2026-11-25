@@ -24,8 +24,8 @@ which one your child sits, and which papers are already done.
 
 **Pearson Edexcel International A Level is unit-based.** Each subject is split into units that
 can be sat in different exam series. In Mathematics (YMA01), for example, the full A Level is
-six units of 1 hour 30 minutes each: four Pure units (P1 to P4) and one pair of applied units,
-such as Mechanics 1 with Statistics 1. Science IALs have six units, three for the International
+six units of 1 hour 30 minutes each: four Pure units (P1 to P4, coded WMA11 to WMA14) and one pair of applied units,
+such as Mechanics 1 (WME01) with Statistics 1 (WST01). Science IALs have six units, three for the International
 AS and three more for the full A Level. Units can be resat to raise the overall grade.
 
 **Cambridge International AS & A Level is staged.** The AS papers can be taken at the end of

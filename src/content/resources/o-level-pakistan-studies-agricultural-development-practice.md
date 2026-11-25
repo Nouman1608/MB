@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 4
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "agricultural-development-2059"
+    topic: "agricultural-development-2059"
 description: "Two original 25-mark questions on farming systems, crops, irrigation and salinity, with mark schemes, for Cambridge O Level Pakistan Studies 2059 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

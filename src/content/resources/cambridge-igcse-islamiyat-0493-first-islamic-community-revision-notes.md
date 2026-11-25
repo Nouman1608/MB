@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.4
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "first-islamic-community-0493"
+    topic: "first-islamic-community-0493"
 description: "Who's who recall notes for 0493 Paper 1 Topic 4: family links, wives, children, Imams, the Ten Blessed, scribes, Emigrants and Helpers, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

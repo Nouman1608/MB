@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 2.4
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "articles-faith-pillars-2058"
+    topic: "articles-faith-pillars-2058"
 description: "Thirteen original questions on angels, prophets, the Last Day, shahada, prayer, zakat and hajj for Cambridge O Level Islamiyat 2058 Paper 2, with answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

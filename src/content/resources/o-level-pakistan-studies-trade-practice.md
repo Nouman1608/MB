@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 6
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "trade-2059"
+    topic: "trade-2059"
 description: "Two original 25-mark data questions on exports, imports, GDP, GNP and trading partners, with mark schemes, for Cambridge O Level Pakistan Studies 2059 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

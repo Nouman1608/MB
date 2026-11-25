@@ -11,8 +11,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 3.12
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
+    topic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
 description: "Study guide to AQA AS Business 7137 section 3.1.2: comparing business forms and co-operatives, share calculations, stakeholders and ethical responsibilities."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

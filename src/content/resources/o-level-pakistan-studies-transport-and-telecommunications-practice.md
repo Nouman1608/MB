@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 7
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "transport-and-telecommunications-2059"
+    topic: "transport-and-telecommunications-2059"
 description: "Two original 25-mark questions on transport networks, border routes, dry ports and telecoms, with mark schemes, for Cambridge O Level 2059 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -16902,3 +16902,78 @@ Owner's audit prompt of 25 Nov 2026 (02:10 PKT), items 11-28 and 40-50; full rec
 - **Translations (owner).** Approved: Bengali কোম্পানি, পাঁচশোটির, "যোগাযোগ ফর্মে যান"; Arabic about sentence "لا نصف إلا التدريس الذي يُقدَّم فعليًا."; /bn/tutoring/ H1 and description without নামধারী; Urdu "qualification" = کوالیفکیشن, Bengali = কোয়ালিফিকেশন; Urdu نامزد replaced on tutoring, about and editorial-policy text; the three trial button texts. All other new translations (region names, pricing notes, Bangladesh line, cookie banner, WhatsApp label) await native review.
 - **IB (owner).** Physics SL Paper 2 is 50 marks; the owner accepts the OneDrive IB guide and paper copies as sources (also for Global Politics, MYP criteria, Biology/Chemistry SL). MYP Language Acquisition eAssessment marks stay 32 per criterion (96 on screen), as in D-511: the owner reconfirmed the full guide's blueprint on 25 Nov 2026, so the brief's 24 is not used (an earlier change to 24 in this round was reverted before merge). No data booklet for Biology HL. IB trademark note on every IB page type. "Business" displays as "Business Management".
 - **SEO.** Worker: an old resource slug on www is one 301. Sitemap index children for practice and localized pages carry lastmod from real page dates (`src/utils/seo/sitemap-lastmod.ts`). Wikidata Q141667044 exists; footer link and sameAs kept.
+
+## D-531 - Owner decisions round 1: IB (25 Nov 2026, 05:59 PKT)
+
+Answers to the owner-decisions session (branch `owner-decisions-1`). Status: answered; implementation pending.
+
+- **D-531a Language A Paper 2 marks.** Change 25 to 30 on both DP Language A: Literature and Language and Literature. Sources: the public guides (OneDrive copies, updated May 2023) print "(30 marks)" and "Total 30 marks"; no source for 25 could be read (ibo.org returns 403). Supersedes D-509. Note that May 2026 criteria are on My IB only.
+- **D-531b DP Computer Science (2014).** `specStatus` becomes `withdrawn`, last assessment 2026, per the IB course page ("for last assessment in 2026"). Cambridge 0450 stays `legacy-teach-out`.
+- **D-531c MYP Individuals and Societies and MYP Mathematics.** Apply the corrected wording used for Design, Sciences and Language Acquisition (external moderation only for eAssessment/ePortfolio candidates; criterion rows `externallyModerated: false`), after checking the OneDrive MYP guides for each subject. If a guide says otherwise, keep what the guide says and record it.
+- **D-531d IB Maths AA SL 5.5 and 5.11.** Keep both. The AA guide prints SL5.5 "Definite integrals using technology" and SL5.11 "including analytical approach... some only by technology". No change.
+
+## D-532 - Owner decisions round 2: Global Politics and AP (25 Nov 2026, 06:10 PKT)
+
+Status: answered; implementation pending.
+
+- **D-532a Global Politics engagement project.** Fix "2,400 words at HL" in `ib-dp-global-politics-assessment-revision-notes.md`, `ib-dp-global-politics-syllabus-guide.md` and the flashcard in `src/data/flashcards/ib-ib-dp-global-politics.ts` to the guide's wording (2,000-word report; HL recommendation of 400 words or less, a separate section). Redraw the engagement-project figure under a NEW file name (the figure bucket serves a year-long immutable cache) and change the `<img src>`. The owner uploads it with `scripts/topic-figures/upload-figures.mjs`; the text fix merges only after the upload.
+- **D-532b Global Politics exam preparation.** Add the guide's per-question figures (P1 25 marks: 3/4/6/12; P2 30; HL P3 28: 3/4/6/15; engagement project 24 SL / 30 HL) to `ib-dp-global-politics-exam-preparation.md`, citing the guide.
+- **D-532c AP meta descriptions.** Add an optional `seoDescription` field to the AP resource schema; draft the 312 listed in `reports/audit3/A4-description-cuts-left.tsv` (unique, about 150 characters) for owner review. Nothing goes live until the owner approves the drafts.
+- **D-532d AP chemistry underscores.** Convert all 77 (24 SVG labels with `<tspan baseline-shift="sub">`, 31 descriptions/leads, 22 FAQs) following the 8.9 `<sub>` pattern; JSON-LD and meta stay plain text.
+
+## D-533 - Owner decisions round 3: languages and forms (25 Nov 2026, 06:20 PKT)
+
+Status: answered; implementation pending.
+
+- **D-533a Arabic homepage.** "AS" becomes "AS Level" in the Arabic qualification list (`src/i18n/copy.ts`), matching `src/i18n/pages/directories.ts`.
+- **D-533b Contact phone.** Stays required on the Arabic, Urdu and Bengali contact pages, as on the English contact page (kind `student`; `PHONE_REQUIRED_KINDS`). No change.
+- **D-533c Urdu 3247 poet.** Show "Aatish" (آتش) with a note that Cambridge's syllabus prints "Ahtish". Applies to the four files that name the poet (`o-level-cambridge-urdu-first-language-paper-2-texts.md`, `cambridge-o-level-urdu-language-3247-paper-2-poetry-essay.md` and its revision notes, `o-level-urdu-first-language-paper-2-texts-revision-notes.md`). The owner supersedes the C19 audit choice to keep the board's spelling.
+- **D-533d Singapore IB article.** Remove the 5 unsourceable passages; add the Language B and MYP Language Acquisition languages once the owner names them (STILL WAITING on the owner); place the article on the branch for review, not pushed.
+
+## D-534 - Owner decisions round 4: syllabus wording (25 Nov 2026, 06:35 PKT)
+
+Status: answered; implementation pending.
+
+- **D-534a Water potential on 4BI1.** Remove the term from the Edexcel IGCSE Biology 4BI1 pages and use water concentration wording instead, including the osmosis figures that use it. The Pearson 2017 specification never uses "water potential" (it says "diffusion, osmosis and active transport", 2.15). Files: `edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells.md` (+ revision notes), `edexcel-igcse-biology-4bi1-transport.md`, `edexcel-igcse-biology-exam-preparation.md`, the 4BI1 osmosis figure. Shared figure `igcse-shared-intl-osmosis.svg` is used by other boards and stays; its 4BI1 use is replaced if it shows the term.
+- **D-534b 0610 Core diagnostic.** Keep Paper 42 with the "Core content only" note. Note: June 2024 Paper 42 could not be found in the OneDrive Papers 2025 folder, so the source stays unverified by this session.
+- **D-534c O Level Economics 0455.** Cite 2281 if the Cambridge 2281 syllabus is confirmed to list the same five causes of market failure; otherwise use neutral wording ("those in the syllabus"). Six files.
+- **D-534d International A Level Maths unit codes.** Add the codes verified against Pearson's Issue 3 specification (WMA11-14, WME01/02, WST01/02, WFM01-03, WME03, WST03) to course pages that lack them; hold D1 (WDM11) until confirmed on Pearson's current page.
+
+## D-535 - Owner decisions round 5a: past papers and thin courses (25 Nov 2026, 06:45 PKT)
+
+Status: answered; implementation pending.
+
+- **D-535a Past papers rollout.** Cambridge IGCSE Chemistry 0620 only, end to end first (manifest `cambridge-igcse-chemistry-0620.json`, page section, sitemap, the per-course "We do not host any papers" line). The editorial-policy sentence was already reworded by D-472 (AUDIT-FIX-3 NEEDS OWNER 9 was stale on that point). Other courses wait until 0620 is proven.
+- **D-535b papers.marlbridge.com.** Use it. Owner connects the R2 custom domain (R2 > marlbridge-past-papers > Settings > Custom Domains). No file URL goes into a manifest until it works.
+- **D-535c Rights notes.** Claude drafts one factual line per board (copyright holder and file type, no claim of permission) in `PAST_PAPER_RIGHTS_NOTES`; owner confirms the permission basis before any file goes live. No price or legal-page change.
+- **D-535d Thin courses.** Pilot the content-led courses first (Islamiyat IGCSE and O Level, O Level Pakistan Studies, AQA GCSE Psychology, OCR GCSE Business, AQA AS Business), split from the specification PDFs as in D-470. Set-text English and IB courses wait.
+
+## D-536 - Owner decisions round 5b: content planning (25 Nov 2026, 06:55 PKT)
+
+Status: answered; implementation pending.
+
+- **D-536a Filler blocks.** Adopt the rule (one error block per page, at most one checklist, an FAQ may not repeat a bullet) with a warn-only validator in `audit:all`, with a baseline so only new pages are flagged. The "694 pages" figure is not in the repo; existing pages are re-measured first.
+- **D-536b Overview vs subtopic contradictions.** All subjects, by an automated comparison of marks, durations, paper counts and dates; report to the owner, no edits until reviewed.
+- **D-536c Economics 9708 topic 7 and the 60 shared practice links.** Review now on the branch; edit only exact duplicates, list the rest.
+- **D-536d Qur'an passages (2058 topic 1.1).** Claude drafts passage-by-passage notes citing surah, verse and the specification, with no new translation text, for the Islamiyat teacher's review. The owner confirms who the reviewer is (Azam Siddique is the only Islamiyat author profile; it records no Qur'an expertise).
+
+## D-537 - Owner decisions round 6: later dates and documents (25 Nov 2026, 07:10 PKT)
+
+Status: answered; reminders created in implementation.
+
+- **D-537a Reminders.** Scheduled reminders plus this note: check Cambridge November 2026 grade thresholds on 8 Jan 2027 (AS and A Level, results 7 Jan) and 15 Jan 2027 (IGCSE and O Level, results 14 Jan); check for Cambridge June 2027 key dates from 4 Jan 2027, repeating until published. Reminders only report. Where to edit: `src/data/academic/exam-calendar.ts` (`june-2027`, remove `partialNote` etc. when filled) and `src/data/academic/grade-thresholds.ts` (add `series: 'November 2026'` records).
+- **D-537b Other boards.** Edexcel first for command words and thresholds. WAITING ON OWNER: the Pearson PDFs (give a folder path). Nothing is added from memory.
+- **D-537c Region pages.** UAE / Dubai first. WAITING ON OWNER: official UAE source documents or links that can be opened.
+- **D-537d Singapore article languages.** The owner chose to type the languages for DP Language B and MYP Language Acquisition but had not typed them when the session ended. WAITING ON OWNER; until then the article leaves the languages sentence out.
+
+## D-538 - Board PDFs supplied (25 Nov 2026)
+
+Owner supplied `C:\Users\nouma\OneDrive - Learners Academy\new topicals\Board PDFs` (answers D-537b). Contents per its README: June 2025/2026 grade boundaries and thresholds for Pearson Edexcel (GCSE, International GCSE, International A Level, A Level), OCR, AQA, and all Cambridge June 2025 tables; starter command-word PDFs for AQA GCSE History and OCR GCSE Mathematics only; AP English Language CED. **No Edexcel command-word document is in the folder**, so Edexcel command words stay waiting on the owner. Edexcel June 2026 International GCSE and International A Level boundaries are used for the threshold work.
+
+## D-539 - Command-word PDFs supplied (25 Nov 2026)
+
+Owner supplied `...\new topicals\Board PDFs\Command Words`: Pearson Edexcel (IAL Business and Economics specifications with command words, IGCSE Biology 4BI1 getting-started guide, IGCSE Physics command words and exemplars), Cambridge IGCSE Biology 0610 syllabus, AQA GCSE History, OCR GCSE Mathematics, OxfordAQA IAL Computer Science 9645 and IGCSE English Language 9270, IB MYP command terms (school-hosted copy), AP English Language CED. Edexcel first, per D-537b.
+
+## D-540 - Owner decisions implemented on branch owner-decisions-1 (25 Nov 2026, 07:10 PKT)
+
+Implementation of D-531 to D-539 is on the local branch `owner-decisions-1`, not pushed. Record of what changed and deviations: `OWNER-DECISIONS-REPORT.md`. Deviations from the owner's answers: (1) MYP Individuals and Societies and MYP Mathematics do not get the eAssessment/ePortfolio moderation wording, because the IB guides do not support it for those subjects; (2) Edexcel thresholds were not added to the site (data model mismatch), only extracted; (3) the thin-course pilot restructured topics to the specification's numbered sections and wrote no new resource pages.

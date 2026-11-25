@@ -10,21 +10,6 @@ qualifications: ["gcse"]
 syllabusCodes: ["8182"]
 syllabusSeries: "first teaching 2017"
 order: 1
-syllabusTopics:
-  - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-  - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "memory-8182"
-  - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "perception-8182"
-  - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "development-8182"
-  - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "research-methods-8182"
 description: "Original exam-style practice questions with full worked answers on memory, perception, development and research methods."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

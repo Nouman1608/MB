@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.1
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "major-themes-quran-0493"
+    topic: "major-themes-quran-0493"
 description: "How to read the fifteen set Qur'an passages for 0493 Paper 1 Question 1: finding the theme, using key Arabic words and linking each one to Muslim life."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

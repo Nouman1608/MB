@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 8
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "history-importance-hadiths-0493"
+    topic: "history-importance-hadiths-0493"
 description: "Recall notes on Hadith compilation, isnad and matn tests, grades, the Sunni and Shi'a collections and sources of law for Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 3 of **Unit S1: Statistics 1** in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3: "Elementary probability" (3.1); "Sample space. Exclusive and complementary events. Conditional probability" (3.2); "Independence of two events" (3.3); and "Sum and product laws" (3.4), with "use of tree diagrams and Venn diagrams" and "sampling with and without replacement".
+This guide covers section 3 of **Unit S1: Statistics 1** (WST01) in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3: "Elementary probability" (3.1); "Sample space. Exclusive and complementary events. Conditional probability" (3.2); "Independence of two events" (3.3); and "Sum and product laws" (3.4), with "use of tree diagrams and Venn diagrams" and "sampling with and without replacement".
 
 The broader S1 guide on [probability, and correlation and regression](/resources/edexcel-ial-mathematics-probability-and-correlation-and-regression/) introduces each law with a two-event example. This page goes further: three-event Venn diagrams, algebraic problems where you must find a missing probability, reversing a conditional probability on a tree, and the proofs that sometimes appear as "show that" parts. Use the [probability revision notes](/resources/edexcel-a-level-mathematics-yma01-s1-probability-revision-notes/) for recall and the [probability practice set](/resources/edexcel-a-level-mathematics-yma01-s1-probability-practice/) to test yourself.
 

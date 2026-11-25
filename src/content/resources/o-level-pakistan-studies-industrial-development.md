@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 5
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "industrial-development-2059"
+    topic: "industrial-development-2059"
 description: "Study guide to Section 5 of Cambridge O Level Pakistan Studies 2059 Paper 2: industry terms, ten industries, formal and informal sectors, EPZs and tourism."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

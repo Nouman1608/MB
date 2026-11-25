@@ -12,8 +12,7 @@ syllabusSeries: "first teaching 2017"
 order: 1.4
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "research-methods-8182"
+    topic: "research-methods-8182"
 description: "Original practice questions on 3.1.4 Research Methods for AQA GCSE Psychology 8182: hypotheses, sampling, designs, ethics, calculations and a planning task."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

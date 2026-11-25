@@ -11,8 +11,7 @@ syllabusSeries: "first teaching 2017"
 order: 2.3
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "brain-and-neuropsychology-8182"
+    topic: "brain-and-neuropsychology-8182"
 description: "Study guide to AQA GCSE Psychology 8182 topic 3.2.3: nervous system, James-Lange, neurons and synapses, Hebb, brain lobes, Penfield, scans, Tulving and brain damage."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 6 of Unit P2 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are two content statements:
+This guide covers section 6 of Unit P2 (WMA12) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are two content statements:
 
 - **6.1** "Knowledge and use of tan θ = sin θ/cos θ and sin²θ + cos²θ = 1"
 - **6.2** "Solution of simple trigonometric equations in a given interval", in degrees or radians, including compound angles such as x + 30°, multiple angles such as 2x, and quadratics in sin x or cos x

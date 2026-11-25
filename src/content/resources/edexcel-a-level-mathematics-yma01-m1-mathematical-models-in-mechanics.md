@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 1 of Unit M1: Mechanics 1 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3: "The basic ideas of mathematical modelling as applied in Mechanics." The guidance lists the terms you must know: "particle, lamina, rigid body, rod (light, uniform, non-uniform), inextensible string, smooth and rough surface, light smooth pulley, bead, wire, peg", and adds that you "should be familiar with the assumptions made in using these models".
+This guide covers section 1 of Unit M1: Mechanics 1 (WME01) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3: "The basic ideas of mathematical modelling as applied in Mechanics." The guidance lists the terms you must know: "particle, lamina, rigid body, rod (light, uniform, non-uniform), inextensible string, smooth and rough surface, light smooth pulley, bead, wire, peg", and adds that you "should be familiar with the assumptions made in using these models".
 
 Modelling questions are usually short, often one or two marks at the end of a longer question. They are easy marks to lose, because a vague answer gets no credit. This guide shows exactly where each assumption changes your working.
 

@@ -12,8 +12,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 780
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "financial-management-aqa-aslevel-business"
+    topic: "financial-management-aqa-aslevel-business"
 description: "Condensed revision notes for AQA AS Business (7137) 3.1.4 financial management: formulas, methods, key distinctions and a self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

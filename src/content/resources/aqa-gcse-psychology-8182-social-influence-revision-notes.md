@@ -12,8 +12,7 @@ syllabusSeries: "first teaching 2017"
 order: 2.1
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "social-influence-8182"
+    topic: "social-influence-8182"
 description: "Condensed notes for AQA GCSE Psychology 8182 topic 3.2.1 Social influence: key terms, factor tables, Asch, Milgram, Adorno and Piliavin, and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
