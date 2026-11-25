@@ -52,8 +52,20 @@
  * and excluded here, with a direct link to the official PDF, which lists
  * every staged route in full. See STAGED_ASSESSMENT_NOTE below.
  *
+ * D-541 (25 Nov 2026): the model now carries a `board` field and a 9-to-1
+ * grade scale, and holds Pearson Edexcel International GCSE overall
+ * (whole-qualification) boundaries for June 2026, copied from Pearson's own
+ * "International GCSE (9-1) June 2026" grade-boundaries PDF. Every number was
+ * placed by its printed column position under the PDF's 9..1 header (this
+ * matters for 4MA1, where Foundation prints grades 5-1 and Higher 9-3 in one
+ * table). Edexcel IAL (unit-based, raw and UMS) is NOT included: out of scope
+ * until its unit structure is designed. Edexcel English Language B (4EB1) is
+ * not included either: the site's Edexcel English Language resources are all
+ * for 4EA1 (A). The Cambridge scope notes below apply to the Cambridge
+ * records only.
+ *
  * Scope, stated honestly (also stated on the page itself):
- * - Only the 5 flagship specs are covered, matching this programme's
+ * - Cambridge: only the 5 flagship specs are covered, matching this programme's
  *   established flagship-first strategy (see D-065 and onward). This
  *   workstream deepened coverage of these 5 specs; it did not add new
  *   boards, qualifications or series, per its own bounded scope.
@@ -66,7 +78,21 @@
  *   the vast majority of visitors actually want to check.
  */
 
-export type Grade = 'A*' | 'A' | 'B' | 'C' | 'D' | 'E' | 'F' | 'G' | 'a' | 'b' | 'c' | 'd' | 'e';
+export type Grade = 'A*' | 'A' | 'B' | 'C' | 'D' | 'E' | 'F' | 'G' | 'a' | 'b' | 'c' | 'd' | 'e'
+  // Pearson Edexcel International GCSE (9 to 1), D-541.
+  | '9' | '8' | '7' | '6' | '5' | '4' | '3' | '2' | '1';
+
+/** The exam board a record's numbers come from; it decides the grade scale (GRADE_SCALE_BY_BOARD). */
+export type ExamBoard = 'Cambridge' | 'Pearson Edexcel';
+
+/** Grades shown as table columns for each board, best to worst. Cambridge: A*-G plus the AS-only a-e; Edexcel IGCSE: 9 to 1. */
+export const GRADE_SCALE_BY_BOARD: Record<ExamBoard, readonly Grade[]> = {
+  Cambridge: ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b', 'c', 'd', 'e'],
+  'Pearson Edexcel': ['9', '8', '7', '6', '5', '4', '3', '2', '1'],
+};
+
+/** Board display order on the page and in the drop-down. */
+export const BOARD_ORDER: readonly ExamBoard[] = ['Cambridge', 'Pearson Edexcel'];
 
 export interface GradeThresholdRow {
   readonly combination: string;
@@ -75,6 +101,7 @@ export interface GradeThresholdRow {
 }
 
 export interface SyllabusGradeThresholds {
+  readonly board: ExamBoard;
   readonly code: string;
   readonly subjectLabel: string;
   readonly qualificationLabel: string;
@@ -87,6 +114,14 @@ export interface SyllabusGradeThresholds {
 
 const ALL_ROUTES_NOTE =
   'Every syllabus-level paper-combination route Cambridge published for this syllabus and series is shown below -- select your own exact combination by its component (paper) numbers rather than assuming a single representative route applies to you. See the official PDF to confirm which combination applies to your entry.';
+
+const EDEXCEL_SOURCE_URL = 'https://qualifications.pearson.com/en/support/support-topics/results-certification/grade-boundaries.html';
+
+const EDEXCEL_NOTE =
+  "These are Pearson's overall (whole-qualification) grade boundaries, in raw marks out of the maximum shown, for the June 2026 series. Each row is one paper combination exactly as Pearson prints it; select your own papers by their codes. A dash means Pearson publishes no boundary for that grade on that row. Pearson's document gives the overall boundaries only, not boundaries for individual papers. Grade U is below the lowest boundary shown.";
+
+const EDEXCEL_MATHS_TIER_NOTE =
+  'Foundation and Higher are different tiers and Pearson publishes different grades for each: the Foundation rows give boundaries for grades 5 to 1 only and the Higher rows give grades 9 to 3 only, so each tier shows dashes for the grades it does not award.';
 
 const STAGED_ASSESSMENT_NOTE =
   "This table covers every standard (single-series) route Cambridge published for this syllabus and series. It does NOT include \"staged assessment\" routes, where the AS papers were sat in an earlier series and the A2 papers in a later one -- Cambridge publishes roughly 20 further combination rows for that path, which this table does not reproduce. If you sat your papers in a staged (multi-series) pattern, use the official PDF linked below, which lists every staged route in full.";
@@ -119,9 +154,18 @@ const STAGED_ASSESSMENT_NOTE =
  * (series format, routes, mark sanity, sources). The page also fails the
  * build if two records share a code and series (thresholdProblems()).
  * A syllabus with no November 2026 PDF simply keeps June 2026 only.
+ *
+ * HOW TO ADD A PEARSON EDEXCEL INTERNATIONAL GCSE SERIES (D-541)
+ * Same shape with `board: 'Pearson Edexcel'`, thresholds keyed '9'..'1' (quoted
+ * strings; omit U and any grade Pearson does not print for that row), one row
+ * per printed paper combination, maxMark = the printed Max Mark. Match each
+ * number to its grade by its column under the 9..1 header, not by its order in
+ * the row: tiered rows (4MA1) print fewer numbers. Use the series' own PDF
+ * for officialSourceUrl if Pearson publishes one at a stable address.
  */
 export const GRADE_THRESHOLDS: readonly SyllabusGradeThresholds[] = [
   {
+    board: 'Cambridge',
     code: '0620',
     subjectLabel: 'Chemistry',
     qualificationLabel: 'IGCSE',
@@ -150,6 +194,7 @@ export const GRADE_THRESHOLDS: readonly SyllabusGradeThresholds[] = [
     verifiedOn: '2026-08-30',
   },
   {
+    board: 'Cambridge',
     code: '0625',
     subjectLabel: 'Physics',
     qualificationLabel: 'IGCSE',
@@ -178,6 +223,7 @@ export const GRADE_THRESHOLDS: readonly SyllabusGradeThresholds[] = [
     verifiedOn: '2026-08-30',
   },
   {
+    board: 'Cambridge',
     code: '0580',
     subjectLabel: 'Mathematics',
     qualificationLabel: 'IGCSE',
@@ -196,6 +242,7 @@ export const GRADE_THRESHOLDS: readonly SyllabusGradeThresholds[] = [
     verifiedOn: '2026-08-30',
   },
   {
+    board: 'Cambridge',
     code: '9701',
     subjectLabel: 'Chemistry',
     qualificationLabel: 'AS & A Level',
@@ -223,6 +270,7 @@ export const GRADE_THRESHOLDS: readonly SyllabusGradeThresholds[] = [
     verifiedOn: '2026-08-30',
   },
   {
+    board: 'Cambridge',
     code: '9702',
     subjectLabel: 'Physics',
     qualificationLabel: 'AS & A Level',
@@ -249,6 +297,176 @@ export const GRADE_THRESHOLDS: readonly SyllabusGradeThresholds[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/761526-physics-9702-june-2026-grade-threshold-table.pdf',
     verifiedOn: '2026-08-30',
   },
+  {
+    board: 'Pearson Edexcel',
+    code: '4AC1',
+    subjectLabel: 'Accounting',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 01 and 02', maxMark: 150, thresholds: { '9': 133, '8': 121, '7': 109, '6': 98, '5': 87, '4': 76, '3': 57, '2': 39, '1': 21 } },
+      { combination: 'Papers 01R and 02R', maxMark: 150, thresholds: { '9': 131, '8': 116, '7': 101, '6': 91, '5': 81, '4': 72, '3': 53, '2': 34, '1': 16 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4BI1',
+    subjectLabel: 'Biology',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 1B and 2B', maxMark: 180, thresholds: { '9': 142, '8': 127, '7': 112, '6': 97, '5': 82, '4': 67, '3': 55, '2': 43, '1': 32 } },
+      { combination: 'Papers 1BR and 2BR', maxMark: 180, thresholds: { '9': 146, '8': 131, '7': 117, '6': 104, '5': 92, '4': 80, '3': 64, '2': 49, '1': 34 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4BS1',
+    subjectLabel: 'Business',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 01 and 02', maxMark: 160, thresholds: { '9': 133, '8': 124, '7': 115, '6': 103, '5': 92, '4': 81, '3': 70, '2': 59, '1': 48 } },
+      { combination: 'Papers 01R and 02R', maxMark: 160, thresholds: { '9': 137, '8': 129, '7': 122, '6': 110, '5': 98, '4': 87, '3': 72, '2': 58, '1': 44 } },
+      { combination: 'Papers 1C and 2C', maxMark: 160, thresholds: { '9': 133, '8': 124, '7': 115, '6': 103, '5': 92, '4': 81, '3': 70, '2': 59, '1': 48 } },
+      { combination: 'Papers 1C and 02', maxMark: 160, thresholds: { '9': 133, '8': 124, '7': 115, '6': 103, '5': 92, '4': 81, '3': 70, '2': 59, '1': 48 } },
+      { combination: 'Papers 1CR and 2CR', maxMark: 160, thresholds: { '9': 137, '8': 129, '7': 122, '6': 110, '5': 98, '4': 87, '3': 72, '2': 58, '1': 44 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4CH1',
+    subjectLabel: 'Chemistry',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 1C and 2C', maxMark: 180, thresholds: { '9': 141, '8': 122, '7': 103, '6': 90, '5': 78, '4': 66, '3': 53, '2': 41, '1': 29 } },
+      { combination: 'Papers 1CR and 2CR', maxMark: 180, thresholds: { '9': 150, '8': 130, '7': 111, '6': 99, '5': 88, '4': 77, '3': 61, '2': 46, '1': 31 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4EC1',
+    subjectLabel: 'Economics',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 01 and 02', maxMark: 160, thresholds: { '9': 122, '8': 112, '7': 102, '6': 93, '5': 85, '4': 77, '3': 64, '2': 51, '1': 38 } },
+      { combination: 'Papers 01R and 02R', maxMark: 160, thresholds: { '9': 121, '8': 111, '7': 101, '6': 94, '5': 87, '4': 81, '3': 69, '2': 57, '1': 45 } },
+      { combination: 'Papers 1C and 2C', maxMark: 160, thresholds: { '9': 122, '8': 112, '7': 102, '6': 93, '5': 85, '4': 77, '3': 64, '2': 51, '1': 38 } },
+      { combination: 'Papers 1CR and 2CR', maxMark: 160, thresholds: { '9': 121, '8': 111, '7': 101, '6': 94, '5': 87, '4': 81, '3': 69, '2': 57, '1': 45 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4EA1',
+    subjectLabel: 'English Language A',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 01 and 02', maxMark: 150, thresholds: { '9': 113, '8': 105, '7': 98, '6': 88, '5': 78, '4': 69, '3': 51, '2': 34, '1': 17 } },
+      { combination: 'Papers 01 and 03', maxMark: 150, thresholds: { '9': 123, '8': 115, '7': 108, '6': 97, '5': 87, '4': 77, '3': 59, '2': 41, '1': 24 } },
+      { combination: 'Papers 01R and 02R', maxMark: 150, thresholds: { '9': 116, '8': 108, '7': 100, '6': 91, '5': 82, '4': 73, '3': 54, '2': 35, '1': 17 } },
+      { combination: 'Papers 01R and 03', maxMark: 150, thresholds: { '9': 126, '8': 118, '7': 110, '6': 100, '5': 90, '4': 80, '3': 61, '2': 42, '1': 24 } },
+      { combination: 'Papers 01 and 03T', maxMark: 150, thresholds: { '9': 123, '8': 115, '7': 108, '6': 97, '5': 87, '4': 77, '3': 59, '2': 41, '1': 24 } },
+      { combination: 'Papers 01R and 03T', maxMark: 150, thresholds: { '9': 126, '8': 118, '7': 110, '6': 100, '5': 90, '4': 80, '3': 61, '2': 42, '1': 24 } },
+      { combination: 'Papers 1C and 2C', maxMark: 150, thresholds: { '9': 113, '8': 105, '7': 98, '6': 88, '5': 78, '4': 69, '3': 51, '2': 34, '1': 17 } },
+      { combination: 'Papers 02 and 1C', maxMark: 150, thresholds: { '9': 113, '8': 105, '7': 98, '6': 88, '5': 78, '4': 69, '3': 51, '2': 34, '1': 17 } },
+      { combination: 'Papers 01 and 2C', maxMark: 150, thresholds: { '9': 113, '8': 105, '7': 98, '6': 88, '5': 78, '4': 69, '3': 51, '2': 34, '1': 17 } },
+      { combination: 'Papers 03 and 1C', maxMark: 150, thresholds: { '9': 123, '8': 115, '7': 108, '6': 97, '5': 87, '4': 77, '3': 59, '2': 41, '1': 24 } },
+      { combination: 'Papers 1CR and 2CR', maxMark: 150, thresholds: { '9': 116, '8': 108, '7': 100, '6': 91, '5': 82, '4': 73, '3': 54, '2': 35, '1': 17 } },
+      { combination: 'Papers 03 and 1CR', maxMark: 150, thresholds: { '9': 126, '8': 118, '7': 110, '6': 100, '5': 90, '4': 80, '3': 61, '2': 42, '1': 24 } },
+      { combination: 'Papers 03T and 1C', maxMark: 150, thresholds: { '9': 123, '8': 115, '7': 108, '6': 97, '5': 87, '4': 77, '3': 59, '2': 41, '1': 24 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4ET1',
+    subjectLabel: 'English Literature',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 01 and 02', maxMark: 150, thresholds: { '9': 121, '8': 113, '7': 106, '6': 93, '5': 81, '4': 69, '3': 52, '2': 36, '1': 20 } },
+      { combination: 'Papers 01 and 03', maxMark: 150, thresholds: { '9': 125, '8': 116, '7': 108, '6': 96, '5': 84, '4': 72, '3': 55, '2': 38, '1': 22 } },
+      { combination: 'Papers 01R and 02R', maxMark: 150, thresholds: { '9': 123, '8': 115, '7': 108, '6': 94, '5': 81, '4': 68, '3': 51, '2': 35, '1': 19 } },
+      { combination: 'Papers 01R and 03', maxMark: 150, thresholds: { '9': 127, '8': 118, '7': 109, '6': 96, '5': 84, '4': 72, '3': 55, '2': 38, '1': 22 } },
+      { combination: 'Papers 01 and 03T', maxMark: 150, thresholds: { '9': 125, '8': 116, '7': 108, '6': 96, '5': 84, '4': 72, '3': 55, '2': 38, '1': 22 } },
+      { combination: 'Papers 1C and 2C', maxMark: 150, thresholds: { '9': 121, '8': 113, '7': 106, '6': 93, '5': 81, '4': 69, '3': 52, '2': 36, '1': 20 } },
+      { combination: 'Papers 02 and 1C', maxMark: 150, thresholds: { '9': 121, '8': 113, '7': 106, '6': 93, '5': 81, '4': 69, '3': 52, '2': 36, '1': 20 } },
+      { combination: 'Papers 01 and 2C', maxMark: 150, thresholds: { '9': 121, '8': 113, '7': 106, '6': 93, '5': 81, '4': 69, '3': 52, '2': 36, '1': 20 } },
+      { combination: 'Papers 03 and 1C', maxMark: 150, thresholds: { '9': 125, '8': 116, '7': 108, '6': 96, '5': 84, '4': 72, '3': 55, '2': 38, '1': 22 } },
+      { combination: 'Papers 1CR and 2CR', maxMark: 150, thresholds: { '9': 123, '8': 115, '7': 108, '6': 94, '5': 81, '4': 68, '3': 51, '2': 35, '1': 19 } },
+      { combination: 'Papers 03 and 1CR', maxMark: 150, thresholds: { '9': 127, '8': 118, '7': 109, '6': 96, '5': 84, '4': 72, '3': 55, '2': 38, '1': 22 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4HI1',
+    subjectLabel: 'History',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 01 and 02', maxMark: 120, thresholds: { '9': 99, '8': 91, '7': 83, '6': 74, '5': 66, '4': 58, '3': 43, '2': 28, '1': 14 } },
+      { combination: 'Papers 01R and 02R', maxMark: 120, thresholds: { '9': 94, '8': 84, '7': 75, '6': 66, '5': 57, '4': 49, '3': 36, '2': 24, '1': 12 } },
+      { combination: 'Papers 1C and 2C', maxMark: 120, thresholds: { '9': 99, '8': 91, '7': 83, '6': 74, '5': 66, '4': 58, '3': 43, '2': 28, '1': 14 } },
+      { combination: 'Papers 1C and 02', maxMark: 120, thresholds: { '9': 99, '8': 91, '7': 83, '6': 74, '5': 66, '4': 58, '3': 43, '2': 28, '1': 14 } },
+      { combination: 'Papers 1CR and 2CR', maxMark: 120, thresholds: { '9': 94, '8': 84, '7': 75, '6': 66, '5': 57, '4': 49, '3': 36, '2': 24, '1': 12 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4MA1',
+    subjectLabel: 'Mathematics A',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Foundation (Papers 1F and 2F)', maxMark: 200, thresholds: { '5': 148, '4': 125, '3': 90, '2': 56, '1': 22 } },
+      { combination: 'Higher (Papers 1H and 2H)', maxMark: 200, thresholds: { '9': 165, '8': 138, '7': 111, '6': 87, '5': 64, '4': 41, '3': 29 } },
+      { combination: 'Foundation (Papers 1FR and 2FR)', maxMark: 200, thresholds: { '5': 147, '4': 125, '3': 90, '2': 55, '1': 21 } },
+      { combination: 'Higher (Papers 1HR and 2HR)', maxMark: 200, thresholds: { '9': 171, '8': 145, '7': 119, '6': 94, '5': 69, '4': 45, '3': 33 } },
+    ],
+    note: `${EDEXCEL_NOTE} ${EDEXCEL_MATHS_TIER_NOTE}`,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
+  {
+    board: 'Pearson Edexcel',
+    code: '4PH1',
+    subjectLabel: 'Physics',
+    qualificationLabel: 'IGCSE',
+    series: 'June 2026',
+    rows: [
+      { combination: 'Papers 1P and 2P', maxMark: 180, thresholds: { '9': 138, '8': 121, '7': 105, '6': 94, '5': 83, '4': 72, '3': 60, '2': 49, '1': 38 } },
+      { combination: 'Papers 1PR and 2PR', maxMark: 180, thresholds: { '9': 134, '8': 116, '7': 99, '6': 88, '5': 77, '4': 67, '3': 56, '2': 45, '1': 35 } },
+    ],
+    note: EDEXCEL_NOTE,
+    officialSourceUrl: EDEXCEL_SOURCE_URL,
+    verifiedOn: '2026-11-25',
+  },
 ] as const;
 
 const SERIES_MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
@@ -262,6 +480,7 @@ export function seriesSortKey(series: string): number {
 }
 
 export interface SyllabusThresholdGroup {
+  readonly board: ExamBoard;
   readonly code: string;
   readonly subjectLabel: string;
   readonly qualificationLabel: string;
@@ -274,7 +493,7 @@ export function thresholdsByCode(list: readonly SyllabusGradeThresholds[] = GRAD
   const codes = [...new Set(list.map((g) => g.code))];
   return codes.map((code) => {
     const records = list.filter((g) => g.code === code).sort((a, b) => seriesSortKey(b.series) - seriesSortKey(a.series));
-    return { code, subjectLabel: records[0].subjectLabel, qualificationLabel: records[0].qualificationLabel, records };
+    return { board: records[0].board, code, subjectLabel: records[0].subjectLabel, qualificationLabel: records[0].qualificationLabel, records };
   });
 }
 
@@ -297,9 +516,12 @@ export function thresholdProblems(list: readonly SyllabusGradeThresholds[] = GRA
     seen.add(key);
     if (seriesSortKey(g.series) === 0) out.push(`${key}: series is not "<Month> <YYYY>"`);
   }
+  for (const g of list) {
+    if (!(BOARD_ORDER as readonly string[]).includes(g.board)) out.push(`${g.code} ${g.series}: board "${g.board}" is not one of ${BOARD_ORDER.join(', ')}`);
+  }
   const labels = new Map<string, string>();
   for (const g of list) {
-    const l = `${g.qualificationLabel} ${g.subjectLabel}`;
+    const l = `${g.board} ${g.qualificationLabel} ${g.subjectLabel}`;
     if (labels.has(g.code) && labels.get(g.code) !== l) out.push(`${g.code}: labelled "${labels.get(g.code)}" and "${l}" in different records`);
     labels.set(g.code, l);
   }

@@ -555,6 +555,43 @@ withMutation(
   },
 );
 
+// D-541: Pearson Edexcel 9-1 scale and the board field.
+withMutation(
+  'src/data/academic/grade-thresholds.ts',
+  (text) => text.replace(
+    "{ combination: 'Papers 01 and 02', maxMark: 150, thresholds: { '9': 133, '8': 121,",
+    "{ combination: 'Papers 01 and 02', maxMark: 150, thresholds: { '9': 120, '8': 121,",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-grade-thresholds.mjs',
+    expectSubstring: 'is not strictly lower than the preceding',
+    label: 'Edexcel IGCSE Accounting (4AC1) with grade 8 above grade 9 (9-1 order broken) is rejected',
+  },
+);
+
+withMutation(
+  'src/data/academic/grade-thresholds.ts',
+  (text) => text.replace(/board: 'Pearson Edexcel',(\r?\n\s*)code: '4AC1',/, "board: 'Edexcel',$1code: '4AC1',"),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-grade-thresholds.mjs',
+    expectSubstring: 'missing or not one of',
+    label: "A grade-threshold record with an unknown board ('Edexcel') is rejected",
+  },
+);
+
+withMutation(
+  'src/data/academic/grade-thresholds.ts',
+  (text) => text.replace(
+    "{ combination: 'Core (Components 11, 31, 61)', maxMark: 200, thresholds: { C: 107, D: 90, E: 73, F: 56, G: 39 } },",
+    "{ combination: 'Core (Components 11, 31, 61)', maxMark: 200, thresholds: { '6': 107, '5': 90, '4': 73, '3': 56, '2': 39 } },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-grade-thresholds.mjs',
+    expectSubstring: 'is not on the Cambridge grade scale',
+    label: 'A Cambridge row using the Edexcel 9-1 grade keys is rejected',
+  },
+);
+
 console.log('\n[Y] Post-v2.0 Quality Closure WS8 — Practice-bank validator catches a flagship file that silently parses to zero questions');
 
 withMutation(

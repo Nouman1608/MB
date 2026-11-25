@@ -32,19 +32,30 @@
  *   [7] One record per syllabus and series (thresholdProblems in
  *       grade-thresholds.ts; audit 3 item 44).
  *
+ *   [8] Board required and consistent with the grade scale (D-541) -- every
+ *       record names its exam board; Cambridge rows use A*-G / a-e keys and
+ *       Pearson Edexcel rows use the 9-1 keys, never a mix.
+ *
  * Run as part of `npm run validate:academic`. Exits 1 on any problem.
  */
-import { GRADE_THRESHOLDS, thresholdProblems } from '../src/data/academic/grade-thresholds.ts';
+import { GRADE_THRESHOLDS, GRADE_SCALE_BY_BOARD, BOARD_ORDER, thresholdProblems } from '../src/data/academic/grade-thresholds.ts';
 
 const A_LEVEL_ORDER = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G'];
 const AS_ORDER = ['a', 'b', 'c', 'd', 'e'];
-const VALID_GRADE_KEYS = new Set([...A_LEVEL_ORDER, ...AS_ORDER]);
+const NUMERIC_ORDER = ['9', '8', '7', '6', '5', '4', '3', '2', '1'];
+const VALID_GRADE_KEYS = new Set([...A_LEVEL_ORDER, ...AS_ORDER, ...NUMERIC_ORDER]);
 const SERIES_PATTERN = /^(January|March|May\/June|June|October\/November|November)\s\d{4}$/;
 
 const problems = [];
 
 for (const syllabus of GRADE_THRESHOLDS) {
   const id = `${syllabus.code} (${syllabus.qualificationLabel} ${syllabus.subjectLabel})`;
+
+  // [8] Board required
+  if (!BOARD_ORDER.includes(syllabus.board)) {
+    problems.push(`[8] ${id}: board "${syllabus.board}" missing or not one of ${BOARD_ORDER.join(', ')}.`);
+  }
+  const boardScale = new Set(GRADE_SCALE_BY_BOARD[syllabus.board] ?? []);
 
   // [1] Series format
   if (!SERIES_PATTERN.test(syllabus.series)) {
@@ -84,11 +95,18 @@ for (const syllabus of GRADE_THRESHOLDS) {
     // assuming from the row's label -- avoids inferring purpose from a name.
     const usesAsScale = gradeKeys.some((k) => AS_ORDER.includes(k));
     const usesALevelScale = gradeKeys.some((k) => A_LEVEL_ORDER.includes(k));
-    if (usesAsScale && usesALevelScale) {
-      problems.push(`[5] ${rowId}: mixes A-Level-scale (A*-G) and AS-only-scale (a-e) grade keys in the same row -- these are two different scales and must not be mixed.`);
+    const usesNumericScale = gradeKeys.some((k) => NUMERIC_ORDER.includes(k));
+    if ([usesAsScale, usesALevelScale, usesNumericScale].filter(Boolean).length > 1) {
+      problems.push(`[5] ${rowId}: mixes grade scales (A*-G, AS-only a-e, numeric 9-1) in the same row -- these are different scales and must not be mixed.`);
       continue;
     }
-    const order = usesAsScale ? AS_ORDER : A_LEVEL_ORDER;
+    // [8] The row's keys must belong to its record's board scale (a numeric key under Cambridge, or A*-G under Edexcel, is a mislabelled board).
+    for (const key of gradeKeys) {
+      if (VALID_GRADE_KEYS.has(key) && boardScale.size > 0 && !boardScale.has(key)) {
+        problems.push(`[8] ${rowId}: grade key "${key}" is not on the ${syllabus.board} grade scale.`);
+      }
+    }
+    const order = usesNumericScale ? NUMERIC_ORDER : usesAsScale ? AS_ORDER : A_LEVEL_ORDER;
 
     // [4] Mark-basis sanity: each present threshold is a positive integer
     // <= maxMark, and present thresholds are strictly decreasing in

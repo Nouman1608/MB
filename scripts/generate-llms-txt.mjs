@@ -289,7 +289,7 @@ const lines = [
   '',
   '## Free exam tools',
   '',
-  `- [Grade threshold explorer](${SITE_URL}/grade-thresholds/): Cambridge grade boundaries by syllabus, with the official tables they come from.`,
+  `- [Grade threshold explorer](${SITE_URL}/grade-thresholds/): Cambridge and Pearson Edexcel grade boundaries by syllabus, with the official tables they come from.`,
   `- [Exam calendar](${SITE_URL}/exam-calendar/): Cambridge entry deadlines, exam windows and results days for the next series, from Cambridge's own key-dates documents.`,
   `- [Command words](${SITE_URL}/command-words/): what each exam command word (describe, explain, evaluate and others) asks the student to do.`,
   `- [Syllabus updates](${SITE_URL}/syllabus-updates/): changes to syllabuses and specifications between exam years.`,
