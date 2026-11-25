@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 3 of Unit M2: Mechanics 2 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3: "Kinetic and potential energy, work and power. The work-energy principle. The principle of conservation of mechanical energy." The guidance adds that "problems involving motion under a constant resistance and/or up and down an inclined plane may be set". Kinetic energy ½mv² and potential energy mgh are on the list of formulae you must know.
+This guide covers section 3 of Unit M2: Mechanics 2 (WME02) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3: "Kinetic and potential energy, work and power. The work-energy principle. The principle of conservation of mechanical energy." The guidance adds that "problems involving motion under a constant resistance and/or up and down an inclined plane may be set". Kinetic energy ½mv² and potential energy mgh are on the list of formulae you must know.
 
 The broader [work, energy, power and collisions guide](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the/) introduces each idea. This guide goes deeper into the two most common long question types: a particle that goes up a rough slope and comes back down, and a vehicle working at a given power.
 

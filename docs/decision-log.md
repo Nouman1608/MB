@@ -16969,3 +16969,7 @@ Status: answered; reminders created in implementation.
 ## D-538 - Board PDFs supplied (25 Nov 2026)
 
 Owner supplied `C:\Users\nouma\OneDrive - Learners Academy\new topicals\Board PDFs` (answers D-537b). Contents per its README: June 2025/2026 grade boundaries and thresholds for Pearson Edexcel (GCSE, International GCSE, International A Level, A Level), OCR, AQA, and all Cambridge June 2025 tables; starter command-word PDFs for AQA GCSE History and OCR GCSE Mathematics only; AP English Language CED. **No Edexcel command-word document is in the folder**, so Edexcel command words stay waiting on the owner. Edexcel June 2026 International GCSE and International A Level boundaries are used for the threshold work.
+
+## D-539 - Command-word PDFs supplied (25 Nov 2026)
+
+Owner supplied `...\new topicals\Board PDFs\Command Words`: Pearson Edexcel (IAL Business and Economics specifications with command words, IGCSE Biology 4BI1 getting-started guide, IGCSE Physics command words and exemplars), Cambridge IGCSE Biology 0610 syllabus, AQA GCSE History, OCR GCSE Mathematics, OxfordAQA IAL Computer Science 9645 and IGCSE English Language 9270, IB MYP command terms (school-hosted copy), AP English Language CED. Edexcel first, per D-537b.

@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 6 of Unit M1: Mechanics 1 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3: "Moment of a force", with the guidance "simple problems involving coplanar parallel forces acting on a body and conditions for equilibrium in such situations". In M1 every force in a moments question is parallel to every other, so in practice they are vertical forces on a horizontal rod or beam. Rods at an angle with non-parallel forces, such as ladders, come later in M2.
+This guide covers section 6 of Unit M1: Mechanics 1 (WME01) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3: "Moment of a force", with the guidance "simple problems involving coplanar parallel forces acting on a body and conditions for equilibrium in such situations". In M1 every force in a moments question is parallel to every other, so in practice they are vertical forces on a horizontal rod or beam. Rods at an angle with non-parallel forces, such as ladders, come later in M2.
 
 The broader [momentum, equilibrium and moments guide](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and/) shows a uniform rod on two supports. This guide adds the resultant moment of several forces, non-uniform rods, tilting problems, and rods hanging from strings.
 

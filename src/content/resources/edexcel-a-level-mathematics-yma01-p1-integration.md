@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 5, Integration, of **Unit P1: Pure Mathematics 1** in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3, April 2019. In P1, integration means **indefinite** integration of powers of x, as the reverse of differentiation. Definite integrals and areas under curves are introduced in Pure Mathematics 2, and ∫x⁻¹ dx is excluded because it needs logarithms.
+This guide covers section 5, Integration, of **Unit P1: Pure Mathematics 1** (WMA11) in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3, April 2019. In P1, integration means **indefinite** integration of powers of x, as the reverse of differentiation. Definite integrals and areas under curves are introduced in Pure Mathematics 2, and ∫x⁻¹ dx is excluded because it needs logarithms.
 
 Use it with the [P1 integration revision notes](/resources/edexcel-a-level-mathematics-yma01-p1-integration-revision-notes/) and the [P1 integration practice questions](/resources/edexcel-a-level-mathematics-yma01-p1-integration-practice/). Differentiation, which this section reverses, is in the [P1 differentiation study guide](/resources/edexcel-a-level-mathematics-yma01-p1-differentiation/), and the whole unit in the [Pure Mathematics 1 study guide](/resources/a-level-edexcel-mathematics-pure-mathematics-1/).
 

@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 3 of Unit P2 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3): "coordinate geometry of the circle using the equation of a circle in the form (x − a)² + (y − b)² = r²", including use of three circle properties:
+This guide covers section 3 of Unit P2 (WMA12) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3): "coordinate geometry of the circle using the equation of a circle in the form (x − a)² + (y − b)² = r²", including use of three circle properties:
 
 - the angle in a semicircle is a right angle
 - the perpendicular from the centre to a chord bisects the chord

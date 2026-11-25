@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 4 of Unit P4: Pure Mathematics 4 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. The specification asks for the "Binomial Series for any rational n", and its guidance adds that you should be able to expand (ax + b)ⁿ for |x| < b/a and expand rational functions "by decomposition into partial fractions".
+This guide covers section 4 of Unit P4: Pure Mathematics 4 (WMA14) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. The specification asks for the "Binomial Series for any rational n", and its guidance adds that you should be able to expand (ax + b)ⁿ for |x| < b/a and expand rational functions "by decomposition into partial fractions".
 
 In Pure Mathematics 2 the power n was a positive integer, so the expansion stopped. In P4, n can be negative or a fraction. The series then never stops, and it only works for some values of x. Those two facts are behind most of the marks in this topic.
 

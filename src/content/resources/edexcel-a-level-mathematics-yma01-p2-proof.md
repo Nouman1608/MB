@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 1 of Unit P2 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). The specification asks students to "understand and use the structure of mathematical proof, proceeding from given assumptions through a series of logical steps to a conclusion", using two named methods: **proof by exhaustion** and **disproof by counter example**.
+This guide covers section 1 of Unit P2 (WMA12) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). The specification asks students to "understand and use the structure of mathematical proof, proceeding from given assumptions through a series of logical steps to a conclusion", using two named methods: **proof by exhaustion** and **disproof by counter example**.
 
 The [Unit P2 study guide](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) places proof within the whole unit, and the [guide to proof, the factor theorem and circles](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the/) works through consecutive-integer and remainder proofs. This page goes further on the one skill both methods depend on: building an argument an examiner can follow line by line, with a case list that is provably complete. When you have read it, test yourself with the [P2 proof revision notes](/resources/edexcel-a-level-mathematics-yma01-p2-proof-revision-notes/) and the [P2 proof practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-proof-practice/).
 

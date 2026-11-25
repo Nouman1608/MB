@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 6 of Unit P3 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are two content statements:
+This guide covers section 6 of Unit P3 (WMA13) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are two content statements:
 
 - **6.1** "Location of roots of f(x) = 0 by considering changes of sign of f(x) in an interval of x in which f(x) is continuous"
 - **6.2** "Approximate solution of equations using simple iterative methods, including recurrence relations of the form xₙ₊₁ = f(xₙ)", where the guidance adds that "leads will be given"

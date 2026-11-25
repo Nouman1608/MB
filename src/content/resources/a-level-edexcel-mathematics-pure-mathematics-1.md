@@ -24,7 +24,7 @@ publishedDate: 2026-08-21
 featured: false
 ---
 
-This guide covers **Unit P1: Pure Mathematics 1**, for Pearson Edexcel
+This guide covers **Unit P1: Pure Mathematics 1** (WMA11), for Pearson Edexcel
 International Advanced Subsidiary/Advanced Level Mathematics (YMA01),
 Specification Issue 3, the first pure mathematics unit a candidate meets.
 

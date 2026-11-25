@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 4, Differentiation, of **Unit P1: Pure Mathematics 1** in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3, April 2019. P1 differentiation is deliberately narrow: powers of x and their sums, the meaning of the derivative, second derivatives, and tangents and normals. Stationary points, increasing and decreasing functions, and the chain, product and quotient rules all belong to later units.
+This guide covers section 4, Differentiation, of **Unit P1: Pure Mathematics 1** (WMA11) in Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01), Specification Issue 3, April 2019. P1 differentiation is deliberately narrow: powers of x and their sums, the meaning of the derivative, second derivatives, and tangents and normals. Stationary points, increasing and decreasing functions, and the chain, product and quotient rules all belong to later units.
 
 Use it with the [P1 differentiation revision notes](/resources/edexcel-a-level-mathematics-yma01-p1-differentiation-revision-notes/) and the [P1 differentiation practice questions](/resources/edexcel-a-level-mathematics-yma01-p1-differentiation-practice/). The whole unit is summarised in the [Pure Mathematics 1 study guide](/resources/a-level-edexcel-mathematics-pure-mathematics-1/), and the reverse process is in the [P1 integration study guide](/resources/edexcel-a-level-mathematics-yma01-p1-integration/).
 

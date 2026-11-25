@@ -23,7 +23,7 @@ publishedDate: 2026-09-01
 featured: false
 ---
 
-This guide covers **Unit P2: Pure Mathematics 2**, for Pearson Edexcel
+This guide covers **Unit P2: Pure Mathematics 2** (WMA12), for Pearson Edexcel
 International Advanced Subsidiary/Advanced Level Mathematics (YMA01),
 Specification Issue 3. YMA01 is modular: the six externally-assessed
 units that lead to the full International A Level are the four

@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 5 of Unit M1: Mechanics 1 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. The three statements are "Forces treated as vectors. Resolution of forces", "Equilibrium of a particle under coplanar forces. Weight, normal reaction, tension and thrust, friction", and "Coefficient of friction", with the guidance "an understanding of F ≤ μR in a situation of equilibrium". The specification also says that "only simple cases of the application of the conditions for equilibrium to uncomplicated systems will be required".
+This guide covers section 5 of Unit M1: Mechanics 1 (WME01) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. The three statements are "Forces treated as vectors. Resolution of forces", "Equilibrium of a particle under coplanar forces. Weight, normal reaction, tension and thrust, friction", and "Coefficient of friction", with the guidance "an understanding of F ≤ μR in a situation of equilibrium". The specification also says that "only simple cases of the application of the conditions for equilibrium to uncomplicated systems will be required".
 
 The broader [momentum, equilibrium and moments guide](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and/) covers a particle on two strings and on rough horizontal ground. This guide focuses on inclined planes, deciding whether a particle will move, and finding the range of a force that keeps a particle at rest.
 

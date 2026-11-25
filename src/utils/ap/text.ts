@@ -62,6 +62,13 @@ export function apMetaDescription(description: string, max = SNIPPET_MAX): strin
 }
 
 /**
+ * D-532c -- the meta description for an AP resource page: the hand-written `seoDescription`
+ * when the frontmatter has one, else the automatic cut of the description above.
+ */
+export const apPageMetaDescription = (description: string, seoDescription?: string): string =>
+  seoDescription?.replace(/s+/g, ' ').trim() || apMetaDescription(description);
+
+/**
  * Audit 3, item 28 -- chemistry subscripts in frontmatter text (key points, objectives,
  * prerequisites, calculator note), which the page prints as plain text. Same pattern as
  * the Markdown bodies (Topic 8.9 revision notes): K_a -> K<sub>a</sub>, P_CO₂ ->

@@ -105,7 +105,7 @@ export const DECK_IB_IB_DP_GLOBAL_POLITICS: FlashcardDeck = {
       { n: 3, f: 'What are the three emphases of the HL extension?', b: 'Interconnection of challenges; the complexities and tensions in addressing them; a solution-oriented focus. (HL only)' },
       { n: 4, f: 'What is the structure of Paper 3?', b: '1 hour 30 minutes, 28 marks, 30% of the HL grade, from a stimulus (text, data, diagrams or infographics).\nQ1 (3, AO2) analyse the stimulus; Q2a (4, AO2) analyse an issue; Q2b (6, AO3) recommend a course of action; Q3 (15, AO3) synthesise and evaluate your researched cases. (HL only)' },
       { n: 5, f: 'What should a case file for the HL extension contain?', b: 'What is happening (dates, place, actors, stakeholders); data and its validity; causes and impacts at each level; responses and how each actor interprets the issue; topic areas touched; key concepts; your judgement on what worked and why. (HL only)' },
-      { n: 6, f: 'What extra does the HL engagement project require?', b: 'HL students carry out further research and formulate a recommendation addressing the political issue, assessed by an extra criterion (F: Recommendation). The HL report is up to 2,400 words; SL is up to 2,000. (HL only)' },
+      { n: 6, f: 'What extra does the HL engagement project require?', b: 'HL students carry out further research and formulate a recommendation addressing the political issue, assessed by an extra criterion (F: Recommendation). The report is up to 2,000 words at both SL and HL; the HL recommendation is a separate section of 400 words or less. (HL only)' },
     ]),
   ],
 };

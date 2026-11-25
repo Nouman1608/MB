@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 3 of Unit P4: Pure Mathematics 4 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. The specification statement is short: "Parametric equations of curves and conversion between cartesian and parametric forms." This one statement is the base for parametric differentiation in section 5 and for parametric areas and volumes in section 6. Weak conversion skills cost marks in all three.
+This guide covers section 3 of Unit P4: Pure Mathematics 4 (WMA14) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3. The specification statement is short: "Parametric equations of curves and conversion between cartesian and parametric forms." This one statement is the base for parametric differentiation in section 5 and for parametric areas and volumes in section 6. Weak conversion skills cost marks in all three.
 
 ## What the specification asks for
 

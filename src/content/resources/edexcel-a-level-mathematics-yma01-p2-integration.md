@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers section 8 of Unit P2 in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are three content statements:
+This guide covers section 8 of Unit P2 (WMA12) in the Pearson Edexcel International Advanced Level Mathematics specification (YMA01, Issue 3). There are three content statements:
 
 - **8.1** "Evaluation of definite integrals"
 - **8.2** "Interpretation of the definite integral as the area under a curve", including the area of "a region bounded by a curve and given straight lines" and "a region bounded by two curves"; ∫x dy "will not be required"
