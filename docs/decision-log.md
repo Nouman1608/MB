@@ -16956,3 +16956,12 @@ Status: answered; implementation pending.
 - **D-536b Overview vs subtopic contradictions.** All subjects, by an automated comparison of marks, durations, paper counts and dates; report to the owner, no edits until reviewed.
 - **D-536c Economics 9708 topic 7 and the 60 shared practice links.** Review now on the branch; edit only exact duplicates, list the rest.
 - **D-536d Qur'an passages (2058 topic 1.1).** Claude drafts passage-by-passage notes citing surah, verse and the specification, with no new translation text, for the Islamiyat teacher's review. The owner confirms who the reviewer is (Azam Siddique is the only Islamiyat author profile; it records no Qur'an expertise).
+
+## D-537 - Owner decisions round 6: later dates and documents (25 Nov 2026, 07:10 PKT)
+
+Status: answered; reminders created in implementation.
+
+- **D-537a Reminders.** Scheduled reminders plus this note: check Cambridge November 2026 grade thresholds on 8 Jan 2027 (AS and A Level, results 7 Jan) and 15 Jan 2027 (IGCSE and O Level, results 14 Jan); check for Cambridge June 2027 key dates from 4 Jan 2027, repeating until published. Reminders only report. Where to edit: `src/data/academic/exam-calendar.ts` (`june-2027`, remove `partialNote` etc. when filled) and `src/data/academic/grade-thresholds.ts` (add `series: 'November 2026'` records).
+- **D-537b Other boards.** Edexcel first for command words and thresholds. WAITING ON OWNER: the Pearson PDFs (give a folder path). Nothing is added from memory.
+- **D-537c Region pages.** UAE / Dubai first. WAITING ON OWNER: official UAE source documents or links that can be opened.
+- **D-537d Singapore article languages.** The owner chose to type the languages for DP Language B and MYP Language Acquisition but had not typed them when the session ended. WAITING ON OWNER; until then the article leaves the languages sentence out.
