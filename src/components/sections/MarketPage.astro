@@ -14,6 +14,11 @@
  * boards taught, not as the most relevant ones. A market that lists OCR shows
  * the one-to-one-only fee (D-335), as /uk/ does. A market with `timeZones`
  * (Europe) gets one row per zone instead of the single-offset table.
+ *
+ * D7 (owner, audit round 3, 25 Nov 2026) -- PRICING_TERMS.teacherAvailability
+ * ("Teachers are available 24 hours a day, 7 days a week ...") is no longer
+ * used here: the class-times paragraph uses groupClassTimes, and the trial
+ * section states the real reply hours (enquiryResponse.summary, D-346).
  */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../layout/Section.astro';
@@ -180,7 +185,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
           <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Class times: {place} and Lahore time</h2>
           <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
             Every class is taught live from Lahore (UTC+5), which keeps the same time all year. {place} is {diffText}: {m.timeZoneLabel}.
-            The table shows where a 5:00 pm class falls in Lahore in each time zone. {PRICING_TERMS.teacherAvailability} The actual time is agreed with you before the first class.
+            The table shows where a 5:00 pm class falls in Lahore in each time zone. {PRICING_TERMS.groupClassTimes} The actual time is agreed with you before the first class.
           </p>
           <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
             <table class="w-full min-w-[640px] border-collapse text-[15px]">
@@ -211,7 +216,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
           <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Class times: {m.name === 'United Arab Emirates' ? 'UAE' : m.name} time and Lahore time</h2>
           <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
             Every class is taught live from Lahore (UTC+5). {m.name === 'United Arab Emirates' ? 'The UAE' : m.name} is on {m.timeZoneLabel}, {diffText}.
-            The table shows where common after-school times fall in Lahore. {PRICING_TERMS.teacherAvailability} The actual time is agreed with you before the first class.
+            The table shows where common after-school times fall in Lahore. {PRICING_TERMS.groupClassTimes} The actual time is agreed with you before the first class.
           </p>
           <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
             <table class="w-full min-w-[360px] max-w-[520px] border-collapse text-[15px]">
@@ -305,6 +310,8 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
           </li>
         ))}
       </ol>
+      {/* D7 (owner, audit round 3) -- the real reply hours, in place of the old "24 hours a day, 7 days a week" sentence. */}
+      <p class="m-0 mt-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">{PRICING_TERMS.enquiryResponse.summary}</p>
     </Container>
   </Section>
 

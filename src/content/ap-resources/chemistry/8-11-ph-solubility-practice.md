@@ -51,7 +51,7 @@ Dilute nitric acid is added to four beakers. Each contains water and some undiss
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** CO₃²⁻ is the conjugate base of the weak acid HCO₃⁻, so it is a base. H₃O⁺ converts it to HCO₃⁻ (and then to CO₂ and water). [CO₃²⁻] falls, Q = [Ba²⁺][CO₃²⁻] drops below K_sp, and more BaCO₃ dissolves.
+**Answer: (C).** CO₃²⁻ is the conjugate base of the weak acid HCO₃⁻, so it is a base. H₃O⁺ converts it to HCO₃⁻ (and then to CO₂ and water). [CO₃²⁻] falls, Q = [Ba²⁺][CO₃²⁻] drops below K<sub>sp</sub>, and more BaCO₃ dissolves.
 
 - (A), (B) and (D): I⁻, Br⁻ and Cl⁻ are conjugate bases of strong acids. They do not accept a proton, so the acid cannot remove them and Q does not change. Choosing one of these assumes that acid dissolves every salt.
 </details>
@@ -61,56 +61,56 @@ Dilute nitric acid is added to four beakers. Each contains water and some undiss
 Which statement best explains why Mg(OH)₂ is more soluble in a buffer at pH 4 than in a buffer at pH 10?
 
 - (A) Mg²⁺ reacts with H₃O⁺, so [Mg²⁺] falls and more solid dissolves.
-- (B) H₃O⁺ reacts with OH⁻ to form water, so Q = [Mg²⁺][OH⁻]² falls below K_sp and more solid dissolves.
-- (C) K_sp of Mg(OH)₂ is larger at low pH, so more solid can dissolve.
+- (B) H₃O⁺ reacts with OH⁻ to form water, so Q = [Mg²⁺][OH⁻]² falls below K<sub>sp</sub> and more solid dissolves.
+- (C) K<sub>sp</sub> of Mg(OH)₂ is larger at low pH, so more solid can dissolve.
 - (D) H₃O⁺ is a common ion, so it shifts the equilibrium towards the dissolved ions.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** At pH 4, [OH⁻] is very low because H₃O⁺ and OH⁻ combine to form water. Removing a product of Mg(OH)₂(s) ⇌ Mg²⁺(aq) + 2 OH⁻(aq) lowers Q below K_sp, so the equilibrium shifts to the right.
+**Answer: (B).** At pH 4, [OH⁻] is very low because H₃O⁺ and OH⁻ combine to form water. Removing a product of Mg(OH)₂(s) ⇌ Mg²⁺(aq) + 2 OH⁻(aq) lowers Q below K<sub>sp</sub>, so the equilibrium shifts to the right.
 
 - (A) Mg²⁺ is not the ion that reacts with the acid. The proton goes to the hydroxide.
-- (C) K_sp depends only on temperature. The pH changes the solubility, not the constant.
+- (C) K<sub>sp</sub> depends only on temperature. The pH changes the solubility, not the constant.
 - (D) H₃O⁺ is not an ion of Mg(OH)₂, so it cannot be a common ion; and a common ion would lower the solubility, not raise it.
 </details>
 
 ## Question 3 (multiple choice · core)
 
-The fictional salt (BH)Y is only slightly soluble. BH⁺ is the conjugate acid of a weak base B (pK_a of BH⁺ = 9.2). Y⁻ is the conjugate base of a strong acid. A saturated solution of (BH)Y with excess solid is at pH 7. NaOH is added until the pH is 11. Which statement describes the result?
+The fictional salt (BH)Y is only slightly soluble. BH⁺ is the conjugate acid of a weak base B (pK<sub>a</sub> of BH⁺ = 9.2). Y⁻ is the conjugate base of a strong acid. A saturated solution of (BH)Y with excess solid is at pH 7. NaOH is added until the pH is 11. Which statement describes the result?
 
 - (A) The solubility decreases, because OH⁻ is a common ion.
 - (B) The solubility does not change, because Y⁻ does not react with OH⁻.
-- (C) The solubility increases, because K_sp of (BH)Y increases at high pH.
-- (D) The solubility increases, because OH⁻ converts BH⁺ to B, so Q falls below K_sp.
+- (C) The solubility increases, because K<sub>sp</sub> of (BH)Y increases at high pH.
+- (D) The solubility increases, because OH⁻ converts BH⁺ to B, so Q falls below K<sub>sp</sub>.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (D).** BH⁺ + OH⁻ → B + H₂O removes the cation. Q = [BH⁺][Y⁻] falls below K_sp, so more (BH)Y dissolves. At pH 11 the pH is above the pK_a of BH⁺ (9.2), so most of the dissolved BH⁺ is converted to B.
+**Answer: (D).** BH⁺ + OH⁻ → B + H₂O removes the cation. Q = [BH⁺][Y⁻] falls below K<sub>sp</sub>, so more (BH)Y dissolves. At pH 11 the pH is above the pK<sub>a</sub> of BH⁺ (9.2), so most of the dissolved BH⁺ is converted to B.
 
 - (A) OH⁻ is not an ion of (BH)Y, so it is not a common ion. That reasoning applies to a hydroxide such as Mg(OH)₂.
 - (B) is true about Y⁻ but ignores the cation, which **is** a weak acid.
-- (C) K_sp does not depend on pH.
+- (C) K<sub>sp</sub> does not depend on pH.
 </details>
 
 ## Question 4 (multiple choice · core)
 
-Two fictional salts, MA and MD, are both only slightly soluble. HA is a weak acid with pK_a = 3.0; HD is a weak acid with pK_a = 9.0. Each salt is stirred with a buffer at pH 12.0 and, separately, with a buffer at pH 6.0. Which statement is correct?
+Two fictional salts, MA and MD, are both only slightly soluble. HA is a weak acid with pK<sub>a</sub> = 3.0; HD is a weak acid with pK<sub>a</sub> = 9.0. Each salt is stirred with a buffer at pH 12.0 and, separately, with a buffer at pH 6.0. Which statement is correct?
 
 - (A) Both salts are much more soluble at pH 6.0 than at pH 12.0.
 - (B) MD is much more soluble at pH 6.0 than at pH 12.0, but the solubility of MA hardly changes.
 - (C) MA is much more soluble at pH 6.0 than at pH 12.0, but the solubility of MD hardly changes.
-- (D) Neither salt's solubility changes, because K_sp values are constant.
+- (D) Neither salt's solubility changes, because K<sub>sp</sub> values are constant.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Compare the pH with each pK_a. For HD, pH 6.0 is three units **below** pK_a 9.0, so the acid form dominates: about 99.9% of any D⁻ that dissolves is converted to HD. D⁻ is removed and much more MD dissolves. For HA, pH 6.0 is three units **above** pK_a 3.0, so the base form dominates: only about 0.1% of A⁻ is converted to HA. Almost no A⁻ is removed, and MA dissolves to about the same extent as at pH 12.
+**Answer: (B).** Compare the pH with each pK<sub>a</sub>. For HD, pH 6.0 is three units **below** pK<sub>a</sub> 9.0, so the acid form dominates: about 99.9% of any D⁻ that dissolves is converted to HD. D⁻ is removed and much more MD dissolves. For HA, pH 6.0 is three units **above** pK<sub>a</sub> 3.0, so the base form dominates: only about 0.1% of A⁻ is converted to HA. Almost no A⁻ is removed, and MA dissolves to about the same extent as at pH 12.
 
-- (A) ignores the difference between the two pK_a values. A⁻ is too weak a base to be protonated much at pH 6.
-- (C) has the two salts the wrong way round. The weaker the acid HX (the higher its pK_a), the stronger the base X⁻.
-- (D) K_sp is constant, but the solubility can still change when an ion is removed.
+- (A) ignores the difference between the two pK<sub>a</sub> values. A⁻ is too weak a base to be protonated much at pH 6.
+- (C) has the two salts the wrong way round. The weaker the acid HX (the higher its pK<sub>a</sub>), the stronger the base X⁻.
+- (D) K<sub>sp</sub> is constant, but the solubility can still change when an ion is removed.
 </details>
 
 ## Question 5 (constructed response · core)
@@ -131,9 +131,9 @@ A student studies the fictional salt GT₂, which dissolves as GT₂(s) ⇌ G²�
 
 **(a)** Mass dissolved = 1.000 g − mass recovered: 0.102 g at pH 3.0, 0.012 g at pH 5.0, 0.010 g at pH 7.0 and 0.009 g at pH 9.0. The mass dissolved is about the same at pH 7.0 and 9.0 and perhaps slightly higher at pH 5.0 (that 0.002 g difference is close to the precision of the balance, so it is weak evidence). At pH 3.0 it is about ten times larger. Overall, GT₂ is more soluble in more acidic solutions.
 
-**(b)** The weak base is **T⁻** (G²⁺ is a metal cation). T⁻(aq) + H₃O⁺(aq) → HT(aq) + H₂O(l). At low pH, H₃O⁺ converts T⁻ into HT, lowering [T⁻]. Q = [G²⁺][T⁻]² falls below K_sp, so the dissolving equilibrium shifts to the right and more GT₂ dissolves. The lower the pH, the more T⁻ is removed.
+**(b)** The weak base is **T⁻** (G²⁺ is a metal cation). T⁻(aq) + H₃O⁺(aq) → HT(aq) + H₂O(l). At low pH, H₃O⁺ converts T⁻ into HT, lowering [T⁻]. Q = [G²⁺][T⁻]² falls below K<sub>sp</sub>, so the dissolving equilibrium shifts to the right and more GT₂ dissolves. The lower the pH, the more T⁻ is removed.
 
-**(c)** The claim is **not supported**. The masses recovered at pH 7.0 and 9.0 differ by 0.001 g, which is the precision of the balance. The difference is within measurement uncertainty, so the data show no real change between pH 7.0 and 9.0. This also fits the chemistry: once the pH is well above the pK_a of HT, almost no T⁻ is removed.
+**(c)** The claim is **not supported**. The masses recovered at pH 7.0 and 9.0 differ by 0.001 g, which is the precision of the balance. The difference is within measurement uncertainty, so the data show no real change between pH 7.0 and 9.0. This also fits the chemistry: once the pH is well above the pK<sub>a</sub> of HT, almost no T⁻ is removed.
 
 **(d)** NaT supplies T⁻, a **common ion**. The extra T⁻ would raise Q and lower the solubility of GT₂ (Topic 7.12), so the measured masses would mix the common-ion effect with the pH effect.
 
@@ -141,7 +141,7 @@ A student studies the fictional salt GT₂, which dissolves as GT₂(s) ⇌ G²�
 |---|---|
 | 1 | (a) Correct masses dissolved, or a correct description of the trend that quotes values |
 | 1 | (b) Identifies T⁻ as the weak base and writes T⁻ + H₃O⁺ → HT + H₂O |
-| 1 | (b) Links removal of T⁻ to Q < K_sp **and** a shift towards dissolved ions |
+| 1 | (b) Links removal of T⁻ to Q < K<sub>sp</sub> **and** a shift towards dissolved ions |
 | 1 | (c) Rejects the claim because the 0.001 g difference is within the balance precision |
 | 1 | (d) Identifies T⁻ from NaT as a common ion that lowers the solubility |
 
@@ -161,7 +161,7 @@ A marble statue is made of calcium carbonate, CaCO₃. Over many years, acidic r
 
 **(a)** CaCO₃(s) + 2 H₃O⁺(aq) → Ca²⁺(aq) + CO₂(g) + 3 H₂O(l)
 
-**(b)** In water, CaCO₃(s) ⇌ Ca²⁺(aq) + CO₃²⁻(aq). CO₃²⁻ is a base: H₃O⁺ converts it to HCO₃⁻ and then H₂CO₃, which breaks down to CO₂ and water. Removing CO₃²⁻ lowers Q below K_sp, so more CaCO₃ dissolves to restore equilibrium. The CO₂ escapes as a gas, so the carbonate is not returned to the solution, and the process keeps going while acid is present.
+**(b)** In water, CaCO₃(s) ⇌ Ca²⁺(aq) + CO₃²⁻(aq). CO₃²⁻ is a base: H₃O⁺ converts it to HCO₃⁻ and then H₂CO₃, which breaks down to CO₂ and water. Removing CO₃²⁻ lowers Q below K<sub>sp</sub>, so more CaCO₃ dissolves to restore equilibrium. The CO₂ escapes as a gas, so the carbonate is not returned to the solution, and the process keeps going while acid is present.
 
 **(c)** The claim is **incorrect**. Cl⁻ is a spectator ion; it does not react with CaCO₃ or its ions. What dissolves the carbonate is H₃O⁺, which removes CO₃²⁻. Nitric acid also supplies H₃O⁺ (and its NO₃⁻ is a spectator too), so it dissolves CaCO₃ in the same way.
 
@@ -169,7 +169,7 @@ A marble statue is made of calcium carbonate, CaCO₃. Over many years, acidic r
 |---|---|
 | 1 | (a) Correct species and balancing, with CO₂ and water as products (H⁺ in place of H₃O⁺ is acceptable if balanced: CaCO₃ + 2 H⁺ → Ca²⁺ + CO₂ + H₂O) |
 | 1 | (b) States that H₃O⁺ removes CO₃²⁻ (as HCO₃⁻, H₂CO₃ or CO₂) |
-| 1 | (b) Links the lower [CO₃²⁻] to Q < K_sp or a shift to the right, so more solid dissolves |
+| 1 | (b) Links the lower [CO₃²⁻] to Q < K<sub>sp</sub> or a shift to the right, so more solid dissolves |
 | 1 | (c) Rejects the claim: H₃O⁺ (present in both acids) does the work, Cl⁻ and NO₃⁻ are spectators |
 
 The escape of CO₂ is a good extra detail but is not needed for full credit in (b).
@@ -192,18 +192,18 @@ A student has a dry mixture of two white solids: silver chloride, AgCl, and magn
 3. Add sodium hydroxide solution to the filtrate until it is basic. A white solid forms. Filter it off and dry it: this is Mg(OH)₂.
 
 **(b) Reasons.**
-- Step 1: H₃O⁺ reacts with OH⁻ (H₃O⁺ + OH⁻ → 2 H₂O). This lowers Q for Mg(OH)₂ below K_sp, so Mg(OH)₂ dissolves as Mg²⁺(aq). Overall: Mg(OH)₂(s) + 2 H₃O⁺(aq) → Mg²⁺(aq) + 4 H₂O(l).
+- Step 1: H₃O⁺ reacts with OH⁻ (H₃O⁺ + OH⁻ → 2 H₂O). This lowers Q for Mg(OH)₂ below K<sub>sp</sub>, so Mg(OH)₂ dissolves as Mg²⁺(aq). Overall: Mg(OH)₂(s) + 2 H₃O⁺(aq) → Mg²⁺(aq) + 4 H₂O(l).
 - AgCl does not dissolve: Cl⁻ is the conjugate base of a strong acid, so H₃O⁺ does not remove it. NO₃⁻ is not a common ion. Q for AgCl is unchanged, and the solubility stays very low.
-- Step 3: added OH⁻ neutralises the excess acid and then raises [OH⁻]. Q = [Mg²⁺][OH⁻]² rises above K_sp, so Mg(OH)₂ precipitates.
+- Step 3: added OH⁻ neutralises the excess acid and then raises [OH⁻]. Q = [Mg²⁺][OH⁻]² rises above K<sub>sp</sub>, so Mg(OH)₂ precipitates.
 
 **(c)** The claim is **incorrect**. H₃O⁺ does not react with Ag⁺ or Cl⁻, so the acid cannot remove an ion of AgCl. Hydrochloric acid also adds Cl⁻, a **common ion**, which makes AgCl slightly **less** soluble. HCl would work at least as well as HNO₃ for this separation.
 
 | Point | What earns it |
 |---|---|
 | 1 | Uses acid to dissolve Mg(OH)₂ and filtration to collect AgCl |
-| 1 | Explains that H₃O⁺ removes OH⁻, so Q < K_sp and Mg(OH)₂ dissolves |
+| 1 | Explains that H₃O⁺ removes OH⁻, so Q < K<sub>sp</sub> and Mg(OH)₂ dissolves |
 | 1 | Explains that AgCl is unaffected because Cl⁻ is the conjugate base of a strong acid |
-| 1 | Recovers Mg(OH)₂ by adding base to the filtrate, explained by Q > K_sp |
+| 1 | Recovers Mg(OH)₂ by adding base to the filtrate, explained by Q > K<sub>sp</sub> |
 | 1 | Rejects the classmate's claim, using the common-ion effect of Cl⁻ |
 
 Accept any sensible order of filtering and washing steps. Do not award the second point for "acid dissolves bases" without naming the ion that is removed.
@@ -212,8 +212,8 @@ Accept any sensible order of filtering and washing steps. Do not award the secon
 ## How did you do?
 
 - **Q1 or Q3 wrong:** re-read "Which salts are sensitive to pH?" in the [study guide](/advanced-course-resources/chemistry/8-11-ph-solubility-study-guide/) and check each ion before deciding.
-- **Q2 or Q6 incomplete:** your explanation needs all three steps: the ion removed, Q compared with K_sp, and the direction of the shift.
-- **Q4 wrong:** revise the link between pH, pK_a and the predominant form (Topic 8.7).
+- **Q2 or Q6 incomplete:** your explanation needs all three steps: the ion removed, Q compared with K<sub>sp</sub>, and the direction of the shift.
+- **Q4 wrong:** revise the link between pH, pK<sub>a</sub> and the predominant form (Topic 8.7).
 - **Q5 or Q7 incomplete:** practise reading data against the precision of the balance (Worked example 2) and remember the common-ion effect from Topic 7.12.
 
 Then tick off the [topic checklist](/advanced-course-resources/chemistry/8-11-ph-solubility-checklist/).

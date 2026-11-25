@@ -18,6 +18,7 @@ import {
 import { qualificationBySlug } from '../../../data/academic/qualifications';
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
+import IbTrademarkNote from '../../../components/ib/IbTrademarkNote.astro';
 
 export async function getStaticPaths() {
   return qualificationsWithCombinations().map((qualificationSlug) => ({ params: { qualification: qualificationSlug } }));
@@ -117,4 +118,5 @@ const faq = faqNode(faqs);
     buttonLabel="Find Learning Support"
     buttonHref={routes.tutoring}
   />
+  {(qualificationSlug as string).startsWith('ib-') && <IbTrademarkNote />}
 </PageLayout>

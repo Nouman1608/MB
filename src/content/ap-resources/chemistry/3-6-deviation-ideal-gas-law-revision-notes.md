@@ -44,7 +44,7 @@ Short on time? This page is the recap. For explanations, figures and worked exam
 
 | Idea | What it tells you | When it matters most |
 |---|---|---|
-| P_ideal = nRT / V | the pressure an ideal gas would exert | compare with the measured pressure |
+| P<sub>ideal</sub> = nRT / V | the pressure an ideal gas would exert | compare with the measured pressure |
 | PV/nRT = 1 | ideal behaviour | low pressure, high temperature |
 | PV/nRT < 1 | attractions dominate | low T, moderate-to-high P, strong intermolecular forces |
 | PV/nRT > 1 | particle volume dominates | extremely high P, large particles |

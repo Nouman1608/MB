@@ -195,9 +195,9 @@ An engineer suggests roasting the ore in air instead, so that the sulfur burns:
 
 ## Worked example 3: the minimum light energy for photosynthesis
 
-**Question.** Photosynthesis has ΔG° ≈ +2880 kJ per mole of glucose. Chlorophyll absorbs red light of wavelength 680 nm. What is the smallest amount of 680 nm photons, in moles, that could supply this energy? (h = 6.626 × 10⁻³⁴ J s, c = 2.998 × 10⁸ m s⁻¹, N_A = 6.022 × 10²³ mol⁻¹.)
+**Question.** Photosynthesis has ΔG° ≈ +2880 kJ per mole of glucose. Chlorophyll absorbs red light of wavelength 680 nm. What is the smallest amount of 680 nm photons, in moles, that could supply this energy? (h = 6.626 × 10⁻³⁴ J s, c = 2.998 × 10⁸ m s⁻¹, N<sub>A</sub> = 6.022 × 10²³ mol⁻¹.)
 
-1. Energy of one mole of photons: E = N_A × hc / λ = 6.022 × 10²³ × (6.626 × 10⁻³⁴ × 2.998 × 10⁸) / (680 × 10⁻⁹ m) = 1.759 × 10⁵ J mol⁻¹ = **175.9 kJ mol⁻¹**.
+1. Energy of one mole of photons: E = N<sub>A</sub> × hc / λ = 6.022 × 10²³ × (6.626 × 10⁻³⁴ × 2.998 × 10⁸) / (680 × 10⁻⁹ m) = 1.759 × 10⁵ J mol⁻¹ = **175.9 kJ mol⁻¹**.
 2. Moles of photons needed: 2880 kJ ÷ 175.9 kJ mol⁻¹ = **16.4 mol of photons per mole of glucose** (about 9.9 × 10²⁴ photons).
 3. Units check: kJ ÷ (kJ per mol of photons) leaves mol of photons.
 

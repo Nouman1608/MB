@@ -127,13 +127,13 @@ The total pressure falls and then stays at 1.100 atm.
 
 **(a)** Let x atm of G react. H falls by 2x and GH₂ rises by x, so the total falls by 2x: 1.500 − 1.100 = 0.400 atm = 2x, and x = 0.200 atm.
 
-P_G = 0.600 − 0.200 = **0.400 atm**; P_H = 0.900 − 0.400 = **0.500 atm**; P_GH₂ = **0.200 atm**.
+P<sub>G</sub> = 0.600 − 0.200 = **0.400 atm**; P<sub>H</sub> = 0.900 − 0.400 = **0.500 atm**; P<sub>GH₂</sub> = **0.200 atm**.
 
-**(b)** Kp = P_GH₂ / (P_G × P_H²) = 0.200 ÷ (0.400 × 0.500²) = 0.200 ÷ 0.100 = **2.00**.
+**(b)** Kp = P<sub>GH₂</sub> / (P<sub>G</sub> × P<sub>H</sub>²) = 0.200 ÷ (0.400 × 0.500²) = 0.200 ÷ 0.100 = **2.00**.
 
 **(c)** **No.** K depends only on temperature, so the new pressures still give Kp = 2.00.
 
-Common slip: not squaring P_H (gives 1.00).
+Common slip: not squaring P<sub>H</sub> (gives 1.00).
 
 **If you missed this:** read the ICE table in the [Topic 7.4 study guide](/advanced-course-resources/chemistry/7-4-calculating-equilibrium-constant-study-guide/).
 </details>
@@ -208,19 +208,19 @@ For A(aq) ⇌ B(aq), K = 4.0. A solution starts with [A] = 0.40 M and [B] = 0.10
 
 ## Question 8 (short answer · 7.7)
 
-For the fictional reaction R₂(g) ⇌ 2R(g), Kp = 2.0 × 10⁻⁶. A flask holds P_R₂ = 0.50 atm and P_R = 0.010 atm.
+For the fictional reaction R₂(g) ⇌ 2R(g), Kp = 2.0 × 10⁻⁶. A flask holds P<sub>R₂</sub> = 0.50 atm and P<sub>R</sub> = 0.010 atm.
 
 (a) Calculate Qp and state the direction of the net reaction.
-(b) Calculate P_R at equilibrium. State any approximation you make.
+(b) Calculate P<sub>R</sub> at equilibrium. State any approximation you make.
 
 <details>
 <summary>Worked answer</summary>
 
 **(a)** Qp = (0.010)² ÷ 0.50 = **2.0 × 10⁻⁴**. Q > K, so the net reaction goes **in reverse**: R atoms combine to form R₂.
 
-**(b)** K is tiny, so nearly all R recombines: P_R₂ ≈ 0.50 + 0.010 ÷ 2 = 0.505 atm (a 1% change, so the approximation is valid).
+**(b)** K is tiny, so nearly all R recombines: P<sub>R₂</sub> ≈ 0.50 + 0.010 ÷ 2 = 0.505 atm (a 1% change, so the approximation is valid).
 
-P_R² = 2.0 × 10⁻⁶ × 0.505, so **P_R ≈ 1.0 × 10⁻³ atm**.
+P<sub>R</sub>² = 2.0 × 10⁻⁶ × 0.505, so **P<sub>R</sub> ≈ 1.0 × 10⁻³ atm**.
 
 **If you missed this:** read Worked example 2 in the [Topic 7.7 study guide](/advanced-course-resources/chemistry/7-7-calculating-equilibrium-concentrations-study-guide/).
 </details>
@@ -273,7 +273,7 @@ A few drops of NaOH solution are added to an orange sample. What is observed, an
 
 ## Question 11 (multiple choice · 7.10)
 
-For A(g) ⇌ 2B(g), Kp = 0.50. At equilibrium P_A = 2.0 atm and P_B = 1.0 atm. Half of the B is removed at constant volume and temperature. Which is correct just after the change?
+For A(g) ⇌ 2B(g), Kp = 0.50. At equilibrium P<sub>A</sub> = 2.0 atm and P<sub>B</sub> = 1.0 atm. Half of the B is removed at constant volume and temperature. Which is correct just after the change?
 
 - (A) Qp = ½Kp; the net reaction goes forward.
 - (B) Qp = ¼Kp; the net reaction goes forward.
@@ -285,7 +285,7 @@ For A(g) ⇌ 2B(g), Kp = 0.50. At equilibrium P_A = 2.0 atm and P_B = 1.0 atm. H
 
 **Answer: (B).** Qp = 0.50² ÷ 2.0 = 0.125 = ¼Kp. Q < K, so more B forms.
 
-- (A) forgets that P_B is squared.
+- (A) forgets that P<sub>B</sub> is squared.
 - (C) reads Q < K backwards.
 - (D) treats removing a product as raising Q.
 
@@ -294,7 +294,7 @@ For A(g) ⇌ 2B(g), Kp = 0.50. At equilibrium P_A = 2.0 atm and P_B = 1.0 atm. H
 
 ## Question 12 (multiple choice · 7.11)
 
-The fictional salt MA₃ dissolves as MA₃(s) ⇌ M³⁺(aq) + 3A⁻(aq). Its molar solubility is 1.0 × 10⁻³ M. What is K_sp?
+The fictional salt MA₃ dissolves as MA₃(s) ⇌ M³⁺(aq) + 3A⁻(aq). Its molar solubility is 1.0 × 10⁻³ M. What is K<sub>sp</sub>?
 
 - (A) 1.0 × 10⁻¹²
 - (B) 3.0 × 10⁻¹²
@@ -304,7 +304,7 @@ The fictional salt MA₃ dissolves as MA₃(s) ⇌ M³⁺(aq) + 3A⁻(aq). Its m
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** [M³⁺] = s and [A⁻] = 3s. K_sp = s(3s)³ = 27s⁴ = 27 × (1.0 × 10⁻³)⁴ = 2.7 × 10⁻¹¹.
+**Answer: (C).** [M³⁺] = s and [A⁻] = 3s. K<sub>sp</sub> = s(3s)³ = 27s⁴ = 27 × (1.0 × 10⁻³)⁴ = 2.7 × 10⁻¹¹.
 
 - (A) uses s × s³.
 - (B) uses 3s but forgets to cube the 3.
@@ -315,7 +315,7 @@ The fictional salt MA₃ dissolves as MA₃(s) ⇌ M³⁺(aq) + 3A⁻(aq). Its m
 
 ## Question 13 (short answer · 7.12)
 
-The fictional 1:1 salt MX has K_sp = 4.0 × 10⁻¹⁰.
+The fictional 1:1 salt MX has K<sub>sp</sub> = 4.0 × 10⁻¹⁰.
 
 (a) Calculate its molar solubility in pure water.
 (b) What concentration of X⁻ (from soluble NaX) would cut the molar solubility to 1.00% of its value in pure water?
@@ -324,11 +324,11 @@ The fictional 1:1 salt MX has K_sp = 4.0 × 10⁻¹⁰.
 <details>
 <summary>Worked answer</summary>
 
-**(a)** K_sp = s², so s = √(4.0 × 10⁻¹⁰) = **2.0 × 10⁻⁵ M**.
+**(a)** K<sub>sp</sub> = s², so s = √(4.0 × 10⁻¹⁰) = **2.0 × 10⁻⁵ M**.
 
 **(b)** Target s = 2.0 × 10⁻⁷ M = [M⁺]. [X⁻] = 4.0 × 10⁻¹⁰ ÷ 2.0 × 10⁻⁷ = **2.0 × 10⁻³ M**. (The salt's own X⁻ is negligible.)
 
-**(c)** **Yes.** For a 1:1 salt, K_sp = [M⁺][X⁻] treats both ions alike, so [M⁺] = 2.0 × 10⁻³ M gives s = 2.0 × 10⁻⁷ M again.
+**(c)** **Yes.** For a 1:1 salt, K<sub>sp</sub> = [M⁺][X⁻] treats both ions alike, so [M⁺] = 2.0 × 10⁻³ M gives s = 2.0 × 10⁻⁷ M again.
 
 **If you missed this:** read the [Topic 7.12 study guide](/advanced-course-resources/chemistry/7-12-common-ion-effect-study-guide/).
 </details>

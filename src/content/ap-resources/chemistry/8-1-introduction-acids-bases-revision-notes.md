@@ -36,12 +36,12 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Recap
 
 - Water is amphiprotic, so it ionises itself: 2 H₂O(l) ⇌ H₃O⁺(aq) + OH⁻(aq).
-- The equilibrium constant is **K_w = [H₃O⁺][OH⁻]**. Water is left out because it is the pure liquid solvent.
-- At 25 °C, K_w = 1.0 × 10⁻¹⁴, so pure water has [H₃O⁺] = [OH⁻] = 1.0 × 10⁻⁷ M.
-- K_w applies to **every** aqueous solution: raise one ion and the other falls.
+- The equilibrium constant is **K<sub>w</sub> = [H₃O⁺][OH⁻]**. Water is left out because it is the pure liquid solvent.
+- At 25 °C, K<sub>w</sub> = 1.0 × 10⁻¹⁴, so pure water has [H₃O⁺] = [OH⁻] = 1.0 × 10⁻⁷ M.
+- K<sub>w</sub> applies to **every** aqueous solution: raise one ion and the other falls.
 - H⁺(aq) and H₃O⁺(aq) mean the same ion; H₃O⁺ is preferred.
 - **Neutral** means [H₃O⁺] = [OH⁻]. Acidic: [H₃O⁺] > [OH⁻]. Basic: [OH⁻] > [H₃O⁺].
-- K_w increases with temperature (autoionization is endothermic), so pure water above 25 °C has pH below 7 and is still neutral.
+- K<sub>w</sub> increases with temperature (autoionization is endothermic), so pure water above 25 °C has pH below 7 and is still neutral.
 
 ## Key relationships
 
@@ -50,20 +50,20 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | pH = −log[H₃O⁺] | turn a concentration into pH |
 | [H₃O⁺] = 10⁻ᵖᴴ | turn a pH back into a concentration |
 | pOH = −log[OH⁻]; [OH⁻] = 10⁻ᵖᴼᴴ | the same for hydroxide |
-| K_w = [H₃O⁺][OH⁻] | find one ion concentration from the other |
-| pH + pOH = pK_w (= 14.00 at 25 °C) | move between pH and pOH |
-| Pure water: pH = pOH = pK_w ÷ 2 | neutral pH at any temperature |
+| K<sub>w</sub> = [H₃O⁺][OH⁻] | find one ion concentration from the other |
+| pH + pOH = pK<sub>w</sub> (= 14.00 at 25 °C) | move between pH and pOH |
+| Pure water: pH = pOH = pK<sub>w</sub> ÷ 2 | neutral pH at any temperature |
 
 ## Assumptions behind the numbers
 
-- K_w = 1.0 × 10⁻¹⁴ and pK_w = 14.00 hold **only at 25 °C**. Use the value given for any other temperature.
+- K<sub>w</sub> = 1.0 × 10⁻¹⁴ and pK<sub>w</sub> = 14.00 hold **only at 25 °C**. Use the value given for any other temperature.
 - Concentrations stand in for the "effective" concentrations in dilute solutions.
 - Each change of 1 pH unit is a factor of 10 in [H₃O⁺].
 
 ## Mistakes to avoid
 
 1. **"Neutral = pH 7" at every temperature.** Check the temperature first.
-2. **Thinking acidic solutions have no OH⁻.** Find it with K_w.
+2. **Thinking acidic solutions have no OH⁻.** Find it with K<sub>w</sub>.
 3. **Reading the scale backwards.** Lower pH means higher [H₃O⁺].
 4. **Treating pH as linear.** A solution at pH 3 has 100 times the [H₃O⁺] of one at pH 5, not "a bit more".
 5. **Using ln instead of log.**

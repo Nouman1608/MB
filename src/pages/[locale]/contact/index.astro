@@ -5,6 +5,8 @@ import FAQ from '../../../components/ui/FAQ.astro';
 import { MARKETING_COPY } from '../../../i18n/pages/marketing';
 import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
 import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+import { LOCALE_COPY } from '../../../i18n/copy';
+import { site } from '../../../data/site';
 
 export function getStaticPaths() {
   return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
@@ -13,6 +15,19 @@ export function getStaticPaths() {
 const { locale } = Astro.params as { locale: LocaleCode };
 const copy = MARKETING_COPY.contact[locale];
 const nav = NAV_COPY[locale];
+
+/**
+ * Audit round 3 (item 19, 25 Nov 2026) -- the English site offers WhatsApp
+ * on every page; the translated contact page gave no number at all. The
+ * number is read from src/data/site.ts (`site.whatsapp`), never written
+ * here; until that field exists the line is simply not rendered. The reply
+ * window is LOCALE_COPY[locale].contactBody, the sentence the locale home
+ * page already uses (D-346 hours). "WhatsApp" reuses each language's
+ * existing spelling.
+ */
+const whatsapp = (site as typeof site & { whatsapp?: { number: string; display: string } }).whatsapp;
+const WHATSAPP_LABEL: Record<LocaleCode, string> = { ar: 'واتساب', ur: 'واٹس ایپ', bn: 'WhatsApp' };
+const replyHours = LOCALE_COPY[locale].contactBody;
 
 /**
  * v1.x CLOSURE WS2 -- same real questions as /contact/'s English FAQ,
@@ -34,19 +49,27 @@ const FAQS: Record<LocaleCode, { question: string; answer: string }[]> = {
     { question: 'مارل برج میں داخلہ کیسے کام کرتا ہے؟', answer: 'مضمون، سطح اور طالب علم کو کہاں مدد چاہیے کے ساتھ استفسار فارم بھریں۔ مارل برج ای میل کے ذریعے جواب دے گا کہ کیا — اور کیسے — وہ مدد کر سکتا ہے۔' },
     { question: 'کیا مارل برج کی تعلیم آن لائن ہے یا آمنے سامنے؟', answer: 'دونوں۔ مارل برج پاکستان میں اپنی اکیڈمی میں انفرادی اور چھوٹے گروپوں میں آمنے سامنے پڑھاتا ہے، اور باقی ہر جگہ کے طلبہ کو براہِ راست آن لائن پڑھاتا ہے۔' },
     { question: 'مارل برج کہاں پڑھاتا ہے؟', answer: 'کلاس روم میں حاضری کے ساتھ تدریس صرف پاکستان میں ہماری اکیڈمی سے کی جاتی ہے؛ باقی ہر جگہ ہم براہِ راست آن لائن پڑھاتے ہیں۔ مفت وسائل کی لائبریری بین الاقوامی نصاب کے لیے لکھی گئی ہے اور کہیں بھی کسی کے لیے کھلی ہے۔' },
-    { question: 'مارل برج کون سی قابلیتیں پڑھاتا ہے؟', answer: 'مارل برج فی الحال IGCSE، او لیول، جی سی ایس ای، اے ایس لیول، اے لیول، آئی بی (مڈل ائیرز اور ڈپلومہ پروگرام، انفرادی) اور آئی ایلٹس پڑھاتا ہے، مضمون کے مطابق Cambridge، Pearson Edexcel، AQA، OCR اور OxfordAQA کے تحت۔' },
+    { question: 'مارل برج کون سی کوالیفکیشنز پڑھاتا ہے؟', answer: 'مارل برج فی الحال IGCSE، او لیول، جی سی ایس ای، اے ایس لیول، اے لیول، آئی بی (مڈل ائیرز اور ڈپلومہ پروگرام، انفرادی) اور آئی ایلٹس پڑھاتا ہے، مضمون کے مطابق Cambridge، Pearson Edexcel، AQA، OCR اور OxfordAQA کے تحت۔' },
   ],
   bn: [
     { question: 'মার্লব্রিজের টিউশনের খরচ কত?', answer: 'গ্রুপ ক্লাসের ফি প্রতি বিষয়ে প্রতি মাসে; একক ক্লাস ও IB টিউশনের ফি প্রতি ক্লাসে নেওয়া হয়। হার অঞ্চল অনুযায়ী পরিবর্তিত হয়। মূল্য পৃষ্ঠাটি দেখুন, বা বিষয় ও স্তরসহ আপনার অনুসন্ধান পাঠান এবং আমরা ইমেইলে সঠিক ফি নিশ্চিত করব।' },
     { question: 'মার্লব্রিজে ভর্তি কীভাবে কাজ করে?', answer: 'বিষয়, স্তর, এবং শিক্ষার্থীর কোথায় সাহায্য দরকার তা দিয়ে অনুসন্ধান ফর্ম পূরণ করুন। মার্লব্রিজ ইমেইলে জবাব দেবে এটি নিশ্চিত করতে যে এটি সাহায্য করতে পারে কিনা — এবং কীভাবে।' },
     { question: 'মার্লব্রিজের টিউশন অনলাইন নাকি সামনাসামনি?', answer: 'উভয়ই। মার্লব্রিজ পাকিস্তানে আমাদের একাডেমিতে সশরীরে একক ও ছোট গ্রুপে পড়ায়, এবং অন্য সব জায়গার শিক্ষার্থীদের সরাসরি অনলাইনে পড়ায়।' },
     { question: 'মার্লব্রিজ কোথায় পড়ায়?', answer: 'সশরীরে ক্লাস কেবল পাকিস্তানে আমাদের একাডেমি থেকে পড়ানো হয়; অন্য সব জায়গায় আমরা সরাসরি অনলাইনে পড়াই। বিনামূল্যের রিসোর্স লাইব্রেরি আন্তর্জাতিক কারিকুলামের জন্য লেখা এবং যে কারো জন্য, যেকোনো স্থানে উন্মুক্ত।' },
-    { question: 'মার্লব্রিজ কোন যোগ্যতাগুলো পড়ায়?', answer: 'মার্লব্রিজ বর্তমানে IGCSE, O Level, GCSE, AS Level, A Level, IB (মিডল ইয়ার্স ও ডিপ্লোমা প্রোগ্রাম, একক) এবং IELTS পড়ায়, বিষয় অনুযায়ী Cambridge, Pearson Edexcel, AQA, OCR এবং OxfordAQA-এর অধীনে।' },
+    { question: 'মার্লব্রিজ কোন কোয়ালিফিকেশনগুলো পড়ায়?', answer: 'মার্লব্রিজ বর্তমানে IGCSE, O Level, GCSE, AS Level, A Level, IB (মিডল ইয়ার্স ও ডিপ্লোমা প্রোগ্রাম, একক) এবং IELTS পড়ায়, বিষয় অনুযায়ী Cambridge, Pearson Edexcel, AQA, OCR এবং OxfordAQA-এর অধীনে।' },
   ],
 };
 const faqs = FAQS[locale];
 ---
 <LocaleLayout locale={locale} translationKey="contact" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <div class="mx-auto max-w-[72ch] px-[var(--spacing-gutter)] pt-[clamp(32px,4vw,56px)]">
+    <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{replyHours}</p>
+    {whatsapp && (
+      <p class="m-0 mt-3 text-[15.5px]">
+        {WHATSAPP_LABEL[locale]}: <a href={`https://wa.me/${whatsapp.number}`} target="_blank" rel="noopener noreferrer" class="font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2"><bdi dir="ltr">{whatsapp.display}</bdi></a>
+      </p>
+    )}
+  </div>
   <div class="mx-auto max-w-[72ch] px-[var(--spacing-gutter)] py-[clamp(32px,4vw,56px)]">
     <EnquiryForm kind="student" labels={nav.form} />
   </div>

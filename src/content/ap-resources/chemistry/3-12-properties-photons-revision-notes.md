@@ -49,7 +49,7 @@ Short on time? This page is the recap. For explanations, a diagram and worked ex
 | c = λν | c = 2.998 × 10⁸ m s⁻¹; λ in m; ν in s⁻¹ (Hz) | convert between wavelength and frequency |
 | E = hν | E in J per photon; h = 6.626 × 10⁻³⁴ J s | find the energy of one photon from its frequency |
 | E = hc/λ | λ in m | go straight from wavelength to energy |
-| E(per mol) = E(per photon) × N_A | N_A = 6.022 × 10²³ mol⁻¹; ÷ 1000 for kJ | compare with bond energies in kJ mol⁻¹ |
+| E(per mol) = E(per photon) × N<sub>A</sub> | N<sub>A</sub> = 6.022 × 10²³ mol⁻¹; ÷ 1000 for kJ | compare with bond energies in kJ mol⁻¹ |
 
 Proportions: λ and ν are **inversely** proportional; E and ν are **directly** proportional; E and λ are **inversely** proportional.
 
@@ -62,7 +62,7 @@ Proportions: λ and ν are **inversely** proportional; E and ν are **directly**
 ## Mistakes to avoid
 
 1. **Not converting nm to m.** 1 nm = 10⁻⁹ m. Do it first.
-2. **Per photon vs per mole.** E = hν is per photon; multiply by N_A for per mole.
+2. **Per photon vs per mole.** E = hν is per photon; multiply by N<sub>A</sub> for per mole.
 3. **Forgetting J → kJ.** Divide by 1000 at the end.
 4. **Using the level energy instead of the gap.** Always subtract: upper − lower.
 5. **Negative photon energy.** If you get one, you subtracted the wrong way round.

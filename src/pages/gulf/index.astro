@@ -42,6 +42,12 @@ const GULF_REGIONS = ['Saudi Arabia', 'United Arab Emirates', 'Qatar', 'Kuwait',
 const gulfGroup = REGION_PRICING.filter((r) => GULF_REGIONS.includes(r.region));
 const gulfOneToOne = ONE_TO_ONE_PRICING.filter((r) => GULF_REGIONS.includes(r.region));
 const offeredBoards = BOARDS.filter((b) => b.status === 'offered');
+// Audit round 3 (item 21, 25 Nov 2026) -- the opening note said this page
+// covers Saudi Arabia, Kuwait and Bahrain while its tables price all six
+// countries. The list is now read from the rows the price table renders.
+const gulfName = (region: string) => (region === 'United Arab Emirates' ? 'the UAE' : region);
+const coveredNames = gulfGroup.map((g) => gulfName(g.region));
+const coveredList = coveredNames.length > 1 ? `${coveredNames.slice(0, -1).join(', ')} and ${coveredNames[coveredNames.length - 1]}` : coveredNames[0];
 
 /**
  * D-286 -- Gulf-specific parent questions, answered only from facts already
@@ -108,7 +114,7 @@ const TIME_ZONES: Record<string, string> = {
   <Section surface="ivory">
     <Container>
       <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink">
-        This page covers families in Saudi Arabia, Kuwait and Bahrain. The UAE, Qatar and Oman also have their own pages:
+        This page covers families in {coveredList}. The UAE, Qatar and Oman also have their own pages:
         {Object.entries(COUNTRY_PAGES).map(([r, href], i, all) => (
           <>{' '}<a href={href} class="font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r === 'United Arab Emirates' ? 'the UAE' : r}</a>{i < all.length - 1 ? ',' : '.'}</>
         ))}
@@ -143,7 +149,7 @@ const TIME_ZONES: Record<string, string> = {
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
         Pakistan sits only one hour ahead of the UAE and Oman, and two hours ahead of Saudi Arabia, Qatar, Kuwait and Bahrain --
         close enough that a class held in the evening, Pakistan time, still lands at a reasonable after-school hour for a
-        student in the Gulf. This is orientation only. {PRICING_TERMS.groupClassTimes} One-to-one classes can be arranged at any time.
+        student in the Gulf. This is orientation only. {PRICING_TERMS.groupClassTimes} One-to-one class times are agreed with you before the first class.
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[420px] border-collapse text-[14px]">

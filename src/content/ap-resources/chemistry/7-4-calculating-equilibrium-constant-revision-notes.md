@@ -46,8 +46,8 @@ Short on time? This page is the recap. For explanations, a concentration-time gr
 |---|---|---|
 | c = n / V | concentration in mol L⁻¹ from moles and volume in L | turn moles into what Kc needs |
 | Change ratio = coefficient ratio | if C rises by x and its coefficient is 1, a species with coefficient 4 changes by 4x | fill the C row of an ICE table |
-| P_X = (fraction of gas moles that are X) × P_total | partial pressure from a total pressure | turn a total pressure into what Kp needs |
-| K = expression with equilibrium values | Kc from [X]ₑ, Kp from P_X at equilibrium | calculate K |
+| P<sub>X</sub> = (fraction of gas moles that are X) × P<sub>total</sub> | partial pressure from a total pressure | turn a total pressure into what Kp needs |
+| K = expression with equilibrium values | Kc from [X]ₑ, Kp from P<sub>X</sub> at equilibrium | calculate K |
 
 ## Assumptions behind the numbers
 

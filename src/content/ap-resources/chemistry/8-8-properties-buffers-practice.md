@@ -36,7 +36,7 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: 25 °C; acetic acid K_a = 1.8 × 10⁻⁵ (pK_a 4.74). HF, HCOOH (methanoic acid), CH₃CH₂COOH (propanoic acid) and CH₃NH₂ (methylamine) are weak; HCl, HNO₃ and NaOH are strong. Laboratory readings in Question 6 are invented for practice.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data: 25 °C; acetic acid K<sub>a</sub> = 1.8 × 10⁻⁵ (pK<sub>a</sub> 4.74). HF, HCOOH (methanoic acid), CH₃CH₂COOH (propanoic acid) and CH₃NH₂ (methylamine) are weak; HCl, HNO₃ and NaOH are strong. Laboratory readings in Question 6 are invented for practice.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -188,7 +188,7 @@ Evaluate each claim.
 
 **Student X is wrong.** HCl and Cl⁻ are a conjugate pair, but HCl is a strong acid, so Cl⁻ is a negligibly weak base. Cl⁻ does not react with added H₃O⁺, so added acid stays free and the pH falls. (Added base would simply neutralize some HCl, and the solution's pH would still be set by a strong acid with no buffering pair.) A buffer needs a **weak** acid and its conjugate base, both in large amounts.
 
-**Student Y is only half right.** Acetic acid can remove added OH⁻ (CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O). But a solution of acetic acid alone contains very little acetate, because the acid is only slightly ionized. There is almost nothing to remove added H₃O⁺, so the solution does not buffer against acid. It also starts well away from its pK_a, where small additions change the ratio a lot. Adding sodium acetate (or partly neutralizing the acid with NaOH) would make it a buffer.
+**Student Y is only half right.** Acetic acid can remove added OH⁻ (CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O). But a solution of acetic acid alone contains very little acetate, because the acid is only slightly ionized. There is almost nothing to remove added H₃O⁺, so the solution does not buffer against acid. It also starts well away from its pK<sub>a</sub>, where small additions change the ratio a lot. Adding sodium acetate (or partly neutralizing the acid with NaOH) would make it a buffer.
 
 | Point | What earns it |
 |---|---|

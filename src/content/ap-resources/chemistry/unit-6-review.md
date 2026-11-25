@@ -62,9 +62,9 @@ These are **original Marlbridge practice questions**, not past exam questions. S
 | Direction of energy | surroundings warm → exothermic; cool → endothermic | 6.1 |
 | Energy diagram | ΔH = E(products) − E(reactants); arrow from start to end | 6.2 |
 | Thermal equilibrium | equal average kinetic energy, equal temperature | 6.3 |
-| Heating or cooling | q = mcΔT; object: q = CΔT; molar: q = n C_m ΔT | 6.4 |
+| Heating or cooling | q = mcΔT; object: q = CΔT; molar: q = n C<sub>m</sub> ΔT | 6.4 |
 | Calorimetry | q(lost) + q(gained) = 0; q(process) = −q(solution) | 6.4 |
-| Phase change | q = n × ΔH_fus or n × ΔH_vap; reverse → opposite sign | 6.5 |
+| Phase change | q = n × ΔH<sub>fus</sub> or n × ΔH<sub>vap</sub>; reverse → opposite sign | 6.5 |
 | Reaction | q = (n ÷ coefficient) × ΔH, using the limiting reactant | 6.6 |
 | Bond enthalpies | ΔH ≈ Σ(broken) − Σ(formed) | 6.7 |
 | Formation enthalpies | ΔH° = ΣnΔH°f(products) − ΣnΔH°f(reactants); elements = 0 | 6.8 |
@@ -129,7 +129,7 @@ For the fictional gas-phase reaction 2XY(g) → X₂(g) + Y₂(g), the bond enth
 
 ## Question 4 (constructed response · mixed)
 
-Steam at 100.0 °C is bubbled into 200.0 g of water at 18.0 °C in an insulated flask until the water reaches 46.0 °C. Water: ΔH_vap = 40.7 kJ mol⁻¹ at 100 °C, c = 4.18 J g⁻¹ °C⁻¹, M = 18.016 g mol⁻¹.
+Steam at 100.0 °C is bubbled into 200.0 g of water at 18.0 °C in an insulated flask until the water reaches 46.0 °C. Water: ΔH<sub>vap</sub> = 40.7 kJ mol⁻¹ at 100 °C, c = 4.18 J g⁻¹ °C⁻¹, M = 18.016 g mol⁻¹.
 
 (a) Calculate the energy gained by the 200.0 g of water.
 (b) Calculate the mass of steam that condensed.
@@ -155,7 +155,7 @@ Total 2484.8 J g⁻¹. Energy lost = energy gained: m = 23 408 ÷ 2484.8 = **9.4
 | Point | What earns it |
 |---|---|
 | 1 | (a) 23.4 kJ (23 408 J) |
-| 1 | (b) Condensing energy from ΔH_vap, through moles |
+| 1 | (b) Condensing energy from ΔH<sub>vap</sub>, through moles |
 | 1 | (b) Includes cooling the condensed water to 46.0 °C |
 | 1 | (b) 9.42 g |
 | 1 | (c) Average kinetic energy; collisions transfer energy until the averages are equal |
@@ -205,7 +205,7 @@ Average bond enthalpies (kJ mol⁻¹): C–H 413, C–C 347, C=C 614, O=O 495, C
 
 ## Question 6 (constructed response · mixed)
 
-A fictional salt RX (M = 95.0 g mol⁻¹) is tested for a cold pack: ΔH_soln = +18.0 kJ mol⁻¹. Take c = 4.18 J g⁻¹ °C⁻¹ for every solution and ignore energy exchange with the container or air.
+A fictional salt RX (M = 95.0 g mol⁻¹) is tested for a cold pack: ΔH<sub>soln</sub> = +18.0 kJ mol⁻¹. Take c = 4.18 J g⁻¹ °C⁻¹ for every solution and ignore energy exchange with the container or air.
 
 (a) Explain, in terms of the attractions broken and formed, why dissolving RX is endothermic.
 (b) A student dissolves 9.50 g of RX in 90.5 g of water at 22.0 °C. Predict the final temperature.

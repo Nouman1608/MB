@@ -43,7 +43,7 @@ test('isHoneypotTripped detects a filled hidden field', () => {
 
 test('validateEnquiry: student — accepts a well-formed submission', () => {
   const result = validateEnquiry('student', {
-    name: 'Aisha Khan', email: 'aisha@example.com', country: 'Pakistan',
+    name: 'Aisha Khan', email: 'aisha@example.com', phoneCountry: 'PK', phone: '0300 1234567', country: 'Pakistan',
     message: 'Looking for IGCSE Chemistry support.',
   });
   assert.equal(result.ok, true);
@@ -59,7 +59,7 @@ test('validateEnquiry: student — accepts a well-formed submission', () => {
 // echoed into the email body.
 test('validateEnquiry: student — removed fields (program/subject) are dropped, not accepted', () => {
   const result = validateEnquiry('student', {
-    name: 'Aisha Khan', email: 'aisha@example.com', country: 'Pakistan',
+    name: 'Aisha Khan', email: 'aisha@example.com', phone: '+92 300 1234567', country: 'Pakistan',
     message: 'Looking for IGCSE Chemistry support.',
     program: 'IGCSE', subject: 'Chemistry',
   });
@@ -90,6 +90,7 @@ test('validateEnquiry: rejects missing required fields', () => {
     assert.ok(result.errors.email);
     assert.ok(result.errors.country);
     assert.ok(result.errors.message);
+    assert.ok(result.errors.phone);
   }
 });
 
@@ -119,7 +120,7 @@ test('validateEnquiry: unknown kind is rejected', () => {
 
 test('validateEnquiry: fields outside the allowlist are dropped, not smuggled through', () => {
   const result = validateEnquiry('student', {
-    name: 'Aisha Khan', email: 'aisha@example.com', country: 'Pakistan', message: 'Hi',
+    name: 'Aisha Khan', email: 'aisha@example.com', phone: '+92 300 1234567', country: 'Pakistan', message: 'Hi',
     injectedField: 'malicious payload', __proto__: 'polluted',
   });
   assert.equal(result.ok, true);
@@ -263,9 +264,12 @@ test('renderEmailBody: trial shows readable choices and says it is a request, no
   assert.ok(body.includes('not a confirmed booking'));
 });
 
-test('ALLOWED_FIELDS_BY_KIND: only the trial kind changed; student and tutoring keep five fields', () => {
-  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student, ALLOWED_FIELDS_BY_KIND.tutoring);
-  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student.required.sort(), ['country', 'email', 'message', 'name']);
+test('ALLOWED_FIELDS_BY_KIND: student and tutoring keep five fields; the contact form adds a country code', () => {
+  // Audit round 3: the contact form (student) sends a country code with its required phone.
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student.required, ALLOWED_FIELDS_BY_KIND.tutoring.required);
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student.optional, ['phone', 'phoneCountry']);
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.tutoring.optional, ['phone']);
+  assert.deepEqual([...ALLOWED_FIELDS_BY_KIND.student.required].sort(), ['country', 'email', 'message', 'name']);
   // D-439: email moved to a conditional check (optional on the English form,
   // which requires a phone; still compulsory on the translated forms).
   assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'name']);
@@ -415,4 +419,93 @@ test('dial codes: ids are unique and every code is well formed', async () => {
   assert.equal(new Set(ids).size, ids.length);
   for (const d of DIAL_CODES) assert.match(d.dial, /^\+\d{1,3}$/, d.id);
   assert.equal(DIAL_CODES[0].id, 'PK');
+});
+
+// Audit round 3 (owner, 25 Nov 2026) -- the contact form (kind student, English
+// and translated) requires a phone with a country code, checked like the trial
+// form's. Tutoring and school enquiries keep an optional phone.
+test('validateEnquiry: student (contact form) requires a phone with a country code', () => {
+  const base = { name: 'Aisha Khan', email: 'aisha@example.com', country: 'Pakistan', message: 'IGCSE Chemistry please.' };
+  const none = validateEnquiry('student', base);
+  assert.equal(none.ok, false);
+  if (!none.ok) assert.equal(none.errors.phone, 'Please enter a phone or WhatsApp number.');
+  const noCode = validateEnquiry('student', { ...base, phone: '0300 1234567' });
+  assert.equal(noCode.ok, false);
+  if (!noCode.ok) assert.match(noCode.errors.phone, /country code/);
+  const other = validateEnquiry('student', { ...base, phoneCountry: 'other', phone: '300 1234567' });
+  assert.equal(other.ok, false);
+  if (!other.ok) assert.match(other.errors.phone, /country code/);
+  const bad = validateEnquiry('student', { ...base, phoneCountry: 'PK', phone: 'call me' });
+  assert.equal(bad.ok, false);
+  if (!bad.ok) assert.match(bad.errors.phone, /valid phone/);
+  const tampered = validateEnquiry('student', { ...base, phoneCountry: 'ZZ', phone: '0300 1234567' });
+  assert.equal(tampered.ok, false);
+  if (!tampered.ok) assert.match(tampered.errors.phone, /country code/);
+  const ok = validateEnquiry('student', { ...base, phoneCountry: 'PK', phone: '0300 1234567' });
+  assert.equal(ok.ok, true);
+  if (ok.ok) {
+    assert.equal(ok.data.phone, '+92 300 1234567');
+    assert.equal('phoneCountry' in ok.data, false);
+  }
+  const typed = validateEnquiry('student', { ...base, phone: '+971 50 123 4567' });
+  assert.equal(typed.ok, true);
+  // The staff email shows the joined number.
+  if (ok.ok) assert.ok(renderEmailBody('student', ok.data).includes('Phone: +92 300 1234567'));
+  // Tutoring and school keep an optional phone.
+  assert.equal(validateEnquiry('tutoring', base).ok, true);
+  assert.equal(validateEnquiry('school', { ...base, school: 'S', role: 'Teacher' }).ok, true);
+});
+
+// Audit round 3, owner decision D2 -- "IELTS" is a programme choice on the
+// trial form that skips the exam board and subject questions.
+test('validateEnquiry: trial accepts IELTS with no board and no subject', () => {
+  const base = { name: 'Z', phoneCountry: 'PK', phone: '0300 1234567', country: 'Pakistan' };
+  const r = validateEnquiry('trial', { ...base, programme: 'ielts', format: 'one-to-one' });
+  assert.equal(r.ok, true);
+  if (r.ok) {
+    assert.equal(r.data.qualification, 'ielts');
+    assert.equal('board' in r.data, false);
+    assert.equal('subject' in r.data, false);
+    assert.equal('programme' in r.data, false);
+    assert.equal(r.data.format, 'one-to-one');
+    assert.equal('email' in r.data, false);
+    const body = renderEmailBody('trial', r.data);
+    assert.ok(body.includes('Qualification: IELTS'));
+    assert.ok(!body.includes('Exam board'));
+  }
+  // A form posted without JavaScript still sends the board select: it is dropped for IELTS.
+  const noJs = validateEnquiry('trial', { ...base, programme: 'ielts', board: 'not-sure', format: 'help-me-decide' });
+  assert.equal(noJs.ok, true);
+  if (noJs.ok) assert.equal('board' in noJs.data, false);
+  // The hidden qualification from ?program=ielts alone is enough (a page cached before the choice existed).
+  const hidden = validateEnquiry('trial', { ...base, qualification: 'ielts' });
+  assert.equal(hidden.ok, true);
+  if (hidden.ok) assert.equal(hidden.data.format, 'help-me-decide');
+  // "School subjects" still needs the subjects, and overrides an IELTS value carried over from a link.
+  const school = validateEnquiry('trial', { ...base, programme: 'subjects', qualification: 'ielts' });
+  assert.equal(school.ok, false);
+  if (!school.ok) assert.ok(school.errors.subject);
+  const schoolOk = validateEnquiry('trial', { ...base, programme: 'subjects', qualification: 'ielts', subject: 'A Level Maths' });
+  assert.equal(schoolOk.ok, true);
+  if (schoolOk.ok) {
+    assert.equal('qualification' in schoolOk.data, false);
+    assert.equal(schoolOk.data.board, 'not-sure');
+  }
+  // An unknown programme value is dropped, and the request is treated as school subjects.
+  const tampered = validateEnquiry('trial', { ...base, programme: 'sat' });
+  assert.equal(tampered.ok, false);
+  if (!tampered.ok) assert.ok(tampered.errors.subject);
+  // IELTS still needs name, phone and country.
+  const noPhone = validateEnquiry('trial', { name: 'Z', country: 'PK', programme: 'ielts' });
+  assert.equal(noPhone.ok, false);
+  if (!noPhone.ok) assert.ok(noPhone.errors.phone);
+});
+
+test('renderTrialAcknowledgement: names IELTS and sets the time from the country given', async () => {
+  const { renderTrialAcknowledgement } = await import('../../_lib/enquiry-validation.ts');
+  const { text } = renderTrialAcknowledgement({ name: 'Zara Ali', qualification: 'ielts', format: 'one-to-one', country: 'Pakistan' });
+  assert.ok(text.includes('- Programme: IELTS'));
+  assert.ok(!text.includes('Exam board'));
+  assert.ok(!text.includes('your own time zone'));
+  assert.ok(text.includes('in the time zone of the country you gave'));
 });

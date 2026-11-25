@@ -68,11 +68,11 @@ You will explain all four trends in this topic with the same three ideas.
 
 **2. The shell model.** Electrons occupy shells (n = 1, 2, 3 …). Electrons in a higher shell are, on average, farther from the nucleus.
 
-**3. Shielding and effective nuclear charge.** Core electrons (those in inner shells) sit between the nucleus and the valence electrons. They repel the valence electrons and cancel part of the nuclear charge. This is **shielding**. The net positive charge a valence electron feels is the **effective nuclear charge**, Z_eff.
+**3. Shielding and effective nuclear charge.** Core electrons (those in inner shells) sit between the nucleus and the valence electrons. They repel the valence electrons and cancel part of the nuclear charge. This is **shielding**. The net positive charge a valence electron feels is the **effective nuclear charge**, Z<sub>eff</sub>.
 
-A simple estimate is Z_eff ≈ (number of protons) − (number of core electrons).
+A simple estimate is Z<sub>eff</sub> ≈ (number of protons) − (number of core electrons).
 
-| Atom | Protons | Core electrons | Simple Z_eff estimate |
+| Atom | Protons | Core electrons | Simple Z<sub>eff</sub> estimate |
 |---|---|---|---|
 | Na | 11 | 10 | +1 |
 | Mg | 12 | 10 | +2 |
@@ -83,8 +83,8 @@ This estimate ignores the small shielding that electrons in the same shell give 
 
 From these ideas you get two rules:
 
-- **Across a period (left to right):** protons are added, but the new electrons go into the same shell. Core shielding stays the same, so Z_eff rises. The outer electrons are pulled closer and held more tightly.
-- **Down a group:** Z_eff stays roughly the same (Na and K both about +1), but each step adds a shell. The outer electrons are farther away and held less tightly.
+- **Across a period (left to right):** protons are added, but the new electrons go into the same shell. Core shielding stays the same, so Z<sub>eff</sub> rises. The outer electrons are pulled closer and held more tightly.
+- **Down a group:** Z<sub>eff</sub> stays roughly the same (Na and K both about +1), but each step adds a shell. The outer electrons are farther away and held less tightly.
 
 <figure>
 <svg viewBox="0 0 640 380" role="img" aria-labelledby="trend-map-title trend-map-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -118,7 +118,7 @@ From these ideas you get two rules:
 
 Atomic radius is half the distance between the nuclei of two bonded atoms of the same element. You compare sizes; you do not need to memorise values.
 
-- **Across a period, radius decreases.** Z_eff rises, so the same outer shell is pulled in more tightly. Chlorine is smaller than sodium even though it has more electrons.
+- **Across a period, radius decreases.** Z<sub>eff</sub> rises, so the same outer shell is pulled in more tightly. Chlorine is smaller than sodium even though it has more electrons.
 - **Down a group, radius increases.** Each element has one more occupied shell than the one above it, and shielding by the extra core electrons cancels most of the extra nuclear charge.
 
 ## Ionic radius
@@ -162,7 +162,7 @@ The **first ionization energy** is the energy needed to remove the most loosely 
 <figcaption>Figure 2. First ionization energies (kJ mol⁻¹, rounded) for lithium to argon. Period 2: solid line and filled circles; period 3: dashed line and open squares. Both periods rise overall, dip at group 13 (B, Al) and group 16 (O, S), and peak at the noble gas.</figcaption>
 </figure>
 
-**The general trends.** First ionization energy increases across a period (Z_eff rises and the electron is closer) and decreases down a group (the electron is in a shell farther from the nucleus). Compare Li 520 with Na 496 kJ mol⁻¹, or Ne 2081 with Ar 1521 kJ mol⁻¹. The sharp fall from Ne to Na is the start of a new shell.
+**The general trends.** First ionization energy increases across a period (Z<sub>eff</sub> rises and the electron is closer) and decreases down a group (the electron is in a shell farther from the nucleus). Compare Li 520 with Na 496 kJ mol⁻¹, or Ne 2081 with Ar 1521 kJ mol⁻¹. The sharp fall from Ne to Na is the start of a new shell.
 
 **The two dips.** These are where the data test whether you understand the model, not just the arrow.
 
@@ -175,7 +175,7 @@ The **first ionization energy** is the energy needed to remove the most loosely 
 
 **Electron affinity** describes the energy change when an electron is added to one mole of gaseous atoms: X(g) + e⁻ → X⁻(g). For most elements energy is released. Data tables use different sign conventions, so always ask "how much energy is released?"
 
-- **Across a period**, more energy is usually released: the incoming electron feels a larger Z_eff. The halogens release the most in each period.
+- **Across a period**, more energy is usually released: the incoming electron feels a larger Z<sub>eff</sub>. The halogens release the most in each period.
 - **Down a group**, less energy is usually released: the added electron goes into a shell farther from the nucleus.
 - **Low points** match the ionization-energy dips. In group 2 the new electron must enter a higher-energy p subshell; in group 15 it must pair up in a half-filled p subshell; in group 18 it must start a new shell. These atoms release less energy than their neighbours, and some release none.
 
@@ -185,9 +185,9 @@ One well-known exception: chlorine releases more energy than fluorine. The fluor
 
 **Electronegativity** is how strongly an atom in a covalent bond attracts the shared pair of electrons. On the Pauling scale it has no unit. Fluorine is the highest at 3.98.
 
-- **Across a period, electronegativity increases.** A larger Z_eff pulls the bonding pair more strongly.
+- **Across a period, electronegativity increases.** A larger Z<sub>eff</sub> pulls the bonding pair more strongly.
 - **Down a group, electronegativity decreases.** The bonding pair is farther from the nucleus and more shielded.
-- Diagonal comparisons need care. Oxygen (3.44) is more electronegative than chlorine (3.16), even though chlorine has a larger simple Z_eff, because oxygen's bonding electrons are in the n = 2 shell, much closer to its nucleus.
+- Diagonal comparisons need care. Oxygen (3.44) is more electronegative than chlorine (3.16), even though chlorine has a larger simple Z<sub>eff</sub>, because oxygen's bonding electrons are in the n = 2 shell, much closer to its nucleus.
 
 Noble gases are usually left out, because most form no compounds.
 
@@ -214,9 +214,9 @@ Periodicity lets you estimate a property when you have no data. Use neighbours i
 1. Configurations: N is 1s² 2s² 2p³; O is 1s² 2s² 2p⁴.
 2. In nitrogen, each 2p electron is alone in its own orbital. In oxygen, two of the 2p electrons share one orbital.
 3. The paired electrons repel each other. This repulsion raises the energy of one of them, so it is easier to remove. The effect is larger than the effect of one extra proton, so oxygen's first ionization energy is lower.
-4. From oxygen to fluorine, the electron removed is in the same 2p subshell and both atoms have paired 2p electrons. Fluorine has one more proton but the same core (1s²), so Z_eff is larger and the electron is held more strongly. The normal trend resumes.
+4. From oxygen to fluorine, the electron removed is in the same 2p subshell and both atoms have paired 2p electrons. Fluorine has one more proton but the same core (1s²), so Z<sub>eff</sub> is larger and the electron is held more strongly. The normal trend resumes.
 
-**Answer.** Electron–electron repulsion in the first doubly occupied 2p orbital lowers oxygen's value; from O to F, the rise in Z_eff with no change in shell raises the value again.
+**Answer.** Electron–electron repulsion in the first doubly occupied 2p orbital lowers oxygen's value; from O to F, the rise in Z<sub>eff</sub> with no change in shell raises the value again.
 
 **Why the wording matters.** "Half-filled subshells are stable" is a label, not an explanation. Name the cause: repulsion between paired electrons in the same orbital.
 
@@ -233,7 +233,7 @@ Periodicity lets you estimate a property when you have no data. Use neighbours i
 
 ## Common misconceptions
 
-- **"More electrons make a bigger atom."** Across a period, electrons are added but atoms shrink, because they go into the same shell while Z_eff rises.
+- **"More electrons make a bigger atom."** Across a period, electrons are added but atoms shrink, because they go into the same shell while Z<sub>eff</sub> rises.
 - **"Atoms want a full shell, so they give away electrons easily."** Removing an electron always needs energy. Explain trends with attractions and repulsions, not with what atoms "want".
 - **Using "more shielding" across a period.** Core shielding is about the same across a period. The change is the nuclear charge.
 - **Explaining a dip with "half-filled is stable".** Name the cause: the start of a higher-energy p subshell (group 13) or repulsion between paired electrons (group 16).

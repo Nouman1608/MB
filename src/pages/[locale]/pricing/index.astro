@@ -9,7 +9,7 @@ import {
   ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, combinedDiscountPercent, discountWorkedExample,
   isIndicative, priceStatus,
 } from '../../../data/pricing';
-import { LOCALE_COPY } from '../../../i18n/copy';
+import { LOCALE_COPY, TIER_COLUMN_LABEL, regionName } from '../../../i18n/copy';
 
 export function getStaticPaths() {
   return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
@@ -27,6 +27,8 @@ const L = LOCALE_COPY[locale];
 // not successive) this implements.
 const combinedPercent = combinedDiscountPercent();
 const example = discountWorkedExample();
+// Audit 3 item 17 -- region names in the page's language (English fallback).
+const rn = (region: string) => regionName(locale, region);
 
 /**
  * v1.x CLOSURE WS2 -- table headers and column labels only are translated
@@ -39,7 +41,7 @@ const example = discountWorkedExample();
  */
 const T = {
   ar: {
-    tableRegion: 'المنطقة', tableIgcse: 'IGCSE/GCSE/O Level', tableALevel: 'AS/A Level', perSubjectMonth: '/مادة/شهر',
+    tableRegion: 'المنطقة', tableIgcse: TIER_COLUMN_LABEL.igcse, tableALevel: TIER_COLUMN_LABEL.aLevel, perSubjectMonth: '/مادة/شهر',
     unsupportedPrefix: 'دولتك غير مدرجة؟ ', lastVerified: 'آخر تحقق من الأسعار', groupConfirmed: 'آخر تأكيد لرسوم الدروس الجماعية التي يحددها مارلبريدج', ibConfirmed: 'آخر تأكيد لرسوم IB', oneToOneHeading: 'الدروس الفردية (1:1)',
     oneToOneNote: 'تُحتسب الدروس الفردية لكل درس، لا لكل مادة شهريًا. لا تنطبق خصومات المواد المتعددة والأشقاء أعلاه على الدروس الفردية.',
     perClass: '/درس', lastConverted: 'آخر تأكيد لرسوم الدروس الفردية في باكستان', usdSet: 'تحديد رسوم الدروس الفردية بالدولار الأمريكي', ibHeading: 'تدريس البكالوريا الدولية (IB)',
@@ -53,7 +55,7 @@ const T = {
     faqHeading: 'أسئلة حول الأسعار', readyNote: 'مستعد للبدء؟',
   },
   ur: {
-    tableRegion: 'علاقہ', tableIgcse: 'IGCSE/GCSE/O Level', tableALevel: 'AS/A Level', perSubjectMonth: '/مضمون/ماہ',
+    tableRegion: 'علاقہ', tableIgcse: TIER_COLUMN_LABEL.igcse, tableALevel: TIER_COLUMN_LABEL.aLevel, perSubjectMonth: '/مضمون/ماہ',
     unsupportedPrefix: 'آپ کا ملک درج نہیں؟ ', lastVerified: 'فیس کی آخری تصدیق', groupConfirmed: 'مارل برج کی مقرر کردہ گروپ فیس کی آخری تصدیق', ibConfirmed: 'آئی بی فیس کی آخری تصدیق', oneToOneHeading: 'انفرادی (1:1) کلاسیں',
     oneToOneNote: 'انفرادی کلاسوں کی قیمت فی مضمون فی ماہ کی بجائے فی کلاس مقرر ہے۔ اوپر دی گئی کئی مضامین اور بہن بھائیوں کی رعایتیں انفرادی کلاسوں پر لاگو نہیں ہوتیں۔',
     perClass: '/کلاس', lastConverted: 'پاکستان کی انفرادی کلاس فیس کی آخری تصدیق', usdSet: 'امریکی ڈالر میں انفرادی کلاس فیس مقرر ہونے کی تاریخ', ibHeading: 'آئی بی (IB) تدریس',
@@ -67,7 +69,7 @@ const T = {
     faqHeading: 'فیس کے بارے میں سوالات', readyNote: 'شروع کرنے کے لیے تیار ہیں؟',
   },
   bn: {
-    tableRegion: 'অঞ্চল', tableIgcse: 'IGCSE/GCSE/O Level', tableALevel: 'AS/A Level', perSubjectMonth: '/বিষয়/মাস',
+    tableRegion: 'অঞ্চল', tableIgcse: TIER_COLUMN_LABEL.igcse, tableALevel: TIER_COLUMN_LABEL.aLevel, perSubjectMonth: '/বিষয়/মাস',
     unsupportedPrefix: 'আপনার দেশ তালিকায় নেই? ', lastVerified: 'ফি সর্বশেষ যাচাই', groupConfirmed: 'মার্লব্রিজ নির্ধারিত গ্রুপ ফির সর্বশেষ নিশ্চিতকরণ', ibConfirmed: 'IB ফির সর্বশেষ নিশ্চিতকরণ', oneToOneHeading: 'একক (১:১) ক্লাস',
     oneToOneNote: 'একক ক্লাসের মূল্য প্রতি বিষয়ে প্রতি মাসের পরিবর্তে প্রতি ক্লাসে নির্ধারিত। উপরের একাধিক বিষয় ও ভাইবোন ছাড় একক ক্লাসে প্রযোজ্য নয়।',
     perClass: '/ক্লাস', lastConverted: 'পাকিস্তানের একক ক্লাস ফির সর্বশেষ নিশ্চিতকরণ', usdSet: 'মার্কিন ডলারে একক ক্লাস ফি নির্ধারণের তারিখ', ibHeading: 'IB টিউশন',
@@ -85,19 +87,19 @@ const T = {
 const faqTemplates: Record<LocaleCode, () => { question: string; answer: string }[]> = {
   ar: () => [
     { question: 'كم تكلفة تدريس مارلبريدج؟', answer: `تُحتسب الدروس الجماعية ${PRICING_TERMS.unit === 'per subject, per month' ? 'لكل مادة شهريًا' : ''}، أما الدروس الفردية وتدريس IB فتُحتسب لكل درس. في الدروس الجماعية، تُحتسب GCSE وIGCSE وO Level بسعر IGCSE؛ وتُحتسب AS الدولية وAS وA Level بسعر A Level. راجع الجداول أعلاه لمنطقتك.` },
-    { question: 'هل هناك خصومات للمواد المتعددة أو الأشقاء؟', answer: `نعم. ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${PRICING_TERMS.discountsStack ? T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent) : ''} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} ينطبق كلا الحسمين على الدروس الجماعية فقط.` },
+    { question: 'هل هناك خصومات للمواد المتعددة أو الأشقاء؟', answer: `نعم. ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${PRICING_TERMS.discountsStack ? T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent) : ''} ${T.workedExample(example.subjectCount, rn(example.region), example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} ينطبق كلا الحسمين على الدروس الجماعية فقط.` },
     { question: 'ما مدة الدروس ووتيرتها؟', answer: 'الدروس الجماعية: 45 إلى 50 دقيقة لكل درس، 3 دروس أسبوعيًا لكل مادة. الدروس الفردية: ساعة واحدة لكل درس.' },
     { question: 'هل يوجد درس تجريبي مجاني؟', answer: T.trialBody },
   ],
   ur: () => [
     { question: 'مارل برج کی تعلیم کی قیمت کتنی ہے؟', answer: 'گروپ کلاسوں کی فیس فی مضمون فی ماہ ہے؛ انفرادی کلاسوں اور آئی بی کی تدریس کی فیس فی کلاس ہے۔ گروپ کلاسوں میں جی سی ایس ای، IGCSE اور او لیول کو IGCSE کی شرح پر لیا جاتا ہے؛ انٹرنیشنل اے ایس، اے ایس اور اے لیول کو اے لیول کی شرح پر۔ اپنے علاقے کے لیے اوپر دیے گئے جدول دیکھیں۔' },
-    { question: 'کیا کئی مضامین یا بہن بھائیوں کے لیے رعایت ہے؟', answer: `جی ہاں۔ ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} دونوں صرف گروپ کلاسوں پر لاگو ہوتی ہیں۔` },
+    { question: 'کیا کئی مضامین یا بہن بھائیوں کے لیے رعایت ہے؟', answer: `جی ہاں۔ ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, rn(example.region), example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} دونوں صرف گروپ کلاسوں پر لاگو ہوتی ہیں۔` },
     { question: 'کلاسیں کتنی دیر اور کتنی بار ہوتی ہیں؟', answer: 'گروپ کلاسیں: 45 سے 50 منٹ فی کلاس، فی مضمون ہفتے میں 3 کلاسیں۔ انفرادی کلاسیں: فی کلاس 1 گھنٹہ۔' },
     { question: 'کیا مفت ٹرائل ہے؟', answer: T.trialBody },
   ],
   bn: () => [
     { question: 'মার্লব্রিজের টিউশনের মূল্য কত?', answer: 'গ্রুপ ক্লাসের ফি প্রতি বিষয়ে প্রতি মাসে; একক ক্লাস ও IB টিউশনের ফি প্রতি ক্লাসে। গ্রুপ ক্লাসে GCSE, IGCSE এবং O Level কে IGCSE হারে ধরা হয়; International AS, AS এবং A Level কে A Level হারে। আপনার অঞ্চলের জন্য উপরের টেবিলগুলো দেখুন।' },
-    { question: 'একাধিক বিষয় বা ভাইবোনদের জন্য কি ছাড় আছে?', answer: `হ্যাঁ। ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} উভয়ই শুধুমাত্র গ্রুপ ক্লাসে প্রযোজ্য।` },
+    { question: 'একাধিক বিষয় বা ভাইবোনদের জন্য কি ছাড় আছে?', answer: `হ্যাঁ। ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, rn(example.region), example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} উভয়ই শুধুমাত্র গ্রুপ ক্লাসে প্রযোজ্য।` },
     { question: 'ক্লাস কতক্ষণ এবং কত ঘন ঘন হয়?', answer: 'গ্রুপ ক্লাস: প্রতি ক্লাস ৪৫ থেকে ৫০ মিনিট, প্রতি বিষয়ে সপ্তাহে ৩টি ক্লাস। একক ক্লাস: প্রতি ক্লাস ১ ঘণ্টা।' },
     { question: 'কি ফ্রি ট্রায়াল আছে?', answer: T.trialBody },
   ],
@@ -120,7 +122,7 @@ const faqs = faqTemplates[locale]();
         <tbody>
           {REGION_PRICING.map((r) => (
             <tr class="border-b border-[#E7E1D4]">
-              <td class="px-3 py-2 text-ink">{r.region}</td>
+              <td class="px-3 py-2 text-ink">{rn(r.region)}</td>
               <td class="px-3 py-2 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px]">{T.perSubjectMonth}</span></td>
               <td class="px-3 py-2 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px]">{T.perSubjectMonth}</span></td>
               <td class="px-3 py-2 text-ink-mute">{L.statusLabel[priceStatus(r)]}</td>
@@ -130,7 +132,9 @@ const faqs = faqTemplates[locale]();
       </table>
     </div>
     {REGION_PRICING.some(isIndicative) && <p class="m-0 mt-4 text-[13px] text-ink-mute">{L.indicativeNote}</p>}
-    <p class="m-0 mt-4 text-[13px] text-ink-mute">{T.unsupportedPrefix}{PRICING_TERMS.unsupportedRegionNote}</p>
+    {/* Audit 3 item 17 -- was PRICING_TERMS.unsupportedRegionNote, the English sentence. */}
+    <p class="m-0 mt-4 text-[13px] text-ink-mute">{T.unsupportedPrefix}{L.unsupportedRegionNote}</p>
+    {L.bangladeshNote && <p class="m-0 mt-2 text-[13px] text-ink-mute">{L.bangladeshNote}</p>}
     <p class="m-0 mt-2 text-[13px] text-ink-mute">{T.lastVerified}: {PRICING_LAST_VERIFIED}. {T.groupConfirmed}: {PRICING_VERIFIED_DATE}.</p>
   </div>
 
@@ -150,7 +154,7 @@ const faqs = faqTemplates[locale]();
         <tbody>
           {ONE_TO_ONE_PRICING.map((r) => (
             <tr class="border-b border-[#E7E1D4]">
-              <td class="px-3 py-2 text-ink">{r.region}</td>
+              <td class="px-3 py-2 text-ink">{rn(r.region)}</td>
               <td class="px-3 py-2 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px]">{T.perClass}</span></td>
               <td class="px-3 py-2 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px]">{T.perClass}</span></td>
               <td class="px-3 py-2 text-ink-mute">{L.statusLabel[priceStatus(r)]}</td>
@@ -168,7 +172,7 @@ const faqs = faqTemplates[locale]();
     <h2 class="m-0 mb-3 text-[22px] font-semibold text-navy-800">{T.ibHeading}</h2>
     <p class="m-0 mb-5 max-w-[62ch] text-[14.5px] text-ink-mute">{T.ibNote}</p>
     <div class="max-w-[380px] rounded-sm border border-rule bg-white p-6">
-      <p class="m-0 mb-2 mb-label text-teal-700">{IB_PRICING.region}</p>
+      <p class="m-0 mb-2 mb-label text-teal-700">{rn(IB_PRICING.region)}</p>
       <p class="m-0 text-[17px] text-ink">{IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">{T.perClass}</span></p>
       <p class="m-0 mt-2 text-[13px] text-ink-mute">{L.statusLabel.confirmed}</p>
     </div>
@@ -192,7 +196,7 @@ const faqs = faqTemplates[locale]();
       </li>
     </ul>
     <p class="m-0 mt-5 max-w-[62ch] text-[14.5px] leading-relaxed text-ink-mute">
-      {T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} {T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)}
+      {T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} {T.workedExample(example.subjectCount, rn(example.region), example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)}
     </p>
   </div>
 

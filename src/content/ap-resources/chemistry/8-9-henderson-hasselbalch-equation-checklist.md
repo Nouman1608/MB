@@ -31,14 +31,14 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Understanding
 
-- I can write the Henderson-Hasselbalch equation with the base on top of the ratio, and say what each term means. *(Guide: "From K_a to a buffer equation")*
-- I can explain that the equation is the K_a expression in log form, so it only applies at equilibrium. *(Guide: "From K_a to a buffer equation")*
+- I can write the Henderson-Hasselbalch equation with the base on top of the ratio, and say what each term means. *(Guide: "From K<sub>a</sub> to a buffer equation")*
+- I can explain that the equation is the K<sub>a</sub> expression in log form, so it only applies at equilibrium. *(Guide: "From K<sub>a</sub> to a buffer equation")*
 - I can say whether a buffer's pH is above, below or equal to its pKa just from the ratio [A⁻]/[HA]. *(Guide: "Reading the equation"; Practice Q6(d))*
 - I can explain why the amounts mixed can be used in place of equilibrium amounts in a buffer. *(Guide: "Why the starting amounts work")*
 
 ## Calculation
 
-- I can calculate the pH of a buffer from the pKa (or K_a) and the concentrations of the pair. *(Guide: Worked example 1; Practice Q1)*
+- I can calculate the pH of a buffer from the pKa (or K<sub>a</sub>) and the concentrations of the pair. *(Guide: Worked example 1; Practice Q1)*
 - I can calculate buffer pH after mixing two solutions, working in moles. *(Guide: Worked example 2; Practice Q5)*
 - I can use the pKa of NH₄⁺ (or 14.00 − pKb) for a weak-base buffer. *(Practice Q3)*
 - I can find the ratio of components needed for a target pH, and the amount of one component. *(Guide: Worked example 3; Practice Q2, Q7(b))*

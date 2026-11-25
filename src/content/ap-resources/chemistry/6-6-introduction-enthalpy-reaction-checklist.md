@@ -42,7 +42,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can work backwards from a required amount of energy to the mass of reactant needed. *(Guide: Worked example 1; Practice Q7)*
 - I can scale and reverse a thermochemical equation and give the new ΔH. *(Guide: "Scaling and reversing"; Practice Q3)*
 - I can use the limiting reactant to find the moles of reaction and the heat transferred. *(Guide: Worked example 3; Practice Q5)*
-- I can find ΔH from calorimetry data using q_rxn = −q_soln. *(Practice Q6)*
+- I can find ΔH from calorimetry data using q<sub>rxn</sub> = −q<sub>soln</sub>. *(Practice Q6)*
 
 ## Reasoning
 

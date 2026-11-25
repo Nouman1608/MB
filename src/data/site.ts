@@ -5,6 +5,10 @@ export const site = {
   name: 'Marlbridge',
   tagline: 'Bridging Knowledge and Opportunity.',
   url: 'https://marlbridge.com',
+  /** WhatsApp line (owner-confirmed 2026-08-19; see WhatsAppButton.astro).
+   *  `number` is the wa.me form (no + or leading zero); `display` is for text.
+   *  Audit 3 (25 Nov 2026): one constant so translated contact pages can show it. */
+  whatsapp: { number: '923239149918', display: '+92 323 9149918' },
   /**
    * v1.x Global Positioning update -- rewritten to read as a global
    * institute without claiming anything not yet true. "Online tutoring for

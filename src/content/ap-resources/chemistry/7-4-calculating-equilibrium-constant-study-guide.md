@@ -112,7 +112,7 @@ Notice two things in the figure. First, the reactants do not run out: both are s
 ## Worked example 1: substituting measured values
 
 **Question.** (a) For 2NOCl(g) ⇌ 2NO(g) + Cl₂(g), an equilibrium mixture contains [NOCl] = 0.0500 mol L⁻¹, [NO] = 0.0100 mol L⁻¹ and [Cl₂] = 0.00500 mol L⁻¹. Calculate Kc.
-(b) For 2NO₂(g) ⇌ 2NO(g) + O₂(g), the equilibrium partial pressures in a vessel are P_NO₂ = 0.400 atm, P_NO = 0.100 atm and P_O₂ = 0.0500 atm. Calculate Kp.
+(b) For 2NO₂(g) ⇌ 2NO(g) + O₂(g), the equilibrium partial pressures in a vessel are P<sub>NO₂</sub> = 0.400 atm, P<sub>NO</sub> = 0.100 atm and P<sub>O₂</sub> = 0.0500 atm. Calculate Kp.
 
 **(a)**
 1. Kc = [NO]²[Cl₂] / [NOCl]².
@@ -121,7 +121,7 @@ Notice two things in the figure. First, the reactants do not run out: both are s
 4. Kc = 5.00 × 10⁻⁷ ÷ 2.50 × 10⁻³ = **2.00 × 10⁻⁴**.
 
 **(b)**
-1. Kp = (P_NO)² × P_O₂ / (P_NO₂)².
+1. Kp = (P<sub>NO</sub>)² × P<sub>O₂</sub> / (P<sub>NO₂</sub>)².
 2. Substitute: Kp = (0.100)² × 0.0500 / (0.400)² = 5.00 × 10⁻⁴ / 0.160.
 3. Kp = **3.13 × 10⁻³**.
 
@@ -160,8 +160,8 @@ Work in concentrations from the start. If you are given moles, divide by the vol
 
 **Question.** Solid ammonium carbamate is placed in an evacuated flask and heated. It decomposes: NH₂COONH₄(s) ⇌ 2NH₃(g) + CO₂(g). When equilibrium is reached, the total pressure is 0.300 atm and some solid remains. Calculate Kp.
 
-1. **Expression.** The solid is left out: Kp = (P_NH₃)² × P_CO₂.
-2. **Partial pressures.** All the gas comes from the solid, in the ratio 2 NH₃ : 1 CO₂. So NH₃ is 2/3 of the total pressure and CO₂ is 1/3: P_NH₃ = 0.200 atm, P_CO₂ = 0.100 atm. (Check: 0.200 + 0.100 = 0.300 atm.)
+1. **Expression.** The solid is left out: Kp = (P<sub>NH₃</sub>)² × P<sub>CO₂</sub>.
+2. **Partial pressures.** All the gas comes from the solid, in the ratio 2 NH₃ : 1 CO₂. So NH₃ is 2/3 of the total pressure and CO₂ is 1/3: P<sub>NH₃</sub> = 0.200 atm, P<sub>CO₂</sub> = 0.100 atm. (Check: 0.200 + 0.100 = 0.300 atm.)
 3. **Substitute.** Kp = (0.200)² × 0.100 = 0.0400 × 0.100 = **4.00 × 10⁻³**.
 
 **Common slip.** Splitting the total pressure in half for each gas (0.150 atm each) ignores the 2 : 1 ratio and gives 3.38 × 10⁻³.

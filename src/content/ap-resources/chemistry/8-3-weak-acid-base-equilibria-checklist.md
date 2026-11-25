@@ -33,16 +33,16 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can explain why [H₃O⁺] in a weak acid solution is much smaller than the starting acid concentration. *(Guide: "Weak means mostly not ionized"; Practice Q1)*
 - I can rank [HA], [H₃O⁺], [A⁻] and [OH⁻] in a weak acid solution. *(Guide: Figure 1; Practice Q1)*
-- I can write K_a and K_b expressions, leaving water out, and say that a larger pK means a weaker acid or base. *(Guide; Revision notes)*
-- I can explain why K_a does not change on dilution but percent ionization rises. *(Guide: "Percent ionization"; Practice Q4)*
+- I can write K<sub>a</sub> and K<sub>b</sub> expressions, leaving water out, and say that a larger pK means a weaker acid or base. *(Guide; Revision notes)*
+- I can explain why K<sub>a</sub> does not change on dilution but percent ionization rises. *(Guide: "Percent ionization"; Practice Q4)*
 
 ## Calculation
 
-- I can find the pH of a weak acid from c and K_a or pK_a, and check the 5% approximation. *(Guide: Worked example 1; Practice Q2)*
+- I can find the pH of a weak acid from c and K<sub>a</sub> or pK<sub>a</sub>, and check the 5% approximation. *(Guide: Worked example 1; Practice Q2)*
 - I can solve the quadratic when the 5% check fails. *(Practice Q6)*
 - I can find the pH of a weak base, going through [OH⁻] and pOH. *(Guide: Worked example 3; Practice Q5)*
-- I can calculate K_a or K_b and percent ionization from a measured pH. *(Guide: Worked example 2; Practice Q5)*
-- I can convert between K_a and K_b, or pK_a and pK_b, for a conjugate pair. *(Guide: "Linking a conjugate pair"; Practice Q3)*
+- I can calculate K<sub>a</sub> or K<sub>b</sub> and percent ionization from a measured pH. *(Guide: Worked example 2; Practice Q5)*
+- I can convert between K<sub>a</sub> and K<sub>b</sub>, or pK<sub>a</sub> and pK<sub>b</sub>, for a conjugate pair. *(Guide: "Linking a conjugate pair"; Practice Q3)*
 
 ## Reasoning
 

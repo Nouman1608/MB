@@ -14,11 +14,15 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import { CAMBRIDGE_EXAM_SERIES, EXAM_SERIES_KEY_DATES } from '../../data/academic/exam-calendar.ts';
+import { CAMBRIDGE_EXAM_SERIES, EXAM_SERIES_KEY_DATES, examSeriesProblems } from '../../data/academic/exam-calendar.ts';
 import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
 
 const path = '/exam-calendar/';
+// Audit 3 item 44: a half-filled or mismatched record fails the build here
+// instead of going live (see the comment above EXAM_SERIES_KEY_DATES).
+const calendarProblems = examSeriesProblems();
+if (calendarProblems.length > 0) throw new Error(`exam-calendar.ts: ${calendarProblems.join('; ')}`);
 ---
 <PageLayout
   title="Cambridge Exam Dates 2026–2027: Entries, Exams & Results"
@@ -89,8 +93,8 @@ const path = '/exam-calendar/';
         {featured.partialNote && (<p class="m-0 mt-4 rounded-sm border border-dashed border-rule bg-white p-3 text-[13.5px] leading-[1.6] text-ink-mute">{featured.partialNote}</p>)}
 
         <p class="m-0 mt-6 text-[13px] text-ink-mute">
-          Sourced directly from Cambridge's own {featured.partialNote ? 'final exam timetables' : 'key-dates document'} for the {featured.seriesLabel} series ({featured.sourceScope}), verified {featured.verifiedOn} —
-          {' '}<a href={featured.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{featured.extraSources ? 'Zone 1' : 'view the original PDF'}</a>{featured.extraSources && featured.extraSources.map((x) => (<>{', '}<a href={x.url} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{x.label}</a></>))}.
+          Sourced directly from Cambridge's own {featured.sourceDocument ?? 'key-dates document'} for the {featured.seriesLabel} series ({featured.sourceScope}), verified {featured.verifiedOn} —
+          {' '}<a href={featured.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{featured.officialSourceLabel ?? 'view the original PDF'}</a>{featured.extraSources && featured.extraSources.map((x) => (<>{', '}<a href={x.url} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{x.label}</a></>))}.
         </p>
         </div>
       </Container>

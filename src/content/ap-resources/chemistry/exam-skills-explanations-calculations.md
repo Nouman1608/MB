@@ -276,7 +276,7 @@ Two Mg²⁺ and four Br⁻ ions, separated (ratio 1 : 2; total charge 2 × (+2) 
 
 <details><summary>Model answer</summary>
 
-(a) q = 40.0 J s⁻¹ × 250 s = 10 000 J. n = 14.5 g ÷ 58.0 g mol⁻¹ = 0.250 mol. ΔH_vap = 10 000 J ÷ 0.250 mol = **40.0 kJ mol⁻¹**. Assumption: all the heater's energy goes into vaporizing the liquid, with none lost to the surroundings. If energy is lost, the true value is lower.
+(a) q = 40.0 J s⁻¹ × 250 s = 10 000 J. n = 14.5 g ÷ 58.0 g mol⁻¹ = 0.250 mol. ΔH<sub>vap</sub> = 10 000 J ÷ 0.250 mol = **40.0 kJ mol⁻¹**. Assumption: all the heater's energy goes into vaporizing the liquid, with none lost to the surroundings. If energy is lost, the true value is lower.
 
 (b) During boiling, the energy supplied is used to overcome the attractions between particles as they separate into the gas, increasing their potential energy. The average kinetic energy of the particles does not change, so the temperature stays constant while liquid remains.
 

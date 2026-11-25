@@ -38,7 +38,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 - **Melting, vaporization and sublimation** need energy to overcome attractions between particles. The system's energy rises: endothermic.
 - **Freezing, condensation and deposition** release energy as attractions form. The system's energy falls: exothermic.
 - During a phase change of a pure substance, the **temperature stays constant**. The energy changes the particles' potential energy, not their average kinetic energy.
-- **ΔH_vap is much larger than ΔH_fus** because boiling separates the particles completely; melting only loosens them. Stronger intermolecular forces mean a larger ΔH_vap.
+- **ΔH<sub>vap</sub> is much larger than ΔH<sub>fus</sub>** because boiling separates the particles completely; melting only loosens them. Stronger intermolecular forces mean a larger ΔH<sub>vap</sub>.
 
 ## Key relationships
 
@@ -46,10 +46,10 @@ Short on time? This page is the recap. For explanations and worked examples, use
 |---|---|---|
 | q = n × ΔH | q in kJ, n in mol, ΔH in kJ mol⁻¹ | find the energy for a phase change at constant temperature |
 | n = m / M | m in g, M in g mol⁻¹ | turn a mass into moles before using ΔH |
-| ΔH_freezing = −ΔH_fus; ΔH_cond = −ΔH_vap | same size, opposite sign | find the energy released by the reverse change |
+| ΔH<sub>freezing</sub> = −ΔH<sub>fus</sub>; ΔH<sub>cond</sub> = −ΔH<sub>vap</sub> | same size, opposite sign | find the energy released by the reverse change |
 | q = mcΔT | m in g, c in J g⁻¹ °C⁻¹ | the sloping parts of a heating curve (one phase only) |
 
-**Water:** ΔH_fus = 6.01 kJ mol⁻¹ (0 °C), ΔH_vap = 40.7 kJ mol⁻¹ (100 °C).
+**Water:** ΔH<sub>fus</sub> = 6.01 kJ mol⁻¹ (0 °C), ΔH<sub>vap</sub> = 40.7 kJ mol⁻¹ (100 °C).
 
 **Heating curve:** flat section = phase change (its temperature is the melting or boiling point; its length is the energy). Sloping section = one phase warming (a steeper slope means a smaller heat capacity).
 
@@ -74,6 +74,6 @@ Short on time? This page is the recap. For explanations and worked examples, use
 1. Energy needed to melt 2.00 mol of ice at 0 °C? *(+12.0 kJ)*
 2. Energy change when 0.500 mol of steam condenses at 100 °C? *(−20.4 kJ, i.e. 20.4 kJ released)*
 3. Energy change when 9.01 g of water freezes at 0 °C? *(−3.01 kJ)*
-4. On a heating curve, what does the length of the higher flat section give you? *(The energy to vaporize the whole sample; divide by the moles to get ΔH_vap.)*
+4. On a heating curve, what does the length of the higher flat section give you? *(The energy to vaporize the whole sample; divide by the moles to get ΔH<sub>vap</sub>.)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/6-5-energy-phase-changes-practice/).

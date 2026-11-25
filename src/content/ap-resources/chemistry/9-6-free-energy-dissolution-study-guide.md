@@ -50,18 +50,18 @@ reviewedDate: 2026-11-08
 
 ## Dissolving as a thermodynamic process
 
-In [Topic 3.10](/advanced-course-resources/chemistry/3-10-solubility-study-guide/) you explained solubility with intermolecular forces and "like dissolves like". In [Topic 7.11](/advanced-course-resources/chemistry/7-11-introduction-solubility-equilibria-study-guide/) you treated dissolving a sparingly soluble salt as an equilibrium with constant K_sp. Now you can join these with free energy.
+In [Topic 3.10](/advanced-course-resources/chemistry/3-10-solubility-study-guide/) you explained solubility with intermolecular forces and "like dissolves like". In [Topic 7.11](/advanced-course-resources/chemistry/7-11-introduction-solubility-equilibria-study-guide/) you treated dissolving a sparingly soluble salt as an equilibrium with constant K<sub>sp</sub>. Now you can join these with free energy.
 
 For a salt MX dissolving in water:
 
-MX(s) ⇌ M⁺(aq) + X⁻(aq)  K = K_sp
+MX(s) ⇌ M⁺(aq) + X⁻(aq)  K = K<sub>sp</sub>
 
 The free energy change for this process, ΔG°(dissolution), works like any other ΔG°:
 
 - **ΔG° = ΔH° − TΔS°** (Topic 9.3), and
-- **ΔG° = −RT ln K_sp** ([Topic 9.5](/advanced-course-resources/chemistry/9-5-free-energy-equilibrium-study-guide/)).
+- **ΔG° = −RT ln K<sub>sp</sub>** ([Topic 9.5](/advanced-course-resources/chemistry/9-5-free-energy-equilibrium-study-guide/)).
 
-So a salt with a negative ΔG° of dissolution has K_sp > 1 and is very soluble. A salt with a large positive ΔG° has a tiny K_sp and is only sparingly soluble. The question for this topic is: **what decides ΔH° and ΔS° for dissolving, and why is the result so hard to predict?**
+So a salt with a negative ΔG° of dissolution has K<sub>sp</sub> > 1 and is very soluble. A salt with a large positive ΔG° has a tiny K<sub>sp</sub> and is only sparingly soluble. The question for this topic is: **what decides ΔH° and ΔS° for dissolving, and why is the result so hard to predict?**
 
 ## Three factors at the particle level
 
@@ -124,26 +124,26 @@ So the particle picture explains **why** a salt behaves as it does once you know
 
 ## Temperature and solubility
 
-Because ΔG° = ΔH° − TΔS°, temperature changes ΔG° of dissolution and therefore K_sp.
+Because ΔG° = ΔH° − TΔS°, temperature changes ΔG° of dissolution and therefore K<sub>sp</sub>.
 
-- If dissolving is **endothermic** (ΔH° > 0), K_sp **increases** as the temperature rises: the salt becomes more soluble.
-- If dissolving is **exothermic** (ΔH° < 0), K_sp **decreases** as the temperature rises.
+- If dissolving is **endothermic** (ΔH° > 0), K<sub>sp</sub> **increases** as the temperature rises: the salt becomes more soluble.
+- If dissolving is **exothermic** (ΔH° < 0), K<sub>sp</sub> **decreases** as the temperature rises.
 
 This follows from K = e^(−ΔH°/RT + ΔS°/R), assuming ΔH° and ΔS° are roughly constant: only the ΔH° term depends on T. It matches Le Chatelier's principle, with heat treated as a reactant for an endothermic process.
 
 ## Worked example 1: an endothermic salt that still dissolves
 
-**Question.** For the invented salt MX, ΔH°(dissolution) = +18.0 kJ mol⁻¹ and ΔS°(dissolution) = +70.0 J mol⁻¹ K⁻¹. (a) Calculate ΔG° and K_sp at 298 K. (b) Explain the signs of ΔH° and ΔS° at the particle level. (c) Predict, with a calculation, how K_sp changes at 323 K.
+**Question.** For the invented salt MX, ΔH°(dissolution) = +18.0 kJ mol⁻¹ and ΔS°(dissolution) = +70.0 J mol⁻¹ K⁻¹. (a) Calculate ΔG° and K<sub>sp</sub> at 298 K. (b) Explain the signs of ΔH° and ΔS° at the particle level. (c) Predict, with a calculation, how K<sub>sp</sub> changes at 323 K.
 
 **(a)**
 1. ΔG° = ΔH° − TΔS° = 18.0 − (298)(0.0700) = 18.0 − 20.86 = **−2.86 kJ mol⁻¹**.
-2. K_sp = e^(−ΔG°/RT) = e^(2860 / 2477.6) = e^1.154 = **3.17**.
+2. K<sub>sp</sub> = e^(−ΔG°/RT) = e^(2860 / 2477.6) = e^1.154 = **3.17**.
 
-ΔG° is negative and K_sp > 1, so dissolving is thermodynamically favoured: MX is very soluble, even though dissolving it absorbs heat.
+ΔG° is negative and K<sub>sp</sub> > 1, so dissolving is thermodynamically favoured: MX is very soluble, even though dissolving it absorbs heat.
 
 **(b)** ΔH° is positive, so the energy needed to separate the ions (factor 1) and to break some water–water attractions (factor 2) is slightly more than the energy released by the new ion–dipole attractions (factor 3). ΔS° is positive, so the entropy gained by freeing the ions from the lattice is larger than the entropy lost as water molecules are ordered around them. This suggests the ions are not small or highly charged.
 
-**(c)** At 323 K: ΔG° = 18.0 − (323)(0.0700) = 18.0 − 22.61 = −4.61 kJ mol⁻¹. RT = 8.314 × 323 = 2685.4 J mol⁻¹, so K_sp = e^(4610 / 2685.4) = e^1.717 = **5.57**. K_sp increases, so MX is more soluble in warm water, as expected for endothermic dissolving.
+**(c)** At 323 K: ΔG° = 18.0 − (323)(0.0700) = 18.0 − 22.61 = −4.61 kJ mol⁻¹. RT = 8.314 × 323 = 2685.4 J mol⁻¹, so K<sub>sp</sub> = e^(4610 / 2685.4) = e^1.717 = **5.57**. K<sub>sp</sub> increases, so MX is more soluble in warm water, as expected for endothermic dissolving.
 
 ## Worked example 2: exothermic, yet barely soluble
 
@@ -154,15 +154,15 @@ This follows from K = e^(−ΔH°/RT + ΔS°/R), assuming ΔH° and ΔS° are ro
 | A | large, charges +1 and −1 | +5.0 kJ mol⁻¹ | +40 J mol⁻¹ K⁻¹ |
 | B | small, charges +2 and −2 | −10.0 kJ mol⁻¹ | −120 J mol⁻¹ K⁻¹ |
 
-(a) Calculate ΔG° and K_sp for each salt. (b) Explain why B, which dissolves exothermically, is far less soluble than A.
+(a) Calculate ΔG° and K<sub>sp</sub> for each salt. (b) Explain why B, which dissolves exothermically, is far less soluble than A.
 
 **(a)**
-- Salt A: ΔG° = 5.0 − (298)(0.040) = 5.0 − 11.92 = **−6.92 kJ mol⁻¹**; K_sp = e^(6920/2477.6) = e^2.793 = **16.3**.
-- Salt B: ΔG° = −10.0 − (298)(−0.120) = −10.0 + 35.76 = **+25.8 kJ mol⁻¹**; K_sp = e^(−25 760/2477.6) = e^(−10.40) = **3.05 × 10⁻⁵**.
+- Salt A: ΔG° = 5.0 − (298)(0.040) = 5.0 − 11.92 = **−6.92 kJ mol⁻¹**; K<sub>sp</sub> = e^(6920/2477.6) = e^2.793 = **16.3**.
+- Salt B: ΔG° = −10.0 − (298)(−0.120) = −10.0 + 35.76 = **+25.8 kJ mol⁻¹**; K<sub>sp</sub> = e^(−25 760/2477.6) = e^(−10.40) = **3.05 × 10⁻⁵**.
 
 **(b)** Enthalpy alone would wrongly suggest that B is the more soluble salt. The difference is entropy. B's small, doubly charged ions attract water molecules very strongly and hold many of them in ordered shells (factors 2 and 3). This ordering outweighs the entropy gained by freeing the ions, so ΔS° is strongly negative. At 298 K, −TΔS° = +35.8 kJ mol⁻¹, which more than cancels the favourable ΔH° of −10.0 kJ mol⁻¹. For A, the large singly charged ions order fewer water molecules, ΔS° is positive, and −TΔS° = −11.9 kJ mol⁻¹ outweighs the small positive ΔH°.
 
-**Check.** The difference in ΔG° is 25.8 − (−6.9) = 32.7 kJ mol⁻¹. At 298 K each 5.7 kJ mol⁻¹ is a factor of 10, and 32.7 ÷ 5.7 ≈ 5.7, so the K_sp values should differ by about 10⁵·⁷ ≈ 5 × 10⁵. They do: 16.3 ÷ (3.05 × 10⁻⁵) ≈ 5 × 10⁵.
+**Check.** The difference in ΔG° is 25.8 − (−6.9) = 32.7 kJ mol⁻¹. At 298 K each 5.7 kJ mol⁻¹ is a factor of 10, and 32.7 ÷ 5.7 ≈ 5.7, so the K<sub>sp</sub> values should differ by about 10⁵·⁷ ≈ 5 × 10⁵. They do: 16.3 ÷ (3.05 × 10⁻⁵) ≈ 5 × 10⁵.
 
 ## Worked example 3: how far does the enthalpy-only model go?
 
@@ -181,8 +181,8 @@ This follows from K = e^(−ΔH°/RT + ΔS°/R), assuming ΔH° and ΔS° are ro
 - **"Dissolving always increases entropy."** Freeing ions increases entropy, but ordering water around ions decreases it. The total can be negative.
 - **"Breaking the lattice releases energy."** Separating ions always needs energy. Energy is released when the ions are attracted to water molecules.
 - **"Dissolving breaks covalent bonds inside polyatomic ions."** NH₄⁺, NO₃⁻ and SO₄²⁻ stay intact; only the attractions between ions are overcome.
-- **"A positive ΔG° of dissolution means none of the salt dissolves."** It means K_sp < 1. A small amount always dissolves.
-- **"Hot water always dissolves more salt."** That is true only when dissolving is endothermic. When it is exothermic, K_sp falls as temperature rises.
+- **"A positive ΔG° of dissolution means none of the salt dissolves."** It means K<sub>sp</sub> < 1. A small amount always dissolves.
+- **"Hot water always dissolves more salt."** That is true only when dissolving is endothermic. When it is exothermic, K<sub>sp</sub> falls as temperature rises.
 
 ## Where this leads
 

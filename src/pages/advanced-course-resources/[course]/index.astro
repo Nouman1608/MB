@@ -14,12 +14,12 @@ import ApTrademarkNote from '../../../components/ap/ApTrademarkNote.astro';
 import { AP_COURSES, type ApCourse } from '../../../data/ap/frameworks';
 import { AP_SOURCES } from '../../../data/ap/sources';
 import { AP_MARK_IN_METADATA } from '../../../data/ap/config';
-import { ONE_TO_ONE_ONLY_PRICING } from '../../../data/pricing';
+import { ONE_TO_ONE_ONLY_PRICING, oneToOneOnlyConversionFor } from '../../../data/pricing';
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
 import { absoluteUrl } from '../../../utils/seo/meta';
 import {
-  apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apResourcesForCourse, apTypeLabel, formatExamDate, apPracticesLabel, type ApEntry,
+  apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apResourcesForCourse, apTypeLabel, formatExamDate, formatDay, apPracticesLabel, type ApEntry,
 } from '../../../utils/ap/library';
 import { apDeckFor, apFlashcardsPath, apUnitsWithCards } from '../../../data/ap-flashcards';
 
@@ -72,11 +72,23 @@ const itemList = resources.length ? {
   name: `Marlbridge resources: ${apMetaName(c)}`,
   itemListElement: resources.map((r, i) => ({ '@type': 'ListItem', position: i + 1, name: r.data.title, url: absoluteUrl(apUrls.resource(r)) })),
 } : null;
+// Audit 3, item 28: the 155-character snippet cut ended long course names at "...: exam format."
+// Use the longest wording that fits whole; the shorter ones only drop the framework year or the exam series.
+const hubDescriptionTail = 'exam format, unit weightings and original study guides, notes and practice.';
+const hubDescription = [
+  `Free unit-by-unit roadmap for ${apMetaName(c)} (2026–27 framework, May 2027 exam): ${hubDescriptionTail}`,
+  `Free unit-by-unit roadmap for ${apMetaName(c)} (May 2027 exam): ${hubDescriptionTail}`,
+  `Free unit-by-unit roadmap for ${apMetaName(c)}, with ${hubDescriptionTail}`,
+].find((t) => t.length <= 155) ?? `Free unit-by-unit roadmap for ${apMetaName(c)} (2026–27 framework, May 2027 exam).`;
+// D5 -- owner, 25 Nov 2026: show the set US dollar one-to-one fee beside the Pakistan fee.
+// Read from ONE_TO_ONE_ONLY_CONVERSIONS ('Other countries' row, status 'confirmed' since D-517); shown only while it is owner-set.
+const usdRow = oneToOneOnlyConversionFor('Other countries');
+const usdFee = usdRow && usdRow.currency === 'USD' && usdRow.status === 'confirmed' ? usdRow : undefined;
 const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800';
 ---
 <PageLayout
   title={`${apMetaName(c)}: Unit Roadmap and Study Guides`}
-  description={`Free unit-by-unit roadmap for ${apMetaName(c)} (2026–27 framework, May 2027 exam): exam format, unit weightings and original study guides, notes and practice.`}
+  description={hubDescription}
   path={path}
   eyebrow="Advanced course · 2026–27 framework"
   heading={`Marlbridge guide to ${visible}`}
@@ -119,7 +131,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
       </section>
 
       <p class="m-0 mt-8 max-w-[72ch] rounded-sm border border-gold-500 bg-ivory px-5 py-4 text-[15.5px] leading-[1.6]">
-        <strong class="text-navy-800">Want a teacher?</strong> Marlbridge teaches {visible} one-to-one online, {ONE_TO_ONE_ONLY_PRICING.symbol} {ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} per class in {ONE_TO_ONE_ONLY_PRICING.region}, and the first class is free.
+        <strong class="text-navy-800">Want a teacher?</strong> Marlbridge teaches {visible} one-to-one online, {ONE_TO_ONE_ONLY_PRICING.symbol} {ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} per class in {ONE_TO_ONE_ONLY_PRICING.region}{usdFee && <> or {usdFee.symbol} {usdFee.perClass.toLocaleString('en-US')} per class in {usdFee.region.toLowerCase()}</>}, and the first class is free.
         <a href="/programs/ap/" class="underline decoration-teal-500 underline-offset-2">About AP tuition</a> · <a href="/trial/?program=ap&amp;format=one-to-one&amp;source=resource" class="underline decoration-teal-500 underline-offset-2">Request a free trial</a>
       </p>
 
@@ -196,7 +208,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
       <h2 class={h2}>Questions</h2>
       <div class="max-w-[80ch]"><FAQ items={faqs} /></div>
       <h2 class={`${h2} mt-[clamp(40px,5vw,64px)]`}>Official sources</h2>
-      <p class="m-0 mb-3 max-w-[72ch] text-[15px] leading-[1.6] text-ink-mute">Everything on this page about the course structure and exam was checked against these College Board documents on {c.checkedOn.split('-').reverse().join('/')}. Always check them for later changes.</p>
+      <p class="m-0 mb-3 max-w-[72ch] text-[15px] leading-[1.6] text-ink-mute">Everything on this page about the course structure and exam was checked against these College Board documents on {formatDay(new Date(`${c.checkedOn}T00:00:00Z`))}. Always check them for later changes.</p>
       <ul class="m-0 list-disc space-y-1 ps-5 text-[15px]">
         {sources.map((s) => <li><a href={s.url} rel="noopener" class="underline decoration-teal-500 underline-offset-2">{s.title}</a></li>)}
       </ul>

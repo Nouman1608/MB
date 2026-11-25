@@ -53,7 +53,7 @@ These are **original Marlbridge practice questions**, not past exam questions. A
 - **ΔG° weighs both drives at one temperature.** Its sign decides favourability; the TΔS° term changes with T ([Topic 9.3](/advanced-course-resources/chemistry/9-3-gibbs-free-energy-thermodynamic-favorability-study-guide/)).
 - **ΔG° says nothing about speed.** A favoured reaction with a high activation energy is under kinetic control, not at equilibrium ([Topic 9.4](/advanced-course-resources/chemistry/9-4-thermodynamic-kinetic-control-study-guide/)).
 - **ΔG° and K carry the same information.** ΔG° = −RT ln K; compare ΔG° with RT to judge how far K is from 1 ([Topic 9.5](/advanced-course-resources/chemistry/9-5-free-energy-equilibrium-study-guide/)).
-- **Dissolving is a ΔG° question too.** Three particle-level factors partly cancel, so K_sp is hard to predict ([Topic 9.6](/advanced-course-resources/chemistry/9-6-free-energy-dissolution-study-guide/)).
+- **Dissolving is a ΔG° question too.** Three particle-level factors partly cancel, so K<sub>sp</sub> is hard to predict ([Topic 9.6](/advanced-course-resources/chemistry/9-6-free-energy-dissolution-study-guide/)).
 - **Unfavourable changes need a push:** outside energy, or a coupled reaction sharing a common intermediate ([Topic 9.7](/advanced-course-resources/chemistry/9-7-coupled-reactions-study-guide/)).
 - **Cells turn ΔG° into a voltage.** Galvanic cells run favoured reactions; electrolytic cells need a power supply; ΔG° = −nFE° ([Topics 9.8](/advanced-course-resources/chemistry/9-8-galvanic-voltaic-electrolytic-cells-study-guide/) and [9.9](/advanced-course-resources/chemistry/9-9-cell-potential-free-energy-study-guide/)).
 - **E tracks distance from equilibrium** (E = 0 at Q = K); charge counts electrons, so amounts reacting ([Topics 9.10](/advanced-course-resources/chemistry/9-10-cell-potential-under-nonstandard-conditions-study-guide/) and [9.11](/advanced-course-resources/chemistry/9-11-electrolysis-faradays-law-study-guide/)).
@@ -217,28 +217,28 @@ Cobalt: 0.004198 ÷ 2 = 0.002099 mol × 58.93 = **0.124 g lost**.
 
 ## Question 6 (constructed response · mixed)
 
-An invented 1:1 salt MY dissolves endothermically: MY(s) ⇌ M⁺(aq) + Y⁻(aq). K_sp = 5.09 × 10⁻³ at 298 K and 2.17 × 10⁻² at 348 K.
+An invented 1:1 salt MY dissolves endothermically: MY(s) ⇌ M⁺(aq) + Y⁻(aq). K<sub>sp</sub> = 5.09 × 10⁻³ at 298 K and 2.17 × 10⁻² at 348 K.
 
 (a) Calculate ΔG° of dissolution at each temperature.
 (b) Assume ΔH° and ΔS° are constant. Calculate both. Predict whether MY is more or less soluble at 5 °C.
 (c) Explain the signs of ΔH° and ΔS° in terms of the three particle-level factors in dissolving.
-(d) A student says: "K_sp is less than 1 at 298 K, so dissolving is not favoured and no MY dissolves." Evaluate this claim.
+(d) A student says: "K<sub>sp</sub> is less than 1 at 298 K, so dissolving is not favoured and no MY dissolves." Evaluate this claim.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** ΔG° = −RT ln K_sp.
+**(a)** ΔG° = −RT ln K<sub>sp</sub>.
 298 K: −(8.314)(298) ln(5.09 × 10⁻³) = **+13.1 kJ mol⁻¹**.
 348 K: −(8.314)(348) ln(2.17 × 10⁻²) = **+11.1 kJ mol⁻¹**.
 
 **(b)** Write ΔG° = ΔH° − TΔS° twice:
 13.1 = ΔH° − 298ΔS° and 11.1 = ΔH° − 348ΔS°.
 Subtract: 2.0 = 50ΔS°, so ΔS° = 0.040 kJ K⁻¹ mol⁻¹ = **+40 J K⁻¹ mol⁻¹**. Then ΔH° = 13.1 + 298(0.040) = **+25.0 kJ mol⁻¹**.
-At 278 K (5 °C), ΔG° = 25.0 − 278(0.040) = +13.9 kJ mol⁻¹, larger than at 298 K, so K_sp is smaller (about 2.5 × 10⁻³): MY is **less soluble**.
+At 278 K (5 °C), ΔG° = 25.0 − 278(0.040) = +13.9 kJ mol⁻¹, larger than at 298 K, so K<sub>sp</sub> is smaller (about 2.5 × 10⁻³): MY is **less soluble**.
 
 **(c)** **ΔH° > 0:** separating the ions and breaking some water–water attractions needs more energy than the new ion–water attractions release. **ΔS° > 0 but modest:** ions leaving the lattice gain entropy, partly cancelled by water ordering around the ions.
 
-**(d)** **Only partly right.** ΔG° > 0 means K_sp < 1: the ions cannot reach 1 M. But K_sp is not zero: [M⁺] = [Y⁻] = √(5.09 × 10⁻³) = **0.071 M** at equilibrium. MY is slightly soluble, not insoluble.
+**(d)** **Only partly right.** ΔG° > 0 means K<sub>sp</sub> < 1: the ions cannot reach 1 M. But K<sub>sp</sub> is not zero: [M⁺] = [Y⁻] = √(5.09 × 10⁻³) = **0.071 M** at equilibrium. MY is slightly soluble, not insoluble.
 
 | Point | What earns it |
 |---|---|

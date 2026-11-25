@@ -59,7 +59,7 @@ For N₂O₄(g) ⇌ 2NO₂(g), an equilibrium mixture contains [N₂O₄] = 0.04
 
 ## Question 2 (multiple choice · core)
 
-For FeO(s) + CO(g) ⇌ Fe(s) + CO₂(g), the equilibrium partial pressures are P_CO = 0.80 atm and P_CO₂ = 0.32 atm. What is Kp?
+For FeO(s) + CO(g) ⇌ Fe(s) + CO₂(g), the equilibrium partial pressures are P<sub>CO</sub> = 0.80 atm and P<sub>CO₂</sub> = 0.32 atm. What is Kp?
 
 - (A) 2.5
 - (B) 1.12
@@ -69,7 +69,7 @@ For FeO(s) + CO(g) ⇌ Fe(s) + CO₂(g), the equilibrium partial pressures are P
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** The solids are left out, so Kp = P_CO₂ / P_CO = 0.32 / 0.80 = 0.40.
+**Answer: (C).** The solids are left out, so Kp = P<sub>CO₂</sub> / P<sub>CO</sub> = 0.32 / 0.80 = 0.40.
 
 - (A) is upside down (0.80 ÷ 0.32).
 - (B) adds the two pressures.
@@ -185,9 +185,9 @@ At equilibrium the total pressure is 1.15 atm.
 | Equilibrium | 1.00 − 2y | 2y | y |
 
 Total pressure = (1.00 − 2y) + 2y + y = 1.00 + y = 1.15, so y = 0.15 atm.
-P_S₂ = **0.15 atm**, P_H₂ = **0.30 atm**, P_H₂S = 1.00 − 0.30 = **0.70 atm**.
+P<sub>S₂</sub> = **0.15 atm**, P<sub>H₂</sub> = **0.30 atm**, P<sub>H₂S</sub> = 1.00 − 0.30 = **0.70 atm**.
 
-**(c)** Kp = (P_H₂)² × P_S₂ / (P_H₂S)² = (0.30)² × 0.15 / (0.70)² = 0.0135 / 0.49 = **0.028** (0.02755 before rounding; two significant figures, because y = 0.15 has two).
+**(c)** Kp = (P<sub>H₂</sub>)² × P<sub>S₂</sub> / (P<sub>H₂S</sub>)² = (0.30)² × 0.15 / (0.70)² = 0.0135 / 0.49 = **0.028** (0.02755 before rounding; two significant figures, because y = 0.15 has two).
 
 | Point | What earns it |
 |---|---|

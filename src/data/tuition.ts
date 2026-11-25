@@ -35,7 +35,7 @@ export const TRIAL_STEPS: readonly Step[] = [
   },
   {
     title: 'We confirm a teacher and a time',
-    body: 'We match you with the specialist for your subject and level, agree a time in your own time zone, and send the joining details.',
+    body: 'We match you with the specialist for your subject and level, agree a time in the time zone of the country you give us, and send the joining details.',
   },
   {
     title: 'You attend the free class',

@@ -47,6 +47,76 @@ import { REGION_PRICING, formatFee, feeFor, isIndicative, type PriceStatus } fro
 
 export type LocaleCode = 'ar' | 'ur' | 'bn';
 
+/**
+ * Audit round 3 (item 17, 25 Nov 2026) -- the region names in the fee tables
+ * (REGION_PRICING, ONE_TO_ONE_PRICING, IB_PRICING in src/data/pricing.ts)
+ * rendered in English on every translated page. These are the same names in
+ * each page's language. Pakistan, the UK and Europe reuse the spellings
+ * already used in src/i18n (copy.ts, legal.ts, marketing.ts); the other
+ * names are new AI-assisted translations, listed for native review in
+ * reports/audit3/A2.md. A region missing here falls back to its English
+ * name, so a new pricing row can never render blank.
+ */
+export const REGION_NAMES: Record<LocaleCode, Readonly<Record<string, string>>> = {
+  ar: {
+    'Pakistan': 'باكستان',
+    'Saudi Arabia': 'المملكة العربية السعودية',
+    'United Arab Emirates': 'الإمارات العربية المتحدة',
+    'Qatar': 'قطر',
+    'Kuwait': 'الكويت',
+    'Bahrain': 'البحرين',
+    'Oman': 'عُمان',
+    'United Kingdom': 'المملكة المتحدة',
+    'Europe': 'أوروبا',
+    'Malaysia': 'ماليزيا',
+    'Singapore': 'سنغافورة',
+    'Other countries': 'دول أخرى',
+  },
+  ur: {
+    'Pakistan': 'پاکستان',
+    'Saudi Arabia': 'سعودی عرب',
+    'United Arab Emirates': 'متحدہ عرب امارات',
+    'Qatar': 'قطر',
+    'Kuwait': 'کویت',
+    'Bahrain': 'بحرین',
+    'Oman': 'عمان',
+    'United Kingdom': 'برطانیہ',
+    'Europe': 'یورپ',
+    'Malaysia': 'ملائیشیا',
+    'Singapore': 'سنگاپور',
+    'Other countries': 'دیگر ممالک',
+  },
+  bn: {
+    'Pakistan': 'পাকিস্তান',
+    'Saudi Arabia': 'সৌদি আরব',
+    'United Arab Emirates': 'সংযুক্ত আরব আমিরাত',
+    'Qatar': 'কাতার',
+    'Kuwait': 'কুয়েত',
+    'Bahrain': 'বাহরাইন',
+    'Oman': 'ওমান',
+    'United Kingdom': 'যুক্তরাজ্য',
+    'Europe': 'ইউরোপ',
+    'Malaysia': 'মালয়েশিয়া',
+    'Singapore': 'সিঙ্গাপুর',
+    'Other countries': 'অন্যান্য দেশ',
+  },
+};
+export const regionName = (locale: LocaleCode, region: string): string => REGION_NAMES[locale][region] ?? region;
+
+/**
+ * D4 (owner, audit round 3) -- the fee-tier column headings of the
+ * translated pricing tables (home and /pricing/), and from them the list of
+ * qualifications that have a price there. The Arabic home hero names only
+ * these, so it can never name a qualification the table gives no fee for.
+ * A tier counts only if REGION_PRICING actually carries an amount for it.
+ * The headings are the Latin qualification names every translated page
+ * already uses; they are not translations.
+ */
+export const TIER_COLUMN_LABEL = { igcse: 'IGCSE/GCSE/O Level', aLevel: 'AS/A Level' } as const;
+export const PRICED_QUALIFICATIONS: readonly string[] = (Object.keys(TIER_COLUMN_LABEL) as (keyof typeof TIER_COLUMN_LABEL)[])
+  .filter((tier) => REGION_PRICING.some((r) => Number.isFinite(r[tier])))
+  .flatMap((tier) => TIER_COLUMN_LABEL[tier].split('/'));
+
 export interface LocaleCopy {
   htmlLang: string;
   dir: 'rtl' | 'ltr';
@@ -73,6 +143,12 @@ export interface LocaleCopy {
   contactBody: string;
   contactButton: string;
   englishSiteLink: string;
+  /** Audit 3 item 17 -- PRICING_TERMS.unsupportedRegionNote in this language
+   * (it rendered in English). Keep in step with the English sentence. */
+  unsupportedRegionNote: string;
+  /** D3 (owner, audit round 3) -- Bengali only: no taka row; Bangladesh
+   * families pay the "Other countries (US dollars)" rate. */
+  bangladeshNote?: string;
 }
 
 export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
@@ -83,7 +159,8 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     reviewBanner: 'تمت ترجمة هذه الصفحة بمساعدة الذكاء الاصطناعي وهي في انتظار مراجعة فريق مارلبريدج. إذا كان هناك ما يحتاج إلى توضيح، يُرجى التواصل معنا باللغة الإنجليزية.',
     eyebrow: 'مارلبريدج',
     h1: 'دروس خصوصية دولية لطلاب Cambridge وEdexcel وAQA وOCR وOxfordAQA',
-    subhead: 'دروس فردية وفي مجموعات صغيرة لطلاب IGCSE وO Level وGCSE وA Level، يقدّمها متخصصون في المادة يدرّسون وفق المنهج الدقيق الذي يحدده مجلس الامتحانات الخاص بك.',
+    // D4 -- the qualifications named here are the ones the pricing table prices (PRICED_QUALIFICATIONS).
+    subhead: `دروس فردية وفي مجموعات صغيرة لطلاب ${PRICED_QUALIFICATIONS.join(' و')}، يقدّمها متخصصون في المادة يدرّسون وفق المنهج الدقيق الذي يحدده مجلس الامتحانات الخاص بك.`,
     ctaContact: 'تواصل معنا',
     pillars: [
       { title: 'تدريس خاص بكل مجلس امتحاني', body: 'يُخطَّط كل درس وفق رمز المنهج الدقيق الخاص بك، وليس منهجًا عامًا.' },
@@ -93,7 +170,7 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     locationNote: 'تُقام الدروس الحضورية فقط من أكاديميتنا في باكستان؛ وفي أي مكان آخر، نقدّم التدريس مباشرة عبر الإنترنت.',
     pricingHeading: 'الأسعار',
     pricingNote: 'أسعار الدروس الجماعية معروضة بعملة منطقتك، لكل مادة شهريًا. أما الدروس الفردية وتدريس IB فتُحتسب لكل درس (راجع صفحة الأسعار).',
-    tableHeaders: { region: 'المنطقة', currency: 'العملة', igcse: 'IGCSE', aLevel: 'A Level', status: 'الحالة' },
+    tableHeaders: { region: 'المنطقة', currency: 'العملة', igcse: TIER_COLUMN_LABEL.igcse, aLevel: TIER_COLUMN_LABEL.aLevel, status: 'الحالة' },
     termsNote: 'الدرس التجريبي الأول مجاني. تُطبَّق على الدروس الجماعية خصومات عند تسجيل ثلاث مواد أو أكثر، وكذلك للأشقاء المسجَّلين معًا.',
     indicativeNote: 'تقديري: مبلغ استرشادي بعملتك، محوَّل من رسوم باكستان. قد يختلف مبلغ فاتورتك قليلًا بحسب سعر الصرف، ويُؤكَّد الرسم الدقيق كتابيًا قبل أي دفع.',
     statusLabel: { confirmed: 'يحدده مارلبريدج', indicative: 'تقديري' },
@@ -102,6 +179,7 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     contactBody: 'أخبرونا بما تحتاجونه وسنرد عليكم عبر واتساب خلال ساعة (من 8 صباحًا حتى 11 مساءً بتوقيت باكستان، كل يوم)، وعبر البريد الإلكتروني في اليوم نفسه.',
     contactButton: 'الانتقال إلى نموذج الاستفسار',
     englishSiteLink: 'عرض الموقع الكامل بالإنجليزية',
+    unsupportedRegionNote: `تُطبَّق أسعار الدولار الأمريكي («${REGION_NAMES.ar['Other countries']}») على الأسر في الدول غير المدرجة في الجدول بصف خاص بها. رسوم الدروس الجماعية بالدولار الأمريكي تقديرية، محوَّلة من رسوم باكستان؛ أما أسعار الدروس الفردية وIB وAP وOCR بالدولار الأمريكي فيحددها مارلبريدج. يُؤكَّد الرسم الدقيق كتابيًا قبل أي دفع.`,
   },
   ur: {
     htmlLang: 'ur', dir: 'rtl',
@@ -114,13 +192,13 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     ctaContact: 'ہم سے رابطہ کریں',
     pillars: [
       { title: 'بورڈ کے مطابق تدریس', body: 'ہر سبق آپ کے عین سلیبس کوڈ کے مطابق ترتیب دیا جاتا ہے، عمومی نصاب کے مطابق نہیں۔' },
-      { title: 'تجربہ کار مضمون کے ماہرین', body: 'اساتذہ کو آپ کے بورڈ، قابلیت اور مضمون کے مطابق منتخب کیا جاتا ہے۔' },
+      { title: 'تجربہ کار مضمون کے ماہرین', body: 'اساتذہ کو آپ کے بورڈ، کوالیفکیشن اور مضمون کے مطابق منتخب کیا جاتا ہے۔' },
       { title: 'شفاف فیس', body: 'نیچے اپنے علاقے کی درست ماہانہ فیس دیکھیں — کوئی چھپی ہوئی لاگت نہیں۔' },
     ],
     locationNote: 'کلاس روم میں حاضری کے ساتھ تدریس صرف پاکستان میں ہماری اکیڈمی سے کی جاتی ہے؛ باقی ہر جگہ ہم براہِ راست آن لائن پڑھاتے ہیں۔',
     pricingHeading: 'فیس',
     pricingNote: 'گروپ کلاسوں کی فیس آپ کے علاقے کی کرنسی میں، فی مضمون فی ماہ دکھائی گئی ہے۔ انفرادی کلاسوں اور آئی بی کی تدریس کی فیس فی کلاس ہے (فیس کا صفحہ دیکھیں)۔',
-    tableHeaders: { region: 'علاقہ', currency: 'کرنسی', igcse: 'IGCSE', aLevel: 'اے لیول', status: 'حیثیت' },
+    tableHeaders: { region: 'علاقہ', currency: 'کرنسی', igcse: TIER_COLUMN_LABEL.igcse, aLevel: TIER_COLUMN_LABEL.aLevel, status: 'حیثیت' },
     termsNote: 'پہلا ٹرائل سبق مفت ہے۔ گروپ کلاسوں میں تین یا زیادہ مضامین اور اکٹھے داخلہ لینے والے بہن بھائیوں کے لیے رعایت دی جاتی ہے۔',
     indicativeNote: 'تخمینی: آپ کی کرنسی میں ایک اندازہ، جو پاکستان کی فیس سے تبدیل کیا گیا ہے۔ شرحِ تبادلہ کے مطابق آپ کے بل کی رقم کچھ مختلف ہو سکتی ہے، اور کسی بھی ادائیگی سے پہلے درست فیس کی تحریری تصدیق کی جاتی ہے۔',
     statusLabel: { confirmed: 'مارل برج کی مقرر کردہ', indicative: 'تخمینی' },
@@ -129,6 +207,7 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     contactBody: 'ہمیں بتائیں کہ آپ کو کیا چاہیے، ہم واٹس ایپ پر ایک گھنٹے کے اندر (پاکستانی وقت کے مطابق روزانہ صبح 8 سے رات 11 بجے تک) اور ای میل پر اسی دن جواب دیں گے۔',
     contactButton: 'استفسار فارم پر جائیں',
     englishSiteLink: 'مکمل ویب سائٹ انگریزی میں دیکھیں',
+    unsupportedRegionNote: `جو ممالک جدول میں الگ سے درج نہیں، وہاں کے خاندانوں پر امریکی ڈالر کی فیس («${REGION_NAMES.ur['Other countries']}») لاگو ہوتی ہے۔ امریکی ڈالر میں گروپ فیس تخمینی ہے، جو پاکستان کی فیس سے تبدیل کی گئی ہے؛ امریکی ڈالر میں انفرادی کلاس، آئی بی، AP اور OCR کی فیس مارل برج کی مقرر کردہ ہے۔ کسی بھی ادائیگی سے پہلے درست فیس کی تحریری تصدیق کی جاتی ہے۔`,
   },
   bn: {
     htmlLang: 'bn', dir: 'ltr',
@@ -141,21 +220,25 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     ctaContact: 'আমাদের সাথে যোগাযোগ করুন',
     pillars: [
       { title: 'বোর্ড-নির্দিষ্ট পাঠদান', body: 'প্রতিটি পাঠ আপনার সঠিক সিলেবাস কোড অনুযায়ী পরিকল্পনা করা হয়, সাধারণ পাঠ্যক্রম অনুযায়ী নয়।' },
-      { title: 'অভিজ্ঞ বিষয় বিশেষজ্ঞ', body: 'শিক্ষকদের আপনার বোর্ড, যোগ্যতা এবং বিষয় অনুযায়ী মিলিয়ে দেওয়া হয়।' },
+      { title: 'অভিজ্ঞ বিষয় বিশেষজ্ঞ', body: 'শিক্ষকদের আপনার বোর্ড, কোয়ালিফিকেশন এবং বিষয় অনুযায়ী মিলিয়ে দেওয়া হয়।' },
       { title: 'স্বচ্ছ মূল্য', body: 'নিচে আপনার অঞ্চলের সঠিক মাসিক ফি দেখুন — কোনো লুকানো খরচ নেই।' },
     ],
     locationNote: 'সশরীরে ক্লাস কেবল পাকিস্তানে আমাদের একাডেমি থেকে পড়ানো হয়; অন্য সব জায়গায় আমরা সরাসরি অনলাইনে পড়াই।',
     pricingHeading: 'মূল্য',
     pricingNote: 'গ্রুপ ক্লাসের ফি প্রতি বিষয়ে প্রতি মাসে, আপনার অঞ্চলের মুদ্রায় দেখানো হয়েছে। একক ক্লাস ও IB টিউশনের ফি প্রতি ক্লাসে (মূল্য পৃষ্ঠা দেখুন)।',
-    tableHeaders: { region: 'অঞ্চল', currency: 'মুদ্রা', igcse: 'IGCSE', aLevel: 'A Level', status: 'অবস্থা' },
+    tableHeaders: { region: 'অঞ্চল', currency: 'মুদ্রা', igcse: TIER_COLUMN_LABEL.igcse, aLevel: TIER_COLUMN_LABEL.aLevel, status: 'অবস্থা' },
     termsNote: 'প্রথম ট্রায়াল ক্লাসটি বিনামূল্যে। গ্রুপ ক্লাসে তিন বা তার বেশি বিষয় এবং একসঙ্গে ভর্তি হওয়া ভাইবোনদের জন্য ছাড় প্রযোজ্য।',
     indicativeNote: 'আনুমানিক: আপনার মুদ্রায় একটি ধারণা, যা পাকিস্তানের ফি থেকে রূপান্তরিত। বিনিময় হার অনুযায়ী আপনার ইনভয়েসের অঙ্ক সামান্য ভিন্ন হতে পারে, এবং কোনো অর্থপ্রদানের আগে সঠিক ফি লিখিতভাবে নিশ্চিত করা হয়।',
     statusLabel: { confirmed: 'মার্লব্রিজ নির্ধারিত', indicative: 'আনুমানিক' },
     statusExplainer: '"মার্লব্রিজ নির্ধারিত" মানে ফি ওই মুদ্রাতেই স্থির, এবং আপনার ইনভয়েস সেই অঙ্কেই হয়। "আনুমানিক" মানে অঙ্কটি আপনার মুদ্রায় একটি ধারণা, যা নির্ধারিত ফি থেকে রূপান্তরিত; বিনিময় হার অনুযায়ী আপনার ইনভয়েসের অঙ্ক সামান্য ভিন্ন হতে পারে।',
     contactHeading: 'শুরু করতে প্রস্তুত?',
     contactBody: 'আপনার প্রয়োজন আমাদের জানান, আমরা WhatsApp-এ এক ঘণ্টার মধ্যে (প্রতিদিন, পাকিস্তান সময় সকাল ৮টা থেকে রাত ১১টা) এবং ইমেইলে একই দিনে উত্তর দেব।',
-    contactButton: 'অনুসন্ধান ফর্মে যান',
+    // Audit 3 item 18 -- was 'অনুসন্ধান ফর্মে যান', which reads as "go to the search form" (অনুসন্ধান is also the
+    // nav label for search). The button opens the contact page; 'যোগাযোগ ফর্ম' is the term legal.ts already uses.
+    contactButton: 'যোগাযোগ ফর্মে যান',
     englishSiteLink: 'সম্পূর্ণ ওয়েবসাইট ইংরেজিতে দেখুন',
+    unsupportedRegionNote: `যেসব দেশ টেবিলে আলাদাভাবে তালিকায় নেই, সেসব দেশের পরিবারের জন্য মার্কিন ডলারের ফি ("${REGION_NAMES.bn['Other countries']}") প্রযোজ্য। মার্কিন ডলারে গ্রুপ ফি আনুমানিক, যা পাকিস্তানের ফি থেকে রূপান্তরিত; মার্কিন ডলারে একক ক্লাস, IB, AP ও OCR-এর ফি মার্লব্রিজ নির্ধারিত। কোনো অর্থপ্রদানের আগে সঠিক ফি লিখিতভাবে নিশ্চিত করা হয়।`,
+    bangladeshNote: `বাংলাদেশের পরিবারগুলো "${REGION_NAMES.bn['Other countries']} (মার্কিন ডলার)" হারে ফি দেয়।`,
   },
 };
 

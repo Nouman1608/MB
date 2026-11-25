@@ -41,8 +41,8 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can find the pH when a strong acid or strong base is in excess, using the total volume. *(Guide: Worked example 1; Practice Q1, Q6(c))*
 - I can use a before/after mole table to find what is left after mixing. *(Practice Q5)*
 - I can calculate the pH of a buffer made by partial neutralisation, with the ratio the right way up. *(Guide: Worked example 2(a); Practice Q5, Q7(c))*
-- I can calculate the pH at equal moles using K_b of A⁻ or K_a of HB⁺. *(Guide: Worked example 3(b); Practice Q6(a), Q7(b))*
-- I can calculate K for a weak acid with a weak base from two pK_a values. *(Practice Q4)*
+- I can calculate the pH at equal moles using K<sub>b</sub> of A⁻ or K<sub>a</sub> of HB⁺. *(Guide: Worked example 3(b); Practice Q6(a), Q7(b))*
+- I can calculate K for a weak acid with a weak base from two pK<sub>a</sub> values. *(Practice Q4)*
 
 ## Reasoning
 

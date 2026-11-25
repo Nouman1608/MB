@@ -40,7 +40,7 @@ Short on time? This page is the recap. For explanations, the bar diagram and wor
 - Added **H₃O⁺** is removed by the **base member** (A⁻ or B). Added **OH⁻** is removed by the **acid member** (HA or BH⁺).
 - These reactions go essentially to completion. The strong acid or base is swapped for a weak one, so the pH changes only slightly.
 - Each addition converts some of one member into the other. The buffer works only while both remain in large amounts.
-- A buffer's pH sits near the pK_a of its weak acid, not necessarily near 7.
+- A buffer's pH sits near the pK<sub>a</sub> of its weak acid, not necessarily near 7.
 
 ## Key reactions
 
@@ -70,7 +70,7 @@ Short on time? This page is the recap. For explanations, the bar diagram and wor
 
 1. **Swapping the roles.** The base member removes acid; the acid member removes base.
 2. **Judging by labels.** Do the strong acid/base reaction first, then list what remains.
-3. **"Buffers keep pH at 7."** They keep it near the weak acid's pK_a.
+3. **"Buffers keep pH at 7."** They keep it near the weak acid's pK<sub>a</sub>.
 4. **"pH stays perfectly constant."** It changes, just much less than in water.
 5. **Writing H⁺ + OH⁻ → H₂O as the buffer reaction.** Show the buffer member reacting.
 

@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.1-study-guide"
 title: "Moles and Molar Mass: Study Guide (Chemistry 1.1)"
-description: "Learn why chemists count particles in moles, how molar mass links grams to particles, and how to convert between mass, moles and particles with dimensional analysis."
+description: "Learn why chemists count particles in moles, how molar mass links grams to particles, and how to convert between mass, moles and particles."
 course: "chemistry"
 unit: 1
 topics: ["1.1"]
@@ -33,9 +33,9 @@ faqs:
     answer: "They have the same number. Relative formula mass has no unit; molar mass is the mass of one mole and has the unit g mol⁻¹. For water both are 18.02, but only molar mass is 18.02 g mol⁻¹."
   - question: "Why are particle numbers so large?"
     answer: "Atoms are tiny: one carbon atom has a mass of about 2 × 10⁻²³ g. Any sample you can weigh therefore holds roughly 10²² particles or more."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
-updatedDate: 2026-10-05
+updatedDate: 2026-11-25
 author: "marlbridge-academic-team"
 editorialStatus: "reviewed"
 reviewer: "Nouman Ahmed"
@@ -48,7 +48,7 @@ In the lab you never count atoms one by one. You weigh a solid or measure a volu
 
 A mole is a fixed number of particles, in the same way that a dozen is 12 eggs:
 
-- **1 mol = 6.022 × 10²³ particles.** This number is Avogadro's number. Written as a constant with units, N_A = 6.022 × 10²³ mol⁻¹.
+- **1 mol = 6.022 × 10²³ particles.** This number is Avogadro's number. Written as a constant with units, N<sub>A</sub> = 6.022 × 10²³ mol⁻¹.
 - "Particles" means whatever the formula describes: atoms for Fe, molecules for H₂O, formula units for an ionic compound such as NaCl.
 
 ## Molar mass: why the numbers line up
@@ -99,7 +99,7 @@ The bracket in Ca(NO₃)₂ multiplies everything inside it: 2 nitrogen atoms an
 The two relationships you need are:
 
 - **n = m / M** (amount in mol = mass in g ÷ molar mass in g mol⁻¹)
-- **N = n × N_A** (number of particles = amount in mol × 6.022 × 10²³ mol⁻¹)
+- **N = n × N<sub>A</sub>** (number of particles = amount in mol × 6.022 × 10²³ mol⁻¹)
 
 You can go straight from grams to particles only by passing through moles.
 
@@ -143,7 +143,7 @@ The "g" cancels, then "mol" cancels, leaving "molecules". If you had flipped a f
 - **"Equal masses contain equal numbers of particles."** Only if the molar masses are equal. 10.0 g of Mg (24.31 g mol⁻¹) contains more atoms than 10.0 g of Al (26.98 g mol⁻¹).
 - **Ignoring subscripts and brackets.** In Ca(NO₃)₂ there are 6 oxygen atoms, not 3 and not 4.
 - **Mixing up molecules and atoms.** One mole of O₂ molecules contains two moles of O atoms.
-- **Multiplying by N_A when you should divide.** Converting a particle count *to* moles makes the number much smaller, so you divide by 6.022 × 10²³.
+- **Multiplying by N<sub>A</sub> when you should divide.** Converting a particle count *to* moles makes the number much smaller, so you divide by 6.022 × 10²³.
 - **Rounding too early.** Rounding the molar mass or the moles mid-calculation can shift the final significant figure. Round once, at the end.
 
 ## Where this leads

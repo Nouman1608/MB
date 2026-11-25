@@ -48,7 +48,7 @@ Short on time? This page is the recap. For explanations, diagrams and worked exa
 | Relationship | Units | Use it to |
 |---|---|---|
 | q = mcΔT | q in J, m in g, c in J g⁻¹ °C⁻¹, ΔT in °C (or K) | heat for a mass of one substance |
-| q = nC_mΔT, with C_m = c × M | C_m in J mol⁻¹ °C⁻¹ | heat for an amount in moles |
+| q = nC<sub>m</sub>ΔT, with C<sub>m</sub> = c × M | C<sub>m</sub> in J mol⁻¹ °C⁻¹ | heat for an amount in moles |
 | q = CΔT, with C = mc | C in J °C⁻¹ | heat for a whole object or a calorimeter |
 | ΔT = T(final) − T(initial) | °C or K (same size) | gives q its sign |
 | q(lost) + q(gained) = 0 | J | any insulated calorimeter |
@@ -67,7 +67,7 @@ Short on time? This page is the recap. For explanations, diagrams and worked exa
 2. **Sign of q(process).** It is opposite to q(solution).
 3. **"High c heats fast."** High c heats *slowly*.
 4. **Wrong mass.** Use the mass of the substance whose temperature changes (for a solution, water + solute).
-5. **Per gram vs per mole.** Match c with grams and C_m with moles.
+5. **Per gram vs per mole.** Match c with grams and C<sub>m</sub> with moles.
 6. **Too many significant figures.** ΔT, found by subtraction, often has fewer than the readings.
 7. **Halfway final temperature.** Only when the two heat capacities (mc) are equal.
 

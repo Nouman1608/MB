@@ -22,12 +22,12 @@ import PageLayout from '../../../../layouts/PageLayout.astro';
 import Section from '../../../../components/layout/Section.astro';
 import Container from '../../../../components/layout/Container.astro';
 import SubscribeBox from '../../../../components/tools/SubscribeBox.astro';
-import { DIAGNOSTIC_SETS, diagnosticPath, diagnosticsForCode, type DiagnosticSet } from '../../../../data/diagnostics';
+import { DIAGNOSTIC_SETS, diagnosticPath, diagnosticsForCode, diagnosticTopicSlugs, diagnosticSizeLabel, type DiagnosticSet } from '../../../../data/diagnostics';
 import { flagshipSpecs, academicHubPath } from '../../../../utils/academic';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { topicsFor } from '../../../../data/academic/syllabus-topics';
 import { buildClientQuestions } from '../../../../utils/practice/client-questions';
-import { questionsForTopic, retestPath, topicFilterIndex, coreFilterApplies, reportTopicSlug, RETEST_MIN_QUESTIONS } from '../../../../utils/practice/topic-filter';
+import { questionsForTopic, retestPath, topicFilterIndex, coreFilterApplies, RETEST_MIN_QUESTIONS } from '../../../../utils/practice/topic-filter';
 import { getResources } from '../../../../utils/content/collections';
 import { resourcesForCombination, STUDY_KIND, type StudyKind } from '../../../../utils/academic/combination-resources';
 import { getEntry } from 'astro:content';
@@ -48,14 +48,11 @@ const hub = academicHubPath(c);
 const courseId = `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`;
 
 const bank = buildClientQuestions(spec);
-const questions = set.questionIds.map((id) => {
-  const q = bank.find((x) => x.id === id);
-  if (!q) throw new Error(`Diagnostic ${set.code}/${set.slug}: question ${id} is not in the practice bank`);
-  // M9: a set may name the topic for a question whose file spans two topics.
-  const override = set.topicOverrides?.[q.id];
-  const reported = reportTopicSlug(q, override);
-  if (override !== undefined && reported === null) throw new Error(`Diagnostic ${set.code}/${set.slug}: topicOverrides names ${override}, which ${id} is not mapped to`);
-  const topicSlug = reported ?? 'general';
+// M9 / audit 3 item 42: the reported topic per question, by the rule the diagnostics hub also counts with.
+const reportedTopics = diagnosticTopicSlugs(set, bank);
+const questions = set.questionIds.map((id, qi) => {
+  const q = bank.find((x) => x.id === id)!;
+  const topicSlug = reportedTopics[qi];
   // Review fix (C6): with no topic record, label from the tag of the REPORTED
   // topic (an override may name the question's second topic), not topics[0].
   const reportedTag = q.topics.find((t) => t.key.split('/')[0] === topicSlug) ?? q.topics[0];
@@ -138,7 +135,7 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
             <div><dt class="mb-label text-teal-700">Qualification</dt><dd class="m-0 mt-1">{courseTitle}</dd></div>
             <div><dt class="mb-label text-teal-700">Exam board and syllabus</dt><dd class="m-0 mt-1">{c.board} · syllabus {set.code}{topicRecord ? ` (${topicRecord.syllabusSeries})` : ''}</dd></div>
             <div><dt class="mb-label text-teal-700">What it covers</dt><dd class="m-0 mt-1">{set.scopeLabel}: {[...new Set(questions.map((q) => q.topicName))].join(', ')}</dd></div>
-            <div><dt class="mb-label text-teal-700">Length</dt><dd class="m-0 mt-1">{questions.length} questions on {new Set(questions.map((q) => q.topicSlug)).size} topic{new Set(questions.map((q) => q.topicSlug)).size === 1 ? "" : "s"}, {totalMarks} marks, about {set.minutes} minutes</dd></div>
+            <div><dt class="mb-label text-teal-700">Length</dt><dd class="m-0 mt-1">{diagnosticSizeLabel(questions.map((q) => q.topicSlug))}, {totalMarks} marks, about {set.minutes} minutes</dd></div>
             <div class="sm:col-span-2"><dt class="mb-label text-teal-700">Who it is for</dt><dd class="m-0 mt-1">{set.audience}</dd></div>
           </dl>
           <button type="button" id="diag-start" class="mt-6 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700">Start the diagnostic</button>

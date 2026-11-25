@@ -119,7 +119,7 @@ Equilibrium does not appear instantly. It builds up as the forward and reverse r
 Read Figure 1 like this:
 
 - **Before about 45 s:** both lines are still sloping. The system is not yet at equilibrium.
-- **After about 45 s:** both lines are flat. This is equilibrium. P_A = 0.70 atm and P_B = 0.60 atm. Both gases are present, and the pressures are different.
+- **After about 45 s:** both lines are flat. This is equilibrium. P<sub>A</sub> = 0.70 atm and P<sub>B</sub> = 0.60 atm. Both gases are present, and the pressures are different.
 - **Stoichiometry check:** A fell by 1.00 − 0.70 = 0.30 atm, and B rose by 0.60 atm, which is 2 × 0.30. That matches the 1 : 2 coefficients.
 
 Now look at the rates of the two processes over the same time.
@@ -157,7 +157,7 @@ The story behind Figure 2:
 
 - **At the start**, only A is present. The forward rate is at its highest (0.020 atm s⁻¹) and the reverse rate is zero, because there is no B to react.
 - **As time passes**, A is used up, so the forward rate falls. B builds up, so the reverse rate rises.
-- **At equilibrium** the two rates are equal, 0.014 atm s⁻¹ each. A is used up exactly as fast as it is made, so P_A stops changing, and the same is true for B.
+- **At equilibrium** the two rates are equal, 0.014 atm s⁻¹ each. A is used up exactly as fast as it is made, so P<sub>A</sub> stops changing, and the same is true for B.
 
 So the two graphs tell one story. Flat concentration or pressure lines (Figure 1) and equal rates (Figure 2) are two views of the same equilibrium state.
 
@@ -196,10 +196,10 @@ So the two graphs tell one story. Flat concentration or pressure lines (Figure 1
 
 ## Worked example 2: approaching equilibrium from both sides
 
-**Question.** Two identical flasks are held at the same temperature. Flask 1 starts with A(g) at 1.00 atm and no B. Flask 2 starts with B(g) at 2.00 atm and no A. The reaction is A(g) ⇌ 2B(g), the one in Figures 1 and 2. After a long time, flask 1 contains P_A = 0.70 atm and P_B = 0.60 atm.
+**Question.** Two identical flasks are held at the same temperature. Flask 1 starts with A(g) at 1.00 atm and no B. Flask 2 starts with B(g) at 2.00 atm and no A. The reaction is A(g) ⇌ 2B(g), the one in Figures 1 and 2. After a long time, flask 1 contains P<sub>A</sub> = 0.70 atm and P<sub>B</sub> = 0.60 atm.
 
 (a) Show that flask 2 contains the same total amount of material as flask 1.
-(b) Flask 2 settles at P_A = 0.70 atm. Find P_B in flask 2.
+(b) Flask 2 settles at P<sub>A</sub> = 0.70 atm. Find P<sub>B</sub> in flask 2.
 (c) Explain what the result tells you about the reaction.
 
 **(a)** 2.00 atm of B is the amount that 1.00 atm of A would make (each A gives 2B). So both flasks hold the same atoms in the same volume. They differ only in which side of the equation they start from.
@@ -207,9 +207,9 @@ So the two graphs tell one story. Flat concentration or pressure lines (Figure 1
 **(b)**
 
 1. In flask 2 the net change is B → A. Making 0.70 atm of A uses 2 × 0.70 = 1.40 atm of B.
-2. P_B = 2.00 − 1.40 = **0.60 atm**.
+2. P<sub>B</sub> = 2.00 − 1.40 = **0.60 atm**.
 
-So both flasks end with P_A = 0.70 atm and P_B = 0.60 atm, total 1.30 atm.
+So both flasks end with P<sub>A</sub> = 0.70 atm and P<sub>B</sub> = 0.60 atm, total 1.30 atm.
 
 **(c)**
 

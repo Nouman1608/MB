@@ -138,8 +138,8 @@ Record each operation in a table. It makes the arithmetic easy to check.
 
 **Question.** A fictional element X forms two gaseous compounds with a fictional gas Z₂. Use the data to find ΔH for the target reaction.
 
-- (A) X(s) + Z₂(g) → XZ₂(g)  ΔH_A = −310 kJ mol⁻¹
-- (B) 2XZ(g) + Z₂(g) → 2XZ₂(g)  ΔH_B = −380 kJ mol⁻¹
+- (A) X(s) + Z₂(g) → XZ₂(g)  ΔH<sub>A</sub> = −310 kJ mol⁻¹
+- (B) 2XZ(g) + Z₂(g) → 2XZ₂(g)  ΔH<sub>B</sub> = −380 kJ mol⁻¹
 - Target: 2X(s) + Z₂(g) → 2XZ(g)
 
 1. **X(s)** appears only in (A), on the left, as in the target. The target needs **2** X, so use **2 × (A)**.

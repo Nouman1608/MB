@@ -35,6 +35,8 @@ import { videosForResource } from '../../utils/content/media';
 import { videoNodes } from '../../utils/schema/video';
 import { faqNode } from '../../utils/schema/faq';
 import { extractFaq } from '../../utils/content/faq-extract';
+import IbTrademarkNote from '../../components/ib/IbTrademarkNote.astro';
+import { isIbPage } from '../../components/ib/trademark';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -583,6 +585,7 @@ const tuitionBlockProps: Record<string, unknown> = classesAvailable
       <SubscribeBox source="resource" preset={nextStepsPlan.course ? { qualification: nextStepsPlan.course.qualificationSlug, courseId: `${nextStepsPlan.course.boardSlug}/${nextStepsPlan.course.qualificationSlug}/${nextStepsPlan.course.subjectSlug}` } : undefined} />
     </Container>
   </Section>
+  {isIbPage(d.boards) && <IbTrademarkNote />}
 </PageLayout>
 
 <script>

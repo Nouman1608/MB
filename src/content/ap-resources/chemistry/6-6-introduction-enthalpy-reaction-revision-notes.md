@@ -38,7 +38,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 - The **enthalpy change of reaction, ΔH**, is the heat transferred by a reaction at constant pressure. Negative: released (exothermic). Positive: absorbed (endothermic).
 - ΔH is quoted **per mole of reaction**: for the amounts in the balanced equation, with the state symbols shown.
 - **Particle view:** breaking and forming bonds changes the chemical potential energy. In an exothermic reaction the products have less potential energy, so their particles move faster and are briefly hotter than the surroundings. Energy then flows to the surroundings until **thermal equilibrium**. An endothermic reaction leaves the products colder, and energy flows in from the surroundings.
-- In a calorimeter, **q_reaction = −q_surroundings**.
+- In a calorimeter, **q<sub>reaction</sub> = −q<sub>surroundings</sub>**.
 
 ## Key relationships
 
@@ -47,7 +47,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | moles of reaction = n ÷ coefficient | n in mol (limiting reactant, or any product formed) | turn an amount of one substance into moles of reaction |
 | q = moles of reaction × ΔH | q in kJ, ΔH in kJ mol⁻¹ | find the heat released or absorbed |
 | equation × k → ΔH × k; reverse → −ΔH | | adjust ΔH to match the equation you need |
-| q_soln = mcΔT = −q_rxn | m in g, c in J g⁻¹ °C⁻¹ | link the reaction to a temperature change |
+| q<sub>soln</sub> = mcΔT = −q<sub>rxn</sub> | m in g, c in J g⁻¹ °C⁻¹ | link the reaction to a temperature change |
 
 ## Assumptions behind the numbers
 

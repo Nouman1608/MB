@@ -46,14 +46,14 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | Relationship | Use it to |
 |---|---|
 | net rate = forward rate − reverse rate | find the direction from the sign (+ right, − left, 0 equilibrium) |
-| A ⇌ B (elementary): forward = k_f[A], reverse = k_r[B] | calculate both rates from concentrations |
-| 2A ⇌ A₂ (elementary): forward = k_f[A]², reverse = k_r[A₂] | remember the power from the coefficient |
-| At equilibrium for A ⇌ B: k_f[A] = k_r[B] | find the equilibrium mixture from a known total |
+| A ⇌ B (elementary): forward = k<sub>f</sub>[A], reverse = k<sub>r</sub>[B] | calculate both rates from concentrations |
+| 2A ⇌ A₂ (elementary): forward = k<sub>f</sub>[A]², reverse = k<sub>r</sub>[A₂] | remember the power from the coefficient |
+| At equilibrium for A ⇌ B: k<sub>f</sub>[A] = k<sub>r</sub>[B] | find the equilibrium mixture from a known total |
 
 ## Assumptions behind the numbers
 
 - Rate laws can be written from the equation **only for elementary steps**. For other reactions, compare measured rates.
-- The temperature is constant, so k_f and k_r do not change.
+- The temperature is constant, so k<sub>f</sub> and k<sub>r</sub> do not change.
 - The system is closed, so the total amount of each element is fixed.
 
 ## Mistakes to avoid
@@ -68,7 +68,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 ## Quick self-check
 
 1. Forward rate 2.0 × 10⁻³ M s⁻¹, reverse rate 5.0 × 10⁻³ M s⁻¹. Which way is the net change? *(To the left, products → reactants, at 3.0 × 10⁻³ M s⁻¹.)*
-2. A ⇌ B with k_f = 0.060 s⁻¹ and k_r = 0.020 s⁻¹: is [A] = 0.20 M, [B] = 0.60 M at equilibrium? *(Yes: both rates are 0.012 M s⁻¹.)*
+2. A ⇌ B with k<sub>f</sub> = 0.060 s⁻¹ and k<sub>r</sub> = 0.020 s⁻¹: is [A] = 0.20 M, [B] = 0.60 M at equilibrium? *(Yes: both rates are 0.012 M s⁻¹.)*
 3. A reaction starts with only products. Which rate is zero at the start? *(The forward rate.)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/7-2-direction-reversible-reactions-practice/).

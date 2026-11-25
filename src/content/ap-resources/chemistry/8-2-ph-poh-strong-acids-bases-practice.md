@@ -36,7 +36,7 @@ reviewer: "Nouman Ahmed"
 reviewedDate: 2026-11-08
 ---
 
-These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All solutions are at 25 °C: K_w = 1.0 × 10⁻¹⁴ and pH + pOH = 14.00. Molar masses: H 1.008, O 16.00, K 39.10, Ca 40.08 g mol⁻¹. Assume volumes add when solutions are mixed.
+These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All solutions are at 25 °C: K<sub>w</sub> = 1.0 × 10⁻¹⁴ and pH + pOH = 14.00. Molar masses: H 1.008, O 16.00, K 39.10, Ca 40.08 g mol⁻¹. Assume volumes add when solutions are mixed.
 
 ## Question 1 (multiple choice · foundation)
 
@@ -88,11 +88,11 @@ Which row correctly gives the concentrations of the species in 0.10 M nitric aci
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (C).** HNO₃ ionises completely, so almost no HNO₃ molecules remain, and [H₃O⁺] = [NO₃⁻] = 0.10 M. [OH⁻] = K_w ÷ 0.10 = 1.0 × 10⁻¹³ M.
+**Answer: (C).** HNO₃ ionises completely, so almost no HNO₃ molecules remain, and [H₃O⁺] = [NO₃⁻] = 0.10 M. [OH⁻] = K<sub>w</sub> ÷ 0.10 = 1.0 × 10⁻¹³ M.
 
 - (A) keeps all the HNO₃ as molecules as well as listing the ions, which counts the acid twice. In a strong acid solution, [HNO₃] ≈ 0.
 - (B) uses the [OH⁻] of pure water. The added acid shifts the water equilibrium left, lowering [OH⁻].
-- (D) says there is no OH⁻. K_w means a small amount is always present.
+- (D) says there is no OH⁻. K<sub>w</sub> means a small amount is always present.
 </details>
 
 ## Question 4 (multiple choice · core)
@@ -184,7 +184,7 @@ A student calculates the pH of 1.0 × 10⁻⁸ M HCl at 25 °C as −log(1.0 × 
 
 **(b)** The method ignores the H₃O⁺ that comes from the autoionization of water. In pure water that is 1.0 × 10⁻⁷ M, which is **ten times more** than the 1.0 × 10⁻⁸ M from the acid, so it cannot be left out. In 0.010 M HCl, the acid supplies 0.010 M H₃O⁺, about 100 000 times more than water could, and the acid also pushes the water equilibrium to the left. Water's contribution is then negligible.
 
-**(c)** The pH is **just below 7**. The total [H₃O⁺] is slightly more than 1.0 × 10⁻⁷ M (the acid adds a little to water's own supply), and because K_w is fixed, [OH⁻] is slightly less than 1.0 × 10⁻⁷ M. With [H₃O⁺] > [OH⁻], the solution is very slightly acidic. (A full calculation, beyond what this course asks, gives pH ≈ 6.98.)
+**(c)** The pH is **just below 7**. The total [H₃O⁺] is slightly more than 1.0 × 10⁻⁷ M (the acid adds a little to water's own supply), and because K<sub>w</sub> is fixed, [OH⁻] is slightly less than 1.0 × 10⁻⁷ M. With [H₃O⁺] > [OH⁻], the solution is very slightly acidic. (A full calculation, beyond what this course asks, gives pH ≈ 6.98.)
 
 | Point | What earns it |
 |---|---|

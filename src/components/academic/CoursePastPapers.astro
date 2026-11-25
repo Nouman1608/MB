@@ -1,0 +1,74 @@
+---
+/**
+ * Audit 3, item 40 (A5, 25 Nov 2026) -- the course page's past-papers
+ * section: the newest series of this course's hosted exam-board documents
+ * (year, series, paper and variant, with a link per question paper, mark
+ * scheme, examiner report and so on), and a link to the full listing.
+ *
+ * Everything shown comes from the past-paper library manifest
+ * (src/data/past-papers/courses/*.json, docs/past-papers/README.md), via
+ * courseLibrary() and courseListing() in src/utils/past-papers/library.ts,
+ * which the course template calls and passes in. This component does not
+ * read the manifest itself (scripts/test-past-paper-library.mjs [F] keeps
+ * the list of readers short), so its prop types are declared here.
+ *
+ * With no entries for the course the template passes nothing and this
+ * renders nothing: no empty heading, no "coming soon", no placeholder link
+ * (D-463, and the test's [A] and [B]).
+ */
+interface Doc { readonly type: string; readonly label: string; readonly href: string; readonly format: string; readonly accessibleName: string }
+interface Paper { readonly label: string; readonly documents: readonly Doc[] }
+interface Series { readonly label: string; readonly anchor: string; readonly papers: readonly Paper[] }
+interface Year { readonly year: number; readonly anchor: string; readonly sessions: readonly Series[]; readonly count: number }
+interface Props {
+  /** courseListing(course): newest year first. */
+  listing: readonly Year[];
+  /** The course's full listing page, /past-papers/<board>/<qualification>/<subject>/. */
+  href: string;
+  /** The awarding body, e.g. "Cambridge". */
+  board: string;
+  /** "12 documents" (countLabel). */
+  countText: string;
+  /** "2019 to 2024" (yearRange). */
+  years: string;
+  /** How many of the newest years to show here (the rest are on the full page). */
+  maxYears?: number;
+}
+const { listing, href, board, countText, years, maxYears = 2 } = Astro.props;
+const shown = listing.slice(0, maxYears);
+const more = listing.length > shown.length;
+---
+{listing.length > 0 && (
+  <section aria-labelledby="hub-past-papers-heading" class="scroll-mt-24" id="past-papers" data-hub-past-paper-section>
+    <h2 id="hub-past-papers-heading" class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Past papers</h2>
+    <p class="m-0 mt-3 max-w-[68ch] text-[15.5px] leading-[1.6] text-ink-mute">
+      Documents published by {board} for this course: {countText}, {years}. Marlbridge hosts the files and did not write them.
+      {more ? ' The newest series are below; every year is on the full list.' : ''}
+    </p>
+    {shown.map((y) => (
+      <div class="mt-6" data-hub-past-paper-year={y.year}>
+        <h3 class="m-0 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{y.year}</h3>
+        {y.sessions.map((s) => (
+          <div class="mt-3">
+            <p class="m-0 mb-label text-teal-700">{s.label}</p>
+            <ul class="m-0 mt-2 list-none border-y border-rule p-0">
+              {s.papers.map((p) => (
+                <li class="m-0 flex flex-wrap items-center justify-between gap-x-6 gap-y-1 border-t border-rule px-1 py-1 first:border-t-0">
+                  <span class="text-[15.5px] leading-snug text-navy-800">{p.label}</span>
+                  <span class="flex flex-wrap items-center gap-x-5 gap-y-1">
+                    {p.documents.map((d) => (
+                      <a href={d.href} aria-label={d.accessibleName} data-past-paper-file={d.type} class="inline-flex min-h-11 items-center text-[15px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{d.label}{' '}<span class="ms-1 text-[13px] font-normal text-ink-mute">({d.format})</span></a>
+                    ))}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    ))}
+    <p class="m-0 mt-5 text-[15px]">
+      <a href={href} data-cta="hub-past-papers-all" class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{more ? `All past papers for this course (${countText})` : 'Past papers for this course on one page'}</a>
+    </p>
+  </section>
+)}

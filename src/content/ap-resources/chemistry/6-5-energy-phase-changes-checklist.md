@@ -33,7 +33,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can say which phase changes increase the energy of a system and which decrease it. *(Guide: "What happens to energy in a phase change"; Practice Q2)*
 - I can explain why the temperature of a pure substance stays constant while it melts or boils. *(Guide: "Why the temperature stays constant"; Practice Q1)*
-- I can explain why ΔH_vap is larger than ΔH_fus for the same substance. *(Guide; Practice Q6)*
+- I can explain why ΔH<sub>vap</sub> is larger than ΔH<sub>fus</sub> for the same substance. *(Guide; Practice Q6)*
 - I can state that a phase change and its reverse have molar enthalpies of equal size and opposite sign. *(Guide: "Opposite changes, opposite signs"; Practice Q6)*
 
 ## Calculation

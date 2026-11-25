@@ -126,7 +126,7 @@ A Q-time graph is a good way to show K because it separates the one constant val
 
 For a reaction involving gases you can measure **partial pressures** instead of concentrations. The expression has exactly the same shape, with P for the partial pressure of each gas:
 
-**Qp = (P_C)^c (P_D)^d / ((P_A)^a (P_B)^b)**, and at equilibrium **Qp = Kp**.
+**Qp = (P<sub>C</sub>)^c (P<sub>D</sub>)^d / ((P<sub>A</sub>)^a (P<sub>B</sub>)^b)**, and at equilibrium **Qp = Kp**.
 
 Partial pressures are usually in atm. Two points matter:
 
@@ -141,7 +141,7 @@ The concentration of a gas or a dissolved substance depends on how much of it is
 
 | Species in the equation | In Qc? | In Qp? |
 |---|---|---|
-| Gas, (g) | yes, as [X] | yes, as P_X |
+| Gas, (g) | yes, as [X] | yes, as P<sub>X</sub> |
 | Dissolved, (aq) | yes, as [X] | no |
 | Pure solid, (s) | no | no |
 | Pure liquid, (l), including water as the solvent | no | no |
@@ -160,12 +160,12 @@ The solid or liquid still has to be **present** for the equilibrium to exist. It
 **(a)** Every species is a gas, so all four appear, each raised to its coefficient. Water here is a gas, so it stays in.
 
 Kc = [NO]⁴[H₂O]⁶ / ([NH₃]⁴[O₂]⁵)
-Kp = (P_NO)⁴(P_H₂O)⁶ / ((P_NH₃)⁴(P_O₂)⁵)
+Kp = (P<sub>NO</sub>)⁴(P<sub>H₂O</sub>)⁶ / ((P<sub>NH₃</sub>)⁴(P<sub>O₂</sub>)⁵)
 
 **(b)** Fe₃O₄ and Fe are solids, so they are left out. Only the two gases remain.
 
 Kc = [H₂O]⁴ / [H₂]⁴
-Kp = (P_H₂O)⁴ / (P_H₂)⁴
+Kp = (P<sub>H₂O</sub>)⁴ / (P<sub>H₂</sub>)⁴
 
 **(c)** All species are dissolved, so this reaction has a Kc but no Kp.
 
@@ -194,15 +194,15 @@ Kc = [NH₄⁺][OH⁻] / [NH₃]
 
 ## Worked example 3: a solid in a gas equilibrium
 
-**Question.** Hot carbon reacts with carbon dioxide: C(s) + CO₂(g) ⇌ 2CO(g). In a closed vessel, P_CO = 0.40 atm and P_CO₂ = 0.80 atm. In this question, take Kp = 0.20 at the temperature of the vessel.
+**Question.** Hot carbon reacts with carbon dioxide: C(s) + CO₂(g) ⇌ 2CO(g). In a closed vessel, P<sub>CO</sub> = 0.40 atm and P<sub>CO₂</sub> = 0.80 atm. In this question, take Kp = 0.20 at the temperature of the vessel.
 
 (a) Write Kp. (b) Calculate Qp and decide whether the system is at equilibrium. (c) A student adds another 5 g of carbon. Does Qp change?
 
-**(a)** Carbon is a solid, so Kp = (P_CO)² / P_CO₂.
+**(a)** Carbon is a solid, so Kp = (P<sub>CO</sub>)² / P<sub>CO₂</sub>.
 
 **(b)** Qp = (0.40)² / 0.80 = 0.16 / 0.80 = **0.20**. This equals Kp, so the system **is at equilibrium**.
 
-**(c)** **No.** Carbon does not appear in Qp. Extra solid does not change P_CO or P_CO₂, so Qp stays at 0.20 and the system stays at equilibrium.
+**(c)** **No.** Carbon does not appear in Qp. Extra solid does not change P<sub>CO</sub> or P<sub>CO₂</sub>, so Qp stays at 0.20 and the system stays at equilibrium.
 
 ## Common misconceptions
 

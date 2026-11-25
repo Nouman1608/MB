@@ -153,17 +153,17 @@ A student dissolves reactants so that 0.0250 mol of fictional compound Z reacts 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** ΔT = 19.1 − 22.4 = −3.3 °C. q_soln = 80.0 g × 4.18 J g⁻¹ °C⁻¹ × (−3.3 °C) = **−1104 J**.
+**(a)** ΔT = 19.1 − 22.4 = −3.3 °C. q<sub>soln</sub> = 80.0 g × 4.18 J g⁻¹ °C⁻¹ × (−3.3 °C) = **−1104 J**.
 
-**(b)** q_rxn = −q_soln = +1104 J. The coefficient of Z is 1, so moles of reaction = 0.0250 mol.
+**(b)** q<sub>rxn</sub> = −q<sub>soln</sub> = +1104 J. The coefficient of Z is 1, so moles of reaction = 0.0250 mol.
 ΔH = +1.104 kJ ÷ 0.0250 mol = **+44 kJ mol⁻¹** (2 significant figures, from ΔT = 3.3 °C).
 
 **(c)** The products have **higher** potential energy than the reactants, so the particles have less kinetic energy and are **colder** than the water just after reacting. Energy then flows **from the water to the reacting particles** until thermal equilibrium is reached. The water loses energy, so its temperature falls.
 
 | Point | What earns it |
 |---|---|
-| 1 | q_soln = −1104 J (or −1.10 kJ) with the sign |
-| 1 | Reverses the sign: q_rxn positive |
+| 1 | q<sub>soln</sub> = −1104 J (or −1.10 kJ) with the sign |
+| 1 | Reverses the sign: q<sub>rxn</sub> positive |
 | 1 | ΔH ≈ +44 kJ mol⁻¹, dividing by 0.0250 mol of reaction |
 | 1 | Energy flows from the water to the products, linked to the products being colder (higher potential energy) |
 

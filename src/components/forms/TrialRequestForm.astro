@@ -22,12 +22,25 @@
  * on "Help me decide", so both are still shown and can be changed but never
  * block a send. Email is optional, and checked only if filled in.
  *
+ * Audit round 3 (25 Nov 2026):
+ *   - owner decision D2: the form asks first whether the trial is for school
+ *     subjects or for IELTS. "IELTS" hides and skips the subjects and exam
+ *     board questions (IELTS has neither) and sends qualification=ielts; the
+ *     server accepts it with no board or subject (TRIAL_PROGRAMMES).
+ *   - the compulsory fields (subjects, name, phone/WhatsApp, country) show
+ *     their * from the start, not only after a failed send, so the phone is
+ *     visibly marked required.
+ *   - there is no time-zone field, so the copy says the time is set in the
+ *     time zone of the country entered (it used to promise "your own time
+ *     zone" without asking for one).
+ *
  * PRESELECTION (build-time allow-lists; nothing from the URL is shown or
  * submitted unless it matches):
  *   ?course=board/qualification/subject  fills the subject text and the board,
  *                                        and sends the course id and its
  *                                        qualification as hidden values
  *   ?program=igcse|o-levels|a-levels|gcse|ib|ap|ielts  sends the qualification
+ *                                        (ielts also chooses "IELTS" above)
  *   ?teacher=<author slug>  ?format=group|one-to-one  ?source=<allowed value>
  * No personal data is ever read from or written to a URL.
  *
@@ -97,7 +110,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   {/* D-407 -- GA4: 3 of 15 visitors who left this form went to WhatsApp from
       the link at its foot. The same option is offered before the fields. */}
   <p class="m-0 text-[15px] text-ink-mute">
-    Takes about a minute. Prefer to talk first?{' '}
+    Takes about a minute. Fields marked <span class="text-error">*</span> are required. Prefer to talk first?{' '}
     <a href={waHref} target="_blank" rel="noopener noreferrer" data-trial-whatsapp data-wa-position="top" class="font-medium text-navy-800 underline decoration-[#25D366] underline-offset-4">Message us on WhatsApp</a>.
   </p>
 
@@ -110,12 +123,24 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
 
   <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
     <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">1. What would you like help with?</legend>
-    <div class="grid gap-1.5">
-      <label for="trial-subject" class={labelCls}>Subjects<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
+    {/* D2 (audit round 3): IELTS has no exam board or subject list, so choosing it skips both questions. */}
+    <fieldset id="trial-programme" class="m-0 border-0 p-0 sm:col-span-2">
+      <legend class={`mb-2 p-0 ${labelCls}`}>What is the trial class for?</legend>
+      <div class="flex flex-wrap gap-2">
+        {[['subjects', 'School subjects'], ['ielts', 'IELTS']].map(([v, l]) => (
+          <label class="flex min-h-11 cursor-pointer items-center gap-2 rounded-sm border border-rule px-3 text-[14.5px] has-[:checked]:border-navy-800 has-[:checked]:bg-ivory">
+            <input type="radio" name="programme" value={v} checked={v === 'subjects'} data-trial-programme class="h-4 w-4" />{l}
+          </label>
+        ))}
+      </div>
+      <p data-trial-ielts-note hidden class="m-0 mt-1.5 text-[13.5px] text-ink-mute">IELTS has no exam board or subject to choose, so those questions are skipped.</p>
+    </fieldset>
+    <div class="grid gap-1.5" data-trial-school-only>
+      <label for="trial-subject" class={labelCls}>Subjects<span data-req-mark aria-hidden="true" class="text-error"> *</span></label>
       <textarea id="trial-subject" name="subject" required maxlength="300" rows="3" class="min-h-24 w-full resize-y rounded-sm border border-rule bg-white px-3 py-2.5 text-[15.5px] leading-snug text-ink aria-[invalid=true]:border-error" placeholder="e.g. A Level Maths, IGCSE Chemistry" aria-describedby="trial-subject-err"></textarea>
       <p id="trial-subject-err" data-error-for="subject" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
-    <div class="grid gap-1.5">
+    <div class="grid gap-1.5" data-trial-school-only>
       <label for="trial-board" class={labelCls}>Exam board</label>
       <select id="trial-board" name="board" class={field} aria-describedby="trial-board-err">
         {BOARDS.map((b) => <option value={b.value} selected={b.value === 'not-sure'}>{b.label}</option>)}
@@ -139,7 +164,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   <fieldset class="m-0 grid gap-4 border-0 p-0 sm:grid-cols-2">
     <legend class="mb-3 p-0 text-[19px] font-semibold text-navy-800">2. Your details</legend>
     <div class="grid gap-1.5">
-      <label for="trial-name" class={labelCls}>Full name<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
+      <label for="trial-name" class={labelCls}>Full name<span data-req-mark aria-hidden="true" class="text-error"> *</span></label>
       <input id="trial-name" name="name" required autocomplete="name" class={field} aria-describedby="trial-name-err" />
       <p id="trial-name-err" data-error-for="name" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
@@ -149,7 +174,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       <p id="trial-email-err" data-error-for="email" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-phone" class={labelCls}>Phone or WhatsApp<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
+      <label for="trial-phone" class={labelCls}>Phone or WhatsApp<span data-req-mark aria-hidden="true" class="text-error"> *</span></label>
       <div class="flex gap-2">
         <label for="trial-phone-country" class="sr-only">Country code</label>
         <select id="trial-phone-country" name="phoneCountry" autocomplete="tel-country-code" data-trial-phone-country class="min-h-11 w-[8.5rem] shrink-0 rounded-sm border border-rule bg-white px-2 text-[15px] text-ink">
@@ -162,7 +187,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       <p id="trial-phone-err" data-error-for="phone" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-country" class={labelCls}>Country<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
+      <label for="trial-country" class={labelCls}>Country<span data-req-mark aria-hidden="true" class="text-error"> *</span></label>
       <input id="trial-country" name="country" required autocomplete="country-name" list="trial-countries" class={field} aria-describedby="trial-country-err" />
       <datalist id="trial-countries">{countries.map((c) => <option value={c} />)}</datalist>
       <p id="trial-country-err" data-error-for="country" hidden class="m-0 text-[13.5px] text-error"></p>
@@ -185,7 +210,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   {site.turnstile.siteKey && <div class="cf-turnstile" data-sitekey={site.turnstile.siteKey} data-theme="light"></div>}
 
   <div class="grid gap-3">
-    <p class="m-0 text-[14px] text-ink-mute">We match you with a specialist teacher and confirm a time with you, in your own time zone. By sending, you agree to our <a href="/legal/privacy/" class="underline decoration-teal-500 underline-offset-2">Privacy Policy</a>; we use your details only to respond.</p>
+    <p class="m-0 text-[14px] text-ink-mute">We match you with a specialist teacher and confirm a time with you. We set the time in the time zone of the country you enter above; if your country has more than one time zone, tell us which in the message. By sending, you agree to our <a href="/legal/privacy/" class="underline decoration-teal-500 underline-offset-2">Privacy Policy</a>; we use your details only to respond.</p>
     <div class="flex flex-wrap items-center gap-4">
       <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Request my free trial class</button>
       <a href={waHref} target="_blank" rel="noopener noreferrer" data-trial-whatsapp class="inline-flex min-h-11 items-center gap-2 text-[15px] font-medium text-navy-800 underline decoration-[#25D366] underline-offset-4">Prefer WhatsApp? Message us</a>
@@ -200,7 +225,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     <dl data-trial-summary class="m-0 mt-4 grid gap-2 sm:grid-cols-[minmax(170px,auto)_1fr] sm:gap-x-4"></dl>
     <h3 class="m-0 mt-5 text-[16px] font-semibold text-navy-800">What happens next</h3>
     <ol class="m-0 mt-2 grid gap-1.5 ps-5">
-      <li>We propose a teacher and a time, with the date and time in your own time zone.</li>
+      <li>We propose a teacher and a time, with the date and time in the time zone of the country you entered.</li>
       <li>Once you agree, we confirm the class and send the joining details.</li>
       <li>Need to move it later? Reply to our email or message us on WhatsApp. No notice period is needed.</li>
       <li>The trial class is free, with no obligation to continue.</li>
@@ -239,6 +264,29 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     const button = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
     const phoneCountry = form.querySelector<HTMLSelectElement>('[data-trial-phone-country]')!;
 
+    // ---- D2 (audit round 3): "IELTS" skips the subjects and exam board ----
+    // The two questions are hidden and disabled (so they are not sent), and
+    // the hidden qualification says ielts. "School subjects" brings them back.
+    const programmeRadios = [...form.querySelectorAll<HTMLInputElement>('[data-trial-programme]')];
+    const ieltsNote = form.querySelector<HTMLElement>('[data-trial-ielts-note]')!;
+    const isIelts = () => programmeRadios.some((r) => r.checked && r.value === 'ielts');
+    let qualBeforeIelts = '';
+    const applyProgramme = () => {
+      const ielts = isIelts();
+      form.querySelectorAll<HTMLElement>('[data-trial-school-only]').forEach((el) => {
+        el.hidden = ielts;
+        el.querySelectorAll<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>('input, select, textarea').forEach((c) => { c.disabled = ielts; });
+      });
+      ieltsNote.hidden = !ielts;
+      if (ielts) {
+        if (qualIn.value !== 'ielts') qualBeforeIelts = qualIn.value;
+        qualIn.value = 'ielts';
+      } else if (qualIn.value === 'ielts') {
+        qualIn.value = qualBeforeIelts;
+      }
+    };
+    programmeRadios.forEach((r) => r.addEventListener('change', applyProgramme));
+
     // ---- D-466: the Country field pre-selects the calling code until the
     // visitor chooses a code themselves ----
     let codeChosen = false;
@@ -263,7 +311,13 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     } else {
       const program = params.get('program') ?? '';
       if (has(data.programToQual, program)) qualIn.value = data.programToQual[program];
+      // D2: a link for IELTS opens the form on "IELTS".
+      if (qualIn.value === 'ielts') {
+        const r = programmeRadios.find((x) => x.value === 'ielts');
+        if (r) r.checked = true;
+      }
     }
+    applyProgramme();
     const teacher = params.get('teacher') ?? '';
     const prefBox = form.querySelector<HTMLElement>('[data-trial-teacher-pref]')!;
     if (has(data.teachers, teacher)) {
@@ -354,25 +408,20 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     // compulsory. An empty one gets a red * on its label plus a message. Board
     // and format start on "Not sure" / "Help me decide"; email is checked only if given.
     const rules: [string, () => string, () => string | null][] = [
-      ['subject', () => val('subject'), () => (val('subject') ? null : 'Please type your subjects, for example "A Level Maths, IGCSE Chemistry".')],
+      ['subject', () => (isIelts() ? 'ielts' : val('subject')), () => (isIelts() || val('subject') ? null : 'Please type your subjects, for example "A Level Maths, IGCSE Chemistry".')],
       ['name', () => val('name'), () => (val('name') ? null : 'Please enter your name.')],
       ['email', () => val('email'), () => (!val('email') || /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('email')) ? null : 'Please enter a valid email address.')],
       ['phone', () => val('phone'), () => (!phoneOk(val('phone')) ? 'Please enter your phone or WhatsApp number.'
         : phoneCountry.value === 'other' && !/^\s*(\+|00)/.test(val('phone')) ? 'Please type your number with its country code, starting with +.' : null)],
       ['country', () => val('country'), () => (val('country') ? null : 'Please tell us your country.')],
     ];
-    const mark = (name: string, empty: boolean) => {
-      const m = form.querySelector<HTMLElement>(`label[for="trial-${name}"] [data-req-mark]`)
-        ?? form.querySelector<HTMLElement>(`#trial-${name} > legend [data-req-mark]`);
-      if (m) m.hidden = !empty;
-    };
+    // Audit round 3: the * marks are shown from the start (no longer toggled here).
     let tried = false;
     const validate = (): HTMLElement | null => {
       let first: HTMLElement | null = null;
-      for (const [name, value, check] of rules) {
+      for (const [name, , check] of rules) {
         const msg = check();
         setError(name, msg);
-        mark(name, !value());
         if (msg && !first) {
           first = name === 'format'
             ? form.querySelector<HTMLElement>('input[name="format"]')
@@ -413,9 +462,11 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
         const dl = panel.querySelector<HTMLElement>('[data-trial-summary]')!;
         const boardLabel = board.selectedOptions[0]?.textContent ?? '';
         const fmtLabel = form.querySelector<HTMLInputElement>('input[name="format"]:checked')?.closest('label')?.textContent?.trim() ?? '';
+        const ielts = isIelts();
         const rows: [string, string][] = [
-          ['Subjects', subject.value.trim()],
-          ['Exam board', boardLabel],
+          ['Programme', ielts ? 'IELTS' : ''],
+          ['Subjects', ielts ? '' : subject.value.trim()],
+          ['Exam board', ielts ? '' : boardLabel],
           ['Group or one-to-one', fmtLabel],
           ['Teacher preference', teacherIn.value ? `${data.teachers[teacherIn.value]} (a preference, not yet confirmed)` : ''],
         ];
@@ -433,9 +484,11 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
         const course = courseIn.value && has(data.courses, courseIn.value) ? data.courses[courseIn.value] : null;
         const a = document.createElement('a');
         a.className = 'underline decoration-teal-500 underline-offset-2';
-        if (course) { a.href = course.hub; a.textContent = `${course.label} resources and checklist`; }
+        if (course && !ielts) { a.href = course.hub; a.textContent = `${course.label} resources and checklist`; }
         else { a.href = '/diagnostics/'; a.textContent = '10-minute diagnostics'; }
-        next.replaceChildren('While you wait, you can use our ', a, '. They are free, with no sign-up.');
+        // The diagnostics are for school subjects, so an IELTS request gets no "while you wait" link.
+        if (ielts) next.replaceChildren();
+        else next.replaceChildren('While you wait, you can use our ', a, '. They are free, with no sign-up.');
         panel.hidden = false;
         panel.focus();
         // Consent-gated GA4 key event (D-003). Only structural, non-personal values.

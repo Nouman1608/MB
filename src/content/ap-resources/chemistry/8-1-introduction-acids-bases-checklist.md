@@ -31,8 +31,8 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 ## Understanding
 
-- I can write the equation for the autoionization of water and the expression for K_w, and explain why water is left out of it. *(Guide: "Water's own equilibrium"; Practice Q7(c))*
-- I can state that K_w = 1.0 × 10⁻¹⁴ at 25 °C and that it applies to every aqueous solution, not only pure water. *(Guide; Practice Q1)*
+- I can write the equation for the autoionization of water and the expression for K<sub>w</sub>, and explain why water is left out of it. *(Guide: "Water's own equilibrium"; Practice Q7(c))*
+- I can state that K<sub>w</sub> = 1.0 × 10⁻¹⁴ at 25 °C and that it applies to every aqueous solution, not only pure water. *(Guide; Practice Q1)*
 - I can explain that H⁺(aq) and H₃O⁺(aq) stand for the same ion. *(Guide: "A note on notation")*
 - I can define acidic, basic and neutral solutions by comparing [H₃O⁺] with [OH⁻]. *(Guide: "Neutral means equal"; Practice Q4)*
 
@@ -40,15 +40,15 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can calculate pH and pOH from [H₃O⁺] or [OH⁻], and give the pH to the right number of decimal places. *(Guide: "pH and pOH: a log scale for tiny numbers"; Practice Q3, Q6(a))*
 - I can convert a pH or pOH back into a concentration. *(Guide: Worked example 1; Practice Q5)*
-- I can find [OH⁻] from [H₃O⁺] (or the reverse) using K_w. *(Practice Q1, Q7(a))*
-- I can use pH + pOH = pK_w, including at temperatures other than 25 °C. *(Guide: Worked example 2; Practice Q3)*
+- I can find [OH⁻] from [H₃O⁺] (or the reverse) using K<sub>w</sub>. *(Practice Q1, Q7(a))*
+- I can use pH + pOH = pK<sub>w</sub>, including at temperatures other than 25 °C. *(Guide: Worked example 2; Practice Q3)*
 - I can turn a difference in pH into a factor change in [H₃O⁺] or [OH⁻]. *(Guide: Worked example 3; Practice Q2)*
-- I can calculate the pH of pure water from a given K_w at any temperature. *(Practice Q3, Q6(a))*
+- I can calculate the pH of pure water from a given K<sub>w</sub> at any temperature. *(Practice Q3, Q6(a))*
 
 ## Reasoning
 
 - I can explain why pure water above 25 °C has pH below 7 but is still neutral. *(Guide: "Neutral means equal"; Practice Q6(b))*
-- I can use the change of K_w with temperature to decide that autoionization is endothermic. *(Practice Q6(c))*
-- I can use Q and K_w, or Le Châtelier's principle, to explain why adding acid lowers [OH⁻]. *(Guide: "The K_w relationship holds in every aqueous solution"; Practice Q7(b))*
+- I can use the change of K<sub>w</sub> with temperature to decide that autoionization is endothermic. *(Practice Q6(c))*
+- I can use Q and K<sub>w</sub>, or Le Châtelier's principle, to explain why adding acid lowers [OH⁻]. *(Guide: "The K<sub>w</sub> relationship holds in every aqueous solution"; Practice Q7(b))*
 
 All ticked? Move on to [Topic 8.2, pH and pOH of Strong Acids and Bases](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-study-guide/), or return to the [course roadmap](/advanced-course-resources/chemistry/#roadmap).

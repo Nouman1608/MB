@@ -16,6 +16,7 @@ import { getResources } from '../../../../../utils/content/collections';
 import { resourcesForCombination, STUDY_KIND } from '../../../../../utils/academic/combination-resources';
 import { routes } from '../../../../../utils/urls/routes';
 import { flashcardSearchTitle } from '../../../../../utils/flashcards/search-title';
+import IbTrademarkNote from '../../../../../components/ib/IbTrademarkNote.astro';
 
 export function getStaticPaths() {
   return FLASHCARD_DECKS.flatMap((deck) => {
@@ -99,4 +100,5 @@ const searchTitle = flashcardSearchTitle({ topicName: topic.name, stageLabel, su
       </nav>
     </Container>
   </Section>
+  {c.boardSlug === 'ib' && <IbTrademarkNote />}
 </PageLayout>

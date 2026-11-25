@@ -41,17 +41,17 @@ reviewedDate: 2026-11-08
 
 Use this page after the [Unit 8 diagnostic](/advanced-course-resources/chemistry/unit-8-diagnostic/) and the topics it flagged. Answer all seven on paper before opening any answer.
 
-These are **original Marlbridge practice questions**, not past exam questions. Lettered substances are fictional, with invented data. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score. Data are at 25 °C (K_w = 1.0 × 10⁻¹⁴) unless stated.
+These are **original Marlbridge practice questions**, not past exam questions. Lettered substances are fictional, with invented data. Each rubric is a **suggested Marlbridge rubric**, not official scoring, and your total gives no predicted score. Data are at 25 °C (K<sub>w</sub> = 1.0 × 10⁻¹⁴) unless stated.
 
 ## Big ideas of the unit
 
-- **Water sets the scale.** [H₃O⁺][OH⁻] = K_w in every aqueous solution; neutral means equal, which is pH 7 only at 25 °C ([Topic 8.1](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-study-guide/)).
+- **Water sets the scale.** [H₃O⁺][OH⁻] = K<sub>w</sub> in every aqueous solution; neutral means equal, which is pH 7 only at 25 °C ([Topic 8.1](/advanced-course-resources/chemistry/8-1-introduction-acids-bases-study-guide/)).
 - **Strong means complete.** A strong acid or base ionizes fully (two OH⁻ per group 2 hydroxide) ([Topic 8.2](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-bases-study-guide/)).
-- **Weak means mostly not ionized.** K_a or K_b links concentration to pH; K_a × K_b = K_w links a conjugate pair ([Topic 8.3](/advanced-course-resources/chemistry/8-3-weak-acid-base-equilibria-study-guide/)).
+- **Weak means mostly not ionized.** K<sub>a</sub> or K<sub>b</sub> links concentration to pH; K<sub>a</sub> × K<sub>b</sub> = K<sub>w</sub> links a conjugate pair ([Topic 8.3](/advanced-course-resources/chemistry/8-3-weak-acid-base-equilibria-study-guide/)).
 - **React first, then equilibrium.** A strong acid or base reacts completely; what is left decides the method ([Topic 8.4](/advanced-course-resources/chemistry/8-4-acid-base-reactions-buffers-study-guide/)).
-- **A titration curve puts it on one graph.** Equivalence gives moles, half-equivalence gives pK_a, and the species left at equivalence set its pH ([Topic 8.5](/advanced-course-resources/chemistry/8-5-acid-base-titrations-study-guide/)).
+- **A titration curve puts it on one graph.** Equivalence gives moles, half-equivalence gives pK<sub>a</sub>, and the species left at equivalence set its pH ([Topic 8.5](/advanced-course-resources/chemistry/8-5-acid-base-titrations-study-guide/)).
 - **Structure explains strength.** Whatever stabilizes the conjugate base (electronegativity, inductive effects, resonance) strengthens the acid ([Topic 8.6](/advanced-course-resources/chemistry/8-6-molecular-structure-acids-bases-study-guide/)).
-- **pH against pK_a decides the form.** Below pK_a the protonated form wins; above it, the deprotonated form. Indicators follow the same rule ([Topic 8.7](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/)).
+- **pH against pK<sub>a</sub> decides the form.** Below pK<sub>a</sub> the protonated form wins; above it, the deprotonated form. Indicators follow the same rule ([Topic 8.7](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/)).
 - **Buffers work by reaction.** The base member removes added acid, the acid member removes added base ([Topic 8.8](/advanced-course-resources/chemistry/8-8-properties-buffers-study-guide/)); the ratio sets the pH ([Topic 8.9](/advanced-course-resources/chemistry/8-9-henderson-hasselbalch-equation-study-guide/)); the amounts set the capacity ([Topic 8.10](/advanced-course-resources/chemistry/8-10-buffer-capacity-study-guide/)).
 - **pH can move a solubility equilibrium.** If a salt's ion is a weak base, a weak acid or OH⁻, a pH change can remove it so more solid dissolves ([Topic 8.11](/advanced-course-resources/chemistry/8-11-ph-solubility-study-guide/)).
 
@@ -59,39 +59,39 @@ These are **original Marlbridge practice questions**, not past exam questions. L
 
 | Idea | Relationship or method | Topic |
 |---|---|---|
-| Water | K_w = [H₃O⁺][OH⁻]; pH + pOH = pK_w; neutral pH = pK_w ÷ 2 | 8.1 |
+| Water | K<sub>w</sub> = [H₃O⁺][OH⁻]; pH + pOH = pK<sub>w</sub>; neutral pH = pK<sub>w</sub> ÷ 2 | 8.1 |
 | Strong acid or base | [H₃O⁺] = c; [OH⁻] = c or 2c (group 2) | 8.2 |
-| Weak acid or base | x ≈ √(K × c), check x ÷ c < 5%; K_a × K_b = K_w | 8.3 |
+| Weak acid or base | x ≈ √(K × c), check x ÷ c < 5%; K<sub>a</sub> × K<sub>b</sub> = K<sub>w</sub> | 8.3 |
 | Mixing | moles first; excess strong reagent → excess ÷ total volume; partial → buffer; equal → conjugate sets pH | 8.4 |
-| Titration | n(analyte) = n(titrant) at equivalence; pH = pK_a at half-equivalence; one steep rise per acidic proton | 8.5 |
+| Titration | n(analyte) = n(titrant) at equivalence; pH = pK<sub>a</sub> at half-equivalence; one steep rise per acidic proton | 8.5 |
 | Structure | more stable conjugate base → stronger acid | 8.6 |
-| Predominant form | [A⁻]/[HA] = 10^(pH − pK_a); indicator pK_a near equivalence pH | 8.7 |
-| Buffer pH | pH = pK_a + log([A⁻]/[HA]), with moles or concentrations | 8.8, 8.9 |
+| Predominant form | [A⁻]/[HA] = 10^(pH − pK<sub>a</sub>); indicator pK<sub>a</sub> near equivalence pH | 8.7 |
+| Buffer pH | pH = pK<sub>a</sub> + log([A⁻]/[HA]), with moles or concentrations | 8.8, 8.9 |
 | Capacity | acid capacity = moles of A⁻; base capacity = moles of HA | 8.10 |
-| Solubility | removing a basic anion (or OH⁻) lowers Q below K_sp, so more dissolves | 8.11 |
+| Solubility | removing a basic anion (or OH⁻) lowers Q below K<sub>sp</sub>, so more dissolves | 8.11 |
 
 ## Question 1 (multiple choice · mixed)
 
-25.00 mL of 0.0600 M of the weak base W (pK_b = 4.90) is titrated with 0.0600 M HCl. Which indicator is the best choice for the end point?
+25.00 mL of 0.0600 M of the weak base W (pK<sub>b</sub> = 4.90) is titrated with 0.0600 M HCl. Which indicator is the best choice for the end point?
 
-- (A) Indicator P, pK_a = 3.6
-- (B) Indicator Q, pK_a = 5.3
-- (C) Indicator R, pK_a = 7.0
-- (D) Indicator S, pK_a = 9.1
+- (A) Indicator P, pK<sub>a</sub> = 3.6
+- (B) Indicator Q, pK<sub>a</sub> = 5.3
+- (C) Indicator R, pK<sub>a</sub> = 7.0
+- (D) Indicator S, pK<sub>a</sub> = 9.1
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (B).** Equivalence is at 25.00 mL: 1.500 mmol HW⁺ in 50.00 mL, 0.0300 M (Topic 8.5). K_a(HW⁺) = 10^−(14.00 − 4.90) = 7.9 × 10⁻¹⁰ (Topic 8.3), so [H₃O⁺] = √(7.9 × 10⁻¹⁰ × 0.0300) = 4.9 × 10⁻⁶ M and pH = 5.31. Pick the nearest indicator pK_a (Topic 8.7).
+**Answer: (B).** Equivalence is at 25.00 mL: 1.500 mmol HW⁺ in 50.00 mL, 0.0300 M (Topic 8.5). K<sub>a</sub>(HW⁺) = 10^−(14.00 − 4.90) = 7.9 × 10⁻¹⁰ (Topic 8.3), so [H₃O⁺] = √(7.9 × 10⁻¹⁰ × 0.0300) = 4.9 × 10⁻⁶ M and pH = 5.31. Pick the nearest indicator pK<sub>a</sub> (Topic 8.7).
 
 - (A) changes colour only in excess acid.
 - (C) assumes "neutralized" means neutral; HW⁺ is a weak acid.
-- (D) 9.10 is the pK_a of HW⁺, the half-equivalence pH.
+- (D) 9.10 is the pK<sub>a</sub> of HW⁺, the half-equivalence pH.
 </details>
 
 ## Question 2 (multiple choice · mixed)
 
-0.0300 mol of NaOH is added to 0.0500 mol of the weak acid HR (pK_a = 4.50) in 0.500 L of water. Which describes the result?
+0.0300 mol of NaOH is added to 0.0500 mol of the weak acid HR (pK<sub>a</sub> = 4.50) in 0.500 L of water. Which describes the result?
 
 - (A) pH 4.68; it resists added acid better than added base.
 - (B) pH 4.32; it resists added acid better than added base.
@@ -120,11 +120,11 @@ Hypobromous acid, HOBr, and hypoiodous acid, HOI, are both weak acids. Which sta
 <details>
 <summary>Answer and explanation</summary>
 
-**Answer: (A).** Bromine is more electronegative than iodine, so it stabilizes OBr⁻ more: HOBr is the stronger acid (Topic 8.6). The weaker acid, HOI, gives less H₃O⁺ at equal concentration, so a higher pH (Topic 8.3). Since K_a × K_b = K_w, its conjugate base, OI⁻, is the stronger base.
+**Answer: (A).** Bromine is more electronegative than iodine, so it stabilizes OBr⁻ more: HOBr is the stronger acid (Topic 8.6). The weaker acid, HOI, gives less H₃O⁺ at equal concentration, so a higher pH (Topic 8.3). Since K<sub>a</sub> × K<sub>b</sub> = K<sub>w</sub>, its conjugate base, OI⁻, is the stronger base.
 
 - (B) reverses the argument.
 - (C) A weaker acid always has the stronger conjugate base.
-- (D) "Weak" covers a wide range of K_a values.
+- (D) "Weak" covers a wide range of K<sub>a</sub> values.
 </details>
 
 ## Question 4 (constructed response · mixed)
@@ -132,7 +132,7 @@ Hypobromous acid, HOBr, and hypoiodous acid, HOI, are both weak acids. Which sta
 A student titrates 25.00 mL of the weak acid HN with 0.150 M NaOH. The starting pH is 2.85 and the equivalence point is at 15.00 mL.
 
 (a) Calculate the concentration of HN.
-(b) Use the starting pH to calculate K_a and pK_a of HN.
+(b) Use the starting pH to calculate K<sub>a</sub> and pK<sub>a</sub> of HN.
 (c) Predict the pH after 7.50 mL and after 10.00 mL of NaOH. Explain why the mixture at these volumes is a buffer.
 (d) Calculate the pH at the equivalence point.
 
@@ -142,23 +142,23 @@ A student titrates 25.00 mL of the weak acid HN with 0.150 M NaOH. The starting 
 **(a)** n(OH⁻) at equivalence = 15.00 mL × 0.150 M = 2.250 mmol = n(HN). c = 2.250 ÷ 25.00 = **0.0900 M**.
 
 **(b)** [H₃O⁺] = [N⁻] = 10⁻²·⁸⁵ = 1.413 × 10⁻³ M; [HN] = 0.0900 − 0.0014 = 0.0886 M.
-K_a = (1.413 × 10⁻³)² ÷ 0.0886 = **2.25 × 10⁻⁵**; **pK_a = 4.65**.
+K<sub>a</sub> = (1.413 × 10⁻³)² ÷ 0.0886 = **2.25 × 10⁻⁵**; **pK<sub>a</sub> = 4.65**.
 
 **(c)** NaOH reacts completely (HN + OH⁻ → N⁻ + H₂O), leaving both HN and N⁻ in large amounts: a buffer.
 
-- 7.50 mL is half the equivalence volume: 1.125 mmol each of HN and N⁻, so **pH = pK_a = 4.65**.
+- 7.50 mL is half the equivalence volume: 1.125 mmol each of HN and N⁻, so **pH = pK<sub>a</sub> = 4.65**.
 - 10.00 mL: 1.500 mmol OH⁻ leaves 0.750 mmol HN and 1.500 mmol N⁻. pH = 4.65 + log(1.500 ÷ 0.750) = **4.95**.
 
-**(d)** All 2.250 mmol is now N⁻ in 40.00 mL: [N⁻] = 0.05625 M. K_b = K_w ÷ K_a = 4.4 × 10⁻¹⁰.
+**(d)** All 2.250 mmol is now N⁻ in 40.00 mL: [N⁻] = 0.05625 M. K<sub>b</sub> = K<sub>w</sub> ÷ K<sub>a</sub> = 4.4 × 10⁻¹⁰.
 [OH⁻] = √(4.4 × 10⁻¹⁰ × 0.05625) = 5.0 × 10⁻⁶ M; pOH = 5.30; **pH = 8.70**.
 
 | Point | What earns it |
 |---|---|
 | 1 | (a) 0.0900 M from moles at equivalence |
-| 1 | (b) K_a ≈ 2.2 × 10⁻⁵ to 2.3 × 10⁻⁵ and pK_a ≈ 4.65 |
+| 1 | (b) K<sub>a</sub> ≈ 2.2 × 10⁻⁵ to 2.3 × 10⁻⁵ and pK<sub>a</sub> ≈ 4.65 |
 | 1 | (c) Buffer: both HN and N⁻ present after complete reaction with OH⁻; pH 4.65 at 7.50 mL |
 | 1 | (c) pH 4.95 at 10.00 mL from the mole ratio |
-| 1 | (d) [N⁻] = 0.05625 M (total volume 40.00 mL) and K_b from K_w ÷ K_a |
+| 1 | (d) [N⁻] = 0.05625 M (total volume 40.00 mL) and K<sub>b</sub> from K<sub>w</sub> ÷ K<sub>a</sub> |
 | 1 | (d) pH 8.70 |
 
 **Total: 6 points.** Accept carried-forward values from (b).
@@ -166,7 +166,7 @@ K_a = (1.413 × 10⁻³)² ÷ 0.0886 = **2.25 × 10⁻⁵**; **pK_a = 4.65**.
 
 ## Question 5 (constructed response · mixed)
 
-A technician makes a buffer from 0.250 L of 0.200 M of the weak base Z (pK_b = 5.40) by adding 1.00 M HCl.
+A technician makes a buffer from 0.250 L of 0.200 M of the weak base Z (pK<sub>b</sub> = 5.40) by adding 1.00 M HCl.
 
 (a) Calculate the volume of HCl needed to give pH 8.90.
 (b) Write net ionic equations for the reactions that protect the buffer when a small amount of strong acid, and then of strong base, is added.
@@ -176,7 +176,7 @@ A technician makes a buffer from 0.250 L of 0.200 M of the weak base Z (pK_b = 5
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** HZ⁺ is the acid member: pK_a = 14.00 − 5.40 = 8.60.
+**(a)** HZ⁺ is the acid member: pK<sub>a</sub> = 14.00 − 5.40 = 8.60.
 [Z]/[HZ⁺] = 10^(8.90 − 8.60) = 10⁰·³⁰ = 2.00.
 Total Z = 0.250 L × 0.200 M = 0.0500 mol. Each mole of HCl turns one Z into HZ⁺, so n(HZ⁺) = 0.0500 ÷ 3.00 = 0.0167 mol (leaving 0.0333 mol Z): **16.7 mL** of 1.00 M HCl.
 
@@ -191,7 +191,7 @@ The base capacity is only 0.0167 mol, so a second 0.0100 mol uses up the last 0.
 
 | Point | What earns it |
 |---|---|
-| 1 | (a) pK_a of HZ⁺ = 8.60 and ratio [Z]/[HZ⁺] = 2.0 |
+| 1 | (a) pK<sub>a</sub> of HZ⁺ = 8.60 and ratio [Z]/[HZ⁺] = 2.0 |
 | 1 | (a) 16.7 mL of HCl |
 | 1 | (b) Both net ionic equations correct |
 | 1 | (c) 0.0333 mol HCl and 0.0167 mol NaOH |
@@ -204,12 +204,12 @@ The base capacity is only 0.0167 mol, so a second 0.0100 mol uses up the last 0.
 
 ## Question 6 (constructed response · mixed)
 
-Three solutions are each 0.0500 M at 25 °C: perchloric acid, HClO₄; a carboxylic acid, R–COOH (K_a = 1.5 × 10⁻⁵); and its sodium salt, R–COONa.
+Three solutions are each 0.0500 M at 25 °C: perchloric acid, HClO₄; a carboxylic acid, R–COOH (K<sub>a</sub> = 1.5 × 10⁻⁵); and its sodium salt, R–COONa.
 
 (a) Calculate the pH of each solution.
 (b) Rank the three solutions by [OH⁻], highest first.
 (c) ClO₄⁻ and R–COO⁻ are both conjugate bases of acids. Explain, using their structures, why R–COO⁻ is a weak base but ClO₄⁻ has almost no tendency to accept a proton.
-(d) The HClO₄ solution is heated to a temperature where K_w = 3.8 × 10⁻¹⁴. Calculate [OH⁻] and the pH of neutral water at this temperature. Is the HClO₄ solution still acidic?
+(d) The HClO₄ solution is heated to a temperature where K<sub>w</sub> = 3.8 × 10⁻¹⁴. Calculate [OH⁻] and the pH of neutral water at this temperature. Is the HClO₄ solution still acidic?
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
@@ -218,19 +218,19 @@ Three solutions are each 0.0500 M at 25 °C: perchloric acid, HClO₄; a carboxy
 
 - HClO₄ is a strong acid: [H₃O⁺] = 0.0500 M, **pH = 1.30**.
 - R–COOH: x = √(1.5 × 10⁻⁵ × 0.0500) = 8.7 × 10⁻⁴ M (1.7%, under 5%), **pH = 3.06**.
-- R–COO⁻: K_b = K_w ÷ K_a = 6.7 × 10⁻¹⁰. [OH⁻] = √(6.7 × 10⁻¹⁰ × 0.0500) = 5.8 × 10⁻⁶ M; pOH = 5.24; **pH = 8.76**.
+- R–COO⁻: K<sub>b</sub> = K<sub>w</sub> ÷ K<sub>a</sub> = 6.7 × 10⁻¹⁰. [OH⁻] = √(6.7 × 10⁻¹⁰ × 0.0500) = 5.8 × 10⁻⁶ M; pOH = 5.24; **pH = 8.76**.
 
-**(b)** **R–COONa > R–COOH > HClO₄**: [OH⁻] = 5.8 × 10⁻⁶, 1.2 × 10⁻¹¹ and 2.0 × 10⁻¹³ M (K_w ÷ [H₃O⁺]).
+**(b)** **R–COONa > R–COOH > HClO₄**: [OH⁻] = 5.8 × 10⁻⁶, 1.2 × 10⁻¹¹ and 2.0 × 10⁻¹³ M (K<sub>w</sub> ÷ [H₃O⁺]).
 
 **(c)** In R–COO⁻, resonance shares the negative charge over **two** oxygens: some stabilization, but it still accepts protons weakly. In ClO₄⁻ the charge is spread over **four** oxygens, and the electronegative oxygens on chlorine pull electron density away (inductive effect). The ion is so stable that it barely accepts a proton, so HClO₄ ionizes completely.
 
-**(d)** [OH⁻] = 3.8 × 10⁻¹⁴ ÷ 0.0500 = **7.6 × 10⁻¹³ M**. pK_w = 13.42, so neutral pH = **6.71**. [H₃O⁺] = 0.0500 M is far larger than [OH⁻]: **still acidic**.
+**(d)** [OH⁻] = 3.8 × 10⁻¹⁴ ÷ 0.0500 = **7.6 × 10⁻¹³ M**. pK<sub>w</sub> = 13.42, so neutral pH = **6.71**. [H₃O⁺] = 0.0500 M is far larger than [OH⁻]: **still acidic**.
 
 | Point | What earns it |
 |---|---|
 | 1 | (a) pH 1.30 and 3.06 |
-| 1 | (a) pH 8.76, using K_b = K_w ÷ K_a |
-| 1 | (b) Correct order, linked to pH or K_w |
+| 1 | (a) pH 8.76, using K<sub>b</sub> = K<sub>w</sub> ÷ K<sub>a</sub> |
+| 1 | (b) Correct order, linked to pH or K<sub>w</sub> |
 | 1 | (c) R–COO⁻: charge spread over two oxygens, still able to accept a proton |
 | 1 | (c) ClO₄⁻: charge spread over four oxygens plus inductive pull, so very stable and a negligible base |
 | 1 | (d) [OH⁻] = 7.6 × 10⁻¹³ M and neutral pH 6.71 |
@@ -247,34 +247,34 @@ Three solutions are each 0.0500 M at 25 °C: perchloric acid, HClO₄; a carboxy
 |---|---|---|---|---|---|---|
 | pH | 2.14 | 3.03 | 5.46 | 7.90 | 10.17 | 11.92 |
 
-(a) Use the volumes to show that H₂Q gives up two protons, and estimate pK_a2 from the table. Justify your reading.
+(a) Use the volumes to show that H₂Q gives up two protons, and estimate pK<sub>a2</sub> from the table. Justify your reading.
 (b) A buffer of pH 7.90 is needed. Using only the H₂Q solution and the NaOH, state what volume of NaOH to add to 20.00 mL of H₂Q, name the buffer pair, and write the net ionic equation for the reaction that removes added acid.
-(c) Indicator U has pK_a 5.5 and indicator V has pK_a 10.0. State which steep rise each one marks, and which to use to find the total moles of acidic protons.
+(c) Indicator U has pK<sub>a</sub> 5.5 and indicator V has pK<sub>a</sub> 10.0. State which steep rise each one marks, and which to use to find the total moles of acidic protons.
 (d) The calcium salt CaQ is slightly soluble. Predict how its solubility in a buffer at pH 5.5 compares with that in a buffer at pH 10.0, and whether it changes much between pH 11 and pH 12. Explain.
 
 <details>
 <summary>Worked solution and suggested Marlbridge rubric</summary>
 
-**(a)** n(H₂Q) = 20.00 mL × 0.0600 M = 1.200 mmol. First rise: 12.00 mL × 0.100 M = 1.200 mmol OH⁻ (one per H₂Q). Second rise: 2.400 mmol in total, **two OH⁻ per H₂Q**. 18.00 mL is halfway between the two rises, where [HQ⁻] = [Q²⁻], so **pK_a2 ≈ 7.9**.
+**(a)** n(H₂Q) = 20.00 mL × 0.0600 M = 1.200 mmol. First rise: 12.00 mL × 0.100 M = 1.200 mmol OH⁻ (one per H₂Q). Second rise: 2.400 mmol in total, **two OH⁻ per H₂Q**. 18.00 mL is halfway between the two rises, where [HQ⁻] = [Q²⁻], so **pK<sub>a2</sub> ≈ 7.9**.
 
-**(b)** Add **18.00 mL** of NaOH. The pair is **HQ⁻ / Q²⁻**, present in equal amounts (0.600 mmol each), so pH = pK_a2. Added acid: **Q²⁻(aq) + H₃O⁺(aq) → HQ⁻(aq) + H₂O(l)**.
+**(b)** Add **18.00 mL** of NaOH. The pair is **HQ⁻ / Q²⁻**, present in equal amounts (0.600 mmol each), so pH = pK<sub>a2</sub>. Added acid: **Q²⁻(aq) + H₃O⁺(aq) → HQ⁻(aq) + H₂O(l)**.
 
-**(c)** U (pK_a 5.5) matches the first equivalence pH, 5.46, at 12.00 mL. V (pK_a 10.0) matches the second, 10.17, at 24.00 mL. Use **V**: by then both protons have reacted.
+**(c)** U (pK<sub>a</sub> 5.5) matches the first equivalence pH, 5.46, at 12.00 mL. V (pK<sub>a</sub> 10.0) matches the second, 10.17, at 24.00 mL. Use **V**: by then both protons have reacted.
 
 **(d)** CaQ(s) ⇌ Ca²⁺(aq) + Q²⁻(aq).
 
-- **pH 5.5:** below pK_a2, so H₃O⁺ converts Q²⁻ to HQ⁻. [Q²⁻] falls, Q < K_sp and more solid dissolves: **more soluble than at pH 10.0**, where Q²⁻ predominates.
-- **pH 11 and 12:** both well above pK_a2, so Q²⁻ is hardly protonated at either: **little change**.
+- **pH 5.5:** below pK<sub>a2</sub>, so H₃O⁺ converts Q²⁻ to HQ⁻. [Q²⁻] falls, Q < K<sub>sp</sub> and more solid dissolves: **more soluble than at pH 10.0**, where Q²⁻ predominates.
+- **pH 11 and 12:** both well above pK<sub>a2</sub>, so Q²⁻ is hardly protonated at either: **little change**.
 
 | Point | What earns it |
 |---|---|
 | 1 | (a) 1.200 mmol acid and 2.400 mmol OH⁻ at the second rise: two protons |
-| 1 | (a) pK_a2 ≈ 7.9 from the volume halfway between the rises |
+| 1 | (a) pK<sub>a2</sub> ≈ 7.9 from the volume halfway between the rises |
 | 1 | (b) 18.00 mL; HQ⁻ / Q²⁻ pair in equal amounts |
 | 1 | (b) Net ionic equation for Q²⁻ with H₃O⁺ |
 | 1 | (c) U marks 12.00 mL, V marks 24.00 mL; use V |
-| 1 | (d) More soluble at pH 5.5: Q²⁻ is protonated, Q < K_sp, shift to dissolve |
-| 1 | (d) Little change from pH 11 to 12, because both are well above pK_a2 |
+| 1 | (d) More soluble at pH 5.5: Q²⁻ is protonated, Q < K<sub>sp</sub>, shift to dissolve |
+| 1 | (d) Little change from pH 11 to 12, because both are well above pK<sub>a2</sub> |
 
 **Total: 7 points.**
 </details>
@@ -283,7 +283,7 @@ Three solutions are each 0.0500 M at 25 °C: perchloric acid, HClO₄; a carboxy
 
 Total: 30 points (3 multiple choice, 27 constructed response). Where you lost them matters more.
 
-- **pH, K_w, weak acids and bases (3, 4(b), 6):** Topics 8.1 to 8.3.
+- **pH, K<sub>w</sub>, weak acids and bases (3, 4(b), 6):** Topics 8.1 to 8.3.
 - **Mixing and titrations (1, 2, 4, 7):** Topics 8.4 and 8.5.
 - **Structure and strength (3, 6(c)):** Topic 8.6.
 - **Predominant forms, indicators, solubility (1, 7):** Topics 8.7 and 8.11.

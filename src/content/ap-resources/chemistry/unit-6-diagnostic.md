@@ -41,7 +41,7 @@ Use this page to find **which Unit 6 topics to revisit**. There is one question 
 
 These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, so your total gives no predicted score.
 
-**Calculator and data.** A scientific calculator is allowed. Water and dilute solutions: c = 4.18 J g⁻¹ °C⁻¹; water ΔH_fus = 6.01 kJ mol⁻¹. Molar masses: H 1.008, O 16.00, Mg 24.31 g mol⁻¹. Other data are given in the questions. Substances named with letters are fictional.
+**Calculator and data.** A scientific calculator is allowed. Water and dilute solutions: c = 4.18 J g⁻¹ °C⁻¹; water ΔH<sub>fus</sub> = 6.01 kJ mol⁻¹. Molar masses: H 1.008, O 16.00, Mg 24.31 g mol⁻¹. Other data are given in the questions. Substances named with letters are fictional.
 
 ## Question 1 (multiple choice · 6.1)
 
@@ -169,8 +169,8 @@ What is the energy change when 27.0 g of liquid water at 0 °C freezes completel
 **Answer: (B).** n = 27.0 ÷ 18.016 = 1.499 mol. Freezing is the reverse of melting: q = 1.499 × (−6.01) = −9.01 kJ, so 9.01 kJ is released.
 
 - (A) has the wrong direction: freezing forms attractions, so it is exothermic.
-- (C) uses ΔH_vap (40.7 kJ mol⁻¹); freezing needs ΔH_fus.
-- (D) multiplies grams by ΔH_fus, skipping the conversion to moles.
+- (C) uses ΔH<sub>vap</sub> (40.7 kJ mol⁻¹); freezing needs ΔH<sub>fus</sub>.
+- (D) multiplies grams by ΔH<sub>fus</sub>, skipping the conversion to moles.
 
 **If you missed this:** read "Opposite changes, opposite signs" in the [Topic 6.5 study guide](/advanced-course-resources/chemistry/6-5-energy-phase-changes-study-guide/).
 </details>

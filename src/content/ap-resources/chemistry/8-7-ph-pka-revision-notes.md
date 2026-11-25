@@ -36,21 +36,21 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 ## Recap
 
 - A weak acid has two forms: the **acid form** HA (protonated) and the **base form** A⁻ (deprotonated). Which one is present at the higher concentration is its **protonation state**.
-- In a solution whose pH is fixed by other substances, compare the **pH** with the **pK_a**:
-  - pH < pK_a → **HA** predominates.
-  - pH = pK_a → [HA] = [A⁻].
-  - pH > pK_a → **A⁻** predominates.
-- For a weak base B, use the pK_a of **BH⁺** (= 14.00 − pK_b at 25 °C). pH < pK_a(BH⁺) → BH⁺ predominates.
-- An **indicator** is a weak acid, HIn, whose two forms have different colours. Its colour changes over roughly pK_a ± 1.
-- Choose an indicator whose **pK_a is close to the pH at the equivalence point**, so the colour changes on the steep part of the curve.
+- In a solution whose pH is fixed by other substances, compare the **pH** with the **pK<sub>a</sub>**:
+  - pH < pK<sub>a</sub> → **HA** predominates.
+  - pH = pK<sub>a</sub> → [HA] = [A⁻].
+  - pH > pK<sub>a</sub> → **A⁻** predominates.
+- For a weak base B, use the pK<sub>a</sub> of **BH⁺** (= 14.00 − pK<sub>b</sub> at 25 °C). pH < pK<sub>a</sub>(BH⁺) → BH⁺ predominates.
+- An **indicator** is a weak acid, HIn, whose two forms have different colours. Its colour changes over roughly pK<sub>a</sub> ± 1.
+- Choose an indicator whose **pK<sub>a</sub> is close to the pH at the equivalence point**, so the colour changes on the steep part of the curve.
 
 ## Key relationships
 
 | Relationship | Meaning | Use it to |
 |---|---|---|
-| [A⁻]/[HA] = K_a / [H₃O⁺] | rearranged K_a expression | see why pH and K_a set the ratio |
-| [A⁻]/[HA] = 10^(pH − pK_a) | same thing in log form | size the ratio: 1 unit → 10, 2 units → 100 |
-| pK_a + pK_b = 14.00 (25 °C) | conjugate pair | convert pK_b of a base to pK_a of its conjugate acid |
+| [A⁻]/[HA] = K<sub>a</sub> / [H₃O⁺] | rearranged K<sub>a</sub> expression | see why pH and K<sub>a</sub> set the ratio |
+| [A⁻]/[HA] = 10^(pH − pK<sub>a</sub>) | same thing in log form | size the ratio: 1 unit → 10, 2 units → 100 |
+| pK<sub>a</sub> + pK<sub>b</sub> = 14.00 (25 °C) | conjugate pair | convert pK<sub>b</sub> of a base to pK<sub>a</sub> of its conjugate acid |
 
 | Titration type | Equivalence pH | Example indicator |
 |---|---|---|
@@ -60,23 +60,23 @@ Short on time? This page is the recap. For explanations, graphs and worked examp
 
 ## Assumptions
 
-- Temperature is 25 °C, so K_w = 1.0 × 10⁻¹⁴ and pK_a + pK_b = 14.00.
+- Temperature is 25 °C, so K<sub>w</sub> = 1.0 × 10⁻¹⁴ and pK<sub>a</sub> + pK<sub>b</sub> = 14.00.
 - The indicator is present in a tiny amount and does not change the solution's pH.
 - Indicator colour ranges are approximate; they depend on the observer and on the solution.
 
 ## Mistakes to avoid
 
-1. **"Above pK_a = fully dissociated."** It only means A⁻ is the larger form.
-2. **"pH = pK_a means neutral."** It means the two forms are equal.
-3. **Comparing pH with pK_b.** Convert to pK_a of the conjugate acid first.
+1. **"Above pK<sub>a</sub> = fully dissociated."** It only means A⁻ is the larger form.
+2. **"pH = pK<sub>a</sub> means neutral."** It means the two forms are equal.
+3. **Comparing pH with pK<sub>b</sub>.** Convert to pK<sub>a</sub> of the conjugate acid first.
 4. **Always choosing an indicator for pH 7.** Match the actual equivalence pH.
 5. **Mixing up end point and equivalence point.** A poor indicator separates them and gives a wrong titre.
 
 ## Quick self-check
 
-1. HA has pK_a 8.0. Which form predominates at pH 6.0? *(HA; [A⁻]/[HA] = 0.01)*
-2. A base has pK_b 3.4. What is pK_a of its conjugate acid at 25 °C? *(10.6)*
-3. An acid's pK_a is 5.0. At what pH is it 50% deprotonated? *(pH 5.0)*
+1. HA has pK<sub>a</sub> 8.0. Which form predominates at pH 6.0? *(HA; [A⁻]/[HA] = 0.01)*
+2. A base has pK<sub>b</sub> 3.4. What is pK<sub>a</sub> of its conjugate acid at 25 °C? *(10.6)*
+3. An acid's pK<sub>a</sub> is 5.0. At what pH is it 50% deprotonated? *(pH 5.0)*
 4. Which indicator suits a weak acid–strong base titration, methyl orange or phenolphthalein? *(Phenolphthalein)*
 
 Next: [practice questions](/advanced-course-resources/chemistry/8-7-ph-pka-practice/).

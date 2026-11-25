@@ -72,11 +72,11 @@ const faqs = [
   },
   {
     question: 'How do the class times work with the UK time difference?',
-    answer: `Pakistan is four hours ahead of the UK in British Summer Time and five hours ahead in winter. ${PRICING_TERMS.teacherAvailability} The exact time is confirmed with the teacher before the first class.`,
+    answer: `Pakistan is four hours ahead of the UK in British Summer Time and five hours ahead in winter. ${PRICING_TERMS.groupClassTimes} The exact time is confirmed with the teacher before the first class.`,
   },
   {
     question: 'What does it cost from the UK?',
-    answer: `${formatFee(uk.igcse, uk.currency)} ${uk.currency} per subject per month for a GCSE, IGCSE or O Level group class and ${formatFee(uk.aLevel, uk.currency)} ${uk.currency} at AS/A Level; one-to-one classes are ${formatFee(ukOneToOne.igcse, ukOneToOne.currency)}–${formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} ${ukOneToOne.currency} per class. The group rates are set for the UK; the one-to-one rates are currency conversions of the Pakistan one-to-one rate, not a separately set UK price. The first class is free.`,
+    answer: `${formatFee(uk.igcse, uk.currency)} ${uk.currency} per subject per month for a GCSE, IGCSE or O Level group class and ${formatFee(uk.aLevel, uk.currency)} ${uk.currency} at AS/A Level; one-to-one classes are ${formatFee(ukOneToOne.igcse, ukOneToOne.currency)}–${formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} ${ukOneToOne.currency} per class. The group fee is ${statusInline(uk)} in pounds and is not a currency conversion; the one-to-one rates are ${statusInline(ukOneToOne)} currency conversions of the Pakistan one-to-one rate, not a separately set UK price. The first class is free.`,
   },
   {
     question: 'Is there a UK centre I can visit?',
@@ -85,6 +85,11 @@ const faqs = [
   {
     question: 'Who teaches the classes?',
     answer: 'Named subject specialists whose profiles are published on this site, each teaching from the official specification for the board the student is entered with. You know who is teaching before the first class.',
+  },
+  {
+    // D7 (owner, audit round 3) -- the real reply hours (D-346), as on /gulf/.
+    question: 'How quickly will you reply?',
+    answer: `${PRICING_TERMS.enquiryResponse.summary} ${PRICING_TERMS.freeTrial}`,
   },
   {
     question: 'Can I use the free resources without enrolling?',
@@ -191,7 +196,7 @@ const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14,
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
         All Marlbridge teaching is delivered live from Pakistan (UTC+5). The UK is on GMT (UTC+0) in winter and British Summer
         Time (UTC+1) from late March to late October — four to five hours behind. A 4:30 pm after-school slot in London is
-        therefore 8:30 or 9:30 pm in Lahore. {PRICING_TERMS.teacherAvailability} The exact class time is agreed with the teacher
+        therefore 8:30 or 9:30 pm in Lahore. {PRICING_TERMS.groupClassTimes} The exact class time is agreed with the teacher
         before the first class.
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
@@ -225,8 +230,8 @@ const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14,
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Pricing for the UK</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        Group classes are priced per subject, per month; one-to-one classes per class. The group rates are set for the UK.
-        The one-to-one figures are a currency conversion of the Pakistan one-to-one rate (see the note below), not a
+        Group classes are priced per subject, per month; one-to-one classes per class. The group fee is {statusInline(uk)}
+        in pounds, as on the pricing page. The one-to-one figures are {statusInline(ukOneToOne)}: a currency conversion of the Pakistan one-to-one rate (see the note below), not a
         separately published UK price. Full terms, discounts and every other region are on the
         {' '}<a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">pricing page</a>.
       </p>
@@ -251,11 +256,11 @@ const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14,
               <td class="py-3 text-ink-mute">{formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} {ukOneToOne.currency}</td>
             </tr>
             <tr class="border-b border-rule">
-              <td class="py-3 pr-4 text-ink">IB, one-to-one, per 1-hour class <span class="text-[12px] text-ink-mute">(indicative)</span></td>
+              <td class="py-3 pr-4 text-ink">IB, one-to-one, per 1-hour class <span class="text-[12px] text-ink-mute">({statusInline(ibConversionFor('United Kingdom')!)})</span></td>
               <td class="py-3 text-ink-mute" colspan="2">{formatFee(ibConversionFor('United Kingdom')!.perClass, 'GBP')} GBP</td>
             </tr>
             <tr class="border-b border-rule">
-              <td class="py-3 pr-4 text-ink">OCR courses, one-to-one only, per class <span class="text-[12px] text-ink-mute">(indicative)</span></td>
+              <td class="py-3 pr-4 text-ink">OCR courses, one-to-one only, per class <span class="text-[12px] text-ink-mute">({statusInline(oneToOneOnlyConversionFor('United Kingdom')!)})</span></td>
               <td class="py-3 text-ink-mute" colspan="2">{formatFee(oneToOneOnlyConversionFor('United Kingdom')!.perClass, 'GBP')} GBP</td>
             </tr>
           </tbody>

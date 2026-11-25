@@ -52,11 +52,22 @@ const entriesFor = (qs: string) => {
   const viaALevel = catalogue.filter((e) => e.qs === 'a-level' && !have.has(`${e.bs}/${e.ss}`)).map((e) => ({ ...e, asVia: true }));
   return [...own.map((e) => ({ ...e, asVia: false })), ...viaALevel];
 };
+/**
+ * The visible name of one board's group of courses. The IB is one awarding
+ * body whose programme names already say "IB", so its group is named by the
+ * programme alone ("IB Diploma Programme", not "International Baccalaureate
+ * IB Diploma Programme") -- the same rule courseLabel() below uses for links.
+ * Every group gets a name: audit round 3 (item 11) found the IB groups had
+ * none in compact mode (homepage), so in the HTML the IB MYP and IB DP lists
+ * ran on from the Pearson Edexcel GCSE list above them.
+ */
+const groupHeading = (bs: string, b: string, q: string) => (bs === 'ib' ? q : `${b} ${q}`);
 const tree = quals.map((q) => {
   const entries = entriesFor(q.slug);
   const boards = [...new Map(entries.map((e) => [e.bs, e.b])).entries()].map(([bs, b]) => ({
     bs,
     b,
+    heading: groupHeading(bs, b, q.name),
     courses: entries.filter((e) => e.bs === bs).sort((x, y) => x.s.localeCompare(y.s)),
   }));
   // `qs` is a plain string: the AP family added below ('ap') is not a syllabus QualificationSlug.
@@ -93,7 +104,7 @@ if (apLibraryBuilt()) {
     }))
     .sort((x, y) => x.s.localeCompare(y.s));
   if (apCourses.length) {
-    tree.push({ qs: AP_QS, q: 'AP®', boards: [{ bs: AP_BS, b: 'College Board', courses: apCourses as any }] });
+    tree.push({ qs: AP_QS, q: 'AP®', boards: [{ bs: AP_BS, b: 'College Board', heading: groupHeading(AP_BS, 'College Board', 'AP®'), courses: apCourses as any }] });
   }
 }
 const qualChips = tree.map((q) => ({ slug: q.qs, name: q.q }));
@@ -124,7 +135,7 @@ const courseLabel = (e: { bs: string; q: string; b: string; s: string; code?: st
 
     <div data-finder-continue hidden class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 rounded-md border-2 border-gold-500 bg-[#FFF8E6] px-4 py-3">
       <span class="text-[14.5px] text-ink">Your course:</span>
-      <a data-finder-continue-link href={routes.resources} class="text-[16px] font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700"></a>
+      <a data-finder-continue-link href={routes.resources} class="text-[16px] font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">All study resources</a>
       <button type="button" data-finder-change class="min-h-11 text-[14.5px] text-ink-mute underline decoration-rule underline-offset-2 hover:text-teal-700">Change course</button>
     </div>
 
@@ -176,8 +187,9 @@ const courseLabel = (e: { bs: string; q: string; b: string; s: string; code?: st
           {full && <H2 data-q-heading class="m-0 mb-4 border-b-2 border-navy-800 pb-2.5 text-[22px] font-semibold tracking-[-0.01em] text-navy-800">{q.q}</H2>}
           {q.boards.map((b) => (
             <div data-b-block={b.bs} id={full ? `${q.qs}-${b.bs}` : undefined} class="mt-5 scroll-mt-24 first:mt-0">
-              {b.bs !== 'ib' && (
-                <BoardH class="m-0 mb-2 mb-label text-teal-700">{`${b.b} ${q.q}`}</BoardH>
+              {/* In full mode the qualification heading above already names an IB group, so its board line would repeat it. */}
+              {!(full && b.heading === q.q) && (
+                <BoardH class="m-0 mb-2 mb-label text-teal-700">{b.heading}</BoardH>
               )}
               <ul class={`m-0 grid list-none gap-2 p-0 sm:grid-cols-2 ${full ? 'lg:grid-cols-3' : ''}`}>
                 {b.courses.map((e) => (

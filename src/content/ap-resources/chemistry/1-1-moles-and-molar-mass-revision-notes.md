@@ -45,7 +45,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 | Relationship | Symbols and units | Use it to |
 |---|---|---|
 | n = m / M | n in mol, m in g, M in g mol⁻¹ | turn a mass into moles (or rearrange: m = n × M) |
-| N = n × N_A | N particles, N_A = 6.022 × 10²³ mol⁻¹ | turn moles into a particle count (or n = N / N_A) |
+| N = n × N<sub>A</sub> | N particles, N<sub>A</sub> = 6.022 × 10²³ mol⁻¹ | turn moles into a particle count (or n = N / N<sub>A</sub>) |
 | Atoms of X = N × (subscript of X) | from the formula | count atoms of one element inside a compound |
 
 ## Assumptions behind the numbers
@@ -59,7 +59,7 @@ Short on time? This page is the recap. For explanations and worked examples, use
 1. **Ignoring brackets.** Ca(NO₃)₂ has 2 N and 6 O.
 2. **Equal mass ≠ equal particles.** Compare moles, not grams.
 3. **Molecules vs atoms.** 1 mol O₂ = 2 mol O atoms.
-4. **Wrong direction with N_A.** Particles → moles: divide. Moles → particles: multiply.
+4. **Wrong direction with N<sub>A</sub>.** Particles → moles: divide. Moles → particles: multiply.
 5. **Rounding early.** Keep full calculator values; round once at the end.
 6. **Dropping units.** Units that do not cancel to the answer's unit mean the setup is wrong.
 

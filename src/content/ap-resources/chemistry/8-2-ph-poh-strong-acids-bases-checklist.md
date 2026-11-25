@@ -40,7 +40,7 @@ Work through the list without notes. If you cannot do a statement, follow its li
 
 - I can find the pH and pOH of a strong acid solution from its concentration. *(Guide: Worked example 1; Practice Q1)*
 - I can find [OH⁻], pOH and pH for a group 1 or group 2 hydroxide, using the correct factor. *(Guide: Worked example 2; Practice Q2, Q6(a))*
-- I can list every species in a strong acid or strong base solution with its concentration, including the minor ion from K_w. *(Guide: Worked example 1; Practice Q3, Q6(c))*
+- I can list every species in a strong acid or strong base solution with its concentration, including the minor ion from K<sub>w</sub>. *(Guide: Worked example 1; Practice Q3, Q6(c))*
 - I can calculate pH after a dilution, or work out the dilution needed for a target pH. *(Guide: Worked example 3; Practice Q4)*
 - I can find the pH when two strong acids are mixed, using total moles and total volume. *(Practice Q5)*
 - I can calculate the mass of a strong base needed to make a solution with a given pH. *(Practice Q6(d))*

@@ -100,7 +100,7 @@ The component present in the largest amount is usually called the **solvent**; t
 
 Saying a solution is "strong" or "weak" is not enough for chemistry. You need a number. The concentration unit used most in the laboratory is **molarity**:
 
-> **M = n_solute ÷ V_solution**, where n is in moles and V is in **litres of solution**.
+> **M = n<sub>solute</sub> ÷ V<sub>solution</sub>**, where n is in moles and V is in **litres of solution**.
 
 The unit is mol L⁻¹, written **M** and read "molar". If 0.500 mol of glucose is dissolved and the solution is made up to 2.00 L, then M = 0.500 mol ÷ 2.00 L = **0.250 M**.
 

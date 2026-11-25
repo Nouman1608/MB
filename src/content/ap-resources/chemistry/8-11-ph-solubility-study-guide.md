@@ -51,7 +51,7 @@ In [Topic 7.12](/advanced-course-resources/chemistry/7-12-common-ion-effect-stud
 
 Take calcium fluoride in water, with some undissolved solid present:
 
-CaF₂(s) ⇌ Ca²⁺(aq) + 2 F⁻(aq)  K_sp = [Ca²⁺][F⁻]²
+CaF₂(s) ⇌ Ca²⁺(aq) + 2 F⁻(aq)  K<sub>sp</sub> = [Ca²⁺][F⁻]²
 
 F⁻ is the conjugate base of HF, a **weak** acid. So F⁻ is a weak base. If you add a strong acid, H₃O⁺ reacts with F⁻:
 
@@ -60,7 +60,7 @@ F⁻(aq) + H₃O⁺(aq) → HF(aq) + H₂O(l)
 Follow the stress step by step:
 
 1. H₃O⁺ turns F⁻ into HF, so [F⁻] falls.
-2. Q = [Ca²⁺][F⁻]² is now **less than K_sp**.
+2. Q = [Ca²⁺][F⁻]² is now **less than K<sub>sp</sub>**.
 3. The dissolving reaction runs forward to replace the lost F⁻: more CaF₂ dissolves.
 4. More Ca²⁺ ends up in solution. The salt is **more soluble** in acid than in pure water.
 
@@ -68,7 +68,7 @@ Adding the two equations (after doubling the second) gives the overall change:
 
 CaF₂(s) + 2 H₃O⁺(aq) → Ca²⁺(aq) + 2 HF(aq) + 2 H₂O(l)
 
-K_sp itself has not changed. It is still an equilibrium constant that depends only on temperature. What changes is how much solid has to dissolve before the ion product reaches K_sp again.
+K<sub>sp</sub> itself has not changed. It is still an equilibrium constant that depends only on temperature. What changes is how much solid has to dissolve before the ion product reaches K<sub>sp</sub> again.
 
 ## Which salts are sensitive to pH?
 
@@ -83,7 +83,7 @@ Look at each ion in the salt and ask: **can this ion gain or lose a proton?** Th
 
 Cl⁻, Br⁻ and I⁻ are conjugate bases of strong acids. They have almost no tendency to take a proton, so acid cannot remove them.
 
-**How much does the pH have to change?** Use the idea from [Topic 8.7](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/). When the pH is **above** the pK_a of the weak acid HA, the base form A⁻ predominates. Little A⁻ is removed, and the solubility is close to its value in pure water. When the pH drops **below** the pK_a, the acid form HA predominates. Most of the dissolved A⁻ is turned into HA, so much more solid must dissolve. For a salt with a weakly acidic cation BH⁺, the same reasoning works the other way round: the solubility rises once the pH climbs above the pK_a of BH⁺.
+**How much does the pH have to change?** Use the idea from [Topic 8.7](/advanced-course-resources/chemistry/8-7-ph-pka-study-guide/). When the pH is **above** the pK<sub>a</sub> of the weak acid HA, the base form A⁻ predominates. Little A⁻ is removed, and the solubility is close to its value in pure water. When the pH drops **below** the pK<sub>a</sub>, the acid form HA predominates. Most of the dissolved A⁻ is turned into HA, so much more solid must dissolve. For a salt with a weakly acidic cation BH⁺, the same reasoning works the other way round: the solubility rises once the pH climbs above the pK<sub>a</sub> of BH⁺.
 
 ## Picturing the effect
 
@@ -124,7 +124,7 @@ Cl⁻, Br⁻ and I⁻ are conjugate bases of strong acids. They have almost no t
 <text x="350" y="60">4: metal hydroxide</text>
 </g>
 </svg>
-<figcaption>Figure 1. A qualitative sketch for four fictional salts (shapes only, no values). Each line has its own pattern and number: 1 solid, 2 long dashes, 3 dotted, 4 dash-dot. Line 1 rises once the pH falls below the pK_a of the anion's conjugate acid. Line 3 rises once the pH climbs above the pK_a of the cation. Line 4 changes at every pH because OH⁻ itself is in the K_sp expression; it runs off the sketch at both ends. Line 2 stays flat.</figcaption>
+<figcaption>Figure 1. A qualitative sketch for four fictional salts (shapes only, no values). Each line has its own pattern and number: 1 solid, 2 long dashes, 3 dotted, 4 dash-dot. Line 1 rises once the pH falls below the pK<sub>a</sub> of the anion's conjugate acid. Line 3 rises once the pH climbs above the pK<sub>a</sub> of the cation. Line 4 changes at every pH because OH⁻ itself is in the K<sub>sp</sub> expression; it runs off the sketch at both ends. Line 2 stays flat.</figcaption>
 </figure>
 
 Two features are worth noticing. First, the hydroxide (line 4) responds to pH everywhere, because [OH⁻] is fixed directly by the pH. Second, a salt whose ion is a very weak base, such as the salt in line 1, only responds once the solution is acidic enough to protonate that ion. You only need the **direction** of each change and the reason for it.
@@ -135,7 +135,7 @@ Two features are worth noticing. First, the hydroxide (line 4) responds to pH ev
 
 **Method.** Write the dissolving equation, then ask whether H₃O⁺ reacts with either ion.
 
-**(a) CaCO₃(s) ⇌ Ca²⁺(aq) + CO₃²⁻(aq).** Carbonate is the conjugate base of the weak acid HCO₃⁻, so it is a base. H₃O⁺ converts it to HCO₃⁻ and then H₂CO₃, which breaks down to CO₂ and water. [CO₃²⁻] falls, Q < K_sp, so more CaCO₃ dissolves: **increases**. Overall, with excess acid:
+**(a) CaCO₃(s) ⇌ Ca²⁺(aq) + CO₃²⁻(aq).** Carbonate is the conjugate base of the weak acid HCO₃⁻, so it is a base. H₃O⁺ converts it to HCO₃⁻ and then H₂CO₃, which breaks down to CO₂ and water. [CO₃²⁻] falls, Q < K<sub>sp</sub>, so more CaCO₃ dissolves: **increases**. Overall, with excess acid:
 
 CaCO₃(s) + 2 H₃O⁺(aq) → Ca²⁺(aq) + CO₂(g) + 3 H₂O(l)
 
@@ -143,11 +143,11 @@ The CO₂ bubbles out of the solution, so the carbonate cannot come back. That i
 
 **(b) AgBr(s) ⇌ Ag⁺(aq) + Br⁻(aq).** Br⁻ is the conjugate base of HBr, a strong acid, so it does not accept a proton. Ag⁺ does not react with H₃O⁺. Q is unchanged: **stays the same**. (NO₃⁻ from the nitric acid is not a common ion either.)
 
-**(c) Mg(OH)₂(s) ⇌ Mg²⁺(aq) + 2 OH⁻(aq).** H₃O⁺ + OH⁻ → 2 H₂O removes hydroxide, Q < K_sp: **increases**. Overall: Mg(OH)₂(s) + 2 H₃O⁺(aq) → Mg²⁺(aq) + 4 H₂O(l). This is how a magnesium hydroxide antacid neutralises stomach acid.
+**(c) Mg(OH)₂(s) ⇌ Mg²⁺(aq) + 2 OH⁻(aq).** H₃O⁺ + OH⁻ → 2 H₂O removes hydroxide, Q < K<sub>sp</sub>: **increases**. Overall: Mg(OH)₂(s) + 2 H₃O⁺(aq) → Mg²⁺(aq) + 4 H₂O(l). This is how a magnesium hydroxide antacid neutralises stomach acid.
 
-**(d) BaF₂(s) ⇌ Ba²⁺(aq) + 2 F⁻(aq).** F⁻ is a weak base (HF is a weak acid). H₃O⁺ converts F⁻ to HF, Q < K_sp: **increases**.
+**(d) BaF₂(s) ⇌ Ba²⁺(aq) + 2 F⁻(aq).** F⁻ is a weak base (HF is a weak acid). H₃O⁺ converts F⁻ to HF, Q < K<sub>sp</sub>: **increases**.
 
-**(e) NaOH and Mg(OH)₂.** OH⁻ is a **common ion**. Q rises above K_sp and Mg(OH)₂ precipitates until Q = K_sp again: the solubility **decreases**.
+**(e) NaOH and Mg(OH)₂.** OH⁻ is a **common ion**. Q rises above K<sub>sp</sub> and Mg(OH)₂ precipitates until Q = K<sub>sp</sub> again: the solubility **decreases**.
 
 **Check.** The only salt that does not respond is the one whose anion comes from a strong acid. That fits the rule in the table.
 
@@ -172,7 +172,7 @@ The CO₂ bubbles out of the solution, so the carbonate cannot come back. That i
 | R | 0.018 g | 0.018 g | 0.181 g |
 
 **(b)** *P:* the three values differ by only 0.001 g, which is the precision of the balance. There is no real change with pH, so **neither** ion of P is acidic or basic.
-*Q:* about ten times as much dissolves at pH 3 as at pH 7, and pH 7 and pH 11 give the same result. Acid removes one of Q's ions, so Q has a **basic anion**. Because nothing changes between pH 7 and 11, the anion is a base whose conjugate acid has a pK_a below 7.
+*Q:* about ten times as much dissolves at pH 3 as at pH 7, and pH 7 and pH 11 give the same result. Acid removes one of Q's ions, so Q has a **basic anion**. Because nothing changes between pH 7 and 11, the anion is a base whose conjugate acid has a pK<sub>a</sub> below 7.
 *R:* the mass dissolved is unchanged from pH 3 to pH 7 but about ten times larger at pH 11. Base removes one of R's ions, so R has a **weakly acidic cation**.
 
 **(c)** Dissolving Q uses up H₃O⁺, and dissolving R uses up OH⁻. In plain acid or base, the pH would drift as the solid dissolved. A buffer with enough capacity ([Topic 8.10](/advanced-course-resources/chemistry/8-10-buffer-capacity-study-guide/)) keeps the pH nearly constant, so each result belongs to one pH value. A common ion from the buffer would lower the solubility (Topic 7.12) and hide the pH effect.
@@ -187,18 +187,18 @@ The CO₂ bubbles out of the solution, so the carbonate cannot come back. That i
 
 Ca₅(PO₄)₃OH(s) ⇌ 5 Ca²⁺(aq) + 3 PO₄³⁻(aq) + OH⁻(aq)
 
-Two of its ions are bases. H₃O⁺ converts PO₄³⁻ to HPO₄²⁻ (and further), and converts OH⁻ to water. Both changes lower Q below K_sp, so the equilibrium shifts to the right and more enamel dissolves. The lower the pH near the tooth surface, the more enamel can dissolve before equilibrium is reached.
+Two of its ions are bases. H₃O⁺ converts PO₄³⁻ to HPO₄²⁻ (and further), and converts OH⁻ to water. Both changes lower Q below K<sub>sp</sub>, so the equilibrium shifts to the right and more enamel dissolves. The lower the pH near the tooth surface, the more enamel can dissolve before equilibrium is reached.
 
 **Extension.** Fluoride treatments help form fluorapatite, which resists acid attack better than hydroxyapatite. One part of the reason is that F⁻ is a much weaker base than OH⁻, so acid removes it far less readily.
 
 ## What you will not be asked to do
 
-The course asks for **qualitative** reasoning only. You need to predict the direction of the change, write the reaction that removes an ion, and explain the shift with Le Châtelier's principle. Calculating solubility at a given pH is not assessed. You may still meet K_sp calculations (Topic 7.11) and pH calculations (Topics 8.2 and 8.3) on their own.
+The course asks for **qualitative** reasoning only. You need to predict the direction of the change, write the reaction that removes an ion, and explain the shift with Le Châtelier's principle. Calculating solubility at a given pH is not assessed. You may still meet K<sub>sp</sub> calculations (Topic 7.11) and pH calculations (Topics 8.2 and 8.3) on their own.
 
 ## Common misconceptions
 
 - **"Acid makes every salt more soluble."** Only salts with a basic anion or hydroxide. AgCl, AgBr and AgI do not respond to acid.
-- **"The pH changes K_sp."** K_sp depends only on temperature. The pH changes the solubility by removing ions, not the constant.
+- **"The pH changes K<sub>sp</sub>."** K<sub>sp</sub> depends only on temperature. The pH changes the solubility by removing ions, not the constant.
 - **"H₃O⁺ reacts with the metal cation."** In these examples the acid reacts with the **anion**: CO₃²⁻, F⁻, PO₄³⁻ or OH⁻.
 - **"To dissolve a chloride, add HCl."** The Cl⁻ in hydrochloric acid is a common ion. It can only lower the solubility of a chloride salt.
 - **"Adding base always lowers solubility."** It lowers the solubility of a hydroxide (common ion), but it **raises** the solubility of a salt whose cation is a weak acid.
