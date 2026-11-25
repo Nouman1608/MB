@@ -71,7 +71,7 @@ const study = u.topics.map((t) => ({
 const unitLevel = resources.filter((r) => r.data.unit === u.number && r.data.topics.length === 0 && r.data.resourceType !== 'exam-skills');
 ---
 <PageLayout
-  title={`${u.title} Flashcards (${c.name}, Unit ${u.number})`}
+  title={/^AP\b/.test(apMetaName(c)) ? `${apMetaName(c)} Unit ${u.number}: ${u.title} Flashcards` : `${u.title} Flashcards (${c.name}, Unit ${u.number})`}
   description={description}
   path={path}
   eyebrow={`Flashcards · ${visible} · Unit ${u.number}`}
