@@ -39,7 +39,7 @@ for the full method and a model paragraph see the
 - Marked on a **five-level** scheme shared with the Prose essay.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--01-set-poems.webp" width="900" height="730" alt="Ten ghazals (غزلیں), two each by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali's Musadas Hali in seventeen stanzas, Syed Zameer Jafree's Admee and Mirza Mahmood Sarhadi's Qitaat in six short pieces." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--01-set-poems-v2.webp" width="900" height="730" alt="Ten ghazals (غزلیں), two each by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali's Musadas Hali in seventeen stanzas, Syed Zameer Jafree's Admee and Mirza Mahmood Sarhadi's Qitaat in six short pieces." loading="lazy">
   <figcaption>Thirteen poems, none allowed in the exam room: quotations must be memorised.</figcaption>
 </figure>
 

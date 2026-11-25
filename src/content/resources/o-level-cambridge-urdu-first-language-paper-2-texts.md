@@ -130,7 +130,7 @@ can be deployed to support an argument -- rather than something to
 recognise in outline only.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--02-set-texts.webp" width="900" height="684" alt="Part 2 Poetry: ten ghazals by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight texts, seven articles and Ghalib's two letters." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--02-set-texts-v2.webp" width="900" height="684" alt="Part 2 Poetry: ten ghazals by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight texts, seven articles and Ghalib's two letters." loading="lazy">
   <figcaption>Know each prescribed text in depth, with quotations ready.</figcaption>
 </figure>
 
