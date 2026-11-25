@@ -6,7 +6,10 @@
  *
  * See src/data/academic/command-words.ts for the sourcing note. This page
  * is a simple, honest reference tool: Cambridge's own 22-word generic
- * command-word glossary, with a client-side filter-as-you-type search
+ * command-word glossary PLUS four named Pearson Edexcel documents (D-541),
+ * each in its own section and never blended into one "Edexcel list" (D-097:
+ * Edexcel publishes no generic glossary). Other boards are not yet sourced
+ * and the page says so. Client-side filter-as-you-type search
  * (no build tooling needed for 22 static items -- plain vanilla JS,
  * matching this codebase's established no-framework-for-simple-things
  * convention). No account, no data leaves the browser.
@@ -14,19 +17,34 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import { CAMBRIDGE_COMMAND_WORDS, COMMAND_WORDS_SOURCE } from '../../data/academic/command-words.ts';
+import { CAMBRIDGE_COMMAND_WORDS, COMMAND_WORDS_SOURCE, EDEXCEL_COMMAND_WORD_DOCUMENTS } from '../../data/academic/command-words.ts';
 import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
 
 const path = '/command-words/';
+
+// Owner order (D-541): IAL Business, IAL Economics, IGCSE Physics, IGCSE Biology.
+const EDEXCEL_ORDER = [
+  'IAL-Business-Specification-with-Command-Words.pdf',
+  'IAL-Economics-Specification-with-Command-Words.pdf',
+  'IGCSE-Physics-Command-Words-Exemplars.pdf',
+  'IGCSE-Biology-4BI1-Getting-Started-Guide.pdf',
+];
+const edexcelDocs = EDEXCEL_ORDER.map((name) => {
+  const doc = EDEXCEL_COMMAND_WORD_DOCUMENTS.find((d) => d.document === name);
+  if (!doc) throw new Error(`Edexcel command-word document missing from data: ${name}`);
+  return doc;
+});
+const edexcelEntryCount = edexcelDocs.reduce((n, d) => n + d.entries.length, 0);
+const totalEntries = CAMBRIDGE_COMMAND_WORDS.length + edexcelEntryCount;
 ---
 <PageLayout
   title="Command Words Guide — What Exam Questions Are Really Asking"
-  description="Cambridge's own official command-word glossary -- what 'Describe', 'Explain', 'Evaluate', 'Justify' and 18 other exam instruction words actually require in your answer. Search as you type, no account needed."
+  description="Cambridge's own official command-word glossary plus the command-word tables from four named Pearson Edexcel documents (IAL Business, IAL Economics, International GCSE Physics and Biology) -- what 'Describe', 'Explain', 'Evaluate' and other exam instruction words actually require. Search as you type, no account needed."
   path={path}
   eyebrow="Free tool"
   heading="Command words guide"
-  lead={`What ${CAMBRIDGE_COMMAND_WORDS.length} common exam instruction words actually require in your answer -- straight from Cambridge's own official glossary. A "Describe" answer and an "Evaluate" answer for the same topic should never look the same. This page covers Cambridge only; for other boards, see the links further down the page.`}
+  lead={`What ${CAMBRIDGE_COMMAND_WORDS.length} common exam instruction words actually require in your answer -- straight from Cambridge's own official glossary. A "Describe" answer and an "Evaluate" answer for the same topic should never look the same. Below that are the command-word tables from four named Pearson Edexcel documents, each kept separate because Edexcel publishes no single list. Other boards are not covered yet; see the links further down the page.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Command words', href: path },
@@ -43,17 +61,56 @@ const path = '/command-words/';
           autocomplete="off"
           class="w-full rounded-sm border border-rule bg-white px-4 py-3 text-[16px] text-navy-800 outline-none transition-colors duration-150 focus:border-gold-500"
         />
-        <p id="mb-cw-count" class="m-0 mt-2 text-[13px] text-ink-mute" aria-live="polite">{CAMBRIDGE_COMMAND_WORDS.length} command words</p>
+        <p id="mb-cw-count" class="m-0 mt-2 text-[13px] text-ink-mute" aria-live="polite">{totalEntries} entries</p>
       </div>
 
-      <dl id="mb-cw-list" class="mx-auto mt-10 grid max-w-[720px] gap-x-8 gap-y-6 sm:grid-cols-2">
-        {CAMBRIDGE_COMMAND_WORDS.map((cw) => (
-          <div class="mb-cw-item border-b border-rule pb-5" data-word={cw.word.toLowerCase()}>
-            <dt class="m-0 text-[17px] font-semibold tracking-[-0.005em] text-navy-800">{cw.word}</dt>
-            <dd class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">{cw.definition}</dd>
+      <section class="mb-cw-group mx-auto mt-10 max-w-[720px]" aria-labelledby="mb-cw-cambridge-h">
+        <h2 id="mb-cw-cambridge-h" class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Cambridge: generic command words</h2>
+        <p class="m-0 mb-5 text-[14px] leading-[1.6] text-ink-mute">Cambridge's own official list, {CAMBRIDGE_COMMAND_WORDS.length} words, for its new and revised syllabuses published from 2019 onwards.</p>
+        <dl id="mb-cw-list" class="grid gap-x-8 gap-y-6 sm:grid-cols-2">
+          {CAMBRIDGE_COMMAND_WORDS.map((cw) => (
+            <div class="mb-cw-item border-b border-rule pb-5" data-word={cw.word.toLowerCase()}>
+              <dt class="m-0 text-[17px] font-semibold tracking-[-0.005em] text-navy-800">{cw.word}</dt>
+              <dd class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">{cw.definition}</dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+
+      <div class="mx-auto mt-14 max-w-[720px]">
+        <h2 id="mb-cw-edexcel-h" class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Pearson Edexcel: four separate documents</h2>
+        <p class="m-0 text-[14.5px] leading-[1.65] text-ink-mute">
+          Pearson Edexcel does not publish one command-word list for all its subjects, so these are four separate tables,
+          each copied as printed from one named document and each applying only to the qualification stated in its box.
+          Do not read them as one combined Edexcel list: the same word (for example "Evaluate") is worded differently,
+          and carries different mark values, from one document to the next.
+        </p>
+      </div>
+
+      {edexcelDocs.map((doc, i) => (
+        <section class="mb-cw-group mx-auto mt-10 max-w-[720px]" aria-labelledby={`mb-cw-edexcel-${i}-h`}>
+          <h3 id={`mb-cw-edexcel-${i}-h`} class="m-0 mb-2 text-[20px] font-semibold leading-[1.25] tracking-[-0.01em] text-navy-800">{doc.qualification}</h3>
+          <div class="mb-5 rounded-sm border border-rule px-4 py-3 text-[14px] leading-[1.6] text-ink-mute">
+            <p class="m-0"><span class="font-semibold text-navy-800">Source document:</span> {doc.documentLabel}. <a href={doc.sourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">Pearson Edexcel PDF</a>.</p>
+            <p class="m-0 mt-1.5"><span class="font-semibold text-navy-800">Applies to:</span> {doc.appliesTo}</p>
+            {doc.entries.some((e) => e.marks) && (
+              <p class="m-0 mt-1.5">The mark value shown with each word is the "Number of marks" column of this specification's table.</p>
+            )}
           </div>
-        ))}
-      </dl>
+          <dl class="grid gap-x-8 gap-y-6 sm:grid-cols-2">
+            {doc.entries.map((cw) => (
+              <div class="mb-cw-item border-b border-rule pb-5" data-word={cw.word.toLowerCase()}>
+                <dt class="m-0 text-[17px] font-semibold tracking-[-0.005em] text-navy-800">{cw.word}</dt>
+                {cw.marks && <dd class="m-0 mt-1 text-[13px] font-semibold text-ink-mute">Number of marks: {cw.marks}</dd>}
+                {cw.group && <dd class="m-0 mt-1 text-[13px] text-ink-mute">Printed under the heading "{cw.group}"</dd>}
+                {cw.definition.split('\n').map((para) => (
+                  <dd class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">{para}</dd>
+                ))}
+              </div>
+            ))}
+          </dl>
+        </section>
+      ))}
 
       <p id="mb-cw-empty" class="mx-auto mt-10 hidden max-w-[560px] text-[14.5px] text-ink-mute">
         No command word matches that search. Try a shorter word, or check the spelling.
@@ -75,11 +132,13 @@ const path = '/command-words/';
 
       <h3 class="m-0 mb-2 mt-8 text-[17px] font-semibold text-navy-800">Where this list comes from</h3>
       <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        This is Cambridge's own official command-word glossary, sourced directly from
+        The first list above is Cambridge's own official command-word glossary, sourced directly from
         {' '}<a href={COMMAND_WORDS_SOURCE.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">cambridgeinternational.org</a>,
         verified {COMMAND_WORDS_SOURCE.verifiedOn}. Cambridge describes these as the command words used in new and revised
         syllabuses published from 2019 onwards, and says that any subject-specific command words will also be listed in
         the syllabus. Those subject-specific words are not duplicated here, so check your own syllabus as well.
+        The Edexcel tables are copied word for word from the four Pearson Edexcel documents named in each box, including
+        wording as printed in those documents; each box gives the source and page.
       </p>
 
       <h3 class="m-0 mb-2 mt-8 text-[17px] font-semibold text-navy-800">If you're studying under a different board</h3>
@@ -93,12 +152,13 @@ const path = '/command-words/';
         <li>AQA — published per subject; for example its <a href="https://www.aqa.org.uk/resources/science/gcse/teach/command-words" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">GCSE Science command words</a> or <a href="https://www.aqa.org.uk/resources/geography/as-and-a-level/geography/teach/command-words" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">A-level Geography command words</a> pages.</li>
         <li>OCR — also published per subject; for example its <a href="https://www.ocr.org.uk/images/539424-command-words.pdf" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">GCSE Geography command words</a> guide.</li>
         <li>OxfordAQA — also published per subject; for example its <a href="https://www.oxfordaqa.com/oaqaresources/geography/international-a-level-geography-command-words-v1.pdf" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">International A-level Geography command words</a> guide.</li>
-        <li>Pearson Edexcel — does not appear to publish one consolidated official glossary at a stable public address; your subject's own specification document is the reliable source.</li>
+        <li>Pearson Edexcel — does not appear to publish one consolidated official glossary at a stable public address. This page shows the command-word tables from four named Edexcel documents (IAL Business, IAL Economics, International GCSE Physics and International GCSE Biology), each as its own list. Other Edexcel subjects are not covered yet; your subject's own specification document is the reliable source.</li>
       </ul>
       <p class="m-0 mt-3 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        We haven't yet built a verified, subject-by-subject command-word tool for these boards the way we have for
-        Cambridge — sourcing that properly, subject by subject, is a genuinely larger job we'd rather do carefully
-        than rush. If your subject and board aren't covered by the links above, your specification document (linked
+        This page is therefore Cambridge's generic list plus those four named Edexcel documents. We haven't yet
+        sourced AQA, OCR or OxfordAQA, or any other Edexcel subject, the way we have for these — sourcing that properly,
+        subject by subject, is a genuinely larger job we'd rather do carefully than rush. If your subject and board
+        aren't covered here or by the links above, your specification document (linked
         from your{' '}<a href={routes.programs} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">programme page</a>) will list its own command words directly.
       </p>
     </Container>
@@ -119,6 +179,7 @@ const path = '/command-words/';
     var items = Array.prototype.slice.call(document.querySelectorAll('.mb-cw-item'));
     var count = document.getElementById('mb-cw-count');
     var empty = document.getElementById('mb-cw-empty');
+    var groups = Array.prototype.slice.call(document.querySelectorAll('.mb-cw-group'));
     if (!input) return;
 
     function apply() {
@@ -129,7 +190,11 @@ const path = '/command-words/';
         el.style.display = match ? '' : 'none';
         if (match) visible += 1;
       });
-      count.textContent = visible + ' command word' + (visible === 1 ? '' : 's') + (q ? ' matching "' + input.value.trim() + '"' : '');
+      groups.forEach(function (g) {
+        var any = Array.prototype.some.call(g.querySelectorAll('.mb-cw-item'), function (el) { return el.style.display !== 'none'; });
+        g.style.display = any ? '' : 'none';
+      });
+      count.textContent = visible + ' entr' + (visible === 1 ? 'y' : 'ies') + (q ? ' matching "' + input.value.trim() + '"' : '');
       empty.classList.toggle('hidden', visible !== 0);
     }
 
