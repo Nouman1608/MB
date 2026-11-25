@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-25: engagement project word limit corrected from \"2,400 words at HL\" to the guide's \"maximum 2,000 words\" report at SL and HL, plus the HL recommendation as a separate section of \"400 words or less\" (IB Global politics guide, first assessment 2026; owner decision, audit 3)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -97,9 +97,9 @@ engagement and research. The HL allocation is 10 hours longer than SL's
 because HL students complete a genuinely extra task: they carry out
 further research and must formulate a recommendation addressing the
 identified political issue. The written report has a limit of 2,000
-words at SL and 2,400 words at HL (a teacher assesses only the first
-2,000 or 2,400 words of a report that runs over), and the HL
-recommendation is assessed by an extra criterion, F: Recommendation (6
+words at both SL and HL (a teacher assesses only the first
+2,000 words of a report that runs over), and the HL
+recommendation, a separate section of up to 400 words, is assessed by an extra criterion, F: Recommendation (6
 marks), which asks whether the report includes a well-supported
 recommendation appropriate for the analysed context; criteria A to E are
 the same at both levels. This is a specific additional requirement, not
@@ -112,7 +112,7 @@ research, interviews or participation -- rather than a broad topic that
 only allows for secondary-source summary.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-global-politics-syllabus-guide--03-engagement-project-sl-hl.webp" width="900" height="660" alt="Side-by-side columns. SL: 25 hours, a written report on a political issue of up to 2,000 words, marked on criteria A to E. HL: 35 hours, the same report up to 2,400 words, plus further research and a recommendation assessed by an extra criterion F worth 6 marks." loading="lazy">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-syllabus-guide--03-engagement-project-sl-hl.webp" width="900" height="660" alt="Side-by-side columns. SL: 25 hours, a written report on a political issue of up to 2,000 words, marked on criteria A to E. HL: 35 hours, the same report up to 2,000 words, plus further research and a separate recommendation of up to 400 words assessed by an extra criterion F worth 6 marks." loading="lazy">
   <figcaption>HL adds a real extra task: a recommendation, marked by criterion F.</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ examples from scratch under time pressure.
 IB DP Global Politics has 150 teaching hours at SL and 240 at HL. The 125-hour core is the same at both levels; the difference comes from the engagement project allocation (25 hours SL, 35 hours HL) and the 80-hour HL extension.
 
 **What happens if a Global Politics engagement project goes over the word limit?**
-The written report has a limit of 2,000 words at SL and 2,400 words at HL, and a teacher assesses only the first 2,000 or 2,400 words of a report that runs over.
+The written report has a limit of 2,000 words at both SL and HL, and a teacher assesses only the first 2,000 words of a report that runs over. At HL, the recommendation is a separate section of up to 400 words.
 
 **How many marks is the HL recommendation in the engagement project worth?**
 The HL recommendation is assessed by an extra criterion, F: Recommendation, worth 6 marks. Criteria A to E are the same at both SL and HL.

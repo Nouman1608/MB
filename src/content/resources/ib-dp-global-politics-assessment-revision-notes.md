@@ -13,7 +13,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-25: engagement project word limit corrected from \"2,400 words at HL\" to the guide's \"maximum 2,000 words\" report at SL and HL, plus the HL recommendation as a separate section of \"400 words or less\" (IB Global politics guide, first assessment 2026; owner decision, audit 3)."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -51,9 +51,10 @@ Global Politics sits within the individuals-and-societies subject group alongsid
 - Students investigate a political issue of **genuine personal interest** through **direct
   engagement**, not desk research alone.
 - Complemented with theoretical perspectives from research.
-- Submitted as a written report of up to 2,000 words at SL or 2,400 words at HL. HL students
+- Submitted as a written report of up to 2,000 words at both SL and HL. HL students
   additionally carry out further research and formulate a **recommendation** addressing the
-  identified political issue, within that HL report and assessed by an extra criterion (F:
+  identified political issue, presented as a separate section of up to 400 words in addition to
+  the report and assessed by an extra criterion (F:
   Recommendation); SL students do not complete this task.
 
 ## The engagement project in more depth
@@ -102,7 +103,7 @@ Like other individuals-and-societies DP subjects, Global Politics combines exter
 ## Frequently asked questions
 
 **How long is the IB Global Politics engagement project?**
-The IB DP Global Politics engagement project is a written report of up to 2,000 words at SL or 2,400 words at HL. HL students also formulate a recommendation on the political issue, assessed by an extra criterion.
+The IB DP Global Politics engagement project is a written report of up to 2,000 words at both SL and HL. HL students also formulate a recommendation on the political issue, a separate section of up to 400 words assessed by an extra criterion.
 
 **What is the most common weakness in a Global Politics engagement project?**
 A common weakness is staying descriptive, recounting what was done and observed without connecting it back to core political concepts such as power, legitimacy and sovereignty. The strongest reports analyse the direct engagement as evidence through a political-science lens.
