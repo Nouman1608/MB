@@ -52,7 +52,7 @@
  *
  * Run: npm run generate:redirects  (build does this automatically)
  */
-import { readdir, writeFile } from 'node:fs/promises';
+import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { execSync } from 'node:child_process';
 
@@ -221,7 +221,11 @@ const CONSOLIDATED_RESOURCE_FORMER_TYPES = {
 const slugsIn = async (dir) =>
   (await readdir(dir)).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, ''));
 
-const articles = await slugsIn('src/content/articles');
+// A hidden draft article builds no page, so it must not get a /learning/ rule either.
+const isDraftArticle = async (slug) => /^draft:\s*true\s*$/m.test(
+  ((await readFile(`src/content/articles/${slug}.md`, 'utf8')).split(/^---\s*$/m)[1]) ?? '');
+const articles = [];
+for (const slug of await slugsIn('src/content/articles')) if (!(await isDraftArticle(slug))) articles.push(slug);
 
 const pad = (s) => (s.length >= 57 ? s + '  ' : s.padEnd(58, ' '));
 const lines = [
