@@ -16938,3 +16938,12 @@ Status: answered; implementation pending.
 - **D-534b 0610 Core diagnostic.** Keep Paper 42 with the "Core content only" note. Note: June 2024 Paper 42 could not be found in the OneDrive Papers 2025 folder, so the source stays unverified by this session.
 - **D-534c O Level Economics 0455.** Cite 2281 if the Cambridge 2281 syllabus is confirmed to list the same five causes of market failure; otherwise use neutral wording ("those in the syllabus"). Six files.
 - **D-534d International A Level Maths unit codes.** Add the codes verified against Pearson's Issue 3 specification (WMA11-14, WME01/02, WST01/02, WFM01-03, WME03, WST03) to course pages that lack them; hold D1 (WDM11) until confirmed on Pearson's current page.
+
+## D-535 - Owner decisions round 5a: past papers and thin courses (25 Nov 2026, 06:45 PKT)
+
+Status: answered; implementation pending.
+
+- **D-535a Past papers rollout.** Cambridge IGCSE Chemistry 0620 only, end to end first (manifest `cambridge-igcse-chemistry-0620.json`, page section, sitemap, the per-course "We do not host any papers" line). The editorial-policy sentence was already reworded by D-472 (AUDIT-FIX-3 NEEDS OWNER 9 was stale on that point). Other courses wait until 0620 is proven.
+- **D-535b papers.marlbridge.com.** Use it. Owner connects the R2 custom domain (R2 > marlbridge-past-papers > Settings > Custom Domains). No file URL goes into a manifest until it works.
+- **D-535c Rights notes.** Claude drafts one factual line per board (copyright holder and file type, no claim of permission) in `PAST_PAPER_RIGHTS_NOTES`; owner confirms the permission basis before any file goes live. No price or legal-page change.
+- **D-535d Thin courses.** Pilot the content-led courses first (Islamiyat IGCSE and O Level, O Level Pakistan Studies, AQA GCSE Psychology, OCR GCSE Business, AQA AS Business), split from the specification PDFs as in D-470. Set-text English and IB courses wait.
