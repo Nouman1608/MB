@@ -171,7 +171,7 @@ function checkPolicy(path, html, nodes) {
     }
     if (type === 'FAQPage') {
       policyCounts.faq++;
-      const body = decode(html.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ');
+      const body = decode(html.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<\/?(?:sub|sup)>/g, '').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ');
       for (const q of node.mainEntity ?? []) {
         const name = String(q.name ?? '').replace(/\s+/g, ' ').trim();
         if (!name || !q.acceptedAnswer?.text) problems.push({ path, issue: 'FAQPage question without a name or an answer' });
