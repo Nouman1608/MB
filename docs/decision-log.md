@@ -16911,3 +16911,12 @@ Answers to the owner-decisions session (branch `owner-decisions-1`). Status: ans
 - **D-531b DP Computer Science (2014).** `specStatus` becomes `withdrawn`, last assessment 2026, per the IB course page ("for last assessment in 2026"). Cambridge 0450 stays `legacy-teach-out`.
 - **D-531c MYP Individuals and Societies and MYP Mathematics.** Apply the corrected wording used for Design, Sciences and Language Acquisition (external moderation only for eAssessment/ePortfolio candidates; criterion rows `externallyModerated: false`), after checking the OneDrive MYP guides for each subject. If a guide says otherwise, keep what the guide says and record it.
 - **D-531d IB Maths AA SL 5.5 and 5.11.** Keep both. The AA guide prints SL5.5 "Definite integrals using technology" and SL5.11 "including analytical approach... some only by technology". No change.
+
+## D-532 - Owner decisions round 2: Global Politics and AP (25 Nov 2026, 06:10 PKT)
+
+Status: answered; implementation pending.
+
+- **D-532a Global Politics engagement project.** Fix "2,400 words at HL" in `ib-dp-global-politics-assessment-revision-notes.md`, `ib-dp-global-politics-syllabus-guide.md` and the flashcard in `src/data/flashcards/ib-ib-dp-global-politics.ts` to the guide's wording (2,000-word report; HL recommendation of 400 words or less, a separate section). Redraw the engagement-project figure under a NEW file name (the figure bucket serves a year-long immutable cache) and change the `<img src>`. The owner uploads it with `scripts/topic-figures/upload-figures.mjs`; the text fix merges only after the upload.
+- **D-532b Global Politics exam preparation.** Add the guide's per-question figures (P1 25 marks: 3/4/6/12; P2 30; HL P3 28: 3/4/6/15; engagement project 24 SL / 30 HL) to `ib-dp-global-politics-exam-preparation.md`, citing the guide.
+- **D-532c AP meta descriptions.** Add an optional `seoDescription` field to the AP resource schema; draft the 312 listed in `reports/audit3/A4-description-cuts-left.tsv` (unique, about 150 characters) for owner review. Nothing goes live until the owner approves the drafts.
+- **D-532d AP chemistry underscores.** Convert all 77 (24 SVG labels with `<tspan baseline-shift="sub">`, 31 descriptions/leads, 22 FAQs) following the 8.9 `<sub>` pattern; JSON-LD and meta stay plain text.
