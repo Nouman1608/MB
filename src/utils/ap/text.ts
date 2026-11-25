@@ -78,3 +78,5 @@ export const apPageMetaDescription = (description: string, seoDescription?: stri
 const SUBSCRIPT = /(?<=[A-Za-zΑ-Ωα-ωΔ°0-9)\]₀-₉⁰-⁹⁺⁻])_([A-Za-z0-9][A-Za-z0-9₀-₉]*(?:[⁺⁻](?![¹²³⁴⁵⁶⁷⁸⁹⁰]))?)(?![A-Za-z0-9_])/gu;
 export const escapeHtml = (s: string): string => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 export const apSubscriptHtml = (s: string): string => escapeHtml(s).replace(SUBSCRIPT, '<sub>$1</sub>');
+/** Plain-text twin of apSubscriptHtml (K_sp -> Ksp): what a reader sees once <sub> is flattened. Used for JSON-LD so it matches the visible FAQ. */
+export const apSubscriptPlain = (s: string): string => s.replace(SUBSCRIPT, '$1');

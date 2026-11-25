@@ -18,7 +18,7 @@ import { AP_MARK_IN_METADATA } from '../../../data/ap/config';
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
 import { authorReference, schemaAuthor } from '../../../utils/schema/person';
-import { apPageMetaDescription, apSubscriptHtml, escapeHtml } from '../../../utils/ap/text';
+import { apPageMetaDescription, apSubscriptHtml, apSubscriptPlain, escapeHtml } from '../../../utils/ap/text';
 import { absoluteUrl } from '../../../utils/seo/meta';
 import {
   getApResources, apUrls, apCourse, apVisibleName, apNoindex, apTypeLabel, apDifficultyLabel, apCalculatorLabel, apStatusLabel,
@@ -61,7 +61,8 @@ const reviewed = d.editorialStatus === 'reviewed' || d.editorialStatus === 'publ
  * apCoursesReviewed.
  */
 const reviewerProfile = d.reviewer ? (await getCollection('authors')).find((a) => a.data.name === d.reviewer && a.data.isReviewer === true && a.data.apCoursesReviewed.includes(d.course)) : undefined;
-const faq = AP_MARK_IN_METADATA ? faqNode(d.faqs) : (d.faqs.length && !d.faqs.some((f) => /\bAP\b|Advanced Placement|College Board/.test(f.question + f.answer)) ? faqNode(d.faqs) : null);
+const schemaFaqs = c.slug === 'chemistry' ? d.faqs.map((f) => ({ ...f, question: apSubscriptPlain(f.question), answer: apSubscriptPlain(f.answer) })) : d.faqs;
+const faq = AP_MARK_IN_METADATA ? faqNode(schemaFaqs) : (d.faqs.length && !d.faqs.some((f) => /\bAP\b|Advanced Placement|College Board/.test(f.question + f.answer)) ? faqNode(d.faqs) : null);
 const correctionHref = `${routes.reportCorrection}#page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
 // Audit 3, item 28: chemistry frontmatter text keeps K_a-style subscripts as plain text; print them as <sub> like the bodies.
 const chemText = (s: string): string => (c.slug === 'chemistry' ? apSubscriptHtml(s) : escapeHtml(s));
