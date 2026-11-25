@@ -799,7 +799,7 @@ export const diagnosticsForCode = (code: string): DiagnosticSet[] =>
  */
 export function diagnosticTopicSlugs(
   set: Pick<DiagnosticSet, 'code' | 'slug' | 'questionIds' | 'topicOverrides'>,
-  bank: readonly { readonly id: string; readonly topics: readonly { readonly key: string }[] }[],
+  bank: readonly { readonly id: string; readonly topics: readonly { key: string; label: string }[] }[],
 ): string[] {
   return set.questionIds.map((id) => {
     const q = bank.find((x) => x.id === id);
