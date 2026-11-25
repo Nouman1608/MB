@@ -309,15 +309,15 @@ function hoursSplit(comps, { y = 130, slTotal, hlTotal, note } = {}) {
   ]);
   b += col(470, '#fbf6e2', C.olive, 'HL', '35 hours', [
     ['Task', 'the same written report'],
-    ['Word limit', '2,400 words'],
+    ['Word limit', '2,000 + 400 recommendation'],
     ['Criteria', 'A to E, plus F: Recommendation (6)', true],
     ['Extra task', 'further research + a recommendation', true],
   ]);
-  b += box(30, 566, 840, 66, { rx: 14 }) + t(450, 595, 'Only the first 2,000 (SL) or 2,400 (HL) words are assessed if a report runs over.', { size: 17, weight: 600, anchor: 'middle' }) +
+  b += box(30, 566, 840, 66, { rx: 14 }) + t(450, 595, 'Only the first 2,000 words of the report are assessed if it runs over.', { size: 17, weight: 600, anchor: 'middle' }) +
     t(450, 619, 'Choose a specific, well-scoped issue early that you can engage with directly.', { size: 16, anchor: 'middle', fill: C.muted });
-  add('03-engagement-project-sl-hl',
+  add('03-engagement-project-sl-hl-v2',
     svg(900, 660, 'Engagement project: SL and HL', b),
-    'Side-by-side columns. SL: 25 hours, a written report on a political issue of up to 2,000 words, marked on criteria A to E. HL: 35 hours, the same report up to 2,400 words, plus further research and a recommendation assessed by an extra criterion F worth 6 marks.',
+    'Side-by-side columns. SL: 25 hours, a written report on a political issue of up to 2,000 words, marked on criteria A to E. HL: 35 hours, the same report up to 2,000 words, plus further research and a separate recommendation of up to 400 words assessed by an extra criterion F worth 6 marks.',
     'HL adds a real extra task: a recommendation, marked by criterion F.',
     '## Internal assessment -- engagement project (25 hours SL / 35 hours HL)');
 }
