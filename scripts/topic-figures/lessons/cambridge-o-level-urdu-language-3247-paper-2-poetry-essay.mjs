@@ -124,7 +124,7 @@ const box = (x, y, w, h, fill, edge = C.ink, rx = 6) => `<rect x="${x}" y="${y}"
     b += `<rect x="${x}" y="472" width="252" height="116" rx="10" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(x + 126, 508, w, { size: 19, weight: 700, anchor: 'middle', italic: true }) + T(x + 126, 536, p, { size: 16, anchor: 'middle', fill: C.muted }) + (n ? T(x + 126, 566, n, { size: 15, anchor: 'middle', fill: C.olive, weight: 600 }) : '');
   });
   b += panel(30, 632, 840, 70) + T(450, 675, 'Set texts may not be taken into the exam: every quotation must be memorised.', { size: 18, weight: 700, anchor: 'middle' });
-  add('01-set-poems',
+  add('01-set-poems-v2',
     SV(730, 'The prescribed poems for 2027', b),
     'Ten ghazals (غزلیں), two each by Khwaja Haider Ali Aatish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali\'s Musadas Hali in seventeen stanzas, Syed Zameer Jafree\'s Admee and Mirza Mahmood Sarhadi\'s Qitaat in six short pieces.',
     'Thirteen poems, none allowed in the exam room: quotations must be memorised.',
