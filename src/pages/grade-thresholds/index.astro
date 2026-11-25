@@ -5,14 +5,14 @@
  * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS14.
  *
  * See src/data/academic/grade-thresholds.ts for the sourcing and scope
- * decisions. A select dropdown swaps between the 5 flagship specs'
+ * decisions. A select dropdown swaps between the specifications'
  * tables client-side (progressive enhancement -- with JS disabled every
  * table simply shows at once, so nothing is hidden or broken).
  */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import { thresholdsByCode, seriesCovered, seriesPhrase, thresholdProblems, type Grade } from '../../data/academic/grade-thresholds.ts';
+import { thresholdsByCode, seriesCovered, seriesPhrase, thresholdProblems, GRADE_SCALE_BY_BOARD, BOARD_ORDER } from '../../data/academic/grade-thresholds.ts';
 import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
 import { getCollection } from 'astro:content';
@@ -24,7 +24,10 @@ const problems = thresholdProblems();
 if (problems.length > 0) throw new Error(`grade-thresholds.ts: ${problems.join('; ')}`);
 const BY_CODE = thresholdsByCode();
 const SERIES = seriesPhrase(seriesCovered());
-const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b', 'c', 'd', 'e'];
+// D-541: the page is board-neutral; each record's table uses its own board's grade scale.
+const BOARD_GROUPS = BOARD_ORDER.map((board) => ({ board, groups: BY_CODE.filter((g) => g.board === board) })).filter((b) => b.groups.length > 0);
+const BOARDS_PHRASE = BOARD_GROUPS.map((b) => b.board).join(' and ');
+const SPEC_COUNT = BY_CODE.length;
 
 // Past-papers guides (resourceType "past-papers") hold the earlier series'
 // thresholds; list them here so this page links every one of them.
@@ -34,12 +37,12 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
   .sort((a, b) => a.label.localeCompare(b.label));
 ---
 <PageLayout
-  title="Grade Threshold Explorer — Cambridge Grade Boundaries"
-  description={`Verified ${SERIES} grade thresholds (grade boundaries) for Cambridge IGCSE Chemistry, Physics, Mathematics and AS & A Level Chemistry, Physics -- sourced directly from Cambridge's own official grade-threshold documents.`}
+  title="Grade Threshold Explorer — Exam Board Grade Boundaries"
+  description={`Verified ${SERIES} grade thresholds (grade boundaries) for ${BOARDS_PHRASE} IGCSE and AS & A Level specifications -- sourced directly from each exam board's own official grade-threshold documents.`}
   path={path}
   eyebrow="Free tool"
   heading="Grade threshold explorer"
-  lead={`The minimum mark needed for each grade in the ${SERIES} series, for ${BY_CODE.length} flagship Cambridge specifications -- copied directly from Cambridge's own official grade-threshold documents, not estimated. Each table lists every single-series paper-combination route Cambridge published for that specification, so you can find your own exact combination rather than a single "representative" one; for AS & A Level Chemistry (9701) and Physics (9702), the staged-assessment routes (AS and A2 papers sat in different series) are not reproduced -- see the note under those tables. The figures are syllabus grade thresholds out of Cambridge's maximum weighted mark, exactly as Cambridge publishes them: Cambridge derives them from the weighted component thresholds. They are not percentage uniform marks.`}
+  lead={`The minimum mark needed for each grade in the ${SERIES} series, for ${SPEC_COUNT} specifications from ${BOARDS_PHRASE} -- copied directly from each exam board's own official grade-threshold or grade-boundary documents, not estimated. Each table lists the paper-combination routes the board published for that specification, so you can find your own exact combination rather than a single "representative" one. Cambridge AS & A Level Chemistry (9701) and Physics (9702): the staged-assessment routes (AS and A2 papers sat in different series) are not reproduced -- see the note under those tables. Cambridge figures are syllabus grade thresholds out of Cambridge's maximum weighted mark, derived by Cambridge from the weighted component thresholds. Pearson Edexcel International GCSE figures are the overall raw-mark grade boundaries for the whole qualification (9 to 1). Neither is a percentage uniform mark.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Grade thresholds', href: path },
@@ -50,32 +53,36 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
       <div class="mx-auto max-w-[360px]">
         <label for="mb-gt-select" class="m-0 mb-2 block mb-label text-ink-mute">Choose a specification</label>
         <select id="mb-gt-select" class="w-full rounded-sm border border-rule bg-white px-4 py-3 text-[16px] text-navy-800 outline-none transition-colors duration-150 focus:border-gold-500">
-          {BY_CODE.map((g) => (
-            <option value={g.code}>{g.qualificationLabel} {g.subjectLabel} ({g.code})</option>
+          {BOARD_GROUPS.map((b) => (
+            <optgroup label={b.board}>
+              {b.groups.map((g) => (
+                <option value={g.code}>{g.qualificationLabel} {g.subjectLabel} ({g.code})</option>
+              ))}
+            </optgroup>
           ))}
         </select>
       </div>
 
       <p class="mx-auto mt-6 max-w-[520px] rounded-sm border border-dashed border-rule bg-ivory p-4 text-center text-[13.5px] leading-[1.6] text-ink-mute">
-        <strong class="text-ink">Historical grade thresholds do not predict future thresholds.</strong> Cambridge
-        sets each series' thresholds independently based on how that specific paper performed -- use the table
+        <strong class="text-ink">Historical grade thresholds do not predict future thresholds.</strong> Exam boards
+        set each series' thresholds independently based on how that specific paper performed -- use the table
         below to understand a past series, not to estimate a future one.
       </p>
 
       <div class="mt-10 flex flex-col gap-14">
         {BY_CODE.map((group) => (
           <div class="mb-gt-panel" data-code={group.code}>
-            <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{group.qualificationLabel} {group.subjectLabel} <span class="font-mono text-[16px] font-normal text-ink-mute">({group.code})</span></h2>
-            {group.records.map((g, ri) => (<div class={ri > 0 ? 'mt-10' : ''} data-series={g.series}>
-            <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{g.series} series</p>
+            <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{group.board === 'Pearson Edexcel' ? 'Edexcel ' : ''}{group.qualificationLabel} {group.subjectLabel} <span class="font-mono text-[16px] font-normal text-ink-mute">({group.code})</span></h2>
+            {group.records.map((g, ri) => { const gradeOrder = GRADE_SCALE_BY_BOARD[g.board]; return (<div class={ri > 0 ? 'mt-10' : ''} data-series={g.series}>
+            <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{g.board} · {g.series} series</p>
 
             <div class="overflow-x-auto rounded-sm border border-rule">
               <table class="w-full min-w-[520px] border-collapse text-[13.5px]">
                 <thead>
                   <tr class="border-b border-rule bg-ivory">
                     <th class="px-4 py-3 text-left font-medium text-navy-800">Route</th>
-                    <th class="px-3 py-3 text-right font-medium text-navy-800">Max weighted mark</th>
-                    {GRADE_ORDER.map((grade) => (
+                    <th class="px-3 py-3 text-right font-medium text-navy-800">{g.board === 'Cambridge' ? 'Max weighted mark' : 'Max mark (raw)'}</th>
+                    {gradeOrder.map((grade) => (
                       <th class="px-3 py-3 text-right font-medium text-navy-800">{grade}</th>
                     ))}
                   </tr>
@@ -85,7 +92,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
                     <tr class={i % 2 === 1 ? 'bg-ivory/50' : ''}>
                       <td class="px-4 py-3 text-ink-mute">{row.combination}</td>
                       <td class="px-3 py-3 text-right font-medium text-navy-800">{row.maxMark}</td>
-                      {GRADE_ORDER.map((grade) => (
+                      {gradeOrder.map((grade) => (
                         <td class="px-3 py-3 text-right text-navy-800">{row.thresholds[grade] ?? '—'}</td>
                       ))}
                     </tr>
@@ -97,10 +104,10 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
             {g.note && <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">{g.note}</p>}
 
             <p class="m-0 mt-3 text-[13px] text-ink-mute">
-              Sourced directly from Cambridge's official grade-threshold document for {g.code}, {g.series}, verified {g.verifiedOn} —
-              {' '}<a href={g.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">view the original PDF</a>.
+              Sourced directly from {g.board}'s official {g.board === 'Cambridge' ? 'grade-threshold' : 'grade-boundary'} document for {g.code}, {g.series}, verified {g.verifiedOn} —
+              {' '}<a href={g.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{g.board === 'Cambridge' ? 'view the original PDF' : "view Pearson's grade-boundaries page"}</a>.
             </p>
-            </div>))}
+            </div>); })}
           </div>
         ))}
       </div>
@@ -111,7 +118,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Why grade thresholds change every series</h2>
       <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        Cambridge sets grade thresholds independently for every exam series, based on how that specific paper performed —
+        Cambridge and Pearson Edexcel set grade thresholds independently for every exam series, based on how that specific paper performed —
         not on a fixed percentage. This is deliberate: it accounts for small variations in how demanding a particular
         paper turned out to be, so a grade means the same standard of achievement across different series even when
         the papers themselves aren't identically difficult. The practical result is that a mark that earned a B in one
@@ -126,7 +133,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Earlier series: thresholds and examiner-report notes</h2>
       <p class="m-0 mb-4 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
         Our past-papers guides list the grade thresholds for every earlier series we hold (from 2020 onwards for some
-        syllabuses), copied from Cambridge's grade-threshold documents, with a note of what each series' examiner report said.
+        syllabuses), copied from the board's own grade-threshold documents, with a note of what each series' examiner report said.
       </p>
       <ul class="m-0 grid list-none gap-2 p-0 text-[14.5px] sm:grid-cols-2">
         {PAST_PAPER_GUIDES.map((g) => (

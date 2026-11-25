@@ -230,7 +230,7 @@
 
 ## Free exam tools
 
-- [Grade threshold explorer](https://marlbridge.com/grade-thresholds/): Cambridge grade boundaries by syllabus, with the official tables they come from.
+- [Grade threshold explorer](https://marlbridge.com/grade-thresholds/): Cambridge and Pearson Edexcel grade boundaries by syllabus, with the official tables they come from.
 - [Exam calendar](https://marlbridge.com/exam-calendar/): Cambridge entry deadlines, exam windows and results days for the next series, from Cambridge's own key-dates documents.
 - [Command words](https://marlbridge.com/command-words/): what each exam command word (describe, explain, evaluate and others) asks the student to do.
 - [Syllabus updates](https://marlbridge.com/syllabus-updates/): changes to syllabuses and specifications between exam years.
