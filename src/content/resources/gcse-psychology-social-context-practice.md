@@ -10,21 +10,6 @@ qualifications: ["gcse"]
 syllabusCodes: ["8182"]
 syllabusSeries: "first teaching 2017"
 order: 4
-syllabusTopics:
-  - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-  - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "social-influence-8182"
-  - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "language-thought-communication-8182"
-  - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "brain-and-neuropsychology-8182"
-  - qualification: "gcse"
-    topic: "paper-2-social-context-and-behaviour-8182"
-    subtopic: "psychological-problems-8182"
 description: "Practice questions and answers on social influence, language, brain and neuropsychology, and psychological problems for AQA GCSE Psychology 8182 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

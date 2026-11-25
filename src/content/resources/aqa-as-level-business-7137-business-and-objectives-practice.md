@@ -11,8 +11,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 3.11
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "business-and-objectives-aqa-aslevel-business"
+    topic: "business-and-objectives-aqa-aslevel-business"
 description: "Original practice questions with mark-scheme answers on entrepreneurs, business plans, decision influences and SMART objectives for AQA AS Business 7137."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

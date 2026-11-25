@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.4
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "first-islamic-community-2058"
+    topic: "first-islamic-community-2058"
 description: "Study guide to the Prophet's wives, descendants, Companions, Emigrants, Helpers and the caliphs before 632, for Cambridge O Level Islamiyat 2058 Paper 1."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

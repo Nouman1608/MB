@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 2.3
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "rightly-guided-caliphs-2058"
+    topic: "rightly-guided-caliphs-2058"
 description: "Study guide to the rules of Abu Bakr, Umar, Uthman and Ali, their difficulties and their lessons for government, for Cambridge O Level Islamiyat 2058 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

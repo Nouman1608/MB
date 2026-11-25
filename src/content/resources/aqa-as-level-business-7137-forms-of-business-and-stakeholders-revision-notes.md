@@ -11,8 +11,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 3.12
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
+    topic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
 description: "Condensed recall for AQA AS Business 7137 section 3.1.2: business forms, co-operatives, share formulae, internal and external stakeholders and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

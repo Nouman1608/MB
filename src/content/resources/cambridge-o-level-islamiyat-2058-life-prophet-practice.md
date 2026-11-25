@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.3
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "life-prophet-2058"
+    topic: "life-prophet-2058"
 description: "Twelve original questions on the Prophet's life, battles, treaties and example for Cambridge O Level Islamiyat 2058 Paper 1, with full mark-scheme answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

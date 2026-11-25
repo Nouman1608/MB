@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.4
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "first-islamic-community-0493"
+    topic: "first-islamic-community-0493"
 description: "Twelve original questions on the Prophet's wives, descendants, Companions, Emigrants and Helpers for Cambridge IGCSE Islamiyat 0493 Paper 1, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

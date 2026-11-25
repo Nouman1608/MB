@@ -12,8 +12,7 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 785
 syllabusTopics:
   - qualification: "gcse"
-    topic: "business-activity-marketing-and-people-ocr-gcse-business"
-    subtopic: "people-ocr-gcse-business"
+    topic: "people-ocr-gcse-business"
 description: "Original practice questions with worked answers on section 3 People in OCR GCSE Business J204, using short-answer, calculation and case-study items."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 4
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "agricultural-development-2059"
+    topic: "agricultural-development-2059"
 description: "Study guide to Section 4 of Cambridge O Level Pakistan Studies 2059 Paper 2: farming systems, crops, livestock, irrigation, waterlogging and government action."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

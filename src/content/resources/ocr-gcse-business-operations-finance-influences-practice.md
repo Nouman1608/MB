@@ -10,9 +10,6 @@ qualifications: ["gcse"]
 syllabusCodes: ["J204"]
 syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 3
-syllabusTopics:
-  - qualification: "gcse"
-    topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
 description: "Original OCR GCSE Business J204/02 practice with worked answers: a 15-question multiple-choice Section A plus operations, finance and influences questions."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

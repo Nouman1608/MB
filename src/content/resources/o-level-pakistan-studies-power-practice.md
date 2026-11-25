@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 3
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "power-2059"
+    topic: "power-2059"
 description: "Two original 25-mark resource-based questions on Power with mark-scheme answers, written in the style of Cambridge O Level Pakistan Studies 2059 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

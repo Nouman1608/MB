@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 7
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "transport-and-telecommunications-2059"
+    topic: "transport-and-telecommunications-2059"
 description: "Study guide to Section 7 of Cambridge O Level Pakistan Studies 2059 Paper 2: road, rail and air networks, border routes, seaports, dry ports and telecoms."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

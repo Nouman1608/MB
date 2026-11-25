@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 10
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "articles-faith-pillars-0493"
+    topic: "articles-faith-pillars-0493"
 description: "Study guide to the six Articles of Faith, jihad and the Five Pillars, with their meaning and significance, for Cambridge IGCSE Islamiyat 0493 Paper 2 Topic 4."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

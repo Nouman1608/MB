@@ -10,9 +10,6 @@ qualifications: ["gcse"]
 syllabusCodes: ["J204"]
 syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 1
-syllabusTopics:
-  - qualification: "gcse"
-    topic: "business-activity-marketing-and-people-ocr-gcse-business"
 description: "Original OCR GCSE Business J204/01 practice with worked answers: a 15-question multiple-choice Section A plus questions on enterprise, marketing and people."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

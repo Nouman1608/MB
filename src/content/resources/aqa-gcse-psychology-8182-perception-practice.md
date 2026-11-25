@@ -11,8 +11,7 @@ syllabusSeries: "first teaching 2017"
 order: 1.2
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "perception-8182"
+    topic: "perception-8182"
 description: "Original practice questions on 3.1.2 Perception for AQA GCSE Psychology 8182: depth cues, illusions, both theories, perceptual set and study design, with answers."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

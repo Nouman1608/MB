@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 10
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "articles-faith-pillars-2058"
+    topic: "articles-faith-pillars-2058"
 description: "Mind-map recall notes on the six beliefs, jihad and the Five Pillars, with Qur'an references and significance points, for Cambridge O Level Islamiyat 2058."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

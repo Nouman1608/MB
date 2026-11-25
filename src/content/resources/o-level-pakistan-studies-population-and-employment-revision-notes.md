@@ -12,8 +12,7 @@ syllabusSeries: "2026"
 order: 8
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "population-and-employment-2059"
+    topic: "population-and-employment-2059"
 description: "Revision notes on census data, pyramids, migration, density by province and workforce sectors for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 8."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

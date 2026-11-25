@@ -12,8 +12,7 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 784
 syllabusTopics:
   - qualification: "gcse"
-    topic: "business-activity-marketing-and-people-ocr-gcse-business"
-    subtopic: "marketing-ocr-gcse-business"
+    topic: "marketing-ocr-gcse-business"
 description: "Original practice questions with worked answers on OCR GCSE Business section 2, Marketing: research, segmentation, the four Ps and market data."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

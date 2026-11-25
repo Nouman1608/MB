@@ -11,10 +11,7 @@ syllabusSeries: "2026"
 order: 1
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-history-culture-2059"
-  - qualification: "o-level"
-    topic: "paper-1-history-culture-2059"
-    subtopic: "cultural-historical-background-2059"
+    topic: "cultural-historical-background-2059"
 description: "Revision notes on the three sections of Cambridge O Level Pakistan Studies 2059 Paper 1 (2026): reform movements, the emergence of Pakistan and nationhood."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

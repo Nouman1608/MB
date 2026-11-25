@@ -11,8 +11,7 @@ syllabusSeries: "first teaching 2017"
 order: 1.1
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "memory-8182"
+    topic: "memory-8182"
 description: "Original practice questions on 3.1.1 Memory for AQA GCSE Psychology 8182, from short recall to a scenario, a data question and an extended answer, with mark schemes."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

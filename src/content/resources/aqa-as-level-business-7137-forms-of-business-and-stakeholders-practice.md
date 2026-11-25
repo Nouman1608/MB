@@ -11,8 +11,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 3.12
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
+    topic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
 description: "Original practice questions with mark-scheme answers on business forms, co-operatives, dividend yield and stakeholder impact for AQA AS Business 7137."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

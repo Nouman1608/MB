@@ -12,8 +12,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 779
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "marketing-management-aqa-aslevel-business"
+    topic: "marketing-management-aqa-aslevel-business"
 description: "Study guide to marketing management in AQA AS-Level Business (7137), section 3.1.3: market research, data calculations, demand, segmentation and the mix."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

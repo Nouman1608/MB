@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 8
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "rightly-guided-caliphs-2058"
+    topic: "rightly-guided-caliphs-2058"
 description: "Comparison-table notes on the four Rightly Guided Caliphs: rules, policies, challenges and lessons for government, for Cambridge O Level Islamiyat 2058."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

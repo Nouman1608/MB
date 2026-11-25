@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.3
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "life-prophet-0493"
+    topic: "life-prophet-0493"
 description: "Twelve original questions on the Hijra, Uhud, the Trench, the Farewell Sermon and life in Madina for Cambridge IGCSE Islamiyat 0493 Paper 1, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

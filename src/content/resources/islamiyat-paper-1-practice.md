@@ -9,21 +9,6 @@ qualifications: ["igcse"]
 syllabusCodes: ["0493"]
 syllabusSeries: "2026-2027"
 order: 1
-syllabusTopics:
-  - qualification: "igcse"
-    topic: "paper-1-0493"
-  - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "major-themes-quran-0493"
-  - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "history-importance-quran-0493"
-  - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "life-prophet-0493"
-  - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "first-islamic-community-0493"
 description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 1 format: set Qur'an passages, revelation, the Prophet's life and wives, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

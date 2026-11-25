@@ -16973,3 +16973,7 @@ Owner supplied `C:\Users\nouma\OneDrive - Learners Academy\new topicals\Board PD
 ## D-539 - Command-word PDFs supplied (25 Nov 2026)
 
 Owner supplied `...\new topicals\Board PDFs\Command Words`: Pearson Edexcel (IAL Business and Economics specifications with command words, IGCSE Biology 4BI1 getting-started guide, IGCSE Physics command words and exemplars), Cambridge IGCSE Biology 0610 syllabus, AQA GCSE History, OCR GCSE Mathematics, OxfordAQA IAL Computer Science 9645 and IGCSE English Language 9270, IB MYP command terms (school-hosted copy), AP English Language CED. Edexcel first, per D-537b.
+
+## D-540 - Owner decisions implemented on branch owner-decisions-1 (25 Nov 2026, 07:10 PKT)
+
+Implementation of D-531 to D-539 is on the local branch `owner-decisions-1`, not pushed. Record of what changed and deviations: `OWNER-DECISIONS-REPORT.md`. Deviations from the owner's answers: (1) MYP Individuals and Societies and MYP Mathematics do not get the eAssessment/ePortfolio moderation wording, because the IB guides do not support it for those subjects; (2) Edexcel thresholds were not added to the site (data model mismatch), only extracted; (3) the thin-course pilot restructured topics to the specification's numbered sections and wrote no new resource pages.

@@ -10,21 +10,6 @@ qualifications: ["o-level"]
 syllabusCodes: ["2058"]
 syllabusSeries: "2026-2027"
 order: 1
-syllabusTopics:
-  - qualification: "o-level"
-    topic: "paper-1-2058"
-  - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "major-themes-quran-2058"
-  - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "history-importance-quran-2058"
-  - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "life-prophet-2058"
-  - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "first-islamic-community-2058"
 description: "Original Cambridge O Level Islamiyat 2058 Paper 1 practice in the real five-question format, with set passages in Arabic and English and worked answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

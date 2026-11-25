@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 9
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "articles-faith-pillars-2058"
+    topic: "articles-faith-pillars-2058"
 description: "Question-led study guide to Allah, angels, books, prophets, qadr, the Last Day, jihad and the Five Pillars for Cambridge O Level Islamiyat 2058 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

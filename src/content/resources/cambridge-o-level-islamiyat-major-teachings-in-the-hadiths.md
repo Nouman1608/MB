@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 5
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "major-teachings-hadiths-2058"
+    topic: "major-teachings-hadiths-2058"
 description: "Theme-based study guide to the 20 set Hadith in Cambridge O Level Islamiyat 2058 Paper 2: faith, speech, charity, work, leadership and mercy."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

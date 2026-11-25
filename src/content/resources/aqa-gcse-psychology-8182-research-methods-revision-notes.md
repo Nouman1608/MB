@@ -12,8 +12,9 @@ syllabusSeries: "first teaching 2017"
 order: 1.4
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "research-methods-8182"
+    topic: "research-methods-8182"
+  - qualification: "gcse"
+    topic: "data-handling-8182"
 description: "Condensed revision notes on 3.1.4 Research Methods for AQA GCSE Psychology 8182: methods, procedures, ethics, maths skills and data handling, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

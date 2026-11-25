@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 2.2
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "history-importance-hadiths-0493"
+    topic: "history-importance-hadiths-0493"
 description: "Twelve original questions on isnad and matn, Hadith grades, al-Bukhari and the Sunni and Shi'a collections for IGCSE Islamiyat 0493 Paper 2, with answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

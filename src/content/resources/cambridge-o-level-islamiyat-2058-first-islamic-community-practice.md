@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.4
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "first-islamic-community-2058"
+    topic: "first-islamic-community-2058"
 description: "Eleven original questions on the Prophet's wives, family, Imams and Companions for Cambridge O Level Islamiyat 2058 Paper 1, with mark-scheme style answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.2
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "history-importance-quran-0493"
+    topic: "history-importance-quran-0493"
 description: "Twelve original questions on the revelation, compilation and legal use of the Qur'an for Cambridge IGCSE Islamiyat 0493 Paper 1 Question 2, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

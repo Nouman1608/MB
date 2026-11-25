@@ -12,10 +12,7 @@ syllabusSeries: "For examination in 2026-2027"
 order: 3
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-2058"
-  - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "major-themes-quran-2058"
+    topic: "major-themes-quran-2058"
 description: "Subtopic 1.1 of Cambridge O Level Islamiyat 2058, Major themes of the Qur'an: God in Himself, God and creation, and God's Messengers, with exam guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

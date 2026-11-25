@@ -12,8 +12,7 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 783
 syllabusTopics:
   - qualification: "gcse"
-    topic: "business-activity-marketing-and-people-ocr-gcse-business"
-    subtopic: "business-activity-ocr-gcse-business"
+    topic: "business-activity-ocr-gcse-business"
 description: "Original practice questions with worked answers on OCR GCSE Business section 1: enterprise, planning, ownership, objectives, stakeholders and growth."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

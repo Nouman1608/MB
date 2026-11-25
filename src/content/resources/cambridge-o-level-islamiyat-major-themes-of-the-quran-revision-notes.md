@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 4
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "major-themes-quran-2058"
+    topic: "major-themes-quran-2058"
 description: "Question-and-answer recall notes on the 15 set Qur'an passages for Cambridge O Level Islamiyat 2058 Paper 1, grouped by theme, with links between passages."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

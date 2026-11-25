@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 2.1
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "major-teachings-hadiths-0493"
+    topic: "major-teachings-hadiths-0493"
 description: "Twelve original questions on the set Hadith for Cambridge IGCSE Islamiyat 0493 Paper 2 Question 1: their teachings and how Muslims act on them, with answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

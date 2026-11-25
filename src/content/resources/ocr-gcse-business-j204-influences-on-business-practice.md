@@ -11,8 +11,7 @@ syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 2.6
 syllabusTopics:
   - qualification: "gcse"
-    topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-    subtopic: "influences-on-business-ocr-gcse-business"
+    topic: "influences-on-business-ocr-gcse-business"
 description: "Twelve original questions with worked answers on OCR GCSE Business J204 section 6: ethics, environment, economic climate and globalisation."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

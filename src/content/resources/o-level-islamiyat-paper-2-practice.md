@@ -9,21 +9,6 @@ qualifications: ["o-level"]
 syllabusCodes: ["2058"]
 syllabusSeries: "2026-2027"
 order: 2
-syllabusTopics:
-  - qualification: "o-level"
-    topic: "paper-2-2058"
-  - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "major-teachings-hadiths-2058"
-  - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "history-importance-hadiths-2058"
-  - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "rightly-guided-caliphs-2058"
-  - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "articles-faith-pillars-2058"
 description: "Original Cambridge O Level Islamiyat 2058 Paper 2 practice: set Hadith, Bukhari and Muslim, Umar's caliphate, fasting and al-qadr, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

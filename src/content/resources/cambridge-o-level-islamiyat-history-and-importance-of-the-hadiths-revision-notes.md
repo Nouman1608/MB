@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 7
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-2058"
-    subtopic: "history-importance-hadiths-2058"
+    topic: "history-importance-hadiths-2058"
 description: "Question-led notes on how Hadith were compiled and authenticated, the Sunni and Shi'a collections and their legal role, for Cambridge O Level Islamiyat 2058."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

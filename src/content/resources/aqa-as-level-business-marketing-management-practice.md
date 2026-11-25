@@ -12,8 +12,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 779
 syllabusTopics:
   - qualification: "as-level"
-    topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
-    subtopic: "marketing-management-aqa-aslevel-business"
+    topic: "marketing-management-aqa-aslevel-business"
 description: "Original practice questions with worked answers on AQA AS Business (7137) section 3.1.3 Marketing management: data, elasticity, segmentation and the mix."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

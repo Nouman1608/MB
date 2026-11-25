@@ -1,8 +1,8 @@
 /**
  * D-444 -- flashcards for AQA GCSE Psychology 8182 (first teaching 2017).
  *
- * One block per subtopic, in specification order. Card ids are
- * `<subtopic number>-<n>` and are permanent (browser progress is keyed by
+ * One block per topic (D-535d: the numbered sections, not the papers), in specification order. Card ids are
+ * `<topic number>-<n>` and are permanent (browser progress is keyed by
  * them): add a new card with the next unused n, never renumber.
  *
  * Written from Marlbridge's own 8182 revision notes and study guides, and,
@@ -17,18 +17,14 @@ import type { Flashcard, FlashcardDeck } from './types.ts';
 
 interface Spec { n: number; f: string; b: string }
 
-const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Flashcard[] =>
+const sub = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
   specs.map(({ n, f, b }) => ({
     id: `${number}-${n}`,
     topic,
-    subtopic,
     front: f,
     back: b,
     origin: 'authored' as const,
   }));
-
-const P1 = 'paper-1-cognition-and-behaviour-8182';
-const P2 = 'paper-2-social-context-and-behaviour-8182';
 
 export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
   boardSlug: 'aqa',
@@ -42,7 +38,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
   updated: '2026-11-08',
   cards: [
     // Paper 1 – Cognition and Behaviour
-    ...sub(P1, 'memory-8182', '3.1.1', [
+    ...sub('memory-8182', '3.1.1', [
       { n: 1, f: 'What are the three processes of memory?', b: 'Encoding (input: converting information into a usable form), storage (holding it) and retrieval (output: getting it back).' },
       { n: 2, f: 'Episodic vs semantic vs procedural memory', b: 'Episodic: memories of personal events. Semantic: facts and meanings. Procedural: how to do things, such as riding a bike.' },
       { n: 3, f: 'What are the coding, capacity and duration of STM and LTM in the multi-store model?', b: 'STM: mainly acoustic, about 5–9 items, about 18–30 seconds. LTM: mainly semantic, unlimited capacity, potentially lifelong. Attention moves information from the sensory register to STM; rehearsal moves it to LTM.' },
@@ -53,7 +49,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
       { n: 8, f: 'Proactive vs retroactive interference', b: 'Proactive interference: old information disrupts the recall of new information. Retroactive interference: new information disrupts the recall of old information.' },
       { n: 9, f: 'How does context affect recall?', b: 'Recall is better when the context (place or emotional state) at recall matches the context at encoding. Without the right cue, a stored memory may not be retrieved.' },
     ]),
-    ...sub(P1, 'perception-8182', '3.1.2', [
+    ...sub('perception-8182', '3.1.2', [
       { n: 1, f: 'Sensation vs perception', b: 'Sensation is the raw information received by the senses. Perception is the brain\'s interpretation of that information.' },
       { n: 2, f: 'Name four monocular depth cues and two binocular depth cues', b: 'Monocular: height in plane, relative size, occlusion and linear perspective. Binocular: retinal disparity and convergence.' },
       { n: 3, f: 'What is Gibson\'s direct theory of perception?', b: 'A bottom-up, nature theory: the real world gives enough information for direct perception without inference, e.g. motion parallax (near objects seem to move faster than far ones as we move).' },
@@ -63,7 +59,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
       { n: 7, f: 'What did the Gilchrist and Nesberg study show?', b: 'Participants who had gone without food rated pictures of food as brighter than non-hungry participants did, showing that motivation affects perception.' },
       { n: 8, f: 'What did the Bruner and Minturn study show?', b: 'An ambiguous figure was seen as the letter B when shown among letters, and as the number 13 when shown among numbers, showing that expectation from context creates a perceptual set.' },
     ]),
-    ...sub(P1, 'development-8182', '3.1.3', [
+    ...sub('development-8182', '3.1.3', [
       { n: 1, f: 'How does the brain develop from the womb?', b: 'Simple neural structures develop first: the brain stem (autonomic functions such as heartbeat), the thalamus (sensory processing), the cerebellum (movement) and the cortex (cognition). Nature and nurture both play a role.' },
       { n: 2, f: 'Assimilation vs accommodation (Piaget)', b: 'Assimilation: fitting new information into an existing schema. Accommodation: changing a schema, or creating a new one, when new information does not fit.' },
       { n: 3, f: 'What are Piaget\'s four stages of development?', b: 'Sensorimotor (0–2, object permanence), pre-operational (2–7, egocentrism and lack of conservation), concrete operational (7–11, conservation achieved) and formal operational (11+, abstract reasoning).' },
@@ -72,7 +68,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
       { n: 6, f: 'Fixed vs growth mindset (Dweck)', b: 'A fixed mindset treats ability as unchangeable, so challenge is avoided. A growth mindset treats ability as developed through effort, so challenge is welcomed. Praising effort rather than intelligence encourages a growth mindset.' },
       { n: 7, f: 'What are learning styles, and what is Willingham\'s criticism?', b: 'Learning styles classify learners, e.g. as verbalisers or visualisers. Willingham argues there is little evidence that matching teaching to a preferred style improves learning.' },
     ]),
-    ...sub(P1, 'research-methods-8182', '3.1.4', [
+    ...sub('research-methods-8182', '3.1.4', [
       { n: 1, f: 'Null vs alternative hypothesis', b: 'The alternative hypothesis predicts a difference or relationship. The null hypothesis states there will be no difference or relationship.' },
       { n: 2, f: 'Independent, dependent and extraneous variables', b: 'Independent variable: what the researcher changes. Dependent variable: what is measured. Extraneous variable: any other variable that could affect the DV if not controlled.' },
       { n: 3, f: 'Random, opportunity, systematic and stratified sampling', b: 'Random: everyone has an equal chance. Opportunity: whoever is available. Systematic: every nth person from a list. Stratified: subgroups selected in the same proportions as in the target population.' },
@@ -86,7 +82,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
     ]),
 
     // Paper 2 – Social Context and Behaviour
-    ...sub(P2, 'social-influence-8182', '3.2.1', [
+    ...sub('social-influence-8182', '3.2.1', [
       { n: 1, f: 'What did Asch\'s study of conformity find?', b: 'When confederates gave an obviously wrong answer on a line-judgement task, participants conformed on about a third of critical trials, and about three-quarters conformed at least once.' },
       { n: 2, f: 'Which social and dispositional factors affect conformity?', b: 'Social: group size, anonymity (conformity falls when answers are private) and task difficulty (conformity rises). Dispositional: personality (e.g. confidence) and expertise.' },
       { n: 3, f: 'What is Milgram\'s Agency theory?', b: 'People obey when they see themselves as agents carrying out an authority figure\'s wishes rather than acting autonomously. Agency, authority, culture and proximity all affect obedience.' },
@@ -95,7 +91,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
       { n: 6, f: 'Which social and dispositional factors affect bystander intervention?', b: 'Social: the presence of others (diffusion of responsibility) and the cost of helping. Dispositional: similarity to the victim and expertise, e.g. first-aid training.' },
       { n: 7, f: 'Social loafing vs deindividuation in crowds', b: 'Social loafing: people put in less effort in a group than alone. Deindividuation: people lose their sense of personal identity and responsibility in a crowd, which can lead to antisocial (or prosocial) behaviour.' },
     ]),
-    ...sub(P2, 'language-thought-communication-8182', '3.2.2', [
+    ...sub('language-thought-communication-8182', '3.2.2', [
       { n: 1, f: 'Piaget vs the Sapir-Whorf hypothesis on language and thought', b: 'Piaget: language depends on thought (thought develops first). Sapir-Whorf: thinking depends on language (language shapes thought). They are opposite positions.' },
       { n: 2, f: 'How can language affect our view of the world?', b: 'The Sapir-Whorf hypothesis predicts that the words a culture has affect how its members recall events and recognise colours, e.g. variation in colour recognition in some Native American cultures.' },
       { n: 3, f: 'What did Von Frisch\'s bee study show?', b: 'Bees communicate the direction and distance of a food source through a waggle dance. This is animal communication for survival (food), limited to a fixed set of signals about the present.' },
@@ -105,7 +101,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
       { n: 7, f: 'How does personal space vary?', b: 'It varies with culture (some cultures stand closer), status (people keep more distance from those of higher status) and gender (e.g. women often sit closer to one another than men do).' },
       { n: 8, f: 'Darwin\'s evolutionary theory vs Yuki\'s study of emoticons', b: 'Darwin: non-verbal signals are innate and evolved because they aid survival (also seen in neonates and the sensory deprived). Yuki: Japanese and American people focused on different facial areas (eyes vs mouth) in emoticons, so some non-verbal behaviour is learned.' },
     ]),
-    ...sub(P2, 'brain-and-neuropsychology-8182', '3.2.3', [
+    ...sub('brain-and-neuropsychology-8182', '3.2.3', [
       { n: 1, f: 'Central vs peripheral nervous system, and somatic vs autonomic', b: 'Central: brain and spinal cord. Peripheral: all other nerves, divided into the somatic system (voluntary movement and senses) and the autonomic system (involuntary functions such as heart rate).' },
       { n: 2, f: 'What is the James-Lange theory of emotion?', b: 'The physiological response (e.g. raised heart rate) comes first, and the emotion (e.g. fear) is the brain\'s interpretation of that bodily arousal. Exam trap: it is not the emotion that causes the arousal.' },
       { n: 3, f: 'Sensory vs relay vs motor neurons', b: 'Sensory neurons carry messages from the senses to the CNS. Relay neurons pass messages within the CNS. Motor neurons carry messages from the CNS to muscles and glands.' },
@@ -116,7 +112,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
       { n: 8, f: 'What did Tulving\'s gold memory study show?', b: 'Using a radioactive gold tracer to scan blood flow, episodic memories were linked to more activity at the front of the cortex and semantic memories to the back, suggesting they are stored in different areas.' },
       { n: 9, f: 'CT vs PET vs fMRI scans', b: 'CT: X-rays build a picture of brain structure. PET: a radioactive tracer shows active areas. fMRI: measures changes in blood oxygen to show active areas, with no radiation.' },
     ]),
-    ...sub(P2, 'psychological-problems-8182', '3.2.4', [
+    ...sub('psychological-problems-8182', '3.2.4', [
       { n: 1, f: 'How has the incidence of significant mental health problems changed over time?', b: 'Recorded incidence has risen, linked to the challenges of modern living (e.g. isolation) and to greater recognition of mental health problems with less social stigma, so more people seek help.' },
       { n: 2, f: 'Unipolar depression vs bipolar depression vs sadness', b: 'Sadness is a normal, temporary response to events. Unipolar depression is persistent low mood with other symptoms. Bipolar depression involves swings between depression and mania.' },
       { n: 3, f: 'How is unipolar depression diagnosed using the ICD?', b: 'By the number and severity of symptoms, including low mood, reduced energy levels, changes in sleep patterns and appetite, and a decrease in self-confidence.' },

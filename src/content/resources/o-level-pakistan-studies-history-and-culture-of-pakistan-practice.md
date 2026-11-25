@@ -10,18 +10,6 @@ qualifications: ["o-level"]
 syllabusCodes: ["2059"]
 syllabusSeries: "2026"
 order: 1
-syllabusTopics:
-  - qualification: "o-level"
-    topic: "paper-1-history-culture-2059"
-  - qualification: "o-level"
-    topic: "paper-1-history-culture-2059"
-    subtopic: "cultural-historical-background-2059"
-  - qualification: "o-level"
-    topic: "paper-1-history-culture-2059"
-    subtopic: "emergence-of-pakistan-2059"
-  - qualification: "o-level"
-    topic: "paper-1-history-culture-2059"
-    subtopic: "nationhood-1947-99-2059"
 description: "A full original Cambridge O Level Pakistan Studies 2059 Paper 1 practice paper: a source-based Section A and four Section B questions, with levels mark schemes."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

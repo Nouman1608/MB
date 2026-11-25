@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 4
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "major-themes-quran-0493"
+    topic: "major-themes-quran-0493"
 description: "Passage-by-passage recall notes on the 15 set Qur'an passages for Cambridge IGCSE Islamiyat 0493 Paper 1 Question 1: theme, key ideas and importance to Muslims."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

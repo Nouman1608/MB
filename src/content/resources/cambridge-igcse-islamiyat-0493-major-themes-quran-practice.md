@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.1
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "major-themes-quran-0493"
+    topic: "major-themes-quran-0493"
 description: "Twelve original questions on the set Qur'an passages for Cambridge IGCSE Islamiyat 0493 Paper 1 Question 1, with themes, applications and full mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 5
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "major-teachings-hadiths-0493"
+    topic: "major-teachings-hadiths-0493"
 description: "Study guide to the 20 set Hadith for Cambridge IGCSE Islamiyat 0493 Paper 2 Question 1: teachings on conduct and community life, with answer technique."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

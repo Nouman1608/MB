@@ -12,8 +12,7 @@ syllabusSeries: "first teaching 2017"
 order: 1.3
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-cognition-and-behaviour-8182"
-    subtopic: "development-8182"
+    topic: "development-8182"
 description: "Original practice questions on 3.1.3 Development for AQA GCSE Psychology 8182: brain development, Piaget, Hughes, Dweck and Willingham, with full mark schemes."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

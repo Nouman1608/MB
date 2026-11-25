@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 9
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "rightly-guided-caliphs-0493"
+    topic: "rightly-guided-caliphs-0493"
 description: "Recall notes on Abu Bakr, Umar, Uthman and Ali: events, policies, achievements, difficulties and leadership lessons, for Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -12,8 +12,7 @@ syllabusSeries: "2026-2027"
 order: 7
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-2-0493"
-    subtopic: "history-importance-hadiths-0493"
+    topic: "history-importance-hadiths-0493"
 description: "Study guide to Hadith compilation, musnad and musannaf works, isnad and matn, the Sunni and Shi'a books and Hadith in law, for Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

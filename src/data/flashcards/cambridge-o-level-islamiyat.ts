@@ -1,7 +1,7 @@
 /**
  * D-444 -- flashcards for Cambridge O Level Islamiyat 2058 (2026-2027).
  *
- * One block per subtopic, in syllabus order. Card ids are `<subtopic number>-<n>`
+ * One block per topic (D-535d: the eight numbered topics), in syllabus order. Card ids are `<topic number>-<n>`
  * and are permanent (browser progress is keyed by them): add a new card with
  * the next unused n, never renumber.
  *
@@ -22,19 +22,15 @@ import type { Flashcard, FlashcardDeck } from './types.ts';
 
 interface Spec { n: number; f: string; b: string; src?: string }
 
-const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Flashcard[] =>
+const sub = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
   specs.map(({ n, f, b, src }) => ({
     id: `${number}-${n}`,
     topic,
-    subtopic,
     front: f,
     back: b,
     origin: src ? 'revision-notes' as const : 'authored' as const,
     ...(src ? { source: src } : {}),
   }));
-
-const P1 = 'paper-1-2058';
-const P2 = 'paper-2-2058';
 
 export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
   boardSlug: 'cambridge',
@@ -48,7 +44,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
   updated: '2026-11-08',
   cards: [
     // Paper 1
-    ...sub(P1, 'major-themes-quran-2058', '1.1', [
+    ...sub('major-themes-quran-2058', '1.1', [
       { n: 1, f: 'What is the central theme of the Qur’an?', b: 'Tawhid: the absolute oneness of God, which underlies every other teaching in the Qur’an.' },
       { n: 2, f: 'Name the major themes of the Qur’an', b: 'Tawhid (the oneness of God), prophethood, the afterlife and judgement, guidance for personal conduct, law and social justice, and relations with earlier scriptures.' },
       { n: 3, f: 'Under which three headings are the Qur’anic passages set for study grouped?', b: 'God in Himself; God’s relationship with the created world; and God’s messengers.' },
@@ -59,7 +55,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
       { n: 8, f: 'How is Question 1 on Paper 1 (the Qur’anic passages) set?', b: 'Three passages are set and you write on any two, for 8 marks. Read all three before choosing.' },
       { n: 9, f: 'What characterises a top-band AO1 answer in O Level Islamiyat?', b: 'Detailed, accurate knowledge, and it is likely to quote Qur’an verses and Hadith (or other relevant quotations) to support the points made.' },
     ]),
-    ...sub(P1, 'history-importance-quran-2058', '1.2', [
+    ...sub('history-importance-quran-2058', '1.2', [
       { n: 1, f: 'Over how long was the Qur’an revealed, and how did revelation begin?', b: 'Over 23 years, beginning in 610 CE in the Cave of Hira, through the angel Jibril.' },
       { n: 2, f: 'What were the first verses revealed?', b: 'The opening verses of Surah al-Alaq (96:1–5), beginning “Read (Recite) in the name of your Lord who created”.' },
       { n: 3, f: 'How many surahs does the Qur’an have, and how are Makkan and Madinan surahs different?', b: '114 surahs. Makkan surahs are generally shorter and focus on tawhid, the afterlife and moral conduct. Madinan surahs are generally longer and deal with law, community and social order.' },
@@ -70,7 +66,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
       { n: 9, f: 'What role did Hafsah play in the history of the Qur’an?', b: 'The copy compiled under Abu Bakr was later kept by Hafsah. Uthman had her copy reproduced in the dialect of the Quraysh to make the official copies.' },
       { n: 8, f: 'What is the place of the Qur’an in Islamic law?', b: 'It is the first source of law, followed by the Sunna (Hadith), consensus (ijma’) and analogy (qiyas).' },
     ]),
-    ...sub(P1, 'life-prophet-2058', '1.3', [
+    ...sub('life-prophet-2058', '1.3', [
       { n: 1, f: 'Give the key dates of the Prophet’s life in Makkah', b: '570 born in Makkah. 610 first revelation in the Cave of Hira. 613 public preaching begins, followed by persecution. 615 first migration to Abyssinia. 619 Year of Sorrow.' },
       { n: 2, f: 'What was the Year of Sorrow (619)?', b: 'The year in which both the Prophet’s wife Khadijah and his uncle and protector Abu Talib died, leaving him more vulnerable in Makkah.' },
       { n: 3, f: 'Why was the Hijra (622) important?', b: 'The Prophet’s migration from Makkah to Madinah allowed the first Muslim community and state to be set up. It marks the start of the Islamic calendar.' },
@@ -83,7 +79,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
       { n: 10, f: 'What principles did the Prophet set out in the Farewell Sermon (632)?', b: 'Equality regardless of race, the sanctity of life and property, the rights of women, the abolition of usury, and the ending of blood feuds.' },
       { n: 11, f: 'What were the pledges of Aqabah?', b: 'Pledges of support made to the Prophet by Muslims from Yathrib (Madinah) before the Hijra, which secured the protection that made the migration possible.' },
     ]),
-    ...sub(P1, 'first-islamic-community-2058', '1.4', [
+    ...sub('first-islamic-community-2058', '1.4', [
       { n: 1, f: 'Which groups of people does the first Islamic community topic cover?', b: 'The Prophet’s wives; his descendants (children, grandchildren and the line recognised among Shi’a Muslims as Imams); his leading Companions, including the Ten Blessed Companions and his Scribes; the Emigrants and Helpers; and the four Rightly Guided Caliphs during his lifetime.' },
       { n: 2, f: 'Why is Khadijah important?', b: 'She was the Prophet’s first wife and the first person to accept his message, and her support sustained him in Makkah.' },
       { n: 3, f: 'Why is Aisha important?', b: 'A wife of the Prophet who became one of the most important narrators of Hadith and a source of knowledge for the early community.' },
@@ -96,7 +92,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
     ]),
 
     // Paper 2
-    ...sub(P2, 'major-teachings-hadiths-2058', '2.1', [
+    ...sub('major-teachings-hadiths-2058', '2.1', [
       { n: 1, f: 'Into which two groups are the Hadith passages set for study divided?', b: 'Passages relating to individual conduct and passages relating to life in the community.' },
       { n: 2, f: 'How is the Hadith passages question set in Paper 2?', b: 'Four passages are set and you choose any two to write on, explaining what each teaches Muslims to believe and how it teaches them to act. The passages are given in Arabic and English.' },
       { n: 3, f: 'What does the Hadith “Actions are judged by intentions” teach?', b: 'That God judges deeds by the intention behind them, so Muslims should act sincerely for God’s sake rather than for show. It is narrated by Bukhari and Muslim.' },
@@ -104,7 +100,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
       { n: 5, f: 'What does the Hadith about the strong man teach?', b: 'That the strong person is not the one who overpowers others in wrestling, but the one who controls himself when angry.' },
       { n: 6, f: 'How should you answer on a set Hadith passage?', b: 'State its teaching clearly, then explain how a Muslim would put it into practice today with a specific example, rather than retelling the passage.' },
     ]),
-    ...sub(P2, 'history-importance-hadiths-2058', '2.2', [
+    ...sub('history-importance-hadiths-2058', '2.2', [
       { n: 1, f: 'What is the difference between isnad and matn?', b: 'The isnad is the chain of people who transmitted a Hadith. The matn is its text (wording). Scholars tested both to judge a Hadith’s reliability.' },
       { n: 2, f: 'What are the three main grades of Hadith?', b: 'Sahih (sound), hasan (good) and da’if (weak).' },
       { n: 3, f: 'What is the difference between a musnad and a musannaf collection?', b: 'A musnad arranges Hadith by the Companion who narrated them, such as the Musnad of Ahmad ibn Hanbal. A musannaf arranges them by subject, such as the Muwatta of Imam Malik.' },
@@ -113,7 +109,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
       { n: 6, f: 'How are Hadith used in Islamic law?', b: 'They are the second source of law after the Qur’an, explaining and adding detail to it, and are used alongside consensus (ijma’) and analogy (qiyas).' },
       { n: 7, f: 'Which Umayyad caliph ordered Hadith to be collected in writing?', b: 'Umar ibn Abd al-Aziz (ruled 717–720), concerned that knowledge would be lost as scholars died.' },
     ]),
-    ...sub(P2, 'rightly-guided-caliphs-2058', '2.3', [
+    ...sub('rightly-guided-caliphs-2058', '2.3', [
       { n: 1, f: 'Name the four Rightly Guided Caliphs and the dates of their rule', b: 'Abu Bakr (632–634), Umar ibn al-Khattab (634–644), Uthman ibn Affan (644–656), Ali ibn Abi Talib (656–661).' },
       { n: 2, f: 'What were the Ridda wars?', b: 'Abu Bakr’s campaigns against tribes that withheld zakat or followed false prophets after the Prophet’s death. They brought Arabia back under Madinah’s authority and held the community together.' },
       { n: 3, f: 'Name three military achievements of Umar’s rule', b: 'Victory over the Byzantines at Yarmuk (636), over the Persians at Qadisiyyah, and the surrender of Jerusalem.' },
@@ -122,7 +118,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
       { n: 6, f: 'What difficulties did Ali face as Caliph?', b: 'Civil war (the First Fitna): the Battle of the Camel (656), the Battle of Siffin (657) against Mu’awiya and the arbitration that followed, and the revolt of the Kharijites, one of whom assassinated him in Kufa in 661.' },
       { n: 7, f: 'Why are the Rightly Guided Caliphs seen as models of leadership?', b: 'They are looked back to for just government, consultation (shura), simple living and the ruler’s accountability to the community, and as examples for relations with other states.' },
     ]),
-    ...sub(P2, 'articles-faith-pillars-2058', '2.4', [
+    ...sub('articles-faith-pillars-2058', '2.4', [
       { n: 1, f: 'What are the six Articles of Faith?', b: 'Belief in God, the angels, the revealed Books, the prophets, God’s predestination and decree, and the Resurrection and the Last Day.' },
       { n: 2, f: 'Name four angels and their roles', b: 'Jibril brought revelation to the prophets; Mika’il brings provision such as rain; Israfil will blow the trumpet on the Last Day; Izra’il is the Angel of Death.' },
       { n: 3, f: 'Which Books do Muslims believe were revealed, and to whom?', b: 'The Tawrat to Musa, the Zabur to Dawud, the Injil to Isa, and the Qur’an to Muhammad (pbuh), as well as the Scrolls of Ibrahim.' },

@@ -10,13 +10,6 @@ qualifications: ["gcse"]
 syllabusCodes: ["J204"]
 syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 788
-syllabusTopics:
-  - qualification: "gcse"
-    topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-    subtopic: "influences-on-business-ocr-gcse-business"
-  - qualification: "gcse"
-    topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
-    subtopic: "interdependent-nature-of-business-ocr-gcse-business"
 description: "Twelve original practice questions with worked answers on ethical, environmental, economic and global influences and interdependence, OCR GCSE Business."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

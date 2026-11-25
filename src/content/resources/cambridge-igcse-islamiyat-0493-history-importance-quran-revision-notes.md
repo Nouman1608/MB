@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.2
 syllabusTopics:
   - qualification: "igcse"
-    topic: "paper-1-0493"
-    subtopic: "history-importance-quran-0493"
+    topic: "history-importance-quran-0493"
 description: "Recall notes for 0493 Paper 1 Question 2: stages of revelation, the two compilations, key people, the Qur'an in law and its importance, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

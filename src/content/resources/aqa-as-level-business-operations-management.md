@@ -12,8 +12,7 @@ syllabusSeries: "For first teaching from September 2026"
 order: 782
 syllabusTopics:
   - qualification: "as-level"
-    topic: "managing-people-and-operations-aqa-aslevel-business"
-    subtopic: "operations-management-aqa-aslevel-business"
+    topic: "operations-management-aqa-aslevel-business"
 description: "Study guide to operations objectives, KPIs, efficiency, quality, supply chains, inventory, innovation, network analysis and scale for AQA AS Business (7137)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

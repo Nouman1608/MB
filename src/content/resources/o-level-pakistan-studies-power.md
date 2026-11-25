@@ -11,8 +11,7 @@ syllabusSeries: "2026"
 order: 3
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-2-environment-2059"
-    subtopic: "power-2059"
+    topic: "power-2059"
 description: "Study guide to Section 3 Power of Cambridge O Level Pakistan Studies 2059 Paper 2: fuel extraction, coal, gas and oil supply, power stations and renewables."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

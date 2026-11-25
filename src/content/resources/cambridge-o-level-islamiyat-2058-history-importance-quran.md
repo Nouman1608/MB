@@ -11,8 +11,7 @@ syllabusSeries: "2026-2027"
 order: 1.2
 syllabusTopics:
   - qualification: "o-level"
-    topic: "paper-1-2058"
-    subtopic: "history-importance-quran-2058"
+    topic: "history-importance-quran-2058"
 description: "Study guide to the revelation, compilation, legal use and significance of the Qur'an for Cambridge O Level Islamiyat 2058 Paper 1, with a model answer."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
