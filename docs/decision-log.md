@@ -16929,3 +16929,12 @@ Status: answered; implementation pending.
 - **D-533b Contact phone.** Stays required on the Arabic, Urdu and Bengali contact pages, as on the English contact page (kind `student`; `PHONE_REQUIRED_KINDS`). No change.
 - **D-533c Urdu 3247 poet.** Show "Aatish" (آتش) with a note that Cambridge's syllabus prints "Ahtish". Applies to the four files that name the poet (`o-level-cambridge-urdu-first-language-paper-2-texts.md`, `cambridge-o-level-urdu-language-3247-paper-2-poetry-essay.md` and its revision notes, `o-level-urdu-first-language-paper-2-texts-revision-notes.md`). The owner supersedes the C19 audit choice to keep the board's spelling.
 - **D-533d Singapore IB article.** Remove the 5 unsourceable passages; add the Language B and MYP Language Acquisition languages once the owner names them (STILL WAITING on the owner); place the article on the branch for review, not pushed.
+
+## D-534 - Owner decisions round 4: syllabus wording (25 Nov 2026, 06:35 PKT)
+
+Status: answered; implementation pending.
+
+- **D-534a Water potential on 4BI1.** Remove the term from the Edexcel IGCSE Biology 4BI1 pages and use water concentration wording instead, including the osmosis figures that use it. The Pearson 2017 specification never uses "water potential" (it says "diffusion, osmosis and active transport", 2.15). Files: `edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells.md` (+ revision notes), `edexcel-igcse-biology-4bi1-transport.md`, `edexcel-igcse-biology-exam-preparation.md`, the 4BI1 osmosis figure. Shared figure `igcse-shared-intl-osmosis.svg` is used by other boards and stays; its 4BI1 use is replaced if it shows the term.
+- **D-534b 0610 Core diagnostic.** Keep Paper 42 with the "Core content only" note. Note: June 2024 Paper 42 could not be found in the OneDrive Papers 2025 folder, so the source stays unverified by this session.
+- **D-534c O Level Economics 0455.** Cite 2281 if the Cambridge 2281 syllabus is confirmed to list the same five causes of market failure; otherwise use neutral wording ("those in the syllabus"). Six files.
+- **D-534d International A Level Maths unit codes.** Add the codes verified against Pearson's Issue 3 specification (WMA11-14, WME01/02, WST01/02, WFM01-03, WME03, WST03) to course pages that lack them; hold D1 (WDM11) until confirmed on Pearson's current page.
