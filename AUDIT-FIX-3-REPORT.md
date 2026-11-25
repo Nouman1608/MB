@@ -1,6 +1,6 @@
 # AUDIT-FIX-3-REPORT
 
-**Written: 25 Nov 2026, 06:25 PKT** (Pakistan Standard Time). Final build and checks: see "Build and checks" (filled in at 06:45 PKT).
+**Written: 25 Nov 2026, 06:25 PKT** (Pakistan Standard Time). Final build and checks completed 06:44 PKT on commit f48ea3cfe.
 Branch `audit-fixes-3`, from origin/main 21bda3e75 (PR 241). Owner's prompt: 25 Nov 2026, 02:10 PKT. Merge to `main` (= deploy through Cloudflare's Git integration) was approved by the owner after the review.
 
 ## Process
@@ -54,8 +54,13 @@ One JSON file per course, `src/data/past-papers/courses/<board>-<qualification>-
 ### Region pages: facts each could add (item 21, report only)
 Each page already states its time difference. Not present, and needing a source: exam boards common locally (KHDA/ADEK data for UAE; Qatar, Oman, Saudi, Kuwait, Bahrain ministry private-school lists; Malaysia MoE list; JCQ entry statistics for the UK; COBIS/ECIS for Europe; IBCC for Pakistan) and school terms (the same ministries; MOE Singapore). Full table in `reports/audit3/A2.md`.
 
-## Build and checks (final commit)
-_Filled in after the final build; see below._
+## Build and checks (final commit f48ea3cfe, 25 Nov 2026, 06:44 PKT)
+- `npm run build` (setup, generators, `validate:academic` with every validator, Astro build, Pagefind): **exit 0, 377 s**. Only warning: the pre-existing glob-loader note for `src/content/pages`.
+- `npm run audit:all`: **exit 0** (metadata, structured data, redirects, internal links, content integrity, fonts, sitemap noindex and groups, i18n routes, rendered labels, tiered FAQ routes, review coverage, accessibility, trial sources, course isolation; content store 75.1% of its limit, a pre-existing warning). The previous final build found one leak (a decision-log ID in a public IB note), fixed in f48ea3cfe.
+- `npm run test:tools` 239/239, `npm run test:api` 100/100, Worker tests 24/24.
+- Check 47 on the build (`node reports/audit3/check-47-48.mjs --dist dist --only 47`): ALL CHECKS PASSED.
+- Check 48 on the build (built Worker with a fake asset binding over dist; 30 old slugs, the IB biology slug, a www case with a query string, a no-slash case): 32 cases, 0 fail; each one 301 to the new slug, new slug 200.
+- Spot counts in dist: "24 hours a day" appears only in 42 study resources (production lines, online shops, banking), not as a teacher-availability claim; IB trademark note on 2,230 pages (all IB, no other); every AP resource title starts with "AP"; the 122 AP pages whose titles do not are flashcard pages ("Kinematics Flashcards (Physics C: Mechanics, Unit 1)"), outside item 28 (follow-up, NEEDS OWNER 15); MYP Language Acquisition page shows "Listening 32 marks".
 
 ## NEEDS OWNER
 1. **26** Language A Paper 2: 25 (site) or 30 (public guide)?
@@ -71,6 +76,7 @@ _Filled in after the final build; see below._
 11. **45** Singapore draft: source or delete 5 placeholders; which Language B / MYP Language Acquisition languages are taught?
 12. **41** Split the coarse topic lists of the 21 thin courses into finer topics?
 13. **43 / 21** Other boards' command words and thresholds, and the local facts for region pages, need documents from hosts blocked here.
+15. **AP flashcards** 122 AP flashcard page titles do not start with "AP" (item 28 covered resources). Apply the same rule to flashcard titles?
 14. **A8** If a per-task mark split is ever wanted on the MYP Language Acquisition pages, it stays as on main (16 per task, 32 per criterion).
 
 ## Translations needing a native speaker
