@@ -16984,3 +16984,10 @@ Implementation of D-531 to D-539 is on the local branch `owner-decisions-1`, not
 - **Singapore IB article.** The live `ib-tuition-in-singapore-online.md` stays; the new draft `ib-in-singapore-online-diploma-and-myp-lessons.md` stays hidden. After the owner supplies the languages, the draft is diffed against the live article and anything worth merging is listed.
 - **Edexcel grade boundaries.** Extend the threshold model with 9 to 1 grades and a board field, and add the International GCSE overall boundaries for June 2026 from the supplied PDF. IAL waits until its unit structure is designed. Page copy becomes board-neutral.
 - **Edexcel command words.** Show them on `/command-words/` as per-document sections (never one blended Edexcel list, per D-097); update the D-097 disclosure. IAL Business, IAL Economics and IGCSE Physics first; IGCSE Biology 4BI1 only after its by-eye transcription is re-checked against page renders.
+
+## D-542 - Owner decisions on open items (25 Nov 2026)
+
+- **4EB1 English Language B.** Keep 4EA1 only on /grade-thresholds/ (no 4EB1 resources or matrix code on the site).
+- **DP Computer Science (2014).** Keep "withdrawn, no longer assessable" on the subject page.
+- **O Level Economics 0455.** Sweep every O Level Economics resource; change a "0455" citation only where the 2281 syllabus confirms the wording, otherwise neutral wording.
+- **Thin-course pilot follow-up.** Write the Pakistan Studies 2059 Key Question 1 to 5 study guide and revision notes first, from the specification and existing pages, for teacher review. OCR J204 practice sets after.
