@@ -108,7 +108,7 @@ community passed by God's appointment through the Prophet's (pbuh) family, begin
 12. Muhammad al-Mahdi, believed to be in occultation and to return
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--04-descendants-ra.webp" width="900" height="766" alt="A text family tree. With Khadija (RA): al-Qasim and Abdullah, who died young, and Zaynab (RA) (married Abu al-As), Ruqayya (RA) and Umm Kulthum (RA) (both married Uthman (RA), called Dhu al-Nurayn) and Fatima (RA) (married Ali (RA)). With Mariya: Ibrahim, who died as an infant. Grandchildren include Hasan (RA) and Husayn (RA), sons of Fatima (RA), and Umama, daughter of Zaynab." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--04-descendants.webp" width="900" height="716" alt="A text family tree. With Khadija: al-Qasim and Abdullah, who died young, and Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman, called Dhu al-Nurayn) and Fatima (married Ali (RA)). With Mariya: Ibrahim, who died as an infant. Grandchildren include Hasan (RA) and Husayn (RA), sons of Fatima, and Umama, daughter of Zaynab." loading="lazy">
   <figcaption>All his sons died young; his line continued through his daughters.</figcaption>
 </figure>
 
