@@ -286,8 +286,3 @@ It is a useful starting model that predicts many firm decisions well, but people
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study Scarcity and choice.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five main causes.</figcaption>
-</figure>
-

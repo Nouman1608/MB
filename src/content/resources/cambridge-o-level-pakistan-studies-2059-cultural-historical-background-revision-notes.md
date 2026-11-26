@@ -30,7 +30,10 @@ syllabusTopics:
     subtopic: "key-question-5-2059"
 description: "Recall notes for Cambridge O Level Pakistan Studies 2059 Paper 1 Section 1, Key Questions 1 to 5: dates, people and significance, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
 reviewStatus: "draft"
+reviewedDate: 2026-11-26
+reviewNote: "Reviewed and approved by Sir Azam Siddique, owner-reported 26 November 2026; no corrections supplied."
 publishedDate: 2026-11-25
 featured: false
 ---

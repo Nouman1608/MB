@@ -47,8 +47,8 @@ Short-form recall for 3.1.5.1, 3.1.5.2 and 3.1.5.3 of OxfordAQA's International 
 The specification lists: public goods, positive and negative externalities, merit and demerit goods, monopoly and other market imperfections, and inequality of income and wealth. Be ready with one example of each. Only the first three causes are in these notes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five main causes.</figcaption>
+  <img src="https://img.marlbridge.com/economics-market-failure-causes-a-level--01-oxfordaqa-a-level-causes.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure in the specification list: public goods, positive and negative externalities, merit and demerit goods, monopoly and other market imperfections, and inequality of income and wealth. The result is that resources are misallocated." loading="lazy">
+  <figcaption>The specification lists five causes of market failure.</figcaption>
 </figure>
 
 

@@ -50,8 +50,8 @@ The specification lists the causes: public goods, positive and negative external
 **Complete and partial failure.** For a pure public good the market fails completely: private firms would supply none. With an externality the market still operates, but the quantity is wrong. Keep that distinction for evaluation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five main causes.</figcaption>
+  <img src="https://img.marlbridge.com/economics-market-failure-causes-a-level--01-oxfordaqa-a-level-causes.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure in the specification list: public goods, positive and negative externalities, merit and demerit goods, monopoly and other market imperfections, and inequality of income and wealth. The result is that resources are misallocated." loading="lazy">
+  <figcaption>The specification lists five causes of market failure.</figcaption>
 </figure>
 
 

@@ -1,0 +1,6 @@
+# New figures awaiting owner approval for R2 upload (do NOT upload until the owner says yes). Immutable cache: new names only.
+# Local files are under docs/reports/topic-images/generated/<folder>/ ; upload each to https://img.marlbridge.com/<file>
+economics-market-failure-causes-a-level/economics-market-failure-causes-a-level--01-oxfordaqa-a-level-causes.webp
+economics-market-failure-causes-a-level/economics-market-failure-causes-a-level--02-aqa-a-level-causes.webp
+cambridge-o-level-islamiyat-2058-first-islamic-community/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants-ra.webp
+cambridge-igcse-islamiyat-0493-first-islamic-community/cambridge-igcse-islamiyat-0493-first-islamic-community--04-descendants-ra.webp

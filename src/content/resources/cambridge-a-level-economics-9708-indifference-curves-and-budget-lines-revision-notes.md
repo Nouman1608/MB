@@ -24,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-Condensed notes for **section 7.2 Indifference curves and budget lines** (A Level, Cambridge 9708, 2026–2028). For the full step-by-step method, use the [indifference curves study guide](/resources/cambridge-a-level-economics-9708-indifference-curves-and-budget-lines/). Figures are invented.
+Condensed notes for **section 7.2 Indifference curves and budget lines** (A Level, Cambridge 9708, 2026–2028). For the full step-by-step method, use the [indifference curves study guide](/resources/cambridge-a-level-economics-9708-indifference-curves-and-budget-lines/). Figures are invented. For a broader treatment of this section alongside its neighbours, see the [longer revision notes](/resources/cambridge-a-level-economics-utility-indifference-curves-and-budget-lines-revision-notes/).
 
 ## The four syllabus statements
 
