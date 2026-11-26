@@ -17025,7 +17025,7 @@ Branch `owner-decisions-2`. Answers given in chat to AskUserQuestion rounds 1 to
 
 Owner chose to skip hidden drafts in `scripts/check-duplicate-resource-scope.mjs`. A resource with `reviewStatus: "draft"` is not routed, built or listed in the sitemap, so it cannot compete for a scope; the check applies once it is reviewed and published. The three hidden exam-style question sets (9709 differentiation, 9709 discrete random variables, 9701 Kc/Kp) are back in `src/content/resources/`.
 
-## D-546 - Owner decisions 3 (26 Nov 2026, 21:20 PKT)
+## D-546 - Owner decisions 3 (26 Nov 2026, 20:56 PKT)
 
 - **D-546a PR 255 deployment.** The Workers Build for merge 9d5b6f5fe was still `in_progress` at 20:45 PKT (not failed); the Cloudflare dashboard was signed out so the build log was not read. Live checks run after it finishes.
 - **D-546b Islamiyat review packs (item 10).** Owner states the Islamiyat teacher, Sir Azam, has reviewed and approved the Qur'an (2058) and Pakistan Studies (2059) packs. No marked-up pack or correction list was supplied; the approval is recorded as owner-reported on 26 Nov 2026 in each reviewNote.
