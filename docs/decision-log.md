@@ -17020,3 +17020,7 @@ Branch `owner-decisions-2`. Answers given in chat to AskUserQuestion rounds 1 to
 - **D-544d Journal claims.** An agent verifies the four regulator sentences and five unsourced intro claims in the location articles and corrects or sources them.
 - **D-544e Question sets.** The 20-topic list and 3-a-week pace are approved. First three sets (9709 Differentiation, 9709 Statistics, 9701 Equilibrium Kc) drafted as hidden pages. Reviewer: "the subject teacher", no name given, so the reviewer field stays blank and the pages cannot be published.
 - **D-544f Review packs.** The owner reports the Islamiyat teacher has reviewed the packs, but no name, credentials, corrections or signed pack have been supplied. The drafts stay hidden and no reviewer is credited until the name and the teacher's corrections are provided.
+
+## D-545 - Duplicate-scope gate skips hidden drafts (26 Nov 2026, 16:30 PKT)
+
+Owner chose to skip hidden drafts in `scripts/check-duplicate-resource-scope.mjs`. A resource with `reviewStatus: "draft"` is not routed, built or listed in the sitemap, so it cannot compete for a scope; the check applies once it is reviewed and published. The three hidden exam-style question sets (9709 differentiation, 9709 discrete random variables, 9701 Kc/Kp) are back in `src/content/resources/`.

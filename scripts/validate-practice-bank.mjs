@@ -69,6 +69,8 @@ for (const file of files) {
   const body = parts.slice(2).join('---');
 
   if (parseFrontmatterField(fm, 'resourceType') !== 'practice-questions') continue;
+  // D-545: bank.ts skips hidden drafts, so a draft is expected to parse to 0 questions.
+  if (parseFrontmatterField(fm, 'reviewStatus') === 'draft') continue;
   const syllabusCodes = parseArrayField(fm, 'syllabusCodes');
   if (!syllabusCodes.some((c) => flagshipCodes.has(c))) continue;
   if (!body.includes('## Answers')) continue; // not a real Q&A file -- nothing to parse
