@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-7.4-study-guide"
 title: "Energy of Simple Harmonic Oscillators: Study Guide (Physics 1 7.4)"
 description: "Track kinetic and potential energy in spring and pendulum oscillators, use E = ½kA² to find maximum speed and amplitude, and read energy graphs and bar charts with algebra only."
+seoDescription: "Physics 1 study guide to energy in oscillators: kinetic and potential energy in springs and pendulums, E = ½kA² for speed and amplitude, and energy graphs."
 course: "physics-1"
 unit: 7
 topics: ["7.4"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-1.5-study-guide"
 title: "Vectors and Motion in Two Dimensions: Study Guide (Physics 1 1.5)"
 description: "Resolve vectors into perpendicular components with trigonometry, add them, and analyse two-dimensional and projectile motion as two separate one-dimensional problems linked by time."
+seoDescription: "Physics 1 study guide to vector components, adding vectors and projectile motion treated as two one-dimensional problems linked by time."
 course: "physics-1"
 unit: 1
 topics: ["1.5"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.8-revision-notes"
 title: "Spring Forces: Revision Notes (Physics C: Mechanics 2.8)"
 description: "One-page recap of spring forces: the ideal spring, Hooke's law with direction, the hanging-block equilibrium, and equivalent spring constants in series and in parallel."
+seoDescription: "One-page Physics C: Mechanics recap of spring forces: the ideal spring, Hooke's law with direction and equivalent spring constants in series and parallel."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.8"]

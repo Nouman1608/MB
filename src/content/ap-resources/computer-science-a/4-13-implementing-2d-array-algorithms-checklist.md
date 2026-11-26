@@ -3,6 +3,7 @@ resourceId: "mb-ap-csa-4.13-checklist"
 title: "Implementing 2D Array Algorithms: Checklist (Computer Science A 4.13)"
 seoTitle: "Computer Science A 4.13 2D Array Algorithms Checklist"
 description: "A self-check for 2D array algorithms: adapting standard patterns to rows, columns and whole tables, rotating and reversing, checking neighbours safely, and tracing results."
+seoDescription: "Computer Science A self-check for 2D array algorithms: adapting patterns to rows, columns and tables, safe neighbour checks and tracing."
 course: "computer-science-a"
 unit: 4
 topics: ["4.13"]

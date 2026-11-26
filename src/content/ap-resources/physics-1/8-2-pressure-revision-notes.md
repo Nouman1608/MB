@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-8.2-revision-notes"
 title: "Pressure: Revision Notes (Physics 1 8.2)"
 description: "One-page recap of pressure as perpendicular force per area, the particle picture of fluid pressure, absolute and gauge pressure, P = P₀ + ρgh and pressure–depth graphs, with common mistakes."
+seoDescription: "One-page Physics 1 recap of pressure as force per area, the particle picture of fluid pressure, P = P₀ + ρgh and pressure-depth graphs."
 course: "physics-1"
 unit: 8
 topics: ["8.2"]

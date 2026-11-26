@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-13.4-study-guide"
 title: "Images Formed by Lenses: Study Guide (Physics 2 13.4)"
 description: "Converging and diverging thin lenses: focal points, the three principal rays, the thin-lens equation, sign conventions, magnification and finding f from data."
+seoDescription: "Physics 2 study guide to thin lenses: converging and diverging lenses, focal points, principal rays, the thin-lens equation, magnification and finding f."
 course: "physics-2"
 unit: 13
 topics: ["13.4"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-6.9-study-guide"
 title: "Hess's Law: Study Guide (Chemistry 6.9)"
 description: "Break a process into steps, explain why the step enthalpies add to the overall enthalpy change, and combine equations by reversing, scaling and adding them."
+seoDescription: "Chemistry study guide to Hess's law: splitting a process into steps, why step enthalpies add, and combining equations by reversing, scaling and adding."
 course: "chemistry"
 unit: 6
 topics: ["6.9"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-u11-review"
 title: "Electric Circuits: Mixed Unit Review (Physics C: E&M Unit 11)"
 description: "A mixed review of Unit 11: the big ideas that link current, resistance, power, Kirchhoff's rules and RC circuits, a summary table and seven original questions that combine topics, with rubrics."
+seoDescription: "Physics C: E&M Unit 11 review: current, resistance, power, Kirchhoff's rules and RC circuits, with a summary table and seven original combined questions."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: []

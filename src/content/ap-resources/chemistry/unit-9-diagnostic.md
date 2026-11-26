@@ -3,6 +3,7 @@ resourceId: "mb-ap-chem-u9-diagnostic"
 title: "Thermodynamics and Electrochemistry: Unit Diagnostic (Chemistry Unit 9)"
 seoTitle: "Chemistry Unit 9 Thermodynamics, Electrochemistry Diagnostic"
 description: "Thirteen short original questions, one or two per topic, to find which parts of entropy, free energy, equilibrium and electrochemical cells you should revisit before the unit review."
+seoDescription: "Chemistry Unit 9 diagnostic of thirteen short questions on entropy, free energy, equilibrium and electrochemical cells to find what to revisit."
 course: "chemistry"
 unit: 9
 topics: []

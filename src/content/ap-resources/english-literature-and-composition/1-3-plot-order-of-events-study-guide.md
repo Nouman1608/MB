@@ -3,6 +3,7 @@ resourceId: "mb-ap-englit-1.3-study-guide"
 title: "Plot: How Events Are Ordered and Why: Study Guide (English Literature 1.3)"
 seoTitle: "English Literature 1.3 Plot and Order of Events Study Guide"
 description: "Learn to read plot as a chain of connected events, to describe how a writer orders them, and to explain why that order directs attention to character, conflict and meaning."
+seoDescription: "English Literature study guide to plot as a chain of events: how a writer orders them and why that order directs attention to character, conflict and meaning."
 course: "english-literature-and-composition"
 unit: 1
 topics: ["1.3"]

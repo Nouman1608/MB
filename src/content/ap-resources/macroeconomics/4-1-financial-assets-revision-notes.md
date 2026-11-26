@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-4.1-revision-notes"
 title: "Financial Assets: Revision Notes (Macroeconomics 4.1)"
 description: "One-page recap of money, bonds and stocks, liquidity, return and risk, the inverse link between bond prices and interest rates, and the opportunity cost of holding money."
+seoDescription: "One-page Macroeconomics recap of money, bonds and stocks, liquidity, return and risk, and why bond prices and interest rates move in opposite directions."
 course: "macroeconomics"
 unit: 4
 topics: ["4.1"]

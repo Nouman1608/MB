@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-3.2-study-guide"
 title: "Impact of Program Design: Study Guide (Computer Science A 3.2)"
 description: "Understand system reliability, testing under a variety of conditions, the beneficial and harmful effects of programs, unintended consequences, and legal and intellectual property issues such as open source."
+seoDescription: "Computer Science A study guide to the impact of program design: system reliability, testing, unintended consequences and open source."
 course: "computer-science-a"
 unit: 3
 topics: ["3.2"]

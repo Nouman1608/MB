@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-1.4-study-guide"
 title: "Demand: Study Guide (Macroeconomics 1.4)"
 description: "Learn the law of demand, how to read and draw a demand curve, the difference between a change in quantity demanded and a change in demand, and the factors that shift market demand."
+seoDescription: "Macroeconomics study guide to demand: the law of demand, reading and drawing a demand curve and the factors that shift market demand."
 course: "macroeconomics"
 unit: 1
 topics: ["1.4"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-3.5-study-guide"
 title: "Cellular Respiration: Study Guide (Biology 3.5)"
 description: "How cells release energy from glucose: glycolysis, the Krebs cycle, the electron transport chain, chemiosmosis and ATP synthase, uncoupling and heat, and fermentation without oxygen."
+seoDescription: "Biology study guide to cellular respiration: glycolysis, Krebs cycle, electron transport chain, chemiosmosis and fermentation without oxygen."
 course: "biology"
 unit: 3
 topics: ["3.5"]

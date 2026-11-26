@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-3.4-study-guide"
 title: "Photosynthesis: Study Guide (Biology 3.4)"
 description: "Learn how chloroplasts capture light: the stroma, thylakoids and grana, the two photosystems, water splitting, the proton gradient and ATP synthase, NADPH, the Calvin cycle and photosynthesis's prokaryotic origins."
+seoDescription: "Biology study guide to photosynthesis: thylakoids and grana, two photosystems, water splitting, the proton gradient, NADPH and the Calvin cycle."
 course: "biology"
 unit: 3
 topics: ["3.4"]

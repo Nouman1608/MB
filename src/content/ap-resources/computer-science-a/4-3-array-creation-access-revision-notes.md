@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-4.3-revision-notes"
 title: "Array Creation and Access: Revision Notes (Computer Science A 4.3)"
 description: "One-page recap of 1D arrays in Java: creating with new or an initializer list, default values, length, indexing from 0, assigning elements and out-of-bounds errors."
+seoDescription: "One-page Computer Science A recap of 1D arrays in Java: creating with new or an initializer list, default values, indexing from 0 and out-of-bounds errors."
 course: "computer-science-a"
 unit: 4
 topics: ["4.3"]

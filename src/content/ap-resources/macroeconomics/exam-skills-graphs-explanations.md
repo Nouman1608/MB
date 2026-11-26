@@ -3,6 +3,7 @@ resourceId: "mb-ap-macro-exam-skills-graphs-explanations"
 title: "Drawing Graphs and Writing Cause-and-Effect Explanations: Exam Skills Guide (Macroeconomics)"
 seoTitle: "Macroeconomics Graphs and Explanations Exam Skills Guide"
 description: "Draw correctly labelled AD-AS, money market, loanable funds, Phillips curve and foreign exchange graphs, link two graphs in one answer, write complete cause-and-effect chains and set out calculations."
+seoDescription: "Macroeconomics exam skills: labelled AD-AS, money market, loanable funds, Phillips curve and foreign exchange graphs, plus cause-and-effect chains."
 course: "macroeconomics"
 unit: 1
 topics: []

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-stats-5.2-practice"
 title: "Correlation: Practice Questions (Statistics 5.2)"
 description: "Seven original Marlbridge practice questions on interpreting the correlation coefficient r, its properties, its limits with curves and outliers, and correlation versus causation."
+seoDescription: "Seven Statistics practice questions on interpreting r, its properties, limits with curves and outliers, and correlation versus causation."
 course: "statistics"
 unit: 5
 topics: ["5.2"]

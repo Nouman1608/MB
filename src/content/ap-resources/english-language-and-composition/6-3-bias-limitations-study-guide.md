@@ -2,6 +2,7 @@
 resourceId: mb-ap-englang-6.3-study-guide
 title: 'Bias and Limitations in Sources: Study Guide (English Language 6.3)'
 description: How to recognise bias and limitations in sources, judge how far a source considers other positions, and acknowledge and account for limitations in your own reasoning when you use evidence.
+seoDescription: "English Language study guide to bias and limitations in sources, how far a source weighs other positions, and accounting for limits in your own reasoning."
 course: english-language-and-composition
 unit: 6
 topics:

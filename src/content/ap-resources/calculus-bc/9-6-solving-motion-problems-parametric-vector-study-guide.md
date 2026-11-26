@@ -3,6 +3,7 @@ resourceId: "mb-ap-calcbc-9.6-study-guide"
 title: "Solving Motion Problems Using Parametric and Vector-Valued Functions: Study Guide (Calculus BC 9.6)"
 seoTitle: "Calculus BC 9.6 Parametric and Vector Motion Problems Guide"
 description: "Solve planar motion problems: velocity, speed and acceleration from derivatives, direction of motion, and displacement, position and total distance from integrals."
+seoDescription: "Calculus BC study guide to planar motion: velocity, speed and acceleration, direction of motion, position and total distance from integrals."
 course: "calculus-bc"
 unit: 9
 topics: ["9.6"]

@@ -67,7 +67,7 @@ semicircle perimeter  ½πd + d
 - A notch or slot cut from the **middle** of an edge adds twice its depth.
 - With algebraic sides, collect like terms: a 3x by (x + 2) rectangle has perimeter 2(4x + 2) = 8x + 4.
 
-## Circles and arcs: the checklist
+**Circles and arcs: the checklist**
 
 - Check whether you are given the radius or the diameter, and choose 2πr or πd to match.
 - For an arc, write the fraction θ/360 first, then multiply by the full circumference.
@@ -89,7 +89,7 @@ semicircle perimeter  ½πd + d
 | 150° | 5/12 |
 | 270° | 3/4 |
 
-## Composite shapes: the checklist
+**Composite shapes: the checklist**
 
 1. Trace the outside edge with your finger and list each piece: straight edge or arc.
 2. Leave out any line where two parts join inside the shape.

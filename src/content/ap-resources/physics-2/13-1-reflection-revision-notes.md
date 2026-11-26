@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-13.1-revision-notes"
 title: "Reflection: Revision Notes (Physics 2 13.1)"
 description: "One-page recap of the ray model of light, its limits, the law of reflection with angles from the normal, mirror rotation and specular versus diffuse reflection."
+seoDescription: "One-page Physics 2 recap of the ray model of light and its limits, the law of reflection, mirror rotation and specular versus diffuse reflection."
 course: "physics-2"
 unit: 13
 topics: ["13.1"]

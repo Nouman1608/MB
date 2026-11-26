@@ -36,9 +36,17 @@
  *       record names its exam board; Cambridge rows use A*-G / a-e keys and
  *       Pearson Edexcel rows use the 9-1 keys, never a mix.
  *
+ *   [9] Pearson Edexcel sources and IAL unit tables (D-543h) -- every Pearson
+ *       record names its source document and PDF page; a record's grade scale
+ *       must suit its board; IAL unit records hold `units` (and no `rows`),
+ *       each unit with a W-code, a level (AS or A2), a unique label, raw
+ *       boundaries that are strictly decreasing, within the unit's raw maximum,
+ *       with A* present on A2 units and absent on AS units, and a positive UMS
+ *       maximum. (UMS boundaries are fixed percentages and are not stored.)
+ *
  * Run as part of `npm run validate:academic`. Exits 1 on any problem.
  */
-import { GRADE_THRESHOLDS, GRADE_SCALE_BY_BOARD, BOARD_ORDER, thresholdProblems } from '../src/data/academic/grade-thresholds.ts';
+import { GRADE_THRESHOLDS, GRADE_SCALES, BOARD_ORDER, scaleOf, thresholdProblems } from '../src/data/academic/grade-thresholds.ts';
 
 const A_LEVEL_ORDER = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G'];
 const AS_ORDER = ['a', 'b', 'c', 'd', 'e'];
@@ -55,7 +63,50 @@ for (const syllabus of GRADE_THRESHOLDS) {
   if (!BOARD_ORDER.includes(syllabus.board)) {
     problems.push(`[8] ${id}: board "${syllabus.board}" missing or not one of ${BOARD_ORDER.join(', ')}.`);
   }
-  const boardScale = new Set(GRADE_SCALE_BY_BOARD[syllabus.board] ?? []);
+  const scaleName = scaleOf(syllabus);
+  const boardScale = new Set(GRADE_SCALES[scaleName] ?? []);
+
+  // [9] Scale must suit the board; Pearson records need a source document and page.
+  if (!GRADE_SCALES[scaleName]) problems.push(`[9] ${id}: unknown grade scale "${scaleName}".`);
+  if (syllabus.board === 'Cambridge' && scaleName !== 'cambridge') problems.push(`[9] ${id}: a Cambridge record must use the cambridge grade scale, not "${scaleName}".`);
+  if (syllabus.board === 'Pearson Edexcel' && scaleName === 'cambridge') problems.push(`[9] ${id}: a Pearson Edexcel record cannot use the cambridge grade scale.`);
+  if (syllabus.board === 'Pearson Edexcel') {
+    if (!syllabus.sourceDocument || syllabus.sourceDocument.trim().length < 10) problems.push(`[9] ${id}: missing sourceDocument (title of the Pearson document).`);
+    if (!Number.isInteger(syllabus.sourcePage) || syllabus.sourcePage < 1) problems.push(`[9] ${id}: missing or invalid sourcePage (PDF page number).`);
+  }
+  const units = syllabus.units ?? [];
+  const rowsCount = syllabus.rows.length;
+  if (rowsCount === 0 && units.length === 0) problems.push(`[9] ${id}: record has neither rows nor units.`);
+  if (units.length > 0 && rowsCount > 0) problems.push(`[9] ${id}: a unit-based record must not also carry overall rows.`);
+  if (units.length > 0 && scaleName !== 'edexcel-ial') problems.push(`[9] ${id}: unit tables belong to the edexcel-ial scale, not "${scaleName}".`);
+  const seenUnitLabels = new Set();
+  for (const u of units) {
+    const uid = `${id} / unit ${u.unit} "${u.label}"`;
+    if (!/^W[A-Z]{2}\d{1,2}$/.test(u.unit)) problems.push(`[9] ${uid}: unit code is not of the form WXX11.`);
+    const labelKey = `${u.unit} ${u.label}`;
+    if (seenUnitLabels.has(labelKey)) problems.push(`[2] ${uid}: duplicate unit appears more than once.`);
+    seenUnitLabels.add(labelKey);
+    if (u.level !== 'AS' && u.level !== 'A2') problems.push(`[9] ${uid}: level must be AS or A2.`);
+    if (!u.label || !/^Unit \d+[A-Z]?: \S/.test(u.label)) problems.push(`[9] ${uid}: label must look like "Unit 1: Title".`);
+    if (!Number.isInteger(u.maxRaw) || u.maxRaw <= 0) problems.push(`[9] ${uid}: maxRaw must be a positive integer.`);
+    if (!Number.isInteger(u.maxUms) || u.maxUms <= 0) problems.push(`[9] ${uid}: maxUms must be a positive integer.`);
+    const expected = u.level === 'A2' ? ['A*', 'A', 'B', 'C', 'D', 'E'] : ['A', 'B', 'C', 'D', 'E'];
+    const keys = Object.keys(u.raw);
+    for (const k of keys) if (!boardScale.has(k)) problems.push(`[5] ${uid}: grade key "${k}" is not on the IAL grade scale (A* to E).`);
+    if (u.level === 'AS' && keys.includes('A*')) problems.push(`[9] ${uid}: an AS unit has no A* boundary.`);
+    for (const k of expected) if (u.raw[k] === undefined) problems.push(`[9] ${uid}: ${u.level} unit is missing the ${k} boundary (Pearson prints it; if greyed out, omit the whole unit instead).`);
+    let prev = null;
+    let prevGrade = null;
+    for (const k of expected) {
+      const v = u.raw[k];
+      if (v === undefined) continue;
+      if (!Number.isInteger(v) || v <= 0) problems.push(`[4] ${uid}: grade ${k} has a non-integer or non-positive mark (${v}).`);
+      if (v > u.maxRaw) problems.push(`[4] ${uid}: grade ${k} (${v}) exceeds the unit's raw maximum (${u.maxRaw}).`);
+      if (prev !== null && v >= prev) problems.push(`[4] ${uid}: grade ${k} (${v}) is not strictly lower than ${prevGrade} (${prev}).`);
+      prev = v;
+      prevGrade = k;
+    }
+  }
 
   // [1] Series format
   if (!SERIES_PATTERN.test(syllabus.series)) {
@@ -150,5 +201,5 @@ if (problems.length > 0) {
   process.exit(1);
 }
 
-const totalRows = GRADE_THRESHOLDS.reduce((sum, s) => sum + s.rows.length, 0);
-console.log(`Grade-threshold validation OK — ${GRADE_THRESHOLDS.length} syllabus record(s), ${totalRows} route(s) total, no route collisions, no mark-basis or unavailable-grade problems found.`);
+const totalRows = GRADE_THRESHOLDS.reduce((sum, s) => sum + s.rows.length + (s.units?.length ?? 0), 0);
+console.log(`Grade-threshold validation OK — ${GRADE_THRESHOLDS.length} syllabus record(s), ${totalRows} route(s) and unit(s) total, no route collisions, no mark-basis or unavailable-grade problems found.`);

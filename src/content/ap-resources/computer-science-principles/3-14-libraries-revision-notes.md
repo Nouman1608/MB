@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-3.14-revision-notes"
 title: "Libraries: Revision Notes (Computer Science Principles 3.14)"
 description: "One-page recap of libraries: APIs, documentation, internal and external code, benefits, documented conditions, and a short checklist for choosing and using a library procedure."
+seoDescription: "One-page Computer Science Principles recap of libraries: APIs, documentation, internal and external code, documented conditions and choosing a procedure."
 course: "computer-science-principles"
 unit: 3
 topics: ["3.14"]

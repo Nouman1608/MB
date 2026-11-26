@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.11-checklist"
 title: "Math Class: Checklist (Computer Science A 1.11)"
 description: "A self-check list for the Math class methods abs, pow, sqrt and random and for generating random numbers in a given range, linked to the guide sections and practice questions."
+seoDescription: "Computer Science A self-check list for Math class methods abs, pow, sqrt and random, and generating random numbers in a given range."
 course: "computer-science-a"
 unit: 1
 topics: ["1.11"]

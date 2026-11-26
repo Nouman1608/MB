@@ -2,6 +2,7 @@
 resourceId: "mb-ap-stats-1.11-study-guide"
 title: "Random Sampling: Study Guide (Statistics 1.11)"
 description: "Learn to identify, carry out and justify simple random, stratified, cluster and systematic random samples, and to tell sampling with replacement from sampling without it."
+seoDescription: "Statistics study guide to random sampling: simple random, stratified, cluster and systematic samples, and sampling with replacement versus without it."
 course: "statistics"
 unit: 1
 topics: ["1.11"]

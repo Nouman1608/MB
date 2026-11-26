@@ -3,6 +3,7 @@ resourceId: "mb-ap-englit-8.7-study-guide"
 title: "Evidence and composition in a poetry essay: Study Guide (English Literature 8.7)"
 seoTitle: "English Lit 8.7 Poetry Essay Evidence Study Guide"
 description: "Learn to select relevant and sufficient evidence from a poem, integrate it smoothly, and control grammar, quotation and organisation so a poetry essay reads clearly under time pressure."
+seoDescription: "English Literature study guide to evidence in a poetry essay: choosing relevant, sufficient evidence, integrating it and controlling grammar and quotation."
 course: "english-literature-and-composition"
 unit: 8
 topics: ["8.7"]

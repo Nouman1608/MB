@@ -3,6 +3,7 @@ resourceId: "mb-ap-physcm-5.6-study-guide"
 title: "Newton’s Second Law in Rotational Form: Study Guide (Physics C: Mechanics 5.6)"
 seoTitle: "Physics C Mechanics 5.6 Rotational Newton's 2nd Law Guide"
 description: "Calculus-based rotational dynamics: α = Στ/I derived from Newton’s second law, torques that change with time handled by integration, separate linear and rotational analyses, and a lab method for I."
+seoDescription: "Physics C: Mechanics calculus-based guide to rotational dynamics: α = Στ/I derived, linear and rotational analyses and a lab method for I."
 course: "physics-c-mechanics"
 unit: 5
 topics: ["5.6"]

@@ -1,0 +1,91 @@
+=== 9709 DIFFERENTIATION (1.7) ===
+PASS D1 dy/dx at x=0.7: computed -15.413625808147202, page says -15.41362580759997
+PASS D1 dy/dx at x=1.9: computed 133.40333191180775, page says 133.4033319145621
+PASS D1 dy/dx at x=4.0: computed 1277.9062501522276, page says 1277.90625
+PASS D2 gradient at x=1: computed 11.999999999123823, page says 12
+PASS D3 stationary at x=1: computed -8.881784197001252e-10, page says 0
+PASS D3 stationary at x=2: computed 0.0, page says 0
+PASS D3 y(1): computed 6, page says 6
+PASS D3 y(2): computed 5, page says 5
+PASS D3 y'' at 1 (12x-18): computed -6.000000052353016, page says -6
+PASS D3 y'' at 2: computed 6.000000141170858, page says 6
+PASS D4 y(2): computed 7.0, page says 7
+PASS D4 gradient at 2: computed 2.4999999999053557, page says 2.5
+PASS D4 tangent y-intercept 7-2.5*2: computed 2.0, page says 2
+PASS D4 normal gradient: computed -0.4, page says -0.4
+PASS D4 normal intercept 7+0.4*2: computed 7.8, page says 7.8
+PASS D4 normal meets x-axis at x: computed 19.5, page says 19.5
+PASS D5 f'(-2)=0: computed 3.552713678800501e-09, page says 0
+PASS D5 f'(3)=0: computed 0.0, page says 0
+PASS D5 sign check f'(0)<0: True  f'(4)>0: True  f'(-3)>0: True
+PASS D6 dA/dt = 2*pi*8*0.05: computed 2.5132741228718345, page says 2.5133
+PASS D7 S = x^2+4xh with h=500/x^2, x=3.0: computed 675.6666666666667, page says 675.6666666666666
+PASS D7 S = x^2+4xh with h=500/x^2, x=10.0: computed 300.0, page says 300.0
+PASS D7 S = x^2+4xh with h=500/x^2, x=12.5: computed 316.25, page says 316.25
+PASS D7 dS/dx at 10: computed 0.0, page says 0
+PASS D7 S(10): computed 300.0, page says 300
+PASS D7 S'' at 10: computed 5.9999990753567545, page says 6
+PASS D7 brute-force minimum at x: computed 10.0, page says 10
+PASS D8 gradient at x=0: computed 2.000000000001, page says 2
+PASS D8 y(0): computed 0, page says 0
+PASS D8 gradient at x=2: computed 2.0000000000575113, page says 2
+PASS D8 y(2): computed 0, page says 0
+PASS D9 6(2x+1)^2 at x=1: computed 54.00000000044258, page says 54
+PASS D9 wrong answer 3(2x+1)^2 at x=1 differs: computed 27, page says 27
+PASS D10 y(2): computed -16, page says -16
+PASS D10 y'(2): computed 8.881784197001252e-10, page says 0
+PASS D10 y''(2): computed 12.000000104706032, page says 12
+
+=== 9709 DISCRETE RANDOM VARIABLES (5.4) ===
+PASS S1 p: computed 0.4, page says 0.4
+PASS S1 E(X): computed 4.6, page says 4.6
+PASS S1 E(X^2): computed 25.2, page says 25.2
+PASS S1 Var(X): computed 4.04, page says 4.04
+PASS S2 P(X=4) B(10,0.35): computed 0.2376684927626953, page says 0.2377
+   S2 unrounded P(X=4)=0.237668  P(X<=2)=0.261607  P(X>=3)=0.738393
+PASS S2 P(X>=3): computed 0.7383926086167968, page says 0.7384
+   S3 unrounded P10=0.283468 P11=0.206158 P12=0.068719
+PASS S3 P(X=10) B(12,0.8): computed 0.283467841536, page says 0.2835
+PASS S3 P(X>=11): computed 0.27487790694400016, page says 0.2749
+PASS S4 E(X) B(40,0.15): computed 6.0, page says 6
+PASS S4 Var(X): computed 5.1, page says 5.1
+PASS S5 P(X=5) Geo(0.2): computed 0.08192000000000002, page says 0.08192
+PASS S5 E(X): computed 5.0, page says 5
+PASS S5 P(X>3): computed 0.5120000000000001, page says 0.512
+PASS S5 P(X>3) by summation: computed 0.5119999999999999, page says 0.512
+PASS S6 smallest n: computed 14, page says 14
+   S6 n=13 -> 0.94502 ; n=14 -> 0.95602 ; ln0.05/ln0.8 = 13.4251
+   S7 solutions in tenths: [(0.3, 0.4)]
+PASS S7 a: computed 0.3, page says 0.3
+PASS S7 b: computed 0.4, page says 0.4
+   S8 counts out of 16: {0: 4, 1: 6, 2: 4, 3: 2}
+PASS S8 P(0): computed 0.25, page says 0.25
+PASS S8 P(1): computed 0.375, page says 0.375
+PASS S8 P(2): computed 0.25, page says 0.25
+PASS S8 P(3): computed 0.125, page says 0.125
+PASS S8 E(X): computed 1.25, page says 1.25
+   S8 E(X^2) = 5/2  Var = 15/16 = 0.9375
+PASS S8 Var(X): computed 0.9375, page says 0.9375
+PASS S9 E(net gain): computed -0.3333333333333333, page says -0.3333333333333333
+
+=== 9701 CHEMICAL EQUILIBRIA Kc and Kp (7.1) ===
+PASS C3 Kc H2+I2<=>2HI: computed 27.000000000000004, page says 27.0
+PASS C4 n(SO2) at eq: computed 0.20000000000000007, page says 0.2
+PASS C4 n(O2) at eq: computed 0.2, page says 0.2
+   C4 concentrations SO3, SO2, O2 = [0.15, 0.05000000000000002, 0.05]
+PASS C4 Kc: computed 179.9999999999999, page says 180.0
+   C4 common error (volume ignored) gives 44.99999999999997
+PASS C5 n(ester): computed 0.8, page says 0.8
+PASS C5 Kc back-check: computed 4.0, page says 4.0
+PASS C6 [N2O4] = 170 x 0.020^2: computed 0.068, page says 0.068
+PASS C7 x(N2O4): computed 0.3333333333333333, page says 0.3333333333333333
+PASS C7 x(NO2): computed 0.6666666666666666, page says 0.6666666666666666
+PASS C7 p(N2O4) kPa: computed 66.66666666666666, page says 66.667
+PASS C7 p(NO2) kPa: computed 133.33333333333331, page says 133.333
+PASS C7 Kp kPa: computed 266.66666666666663, page says 266.667
+   C7 Kp to 3 s.f. = 267
+   C8 Kc = 0.05333 -> 3 s.f. 0.0533
+PASS C8 Kc: computed 0.05333333333333333, page says 0.0533
+   C9 gas moles: N2+3H2 = 4 ; 2NH3 = 2
+
+FAILURES: none

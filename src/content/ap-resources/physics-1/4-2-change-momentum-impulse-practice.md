@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-4.2-practice"
 title: "Change in Momentum and Impulse: Practice Questions (Physics 1 4.2)"
 description: "Seven original Marlbridge practice questions on impulse, change in momentum with rebounds, force–time areas, momentum–time slopes, lab data analysis and a symbolic landing-force derivation."
+seoDescription: "Seven Physics 1 practice questions on impulse, momentum change with rebounds, force-time areas, lab data and a symbolic landing-force derivation."
 course: "physics-1"
 unit: 4
 topics: ["4.2"]

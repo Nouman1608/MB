@@ -51,7 +51,7 @@ Condensed for the final weeks. For worked explanations, use the
 - At least one sensible validation check (range, presence, format, length, type).
 - One primary key, justified as **unique**.
 
-## Checklist: choosing a data type
+**Checklist: choosing a data type**
 
 | If the field holds… | Use |
 |---|---|

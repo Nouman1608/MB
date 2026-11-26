@@ -64,7 +64,7 @@ Then conclude: electrons pulled closer (smaller radius) or held more tightly (hi
 
 Equation format: X(g) → X⁺(g) + e⁻. State symbols are needed.
 
-## Melting point checklist
+## Melting point points to check
 
 | Element(s) | Structure | What is overcome | Strength |
 |---|---|---|---|

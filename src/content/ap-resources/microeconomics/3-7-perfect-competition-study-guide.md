@@ -2,6 +2,7 @@
 resourceId: "mb-ap-micro-3.7-study-guide"
 title: "Perfect Competition: Study Guide (Microeconomics 3.7)"
 description: "Learn how price-taking firms in a perfectly competitive market choose output, calculate economic profit or loss, and reach an efficient long-run equilibrium through entry and exit."
+seoDescription: "Microeconomics study guide to perfect competition: how price-taking firms choose output, calculate economic profit or loss and reach long-run equilibrium."
 course: "microeconomics"
 unit: 3
 topics: ["3.7"]

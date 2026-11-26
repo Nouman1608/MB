@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-5.7-revision-notes"
 title: "Public Policy and Economic Growth: Revision Notes (Macroeconomics 5.7)"
 description: "One-page recap of growth policies: productivity, labour force participation, infrastructure and technology, supply-side fiscal policy, short-run and long-run effects, and trade-offs."
+seoDescription: "One-page Macroeconomics recap of growth policies: productivity, labour force participation, supply-side fiscal policy and trade-offs."
 course: "macroeconomics"
 unit: 5
 topics: ["5.7"]

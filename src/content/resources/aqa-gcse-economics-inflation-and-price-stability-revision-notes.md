@@ -128,6 +128,11 @@ Low, stable inflation helps everyone plan. **Deflation** can also cause harm: pe
 - Index points are not percentages unless the starting value is 100.
 - Inflation hurts savers only when interest is below inflation. Say so.
 - Match the policy to the cause: demand-side policies suit demand-pull inflation best.
+- Writing that lower inflation means lower prices.
+- Calculating the change from the later figure, or quoting index points as a percentage.
+- Saying "everyone loses" from inflation, with no named group.
+- Mixing up cost-push and demand-pull, or giving the wrong policy for the cause.
+- Forgetting real values: a pay rise is not a gain if prices rise faster.
 
 ## Quick self-test
 
@@ -154,14 +159,6 @@ Low, stable inflation helps everyone plan. **Deflation** can also cause harm: pe
 8. The real value of what they owe falls, so repaying the debt costs less in terms of goods.
 9. For example, savers: if interest is below inflation, their savings buy less. Or people on fixed incomes: their income buys less.
 10. Borrowing costs more and saving pays more, so households and firms spend less; lower demand reduces upward pressure on prices.
-
-## Where marks are usually lost
-
-- Writing that lower inflation means lower prices.
-- Calculating the change from the later figure, or quoting index points as a percentage.
-- Saying "everyone loses" from inflation, with no named group.
-- Mixing up cost-push and demand-pull, or giving the wrong policy for the cause.
-- Forgetting real values: a pay rise is not a gain if prices rise faster.
 
 ## Frequently asked questions
 

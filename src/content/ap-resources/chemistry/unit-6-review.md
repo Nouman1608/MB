@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u6-review"
 title: "Thermochemistry: Mixed Unit Review (Chemistry Unit 6)"
 description: "Connect energy transfer, energy diagrams, calorimetry, phase changes, bond enthalpies, formation enthalpies and Hess's law with seven original questions that each combine topics."
+seoDescription: "Chemistry Unit 6 review: seven original questions combining energy diagrams, calorimetry, phase changes, bond and formation enthalpies and Hess's law."
 course: "chemistry"
 unit: 6
 topics: []

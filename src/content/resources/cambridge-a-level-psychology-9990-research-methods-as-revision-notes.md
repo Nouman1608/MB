@@ -81,7 +81,7 @@ featured: false
   <figcaption>Format and technique are two separate ways interviews differ.</figcaption>
 </figure>
 
-## Observation checklist
+**Observation checklist**
 
 Overt or covert; participant or non-participant; structured (behavioural categories) or unstructured; naturalistic or controlled.
 

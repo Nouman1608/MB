@@ -111,6 +111,10 @@ The first three rules need the **same base**.
 - Subtracting a negative index: 3² ÷ 3⁻⁴ = 3⁶.
 - On a calculator, bracket fractional indices: 64^(2/3).
 - (Extended) Turn decimal indices into fractions: 0.5 = 1/2, 0.25 = 1/4, 1.5 = 3/2.
+- Turning a negative index into a negative number.
+- Adding indices for numbers with different bases.
+- Index sign errors when dividing by a negative power.
+- (Extended) Applying the power before the root, then being unable to finish without a calculator.
 
 ## Quick self-test
 
@@ -141,13 +145,6 @@ The first three rules need the **same base**.
 10. 4
 11. √9 = 3, 3³ = 27, one over: 1/27
 12. ∛(8/125) = 2/5, squared: 4/25
-
-## Where marks are usually lost
-
-- Turning a negative index into a negative number.
-- Adding indices for numbers with different bases.
-- Index sign errors when dividing by a negative power.
-- (Extended) Applying the power before the root, then being unable to finish without a calculator.
 
 ## Worked reminders
 

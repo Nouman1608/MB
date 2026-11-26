@@ -86,6 +86,11 @@ For full explanations and worked examples, read the [food supply study guide](/r
 - **Intensive animals and energy.** Say less energy is **lost** in movement and heat, not that the animals "use less energy to grow".
 - **One-sided answers.** "Advantages and disadvantages" needs both.
 - **Units.** Yields need "per hectare" or "per animal" and a time.
+- Swapping insecticides and herbicides.
+- Writing "fertilisers help plants grow" with no ion or yield.
+- Giving only advantages when disadvantages are asked for too.
+- Not linking intensive livestock growth to reduced energy loss.
+- Forgetting biodiversity as a disadvantage of monocultures.
 
 ## Command-word reminders
 
@@ -122,14 +127,6 @@ For full explanations and worked examples, read the [food supply study guide](/r
 10. They move less and are kept warm, so less energy is lost in respiration for movement and heat, leaving more for growth.
 11. Any two: disease spreads quickly; waste pollutes water; poor welfare; large amounts of feed needed; energy needed for heating and lighting.
 12. Chemical fertiliser (nitrate, magnesium) for the pale leaves; insecticide for the pests.
-
-## Where marks are usually lost
-
-- Swapping insecticides and herbicides.
-- Writing "fertilisers help plants grow" with no ion or yield.
-- Giving only advantages when disadvantages are asked for too.
-- Not linking intensive livestock growth to reduced energy loss.
-- Forgetting biodiversity as a disadvantage of monocultures.
 
 ## Official syllabus
 

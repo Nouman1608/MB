@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-11.2-study-guide"
 title: "Simple Circuits: Study Guide (Physics 2 11.2)"
 description: "What makes a circuit work: closed, open and short circuits, loops that share elements, standard schematic symbols, meter placement and drawing schematics from a description."
+seoDescription: "Physics 2 study guide to simple circuits: closed, open and short circuits, loops that share elements, meter placement and drawing schematics."
 course: "physics-2"
 unit: 11
 topics: ["11.2"]

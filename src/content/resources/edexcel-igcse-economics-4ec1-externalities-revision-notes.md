@@ -106,6 +106,11 @@ Ask: *who pays, or who gains?*
 - **Use the specification's pairings:** external costs of production, external benefits of consumption.
 - **Name a third party** in every example.
 - **No diagram is required** by section 1.1.6; definitions, examples and formulae are.
+- Examples without a third party.
+- Treating a cost the firm pays as external.
+- Writing social cost as external cost alone.
+- Swapping the examples between costs and benefits.
+- Calculations with no formula shown.
 
 ## Command words
 
@@ -143,14 +148,6 @@ Ask: *who pays, or who gains?*
 10. Producers ignore the external costs, so they base output on private costs below the true social cost, and produce more than is best for society.
 11. Other road users delayed by the traffic (or bus passengers, or local businesses).
 12. Private costs = 72 000 − 18 000 = **54 000**; share = 18 000 ÷ 72 000 × 100 = **25%**.
-
-## Where marks are usually lost
-
-- Examples without a third party.
-- Treating a cost the firm pays as external.
-- Writing social cost as external cost alone.
-- Swapping the examples between costs and benefits.
-- Calculations with no formula shown.
 
 ## Official syllabus
 

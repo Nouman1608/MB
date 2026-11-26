@@ -100,6 +100,9 @@ These notes condense overarching theme **OT3 Mathematical modelling** (OT3.1 to 
 - Over-precise outputs from a rough model.
 - Saying a model is "wrong" rather than evaluating whether it is appropriate.
 - Forgetting that independence is the binomial assumption most likely to fail in context.
+- Assumptions given without their effect.
+- Interpretations without units or context.
+- Refinements that are vague ("make it more accurate") rather than a specific change.
 
 ## Quick self-test
 
@@ -130,12 +133,6 @@ These notes condense overarching theme **OT3 Mathematical modelling** (OT3.1 to 
 10. Students share a teacher and lessons, so results are linked.
 11. Using a model beyond the data range; the relationship may not continue.
 12. Include a friction force F = μR, find μ from data, then test the refined model.
-
-## Where marks are usually lost
-
-- Assumptions given without their effect.
-- Interpretations without units or context.
-- Refinements that are vague ("make it more accurate") rather than a specific change.
 
 ## Official syllabus
 

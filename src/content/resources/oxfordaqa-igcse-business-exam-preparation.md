@@ -102,7 +102,7 @@ With the reason, referring back to step 1.
 Step 4 is the clearest signal of evaluative thinking at this level. A recommendation that identifies
 the condition it depends on demonstrates judgement rather than preference.
 
-## Before/during exam checklist
+## Before/during exam points to check
 
 - **Before the exams**: organise revision under the two paper titles and audit for misplaced topics;
   practise complete 2-hour papers; rehearse trade-offs rather than definitions for operations and HR;

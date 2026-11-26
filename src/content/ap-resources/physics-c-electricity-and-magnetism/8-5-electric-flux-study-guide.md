@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-8.5-study-guide"
 title: "Electric Flux: Study Guide (Physics C: E&M 8.5)"
 description: "Calculus-based guide to electric flux: the area vector, Φ = E·A for flat surfaces, sign conventions, surface integrals for non-uniform fields and closed surfaces."
+seoDescription: "Physics C: E&M calculus-based guide to electric flux: the area vector, Φ = E·A for flat surfaces, sign conventions, surface integrals and closed surfaces."
 course: "physics-c-electricity-and-magnetism"
 unit: 8
 topics: ["8.5"]

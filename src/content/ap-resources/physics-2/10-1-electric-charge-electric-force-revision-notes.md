@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-10.1-revision-notes"
 title: "Electric Charge and Electric Force: Revision Notes (Physics 2 10.1)"
 description: "One-page recap of electric charge, the elementary charge, Coulomb's law, factors of change, vector addition of forces, electric versus gravitational force and permittivity."
+seoDescription: "One-page Physics 2 recap of electric charge, the elementary charge, Coulomb's law, factors of change, electric versus gravitational force and permittivity."
 course: "physics-2"
 unit: 10
 topics: ["10.1"]

@@ -98,7 +98,7 @@ Money coming in (exports, income from abroad) is a **credit** (+). Money going o
 - **A lower exchange rate** makes exports cheaper abroad and imports dearer, though it can raise inflation.
 - **Tariffs and quotas** on imports. Other countries may retaliate, and they may break trade agreements.
 
-### Exam traps (balance of payments)
+### Slips to avoid: balance of payments
 
 - The balance of payments is about flows with the **rest of the world**. It is not the government's budget, and a current account deficit is not the same as a budget deficit.
 - Get the signs right: imports and income paid abroad are negative.
@@ -166,7 +166,7 @@ Money coming in (exports, income from abroad) is a **credit** (+). Money going o
 
 Redistribution can conflict with growth if it weakens incentives, and fairness is a **value judgement**: economists can show who gains and loses, but how much equality is right is a matter of opinion.
 
-### Exam traps (distribution)
+### Slips to avoid: distribution
 
 - Income is a **flow**; wealth is a **stock**. Do not mix them up.
 - Inequality is about the gap between groups; poverty is about having too little. A country can reduce poverty while inequality rises.

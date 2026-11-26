@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.3-study-guide"
 title: "Expressions and Output: Study Guide (Computer Science A 1.3)"
 description: "Learn to display output with print and println, write string literals with escape sequences, and evaluate arithmetic expressions including integer division, remainder and precedence."
+seoDescription: "Computer Science A study guide to output with print and println, escape sequences, and arithmetic with integer division, remainder and operator precedence."
 course: "computer-science-a"
 unit: 1
 topics: ["1.3"]

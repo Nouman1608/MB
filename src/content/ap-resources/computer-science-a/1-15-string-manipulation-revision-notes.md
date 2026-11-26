@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.15-revision-notes"
 title: "String Manipulation: Revision Notes (Computer Science A 1.15)"
 description: "A one-page recap of String objects, immutability, concatenation, indices, the String methods length, substring, indexOf, equals and compareTo, and out-of-range errors."
+seoDescription: "One-page Computer Science A recap of String objects, immutability, concatenation, indices, length, substring, indexOf, equals, compareTo and range errors."
 course: "computer-science-a"
 unit: 1
 topics: ["1.15"]

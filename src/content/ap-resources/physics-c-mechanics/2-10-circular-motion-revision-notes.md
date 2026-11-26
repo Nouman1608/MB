@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.10-revision-notes"
 title: "Circular Motion: Revision Notes (Physics C: Mechanics 2.10)"
 description: "One-page recap of circular motion: centripetal and tangential acceleration, period and frequency, loops, banked curves with friction, conical pendulums and Kepler's third law."
+seoDescription: "One-page Physics C: Mechanics recap of circular motion: centripetal and tangential acceleration, conical pendulums and Kepler's third law."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.10"]

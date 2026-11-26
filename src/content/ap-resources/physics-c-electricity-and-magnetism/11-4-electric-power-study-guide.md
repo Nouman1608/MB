@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-11.4-study-guide"
 title: "Electric Power: Study Guide (Physics C: E&M 11.4)"
 description: "Calculus-based guide to electric power: deriving P = IΔV, the forms I²R and ΔV²/R, predicting bulb brightness, electrical and mechanical energy in motors, and integrating power over time."
+seoDescription: "Physics C: E&M calculus-based guide to electric power: deriving P = IΔV, I²R and ΔV²/R, bulb brightness, energy in motors and integrating power over time."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.4"]

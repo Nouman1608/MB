@@ -126,6 +126,9 @@ export function buildPracticeBank(): PracticeQuestion[] {
 
     const resourceType = parseFrontmatterField(fm, 'resourceType');
     if (resourceType !== 'practice-questions') continue;
+    // A draft resource is not routed (collections.ts), so its questions must not
+    // reach the live /practice/ bank either. Hidden drafts stay hidden.
+    if (parseFrontmatterField(fm, 'reviewStatus') === 'draft') continue;
 
     const syllabusCodes = parseArrayField(fm, 'syllabusCodes');
     if (!syllabusCodes.some((c) => flagshipCodes.has(c))) continue;

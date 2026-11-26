@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-13.2-study-guide"
 title: "Images Formed by Mirrors: Study Guide (Physics 2 13.2)"
 description: "Locate and describe images in plane, concave and convex mirrors using focal points, the three principal rays, the mirror equation, sign conventions and magnification."
+seoDescription: "Physics 2 study guide to mirror images: locating images in plane, concave and convex mirrors with principal rays, the mirror equation and magnification."
 course: "physics-2"
 unit: 13
 topics: ["13.2"]

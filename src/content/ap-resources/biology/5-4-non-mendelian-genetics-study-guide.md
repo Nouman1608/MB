@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-5.4-study-guide"
 title: "Non-Mendelian Genetics: Study Guide (Biology 5.4)"
 description: "Why some traits break Mendel's ratios: linked genes and gene mapping, sex-linked traits, incomplete dominance, codominance, pleiotropy and maternal inheritance of mitochondria and chloroplasts."
+seoDescription: "Biology study guide to non-Mendelian inheritance: linked genes and mapping, sex linkage, incomplete dominance, pleiotropy and maternal inheritance."
 course: "biology"
 unit: 5
 topics: ["5.4"]

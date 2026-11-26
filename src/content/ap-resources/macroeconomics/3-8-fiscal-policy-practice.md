@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-3.8-practice"
 title: "Fiscal Policy: Practice Questions (Macroeconomics 3.8)"
 description: "Seven original Marlbridge practice questions on fiscal policy tools, closing recessionary and inflationary gaps with spending and tax multipliers, AD–AS graphs and policy lags, with suggested rubrics."
+seoDescription: "Seven Macroeconomics practice questions on fiscal policy tools, closing gaps with spending and tax multipliers, AD-AS graphs and policy lags, with rubrics."
 course: "macroeconomics"
 unit: 3
 topics: ["3.8"]

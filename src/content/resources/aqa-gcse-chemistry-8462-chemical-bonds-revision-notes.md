@@ -95,6 +95,11 @@ usually drops a mark.
   through the whole structure, not of a pair between two atoms.
 - **Electron direction.** In ionic bonding, electrons go **from the metal to the non-metal**.
 - **Naming the force.** "Strong bond" is not an explanation; "strong electrostatic attraction between…" is.
+- Giving the bond type without the reason when the question says "explain how you know".
+- Stating "they share electrons" without the word **pair** for covalent bonds.
+- Describing metallic bonding with negative ions.
+- Writing that ionic forces act "between each pair of ions"; they act in all directions.
+- Listing argon or neon as covalent.
 
 ## Quick self-test
 
@@ -126,14 +131,6 @@ usually drops a mark.
 11. Both involve strong electrostatic attraction between positive metal ions and negative charge (or
     both give giant structures).
 12. Ionic bonding involves ions; covalent bonding involves atoms sharing a pair of electrons.
-
-## Where marks are usually lost
-
-- Giving the bond type without the reason when the question says "explain how you know".
-- Stating "they share electrons" without the word **pair** for covalent bonds.
-- Describing metallic bonding with negative ions.
-- Writing that ionic forces act "between each pair of ions"; they act in all directions.
-- Listing argon or neon as covalent.
 
 ## More on this topic
 

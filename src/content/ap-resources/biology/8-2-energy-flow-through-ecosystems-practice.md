@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-8.2-practice"
 title: "Energy Flow Through Ecosystems: Practice Questions (Biology 8.2)"
 description: "Seven original Marlbridge practice questions on nutrient cycles, trophic transfers, chemosynthesis, endotherms and ectotherms, energy budgets, carbon dioxide data and changes in energy supply."
+seoDescription: "Seven Biology practice questions on nutrient cycles, trophic transfer, chemosynthesis, endotherms and ectotherms, energy budgets and carbon dioxide data."
 course: "biology"
 unit: 8
 topics: ["8.2"]

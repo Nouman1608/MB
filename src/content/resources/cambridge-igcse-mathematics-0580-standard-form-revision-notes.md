@@ -93,6 +93,11 @@ Example, smallest first: 6 × 10⁻⁵, 2 × 10⁻⁴, 0.0003, 1.5 × 10⁻⁴ �
 - After multiplying, A may reach 10 or more; after dividing, A may drop below 1. Always fix it.
 - "Write as an ordinary number" means no powers of 10 in the answer.
 - Core: standard form calculations are expected on Paper 3 only, but conversions can appear on Paper 1.
+- Correct value, wrong form (A outside 1 ⩽ A < 10).
+- Sign of n wrong for small numbers.
+- Adding powers when adding numbers.
+- Not converting units before dividing in context questions.
+- Rounding the ordinary number to 3 s.f. but then writing A with the wrong power.
 
 ## Quick self-test
 
@@ -123,14 +128,6 @@ Example, smallest first: 6 × 10⁻⁵, 2 × 10⁻⁴, 0.0003, 1.5 × 10⁻⁴ �
 10. 3.6 × 10⁻³, 0.035, 4 × 10⁻²
 11. 233 333 333 333.3… = 2.33 × 10¹¹
 12. 1 cm = 10⁻² m; 10⁻² ÷ (2 × 10⁻⁶) = 0.5 × 10⁴ = 5 × 10³ = 5000
-
-## Where marks are usually lost
-
-- Correct value, wrong form (A outside 1 ⩽ A < 10).
-- Sign of n wrong for small numbers.
-- Adding powers when adding numbers.
-- Not converting units before dividing in context questions.
-- Rounding the ordinary number to 3 s.f. but then writing A with the wrong power.
 
 ## Frequently asked questions
 

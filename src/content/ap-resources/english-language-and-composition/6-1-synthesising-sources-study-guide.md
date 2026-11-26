@@ -3,6 +3,7 @@ resourceId: mb-ap-englang-6.1-study-guide
 title: 'Synthesising Material from Several Sources: Study Guide (English Language 6.1)'
 seoTitle: "English Language 6.1 Synthesising Several Sources Guide"
 description: 'How writers synthesise sources: selecting the most relevant material, combining it with their own claim, integrating quotation, paraphrase and summary, and keeping their own argument in charge.'
+seoDescription: "English Language study guide to synthesising sources: selecting relevant material, combining it with your claim and integrating quotation and paraphrase."
 course: english-language-and-composition
 unit: 6
 topics:

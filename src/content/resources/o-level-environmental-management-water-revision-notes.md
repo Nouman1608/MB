@@ -98,7 +98,7 @@ sediment trapped behind the dam and high construction cost.
   <figcaption>A 120 square metre roof with 650 mm of rain collects 62.4 cubic metres a year at 80 per cent, which is 62,400 litres or 171 litres a day.</figcaption>
 </figure>
 
-## 3.2 Checklist: water pollution
+**3.2 Checklist: water pollution**
 
 | Source | Impact |
 |---|---|
@@ -119,7 +119,7 @@ sediment trapped behind the dam and high construction cost.
   <figcaption>Nutrients cause an algae bloom that blocks light; plants and algae die, bacteria use up oxygen, and fish die.</figcaption>
 </figure>
 
-## 3.3 Checklist: malaria and cholera
+**3.3 Checklist: malaria and cholera**
 
 **Malaria**: vector = **female Anopheles mosquito**; parasite = **Plasmodium**, passed to humans in a bite and
 back to uninfected mosquitoes when they feed on infected blood.
@@ -136,7 +136,7 @@ Malaria is spread by a vector; cholera is spread by contaminated water - so thei
   <figcaption>Cholera and typhoid spread through water contaminated by human waste; malaria spreads by mosquitoes breeding in standing water.</figcaption>
 </figure>
 
-## 3.4 Checklist: exploitation and marine aquaculture
+**3.4 Checklist: exploitation and marine aquaculture**
 
 - **Exploitation impacts**: overfishing and overharvesting; effects on target and **bycatch** species;
   disrupted food chains.
@@ -152,7 +152,7 @@ Malaria is spread by a vector; cholera is spread by contaminated water - so thei
   <figcaption>Floating cages release waste that enriches the water, disease and parasites can spread to wild fish, escapees can breed with wild fish, and siting where currents disperse waste helps.</figcaption>
 </figure>
 
-## 3.5 Checklist: oil pollution
+**3.5 Checklist: oil pollution**
 
 - **Causes**: offshore and onshore extraction; pipelines; shipping; cleaning tanks at sea; refineries.
 - **Impacts on**: birds (oiled feathers lose insulation and buoyancy); marine mammals; fish; crustaceans;
@@ -167,7 +167,7 @@ Malaria is spread by a vector; cholera is spread by contaminated water - so thei
   <figcaption>Booms contain a slick but fail in rough seas, skimmers collect oil, dispersants break it into droplets, and prevention is best.</figcaption>
 </figure>
 
-## 3.6 Checklist: plastic pollution
+**3.6 Checklist: plastic pollution**
 
 | Type | Key point |
 |---|---|

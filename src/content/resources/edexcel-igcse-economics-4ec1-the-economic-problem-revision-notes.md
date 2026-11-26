@@ -105,6 +105,11 @@ Opportunity cost per unit = units of good B given up ÷ units of good A gained.
 - Scarcity is not poverty or lack of money.
 - Unlabelled axes lose marks even with a correct curve.
 - Divide by the units gained when working out opportunity cost per unit.
+- One-part definitions where two parts are needed.
+- Giving all forgone options as the opportunity cost.
+- Confusing unemployed resources with unobtainable output.
+- Drawing a shift as a movement along the curve.
+- Stating a cause of growth with no link to resources or the PPF.
 
 ## Command words
 
@@ -143,14 +148,6 @@ Opportunity cost per unit = units of good B given up ÷ units of good A gained.
 10. (60 − 48) ÷ (8 − 4) = 12 ÷ 4 = **3 units of clothing**.
 11. The schools that could have been built with the 50 million.
 12. More capital goods increase the quantity of capital, so more can be produced; productive potential rises and the PPF shifts outwards.
-
-## Where marks are usually lost
-
-- One-part definitions where two parts are needed.
-- Giving all forgone options as the opportunity cost.
-- Confusing unemployed resources with unobtainable output.
-- Drawing a shift as a movement along the curve.
-- Stating a cause of growth with no link to resources or the PPF.
 
 ## Official syllabus
 

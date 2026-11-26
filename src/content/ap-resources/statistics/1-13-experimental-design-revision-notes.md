@@ -2,6 +2,7 @@
 resourceId: "mb-ap-stats-1.13-revision-notes"
 title: "Experimental Design: Revision Notes (Statistics 1.13)"
 description: "One-page recap of the four principles of experimental design, placebos, blinding, confounding, block and matched pairs designs, and the scope of conclusions, with the mistakes that cost marks."
+seoDescription: "One-page Statistics recap of experimental design: the four principles, placebos, blinding, confounding and the scope of conclusions."
 course: "statistics"
 unit: 1
 topics: ["1.13"]

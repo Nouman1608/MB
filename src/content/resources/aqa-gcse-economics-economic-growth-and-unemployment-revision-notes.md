@@ -106,7 +106,7 @@ Year 3 growth = (103 − 104) ÷ 104 × 100 = **−0.96%**, so output fell. The 
 
 **5. Per capita growth.** Real GDP rises by 2% and the population by 1%. Output per person rises by about 1% (exactly 1.02 ÷ 1.01 = 1.0099, a rise of 0.99%).
 
-### Exam traps (growth)
+### Slips to avoid: growth
 
 - A fall in the growth rate (say from 3% to 1%) is **still growth**. Output only falls when the rate is negative.
 - Nominal GDP can rise purely because prices rose. Always ask whether a figure is real or nominal.
@@ -184,7 +184,7 @@ Labour force = 31.2 + 1.3 = 32.5 million. Rate = 1.3 ÷ 32.5 × 100 = **4.0%**.
 
 **3. Percentage points.** The rate falls from 5.0% to 4.8%: that is 0.2 percentage points, or a 4% fall in the rate (0.2 ÷ 5.0 × 100).
 
-### Exam traps (unemployment)
+### Slips to avoid: unemployment
 
 - Divide by the **labour force**, not the whole population.
 - Students and retired people are economically inactive, not unemployed.

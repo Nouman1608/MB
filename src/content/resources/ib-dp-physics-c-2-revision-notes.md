@@ -117,6 +117,9 @@ echo: distance to reflector = vt/2
 - Echo distance not halved.
 - Unit prefixes: MHz = 10⁶ Hz, GHz = 10⁹ Hz, nm = 10⁻⁹ m.
 - "Sound travels as particles moving to the listener."
+- Missing units or prefixes in v = fλ calculations.
+- Describing particle direction without reference to the direction of travel.
+- Giving a region of the EM spectrum without calculating λ first.
 
 ## Quick self-test
 
@@ -147,12 +150,6 @@ echo: distance to reflector = vt/2
 10. 1500 × 0.20 / 2 = **150 m**.
 11. At a point of zero displacement, with neighbours displaced towards it.
 12. v_max = 2π × 50 × 2.0 × 10⁻³ = **0.63 m s⁻¹**.
-
-## Where marks are usually lost
-
-- Missing units or prefixes in v = fλ calculations.
-- Describing particle direction without reference to the direction of travel.
-- Giving a region of the EM spectrum without calculating λ first.
 
 ## Official syllabus
 

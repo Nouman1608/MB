@@ -107,6 +107,9 @@ These notes condense **3.2.7 Work, energy and power** from the OxfordAQA Interna
 - Time left in minutes or hours in P = W/t.
 - Resultant force used in P = Fv for engine power (use driving force).
 - Efficiency over 100% or given a unit.
+- Not stating which angle is θ in a diagram-based question.
+- Counting squares without stating what one square is worth.
+- Explanations of top speed that mention resistance but not the falling driving force.
 
 ## Quick self-test
 
@@ -137,12 +140,6 @@ These notes condense **3.2.7 Work, energy and power** from the OxfordAQA Interna
 10. 2.0 ÷ 0.80 = **2.5 kW**.
 11. At fixed power the driving force P/v falls as speed rises, while resistance rises; when they are equal the resultant force is zero, so the car cannot accelerate further.
 12. **kg m² s⁻³**.
-
-## Where marks are usually lost
-
-- Not stating which angle is θ in a diagram-based question.
-- Counting squares without stating what one square is worth.
-- Explanations of top speed that mention resistance but not the falling driving force.
 
 ## Specification reference
 

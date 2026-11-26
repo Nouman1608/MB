@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-5.1-study-guide"
 title: "Rotational Kinematics: Study Guide (Physics 1 5.1)"
 description: "Describe rotation with angular displacement, angular velocity and angular acceleration in radians, use the constant-angular-acceleration equations and read angle and angular velocity graphs."
+seoDescription: "Physics 1 study guide to rotational kinematics: angular displacement, constant-acceleration equations and angle and angular velocity graphs."
 course: "physics-1"
 unit: 5
 topics: ["5.1"]

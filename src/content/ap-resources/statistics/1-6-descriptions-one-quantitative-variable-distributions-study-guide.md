@@ -3,6 +3,7 @@ resourceId: "mb-ap-stats-1.6-study-guide"
 title: "Descriptions for One Quantitative Variable Distributions: Study Guide (Statistics 1.6)"
 seoTitle: "Statistics 1.6 Describing Quantitative Distributions Guide"
 description: "Learn to describe a quantitative distribution by its shape, centre, variability and unusual features (outliers, gaps, clusters) in context, and to use a graph to support or reject a claim."
+seoDescription: "Statistics study guide to describing a quantitative distribution by shape, centre, variability and unusual features, and using a graph to test a claim."
 course: "statistics"
 unit: 1
 topics: ["1.6"]

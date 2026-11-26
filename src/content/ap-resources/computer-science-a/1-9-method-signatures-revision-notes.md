@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.9-revision-notes"
 title: "Method Signatures: Revision Notes (Computer Science A 1.9)"
 description: "A one-page recap of methods, parameters and arguments, method signatures, void and non-void methods, call by value, overloading and the flow of control in a method call."
+seoDescription: "One-page Computer Science A recap of methods, parameters and arguments, signatures, void and non-void methods, overloading and flow of control."
 course: "computer-science-a"
 unit: 1
 topics: ["1.9"]

@@ -3,6 +3,7 @@ resourceId: "mb-ap-stats-exam-skills-communicating-conclusions"
 title: "Communicating Statistics: Context, Conditions and Conclusions: Exam Skills Guide (Statistics)"
 seoTitle: "Statistics Context, Conditions and Conclusions Exam Skills"
 description: "How to describe data in context, name and check conditions, set out inference in four steps and write conclusions about intervals, tests and regression without overclaiming."
+seoDescription: "Statistics exam skills: describing data in context, checking conditions, four-step inference and conclusions about intervals, tests and regression."
 course: "statistics"
 unit: 1
 topics: []

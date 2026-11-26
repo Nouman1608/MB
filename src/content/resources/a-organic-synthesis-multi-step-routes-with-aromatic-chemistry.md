@@ -198,7 +198,7 @@ routes to the same target often exist — a route is correct if every step
 uses a genuine reaction from the syllabus with compatible reagents and
 conditions, not because it matches one specific "intended" answer.
 
-## Quick revision checklist
+## Quick revision points to check
 
 - Same planning method as AS: identify functional-group changes needed,
   choose reactions, check compatibility and order

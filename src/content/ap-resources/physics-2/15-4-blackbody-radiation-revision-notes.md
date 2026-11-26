@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-15.4-revision-notes"
 title: "Blackbody Radiation: Revision Notes (Physics 2 15.4)"
 description: "One-page recap of thermal radiation, the blackbody model and curve, Planck's quantum assumption, Wien's law λ_max = b/T and the Stefan–Boltzmann law P = σAT⁴."
+seoDescription: "One-page Physics 2 recap of blackbody radiation: the blackbody curve, Planck's quantum assumption, Wien's law λmax = b/T and the Stefan-Boltzmann law P = σAT⁴."
 course: "physics-2"
 unit: 15
 topics: ["15.4"]

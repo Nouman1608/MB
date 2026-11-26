@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-6.5-study-guide"
 title: "Regulation of Gene Expression: Study Guide (Biology 6.5)"
 description: "How cells switch genes on and off: regulatory sequences and proteins, constitutive and inducible genes, the lac and trp operons, coordinate control in eukaryotes, and epigenetic marks on DNA and histones."
+seoDescription: "Biology study guide to gene regulation: regulatory sequences and proteins, the lac and trp operons, coordinate control in eukaryotes and epigenetic marks."
 course: "biology"
 unit: 6
 topics: ["6.5"]

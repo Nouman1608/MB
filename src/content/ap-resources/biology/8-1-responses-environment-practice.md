@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-8.1-practice"
 title: "Responses to the Environment: Practice Questions (Biology 8.1)"
 description: "Seven original Marlbridge practice questions on taxis and kinesis, choosing controls, chi-square, photoperiod experiments, alarm calls, mating signals and plant responses to herbivores."
+seoDescription: "Seven Biology practice questions on taxis and kinesis, controls, chi-square, photoperiod, alarm calls, mating signals and plant responses to herbivores."
 course: "biology"
 unit: 8
 topics: ["8.1"]

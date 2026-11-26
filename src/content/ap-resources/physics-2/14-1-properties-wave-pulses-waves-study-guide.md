@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-14.1-study-guide"
 title: "Properties of Wave Pulses and Waves: Study Guide (Physics 2 14.1)"
 description: "What a wave is and what it carries: pulses and continuous waves, mechanical and electromagnetic waves, transverse and longitudinal motion, wave speed on a string, sound and amplitude."
+seoDescription: "Physics 2 study guide to wave pulses and waves: mechanical and electromagnetic waves, transverse and longitudinal motion, sound and amplitude."
 course: "physics-2"
 unit: 14
 topics: ["14.1"]

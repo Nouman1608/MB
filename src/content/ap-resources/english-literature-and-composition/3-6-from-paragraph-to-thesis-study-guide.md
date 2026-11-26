@@ -3,6 +3,7 @@ resourceId: "mb-ap-englit-3.6-study-guide"
 title: "From Claim-and-Evidence Paragraph to Defensible Thesis: Study Guide (English Literature 3.6)"
 seoTitle: "English Literature 3.6 Defensible Thesis Study Guide"
 description: "Learn how to move from a paragraph claim to a thesis statement that expresses a defensible interpretation of a literary text and can preview a line of reasoning, with weak-to-strong examples."
+seoDescription: "English Literature study guide to moving from a paragraph claim to a thesis: a defensible interpretation of a literary text that previews a line of reasoning."
 course: "english-literature-and-composition"
 unit: 3
 topics: ["3.6"]

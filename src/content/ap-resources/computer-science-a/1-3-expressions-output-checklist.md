@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.3-checklist"
 title: "Expressions and Output: Checklist (Computer Science A 1.3)"
 description: "A self-check list for print and println, escape sequences, integer division, the remainder operator and operator precedence, linked to the guide and practice questions."
+seoDescription: "Computer Science A self-check list for print and println, escape sequences, integer division, the remainder operator and operator precedence."
 course: "computer-science-a"
 unit: 1
 topics: ["1.3"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-7.10-study-guide"
 title: "Speciation: Study Guide (Biology 7.10)"
 description: "Learn the biological species concept, the barriers that keep species apart, allopatric and sympatric speciation, gradualism and punctuated equilibrium, adaptive radiation and convergent evolution."
+seoDescription: "Biology study guide to speciation: reproductive barriers, allopatric and sympatric speciation, gradualism and punctuated equilibrium, and adaptive radiation."
 course: "biology"
 unit: 7
 topics: ["7.10"]

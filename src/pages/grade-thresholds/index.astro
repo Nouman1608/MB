@@ -12,7 +12,7 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import { thresholdsByCode, seriesCovered, seriesPhrase, thresholdProblems, GRADE_SCALE_BY_BOARD, BOARD_ORDER } from '../../data/academic/grade-thresholds.ts';
+import { thresholdsByCode, seriesCovered, seriesPhrase, thresholdProblems, GRADE_SCALES, scaleOf, BOARD_ORDER } from '../../data/academic/grade-thresholds.ts';
 import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
 import { getCollection } from 'astro:content';
@@ -28,6 +28,7 @@ const SERIES = seriesPhrase(seriesCovered());
 const BOARD_GROUPS = BOARD_ORDER.map((board) => ({ board, groups: BY_CODE.filter((g) => g.board === board) })).filter((b) => b.groups.length > 0);
 const BOARDS_PHRASE = BOARD_GROUPS.map((b) => b.board).join(' and ');
 const SPEC_COUNT = BY_CODE.length;
+const IAL_AS_GRADES = ['A', 'B', 'C', 'D', 'E'] as const;
 
 // Past-papers guides (resourceType "past-papers") hold the earlier series'
 // thresholds; list them here so this page links every one of them.
@@ -42,7 +43,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
   path={path}
   eyebrow="Free tool"
   heading="Grade threshold explorer"
-  lead={`The minimum mark needed for each grade in the ${SERIES} series, for ${SPEC_COUNT} specifications from ${BOARDS_PHRASE} -- copied directly from each exam board's own official grade-threshold or grade-boundary documents, not estimated. Each table lists the paper-combination routes the board published for that specification, so you can find your own exact combination rather than a single "representative" one. Cambridge AS & A Level Chemistry (9701) and Physics (9702): the staged-assessment routes (AS and A2 papers sat in different series) are not reproduced -- see the note under those tables. Cambridge figures are syllabus grade thresholds out of Cambridge's maximum weighted mark, derived by Cambridge from the weighted component thresholds. Pearson Edexcel International GCSE figures are the overall raw-mark grade boundaries for the whole qualification (9 to 1). Neither is a percentage uniform mark.`}
+  lead={`The minimum mark needed for each grade in the ${SERIES} series, for ${SPEC_COUNT} specifications from ${BOARDS_PHRASE} -- copied directly from each exam board's own official grade-threshold or grade-boundary documents, not estimated. Where a board publishes several paper-combination routes for one specification, each table lists them, so you can find your own exact combination rather than a single "representative" one. Cambridge AS & A Level Chemistry (9701) and Physics (9702): the staged-assessment routes (AS and A2 papers sat in different series) are not reproduced -- see the note under those tables. Cambridge figures are syllabus grade thresholds out of Cambridge's maximum weighted mark, derived by Cambridge from the weighted component thresholds. Pearson Edexcel International GCSE figures are the overall raw-mark grade boundaries for the whole qualification (grades 9 to 1). Pearson Edexcel International AS and A Level qualifications are modular, so their figures are the raw-mark boundaries for each unit. None of these is a percentage uniform mark.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Grade thresholds', href: path },
@@ -73,9 +74,44 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
         {BY_CODE.map((group) => (
           <div class="mb-gt-panel" data-code={group.code}>
             <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{group.board === 'Pearson Edexcel' ? 'Edexcel ' : ''}{group.qualificationLabel} {group.subjectLabel} <span class="font-mono text-[16px] font-normal text-ink-mute">({group.code})</span></h2>
-            {group.records.map((g, ri) => { const gradeOrder = GRADE_SCALE_BY_BOARD[g.board]; return (<div class={ri > 0 ? 'mt-10' : ''} data-series={g.series}>
+            {group.records.map((g, ri) => { const gradeOrder = GRADE_SCALES[scaleOf(g)]; return (<div class={ri > 0 ? 'mt-10' : ''} data-series={g.series}>
             <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{g.board} · {g.series} series</p>
 
+            {g.units ? (
+              <div class="flex flex-col gap-8">
+                {(['AS', 'A2'] as const).map((level) => { const units = (g.units ?? []).filter((u) => u.level === level); const cols = level === 'A2' ? GRADE_SCALES['edexcel-ial'] : IAL_AS_GRADES; return units.length > 0 && (
+                  <div>
+                    <h3 class="m-0 mb-3 text-[15px] font-semibold text-navy-800">International {level === 'AS' ? 'AS' : 'A2'} units</h3>
+                    <div class="overflow-x-auto rounded-sm border border-rule">
+                      <table class="w-full min-w-[620px] border-collapse text-[13.5px]">
+                        <thead>
+                          <tr class="border-b border-rule bg-ivory">
+                            <th class="px-4 py-3 text-left font-medium text-navy-800">Unit</th>
+                            <th class="px-3 py-3 text-right font-medium text-navy-800">Max mark (raw)</th>
+                            <th class="px-3 py-3 text-right font-medium text-navy-800">Max UMS</th>
+                            {cols.map((grade) => (
+                              <th class="px-3 py-3 text-right font-medium text-navy-800">{grade}</th>
+                            ))}
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {units.map((u, i) => (
+                            <tr class={i % 2 === 1 ? 'bg-ivory/50' : ''}>
+                              <td class="px-4 py-3 text-ink-mute"><span class="font-mono text-[12.5px]">{u.unit}</span> {u.label}</td>
+                              <td class="px-3 py-3 text-right font-medium text-navy-800">{u.maxRaw}</td>
+                              <td class="px-3 py-3 text-right text-ink-mute">{u.maxUms}</td>
+                              {cols.map((grade) => (
+                                <td class="px-3 py-3 text-right text-navy-800">{u.raw[grade] ?? '—'}</td>
+                              ))}
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                ); })}
+              </div>
+            ) : (
             <div class="overflow-x-auto rounded-sm border border-rule">
               <table class="w-full min-w-[520px] border-collapse text-[13.5px]">
                 <thead>
@@ -101,11 +137,15 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
               </table>
             </div>
 
+            )}
+
             {g.note && <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">{g.note}</p>}
 
             <p class="m-0 mt-3 text-[13px] text-ink-mute">
-              Sourced directly from {g.board}'s official {g.board === 'Cambridge' ? 'grade-threshold' : 'grade-boundary'} document for {g.code}, {g.series}, verified {g.verifiedOn} —
-              {' '}<a href={g.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{g.board === 'Cambridge' ? 'view the original PDF' : "view Pearson's grade-boundaries page"}</a>.
+              {g.sourceDocument
+                ? <>Source: {g.board}, "{g.sourceDocument}", {g.series} series, PDF page {g.sourcePage}; verified {g.verifiedOn}.</>
+                : <>Sourced directly from {g.board}'s official grade-threshold document for {g.code}, {g.series}, verified {g.verifiedOn}.</>}
+              {' '}<a href={g.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{g.board === 'Cambridge' ? 'View the original PDF' : "View Pearson's grade-boundaries page"}</a>.
             </p>
             </div>); })}
           </div>

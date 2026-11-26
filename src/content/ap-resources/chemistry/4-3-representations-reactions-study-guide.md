@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-4.3-study-guide"
 title: "Representations of Reactions: Study Guide (Chemistry 4.3)"
 description: "Learn to turn balanced equations into consistent particle diagrams, and to read before-and-after diagrams back into equations, for reactions, solutions and physical changes."
+seoDescription: "Chemistry study guide to particle diagrams of reactions: turning balanced equations into diagrams and reading before-and-after diagrams back into equations."
 course: "chemistry"
 unit: 4
 topics: ["4.3"]

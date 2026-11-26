@@ -2,6 +2,7 @@
 resourceId: "mb-ap-micro-6.5-revision-notes"
 title: "Inequality: Revision Notes (Microeconomics 6.5)"
 description: "One-page recap of inequality: income versus wealth, poverty rates, reading Lorenz curves and Gini coefficients, tax structures and the main sources of inequality, with the mistakes that cost marks."
+seoDescription: "One-page Microeconomics recap of inequality: income versus wealth, poverty rates, Lorenz curves and Gini coefficients, tax structures and sources of inequality."
 course: "microeconomics"
 unit: 6
 topics: ["6.5"]

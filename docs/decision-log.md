@@ -16991,3 +16991,36 @@ Implementation of D-531 to D-539 is on the local branch `owner-decisions-1`, not
 - **DP Computer Science (2014).** Keep "withdrawn, no longer assessable" on the subject page.
 - **O Level Economics 0455.** Sweep every O Level Economics resource; change a "0455" citation only where the 2281 syllabus confirms the wording, otherwise neutral wording.
 - **Thin-course pilot follow-up.** Write the Pakistan Studies 2059 Key Question 1 to 5 study guide and revision notes first, from the specification and existing pages, for teacher review. OCR J204 practice sets after.
+
+## D-543 - Owner decisions round 2: content, past papers, scope, other work (26 Nov 2026, 14:20 PKT)
+
+Branch `owner-decisions-2`. Answers given in chat to AskUserQuestion rounds 1 to 4.
+
+- **D-543a AP meta descriptions (item 10).** Apply all 312 drafts (all pass: unique, 120 to 165 characters, full sentence, no underscores).
+- **D-543b Singapore IB article (item 11).** Only English is taught: no French, German, Spanish or other language is offered for DP Language B or MYP Language Acquisition. The article must say so and must not imply otherwise. Publish once facts are confirmed; decide with the owner whether it replaces `ib-tuition-in-singapore-online`. No reviewer named unless the owner gives one.
+- **D-543c IAL Maths D1 (item 17).** Add WDM11 (WDM11/01) where the other unit codes are shown. Source: Pearson exam papers for WDM11/01 and the June 2026 boundary document.
+- **D-543d Market-failure figure (item 18).** The owner asked Claude to look at the image. `igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp` shows no "0455" and is already neutral; no redraw. Its "Five causes" subtitle is Cambridge-specific and is used on AQA, OCR and OxfordAQA pages: check those captions.
+- **D-543e Past papers (item 12).** Link to the boards' own sites; do not host past papers. No manifest, no PDFs in R2, papers.marlbridge.com is **not** connected. The editorial-policy sentence about hosting stays true.
+- **D-543f Qur'an and Pakistan Studies drafts (items 13, 14).** Reviewer: the Islamiyat teacher at Learners Academy. One PDF pack per set (drafts plus the 10 review questions). Name and credentials to be supplied by the owner after the review.
+- **D-543g UAE facts (item 15).** The owner shared a Drive folder "UAE Education Facts - KHDA and ADEK". It holds one list of five official links; the KHDA PDFs returned 403 and the ADEK PDF 404. Claude reads the public KHDA and ADEK pages and drafts only facts it can cite, for approval.
+- **D-543h Edexcel boundaries (item 16).** Add June 2026 only (IGCSE overall and IAL), with a 9 to 1 grade type, per-unit raw and UMS for IAL and Cambridge-neutral page wording.
+- **D-543i Thin courses (item 19).** Fill the top six by Search Console demand (MYP Language Acquisition, Cambridge A Level English Literature, O Level Islamiyat, DP Language B, Edexcel IGCSE English Language, IGCSE Islamiyat), three resources per thin topic, hidden for teacher review. Language courses stay English only.
+- **D-543j Contradictions (item 20).** Check each source; both page quotes and the source quote side by side in the report; fix the wrong pages; anything the source cannot settle returns to the owner. Includes Economics 9708.
+- **D-543k Filler blocks (item 21).** Clean the 73 and 31 page cases now; keep warning on the 1,212.
+- **D-543l Islamiyat (RA) (item 31).** No question: add (RA) after Zaynab, Ruqayya and Umm Kulthum in the 2058 descendants table and check the other Islamiyat pages.
+- **D-543m Journal (item 32).** Rewrite the six location articles with sourced local content, then one new article a week, first topics from Search Console queries.
+- **D-543n Browser items (items 33, 34, 36).** Claude in Chrome did not connect and the built-in pane is not signed in; the owner reconnects Chrome. Nothing submitted, sent or posted without a fresh yes.
+- **D-543o Exam-style question sets (item 37).** Demand-ranked list of 20 topics; 3 sets a week; named subject-teacher review before publishing; first three drafted hidden.
+
+## D-544 - Owner decisions, follow-ups (26 Nov 2026, 15:40 PKT)
+
+- **D-544a Search Console indexing.** Owner said yes to requesting indexing. Requested in the owner's signed-in Search Console for five URLs: the homepage, /boards/ib/ib-myp/myp-language-acquisition/, /boards/cambridge/a-level/english-literature/, /boards/cambridge/o-level/islamiyat/, /boards/ib/ib-dp/language-b/. Search Console confirmed "Indexing requested" for each. No other URL requested; the sitemap was already submitted on 22 Nov.
+- **D-544b Singapore article.** Merge the unique parts of the hidden draft into the live `ib-tuition-in-singapore-online` article and delete the draft.
+- **D-544c UAE facts.** The eight draft facts are approved and are added to the UAE market page, with the wording that Marlbridge does not teach the Ministry of Education subjects.
+- **D-544d Journal claims.** An agent verifies the four regulator sentences and five unsourced intro claims in the location articles and corrects or sources them.
+- **D-544e Question sets.** The 20-topic list and 3-a-week pace are approved. First three sets (9709 Differentiation, 9709 Statistics, 9701 Equilibrium Kc) drafted as hidden pages. Reviewer: "the subject teacher", no name given, so the reviewer field stays blank and the pages cannot be published.
+- **D-544f Review packs.** The owner reports the Islamiyat teacher has reviewed the packs, but no name, credentials, corrections or signed pack have been supplied. The drafts stay hidden and no reviewer is credited until the name and the teacher's corrections are provided.
+
+## D-545 - Duplicate-scope gate skips hidden drafts (26 Nov 2026, 16:30 PKT)
+
+Owner chose to skip hidden drafts in `scripts/check-duplicate-resource-scope.mjs`. A resource with `reviewStatus: "draft"` is not routed, built or listed in the sitemap, so it cannot compete for a scope; the check applies once it is reviewed and published. The three hidden exam-style question sets (9709 differentiation, 9709 discrete random variables, 9701 Kc/Kp) are back in `src/content/resources/`.

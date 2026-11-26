@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-14.5-revision-notes"
 title: "The Doppler Effect: Revision Notes (Physics 2 14.5)"
 description: "One-page recap of the Doppler effect: rest versus observed frequency, approaching and receding sources, no shift at equal velocity, passing sources, and red and blue shift."
+seoDescription: "One-page Physics 2 recap of the Doppler effect: rest versus observed frequency, approaching and receding sources and red and blue shift."
 course: "physics-2"
 unit: 14
 topics: ["14.5"]

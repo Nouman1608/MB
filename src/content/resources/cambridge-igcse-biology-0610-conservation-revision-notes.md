@@ -108,6 +108,11 @@ Finish each with "so deaths exceed births and numbers fall".
 - **(Extended) "Bigger mesh catches fewer fish".** Say young fish escape and survive to breed.
 - **(Extended) AI and IVF swapped.** AI: sperm into female. IVF: fertilisation in the laboratory.
 - **(Extended) Genetic drift.** Not required; explain using reduced variation.
+- Writing "will not run out" without "produced as rapidly as it is removed".
+- Naming a cause of endangerment with no effect on the population.
+- Describing seed banks without saying the seeds are stored so they can be grown later.
+- (Extended) Giving conservation methods for forests when fish are asked for, or the reverse.
+- (Extended) Explaining small-population risk with no mention of alleles or variation.
 
 ## Self-test
 
@@ -138,14 +143,6 @@ Finish each with "so deaths exceed births and numbers fall".
 10. Sperm is collected from a male and inserted into a female; frozen sperm can be transported between zoos.
 11. Eggs are collected and fertilised by sperm outside the body; the embryos are placed into a female to develop.
 12. Reduced genetic variation means few individuals have alleles to survive a new disease or environmental change, so the species may become extinct.
-
-## Where marks are usually lost
-
-- Writing "will not run out" without "produced as rapidly as it is removed".
-- Naming a cause of endangerment with no effect on the population.
-- Describing seed banks without saying the seeds are stored so they can be grown later.
-- (Extended) Giving conservation methods for forests when fish are asked for, or the reverse.
-- (Extended) Explaining small-population risk with no mention of alleles or variation.
 
 ## Official syllabus
 

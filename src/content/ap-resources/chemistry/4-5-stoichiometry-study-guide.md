@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-4.5-study-guide"
 title: "Stoichiometry: Study Guide (Chemistry 4.5)"
 description: "Use balanced equations as mole ratios to calculate amounts of reactants and products, find the limiting reactant, and combine stoichiometry with gas and solution data."
+seoDescription: "Chemistry study guide to stoichiometry: mole ratios from balanced equations, limiting reactant, and combining stoichiometry with gas and solution data."
 course: "chemistry"
 unit: 4
 topics: ["4.5"]

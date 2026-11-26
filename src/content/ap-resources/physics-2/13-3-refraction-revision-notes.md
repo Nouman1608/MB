@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-13.3-revision-notes"
 title: "Refraction: Revision Notes (Physics 2 13.3)"
 description: "One-page recap of refraction: n = c/v, Snell's law with angles from the normal, toward and away from the normal, graphing sines, and total internal reflection."
+seoDescription: "One-page Physics 2 recap of refraction: n = c/v, Snell's law with angles from the normal, bending toward or away and total internal reflection."
 course: "physics-2"
 unit: 13
 topics: ["13.3"]

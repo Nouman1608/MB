@@ -137,6 +137,10 @@ Shortcut check: a one-digit block over 9, a two-digit block over 99, a three-dig
 - Round correctly, do not truncate: 2/3 = 0.67 (2 d.p.), not 0.66.
 - (Extended) A dot on one digit is not the same as dots on a block: 0.27̇ ≠ 0.2̇7̇.
 - (Extended) In "show that", a calculator division is not a proof.
+- Not simplifying, or simplifying only part of the way.
+- Place-value slips between tenths, hundredths and thousandths.
+- Treating 135% as 0.135 or 0.4% as 0.04.
+- (Extended) Mismatched tails when subtracting, leaving a decimal in the equation.
 
 ## Quick self-test
 
@@ -167,13 +171,6 @@ Shortcut check: a one-digit block over 9, a two-digit block over 99, a three-dig
 10. x = 0.666…, 10x = 6.666…, 9x = 6, x = 2/3
 11. x = 0.1515…, 100x = 15.1515…, so 99x = 15 and x = 15/99 = 5/33
 12. 10x = 8.333…, 100x = 83.333…, 90x = 75, x = 75/90 = 5/6
-
-## Where marks are usually lost
-
-- Not simplifying, or simplifying only part of the way.
-- Place-value slips between tenths, hundredths and thousandths.
-- Treating 135% as 0.135 or 0.4% as 0.04.
-- (Extended) Mismatched tails when subtracting, leaving a decimal in the equation.
 
 ## More on this topic
 

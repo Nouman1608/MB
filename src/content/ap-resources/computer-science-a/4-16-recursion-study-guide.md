@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-4.16-study-guide"
 title: "Recursion: Study Guide (Computer Science A 4.16)"
 description: "How to trace recursive Java methods: base case, recursive call, the call stack, results returned in reverse order, printing before and after the call, call counts, missing base cases, and the iteration link."
+seoDescription: "Computer Science A study guide to tracing recursive Java methods: base case, call stack, return order, printing around the call and missing base cases."
 course: "computer-science-a"
 unit: 4
 topics: ["4.16"]

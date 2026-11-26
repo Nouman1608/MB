@@ -3,6 +3,7 @@ resourceId: "mb-ap-calcab-8.7-study-guide"
 title: "Volumes with Cross Sections: Squares and Rectangles: Study Guide (Calculus AB 8.7)"
 seoTitle: "Calculus AB 8.7 Cross Sections Squares and Rectangles Guide"
 description: "Learn how slicing a solid into thin square or rectangular slabs turns its volume into a definite integral of a cross-sectional area, for slices across x or across y."
+seoDescription: "Calculus AB study guide to volumes of solids with square and rectangular cross sections, as a definite integral of area for slices across x or y."
 course: "calculus-ab"
 unit: 8
 topics: ["8.7"]

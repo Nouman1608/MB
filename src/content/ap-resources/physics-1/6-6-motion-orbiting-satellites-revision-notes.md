@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-6.6-revision-notes"
 title: "Motion of Orbiting Satellites: Revision Notes (Physics 1 6.6)"
 description: "One-page recap of orbiting satellites: a fixed central body, conserved energy and angular momentum, circular and elliptical orbits, bound orbits and escape speed."
+seoDescription: "One-page Physics 1 recap of orbiting satellites: a fixed central body, conserved energy and angular momentum, bound orbits and escape speed."
 course: "physics-1"
 unit: 6
 topics: ["6.6"]

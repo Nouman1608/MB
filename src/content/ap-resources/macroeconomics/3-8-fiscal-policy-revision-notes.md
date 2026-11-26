@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-3.8-revision-notes"
 title: "Fiscal Policy: Revision Notes (Macroeconomics 3.8)"
 description: "One-page recap of fiscal policy tools, expansionary and contractionary policy, the gap-closing calculation with spending and tax multipliers, and the lags in discretionary policy."
+seoDescription: "One-page Macroeconomics recap of fiscal policy tools, expansionary and contractionary policy, the gap-closing calculation with multipliers and policy lags."
 course: "macroeconomics"
 unit: 3
 topics: ["3.8"]

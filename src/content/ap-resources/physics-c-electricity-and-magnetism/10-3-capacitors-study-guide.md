@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-10.3-study-guide"
 title: "Capacitors: Study Guide (Physics C: E&M 10.3)"
 description: "Calculus-based guide to capacitors: C = Q/ΔV, the parallel-plate field from Gauss's law, spherical and coaxial capacitors, charged particles between plates and stored energy."
+seoDescription: "Physics C: Electricity and Magnetism calculus-based guide to capacitors: C = Q/ΔV, spherical and coaxial capacitors and stored energy."
 course: "physics-c-electricity-and-magnetism"
 unit: 10
 topics: ["10.3"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-5.6-revision-notes"
 title: "Economic Growth: Revision Notes (Macroeconomics 5.6)"
 description: "One-page recap of economic growth: real GDP per capita, labour productivity, the aggregate production function, the determinants of productivity and growth on the PPC and LRAS."
+seoDescription: "One-page Macroeconomics recap of economic growth: real GDP per capita, labour productivity, its determinants and growth on the PPC and LRAS."
 course: "macroeconomics"
 unit: 5
 topics: ["5.6"]

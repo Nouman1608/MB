@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-11.8-study-guide"
 title: "Resistor-Capacitor (RC) Circuits: Study Guide (Physics C: E&M 11.8)"
 description: "Calculus-based guide to RC circuits: capacitors in series and parallel, the differential equations for charging and discharging, the time constant RC, and initial and steady-state behaviour."
+seoDescription: "Physics C: E&M calculus-based guide to RC circuits: capacitors in series and parallel, charging and discharging differential equations and the time constant RC."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.8"]

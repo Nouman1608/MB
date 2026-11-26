@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-u6-diagnostic"
 title: "Gene Expression and Regulation: Unit Diagnostic (Biology Unit 6)"
 description: "Eleven short original questions, one or two per topic, to find which parts of DNA structure, replication, gene expression, regulation, mutation and biotechnology to revisit."
+seoDescription: "Biology Unit 6 diagnostic of eleven short questions on DNA structure, replication, gene expression, mutation and biotechnology to find what to revisit."
 course: "biology"
 unit: 6
 topics: []

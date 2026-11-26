@@ -99,6 +99,9 @@ Method: write a sign convention; list s, u, v, a, t; choose the equation without
 - Gradient of s–t² taken as g instead of g/2.
 - Area below the axis added as positive when displacement is asked.
 - Instantaneous velocity found from a chord instead of a tangent.
+- Graph sketches with no labels or units on the axes.
+- Answers with a magnitude but no sign or direction when velocity is asked.
+- Required practical descriptions that do not say how g is found from the graph.
 
 ## Quick self-test
 
@@ -129,12 +132,6 @@ Method: write a sign convention; list s, u, v, a, t; choose the equation without
 10. g = 2 × 4.92 = **9.84 m s⁻²**.
 11. **Displacement in the negative direction.**
 12. The gradient uses all the data, which reduces the effect of random error, and the line shows up anomalous points and any systematic offset from the origin.
-
-## Where marks are usually lost
-
-- Graph sketches with no labels or units on the axes.
-- Answers with a magnitude but no sign or direction when velocity is asked.
-- Required practical descriptions that do not say how g is found from the graph.
 
 ## Specification reference
 

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-5.3-study-guide"
 title: "Torque: Study Guide (Physics C: Mechanics 5.3)"
 description: "Torque on a rigid system: the perpendicular force component, lever arms, force diagrams, the cross product τ = r × F with the right-hand rule, and signed net torque about a chosen axis."
+seoDescription: "Physics C: Mechanics guide to torque on a rigid system: perpendicular force components, lever arms, right-hand rule and signed net torque."
 course: "physics-c-mechanics"
 unit: 5
 topics: ["5.3"]

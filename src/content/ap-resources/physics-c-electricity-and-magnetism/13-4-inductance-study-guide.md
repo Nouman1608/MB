@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-13.4-study-guide"
 title: "Inductance: Study Guide (Physics C: E&M 13.4)"
 description: "Calculus-based guide to inductance: self-induced emf, the inductance of a solenoid and its core, ℰ = −L dI/dt, and energy stored in an inductor's magnetic field."
+seoDescription: "Physics C: E&M calculus-based guide to inductance: self-induced emf, solenoid inductance, ℰ = −L dI/dt and energy stored in an inductor's magnetic field."
 course: "physics-c-electricity-and-magnetism"
 unit: 13
 topics: ["13.4"]

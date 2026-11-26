@@ -121,6 +121,11 @@ Powers apply to prefixes: 1 cm² = 10⁻⁴ m², 1 mm³ = 10⁻⁹ m³, 1 dm³ =
 - Saying an equation is correct because it is homogeneous.
 - Writing "lg f (Hz)" on a log axis.
 - Giving an estimate to three or more significant figures with no assumptions.
+- Answers to "base units" questions that still contain N, J or V.
+- Squaring the number but not the prefix in area and volume conversions.
+- Missing out a step in a "show that" so the examiner cannot see the cancellation.
+- Leaving the unit off an estimate.
+- Plotting from a table whose headings do not show units.
 
 ## Quick self-test
 
@@ -151,14 +156,6 @@ Powers apply to prefixes: 1 cm² = 10⁻⁴ m², 1 mm³ = 10⁻⁹ m³, 1 dm³ =
 10. **kg m⁻¹ s⁻²**, the same as stress, because strain has no unit.
 11. **48 μA = 4.8 × 10⁻⁵ A**.
 12. For example, volume 1.5 m × 0.6 m × 0.2 m ≈ 0.18 m³, mass ≈ 1000 × 0.18 = 180 kg, weight ≈ 180 × 9.81 ≈ **2 × 10³ N**. Any sensible assumptions with a matching answer are fine.
-
-## Where marks are usually lost
-
-- Answers to "base units" questions that still contain N, J or V.
-- Squaring the number but not the prefix in area and volume conversions.
-- Missing out a step in a "show that" so the examiner cannot see the cancellation.
-- Leaving the unit off an estimate.
-- Plotting from a table whose headings do not show units.
 
 ## Frequently asked questions
 

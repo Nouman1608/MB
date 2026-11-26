@@ -96,6 +96,11 @@ For full explanations and worked examples, read the [pollution study guide](/res
 - **Ozone.** The ozone layer is not part of this sub-topic.
 - **"Global warming" alone.** Use **enhanced greenhouse effect** and **climate change**.
 - **Methane sources.** Cattle, rice fields, landfill; not car exhausts.
+- Leaving out the decomposers in sewage and fertiliser answers.
+- Writing eutrophication steps out of order or missing one.
+- Describing plastic effects only in the sea.
+- Mixing up the sources of methane and carbon dioxide.
+- Linking the greenhouse effect to the ozone layer.
 
 ## Command-word reminders
 
@@ -132,14 +137,6 @@ For full explanations and worked examples, read the [pollution study guide](/res
 10. Any two: melting ice, rising sea levels, changing rainfall, more extreme weather, species moving or declining.
 11. More nitrate and ions; more producer growth; more decomposition after producers die; more aerobic respiration by decomposers; less dissolved oxygen; death of organisms that need oxygen.
 12. The decomposers (bacteria).
-
-## Where marks are usually lost
-
-- Leaving out the decomposers in sewage and fertiliser answers.
-- Writing eutrophication steps out of order or missing one.
-- Describing plastic effects only in the sea.
-- Mixing up the sources of methane and carbon dioxide.
-- Linking the greenhouse effect to the ozone layer.
 
 ## Official syllabus
 

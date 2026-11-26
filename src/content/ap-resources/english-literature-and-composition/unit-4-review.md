@@ -2,6 +2,7 @@
 resourceId: "mb-ap-englit-u4-review"
 title: "Short Fiction II: Mixed Unit Review (English Literature Unit 4)"
 description: "Big ideas, a one-table method summary and five original questions that combine Unit 4 topics, ending in a full prose analysis essay with a sample response and suggested rubric."
+seoDescription: "English Literature Unit 4 review: big ideas, a method summary table and five original questions ending in a full prose analysis essay with sample and rubric."
 course: "english-literature-and-composition"
 unit: 4
 topics: []

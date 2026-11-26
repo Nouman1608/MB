@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-4.7-checklist"
 title: "Wrapper Classes: Checklist (Computer Science A 4.7)"
 description: "A self-check for wrapper classes: autoboxing, unboxing, immutability, parsing Strings to numbers, and predicting compile and run-time problems with Integer and Double."
+seoDescription: "Computer Science A self-check for wrapper classes: autoboxing, unboxing, immutability, parsing Strings to numbers and predicting Integer and Double problems."
 course: "computer-science-a"
 unit: 4
 topics: ["4.7"]

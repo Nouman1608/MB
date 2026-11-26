@@ -2,6 +2,7 @@
 resourceId: "mb-ap-calcab-1.4-study-guide"
 title: "Estimating Limit Values from Tables: Study Guide (Calculus AB 1.4)"
 description: "Learn how to read a table of values to estimate a limit, spot one-sided and non-existent limits, choose good x values and avoid the ways a table can mislead."
+seoDescription: "Calculus AB study guide to estimating limits from tables: one-sided limits, limits that do not exist, choosing x values and avoiding misleading tables."
 course: "calculus-ab"
 unit: 1
 topics: ["1.4"]

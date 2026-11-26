@@ -82,7 +82,7 @@ The equation for aerobic respiration is the reverse of the equation for photosyn
 
 Photosynthesis stores energy in glucose and respiration releases it. Both go on in plants. In animals only respiration takes place.
 
-### Common errors in the equation
+### Slips to avoid: equation
 
 - Writing **oxygen** as O (one atom) rather than O2.
 - Putting the 6 in front of the glucose instead of the oxygen, water and carbon dioxide.

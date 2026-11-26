@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-15.4-study-guide"
 title: "Blackbody Radiation: Study Guide (Physics 2 15.4)"
 description: "Why every warm object glows: the blackbody model, the shape of its spectrum, Planck's quantum idea, Wien's law for peak wavelength and the Stefan–Boltzmann law for power."
+seoDescription: "Physics 2 study guide to blackbody radiation: why warm objects glow, the shape of the spectrum, Wien's peak wavelength and Stefan-Boltzmann power."
 course: "physics-2"
 unit: 15
 topics: ["15.4"]

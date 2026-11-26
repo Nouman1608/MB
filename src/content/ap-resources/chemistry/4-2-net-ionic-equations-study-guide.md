@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-4.2-study-guide"
 title: "Net Ionic Equations: Study Guide (Chemistry 4.2)"
 description: "Learn to write balanced equations for physical and chemical changes, and to turn a molecular equation into complete ionic and net ionic forms, checking that atoms and charge are conserved."
+seoDescription: "Chemistry study guide to net ionic equations: balancing physical and chemical changes, then writing complete and net ionic forms with charge conserved."
 course: "chemistry"
 unit: 4
 topics: ["4.2"]

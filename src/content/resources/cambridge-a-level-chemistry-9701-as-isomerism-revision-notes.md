@@ -60,7 +60,7 @@ optical), including chiral centres in cyclic compounds and deducing isomers from
 - E/Z names are acceptable for 9701 but not required.
 - Any carbon of the C=C carrying two H atoms (a =CH₂ end) rules cis/trans out.
 
-## Chiral centre checklist
+**Chiral centre checklist**
 
 - A **chiral centre** is a carbon bonded to **four different** atoms or groups.
 - It gives **two enantiomers**: non-superimposable mirror images.

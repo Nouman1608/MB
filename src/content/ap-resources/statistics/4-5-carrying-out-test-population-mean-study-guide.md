@@ -3,6 +3,7 @@ resourceId: "mb-ap-stats-4.5-study-guide"
 title: "Carrying Out a Test for a Population Mean or Population Mean Difference: Study Guide (Statistics 4.5)"
 seoTitle: "Statistics 4.5 Carrying Out a Test for a Mean Study Guide"
 description: "Learn to calculate the t test statistic and p-value for a mean or a matched-pairs mean difference, interpret the p-value, compare it with α and write a conclusion in context."
+seoDescription: "Statistics study guide to the one-sample t-test for a mean or matched-pairs difference: the t-statistic, comparison with α and a conclusion in context."
 course: "statistics"
 unit: 4
 topics: ["4.5"]

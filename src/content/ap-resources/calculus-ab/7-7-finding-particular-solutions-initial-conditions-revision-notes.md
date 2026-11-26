@@ -3,6 +3,7 @@ resourceId: "mb-ap-calcab-7.7-revision-notes"
 title: "Particular Solutions from Initial Conditions and Separation of Variables: Revision Notes (Calculus AB 7.7)"
 seoTitle: "Calculus AB 7.7 Particular Solutions Revision Notes"
 description: "One-page recap of particular solutions: finding the constant from an initial condition, choosing the sign, stating the domain, and the integral form of a solution."
+seoDescription: "One-page Calculus AB recap of particular solutions: finding the constant from an initial condition, stating the domain and integral form."
 course: "calculus-ab"
 unit: 7
 topics: ["7.7"]

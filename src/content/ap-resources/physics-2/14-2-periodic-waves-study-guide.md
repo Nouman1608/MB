@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-14.2-study-guide"
 title: "Periodic Waves: Study Guide (Physics 2 14.2)"
 description: "Describe a repeating wave: period, frequency, wavelength and amplitude, displacement–time and displacement–position graphs, wave equations, v = fλ, pitch and energy."
+seoDescription: "Physics 2 study guide to periodic waves: period, frequency, wavelength and amplitude, displacement-time and displacement-position graphs, pitch and energy."
 course: "physics-2"
 unit: 14
 topics: ["14.2"]

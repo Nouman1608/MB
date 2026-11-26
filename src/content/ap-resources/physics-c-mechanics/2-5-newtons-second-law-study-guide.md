@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.5-study-guide"
 title: "Newton’s Second Law: Study Guide (Physics C: Mechanics 2.5)"
 description: "Calculus-based Newton’s second law: when a system’s velocity changes, a = ΣF/m in components, choosing systems so internal forces cancel, and forces that change with time handled by integration."
+seoDescription: "Physics C: Mechanics calculus-based guide to Newton's second law: a = ΣF/m in components, choosing a system and time-varying forces by integration."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.5"]

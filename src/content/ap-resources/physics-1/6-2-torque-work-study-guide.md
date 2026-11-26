@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-6.2-study-guide"
 title: "Torque and Work: Study Guide (Physics 1 6.2)"
 description: "How a torque acting through an angle does work on a rigid system, W = τΔθ, signs of work, area under a torque–angle graph and the link to rotational kinetic energy, with algebra only."
+seoDescription: "Physics 1 study guide to work done by torque: W = τΔθ for a rigid system, signs of work, area under a torque-angle graph and rotational kinetic energy."
 course: "physics-1"
 unit: 6
 topics: ["6.2"]

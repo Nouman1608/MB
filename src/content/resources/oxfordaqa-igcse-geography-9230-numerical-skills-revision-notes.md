@@ -87,7 +87,7 @@ Convert to **one unit** before calculating. Write units on every answer.
 - **Frequency table or tally:** records how many in each category.
 - **Rate:** count per base (per 1 000 people) so that places can be compared fairly.
 
-## Data collection sheet checklist
+## Data collection sheet points to check
 
 - Title, date, time, weather, site.
 - One row per site or observation.

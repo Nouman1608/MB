@@ -121,7 +121,7 @@ Debt is 4,000, exports are 800 and annual debt service is 240, so the ratio is 2
 - Risk: dependence on few source countries, seasons and exchange rates.
 - Sustainability: damage to beaches, water and reefs lowers future income.
 
-### Primary industries evaluation checklist
+**Primary industries evaluation checklist**
 
 - Does the country have a real comparative advantage in the product?
 - Are prices stable enough to plan, or does a fall cut government revenue?

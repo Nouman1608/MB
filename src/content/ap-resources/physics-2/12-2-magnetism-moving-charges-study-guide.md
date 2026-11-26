@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-12.2-study-guide"
 title: "Magnetism and Moving Charges: Study Guide (Physics 2 12.2)"
 description: "The field made by a moving charge, the magnetic force F = qvB sin θ and its right-hand rule, circular paths, crossed electric and magnetic fields, and the Hall effect."
+seoDescription: "Physics 2 study guide to magnetism and moving charges: F = qvB sin θ and its right-hand rule, circular paths, crossed fields and the Hall effect."
 course: "physics-2"
 unit: 12
 topics: ["12.2"]

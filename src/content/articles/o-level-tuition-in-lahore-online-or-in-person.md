@@ -15,7 +15,7 @@ seoTitle: "O Level Tuition in Lahore: Online or In Person?"
 seoDescription: "Cambridge O Level tuition in Lahore at our Al-Kabir Town academy or live online across Pakistan: how the two formats compare, fees, subjects and the free trial."
 ---
 
-Most O Level students in Pakistan sit Cambridge O Level in the June or November series, often
+Cambridge O Level in Pakistan is examined in the May/June and October/November series, often
 in several subjects at once, and many families look for extra help in one or two of them. In Lahore the
 first question is often practical: should the classes be at an academy, or online at home?
 At Marlbridge the answer can be either, with the same teachers.
@@ -29,7 +29,8 @@ Block B, Al-Kabir Town, Lahore. Marlbridge is the international branch of Learne
 or elsewhere join the same teachers live online. Online classes are live, not recorded, and
 are priced the same as classes at the academy.
 
-Class times for both are agreed with you before the first class.
+Class times for both are agreed with you before the first class. Pakistan is on UTC+5 all year,
+with no clock changes, so the time is the same in Lahore, Karachi and Islamabad.
 
 ## How they compare
 
@@ -60,13 +61,21 @@ Economics, Business, Commerce, Statistics, Environmental Management and World Hi
 Marlbridge does not teach Matriculation, Federal Board (FBISE) or provincial-board
 examinations.
 
-## Group or one-to-one
+## Cambridge entries and exam dates in Pakistan
+
+For Cambridge exams in Pakistan, school candidates register through the British Council, which
+publishes a Guide to Making Entries for each series; Cambridge places Pakistan in administrative
+zone 4. In the June 2027 series, exams in zones 1 to 5 are timetabled between 26 April and 11 June;
+entry and results dates were unpublished on 23 November 2026, so ask your exam centre. Our guide to
+[the May/June and October/November series](/articles/o-level-june-or-november-exam-series/) and
+our [exam calendar](/exam-calendar/) cover the rest.
+
+## Group classes and one-to-one classes
 
 Both formats come as group classes (charged per subject per month) or one-to-one classes
 (charged per class). The [Pakistan page](/pakistan/) shows both fees in rupees, and the
-discounts for three or more subjects and for siblings. Our guide to
-[group classes or one-to-one tuition](/articles/group-classes-or-one-to-one-tuition/) explains
-which suits which student.
+discounts for three or more subjects and for siblings. The guide to
+[group classes or one-to-one tuition](/articles/group-classes-or-one-to-one-tuition/) helps you pick.
 
 ## How to decide
 
@@ -82,3 +91,5 @@ which suits which student.
 
 You can message us on WhatsApp or use the trial form; tell us whether you prefer the academy
 or online, and we will confirm a teacher and a time.
+
+*Sources (read 26 November 2026):* British Council Pakistan, school registration page (May/June and October/November Cambridge sessions) and Guide to Making Entries (britishcouncil.pk/exam/school/register; britishcouncil.pk/sites/default/files/guide_to_making_entries_-mj25.pdf); Cambridge International, administrative zone lookup (Pakistan, Karachi: zone 4); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offset.

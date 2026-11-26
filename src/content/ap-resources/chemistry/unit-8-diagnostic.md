@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u8-diagnostic"
 title: "Acids and Bases: Unit Diagnostic (Chemistry Unit 8)"
 description: "Thirteen short original questions, one or two per topic, to find which parts of pH, weak acids, titrations, buffers and pH-dependent solubility you should revisit."
+seoDescription: "Chemistry Unit 8 diagnostic of thirteen short questions on pH, weak acids, titrations, buffers and pH-dependent solubility to find what to revisit."
 course: "chemistry"
 unit: 8
 topics: []

@@ -116,6 +116,10 @@ These notes cover section 19.1 Principles of genetic technology (learning outcom
 - PCR needs **two** different primers.
 - DNA runs to the **positive** electrode.
 - A fluorescent marker shows **expression**, not just uptake.
+- Writing "the enzyme cuts the DNA" without "at a specific recognition sequence".
+- Leaving out reasons for each PCR temperature.
+- Not checking that fragment sizes add up to the original length.
+- Describing microarrays without the word **hybridise**.
 
 ## Quick self-test
 
@@ -146,13 +150,6 @@ These notes cover section 19.1 Principles of genetic technology (learning outcom
 10. **Three**.
 11. The gene is expressed in both samples at similar levels.
 12. Any two: explain how proteins work; design drugs that fit binding sites; compare proteins between species; avoid repeating work.
-
-## Where marks are usually lost
-
-- Writing "the enzyme cuts the DNA" without "at a specific recognition sequence".
-- Leaving out reasons for each PCR temperature.
-- Not checking that fragment sizes add up to the original length.
-- Describing microarrays without the word **hybridise**.
 
 ## Official syllabus
 

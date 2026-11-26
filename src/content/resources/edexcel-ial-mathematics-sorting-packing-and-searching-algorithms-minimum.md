@@ -27,7 +27,7 @@ featured: false
 reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
-This study guide is written against Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. It covers Unit D1 section 1 (Algorithms, topics 1.1 and 1.2) and section 2 (Algorithms on graphs, topics 2.1 and 2.2). The specification makes Unit D1 optional for IAS Mathematics, IAS Further Mathematics, IAL Mathematics and IAL Further Mathematics.
+This study guide is written against Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. It covers Unit D1 (WDM11) section 1 (Algorithms, topics 1.1 and 1.2) and section 2 (Algorithms on graphs, topics 2.1 and 2.2). The specification makes Unit D1 optional for IAS Mathematics, IAS Further Mathematics, IAL Mathematics and IAL Further Mathematics.
 
 Use it with the [revision notes](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-practice/). The [course hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/) show where the unit sits, and the [diagnostics](/diagnostics/) help you find weak spots. The rest of D1 is not covered here.
 

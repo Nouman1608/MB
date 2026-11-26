@@ -60,7 +60,6 @@ Other barriers include **embargoes** (bans on trade with a country), **subsidies
   <figcaption>The five arguments for and four against free trade, to be weighed against each other.</figcaption>
 </figure>
 
-
 ### Calculation: the effect of a tariff
 
 A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, so it sells for **£22,000** (before any other taxes). UK-made cars at £21,000 are now cheaper than the import, so UK producers gain. Consumers pay more, and the government gains tariff revenue.
@@ -69,7 +68,6 @@ A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, 
   <img src="https://img.marlbridge.com/aqa-gcse-economics-free-trade-agreements-and-globalisation--01-ft-tariff-or-quota.webp" width="900" height="980" alt="Two trade barriers with illustrative numbers. A tariff is a tax on imports: trainers imported at 40 units a pair with a 25 per cent tariff cost 40 times 1.25, which is 50 units, so consumers pay 10 more per pair. A quota is a limit on the quantity that can be imported: of 6 crates ready to ship, only 4 are allowed in." loading="lazy">
   <figcaption>A tariff raises the price of an import; a quota limits the quantity that can be imported.</figcaption>
 </figure>
-
 
 ### The European Union and the UK
 
@@ -90,7 +88,6 @@ A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, 
   <img src="https://img.marlbridge.com/aqa-gcse-economics-free-trade-agreements-and-globalisation--03-ft-eu-free-trade-area.webp" width="900" height="950" alt="Schematic of the European Union as a single market. Four member states inside a wall labelled common external tariff trade with each other freely: goods, services, capital and people move freely between them. A non-member country outside the wall faces the tariff when its goods enter. The UK left the EU on 31 January 2020 and now trades with it under a separate agreement." loading="lazy">
   <figcaption>Inside the EU single market goods, services, capital and people move freely, while outsiders face a common external tariff.</figcaption>
 </figure>
-
 
 ## Part B: Globalisation (3.2.4.4)
 
@@ -137,7 +134,6 @@ A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, 
   <figcaption>Who gains and who loses from globalisation in a developed country such as the UK.</figcaption>
 </figure>
 
-
 ### Benefits and drawbacks for less developed countries
 
 | Group | Benefits | Drawbacks |
@@ -150,7 +146,6 @@ A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, 
   <img src="https://img.marlbridge.com/aqa-gcse-economics-free-trade-agreements-and-globalisation--06-ft-globalisation-poorer-countries.webp" width="900" height="837" alt="A grid for less developed countries. Producers: benefit from access to world markets and investment from multinational companies; drawback is that local firms may be pushed out by MNCs. Workers: benefit from new jobs, often paying more than local alternatives, and new skills; drawback is low wages and poor conditions in some factories. Consumers: benefit from access to more goods and services; drawback is that profits may flow back to the home country of the MNC." loading="lazy">
   <figcaption>Who gains and who loses from globalisation in less developed countries.</figcaption>
 </figure>
-
 
 ### Moral, ethical and sustainability considerations
 
@@ -165,6 +160,10 @@ A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, 
 - Name the **group** (producers, workers or consumers) and the **country type** (UK or less developed) in every point.
 - The UK has left the EU, but the specification still expects you to know the EU's significance and the benefits of agreements like it.
 - A tariff makes imports dearer for consumers; it does not make domestic goods cheaper.
+- Listing benefits of globalisation without saying for whom.
+- Treating the EU as only a free-trade area: it is a single market and customs union.
+- Ignoring the drawbacks for less developed countries, or only giving drawbacks.
+- Ethical points with no economic link (cost, price, jobs or the environment).
 
 ## Quick self-test
 
@@ -184,7 +183,6 @@ A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, 
   <figcaption>Ethical and sustainability questions arise at every stage from farm to UK shop.</figcaption>
 </figure>
 
-
 ### Answers
 
 1. Trade between countries without government-imposed barriers such as tariffs and quotas.
@@ -202,14 +200,6 @@ A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, 
   <img src="https://img.marlbridge.com/aqa-gcse-economics-free-trade-agreements-and-globalisation--04-ft-globalisation-drivers.webp" width="900" height="850" alt="A globe labelled globalisation with four arrows pointing at it from four boxes: new technology (the internet, mobile communications and container shipping), multinational companies that produce and invest in many countries, lower trade barriers through free-trade agreements, and cheaper transport that moves goods and people more easily." loading="lazy">
   <figcaption>New technology, multinational companies, lower trade barriers and cheaper transport drive globalisation.</figcaption>
 </figure>
-
-
-## Where marks are usually lost
-
-- Listing benefits of globalisation without saying for whom.
-- Treating the EU as only a free-trade area: it is a single market and customs union.
-- Ignoring the drawbacks for less developed countries, or only giving drawbacks.
-- Ethical points with no economic link (cost, price, jobs or the environment).
 
 ## Frequently asked questions
 

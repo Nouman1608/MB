@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-5.3-revision-notes"
 title: "Computing Bias: Revision Notes (Computer Science Principles 5.3)"
 description: "One-page recap of computing bias: biased data and algorithms, bias at all levels of development, group-by-group checking, proxies and ways programmers can reduce bias."
+seoDescription: "One-page Computer Science Principles recap of computing bias: biased data and algorithms, bias at every stage of development, proxies and ways to reduce it."
 course: "computer-science-principles"
 unit: 5
 topics: ["5.3"]

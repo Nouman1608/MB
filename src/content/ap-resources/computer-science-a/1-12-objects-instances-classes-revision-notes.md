@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.12-revision-notes"
 title: "Objects: Instances of Classes: Revision Notes (Computer Science A 1.12)"
 description: "A one-page recap of classes and objects, reference variables, object references, copying references versus primitives, class hierarchies and the Object class."
+seoDescription: "One-page Computer Science A recap of classes and objects, reference variables, copying references versus primitives, class hierarchies and the Object class."
 course: "computer-science-a"
 unit: 1
 topics: ["1.12"]

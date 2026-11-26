@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.10-revision-notes"
 title: "Calling Class Methods: Revision Notes (Computer Science A 1.10)"
 description: "A one-page recap of class methods, the static keyword, calling a method with the class name and dot operator, nested calls and common compile-time call errors."
+seoDescription: "One-page Computer Science A recap of class methods, the static keyword, calling with the class name and dot operator, nested calls and compile-time call errors."
 course: "computer-science-a"
 unit: 1
 topics: ["1.10"]

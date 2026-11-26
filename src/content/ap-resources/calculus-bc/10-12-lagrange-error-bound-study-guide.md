@@ -2,6 +2,7 @@
 resourceId: "mb-ap-calcbc-10.12-study-guide"
 title: "Lagrange Error Bound: Study Guide (Calculus BC 10.12)"
 description: "Use the Lagrange error bound to limit how far a Taylor polynomial estimate can be from the true value, choose M, find the degree needed and compare with the alternating series bound."
+seoDescription: "Calculus BC study guide to the Lagrange error bound: limiting Taylor polynomial error, finding the degree needed and the alternating series bound."
 course: "calculus-bc"
 unit: 10
 topics: ["10.12"]

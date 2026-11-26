@@ -83,8 +83,8 @@ their actions. Each person below has three or four facts you can expand in an an
 | Person | Facts | Why it matters |
 |---|---|---|
 | Qasim, Abdullah, Ibrahim | Sons who died young; eclipse at Ibrahim's death not caused by it | Patience in grief; rejection of superstition |
-| Zaynab | Eldest daughter; married Abu al-As | Loyalty to faith and family |
-| Ruqayya, Umm Kulthum | Married Uthman (RA) in turn (Dhu al-Nurayn) | Bond between the Prophet (pbuh) and Uthman (RA) |
+| Zaynab (RA) | Eldest daughter; married Abu al-As | Loyalty to faith and family |
+| Ruqayya (RA), Umm Kulthum (RA) | Married Uthman (RA) in turn (Dhu al-Nurayn) | Bond between the Prophet (pbuh) and Uthman (RA) |
 | Fatima (RA) | Al-Zahra; married Ali (RA); mother of Hasan (RA) and Husayn (RA); died months after him | Model of devotion and simple living |
 | Hasan (RA), Husayn (RA) | "Leaders of the youth of Paradise"; at the Mubahala (Sura 3.61) | Love for children; the Ahl al-Bayt |
 

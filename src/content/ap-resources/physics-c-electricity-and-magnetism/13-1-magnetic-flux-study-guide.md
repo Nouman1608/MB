@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-13.1-study-guide"
 title: "Magnetic Flux: Study Guide (Physics C: E&M 13.1)"
 description: "Calculus-based guide to magnetic flux: the area vector and its sign, Φ = B·A for flat surfaces, surface integrals for non-uniform fields, solenoids and closed surfaces."
+seoDescription: "Physics C: E&M calculus-based guide to magnetic flux: the area vector, Φ = B·A, surface integrals for non-uniform fields, solenoids and closed surfaces."
 course: "physics-c-electricity-and-magnetism"
 unit: 13
 topics: ["13.1"]

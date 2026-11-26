@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-11.6-revision-notes"
 title: "Kirchhoff's Loop Rule: Revision Notes (Physics 2 11.6)"
 description: "One-page recap of the loop rule as energy conservation, ΔU = qΔV, sign rules for batteries and resistors, potential–position graphs and loops without a battery."
+seoDescription: "One-page Physics 2 recap of Kirchhoff's loop rule as energy conservation, ΔU = qΔV, sign rules for batteries and resistors, and potential-position graphs."
 course: "physics-2"
 unit: 11
 topics: ["11.6"]

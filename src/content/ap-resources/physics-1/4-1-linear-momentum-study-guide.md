@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-4.1-study-guide"
 title: "Linear Momentum: Study Guide (Physics 1 4.1)"
 description: "Define momentum as p = mv, use its sign and direction in one and two dimensions, add momenta for a system, and model short interactions as collisions or explosions."
+seoDescription: "Physics 1 study guide to linear momentum: p = mv with sign and direction in one and two dimensions and modelling collisions and explosions."
 course: "physics-1"
 unit: 4
 topics: ["4.1"]

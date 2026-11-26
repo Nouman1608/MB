@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-4.16-checklist"
 title: "Recursion: Checklist (Computer Science A 4.16)"
 description: "A self-check for recursion: identifying the base case, tracing returns and prints call by call, counting calls, explaining stack overflow and relating recursion to loops."
+seoDescription: "Computer Science A self-check for recursion: identifying the base case, tracing returns and prints call by call, stack overflow and recursion versus loops."
 course: "computer-science-a"
 unit: 4
 topics: ["4.16"]

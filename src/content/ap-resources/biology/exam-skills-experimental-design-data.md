@@ -3,6 +3,7 @@ resourceId: "mb-ap-bio-exam-skills-experimental-design-data"
 title: "Experimental Design and Data Analysis: Exam Skills Guide (Biology)"
 seoTitle: "Biology Experimental Design and Data Analysis Exam Skills"
 description: "How to name variables and controls, state a null hypothesis, choose and draw the right graph, do the course calculations and write a claim backed by evidence and reasoning."
+seoDescription: "Biology exam skills: naming variables and controls, stating a null hypothesis, choosing the right graph, course calculations and claim, evidence and reasoning."
 course: "biology"
 unit: 1
 topics: []

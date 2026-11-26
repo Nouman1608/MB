@@ -66,7 +66,7 @@ Yes → capital. No, it keeps things running → revenue.
 - Own staff's wages and materials used to build or install an asset
 - Initial painting of a business name on a new vehicle
 
-## Revenue expenditure checklist
+**Revenue expenditure checklist**
 
 - Repairs, servicing, cleaning and repainting existing assets
 - Fuel, insurance, licences

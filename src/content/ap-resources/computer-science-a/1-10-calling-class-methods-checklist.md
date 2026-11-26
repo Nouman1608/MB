@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.10-checklist"
 title: "Calling Class Methods: Checklist (Computer Science A 1.10)"
 description: "A self-check list for class methods, the static keyword, calling methods with the class name and dot operator, nested calls and diagnosing call errors, linked to the guide and practice."
+seoDescription: "Computer Science A self-check list for class methods, static, calling with the class name and dot operator, nested calls and diagnosing call errors."
 course: "computer-science-a"
 unit: 1
 topics: ["1.10"]

@@ -50,7 +50,6 @@ These notes condense **sections 3.2.5.1 The role of money and 3.2.5.2 The role a
   <figcaption>With 10% inflation, £100 saved buys only about £91 of today’s goods next year.</figcaption>
 </figure>
 
-
 ### The four functions of money
 
 | Function | Meaning | Example |
@@ -76,7 +75,6 @@ Good money is acceptable, durable, portable, divisible, hard to forge and limite
   <figcaption>Most money is bank deposits, which payments move between accounts without any cash changing hands.</figcaption>
 </figure>
 
-
 ### Link to inflation
 
 Money only works well as a **store of value** if prices are stable. If inflation is 4%, £100 kept for a year buys only what 100 ÷ 1.04 = **£96.15** bought at the start. High inflation also weakens money as a unit of account, because prices keep changing.
@@ -101,7 +99,6 @@ Money only works well as a **store of value** if prices are stable. If inflation
   <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--19-mn-bank-of-england.webp" width="900" height="850" alt="Four roles of the Bank of England: it sets Bank Rate, the official interest rate, aiming at the inflation target; it keeps the financial system stable by supervising banks and lending to banks in difficulty; it issues banknotes in England and Wales; and it acts as the government's bank. A chain shows why stability matters: if people lose confidence in banks they may rush to withdraw deposits, banks may stop lending, and spending and investment can collapse." loading="lazy">
   <figcaption>The Bank of England sets Bank Rate, keeps the system stable, issues banknotes and banks for the government.</figcaption>
 </figure>
-
 
 ### The role of high street banks
 
@@ -136,6 +133,10 @@ Banks make profit from the **gap** between the interest rate they charge borrowe
 - The Bank of England is not a high street bank: ordinary people do not hold accounts there.
 - A building society is owned by its members, not by shareholders.
 - Do not say the Bank of England "sets mortgage rates". It sets Bank Rate, which influences them.
+- Listing the functions of money without an example or explanation.
+- Writing that money is "just cash".
+- Mixing up the Bank of England with high street banks.
+- Describing a bank's role without saying why it matters to the economy (investment, growth, stability).
 
 ## Quick self-test
 
@@ -155,7 +156,6 @@ Banks make profit from the **gap** between the interest rate they charge borrowe
   <figcaption>A bank earns the gap between the 7% it charges borrowers and the 3% it pays savers.</figcaption>
 </figure>
 
-
 ### Answers
 
 1. Medium of exchange, unit of account, store of value and means of deferred payment.
@@ -173,14 +173,6 @@ Banks make profit from the **gap** between the interest rate they charge borrowe
   <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--18-mn-financial-sector.webp" width="900" height="780" alt="A tree with the financial sector at the top and four branches. The Bank of England is the UK's central bank. Commercial banks provide current accounts, savings accounts, loans and mortgages. Building societies are owned by their members and specialise in savings and mortgages. Other institutions include insurance companies." loading="lazy">
   <figcaption>The financial sector: the Bank of England, commercial banks, building societies and other institutions.</figcaption>
 </figure>
-
-
-## Where marks are usually lost
-
-- Listing the functions of money without an example or explanation.
-- Writing that money is "just cash".
-- Mixing up the Bank of England with high street banks.
-- Describing a bank's role without saying why it matters to the economy (investment, growth, stability).
 
 ## Frequently asked questions
 

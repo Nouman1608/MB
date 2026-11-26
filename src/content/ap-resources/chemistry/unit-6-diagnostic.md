@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u6-diagnostic"
 title: "Thermochemistry: Unit Diagnostic (Chemistry Unit 6)"
 description: "Eleven short original questions, one or two per topic, to find which parts of energy transfer, calorimetry, phase changes and enthalpy of reaction you should revisit before the unit review."
+seoDescription: "Chemistry Unit 6 diagnostic of eleven short questions on energy transfer, calorimetry, phase changes and enthalpy of reaction to find what to revisit."
 course: "chemistry"
 unit: 6
 topics: []

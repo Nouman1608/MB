@@ -102,6 +102,10 @@ These notes condense section 1.2.5, The labour market, of the Pearson Edexcel In
 - **School-leaving age raised:** supply falls in the short run.
 - **Unions:** effects depend on where the wage is set; avoid "always".
 - **Name the factor** from the specification list, then the curve and the direction.
+- Shifting a curve for a change in the wage.
+- Unlabelled or swapped axes.
+- Listing a supply factor without saying which way supply shifts.
+- Union answers that ignore the possible loss of jobs, or assume it is certain.
 
 ## Quick self-test
 
@@ -132,13 +136,6 @@ These notes condense section 1.2.5, The labour market, of the Pearson Edexcel In
 10. Higher wages; better working conditions.
 11. A shortage of 900 − 700 = **200** workers.
 12. If productivity rises enough to cover the higher wage, or if firms can pass the cost on in prices.
-
-## Where marks are usually lost
-
-- Shifting a curve for a change in the wage.
-- Unlabelled or swapped axes.
-- Listing a supply factor without saying which way supply shifts.
-- Union answers that ignore the possible loss of jobs, or assume it is certain.
 
 ## Official syllabus
 

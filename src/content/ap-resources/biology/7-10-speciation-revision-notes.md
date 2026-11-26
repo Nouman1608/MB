@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-7.10-revision-notes"
 title: "Speciation: Revision Notes (Biology 7.10)"
 description: "One-page recap of the biological species concept, reproductive barriers, allopatric and sympatric speciation, rates of speciation, and divergent versus convergent evolution."
+seoDescription: "One-page Biology recap of the biological species concept, reproductive barriers, allopatric and sympatric speciation, and divergent versus convergent evolution."
 course: "biology"
 unit: 7
 topics: ["7.10"]

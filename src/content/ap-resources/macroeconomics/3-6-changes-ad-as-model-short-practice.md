@@ -3,6 +3,7 @@ resourceId: "mb-ap-macro-3.6-practice"
 title: "Changes in the AD–AS Model in the Short Run: Practice Questions (Macroeconomics 3.6)"
 seoTitle: "Macroeconomics 3.6 Short-Run AD–AS Model Changes Practice"
 description: "Seven original Marlbridge practice questions on demand and supply shocks, short-run changes in output, employment and the price level, and demand-pull versus cost-push inflation."
+seoDescription: "Seven Macroeconomics practice questions on demand and supply shocks, short-run effects on output and demand-pull versus cost-push inflation."
 course: "macroeconomics"
 unit: 3
 topics: ["3.6"]

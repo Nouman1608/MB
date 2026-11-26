@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.8-study-guide"
 title: "Spring Forces: Study Guide (Physics C: Mechanics 2.8)"
 description: "Calculus-based spring forces: the ideal spring model, Hooke's law and its direction, nonideal springs, and deriving equivalent spring constants for springs in series and in parallel."
+seoDescription: "Physics C: Mechanics calculus-based guide to spring forces: the ideal spring, Hooke's law, nonideal springs and equivalent constants in series and parallel."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.8"]

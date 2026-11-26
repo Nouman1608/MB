@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-2.1-study-guide"
 title: "Systems and Center of Mass: Study Guide (Physics 1 2.1)"
 description: "Choose a system, decide when it can be treated as one object, and locate its center of mass by symmetry or with the weighted-average equation for up to five particles."
+seoDescription: "Physics 1 study guide to systems and center of mass: choosing a system, when it acts as one object, and finding the center of mass by symmetry or calculation."
 course: "physics-1"
 unit: 2
 topics: ["2.1"]

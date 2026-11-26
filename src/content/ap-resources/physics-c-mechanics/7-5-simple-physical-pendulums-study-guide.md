@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-7.5-study-guide"
 title: "Simple and Physical Pendulums: Study Guide (Physics C: Mechanics 7.5)"
 description: "Calculus-based pendulums: the gravitational restoring torque, the small-angle approximation, the SHM equation from τ = Iα, T = 2π√(I/mgd), the simple pendulum as a special case, and torsion pendulums."
+seoDescription: "Physics C: Mechanics calculus-based guide to pendulums: the restoring torque, small-angle approximation, the simple pendulum and torsion pendulums."
 course: "physics-c-mechanics"
 unit: 7
 topics: ["7.5"]

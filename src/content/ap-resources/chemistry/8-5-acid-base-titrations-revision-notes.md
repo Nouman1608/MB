@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-8.5-revision-notes"
 title: "Acid-Base Titrations: Revision Notes (Chemistry 8.5)"
 description: "One-page recap of pH titration curves: equivalence and half-equivalence points, pH at equivalence for strong and weak systems, and reading polyprotic curves."
+seoDescription: "One-page Chemistry recap of pH titration curves: equivalence and half-equivalence points, pH at equivalence for strong and weak systems, polyprotic curves."
 course: "chemistry"
 unit: 8
 topics: ["8.5"]

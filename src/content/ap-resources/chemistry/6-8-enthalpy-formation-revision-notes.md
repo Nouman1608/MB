@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-6.8-revision-notes"
 title: "Enthalpy of Formation: Revision Notes (Chemistry 6.8)"
 description: "One-page recap of standard enthalpies of formation, the products-minus-reactants formula, zero values for elements and the sign and state mistakes that cost marks."
+seoDescription: "One-page Chemistry recap of standard enthalpies of formation, the products-minus-reactants formula, zero values for elements and sign and state mistakes."
 course: "chemistry"
 unit: 6
 topics: ["6.8"]

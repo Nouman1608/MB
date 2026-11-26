@@ -2,6 +2,7 @@
 resourceId: "mb-ap-micro-3.3-revision-notes"
 title: "Long-Run Production Costs: Revision Notes (Microeconomics 3.3)"
 description: "One-page recap of long-run costs: all costs variable, returns to scale, the three regions of the LRATC curve, minimum efficient scale and market concentration, with the mistakes that cost marks."
+seoDescription: "One-page Microeconomics recap of long-run costs: returns to scale, the three regions of the LRATC curve, minimum efficient scale and market concentration."
 course: "microeconomics"
 unit: 3
 topics: ["3.3"]

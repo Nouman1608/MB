@@ -97,7 +97,7 @@ These revision notes are for **higher level (HL) only**. The Cold War in Asia (1
 4. Leaders: Hồ Chí Minh (communist nationalist) against Diệm (Catholic anti-communist).
 5. Great powers: US containment; Soviet and Chinese aid to the north.
 
-## Vietnam: impact checklist
+## Vietnam: impact points to check
 
 | Area | Detail |
 |---|---|

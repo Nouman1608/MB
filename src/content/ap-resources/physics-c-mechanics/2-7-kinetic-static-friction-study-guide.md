@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.7-study-guide"
 title: "Kinetic and Static Friction: Study Guide (Physics C: Mechanics 2.7)"
 description: "Calculus-based friction: kinetic friction μ_k F_N opposite relative motion, static friction up to μ_s F_N, slipping under a growing force, stacked blocks and symbolic slope results."
+seoDescription: "Physics C: Mechanics calculus-based guide to friction: kinetic friction, static friction up to its maximum, slipping under a growing force and stacked blocks."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.7"]

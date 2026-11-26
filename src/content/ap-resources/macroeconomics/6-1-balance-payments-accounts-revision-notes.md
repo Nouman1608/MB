@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-6.1-revision-notes"
 title: "Balance of Payments Accounts: Revision Notes (Macroeconomics 6.1)"
 description: "One-page recap of the balance of payments, the current account and the capital and financial account, credits and debits, and the sign mistakes that cost marks."
+seoDescription: "One-page Macroeconomics recap of the balance of payments: current account, capital and financial account and the sign mistakes that cost marks."
 course: "macroeconomics"
 unit: 6
 topics: ["6.1"]

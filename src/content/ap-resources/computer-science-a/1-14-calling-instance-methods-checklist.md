@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.14-checklist"
 title: "Calling Instance Methods: Checklist (Computer Science A 1.14)"
 description: "A self-check list for calling instance methods, void and non-void calls, objects with their own values, aliasing and NullPointerException, linked to the guide and practice questions."
+seoDescription: "Computer Science A self-check list for calling instance methods, void and non-void calls, aliasing and NullPointerException, linked to guide and practice."
 course: "computer-science-a"
 unit: 1
 topics: ["1.14"]

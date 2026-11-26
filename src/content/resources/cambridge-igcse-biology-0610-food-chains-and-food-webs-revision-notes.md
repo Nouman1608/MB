@@ -112,6 +112,11 @@ Always write **direction + reason**.
 - **Fresh mass.** Biomass pyramids use dry mass.
 - **(Extended) Efficiency upside down.** Divide by the lower trophic level.
 - **(Extended) "Energy used up".** Say energy is transferred to the environment as heat.
+- Drawing arrows the wrong way.
+- Stating web changes without reasons.
+- Drawing pyramid bars not to scale or unlabelled.
+- Forgetting a limitation in a "discuss" question.
+- (Extended) Dividing by the wrong value in an efficiency calculation.
 
 ## Self-test
 
@@ -142,14 +147,6 @@ Always write **direction + reason**.
 10. 2 000 ÷ 25 000 × 100 = 8%.
 11. Any three: parts not eaten; food not digested, lost in faeces; energy in excretory products such as urea; energy released by respiration lost as heat.
 12. Eating crops involves one transfer; feeding crops to livestock adds a second transfer in which the animals lose energy as heat in respiration and movement, so less energy reaches humans.
-
-## Where marks are usually lost
-
-- Drawing arrows the wrong way.
-- Stating web changes without reasons.
-- Drawing pyramid bars not to scale or unlabelled.
-- Forgetting a limitation in a "discuss" question.
-- (Extended) Dividing by the wrong value in an efficiency calculation.
 
 ## Official syllabus
 

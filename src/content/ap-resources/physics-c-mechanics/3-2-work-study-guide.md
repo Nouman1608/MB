@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-3.2-study-guide"
 title: "Work: Study Guide (Physics C: Mechanics 3.2)"
 description: "Calculus-based guide to work: the dot product, W = ∫F·dr for variable forces, areas under force–position graphs, the work–energy theorem derived, and conservative versus nonconservative forces."
+seoDescription: "Physics C: Mechanics calculus-based guide to work: the dot product, W = ∫F·dr for variable forces, the work-energy theorem and conservative forces."
 course: "physics-c-mechanics"
 unit: 3
 topics: ["3.2"]

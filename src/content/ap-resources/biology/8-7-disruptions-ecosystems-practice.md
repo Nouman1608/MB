@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-8.7-practice"
 title: "Disruptions in Ecosystems: Practice Questions (Biology 8.7)"
 description: "Seven original Marlbridge practice questions on selection and random mutation, heterozygote advantage, invasive species, biomagnification, eutrophication, El Niño and chi-square, with worked solutions."
+seoDescription: "Seven original Biology practice questions on selection, heterozygote advantage, invasive species, biomagnification, eutrophication, El Niño and chi-square."
 course: "biology"
 unit: 8
 topics: ["8.7"]

@@ -3,6 +3,7 @@ resourceId: "mb-ap-chem-u9-review"
 title: "Thermodynamics and Electrochemistry: Mixed Unit Review (Chemistry Unit 9)"
 seoTitle: "Chemistry Unit 9 Thermodynamics and Electrochemistry Review"
 description: "Connect entropy, free energy, equilibrium, kinetic control, dissolution, coupling and electrochemical cells with seven original questions that each combine topics."
+seoDescription: "Chemistry Unit 9 review: seven original questions combining entropy, free energy, equilibrium, kinetic control, coupling and electrochemical cells."
 course: "chemistry"
 unit: 9
 topics: []

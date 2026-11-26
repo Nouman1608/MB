@@ -109,6 +109,12 @@ Spotting the type: *survives spraying* → herbicide resistance; *fewer insects 
 - **Health risks** are a concern some people raise, not a proven effect.
 - **Both sides** are needed when GM crops are discussed.
 - **Individual genes** in the definition, not "DNA" alone.
+- Leaving "individual genes" out of the definition.
+- Swapping restriction enzyme and ligase.
+- Missing "same" or "complementary".
+- Describing step (d) in great detail when no detail is required, while leaving out (e) and (f).
+- Mixing up herbicide and insecticide.
+- One-sided GM crop answers.
 
 ## Quick self-test
 
@@ -139,15 +145,6 @@ Spotting the type: *survives spraying* → herbicide resistance; *fewer insects 
 10. Less insecticide needed (or: less crop lost to pests, so higher yield).
 11. Pollen carrying the resistance gene may fertilise wild relatives, which then inherit the gene and survive spraying.
 12. GM changes or inserts a specific gene directly, possibly from another species, within one generation; selective breeding chooses parents over many generations.
-
-## Where marks are usually lost
-
-- Leaving "individual genes" out of the definition.
-- Swapping restriction enzyme and ligase.
-- Missing "same" or "complementary".
-- Describing step (d) in great detail when no detail is required, while leaving out (e) and (f).
-- Mixing up herbicide and insecticide.
-- One-sided GM crop answers.
 
 ## Official syllabus
 

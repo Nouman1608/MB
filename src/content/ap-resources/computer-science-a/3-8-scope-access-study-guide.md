@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-3.8-study-guide"
 title: "Scope and Access: Study Guide (Computer Science A 3.8)"
 description: "Learn where Java variables can be used: local variables and parameters live only in their block, instance and class variables are available across the class, and a local name hides an instance variable of the same name."
+seoDescription: "Computer Science A study guide to scope in Java: locals and parameters within their block and a local name hiding an instance variable."
 course: "computer-science-a"
 unit: 3
 topics: ["3.8"]

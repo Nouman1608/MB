@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-3.5-study-guide"
 title: "Power: Study Guide (Physics C: Mechanics 3.5)"
 description: "Calculus-based power: average power, P = dW/dt, the dot product P = F·v, net power as dK/dt, work as the area under a power–time graph, and motion at constant power."
+seoDescription: "Physics C: Mechanics calculus-based guide to power: average power, P = dW/dt, P = F·v, work from a power-time graph and constant-power motion."
 course: "physics-c-mechanics"
 unit: 3
 topics: ["3.5"]

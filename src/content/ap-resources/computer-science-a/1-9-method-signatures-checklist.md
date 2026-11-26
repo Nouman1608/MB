@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.9-checklist"
 title: "Method Signatures: Checklist (Computer Science A 1.9)"
 description: "A self-check list for methods, signatures, parameters and arguments, void and non-void calls, call by value, overloading and flow of control, linked to the guide and practice questions."
+seoDescription: "Computer Science A self-check list for method signatures, parameters and arguments, void and non-void calls, overloading and flow of control."
 course: "computer-science-a"
 unit: 1
 topics: ["1.9"]

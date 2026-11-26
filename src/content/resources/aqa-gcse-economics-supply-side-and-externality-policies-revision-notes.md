@@ -40,7 +40,6 @@ These notes condense **sections 3.2.3.3 Supply-side policies and 3.2.3.4 Policie
   <figcaption>An externality is a cost or benefit to a third party that the price ignores.</figcaption>
 </figure>
 
-
 ### The policies the specification names
 
 | Policy | How it works | UK example |
@@ -76,7 +75,6 @@ Other examples include infrastructure (roads, rail, broadband) and policies to e
   <figcaption>Supply-side policies cost money early but their gains arrive years later.</figcaption>
 </figure>
 
-
 ### Calculation: productivity
 
 A factory produces 2,400 units a week with 60 workers, so output per worker is 2,400 ÷ 60 = **40 units**. After a training scheme the same 60 workers produce 2,760 units: 2,760 ÷ 60 = **46 units**. Productivity rose by 6 ÷ 40 × 100 = **15%**.
@@ -96,7 +94,6 @@ A factory produces 2,400 units a week with 60 workers, so output per worker is 2
   <figcaption>Rising capacity supports all four objectives at once.</figcaption>
 </figure>
 
-
 ## Part B: Policies to correct externalities (3.2.3.4)
 
 Reminder: an **externality** is a cost or benefit to a third party. With a **negative** externality the good is over-produced or over-consumed, because the price ignores the external cost. With a **positive** externality it is under-produced or under-consumed, because the price ignores the external benefit.
@@ -115,7 +112,6 @@ Reminder: an **externality** is a cost or benefit to a third party. With a **neg
   <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--06-tax-and-subsidy.webp" width="900" height="1090" alt="Two market diagrams. A tax shifts supply up: price rises 12 to 14 pounds and output falls 80 to 60. A subsidy shifts supply down: price falls 14 to 12 pounds and output rises 60 to 80. All numbers illustrative." loading="lazy">
   <figcaption>Tax reduces output of a harmful good; subsidy raises output of a beneficial one.</figcaption>
 </figure>
-
 
 ### Policies for positive externalities
 
@@ -142,7 +138,6 @@ Reminder: an **externality** is a cost or benefit to a third party. With a **neg
   <figcaption>A pollution tax cut waste by 30 percent and raised 70,000 units.</figcaption>
 </figure>
 
-
 ### Evaluating the policies
 
 | Policy | Strengths | Weaknesses |
@@ -162,6 +157,10 @@ A strong answer says **which policy suits which case**: a ban for something very
 - Supply-side policies are **long-run** policies. Do not offer them as a quick fix for a recession.
 - Privatisation and deregulation are different: one changes ownership, the other removes rules.
 - Lower direct taxes are a supply-side policy because of the **incentive** effect; lower taxes to raise spending are fiscal policy. Say which effect you mean.
+- Describing a supply-side policy with no link to productivity or capacity.
+- Listing policies for externalities without saying how each changes price or quantity.
+- Saying a tax "solves" pollution without discussing elasticity, measurement or fairness.
+- Ignoring the cost to the government of subsidies and state provision.
 
 ## Quick self-test
 
@@ -188,13 +187,6 @@ A strong answer says **which policy suits which case**: a ban for something very
 8. 2 × 6,000 = £12,000.
 9. Demand is price inelastic because smoking is addictive, so a higher price reduces quantity only a little.
 10. It needs inspection and enforcement, firms may break the rules if fines are small, or the rule may be set at the wrong level.
-
-## Where marks are usually lost
-
-- Describing a supply-side policy with no link to productivity or capacity.
-- Listing policies for externalities without saying how each changes price or quantity.
-- Saying a tax "solves" pollution without discussing elasticity, measurement or fairness.
-- Ignoring the cost to the government of subsidies and state provision.
 
 ## Frequently asked questions
 

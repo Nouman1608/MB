@@ -3,6 +3,7 @@ resourceId: "mb-ap-csa-1.12-checklist"
 title: "Objects: Instances of Classes: Checklist (Computer Science A 1.12)"
 seoTitle: "Computer Science A 1.12 Objects and Classes Checklist"
 description: "A self-check list for classes and objects, reference variables, aliasing, copying primitives versus references, and the Object class, linked to the guide and practice questions."
+seoDescription: "Computer Science A self-check list for classes and objects, reference variables, aliasing, copying primitives versus references and the Object class."
 course: "computer-science-a"
 unit: 1
 topics: ["1.12"]

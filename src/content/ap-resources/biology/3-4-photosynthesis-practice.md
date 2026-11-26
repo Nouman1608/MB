@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-3.4-practice"
 title: "Photosynthesis: Practice Questions (Biology 3.4)"
 description: "Seven original Marlbridge practice questions on chloroplast structure, the light reactions, the proton gradient, equation calculations, a light-response graph and the origins of photosynthesis, with worked solutions."
+seoDescription: "Seven Biology practice questions on chloroplast structure, light reactions, the proton gradient, equations and a light-response graph, with worked solutions."
 course: "biology"
 unit: 3
 topics: ["3.4"]

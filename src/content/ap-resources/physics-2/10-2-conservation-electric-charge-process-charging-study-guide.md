@@ -3,6 +3,7 @@ resourceId: "mb-ap-phys2-10.2-study-guide"
 title: "Conservation of Electric Charge and the Process of Charging: Study Guide (Physics 2 10.2)"
 seoTitle: "Physics 2 10.2 Conservation of Charge Study Guide"
 description: "How objects become charged: conservation of charge, electron transfer by friction and contact, induced charge separation in conductors and insulators, grounding and charging by induction."
+seoDescription: "Physics 2 study guide to charging: conservation of charge, transfer by friction and contact, induced charge separation, grounding and charging by induction."
 course: "physics-2"
 unit: 10
 topics: ["10.2"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-10.3-revision-notes"
 title: "Electric Fields: Revision Notes (Physics 2 10.3)"
 description: "One-page recap of the electric field: E = F/q with a test charge, field directions, the point-charge field, vector superposition, field lines, and charged conductors."
+seoDescription: "One-page Physics 2 recap of the electric field: E = F/q with a test charge, field directions, point-charge fields, field lines and charged conductors."
 course: "physics-2"
 unit: 10
 topics: ["10.3"]

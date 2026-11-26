@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u8-review"
 title: "Acids and Bases: Mixed Unit Review (Chemistry Unit 8)"
 description: "Connect pH, weak acid equilibria, titrations, molecular structure, buffers and pH-dependent solubility with seven original questions that each combine topics."
+seoDescription: "Chemistry Unit 8 review: seven original questions combining pH, weak acid equilibria, titrations, molecular structure, buffers and pH-dependent solubility."
 course: "chemistry"
 unit: 8
 topics: []

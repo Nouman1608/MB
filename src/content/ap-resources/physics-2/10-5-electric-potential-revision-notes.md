@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-10.5-revision-notes"
 title: "Electric Potential: Revision Notes (Physics 2 10.5)"
 description: "One-page recap of electric potential, scalar superposition, potential difference, conductors at equal potential, average field from ΔV and equipotential maps."
+seoDescription: "One-page Physics 2 recap of electric potential, scalar superposition, potential difference, average field from ΔV and equipotential maps."
 course: "physics-2"
 unit: 10
 topics: ["10.5"]

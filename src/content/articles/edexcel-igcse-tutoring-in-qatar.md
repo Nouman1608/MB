@@ -15,8 +15,8 @@ seoTitle: "Edexcel IGCSE Tutoring in Qatar: A Guide for Doha Families"
 seoDescription: "Online Pearson Edexcel International GCSE tuition for students in Doha: the specifications taught, class times in Qatar time, how fees work and the free trial."
 ---
 
-Pearson Edexcel International GCSE is one of the most common qualifications in Doha's
-British-curriculum schools, often taught alongside Cambridge IGCSE. When a student needs help
+Students at British-curriculum schools in Doha may sit Pearson Edexcel International GCSE or
+Cambridge IGCSE, depending on the school. When a student needs help
 in one subject, the first thing to get right is the specification: an Edexcel paper is not a
 Cambridge paper, and a tutor should be teaching the one your child will sit.
 
@@ -40,37 +40,46 @@ To check which specification your child takes, look at the front page of a past 
 school report: Edexcel International GCSE codes start with a 4 (for example 4MA1), while
 Cambridge IGCSE codes start with a 0 (for example 0580).
 
-## Class times from Qatar
+## Qatar time, school licensing and exam dates
 
-Qatar is two hours behind Lahore all year; neither country changes its clocks. A 5:00 pm class
-in Doha is 7:00 pm in Lahore. Group class times are agreed with the families in each group
-before the trial; one-to-one classes can be arranged at a time that suits you.
+**Doha and Lahore.** Qatar uses UTC+3 and Pakistan UTC+5, and neither moves its clocks, which
+leaves a constant two-hour gap: 5:00 pm in Doha is 7:00 pm in Lahore. Group times are fixed
+with the families concerned; for one-to-one lessons you choose the slot. Classes run live online
+from Lahore, and nobody on our team is based in Qatar.
 
-Every class is taught live online by a named subject teacher from our academy in Lahore.
-Marlbridge has no office, branch or teacher in Qatar.
+Private schools in Qatar are licensed through the Ministry of Education and Higher
+Education (MOEHE), and Law No. 23 of 2015 regulates them. Which exam board a school enters candidates for is
+the school's own decision, so check your child's specification code before booking.
 
-## How fees work
+If your child sits a Cambridge IGCSE alongside or instead of Edexcel, note that Cambridge
+assigns Qatar to administrative zone 3. Exams for zones 1 to 5 in the 2027 May/June series are
+timetabled from 26 April through 11 June. Entry and results dates had not been released as of
+23 November 2026, and our [exam calendar](/exam-calendar/) will show them once they are. Pearson Edexcel publishes its own
+timetables, so use your school's exams officer for Edexcel dates.
+
+## Fees for Qatar families
 
 - **Group classes** have a set Qatar fee in riyals, per subject per month.
 - **One-to-one classes** are charged per class. The riyal figure is an indicative conversion of
   the Pakistan fee, confirmed in writing before any payment.
-- **IB** Diploma and MYP tuition is one-to-one only.
+- **IB lessons** (Diploma and MYP) are offered one-to-one only.
 
 The [Qatar page](/qatar/) shows the current fees, discounts and a table of Doha and Lahore
 class times.
 
-**Not taught:** the Qatari national curriculum, Indian CBSE or ICSE, and the American
-curriculum or Advanced Placement (AP).
+**Outside our teaching:** the Qatari national curriculum, Indian CBSE and ICSE, and the American
+curriculum with Advanced Placement (AP).
 
-## Getting the most from a trial class
+## Preparing for a Doha trial class
 
 1. Tell us the exact specification (for example Edexcel 4MA1 Mathematics A) and, for a tiered
    subject such as 4MA1, whether your child is entered for Foundation or Higher tier.
-2. Bring a recent test or mock paper, so the teacher can see where marks are being lost.
-3. Print the course's [topic checklist](/checklists/) and mark the topics your child finds
-   hard; the first classes can start there.
+2. Bring a mock paper or recent class test; the teacher reads the answers for where marks were lost.
+3. Print the course [topic checklist](/checklists/) and circle the topics that feel shaky.
 
 The [free trial class](/trial/) runs in the format you are considering, group or one-to-one,
 and there is no registration fee. Families elsewhere in the Gulf can read
 [how online tuition works from the UAE](/articles/how-online-igcse-and-a-level-tuition-works-from-the-uae/)
 or see the [Gulf page](/gulf/).
+
+*Sources (read 26 November 2026):* The Peninsula Qatar, 25 December 2025, on the Ministry of Education and Higher Education's private school licensing portal (thepeninsulaqatar.com/article/25/12/2025/education-ministry-streamlines-licensing-for-private-schools-in-qatar); Qatar News Agency, 9 November 2026, citing Law No. 23 of 2015 on the Regulation of Private Schools (qna.org.qa); Cambridge International, administrative zone lookup (Qatar: zone 3); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.

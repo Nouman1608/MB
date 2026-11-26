@@ -134,6 +134,10 @@ Two checks before writing the answer: the question says **largest** first, and t
 - **Equal values:** 2/5 and 40% are equal; place them together.
 - **Time:** 1.25 hours is 1 hour 15 minutes, not 1 hour 25 minutes.
 - **Squaring decimals between 0 and 1 makes them smaller:** 0.9² = 0.81 < 0.9.
+- Not showing converted values, so a single slip leaves no method credit.
+- Ordering negative decimals as if they were positive.
+- Forgetting to convert units, or converting 1 km 85 m to 1.85 km.
+- Answering in decimals when the question gave fractions and percentages.
 
 ## Quick self-test
 
@@ -164,13 +168,6 @@ Two checks before writing the answer: the question says **largest** first, and t
 10. 1.4 hours = 84 minutes < 90 minutes, so 1 hour 30 minutes is larger
 11. 3² (9), then 2³ and √64 (both 8), then 4
 12. 0.5̇4̇ (0.5454…), 0.55, 0.5̇ (0.5555…)
-
-## Where marks are usually lost
-
-- Not showing converted values, so a single slip leaves no method credit.
-- Ordering negative decimals as if they were positive.
-- Forgetting to convert units, or converting 1 km 85 m to 1.85 km.
-- Answering in decimals when the question gave fractions and percentages.
 
 ## More on this topic
 

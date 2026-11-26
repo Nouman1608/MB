@@ -53,7 +53,7 @@ x² + bx + c        product c, sum b:  x² − 2x − 48 = (x − 8)(x + 6)
 Difference of squares   x² − 49 = (x − 7)(x + 7)
 ```
 
-## Higher checklist
+**Higher checklist**
 
 ```
 Three brackets      two first, simplify, then the third

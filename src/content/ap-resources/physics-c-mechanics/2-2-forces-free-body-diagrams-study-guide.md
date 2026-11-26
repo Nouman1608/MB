@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.2-study-guide"
 title: "Forces and Free-Body Diagrams: Study Guide (Physics C: Mechanics 2.2)"
 description: "Forces as interactions between objects, contact forces from electric interactions, free-body diagrams drawn to the course conventions, tilted axes on slopes, and forces that change with time."
+seoDescription: "Physics C: Mechanics calculus-based guide to forces and free-body diagrams: interactions, tilted axes on slopes and forces that change with time."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.2"]

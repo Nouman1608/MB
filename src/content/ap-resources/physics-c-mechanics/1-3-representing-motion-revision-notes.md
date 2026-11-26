@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-1.3-revision-notes"
 title: "Representing Motion: Revision Notes (Physics C: Mechanics 1.3)"
 description: "One-page recap of representing motion: motion diagrams, slope and area links between graphs, curvature, the constant-acceleration equations and free fall near Earth."
+seoDescription: "One-page Physics C: Mechanics recap of representing motion: motion diagrams, graph slopes and areas, curvature, constant-acceleration equations and free fall."
 course: "physics-c-mechanics"
 unit: 1
 topics: ["1.3"]

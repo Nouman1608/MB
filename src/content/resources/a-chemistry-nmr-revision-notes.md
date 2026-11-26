@@ -41,7 +41,6 @@ Nuclei with an odd mass number — **¹H and ¹³C** — behave as tiny magnets.
   <figcaption>TMS: twelve equivalent hydrogens give one sharp reference peak at 0.</figcaption>
 </figure>
 
-
 ## Carbon-13 NMR
 
 **Number of peaks = number of chemically different carbon environments.**
@@ -55,7 +54,6 @@ There is **no splitting** in ¹³C NMR at this level, and peak heights are not q
   <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
 </figure>
 
-
 ## Worked example: carbon-13 peak count
 
 Predict the number of peaks for propan-1-ol, CH₃CH₂CH₂OH, and propan-2-ol, (CH₃)₂CHOH.
@@ -66,7 +64,6 @@ Propan-1-ol has three carbons, each in a genuinely different environment (termin
   <img src="https://img.marlbridge.com/a-chemistry-nmr-revision-notes--03-nmr-propanol-c13.webp" width="900" height="1010" alt="Skeletal formulae with carbons coloured by environment. Propan-1-ol has three different carbons and gives 3 peaks; propan-2-ol has a mirror plane so its two CH3 carbons are equivalent and it gives 2 peaks." loading="lazy">
   <figcaption>Propan-1-ol gives 3 carbon-13 peaks, propan-2-ol only 2 because of symmetry.</figcaption>
 </figure>
-
 
 ## Proton NMR — three pieces of information
 
@@ -139,7 +136,6 @@ Ethanol is the classic worked example: CH₃ (triplet, 3H), CH₂ (quartet, 2H),
   <figcaption>n neighbouring H give n + 1 lines: singlet, doublet, triplet, quartet with Pascal heights (OCR also uses quintet, sextet, septet).</figcaption>
 </figure>
 
-
 ## OH and NH protons
 
 These appear as **broad singlets** at variable shift, and they do **not** split or get split, because they exchange rapidly with the solvent.
@@ -150,13 +146,6 @@ These appear as **broad singlets** at variable shift, and they do **not** split 
   <img src="https://img.marlbridge.com/a-chemistry-nmr-revision-notes--05-nmr-d2o-shake.webp" width="900" height="1190" alt="Two schematic ethanol spectra, before and after shaking with D2O. The exchange R-OH + D2O to R-OD + HOD removes only the OH peak; the C-H quartet and triplet are unchanged." loading="lazy">
   <figcaption>Shaking with D2O makes the OH peak vanish; C-H signals stay.</figcaption>
 </figure>
-
-
-## Common mistakes to avoid
-
-**Including an OH or NH proton in a neighbouring group's splitting count.** Because these protons usually exchange rapidly, they don't show the expected coupling to neighbouring C–H protons, and are excluded when applying the n+1 rule to an adjacent CH₂ or CH₃.
-
-**Assuming the D₂O shake changes the carbon skeleton.** The exchange R–OH + D₂O ⇌ R–OD + HOD is a real, reversible reaction, but it swaps only the labile O–H/N–H hydrogen for deuterium; every C–H bond and the carbon connectivity are unchanged, which is why only the O–H/N–H peak disappears.
 
 ## Solvents
 
@@ -170,6 +159,10 @@ Use **deuterated solvents** such as CDCl₃, because ordinary solvents would con
 - Expecting OH to split or be split.
 - Forgetting why a deuterated solvent is required.
 - Using splitting in ¹³C NMR.
+
+**Including an OH or NH proton in a neighbouring group's splitting count.** Because these protons usually exchange rapidly, they don't show the expected coupling to neighbouring C–H protons, and are excluded when applying the n+1 rule to an adjacent CH₂ or CH₃.
+
+**Assuming the D₂O shake changes the carbon skeleton.** The exchange R–OH + D₂O ⇌ R–OD + HOD is a real, reversible reaction, but it swaps only the labile O–H/N–H hydrogen for deuterium; every C–H bond and the carbon connectivity are unchanged, which is why only the O–H/N–H peak disappears.
 
 ## Self-test
 

@@ -139,7 +139,7 @@ In every stem, the area gives you the topic, the aspect narrows it, and the verb
 - Other reading: "However, a reader could see this as ..."
 - Closing a paragraph: "This shapes the representation of [area] because ..."
 
-## Checklist before you finish each answer
+## Points to check before you finish each answer
 
 - The first sentence answers the question.
 - Every paragraph names a method and explains its effect.

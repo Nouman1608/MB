@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-5.1-revision-notes"
 title: "Reaction Rates: Revision Notes (Chemistry 5.1)"
 description: "One-page recap of reaction rates: signs and units, linking the rates of species with coefficients, average and instantaneous rates, lab measurements and the factors that change rate."
+seoDescription: "One-page Chemistry recap of reaction rates: signs and units, rates of species and coefficients, average and instantaneous rates, and rate-changing factors."
 course: "chemistry"
 unit: 5
 topics: ["5.1"]

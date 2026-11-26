@@ -95,7 +95,7 @@ Comment on the gap: it often carries the writer's real perspective.
 - **Direct speech** — lets other people's voices characterise them.
 - **Sentence forms** — short for impact, long for accumulation, questions for reflection.
 
-## Structure checklist
+**Structure checklist**
 
 ```
 OPENING   scene / reflection / dialogue / statement -> what does it set up?

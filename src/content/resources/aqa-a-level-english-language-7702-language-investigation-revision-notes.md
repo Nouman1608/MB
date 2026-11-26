@@ -128,7 +128,7 @@ analysis can be organised around it.
   <figcaption>Organise by research question or feature, then give each section the same five moves.</figcaption>
 </figure>
 
-## Conclusion checklist
+**Conclusion checklist**
 
 - Answer each research question.
 - Use cautious language: "suggests", "in this data", "may".

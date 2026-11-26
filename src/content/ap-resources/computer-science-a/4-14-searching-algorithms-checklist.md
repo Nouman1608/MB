@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-4.14-checklist"
 title: "Searching Algorithms: Checklist (Computer Science A 4.14)"
 description: "A self-check for linear search: writing the standard pattern, counting comparisons, searching from either end, searching 2D arrays and avoiding the common bugs."
+seoDescription: "Computer Science A self-check for linear search: the standard pattern, counting comparisons, searching from either end, 2D arrays and avoiding common bugs."
 course: "computer-science-a"
 unit: 4
 topics: ["4.14"]

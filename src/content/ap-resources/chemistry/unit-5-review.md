@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u5-review"
 title: "Kinetics: Mixed Unit Review (Chemistry Unit 5)"
 description: "Connect rates, rate laws, integrated rate laws, collisions, energy profiles, mechanisms and catalysis with seven original questions that each combine two or more topics."
+seoDescription: "Chemistry Unit 5 review: seven original questions combining rates, integrated rate laws, collisions, energy profiles, mechanisms and catalysis."
 course: "chemistry"
 unit: 5
 topics: []

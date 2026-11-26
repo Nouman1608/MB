@@ -3,6 +3,7 @@ resourceId: "mb-ap-physcm-1.5-study-guide"
 title: "Motion in Two or Three Dimensions: Study Guide (Physics C: Mechanics 1.5)"
 seoTitle: "Physics C Mechanics 1.5 Motion in 2D and 3D Study Guide"
 description: "Calculus-based motion in a plane: position, velocity and acceleration as vector functions, splitting motion into independent components, non-uniform acceleration, and projectiles derived by integration."
+seoDescription: "Physics C: Mechanics calculus-based guide to motion in a plane: vector functions for position, non-uniform acceleration and projectiles."
 course: "physics-c-mechanics"
 unit: 1
 topics: ["1.5"]

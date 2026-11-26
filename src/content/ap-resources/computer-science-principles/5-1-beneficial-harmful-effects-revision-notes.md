@@ -3,6 +3,7 @@ resourceId: "mb-ap-csp-5.1-revision-notes"
 title: "Beneficial and Harmful Effects: Revision Notes (Computer Science Principles 5.1)"
 seoTitle: "CS Principles 5.1 Beneficial and Harmful Effects Notes"
 description: "One-page recap of beneficial, harmful and unintended effects of computing innovations, use beyond the intended purpose, and a method for analysing a described innovation."
+seoDescription: "One-page Computer Science Principles recap of beneficial, harmful and unintended effects of computing innovations, and a method for analysing one."
 course: "computer-science-principles"
 unit: 5
 topics: ["5.1"]

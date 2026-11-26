@@ -3,6 +3,7 @@ resourceId: "mb-ap-calcbc-10.15-study-guide"
 title: "Representing Functions as Power Series: Study Guide (Calculus BC 10.15)"
 seoTitle: "Calculus BC 10.15 Functions as Power Series Study Guide"
 description: "Build power series for new functions from known series by substitution, algebra, geometric-series rewriting and term-by-term differentiation or integration, and find where each series is valid."
+seoDescription: "Calculus BC study guide to power series for new functions: substitution, algebra, geometric series, term-by-term calculus, and where each series is valid."
 course: "calculus-bc"
 unit: 10
 topics: ["10.15"]

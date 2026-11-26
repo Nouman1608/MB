@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-12.3-study-guide"
 title: "Magnetism and Current-Carrying Wires: Study Guide (Physics 2 12.3)"
 description: "The magnetic field around a long straight wire and at the centre of a loop, adding fields from several wires, and the force a magnetic field exerts on a current."
+seoDescription: "Physics 2 study guide to current-carrying wires: the field around a long straight wire and at a loop's centre, adding fields, and the force on a current."
 course: "physics-2"
 unit: 12
 topics: ["12.3"]

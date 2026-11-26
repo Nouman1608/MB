@@ -3990,6 +3990,9 @@ for (const fname of files) {
   // D-507: an archived resource is off every course hub and noindexed
   // (D-505), so it no longer competes for its scope.
   if (field(fm, 'reviewStatus') === 'archived') continue;
+  // D-545: a hidden draft is not routed, built or listed in the sitemap, so it
+  // cannot compete for a scope. The check applies once the page is reviewed.
+  if (field(fm, 'reviewStatus') === 'draft') continue;
 
   const subject = field(fm, 'subject');
   const boards = arrayField(fm, 'boards');

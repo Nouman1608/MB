@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u4-review"
 title: "Chemical Reactions: Mixed Unit Review (Chemistry Unit 4)"
 description: "Connect evidence of change, balanced and net ionic equations, particle diagrams, stoichiometry, titration, acid-base and redox with seven original questions that each combine topics."
+seoDescription: "Chemistry Unit 4 review: seven original questions combining net ionic equations, particle diagrams, stoichiometry, titration, acid-base and redox."
 course: "chemistry"
 unit: 4
 topics: []

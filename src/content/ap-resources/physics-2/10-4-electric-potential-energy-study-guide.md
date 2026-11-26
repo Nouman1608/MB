@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-10.4-study-guide"
 title: "Electric Potential Energy: Study Guide (Physics 2 10.4)"
 description: "Define electric potential energy as the work needed to assemble charges from far apart, use U = kq₁q₂/r with signs, read U–r graphs and add the energy of every pair of charges."
+seoDescription: "Physics 2 study guide to electric potential energy: the work to assemble charges, U-r graphs and adding the energy of every pair of charges."
 course: "physics-2"
 unit: 10
 topics: ["10.4"]

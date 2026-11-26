@@ -86,7 +86,7 @@ family and private life; and his conduct as a husband is a model for Muslim marr
 
 - **Sons:** al-Qasim and Abdullah, sons of Khadija (RA), died in childhood; Ibrahim, son of Mariya, died as
   an infant in Madina.
-- **Daughters:** Zaynab (married Abu al-As); Ruqayya and Umm Kulthum, who in turn married Uthman (RA), so
+- **Daughters:** Zaynab (RA) (married Abu al-As); Ruqayya (RA) and Umm Kulthum (RA), who in turn married Uthman (RA), so
   he is called *Dhu al-Nurayn*, "possessor of two lights"; and Fatima (RA), who married Ali (RA).
 - **Grandchildren:** Hasan (RA) and Husayn (RA), sons of Fatima (RA) and Ali (RA), whom he loved and called leaders of the
   youth of paradise; also Umama, daughter of Zaynab, whom he carried while praying.

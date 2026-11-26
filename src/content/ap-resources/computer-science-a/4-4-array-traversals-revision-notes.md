@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-4.4-revision-notes"
 title: "Array Traversals: Revision Notes (Computer Science A 4.4)"
 description: "One-page recap of array traversals: indexed for and while loops, partial and backward traversals, the enhanced for loop and its copy of each element, and off-by-one errors."
+seoDescription: "One-page Computer Science A recap of array traversals: for and while loops, partial and backward traversals, the enhanced for loop and off-by-one errors."
 course: "computer-science-a"
 unit: 4
 topics: ["4.4"]

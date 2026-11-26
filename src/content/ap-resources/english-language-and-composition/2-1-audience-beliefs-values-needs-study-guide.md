@@ -7,6 +7,7 @@ unit: 2
 topics: ["2.1"]
 resourceType: "study-guide"
 description: "Learn to analyse an audience's beliefs, values, needs and background, and to explain or demonstrate how a writer's choices respond to them through common ground and concession. Two worked examples."
+seoDescription: "English Language study guide to analysing an audience's beliefs, values, needs and background, and how common ground and concession respond to them."
 prerequisites:
   - "Audience and context (Topic 1.3)"
   - "Claims and evidence (Topics 1.4 to 1.6)"

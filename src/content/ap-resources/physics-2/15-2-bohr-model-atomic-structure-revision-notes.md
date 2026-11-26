@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-15.2-revision-notes"
 title: "The Bohr Model of Atomic Structure: Revision Notes (Physics 2 15.2)"
 description: "One-page recap of atomic structure, nuclear notation, isotopes and ions, the Bohr orbit force condition and the standing-wave rule 2πr = nλ for allowed orbits."
+seoDescription: "One-page Physics 2 recap of atomic structure, nuclear notation, isotopes and ions, the Bohr orbit force condition and the standing-wave rule 2πr = nλ."
 course: "physics-2"
 unit: 15
 topics: ["15.2"]

@@ -103,6 +103,10 @@ An assumption is a simplification used to build models and make predictions. It 
 - Consumers usually *want* the most benefit; the point is that they may *fail* to get it.
 - Do not assume charity or customer care always lowers profit in the long run.
 - In a data-response question, **name** the reason and **quote** the evidence from the case.
+- Choosing the revenue-maximising output when asked for profit maximisation.
+- Inventing reasons not in the specification.
+- Describing a reason without linking it to the case in the question.
+- Forgetting the long-run evaluation point for customer care and charity.
 
 ## Quick self-test
 
@@ -133,13 +137,6 @@ An assumption is a simplification used to build models and make predictions. It 
 10. It saves time spent researching, or the good gives more benefit when others use it too.
 11. 50 × 4 = **200** a week.
 12. A higher price means more profit on each unit, so profit-seeking firms offer more for sale.
-
-## Where marks are usually lost
-
-- Choosing the revenue-maximising output when asked for profit maximisation.
-- Inventing reasons not in the specification.
-- Describing a reason without linking it to the case in the question.
-- Forgetting the long-run evaluation point for customer care and charity.
 
 ## Official syllabus
 

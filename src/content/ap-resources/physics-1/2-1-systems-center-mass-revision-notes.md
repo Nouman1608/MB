@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-2.1-revision-notes"
 title: "Systems and Center of Mass: Revision Notes (Physics 1 2.1)"
 description: "One-page recap of choosing systems, internal and external interactions, open and closed systems, and finding a center of mass by symmetry or by calculation."
+seoDescription: "One-page Physics 1 recap of choosing systems, internal and external interactions and finding a center of mass by symmetry or calculation."
 course: "physics-1"
 unit: 2
 topics: ["2.1"]

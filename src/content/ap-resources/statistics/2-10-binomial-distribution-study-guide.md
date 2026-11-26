@@ -2,6 +2,7 @@
 resourceId: "mb-ap-stats-2.10-study-guide"
 title: "The Binomial Distribution: Study Guide (Statistics 2.10)"
 description: "Learn to justify whether a random variable is binomial, calculate binomial probabilities, mean and standard deviation, estimate probabilities by simulation and interpret results in context."
+seoDescription: "Statistics study guide to the binomial distribution: justifying a binomial variable, binomial probabilities, simulation and interpretation in context."
 course: "statistics"
 unit: 2
 topics: ["2.10"]

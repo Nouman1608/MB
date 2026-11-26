@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-5.2-revision-notes"
 title: "The Phillips Curve: Revision Notes (Macroeconomics 5.2)"
 description: "One-page recap of the short-run and long-run Phillips curves, gaps on the graph, demand and supply shocks, LRPC shifts and the graphing mistakes that cost marks."
+seoDescription: "One-page Macroeconomics recap of short-run and long-run Phillips curves, gaps on the graph, demand and supply shocks, LRPC shifts and graphing mistakes."
 course: "macroeconomics"
 unit: 5
 topics: ["5.2"]
