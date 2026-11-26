@@ -66,7 +66,7 @@ export function apMetaDescription(description: string, max = SNIPPET_MAX): strin
  * when the frontmatter has one, else the automatic cut of the description above.
  */
 export const apPageMetaDescription = (description: string, seoDescription?: string): string =>
-  seoDescription?.replace(/s+/g, ' ').trim() || apMetaDescription(description);
+  seoDescription?.replace(/\s+/g, ' ').trim() || apMetaDescription(description);
 
 /**
  * Audit 3, item 28 -- chemistry subscripts in frontmatter text (key points, objectives,

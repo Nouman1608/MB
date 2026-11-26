@@ -251,7 +251,7 @@ console.log(`Title agreement (<title>, og:title, twitter:title, WebPage name): $
 if (problems.length) {
   console.log(`\nProblems:`);
   const kinds = new Map();
-  for (const p of problems) { const k = p.issue.replace(/[:"].*$/, '').replace(/d+/g, 'N'); kinds.set(k, (kinds.get(k) ?? 0) + 1); }
+  for (const p of problems) { const k = p.issue.replace(/[:"].*$/, '').replace(/\d+/g, 'N'); kinds.set(k, (kinds.get(k) ?? 0) + 1); }
   console.log('  By kind:'); for (const [k, n] of [...kinds].sort((a, b) => b[1] - a[1])) console.log(`    ${n} x ${k}`);
   for (const p of problems.slice(0, 50)) console.log(`  ✗ ${p.path} -- ${p.issue}${p.snippet ? ` (${p.snippet})` : ''}`);
   if (problems.length > 50) console.log(`  ... and ${problems.length - 50} more`);
