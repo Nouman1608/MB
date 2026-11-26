@@ -24,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-Condensed notes for **section 7.3 Efficiency and market failure** (A Level, Cambridge 9708, 2026–2028). For worked examples, use the [efficiency and market failure study guide](/resources/cambridge-a-level-economics-9708-efficiency-and-market-failure/). Figures are invented.
+Condensed notes for **section 7.3 Efficiency and market failure** (A Level, Cambridge 9708, 2026–2028). For worked examples, use the [efficiency and market failure study guide](/resources/cambridge-a-level-economics-9708-efficiency-and-market-failure/). Figures are invented. For a broader treatment of this section alongside its neighbours, see the [longer revision notes](/resources/cambridge-a-level-economics-efficiency-market-failure-and-externalities-revision-notes/).
 
 ## The six syllabus statements
 

@@ -3950,6 +3950,90 @@ const REVIEWED_LEGITIMATE = [
     files: ["cambridge-igcse-chemistry-0620-moles-exam-style-questions-practice.md", "cambridge-igcse-chemistry-0620-the-mole-and-the-avogadro-constant-practice.md"],
     evidence: "SEO fixes 2 pilot (24 Nov 2026). Both practice sets carry the one mole-and-Avogadro subtopic because the record has no finer subtopic for exam-style work. They are different resources: the existing page is a topic practice set; the pilot is a 38-mark exam-style paper of twelve original questions with the mark for each part shown in square brackets and a mark scheme with M and A marks and full working. The shared text is the standard disclaimer and the links block. Unreviewed (review-pending) until a teacher checks it.",
   },
+  {
+    files: ["cambridge-igcse-islamiyat-0493-major-themes-quran-practice.md","cambridge-igcse-islamiyat-0493-q1-themes-practice-set.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. practice-questions. The existing set is twelve questions across the set passages; the new one is a second set (Set B) limited to Suras 1, 2.21-22, 5.110, 108 and 114, with short-recall, exam-style and evaluate sections and its own marked answers.",
+  },
+  {
+    files: ["cambridge-igcse-islamiyat-0493-major-themes-quran.md","cambridge-igcse-islamiyat-0493-q1-choosing-passages-study-guide.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. study-guides. The existing guide shows how to read the fifteen passages (theme, key Arabic words, link to Muslim life). The new guide is exam technique for Question 1 only: choosing two of the three set passages in under a minute, a four-box planning grid, what each part is marked for, and one worked plan on Sura 93.",
+  },
+  {
+    files: ["cambridge-igcse-islamiyat-0493-q1-checklist-revision-notes.md","cambridge-igcse-islamiyat-major-themes-of-the-quran-revision-notes.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. revision-notes. The existing notes are passage-by-passage recall of theme, key ideas and importance. The new page is a Question 1 checklist: the format in five lines, one recall card per passage, the answer shape for each part, mistakes to avoid and a self-test.",
+  },
+  {
+    files: ["cambridge-o-level-islamiyat-2058-appendix-1-connections-revision-notes.md","cambridge-o-level-islamiyat-major-themes-of-the-quran-revision-notes.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. revision-notes. The existing notes are question-and-answer recall on the fifteen passages grouped by theme. The new page is a two-table Appendix 1 at-a-glance: the fifteen passages by syllabus group with a short theme label, and a table of which passages help in the History of the Qur'an, Life of the Prophet and Articles of Faith topics.",
+  },
+  {
+    files: ["cambridge-o-level-islamiyat-2058-articles-faith-pillars-practice.md","cambridge-o-level-islamiyat-2058-articles-pillars-practice-set.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. practice-questions. The existing set is thirteen questions on angels, prophets, the Last Day, shahada, prayer, zakat and hajj. The new Set B has six short-recall questions (six Articles, three meanings of jihad, angels, zakat, fasting exemptions, hajj observances), three 10+4 essay-style questions on prophets, salat and the Last Day, and one evaluate question on hajj, with marked answers.",
+  },
+  {
+    files: ["cambridge-o-level-islamiyat-2058-articles-of-faith-essay-technique-study-guide.md","cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. study-guides. The existing guide is a question-led content guide to the six beliefs, jihad and the Five Pillars. The new guide is essay technique for Paper 2 Topic 4: what the syllabus lists, how the 10-mark knowledge and 4-mark understanding split works, and three worked outlines (fasting, belief in angels, predestination).",
+  },
+  {
+    files: ["cambridge-o-level-islamiyat-2058-five-pillars-quick-reference-revision-notes.md","cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam-revision-notes.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. revision-notes. The existing notes are mind-map recall with Qur'an references. The new page is three quick-reference tables (six Articles of Faith, jihad, five Pillars) with a significance column and a self-test.",
+  },
+  {
+    files: ["cambridge-o-level-islamiyat-2058-major-themes-quran-practice.md","cambridge-o-level-islamiyat-2058-q1-themes-practice-set.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. practice-questions. The existing set is twelve questions on the set passages with key Arabic words. The new Set B drills Question 1 skills one at a time: group recognition, theme and importance today, an exam-style part with a passage given, an evaluate question and a where-marks-are-lost list.",
+  },
+  {
+    files: ["cambridge-o-level-islamiyat-2058-q1-answer-building-study-guide.md","cambridge-o-level-islamiyat-major-themes-of-the-quran.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. study-guides. The existing guide covers subtopic 1.1 content: God in Himself, God and creation, God's Messengers. The new guide is answer-building technique for Question 1: what the levels reward, a four-step routine and two worked examples on Sura 112 and Sura 99.",
+  },
+  {
+    files: ["edexcel-igcse-english-language-spoken-language-endorsement-choosing-your-form.md","edexcel-igcse-english-language-spoken-language-endorsement-study-guide.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. study-guides. The existing guide covers preparing and giving a talk, answering questions and spoken Standard English. The new guide is only about choosing between the two permitted forms and designing for a wider audience, with a form-choice table and worked examples for adapting a talk and preparing interview prompts.",
+  },
+  {
+    files: ["edexcel-igcse-english-language-spoken-language-endorsement-plan-and-respond-practice.md","edexcel-igcse-english-language-spoken-language-endorsement-practice.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. practice-questions. Two separate original question sets of different questions: the new one has six plan-and-respond tasks (length and forms, teacher-only audience, planning a talk on phones in classrooms, audience questions, an unanswerable question, rewriting a filler-filled reply into spoken Standard English) with model answers.",
+  },
+  {
+    files: ["edexcel-igcse-english-language-spoken-language-endorsement-responding-and-moderation.md","edexcel-igcse-english-language-spoken-language-endorsement-revision-notes.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. revision-notes. The existing notes cover the endorsement at a glance (formats, 10-minute limit, AO6, grades). The new page covers only listening and responding by grade, the general criteria and the moderation facts (sample sizes, record sheet, digital submission) with an answer pattern and self-test.",
+  },
+  {
+    files: ["ib-dp-language-b-experiences-fast-facts-and-phrases.md","ib-dp-language-b-experiences-revision-notes.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. revision-notes. The existing notes are condensed topic, tense, time-marker and text-type notes. The new page is a fast-facts card: theme facts, an assessment table for both levels, a narrative skill checklist, traps and a self-test.",
+  },
+  {
+    files: ["ib-dp-language-b-experiences-from-theme-to-task.md","ib-dp-language-b-experiences.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. study-guides. The existing guide explains the theme, its six topics, narrative language and text types. The new guide is a four-step task-planning routine with a worked Paper 1 plan and a worked SL oral stimulus preparation.",
+  },
+  {
+    files: ["ib-dp-language-b-experiences-plan-and-reflect-practice.md","ib-dp-language-b-experiences-practice.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. practice-questions. Two separate sets of original questions on different original passages; the new set uses one passage (the first day of the market) plus planning and reflective-rewrite tasks, with its own model answers.",
+  },
+  {
+    files: ["ib-dp-language-b-human-ingenuity-argue-and-evaluate.md","ib-dp-language-b-human-ingenuity.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. study-guides. The existing guide covers the theme, its five topics and worked examples for each component. The new guide teaches one skill: evaluating rather than describing, with a five-step claim, evidence, effect, counterpoint, judgement frame and two worked examples.",
+  },
+  {
+    files: ["ib-dp-language-b-human-ingenuity-evaluate-practice.md","ib-dp-language-b-human-ingenuity-practice.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. practice-questions. Two separate sets of original questions on different original passages; the new set uses one passage about tablets in a school and asks for viewpoints, a link to a possible question and a five-part plan, with its own model answers.",
+  },
+  {
+    files: ["ib-dp-language-b-human-ingenuity-fast-facts.md","ib-dp-language-b-human-ingenuity-revision-notes.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. revision-notes. The existing notes cover theme facts, vocabulary fields, structures and method steps. The new page is a fast-facts card: theme facts, assessment facts for both levels, the argument frame, useful structures and traps.",
+  },
+  {
+    files: ["ib-myp-language-acquisition-global-contexts-and-topics-practice.md","ib-myp-language-acquisition-global-contexts-lenses-practice.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. practice-questions. The existing set is about topic word banks and reusing vocabulary across Criteria A to D. The new set is about using a global context as a lens: matching topics to contexts, one topic at personal, local and global scale, and reading a short original text for contexts.",
+  },
+  {
+    files: ["ib-myp-language-acquisition-global-contexts-and-topics-revision-notes.md","ib-myp-language-acquisition-global-contexts-one-page-recall.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. revision-notes. The existing notes cover contexts, five-layer word banks and reuse across skills. The new page is a one-page recall of the six contexts, rules of thumb, a topic-to-lens table and the three scales.",
+  },
+  {
+    files: ["ib-myp-language-acquisition-global-contexts-and-topics.md","ib-myp-language-acquisition-global-contexts-reading-a-task.md"],
+    evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. study-guides. The existing guide is about building word banks from the contexts. The new guide shows how to use a context to read a task: a context-to-angle table, one topic read through two contexts and a worked reading of a speaking prompt.",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(

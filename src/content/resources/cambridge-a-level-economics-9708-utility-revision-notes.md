@@ -24,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-Condensed notes for **section 7.1 Utility** (A Level, Cambridge 9708, 2026–2028). For full worked examples, use the [utility study guide](/resources/cambridge-a-level-economics-9708-utility/). All figures are invented; utility is in utils.
+Condensed notes for **section 7.1 Utility** (A Level, Cambridge 9708, 2026–2028). For full worked examples, use the [utility study guide](/resources/cambridge-a-level-economics-9708-utility/). All figures are invented; utility is in utils. For a broader treatment of this section alongside its neighbours, see the [longer revision notes](/resources/cambridge-a-level-economics-utility-indifference-curves-and-budget-lines-revision-notes/).
 
 ## The five syllabus statements
 

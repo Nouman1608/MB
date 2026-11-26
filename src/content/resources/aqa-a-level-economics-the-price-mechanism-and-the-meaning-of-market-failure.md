@@ -211,8 +211,8 @@ The market exists, but it misallocates. Detailed treatment is left to the guides
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five main causes.</figcaption>
+  <img src="https://img.marlbridge.com/economics-market-failure-causes-a-level--02-aqa-a-level-causes.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure in the specification list: public goods, positive and negative externalities, merit and demerit goods, monopoly and other market imperfections (including immobile resources), and inequality in the distribution of income and wealth. The result is that resources are misallocated." loading="lazy">
+  <figcaption>The specification lists five causes of market failure; immobile resources sit under monopoly and other imperfections.</figcaption>
 </figure>
 
 

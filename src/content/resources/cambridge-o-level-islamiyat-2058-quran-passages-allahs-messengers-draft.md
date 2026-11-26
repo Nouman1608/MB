@@ -14,8 +14,10 @@ syllabusTopics:
     topic: "major-themes-quran-2058"
 description: "Draft passage-by-passage notes on the five Allah's Messengers passages in Appendix 1 of Cambridge O Level Islamiyat 2058: Sura 2.30-37, 6.75-79, 5.110, 93 and 108."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
 reviewStatus: "draft"
-reviewNote: "2026-11-25: DRAFT for teacher review (Azam Siddique, to be confirmed by owner), D-536d. Not reviewed. No reviewer credited. Passage references checked against the 2026-2027 syllabus Appendix 1 only."
+reviewedDate: 2026-11-26
+reviewNote: "Reviewed and approved by Sir Azam Siddique, owner-reported 26 November 2026; no corrections supplied."
 publishedDate: 2026-11-25
 featured: false
 ---

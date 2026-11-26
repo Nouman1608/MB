@@ -14,8 +14,10 @@ syllabusTopics:
     topic: "major-themes-quran-2058"
 description: "Draft passage-by-passage notes on the five Allah-and-creation passages in Appendix 1 of Cambridge O Level Islamiyat 2058: Sura 1, 2.21-22, 96.1-5, 99 and 114."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
 reviewStatus: "draft"
-reviewNote: "2026-11-25: DRAFT for teacher review (Azam Siddique, to be confirmed by owner), D-536d. Not reviewed. No reviewer credited. Passage references checked against the 2026-2027 syllabus Appendix 1 only."
+reviewedDate: 2026-11-26
+reviewNote: "Reviewed and approved by Sir Azam Siddique, owner-reported 26 November 2026; no corrections supplied."
 publishedDate: 2026-11-25
 featured: false
 ---

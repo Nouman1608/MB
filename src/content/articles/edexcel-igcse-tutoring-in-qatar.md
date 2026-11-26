@@ -48,7 +48,7 @@ with the families concerned; for one-to-one lessons you choose the slot. Classes
 from Lahore, and nobody on our team is based in Qatar.
 
 Private schools in Qatar are licensed through the Ministry of Education and Higher
-Education (MOEHE), and Law No. 23 of 2015 regulates them. Which exam board a school enters candidates for is
+Education (MOEHE), and Law No. 23 of 2015 regulates them. In May 2026 a draft law to replace Law No. 23 of 2015 was put out for public consultation; we have not confirmed whether it has since been passed. Which exam board a school enters candidates for is
 the school's own decision, so check your child's specification code before booking.
 
 If your child sits a Cambridge IGCSE alongside or instead of Edexcel, note that Cambridge
@@ -82,4 +82,4 @@ and there is no registration fee. Families elsewhere in the Gulf can read
 [how online tuition works from the UAE](/articles/how-online-igcse-and-a-level-tuition-works-from-the-uae/)
 or see the [Gulf page](/gulf/).
 
-*Sources (read 26 November 2026):* The Peninsula Qatar, 25 December 2025, on the Ministry of Education and Higher Education's private school licensing portal (thepeninsulaqatar.com/article/25/12/2025/education-ministry-streamlines-licensing-for-private-schools-in-qatar); Qatar News Agency, 9 November 2026, citing Law No. 23 of 2015 on the Regulation of Private Schools (qna.org.qa); Cambridge International, administrative zone lookup (Qatar: zone 3); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.
+*Sources (read 26 November 2026):* The Peninsula Qatar, 25 December 2025, on the Ministry of Education and Higher Education's private school licensing portal (thepeninsulaqatar.com/article/25/12/2025/education-ministry-streamlines-licensing-for-private-schools-in-qatar); Qatar News Agency, 9 November 2026, citing Law No. 23 of 2015 on the Regulation of Private Schools (qna.org.qa); Gulf Times, 27 May 2026, "Public consultation on private schools draft law is now open" (gulf-times.com/article/726269/qatar/public-consultation-on-private-schools-draft-law-is-now-open); The Peninsula Qatar, 26 May 2026, "Draft law sets private school licence validity for up to five years" (thepeninsulaqatar.com/article/26/05/2026/draft-law-sets-private-school-licence-validity-for-up-to-five-years); Cambridge International, administrative zone lookup (Qatar: zone 3); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.

@@ -55,11 +55,6 @@ These notes condense sections 3.1.6.1 and 3.1.6.2 of the AQA GCSE Economics (813
 - Beneficial goods under-provided, such as education and health care.
 - Public money spent on clean-up and treatment, which cannot be spent elsewhere.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five main causes.</figcaption>
-</figure>
-
 
 ## Methods of government intervention
 

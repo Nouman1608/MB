@@ -30,7 +30,10 @@ syllabusTopics:
     subtopic: "key-question-5-2059"
 description: "Focus-point study guide to Section 1 of Cambridge O Level Pakistan Studies 2059 Paper 1, Key Questions 1 to 5, with judgement plans for the 14-mark questions."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
 reviewStatus: "draft"
+reviewedDate: 2026-11-26
+reviewNote: "Reviewed and approved by Sir Azam Siddique, owner-reported 26 November 2026; no corrections supplied."
 publishedDate: 2026-11-25
 featured: false
 ---

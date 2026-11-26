@@ -179,28 +179,29 @@ const nameCard = (x, y, w, h, name, fact, o = {}) => panel(x, y, w, h, o.fill ||
 {
   let b = '';
   const box = (x, y, w, h, t1, t2, f = C.panel, e = C.panelEdge) => `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="10" fill="${f}" stroke="${e}" stroke-width="2.5"/>` + T(x + w / 2, y + (t2 ? 28 : h / 2 + 6), t1, { size: t1.length > 9 && w < 120 ? 15 : 17, weight: 700, anchor: 'middle' }) + (t2 ? T(x + w / 2, y + 50, t2, { size: 15, fill: C.muted, anchor: 'middle' }) : '');
+  const box3 = (x, y, w, h, t1, t2, f, e) => `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="10" fill="${f}" stroke="${e}" stroke-width="2.5"/>` + T(x + w / 2, y + 22, t1, { size: 15, weight: 700, anchor: 'middle' }) + T(x + w / 2, y + 40, '(RA)', { size: 14, weight: 700, anchor: 'middle' }) + T(x + w / 2, y + 58, t2, { size: 13, fill: C.muted, anchor: 'middle' });
   b += box(330, 110, 240, 52, 'The Prophet (pbuh)', '', C.mustard, C.olive);
   b += path('M450,162 L450,180 M220,180 L790,180 M220,180 L220,196 M790,180 L790,196', { w: 2.5 });
-  b += box(110, 196, 220, 44, 'with Khadija', '', C.cream, C.mustard) + box(710, 196, 160, 44, 'with Mariya', '', C.cream, C.mustard);
-  const kids = [['al-Qasim', 'died young'], ['Abdullah', 'died young'], ['Zaynab', 'm. Abu al-As'], ['Ruqayya', 'm. Uthman'], ['Umm Kulthum', 'm. Uthman'], ['Fatima', 'm. Ali']];
+  b += box(110, 196, 220, 44, 'with Khadija (RA)', '', C.cream, C.mustard) + box(710, 196, 160, 44, 'with Mariya', '', C.cream, C.mustard);
+  const kids = [['al-Qasim', 'died young'], ['Abdullah', 'died young'], ['Zaynab (RA)', 'm. Abu al-As'], ['Ruqayya (RA)', 'm. Uthman (RA)'], ['Umm Kulthum (RA)', 'm. Uthman (RA)'], ['Fatima (RA)', 'm. Ali (RA)']];
   const kx = (i) => 30 + i * 112;
   b += path(`M220,240 L220,256 M${kx(0) + 52},256 L${kx(5) + 52},256`, { w: 2.5 });
-  kids.forEach(([n, d], i) => { b += path(`M${kx(i) + 52},256 L${kx(i) + 52},270`, { w: 2.5 }) + box(kx(i), 270, 104, 66, n, d, i === 5 ? C.tealLight : C.panel, i === 5 ? C.tealDark : C.panelEdge); });
+  kids.forEach(([n, d], i) => { b += path(`M${kx(i) + 52},256 L${kx(i) + 52},270`, { w: 2.5 }) + (n.endsWith(' (RA)') ? box3(kx(i), 270, 104, 66, n.slice(0, -5), d, i === 5 ? C.tealLight : C.panel, i === 5 ? C.tealDark : C.panelEdge) : box(kx(i), 270, 104, 66, n, d, i === 5 ? C.tealLight : C.panel, i === 5 ? C.tealDark : C.panelEdge)); });
   b += path('M790,240 L790,270', { w: 2.5 }) + box(720, 270, 140, 66, 'Ibrahim', 'died as an infant');
   // Uthman note
   b += `<path d="M${kx(3) + 52},338 L${kx(3) + 52},352 L${kx(4) + 52},352 L${kx(4) + 52},338" fill="none" stroke="${C.olive}" stroke-width="2.5"/>` + path(`M${kx(3) + 108},352 L${kx(3) + 108},372`, { w: 2.5, stroke: C.olive });
-  b += `<rect x="${kx(3) - 12}" y="372" width="240" height="64" rx="10" fill="${C.cream}" stroke="${C.mustard}" stroke-width="2"/>` + T(kx(3) + 108, 398, 'Uthman: Dhu al-Nurayn', { size: 16, weight: 700, anchor: 'middle' }) + T(kx(3) + 108, 422, '"possessor of two lights"', { size: 15, fill: C.muted, anchor: 'middle', italic: true });
+  b += `<rect x="${kx(3) - 12}" y="372" width="240" height="64" rx="10" fill="${C.cream}" stroke="${C.mustard}" stroke-width="2"/>` + T(kx(3) + 108, 398, 'Uthman (RA): Dhu al-Nurayn', { size: 16, weight: 700, anchor: 'middle' }) + T(kx(3) + 108, 422, '"possessor of two lights"', { size: 15, fill: C.muted, anchor: 'middle', italic: true });
   // grandchildren
   b += path(`M${kx(5) + 52},338 L${kx(5) + 52},470 M${kx(5) - 70},470 L${kx(5) + 166},470`, { w: 2.5 });
-  b += box(kx(5) - 120, 486, 110, 52, 'Hasan', '', C.tealLight, C.tealDark) + box(kx(5) + 110, 486, 110, 52, 'Husayn', '', C.tealLight, C.tealDark);
+  b += box(kx(5) - 120, 486, 110, 52, 'Hasan (RA)', '', C.tealLight, C.tealDark) + box(kx(5) + 110, 486, 110, 52, 'Husayn (RA)', '', C.tealLight, C.tealDark);
   b += path(`M${kx(5) - 65},470 L${kx(5) - 65},486 M${kx(5) + 165},470 L${kx(5) + 165},486`, { w: 2.5 });
   b += path(`M${kx(2) + 52},338 L${kx(2) + 52},486`, { w: 2.5 }) + box(kx(2) - 12, 486, 120, 52, 'Umama', '', C.tealLight, C.tealDark);
   b += T(450, 572, 'Grandchildren', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += panel(30, 592, 840, 96) + T(54, 628, 'Hasan and Husayn, sons of Fatima and Ali:', { size: 17, weight: 700 }) + T(54, 654, 'he called them leaders of the youth of paradise.', { size: 16, fill: C.muted }) +
-    T(500, 628, 'Umama, daughter of Zaynab:', { size: 17, weight: 700 }) + T(500, 654, 'he carried her while praying.', { size: 16, fill: C.muted });
-  add('04-descendants',
-    SV(716, 'His children and grandchildren', b),
-    'A text family tree. With Khadija: al-Qasim and Abdullah, who died young, and Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman, called Dhu al-Nurayn) and Fatima (married Ali). With Mariya: Ibrahim, who died as an infant. Grandchildren include Hasan and Husayn, sons of Fatima, and Umama, daughter of Zaynab.',
+  b += panel(30, 592, 840, 150) + T(54, 628, 'Hasan (RA) and Husayn (RA), sons of Fatima (RA) and Ali (RA):', { size: 17, weight: 700 }) + T(54, 654, 'he called them leaders of the youth of paradise.', { size: 16, fill: C.muted }) +
+    T(54, 692, 'Umama, daughter of Zaynab:', { size: 17, weight: 700 }) + T(54, 718, 'he carried her while praying.', { size: 16, fill: C.muted });
+  add('04-descendants-ra',
+    SV(766, 'His children and grandchildren', b),
+    'A text family tree. With Khadija (RA): al-Qasim and Abdullah, who died young, and Zaynab (RA) (married Abu al-As), Ruqayya (RA) and Umm Kulthum (RA) (both married Uthman (RA), called Dhu al-Nurayn) and Fatima (RA) (married Ali (RA)). With Mariya: Ibrahim, who died as an infant. Grandchildren include Hasan (RA) and Husayn (RA), sons of Fatima (RA), and Umama, daughter of Zaynab.',
     'All his sons died young; his line continued through his daughters.',
     '## Who were his descendants?');
 }

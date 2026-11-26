@@ -303,28 +303,28 @@ F('02-reasons-for-the-marriages', 'Why so many marriages?', 'Examiners reward ex
 'Give the reason, then name the wife who shows it.', H2.wives);
 
 // 03 Descendants family tree (text only)
-F('03-descendants', 'Children and grandchildren of the Prophet (pbuh)', 'Names only; all his sons died in childhood', [
+F('03-descendants-ra', 'Children and grandchildren of the Prophet (pbuh)', 'Names only; all his sons died in childhood', [
   (y) => {
     const top = node(450, y, 300, 'The Prophet (pbuh)', '', { fill: C.mustard, edge: C.ink });
-    const kh = node(260, y + 90, 300, 'With Khadija', '', { fill: C.cream, edge: C.olive });
+    const kh = node(260, y + 90, 300, 'With Khadija (RA)', '', { fill: C.cream, edge: C.olive });
     const ma = node(740, y + 90, 200, 'With Maria', '', { fill: C.cream, edge: C.olive });
-    const kids = [['Qasim', 'son'], ['Abdullah', 'son'], ['Zaynab', 'm. Abu al-As'], ['Ruqayya', 'm. Uthman'], ['Umm Kulthum', 'm. Uthman'], ['Fatima', 'm. Ali']];
-    const kn = kids.map(([n, sub], i) => node(80 + i * 120, y + 190, 112, n, sub, { minH: 86, fill: n === 'Fatima' ? C.tealLight : C.panel, edge: n === 'Fatima' ? C.tealDark : C.panelEdge }));
+    const kids = [['Qasim', 'son'], ['Abdullah', 'son'], ['Zaynab (RA)', 'm. Abu al-As'], ['Ruqayya (RA)', 'm. Uthman (RA)'], ['Umm Kulthum (RA)', 'm. Uthman (RA)'], ['Fatima (RA)', 'm. Ali (RA)']];
+    const kn = kids.map(([n, sub], i) => node(80 + i * 120, y + 190, 112, n, sub, { minH: 170, fill: n === 'Fatima (RA)' ? C.tealLight : C.panel, edge: n === 'Fatima (RA)' ? C.tealDark : C.panelEdge }));
     const ib = node(800, y + 190, 112, 'Ibrahim', 'son', { minH: 86 });
-    const gk = [['Hasan', ''], ['Husayn', ''], ['Zaynab bint Ali', '']];
-    const gn = gk.map(([n], i) => node([570, 690, 815][i], y + 340, [110, 110, 130][i], n, '', { minH: 64, fill: C.tealLight, edge: C.tealDark }));
+    const gk = [['Hasan (RA)', ''], ['Husayn (RA)', ''], ['Zaynab bint Ali (RA)', '']];
+    const gn = gk.map(([n], i) => node([570, 690, 815][i], y + 390, [110, 110, 130][i], n, '', { minH: 110, fill: C.tealLight, edge: C.tealDark }));
     const fat = kn[5];
     let s = link(top, kh) + link(top, ma) + kn.map((k) => link(kh, k)).join('') + link(ma, ib);
     s += gn.map((g) => link({ cx: fat.cx, bot: fat.bot }, g)).join('');
     s += [top, kh, ma, ...kn, ib, ...gn].map((n) => n.s).join('');
-    const u = card(30, y + 340, 470, { body: '**Uthman** married Ruqayya and later Umm Kulthum, so he was called **Dhu al-Nurayn**, "possessor of two lights".', size: 16, bfill: C.ink, fill: C.cream, edge: C.olive });
+    const u = card(30, y + 390, 470, { body: '**Uthman (RA)** married Ruqayya and later Umm Kulthum, so he was called **Dhu al-Nurayn**, "possessor of two lights".', size: 16, bfill: C.ink, fill: C.cream, edge: C.olive });
     s += u.s;
-    return { s, h: Math.max(340 + u.h, 340 + 64) };
+    return { s, h: Math.max(390 + u.h, 390 + 110) };
   },
-  (y) => note(y, 'At the Mubahala (Sura 3.61)', 'He came out with Ali, Fatima, Hasan and Husayn: the family Shi\'a Muslims call the **Ahl al-Bayt**.', { size: 17, fill: C.tealLight, edge: C.tealDark }),
+  (y) => note(y, 'At the Mubahala (Sura 3.61)', 'He came out with Ali (RA), Fatima (RA), Hasan (RA) and Husayn (RA): the family Shi\'a Muslims call the **Ahl al-Bayt**.', { size: 17, fill: C.tealLight, edge: C.tealDark }),
 ],
-'A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali); with Maria he had Ibrahim. Fatima\'s children include Hasan, Husayn and Zaynab bint Ali. A note explains Uthman\'s title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala.',
-'Six children with Khadija, Ibrahim with Maria; the line continues through Fatima and Ali.', H2.desc);
+'A text family tree. With Khadija (RA) the Prophet (pbuh) had Qasim, Abdullah, Zaynab (RA) (married Abu al-As), Ruqayya (RA) and Umm Kulthum (RA) (both married Uthman (RA)) and Fatima (RA) (married Ali (RA)); with Maria he had Ibrahim. Fatima\'s children include Hasan (RA), Husayn (RA) and Zaynab bint Ali (RA). A note explains Uthman\'s (RA) title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala.',
+'Six children with Khadija (RA), Ibrahim with Maria; the line continues through Fatima (RA) and Ali (RA).', H2.desc);
 
 // 04 The twelve Imams
 F('04-twelve-imams', 'The twelve Imams of Twelver Shi\'a Muslims', 'A direct line from the Prophet\'s (pbuh) family', [

@@ -104,11 +104,6 @@ Intervention is not free and it is not always right. When a question asks for ju
 
 A good conclusion picks a method and says why it suits the case: a tax where the harm varies with output, a ban where the harm is severe, a subsidy where society gains from more use.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five main causes.</figcaption>
-</figure>
-
 
 ## 3.1.6.2 Externalities
 
