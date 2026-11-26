@@ -4034,7 +4034,12 @@ const REVIEWED_LEGITIMATE = [
     files: ["ib-myp-language-acquisition-global-contexts-and-topics.md","ib-myp-language-acquisition-global-contexts-reading-a-task.md"],
     evidence: "D-546d (26 Nov 2026): published from the D-543i hidden draft set, awaiting an accountable teacher. study-guides. The existing guide is about building word banks from the contexts. The new guide shows how to use a context to read a task: a context-to-angle table, one topic read through two contexts and a worked reading of a speaking prompt.",
   },
+  {
+    files: ["cambridge-o-level-islamiyat-2058-appendix-1-connections-revision-notes.md","cambridge-o-level-islamiyat-2058-quran-passages-allah-and-created-world.md","cambridge-o-level-islamiyat-2058-quran-passages-allah-in-himself.md","cambridge-o-level-islamiyat-2058-quran-passages-allahs-messengers.md","cambridge-o-level-islamiyat-major-themes-of-the-quran-revision-notes.md"],
+    evidence: "D-546b (27 Nov 2026): the three Qur'an-passage pages were published after Sir Azam Siddique's owner-reported approval. Each is a passage-by-passage set for one Appendix 1 group (Allah in Himself: Sura 2.255, 6.101-103, 41.37, 42.4-5, 112; Allah and the created world; Allah's Messengers), with one section per passage that gives how to answer Question 1, key Arabic terms and no translation of its own. The two existing pages are different forms: appendix-1-connections is two quick-recall tables (the fifteen passages by group, and where a passage helps in other topics) plus a self-test, and major-themes-of-the-quran is question-and-answer recall notes across all 15 passages with links and common mistakes. A ten-word shingle check on 27 Nov 2026 found 5 to 12 shared ten-word sequences between each new page and each existing page (standard wording only). The three new pages share a repeated opening section (how Question 1 is set) with each other, about a third of each page, which is the same method note applying to every group.",
+  },
 ];
+
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(
   REVIEWED_LEGITIMATE.map((entry) => [legitimateKeyOf(entry.files), entry.evidence])

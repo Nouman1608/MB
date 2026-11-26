@@ -31,7 +31,7 @@ syllabusTopics:
 description: "Focus-point study guide to Section 1 of Cambridge O Level Pakistan Studies 2059 Paper 1, Key Questions 1 to 5, with judgement plans for the 14-mark questions."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "draft"
+reviewStatus: "reviewed"
 reviewedDate: 2026-11-26
 reviewNote: "Reviewed and approved by Sir Azam Siddique, owner-reported 26 November 2026; no corrections supplied."
 publishedDate: 2026-11-25
@@ -122,7 +122,7 @@ The specified content is the immediate and underlying causes of the War and the 
 
 ### Focus points: why was independence not achieved, and what were the immediate consequences?
 
-The syllabus lists the course of the War, with particular reference to the roles of the Muslim rulers and populations of what is now Pakistan, the reasons for failure, the short-term impact of the War on Muslims, and British reaction during and immediately after the War, including the major constitutional, educational and administrative reforms that followed. This guide gives only one of these points, because it is the only one the existing pages state: after 1857 the British blamed the Muslims for the War. Use your class notes for the rest (see the draft README).
+The syllabus lists the course of the War, with particular reference to the roles of the Muslim rulers and populations of what is now Pakistan, the reasons for failure, the short-term impact of the War on Muslims, and British reaction during and immediately after the War, including the major constitutional, educational and administrative reforms that followed. This guide gives only one of these points, because it is the only one the existing pages state: after 1857 the British blamed the Muslims for the War. Use the syllabus and your class notes for the rest.
 
 **Judgement plan: "The introduction of the greased cartridges was the most important cause of the War of Independence of 1857-58. How far do you agree?"** Explain the cartridges and Meerut, then the political, economic, social and religious, and military grievances. Without an explained counter-argument the answer cannot go above Level 3. Judgement: the cartridges were the immediate trigger, but the long-term grievances explain why a mutiny at Meerut turned into a widespread war.
 
@@ -140,7 +140,7 @@ The syllabus lists the reasons for the foundation of Aligarh College. Sir Syed f
 
 ### Focus points: the Two-Nation Theory and the Hindi-Urdu Controversy
 
-The syllabus requires the meaning and origin of the "Two-Nation" Theory and of the Hindi-Urdu Controversy, and asks how important the Theory was. This draft does not explain either, because the existing pages do not state them; use your class notes and the syllabus until a teacher has supplied the wording (see the draft README).
+The syllabus requires the meaning and origin of the "Two-Nation" Theory and of the Hindi-Urdu Controversy, and asks how important the Theory was. This guide does not explain either of them; use your class notes and the syllabus for those.
 
 ## Key Question 5: Urdu and regional languages
 

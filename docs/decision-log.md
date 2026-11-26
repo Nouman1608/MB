@@ -17044,3 +17044,10 @@ Owner chose to skip hidden drafts in `scripts/check-duplicate-resource-scope.mjs
 - **D-546o R2 upload, Islamiyat figures (item 20), 26 Nov 2026.** Cloudflare authorization failed (503/504, error 10001), so the owner uploads the two (RA) descendants figures by hand in the R2 dashboard; Claude verifies they return 200 from img.marlbridge.com before merge.
 - **D-546p Islamiyat (RA) figures deferred (item 20), 26 Nov 2026.** Owner said skip the upload for now. The four Islamiyat pages point back at the existing descendants figures (no (RA) in the images). The new `-ra` figures stay drawn locally in `docs/reports/topic-images/generated/`; to finish, upload them under the same names and switch the four `<img>` lines.
 - **D-546q Islamiyat (RA) figures uploaded (item 20), 27 Nov 2026.** Owner asked for the upload after Cloudflare recovered. The 2058 and 0493 descendants figures with (RA) are on R2 under new names (both 200 from img.marlbridge.com) and the four Islamiyat pages now use them.
+
+## D-547 - Islamiyat packs published (27 Nov 2026)
+
+- **D-547a.** Owner said to publish the Islamiyat packs, reviewed and approved by Sir Azam Siddique (owner-reported 26 Nov 2026; no marked-up corrections supplied). Three Qur'an passage pages (2058: Allah in Himself, Allah and the Created World, Allah's Messengers) and two Pakistan Studies 2059 pages (background study guide and revision notes) go from `draft` to `reviewed`.
+- **D-547b.** Qur'an pages: "(Draft)" removed from titles and descriptions, the DRAFT banner sentences removed (the "no English translation of its own" notice kept), the "Teacher to confirm" lines and "teacher to check" tags removed, the one sentence on Adam removed, files renamed without `-draft`.
+- **D-547c.** Pakistan Studies pages: "see the draft README" wording replaced with "use the syllabus and your class notes"; the pages still do not cover the Two-Nation Theory, the Hindi-Urdu Controversy or most of the 1857 War, and say so. No content added.
+- **D-547d.** One duplicate-scope allow-list entry for the Qur'an pages with the real differences from the two existing pages; ten-word shingle check recorded in the entry.
