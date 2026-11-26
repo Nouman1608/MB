@@ -93,7 +93,7 @@ al-Askari and Muhammad al-Mahdi, who Shi'a Muslims believe is in hiding and will
 martyrdom at Karbala is remembered especially in the month of Muharram.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants.webp" width="900" height="685" alt="A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali (RA)); with Maria he had Ibrahim. Fatima's children include Hasan (RA), Husayn (RA) and Zaynab bint Ali (RA). A note explains Uthman's title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants-ra.webp" width="900" height="789" alt="A text family tree. With Khadija (RA) the Prophet (pbuh) had Qasim, Abdullah, Zaynab (RA) (married Abu al-As), Ruqayya (RA) and Umm Kulthum (RA) (both married Uthman (RA)) and Fatima (RA) (married Ali (RA)); with Maria he had Ibrahim. Fatima's children include Hasan (RA), Husayn (RA) and Zaynab bint Ali (RA). A note explains Uthman's (RA) title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
   <figcaption>Six children with Khadija (RA), Ibrahim with Maria; the line continues through Fatima (RA) and Ali (RA).</figcaption>
 </figure>
 
