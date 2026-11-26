@@ -15,7 +15,7 @@ seoTitle: "O Level Tuition in Lahore: Online or In Person?"
 seoDescription: "Cambridge O Level tuition in Lahore at our Al-Kabir Town academy or live online across Pakistan: how the two formats compare, fees, subjects and the free trial."
 ---
 
-Most O Level students in Pakistan sit Cambridge O Level in the June or November series, often
+Cambridge O Level in Pakistan is examined in the May/June and October/November series, often
 in several subjects at once, and many families look for extra help in one or two of them. In Lahore the
 first question is often practical: should the classes be at an academy, or online at home?
 At Marlbridge the answer can be either, with the same teachers.
@@ -92,4 +92,4 @@ discounts for three or more subjects and for siblings. The guide to
 You can message us on WhatsApp or use the trial form; tell us whether you prefer the academy
 or online, and we will confirm a teacher and a time.
 
-*Sources (read 26 November 2026):* British Council Pakistan, Cambridge Guides to Making Entries and school-student registration (britishcouncil.pk/exam); Cambridge International, administrative zone lookup (Pakistan, Karachi: zone 4); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offset.
+*Sources (read 26 November 2026):* British Council Pakistan, school registration page (May/June and October/November Cambridge sessions) and Guide to Making Entries (britishcouncil.pk/exam/school/register; britishcouncil.pk/sites/default/files/guide_to_making_entries_-mj25.pdf); Cambridge International, administrative zone lookup (Pakistan, Karachi: zone 4); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offset.

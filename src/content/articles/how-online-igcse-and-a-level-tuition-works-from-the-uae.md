@@ -95,4 +95,4 @@ and discounts. Our guide to
 Families in [Qatar](/qatar/) and the [wider Gulf](/gulf/) can find their own fees and class
 times on their country pages.
 
-*Sources (read 26 November 2026):* KHDA, About Us (web.khda.gov.ae/en/About-Us); ADEK, About Us (adek.gov.ae); Cambridge International, administrative zone lookup (Dubai: zone 4); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.
+*Sources (read 26 November 2026):* UAE government portal, Regulatory authorities of K-12 education (u.ae/en/information-and-services/education/school-education-k-12/regulatory-authorities-of-k-12-education); ADEK, About Us (adek.gov.ae); Cambridge International, administrative zone lookup (Dubai: zone 4); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.

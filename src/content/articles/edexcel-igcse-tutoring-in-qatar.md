@@ -15,8 +15,8 @@ seoTitle: "Edexcel IGCSE Tutoring in Qatar: A Guide for Doha Families"
 seoDescription: "Online Pearson Edexcel International GCSE tuition for students in Doha: the specifications taught, class times in Qatar time, how fees work and the free trial."
 ---
 
-Pearson Edexcel International GCSE is one of the most common qualifications in Doha's
-British-curriculum schools, often taught alongside Cambridge IGCSE. When a student needs help
+Students at British-curriculum schools in Doha may sit Pearson Edexcel International GCSE or
+Cambridge IGCSE, depending on the school. When a student needs help
 in one subject, the first thing to get right is the specification: an Edexcel paper is not a
 Cambridge paper, and a tutor should be teaching the one your child will sit.
 
@@ -47,8 +47,8 @@ leaves a constant two-hour gap: 5:00 pm in Doha is 7:00 pm in Lahore. Group time
 with the families concerned; for one-to-one lessons you choose the slot. Classes run live online
 from Lahore, and nobody on our team is based in Qatar.
 
-Private schools in Qatar are licensed by the Ministry of Education and Higher
-Education (MOEHE) under Law No. 23 of 2015. Which exam board a school enters candidates for is
+Private schools in Qatar are licensed through the Ministry of Education and Higher
+Education (MOEHE), and Law No. 23 of 2015 regulates them. Which exam board a school enters candidates for is
 the school's own decision, so check your child's specification code before booking.
 
 If your child sits a Cambridge IGCSE alongside or instead of Edexcel, note that Cambridge
@@ -82,4 +82,4 @@ and there is no registration fee. Families elsewhere in the Gulf can read
 [how online tuition works from the UAE](/articles/how-online-igcse-and-a-level-tuition-works-from-the-uae/)
 or see the [Gulf page](/gulf/).
 
-*Sources (read 26 November 2026):* Qatar Ministry of Education and Higher Education, Private school licenses (edu.gov.qa/en/Content/Privateschoollicenses); Cambridge International, administrative zone lookup (Qatar: zone 3); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.
+*Sources (read 26 November 2026):* The Peninsula Qatar, 25 December 2025, on the Ministry of Education and Higher Education's private school licensing portal (thepeninsulaqatar.com/article/25/12/2025/education-ministry-streamlines-licensing-for-private-schools-in-qatar); Qatar News Agency, 9 November 2026, citing Law No. 23 of 2015 on the Regulation of Private Schools (qna.org.qa); Cambridge International, administrative zone lookup (Qatar: zone 3); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.

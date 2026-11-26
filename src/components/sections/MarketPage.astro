@@ -315,10 +315,35 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
     </Container>
   </Section>
 
+  {m.localFacts && (
+    <Section surface="ivory" border>
+      <Container>
+        <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{m.localFacts.heading}</h2>
+        {m.localFacts.groups.map((g) => (
+          <>
+            <h3 class="m-0 mb-3 mt-6 text-[20px] font-semibold text-navy-800">{g.heading}</h3>
+            {g.paragraphs.map((t) => (
+              <p class="m-0 mb-3 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">{t}</p>
+            ))}
+          </>
+        ))}
+        <p class="m-0 mt-6 max-w-[70ch] text-[13px] leading-[1.6] text-ink-mute">
+          Sources, read {m.localFacts.readOn}:{' '}
+          {m.localFacts.sources.map((s, i) => (
+            <>{i > 0 ? '; ' : ''}<a href={s.url} rel="nofollow noopener" class="underline decoration-rule underline-offset-2 hover:text-teal-700">{s.label}</a></>
+          ))}.
+        </p>
+      </Container>
+    </Section>
+  )}
+
   <Section surface="white" border>
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What we do not teach</h2>
       <p class="m-0 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">{m.notOffered}</p>
+      {(m.notOfferedExtra ?? []).map((t) => (
+        <p class="m-0 mt-4 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">{t}</p>
+      ))}
       <p class="m-0 mt-4 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
         Marlbridge is the international branch of Learners Academy. Its only in-person teaching location is {site.about.address}.
       </p>

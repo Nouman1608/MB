@@ -15,8 +15,8 @@ seoTitle: "Online IGCSE Tuition in Malaysia: A Guide for Parents"
 seoDescription: "Online Cambridge, Edexcel and OxfordAQA IGCSE tuition for students in Kuala Lumpur, Penang and Johor Bahru: subjects, class times in Malaysia time and fees."
 ---
 
-Many international schools in Malaysia teach Cambridge IGCSE; others teach Pearson Edexcel
-International GCSE or OxfordAQA. When a student needs help in one or two subjects before the
+Students at British-curriculum international schools in Malaysia may sit Cambridge IGCSE,
+Pearson Edexcel International GCSE or OxfordAQA. When a student needs help in one or two subjects before the
 exams, online classes can work well, as long as the teacher is teaching the right
 specification at a sensible local time.
 
@@ -59,9 +59,8 @@ in Malaysia.
 
 In Malaysia, the Ministry of Education's Private Education Division sets the
 guidelines for international schools, which it defines as schools that offer a curriculum from
-another country, teach in English, and admit both foreign and Malaysian students. Malaysia's
-government portal lists the British curriculum among the approved ones, with Cambridge IGCSE
-and A Level as examples of its examinations. If your child's school offers a British
+another country, teach in English, and admit both foreign and Malaysian students. The
+guideline lists the British curriculum among the approved ones. If your child's school offers a British
 curriculum, the IGCSE specification code on a past paper tells us which course to teach.
 
 Cambridge puts Kuala Lumpur in administrative zone 5. Papers for the 2027 May/June series in
@@ -88,4 +87,4 @@ our guide to [group classes or one-to-one tuition](/articles/group-classes-or-on
 3. Print the [topic checklist](/checklists/), mark the topics your child finds hard, then book
    the [free trial class](/trial/).
 
-*Sources (read 26 November 2026):* Malaysia Ministry of Education, Private Education Division, guideline GP A3 on establishing international schools (moe.gov.my); Malaysia government portal, Private Secondary Schools (malaysia.gov.my/en/topics/private-secondary-schools); Cambridge International, administrative zone lookup (Kuala Lumpur: zone 5); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.
+*Sources (read 26 November 2026):* Malaysia Ministry of Education, Private Education Division, International School Establishment Guideline, GP A3 (moe.gov.my); Cambridge International, administrative zone lookup (Kuala Lumpur: zone 5); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.

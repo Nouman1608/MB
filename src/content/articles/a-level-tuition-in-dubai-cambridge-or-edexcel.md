@@ -15,7 +15,7 @@ seoTitle: "A Level Tuition in Dubai: Cambridge or Edexcel IAL?"
 seoDescription: "For A Level students in Dubai and Abu Dhabi: how Cambridge AS & A Level and Edexcel International A Level differ, and how online tuition fits around them."
 ---
 
-British-curriculum schools in Dubai and Abu Dhabi mostly teach one of two international
+Students at British-curriculum schools in Dubai and Abu Dhabi may sit one of two international
 A Levels: Cambridge International AS & A Level or Pearson Edexcel International A Level (IAL).
 Both are accepted by universities, but they are built differently, and a tutor needs to know
 which one your child sits, and which papers are already done.
@@ -72,7 +72,7 @@ is set around your child's own timetable. The teacher joins live from our Lahore
 have nobody based in the UAE.
 
 **Regulators.** Private schools in Dubai answer to the Knowledge and Human Development
-Authority (KHDA), the government authority for private education in the emirate. In Abu Dhabi
+Authority (KHDA), which the UAE government portal describes as responsible for the growth and quality of private education in Dubai. In Abu Dhabi
 the education sector regulator is the Department of Education and Knowledge (ADEK). Ask your
 child's school which A Level it enters candidates for; the answer decides which of the two
 sections above applies.
@@ -95,4 +95,4 @@ covers the rest.
 2. Bring a recent test paper or marked homework; the teacher reads it for the questions that cost marks.
 3. Book the [free trial class](/trial/) in the format you are considering, group or one-to-one.
 
-*Sources (read 26 November 2026):* Cambridge International, administrative zone lookup (Dubai: zone 4); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); KHDA, About Us (web.khda.gov.ae/en/About-Us); ADEK, About Us (adek.gov.ae); IANA time zone database for the UTC offsets.
+*Sources (read 26 November 2026):* Cambridge International, administrative zone lookup (Dubai: zone 4); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); UAE government portal, Regulatory authorities of K-12 education (u.ae/en/information-and-services/education/school-education-k-12/regulatory-authorities-of-k-12-education); ADEK, About Us (adek.gov.ae); IANA time zone database for the UTC offsets.
