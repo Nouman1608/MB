@@ -70,3 +70,11 @@ Read-only. Nothing submitted, requested, sent, posted or removed. Search Console
 - **Review packs (items 13, 14).** You said the teacher has reviewed them, but no name, credentials, corrections or signed pack has been supplied. Drafts stay hidden; no reviewer is credited. When the name arrives I set `reviewer`, `reviewStatus` and `reviewedDate` per the review policy, only for pages the teacher actually approved.
 
 - **Duplicate-scope gate (D-545, 26 Nov 2026, 16:40 PKT).** Owner chose to skip hidden drafts: scripts/check-duplicate-resource-scope.mjs and scripts/validate-practice-bank.mjs now skip eviewStatus: "draft". The gate passes (exit 0). The three question-set drafts are back in src/content/resources/ (the earlier note that they were parked in eports/ no longer applies).
+
+## Build and checks (26 Nov 2026, evening PKT, commit c7dbad945)
+
+- First `npm run build` failed: unescaped apostrophes in the UAE strings in `src/data/markets.ts` (added by the UAE facts edit). Fixed in c7dbad945.
+- `npm run build`: **exit 0, 1,509 s**, with all validators (first run also reached the same validators and passed them).
+- `astro check`: **0 errors, 0 warnings** across 1,574 files (8,305 hints).
+- `npm run audit:all`: **exit 0**. Only warning: content store 75.2% of its limit (known, D-440). Filler-block audit: first two rules 0 pages, 1,212 warn-only, none outside baseline.
+- Not yet looked at in a browser: /uae/ and /grade-thresholds/ rendered pages.
