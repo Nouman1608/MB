@@ -11,7 +11,7 @@ featured: false
 draft: true
 tags: ["Cambridge", "exam dates", "2027", "exam series", "exam calendar"]
 seoTitle: "Cambridge Exam Dates 2027: What Is Published So Far"
-seoDescription: "Cambridge May/June 2027 exam window by zone, the March 2027 and November 2026 series dates, and what Cambridge has not yet published: entry deadlines and results dates."
+seoDescription: "Cambridge May/June 2027 exam window by zone, the March 2027 and November 2026 series, and what Cambridge has not yet published: entry and results dates."
 ---
 
 Families searching for Cambridge exam dates for 2027 will find some dates and not others.
