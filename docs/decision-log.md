@@ -17024,3 +17024,17 @@ Branch `owner-decisions-2`. Answers given in chat to AskUserQuestion rounds 1 to
 ## D-545 - Duplicate-scope gate skips hidden drafts (26 Nov 2026, 16:30 PKT)
 
 Owner chose to skip hidden drafts in `scripts/check-duplicate-resource-scope.mjs`. A resource with `reviewStatus: "draft"` is not routed, built or listed in the sitemap, so it cannot compete for a scope; the check applies once it is reviewed and published. The three hidden exam-style question sets (9709 differentiation, 9709 discrete random variables, 9701 Kc/Kp) are back in `src/content/resources/`.
+
+## D-546 - Owner decisions 3 (26 Nov 2026, 21:20 PKT)
+
+- **D-546a PR 255 deployment.** The Workers Build for merge 9d5b6f5fe was still `in_progress` at 20:45 PKT (not failed); the Cloudflare dashboard was signed out so the build log was not read. Live checks run after it finishes.
+- **D-546b Islamiyat review packs (item 10).** Owner states the Islamiyat teacher, Sir Azam, has reviewed and approved the Qur'an (2058) and Pakistan Studies (2059) packs. No marked-up pack or correction list was supplied; the approval is recorded as owner-reported on 26 Nov 2026 in each reviewNote.
+- **D-546c Question-set reviewers (item 11).** Maths (two 9709 sets): Sir Sajawal. Chemistry (9701 Kc and Kp): Sir Nouman. Corrections return as a shared Google Doc per set; reviewer fields are filled and dated only when a reviewer confirms.
+- **D-546d Thin-course drafts (item 12).** Owner chose to publish all 36 after validators pass. Drafts whose board facts cannot be sourced stay hidden and are listed in the report.
+- **D-546e Singapore IB article (item 13).** The existing IB reviewer re-reads the live article; reviewedDate is updated only after they confirm.
+- **D-546f Regulator sources (item 14).** Keep the KHDA wording (sourced to u.ae) and the Qatar wording (secondary sources) and add a note that a draft replacement law for Law No. 23 of 2015 was out for consultation in 2026.
+- **D-546g Market-failure figure (item 15).** Board-specific figures matching each specification, new file names; no R2 upload until the owner says yes.
+- **D-546h Trustpilot (item 16).** Manual invitations to all current and past families, no filtering, no incentive; nothing sent without a fresh yes. The owner signs in to Trustpilot Business.
+- **D-546i Brand mentions (item 17).** Pursue Edarabia, The Tutors' Association, Expatica and Dawn (guest article). Same name, description and URL everywhere, no street address; each submitted only after a yes. Paid listings must be rel=sponsored.
+- **D-546j Social profiles (item 18).** 2 to 3 posts a week on Instagram, LinkedIn and Facebook reusing site content; two weeks drafted for review; nothing posted.
+- **D-546k Journal (item 19).** First four topics: Cambridge IGCSE in Malaysia, Cambridge exam dates 2027, MYP Language Acquisition, IGCSE fee structure (no figures). One a week; first article drafted hidden.
