@@ -17011,3 +17011,12 @@ Branch `owner-decisions-2`. Answers given in chat to AskUserQuestion rounds 1 to
 - **D-543m Journal (item 32).** Rewrite the six location articles with sourced local content, then one new article a week, first topics from Search Console queries.
 - **D-543n Browser items (items 33, 34, 36).** Claude in Chrome did not connect and the built-in pane is not signed in; the owner reconnects Chrome. Nothing submitted, sent or posted without a fresh yes.
 - **D-543o Exam-style question sets (item 37).** Demand-ranked list of 20 topics; 3 sets a week; named subject-teacher review before publishing; first three drafted hidden.
+
+## D-544 - Owner decisions, follow-ups (26 Nov 2026, 15:40 PKT)
+
+- **D-544a Search Console indexing.** Owner said yes to requesting indexing. Requested in the owner's signed-in Search Console for five URLs: the homepage, /boards/ib/ib-myp/myp-language-acquisition/, /boards/cambridge/a-level/english-literature/, /boards/cambridge/o-level/islamiyat/, /boards/ib/ib-dp/language-b/. Search Console confirmed "Indexing requested" for each. No other URL requested; the sitemap was already submitted on 22 Nov.
+- **D-544b Singapore article.** Merge the unique parts of the hidden draft into the live `ib-tuition-in-singapore-online` article and delete the draft.
+- **D-544c UAE facts.** The eight draft facts are approved and are added to the UAE market page, with the wording that Marlbridge does not teach the Ministry of Education subjects.
+- **D-544d Journal claims.** An agent verifies the four regulator sentences and five unsourced intro claims in the location articles and corrects or sources them.
+- **D-544e Question sets.** The 20-topic list and 3-a-week pace are approved. First three sets (9709 Differentiation, 9709 Statistics, 9701 Equilibrium Kc) drafted as hidden pages. Reviewer: "the subject teacher", no name given, so the reviewer field stays blank and the pages cannot be published.
+- **D-544f Review packs.** The owner reports the Islamiyat teacher has reviewed the packs, but no name, credentials, corrections or signed pack have been supplied. The drafts stay hidden and no reviewer is credited until the name and the teacher's corrections are provided.
