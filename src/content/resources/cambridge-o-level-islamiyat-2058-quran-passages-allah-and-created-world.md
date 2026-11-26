@@ -1,5 +1,5 @@
 ---
-title: "Cambridge O Level Islamiyat (2058): Set Qur'an Passages, Allah and the Created World (Draft)"
+title: "Cambridge O Level Islamiyat (2058): Set Qur'an Passages, Allah and the Created World"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["o-levels"]
@@ -12,16 +12,16 @@ order: 1.12
 syllabusTopics:
   - qualification: "o-level"
     topic: "major-themes-quran-2058"
-description: "Draft passage-by-passage notes on the five Allah-and-creation passages in Appendix 1 of Cambridge O Level Islamiyat 2058: Sura 1, 2.21-22, 96.1-5, 99 and 114."
+description: "Passage-by-passage notes on the five Allah-and-creation passages in Appendix 1 of Cambridge O Level Islamiyat 2058: Sura 1, 2.21-22, 96.1-5, 99 and 114."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "draft"
+reviewStatus: "reviewed"
 reviewedDate: 2026-11-26
 reviewNote: "Reviewed and approved by Sir Azam Siddique, owner-reported 26 November 2026; no corrections supplied."
 publishedDate: 2026-11-25
 featured: false
 ---
-> **DRAFT for teacher review (Azam Siddique, to be confirmed by owner).** Not yet reviewed by a teacher and not for publication. Passages are cited by sura and verse as numbered in Appendix 1 of the Cambridge O Level Islamiyat 2058 syllabus (2026-2027). This page gives **no English translation of its own**: read each passage in the translation printed in the syllabus appendix, or the translation your class uses, and in the Arabic. Arabic is shown only where it could be copied from a checked source.
+> Passages are cited by sura and verse as numbered in Appendix 1 of the Cambridge O Level Islamiyat 2058 syllabus (2026-2027). This page gives **no English translation of its own**: read each passage in the translation printed in the syllabus appendix, or the translation your class uses, and in the Arabic. Arabic is shown only where it could be copied from a checked source.
 
 # Allah's relationship with the created world: passages 6 to 10 of Appendix 1
 
@@ -41,13 +41,11 @@ The syllabus (Paper 1, Question 1) says three passages are set from Appendix 1 a
 
 **Link to the group theme:** The first part praises God; the second part is the human response (worship, help, guidance). That two-way relationship is the group theme.
 
-**Key Arabic terms to learn (transliteration; teacher to check):** Rabb al-'alamin, al-Rahman al-Rahim, yawm al-din, al-sirat al-mustaqim.
+**Key Arabic terms to learn (transliteration):** Rabb al-'alamin, al-Rahman al-Rahim, yawm al-din, al-sirat al-mustaqim.
 
 **How the exam asks about it:** As one of three passages printed in Arabic and English, you may choose it. Part (a) asks for its main theme or themes; part (b) asks why those themes matter to Muslims today.
 
 **How to answer:** Separate the praise (verses 1-4) from the human request (verses 5-7). In (b) link to the sura's place in Muslim prayer.
-
-**Teacher to confirm:** themes above, terms, and any example of practice named in (b).
 
 ---
 
@@ -59,13 +57,11 @@ The syllabus (Paper 1, Question 1) says three passages are set from Appendix 1 a
 
 **Link to the group theme:** God as Creator and Provider calls people to worship and to avoid shirk; creation is the evidence for the relationship.
 
-**Key Arabic terms to learn (transliteration; teacher to check):** 'ibada (worship), rabb, shirk.
+**Key Arabic terms to learn (transliteration):** 'ibada (worship), rabb, shirk.
 
 **How the exam asks about it:** As one of three passages printed in Arabic and English, you may choose it. Part (a) asks for its main theme or themes; part (b) asks why those themes matter to Muslims today.
 
 **How to answer:** Make the link: He created and provides, therefore worship Him alone. Cite verse 21 for creation and worship and verse 22 for provision and no rivals. In (b), link gratitude and responsible use of what God provides.
-
-**Teacher to confirm:** themes above, terms, and any example of practice named in (b).
 
 ---
 
@@ -77,13 +73,11 @@ The syllabus (Paper 1, Question 1) says three passages are set from Appendix 1 a
 
 **Link to the group theme:** God creates human beings and teaches them; knowledge is a gift from Him. The relationship is creation plus teaching.
 
-**Key Arabic terms to learn (transliteration; teacher to check):** iqra', 'alaq, qalam.
+**Key Arabic terms to learn (transliteration):** iqra', 'alaq, qalam.
 
 **How the exam asks about it:** As one of three passages printed in Arabic and English, you may choose it. Part (a) asks for its main theme or themes; part (b) asks why those themes matter to Muslims today. These verses also appear in the revelation story (subtopics 1.2 and 1.3); be ready to connect them, using what the syllabus and your class texts say.
 
 **How to answer:** Name two themes (creation; knowledge and teaching) and cite the verse. In (b), link to the value of learning for Muslims. Do not add detail of the revelation story unless the question asks.
-
-**Teacher to confirm:** themes above, terms, and any example of practice named in (b).
 
 ---
 
@@ -95,7 +89,7 @@ The syllabus (Paper 1, Question 1) says three passages are set from Appendix 1 a
 
 **Link to the group theme:** Accountability: God's relationship with humans includes judging their deeds. This is the akhirah theme.
 
-**Key Arabic terms to learn (transliteration; teacher to check):** zilzal (shaking), mithqal dharra (an atom's weight), akhirah.
+**Key Arabic terms to learn (transliteration):** zilzal (shaking), mithqal dharra (an atom's weight), akhirah.
 
 **Arabic (copied from the site's existing Paper 1 practice page, recorded there as Tanzil text checked against the syllabus; not re-checked here):**
 
@@ -119,8 +113,6 @@ The syllabus (Paper 1, Question 1) says three passages are set from Appendix 1 a
 
 **How to answer:** Name accountability and the Last Day, cite verses 6-8, and link the idea of deeds being shown to everyday conduct. In (b), give an example such as taking small acts seriously.
 
-**Teacher to confirm:** themes above, terms, and any example of practice named in (b).
-
 ---
 
 ## 10. Sura 114
@@ -131,13 +123,11 @@ The syllabus (Paper 1, Question 1) says three passages are set from Appendix 1 a
 
 **Link to the group theme:** The believer turns to God for protection; the relationship is dependence and trust.
 
-**Key Arabic terms to learn (transliteration; teacher to check):** a'udhu, rabb, malik, ilah, al-waswas al-khannas.
+**Key Arabic terms to learn (transliteration):** a'udhu, rabb, malik, ilah, al-waswas al-khannas.
 
 **How the exam asks about it:** As one of three passages printed in Arabic and English, you may choose it. Part (a) asks for its main theme or themes; part (b) asks why those themes matter to Muslims today.
 
 **How to answer:** Name protection and seeking refuge; cite the three titles in verses 1-3 and the whisperer in verses 4-6. In (b), say how this shapes a Muslim's response to temptation.
-
-**Teacher to confirm:** themes above, terms, and any example of practice named in (b).
 
 ---
 

@@ -31,7 +31,7 @@ syllabusTopics:
 description: "Recall notes for Cambridge O Level Pakistan Studies 2059 Paper 1 Section 1, Key Questions 1 to 5: dates, people and significance, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "draft"
+reviewStatus: "reviewed"
 reviewedDate: 2026-11-26
 reviewNote: "Reviewed and approved by Sir Azam Siddique, owner-reported 26 November 2026; no corrections supplied."
 publishedDate: 2026-11-25
@@ -91,7 +91,7 @@ The syllabus says the two focus points on British expansion do not need detailed
 
 **Immediate cause:** greased cartridges for the Enfield rifle (rumoured cow and pig fat); punishment of soldiers who refused at Meerut; mutiny in May 1857 and march on Delhi.
 
-**Consequence recorded in existing pages:** after 1857 the British blamed the Muslims for the War. (Other consequences, the course of the War and the reasons for failure are in the syllabus but are not yet written here: see the draft README.)
+**Consequence recorded in existing pages:** after 1857 the British blamed the Muslims for the War. (The other consequences, the course of the War and the reasons for failure are on the syllabus but are not covered here; use the syllabus and your class notes.)
 
 ## Key Question 4: Sir Syed Ahmad Khan
 
@@ -102,7 +102,7 @@ The syllabus says the two focus points on British expansion do not need detailed
 | Organisations | Scientific Society; Muhammadan Educational Conference (including translations into Urdu) |
 | Aligarh College | Muhammadan Anglo-Oriental College; opened as a school in 1875; modelled on Oxford and Cambridge; residential; Western subjects and Islamic studies |
 | Later | Became Aligarh Muslim University in 1920; trained many future leaders of the Pakistan Movement |
-| Two-Nation Theory; Hindi-Urdu Controversy | On the syllabus; not yet written here (see the draft README) |
+| Two-Nation Theory; Hindi-Urdu Controversy | On the syllabus; not covered here, use the syllabus and your class notes |
 
 ## Key Question 5: Urdu and regional languages
 
