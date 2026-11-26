@@ -179,8 +179,8 @@ export const MARKETS: readonly Market[] = [
     notOffered:
       'Marlbridge does not teach the UAE Ministry of Education curriculum, the Indian CBSE or ICSE curricula, the American high-school curriculum, or the French Baccalauréat. It teaches the British-style international qualifications listed on this page, and the IB and Advanced Placement (AP) one-to-one.',
     notOfferedExtra: [
-      'In Abu Dhabi, the Abu Dhabi Department of Education and Knowledge (ADEK) requires all private schools, whatever their curriculum, to teach the UAE Ministry of Education (MoE) subjects, and exemptions are not authorised. ADEK defines MoE subjects as the mandatory subjects that all private and charter schools in the UAE must teach under the Ministry of Education's requirements. Marlbridge does not teach the MoE subjects, so families need them from their child's school; Marlbridge classes are extra to them and do not replace them.',
-      'ADEK's Curriculum Policy took effect in Academic Year 2024/25 (Fall term), with compliance from 2025/26 (Fall term).',
+      'In Abu Dhabi, the Abu Dhabi Department of Education and Knowledge (ADEK) requires all private schools, whatever their curriculum, to teach the UAE Ministry of Education (MoE) subjects, and exemptions are not authorised. ADEK defines MoE subjects as the mandatory subjects that all private and charter schools in the UAE must teach under the Ministry of Education\'s requirements. Marlbridge does not teach the MoE subjects, so families need them from their child\'s school; Marlbridge classes are extra to them and do not replace them.',
+      'ADEK\'s Curriculum Policy took effect in Academic Year 2024/25 (Fall term), with compliance from 2025/26 (Fall term).',
     ],
     localFacts: {
       heading: 'Schools in the UAE: the facts we can source',
@@ -188,8 +188,8 @@ export const MARKETS: readonly Market[] = [
         {
           heading: 'Dubai private schools, 2024-25 (KHDA data)',
           paragraphs: [
-            'Dubai's private schools had 387,441 students across 227 schools in 2024-25. These figures are Knowledge and Human Development Authority (KHDA) data, as published by the Dubai Media Office on 9 January 2025. Dubai private schools offer 17 curricula.',
-            'In Dubai's private schools in 2024-25 the UK curriculum is the most popular, with 37% of students, followed by Indian (26%), US (14%), International Baccalaureate (7%) and UK/IB (4%). These are shares of students, not of schools, and the UK share is not split by exam board.',
+            'Dubai\'s private schools had 387,441 students across 227 schools in 2024-25. These figures are Knowledge and Human Development Authority (KHDA) data, as published by the Dubai Media Office on 9 January 2025. Dubai private schools offer 17 curricula.',
+            'In Dubai\'s private schools in 2024-25 the UK curriculum is the most popular, with 37% of students, followed by Indian (26%), US (14%), International Baccalaureate (7%) and UK/IB (4%). These are shares of students, not of schools, and the UK share is not split by exam board.',
           ],
         },
         {
@@ -201,12 +201,12 @@ export const MARKETS: readonly Market[] = [
         {
           heading: 'Abu Dhabi: external exam bodies',
           paragraphs: [
-            'ADEK's Curriculum Policy defines affiliation as a school being approved to offer specific external exams, naming Cambridge Education as an example. It gives no share for any exam board.',
+            'ADEK\'s Curriculum Policy defines affiliation as a school being approved to offer specific external exams, naming Cambridge Education as an example. It gives no share for any exam board.',
           ],
         },
       ],
       sources: [
-        { label: 'Dubai Media Office, Dubai's private school sector (9 January 2025)', url: 'https://mediaoffice.ae/en/news/2025/january/09-01/dubais-private-school-sector' },
+        { label: 'Dubai Media Office, Dubai\'s private school sector (9 January 2025)', url: 'https://mediaoffice.ae/en/news/2025/january/09-01/dubais-private-school-sector' },
         { label: 'Dubai Media Office, Dubai academic year (24 August 2025)', url: 'https://mediaoffice.ae/en/news/2025/august/24-08/dubai-academic-year' },
         { label: 'ADEK, School Curriculum Policy v1.2 (September 2025), sections 7.2 and 7.4', url: 'https://www.adek.gov.ae/-/media/Project/TAMM/ADEK/Policies/School-Policies/Teaching-and-Learning/ADEK_S_Curriculum-Policy_EN_v1_2.pdf' },
       ],
