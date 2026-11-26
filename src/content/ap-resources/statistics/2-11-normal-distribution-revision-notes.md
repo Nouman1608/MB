@@ -2,6 +2,7 @@
 resourceId: "mb-ap-stats-2.11-revision-notes"
 title: "The Normal Distribution: Revision Notes (Statistics 2.11)"
 description: "One-page recap of continuous random variables, normal curves, the standard normal distribution, the 68–95–99.7 rule, areas, boundary values and percentiles, with the mistakes that cost marks."
+seoDescription: "One-page Statistics recap of continuous random variables, normal curves, the standard normal, the 68-95-99.7 rule, areas, boundary values and percentiles."
 course: "statistics"
 unit: 2
 topics: ["2.11"]

@@ -59,7 +59,6 @@ A falling ball transfers energy from its gravitational potential store to its ki
   <figcaption>Power is energy transferred per second.</figcaption>
 </figure>
 
-
 ## Where this fits in 5054
 
 Work is what a force does when it moves something, and it is the mechanism by which energy is transferred from one store to another; power then measures how quickly that transfer happens. Together, energy, work and power form the calculation core of Topic 1's final section, so fluency with all four equations — kinetic energy, gravitational PE, work done and power — pays off across every question type this sub-topic contains.
@@ -110,7 +109,6 @@ Work done and energy transferred are the same quantity measured the same way —
   <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
 </figure>
 
-
 ## Conservation of energy
 
 Total energy is always conserved. In a falling object, Ep converts to Ek:
@@ -129,10 +127,6 @@ Reduce dissipation by lubrication (friction), streamlining (drag) and insulation
 
 A motor that uses 500 J of energy but does only 350 J of useful work has an efficiency of (350/500) × 100 = 70%, with the remaining 150 J dissipated, typically as thermal energy to the surroundings — always express the "useful energy out" and "total energy in" in the same units before dividing, since a units mismatch is a common source of an efficiency figure that looks plausible but is actually wrong.
 
-## Common mistakes worth avoiding specifically
-
-Forgetting to square the velocity in Ek = ½mv² is one of the most common errors — a frequent slip is calculating ½mv instead, so always square v before multiplying by the mass and the one-half. Using the wrong height in ΔEp = mgΔh is another: it is the *change* in height that matters, not the absolute height above some fixed reference, unless a question specifically defines a reference level. Mixing up power's two equivalent formulas, P = W/t and P = ΔE/t, is not actually an error since they give the same result — but knowing that they are the same formula expressed two ways, rather than two separate things to remember, avoids unnecessary confusion under exam pressure.
-
 ## Exam traps
 
 - In W = F × d, the distance must be **along the direction of the force**. Carrying a box horizontally does no work against gravity.
@@ -141,6 +135,8 @@ Forgetting to square the velocity in Ek = ½mv² is one of the most common error
 - Say energy is "dissipated" or "transferred to the surroundings", never "lost" or "used up".
 - Power is the **rate** of transfer, not an amount of energy.
 - Check h is a **vertical** height, not a distance along a slope.
+
+Forgetting to square the velocity in Ek = ½mv² is one of the most common errors — a frequent slip is calculating ½mv instead, so always square v before multiplying by the mass and the one-half. Using the wrong height in ΔEp = mgΔh is another: it is the *change* in height that matters, not the absolute height above some fixed reference, unless a question specifically defines a reference level. Mixing up power's two equivalent formulas, P = W/t and P = ΔE/t, is not actually an error since they give the same result — but knowing that they are the same formula expressed two ways, rather than two separate things to remember, avoids unnecessary confusion under exam pressure.
 
 ## Self-test
 

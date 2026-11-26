@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-10.7-study-guide"
 title: "Conservation of Electric Energy: Study Guide (Physics 2 10.7)"
 description: "Use ΔU_E = qΔV and energy conservation to predict how a charged particle speeds up or slows down as it moves between points at different electric potentials."
+seoDescription: "Physics 2 study guide to conservation of electric energy: using ΔU = qΔV to predict how a charged particle speeds up or slows between different potentials."
 course: "physics-2"
 unit: 10
 topics: ["10.7"]

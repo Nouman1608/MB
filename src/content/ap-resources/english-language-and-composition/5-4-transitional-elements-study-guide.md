@@ -2,6 +2,7 @@
 resourceId: mb-ap-englang-5.4-study-guide
 title: 'Transitional Elements: Study Guide (English Language 5.4)'
 description: How transitional words, phrases, clauses, sentences and paragraphs show relationships between ideas, introduce evidence and signal its relation to other evidence, and how to choose the right one.
+seoDescription: "English Language study guide to transitional elements: how words, phrases, clauses, sentences and paragraphs link ideas and show how evidence relates."
 course: english-language-and-composition
 unit: 5
 topics:

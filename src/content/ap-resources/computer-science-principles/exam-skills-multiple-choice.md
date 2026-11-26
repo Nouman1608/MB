@@ -3,6 +3,7 @@ resourceId: "mb-ap-csp-exam-skills-multiple-choice"
 title: "The End-of-Course Multiple-Choice Exam: Exam Skills Guide (Computer Science Principles)"
 seoTitle: "CS Principles Multiple-Choice Exam Exam Skills Guide"
 description: "How to read exam pseudocode, handle single-select and select-two items, use elimination, trace code, read a computing-innovation passage and pace 70 questions in 120 minutes, with original practice."
+seoDescription: "Computer Science Principles exam skills for multiple choice: reading pseudocode, single-select and select-two items, passages and pacing 70 questions."
 course: "computer-science-principles"
 unit: 1
 topics: []

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-6.2-revision-notes"
 title: "DNA Replication: Revision Notes (Biology 6.2)"
 description: "One-page recap of DNA replication: the semiconservative model and its evidence, 5′ to 3′ synthesis, primers, the enzymes at the fork, and leading and lagging strands."
+seoDescription: "One-page Biology recap of DNA replication: the semiconservative model and evidence, 5′ to 3′ synthesis, primers and leading and lagging strands."
 course: "biology"
 unit: 6
 topics: ["6.2"]

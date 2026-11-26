@@ -6,6 +6,7 @@ unit: 1
 topics: ["1.1"]
 resourceType: "study-guide"
 description: "Learn the six parts of a rhetorical situation (exigence, writer, audience, purpose, context, message) and use them to explain why a text is written as it is. Two worked examples, misconceptions and where it leads."
+seoDescription: "English Language study guide to the six parts of a rhetorical situation: exigence, writer, audience, purpose, context and message, with two worked examples."
 prerequisites:
   - "Reading a short non-fiction text closely"
   - "Knowing what a claim is in everyday terms"

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-2.9-study-guide"
 title: "Cell Compartmentalization: Study Guide (Biology 2.9)"
 description: "Learn how membranes and membrane-bound organelles split a eukaryotic cell into compartments, keeping competing reactions apart and adding the surface area that many reactions need."
+seoDescription: "How membranes and organelles split a eukaryotic cell into compartments, keeping reactions apart and adding surface area. Biology study guide."
 course: "biology"
 unit: 2
 topics: ["2.9"]

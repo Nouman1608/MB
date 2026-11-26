@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-5.8-revision-notes"
 title: "Reaction Mechanism and Rate Law: Revision Notes (Chemistry 5.8)"
 description: "One-page recap of the rate-limiting step, writing a rate law from a mechanism with a slow first step, and testing mechanisms against an experimental rate law."
+seoDescription: "One-page Chemistry recap of the rate-limiting step, writing a rate law from a mechanism with a slow first step, and testing mechanisms against experiment."
 course: "chemistry"
 unit: 5
 topics: ["5.8"]

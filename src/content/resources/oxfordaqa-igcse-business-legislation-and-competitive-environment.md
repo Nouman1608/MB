@@ -146,7 +146,7 @@ Consumer protection laws therefore **impact on businesses** in two ways. They ad
 </figure>
 
 
-### Common errors on legislation
+### Slips to avoid: legislation
 
 - Saying a law "affects" a business without naming the route: which cost, which training need, which hiring change.
 - Treating all legislation as pure cost. Always weigh the benefits.
@@ -250,7 +250,7 @@ That 4.40 lets Nuroo undercut on price or earn a higher profit. But the advantag
 </figure>
 
 
-### Common errors on competition
+### Slips to avoid: competition
 
 - Defining competition as only price. Quality, service and branding matter too.
 - Assuming a business with no competition faces no risk.

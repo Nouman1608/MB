@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-11.8-study-guide"
 title: "Resistor-Capacitor (RC) Circuits: Study Guide (Physics 2 11.8)"
 description: "Capacitors in series and parallel, how charge, potential difference and current change as a capacitor charges or discharges, the time constant RC, and start and end states."
+seoDescription: "Physics 2 study guide to RC circuits: capacitors in series and parallel, how charge and current change while charging and discharging, and the time constant."
 course: "physics-2"
 unit: 11
 topics: ["11.8"]

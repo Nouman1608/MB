@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-6.3-revision-notes"
 title: "The Foreign Exchange Market: Revision Notes (Macroeconomics 6.3)"
 description: "One-page recap of currency demand and supply, the slopes of the curves, the equilibrium exchange rate, surpluses and shortages, and the graph-labelling mistakes that cost marks."
+seoDescription: "One-page Macroeconomics recap of currency demand and supply, curve slopes, the equilibrium exchange rate and graph-labelling mistakes."
 course: "macroeconomics"
 unit: 6
 topics: ["6.3"]

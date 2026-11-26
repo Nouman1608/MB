@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-11.8-revision-notes"
 title: "Resistor-Capacitor (RC) Circuits: Revision Notes (Physics 2 11.8)"
 description: "One-page recap of RC circuits: series and parallel capacitors, charging and discharging behaviour, the time constant RC with its 63% and 37% benchmarks, and start and end states."
+seoDescription: "One-page Physics 2 recap of RC circuits: series and parallel capacitors, charging and discharging, the time constant RC and start and end states."
 course: "physics-2"
 unit: 11
 topics: ["11.8"]

@@ -3,6 +3,7 @@ resourceId: "mb-ap-phys2-9.1-revision-notes"
 title: "Kinetic Theory of Temperature and Pressure: Revision Notes (Physics 2 9.1)"
 seoTitle: "Physics 2 9.1 Kinetic Theory and Pressure Revision Notes"
 description: "One-page recap of gas pressure from atomic collisions, Δp = 2m v cos θ, P = F⊥/A, temperature as average kinetic energy, rms speed and the speed distribution."
+seoDescription: "One-page Physics 2 recap of gas pressure from atomic collisions, Δp = 2m v cos θ, temperature as average kinetic energy, rms speed and speed distribution."
 course: "physics-2"
 unit: 9
 topics: ["9.1"]

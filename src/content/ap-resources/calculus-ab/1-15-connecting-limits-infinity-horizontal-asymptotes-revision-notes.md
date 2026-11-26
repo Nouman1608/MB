@@ -3,6 +3,7 @@ resourceId: "mb-ap-calcab-1.15-revision-notes"
 title: "Connecting Limits at Infinity and Horizontal Asymptotes: Revision Notes (Calculus AB 1.15)"
 seoTitle: "Calculus AB 1.15 Limits at Infinity and Asymptotes Notes"
 description: "One-page recap of limits at infinity: end behaviour, horizontal asymptotes, the degree rules for rational functions, square roots, and comparing growth rates."
+seoDescription: "One-page Calculus AB recap of limits at infinity: end behaviour, horizontal asymptotes, degree rules for rational functions, square roots and growth rates."
 course: "calculus-ab"
 unit: 1
 topics: ["1.15"]

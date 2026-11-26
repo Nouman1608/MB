@@ -126,7 +126,7 @@ not human speaks loudest at the moment of crisis."*
 
 Each step adds a reason, then a connection to another text.
 
-## Draft-stage checklist
+## Draft-stage points to check
 
 - Thesis names all three texts and makes a claim.
 - Each paragraph opens with a point about the focus.

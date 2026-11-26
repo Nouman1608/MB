@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.11-revision-notes"
 title: "Math Class: Revision Notes (Computer Science A 1.11)"
 description: "A one-page recap of the Math class methods abs, pow, sqrt and random, and the recipe for random numbers in a given range using scaling, casting and shifting."
+seoDescription: "One-page Computer Science A recap of Math methods abs, pow, sqrt and random, and the recipe for random numbers in a range using scaling, casting and shifting."
 course: "computer-science-a"
 unit: 1
 topics: ["1.11"]

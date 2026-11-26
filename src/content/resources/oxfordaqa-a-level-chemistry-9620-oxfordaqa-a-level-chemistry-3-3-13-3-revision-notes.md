@@ -108,6 +108,10 @@ Cisplatin cannot tell cancer cells from healthy cells, so it **binds to the DNA 
 - "It is poisonous" as the reason for side effects: too vague. Say it binds to the DNA of healthy cells.
 - Saying cis and trans forms are structural isomers: they are stereoisomers.
 - Giving cisplatin a 2+ charge: the complex itself is neutral; the platinum unit is 2+ only after both chlorides have gone.
+- Writing a correct mechanism but no consequence for cell division.
+- Naming side effects without the chemical reason for them.
+- Giving only benefits, or only harms, in an "evaluate" answer, with no judgement at the end.
+- Losing the charge balance in the replacement equation by forgetting the two Cl⁻ ions released.
 
 ## Quick self-test
 
@@ -138,13 +142,6 @@ Cisplatin cannot tell cancer cells from healthy cells, so it **binds to the DNA 
 10. Any two of: lowest effective dose; treatment in cycles; combination with other treatments; monitoring the patient.
 11. 195.1 ÷ 300.1 × 100 = **65.0%**.
 12. In a tetrahedron every position is adjacent to every other, so there is **only one way** to arrange two A and two B ligands.
-
-## Where marks are usually lost
-
-- Writing a correct mechanism but no consequence for cell division.
-- Naming side effects without the chemical reason for them.
-- Giving only benefits, or only harms, in an "evaluate" answer, with no judgement at the end.
-- Losing the charge balance in the replacement equation by forgetting the two Cl⁻ ions released.
 
 ## Specification reference
 

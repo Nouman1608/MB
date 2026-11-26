@@ -3,6 +3,7 @@ resourceId: "mb-ap-csp-1.3-revision-notes"
 title: "Program Design and Development: Revision Notes (Computer Science Principles 1.3)"
 seoTitle: "CS Principles 1.3 Program Design and Development Notes"
 description: "One-page recap of development phases, iterative versus incremental development, investigation and requirements, design activities, documentation and acknowledgement."
+seoDescription: "One-page Computer Science Principles recap of development phases, iterative versus incremental development, documentation and acknowledgement."
 course: "computer-science-principles"
 unit: 1
 topics: ["1.3"]

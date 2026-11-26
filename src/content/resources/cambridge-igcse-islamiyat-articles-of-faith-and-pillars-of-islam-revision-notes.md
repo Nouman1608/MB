@@ -91,7 +91,7 @@ significance for individuals and communities.
   <figcaption>Jihad covers inner, intellectual and physical striving; physical defence has strict limits.</figcaption>
 </figure>
 
-## The Five Pillars: checklist
+## The Five Pillars: points to check
 
 | Pillar | How it is performed | Significance |
 |---|---|---|

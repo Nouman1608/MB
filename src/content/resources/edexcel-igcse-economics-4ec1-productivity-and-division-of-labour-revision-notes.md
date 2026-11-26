@@ -102,6 +102,11 @@ percentage change     = (new − old) ÷ old × 100
 - **Migration:** say "it depends on skills".
 - **Name the group:** workers or businesses, as the question asks.
 - **Land methods need a mechanism**, not just a name.
+- Treating extra workers as higher productivity.
+- Ignoring hours when they differ between workers.
+- Listing land methods with no effect on yield.
+- Answering about workers when the question asks about businesses.
+- One-sided evaluations of division of labour.
 
 ## Quick self-test
 
@@ -132,14 +137,6 @@ percentage change     = (new − old) ÷ old × 100
 10. They become skilled and quick at their task (or: need less training to start).
 11. If one worker is absent, the whole process can stop (or: boredom raises absence and staff turnover).
 12. The same tasks are repeated many times, so workers can specialise and become fast.
-
-## Where marks are usually lost
-
-- Treating extra workers as higher productivity.
-- Ignoring hours when they differ between workers.
-- Listing land methods with no effect on yield.
-- Answering about workers when the question asks about businesses.
-- One-sided evaluations of division of labour.
 
 ## Official syllabus
 

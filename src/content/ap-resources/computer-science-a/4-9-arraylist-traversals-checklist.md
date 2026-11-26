@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-4.9-checklist"
 title: "ArrayList Traversals: Checklist (Computer Science A 4.9)"
 description: "A self-check for ArrayList traversals: writing index and enhanced for loops, avoiding skipped elements when deleting, and predicting index and modification exceptions."
+seoDescription: "Computer Science A self-check for ArrayList traversals: index and enhanced for loops and predicting index and modification exceptions."
 course: "computer-science-a"
 unit: 4
 topics: ["4.9"]

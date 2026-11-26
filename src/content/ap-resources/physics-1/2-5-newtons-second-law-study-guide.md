@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-2.5-study-guide"
 title: "Newton’s Second Law: Study Guide (Physics 1 2.5)"
 description: "Learn when a system’s velocity changes and how to use a = ΣF / m with free-body diagrams, system choice, factor-of-change reasoning and symbolic derivations."
+seoDescription: "Physics 1 study guide to Newton's second law: using a = ΣF / m with free-body diagrams, system choice, factor-of-change reasoning and symbolic derivations."
 course: "physics-1"
 unit: 2
 topics: ["2.5"]

@@ -84,7 +84,6 @@ These notes condense **sections 3.2.3.1 Fiscal policy and 3.2.3.2 Monetary polic
   <figcaption>The deficit is one year’s gap; the national debt is the total built up.</figcaption>
 </figure>
 
-
 ### Calculations you must be able to do
 
 **1. Budget position.** Spending £1,100bn, revenue £1,040bn. Deficit = 1,100 − 1,040 = **£60bn**.
@@ -106,7 +105,6 @@ As a share of GDP of £2,400bn: 60 ÷ 2,400 × 100 = **2.5%**.
   <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--11-fiscal-levers.webp" width="900" height="900" alt="Two panels. Expansionary: raising government spending or cutting income tax raises demand, aiming at growth and lower unemployment. Contractionary: cutting government spending or raising taxes lowers demand, aiming at lower inflation and a smaller deficit." loading="lazy">
   <figcaption>Expansionary fiscal policy raises demand; contractionary fiscal policy lowers it.</figcaption>
 </figure>
-
 
 ## Part B: Monetary policy (3.2.3.2)
 
@@ -139,7 +137,6 @@ A rise in Bank Rate leads to:
   <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--14-interest-rate-chain.webp" width="900" height="990" alt="Flow chart. Bank Rate is raised. Three effects: fewer loans and dearer mortgages, saving pays more, firms invest less. Total spending falls, so inflation slows. If inflation is low and the economy weak, cutting rates does the opposite." loading="lazy">
   <figcaption>Higher interest rates reduce spending and so slow inflation.</figcaption>
 </figure>
-
 
 ### Using monetary policy for other objectives
 
@@ -182,6 +179,10 @@ A rise in Bank Rate leads to:
 - Monetary policy in the UK is set by the **Bank of England**, not the government.
 - Interest rates are a monetary tool, not a fiscal one.
 - Always give the chain of effects, not just "rates rise, so inflation falls".
+- Calling interest rates "fiscal policy".
+- Confusing the budget deficit with the national debt, or with the current account.
+- Saying the government sets UK interest rates.
+- Giving a policy with no conflict or drawback in an evaluation question.
 
 ## Quick self-test
 
@@ -213,14 +214,6 @@ A rise in Bank Rate leads to:
   <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--15-fiscal-vs-monetary.webp" width="900" height="1020" alt="Two columns. Fiscal policy: decided by the government, uses taxes and spending, can target groups or regions, slow to change. Monetary policy: decided by the Bank of England, uses interest rates, affects everyone who borrows or saves, quick to change though effects take time." loading="lazy">
   <figcaption>The two policies differ in who decides, tools, reach and speed.</figcaption>
 </figure>
-
-
-## Where marks are usually lost
-
-- Calling interest rates "fiscal policy".
-- Confusing the budget deficit with the national debt, or with the current account.
-- Saying the government sets UK interest rates.
-- Giving a policy with no conflict or drawback in an evaluation question.
 
 ## Frequently asked questions
 

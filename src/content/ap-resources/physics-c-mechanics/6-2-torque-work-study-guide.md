@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-6.2-study-guide"
 title: "Torque and Work: Study Guide (Physics C: Mechanics 6.2)"
 description: "Calculus-based work done by torques: W = ∫τ dθ derived from force work, signs of work, area under a torque–angle graph, and the rotational work–energy theorem from τ = Iα."
+seoDescription: "Physics C: Mechanics calculus-based guide to work done by torques: W = ∫τ dθ, signs of work, torque-angle graphs and the rotational work-energy theorem."
 course: "physics-c-mechanics"
 unit: 6
 topics: ["6.2"]

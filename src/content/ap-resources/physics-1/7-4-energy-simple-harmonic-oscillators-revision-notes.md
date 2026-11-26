@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-7.4-revision-notes"
 title: "Energy of Simple Harmonic Oscillators: Revision Notes (Physics 1 7.4)"
 description: "One-page recap of kinetic and potential energy in spring and pendulum oscillators, E = ½kA², maximum speed, the effect of amplitude, and the energy mistakes that cost marks."
+seoDescription: "One-page Physics 1 recap of energy in spring and pendulum oscillators: E = ½kA², maximum speed, the effect of amplitude and common energy mistakes."
 course: "physics-1"
 unit: 7
 topics: ["7.4"]

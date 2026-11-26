@@ -118,6 +118,10 @@ A drawing is usually larger than the specimen, so expect a magnification above 1
 - Write down your measurement before using it.
 - Round only at the end.
 - "Calculate" questions give method marks: show the formula and substitution.
+- Dividing the wrong way round.
+- Leaving out the × sign, or adding units to magnification.
+- Using a measurement in mm with an actual size in μm without converting.
+- Not writing down the measured length, so no method mark can be given.
 
 ## Quick self-test
 
@@ -148,13 +152,6 @@ A drawing is usually larger than the specimen, so expect a magnification above 1
 10. 0.008 × 1000 = **8 μm**.
 11. 450 ÷ 1000 = **0.45 mm**.
 12. 24 mm = 24 000 μm; 24 000 ÷ 12 = **×2000**.
-
-## Where marks are usually lost
-
-- Dividing the wrong way round.
-- Leaving out the × sign, or adding units to magnification.
-- Using a measurement in mm with an actual size in μm without converting.
-- Not writing down the measured length, so no method mark can be given.
 
 ## Frequently asked questions
 

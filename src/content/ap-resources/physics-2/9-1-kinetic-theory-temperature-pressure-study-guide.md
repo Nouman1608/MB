@@ -3,6 +3,7 @@ resourceId: "mb-ap-phys2-9.1-study-guide"
 title: "Kinetic Theory of Temperature and Pressure: Study Guide (Physics 2 9.1)"
 seoTitle: "Physics 2 9.1 Kinetic Theory and Pressure Study Guide"
 description: "Explain gas pressure from atomic collisions and momentum change, and temperature from average kinetic energy, rms speed and the Maxwell–Boltzmann speed distribution."
+seoDescription: "Physics 2 study guide to kinetic theory: gas pressure from collisions and momentum change, rms speed and the Maxwell-Boltzmann distribution."
 course: "physics-2"
 unit: 9
 topics: ["9.1"]

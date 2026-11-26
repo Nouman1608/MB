@@ -3,6 +3,7 @@ resourceId: "mb-ap-micro-2.8-study-guide"
 title: "The Effects of Government Intervention in Markets: Study Guide (Microeconomics 2.8)"
 seoTitle: "Microeconomics 2.8 Government Intervention Study Guide"
 description: "Learn how price ceilings, price floors, quotas, per-unit taxes and subsidies change price, quantity, consumer and producer surplus, government revenue and deadweight loss."
+seoDescription: "Microeconomics study guide to government intervention: how price ceilings, floors, taxes and subsidies change price, quantity, surplus and deadweight loss."
 course: "microeconomics"
 unit: 2
 topics: ["2.8"]

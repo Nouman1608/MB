@@ -3,6 +3,7 @@ resourceId: "mb-ap-physcem-u12-review"
 title: "Magnetic Fields and Electromagnetism: Mixed Unit Review (Physics C: E&M Unit 12)"
 seoTitle: "Physics C E&M Unit 12 Magnetism, Electromagnetism Review"
 description: "A mixed review of Unit 12: the big ideas that link magnetic fields, moving charges, the Biot-Savart law and Ampère's law, a summary table and seven original questions that combine topics, with rubrics."
+seoDescription: "Physics C: E&M Unit 12 review: magnetic fields, moving charges, Biot-Savart and Ampère's laws, with a summary table and seven original combined questions."
 course: "physics-c-electricity-and-magnetism"
 unit: 12
 topics: []

@@ -53,7 +53,6 @@ A **need** is something essential for survival (food, shelter); a **want** is so
   <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
 </figure>
 
-
 ## Specialisation
 
 **Specialisation** means an individual, business or region focuses on producing a narrow range of goods or services rather than trying to do everything. This tends to increase output and efficiency, since workers or firms become more skilled at their specific task, but it also creates **interdependence** — a specialised producer relies on others for everything it doesn't produce itself.
@@ -62,7 +61,6 @@ A **need** is something essential for survival (food, shelter); a **want** is so
   <img src="https://img.marlbridge.com/business-activity-and-classification--02-specialisation.webp" width="900" height="930" alt="One producer doing grow, make and sell is contrasted with three specialists exchanging with each other. Specialisation tends to raise output and efficiency but creates interdependence. The tasks are an illustrative example." loading="lazy">
   <figcaption>Specialising raises skill and output but makes each producer rely on the others.</figcaption>
 </figure>
-
 
 ## Why business exists
 
@@ -80,7 +78,6 @@ Added value is **not profit** — it ignores overheads such as rent and wages, s
   <img src="https://img.marlbridge.com/business-activity-and-classification--03-added-value-ways.webp" width="900" height="850" alt="An illustrative price of 42 splits into inputs 20 and four additions (quality 6, brand 8, service 4, convenience 4) totalling added value 22. Added value is price minus input cost and is not profit." loading="lazy">
   <figcaption>Quality, brand, service and convenience each raise what customers will pay above input cost.</figcaption>
 </figure>
-
 
 ## Classification by sector
 
@@ -112,7 +109,6 @@ As economies develop, the balance shifts primary → secondary → tertiary (**d
   <figcaption>As an economy develops, secondary shrinks and tertiary grows (illustrative shares).</figcaption>
 </figure>
 
-
 ## Classification by sector of ownership
 
 - **Private sector** — owned by individuals, profit motive.
@@ -138,7 +134,6 @@ These two subtopics establish the vocabulary the rest of 7115 assumes — why bu
   <figcaption>This lesson covers subtopics 1.1 and 1.2 of Topic 1.</figcaption>
 </figure>
 
-
 ## Stakeholders and their interests
 
 | Stakeholder | Wants |
@@ -152,10 +147,6 @@ These two subtopics establish the vocabulary the rest of 7115 assumes — why bu
 
 These conflict — higher wages reduce profit; expansion creates jobs but may disturb the community. Questions almost always ask you to weigh them.
 
-## Common mistakes worth avoiding specifically
-
-Confusing needs and wants, or treating scarcity as simply "not enough money" rather than the broader economic condition of limited resources against unlimited wants, is a common error. Opportunity cost is specifically the single *next-best* alternative given up — not simply "everything else that was given up." Misclassifying a business's sector is another frequent trap: a bakery that grows its own wheat, mills flour, and sells bread from a shop spans all three sectors, so classification questions often hinge on identifying the specific activity being asked about, not the business as a whole. And assuming the public sector always means non-profit, or that private sector organisations cannot provide public services, oversimplifies a classification that is genuinely about ownership, not purpose.
-
 ## Exam traps
 
 - Added value ≠ profit.
@@ -163,6 +154,8 @@ Confusing needs and wants, or treating scarcity as simply "not enough money" rat
 - The public sector is government-owned, **not** the same as a public limited company.
 - Objectives change with the business stage — don't assume profit maximisation always.
 - Say *which* stakeholders conflict and *why*, rather than listing them.
+
+Confusing needs and wants, or treating scarcity as simply "not enough money" rather than the broader economic condition of limited resources against unlimited wants, is a common error. Opportunity cost is specifically the single *next-best* alternative given up — not simply "everything else that was given up." Misclassifying a business's sector is another frequent trap: a bakery that grows its own wheat, mills flour, and sells bread from a shop spans all three sectors, so classification questions often hinge on identifying the specific activity being asked about, not the business as a whole. And assuming the public sector always means non-profit, or that private sector organisations cannot provide public services, oversimplifies a classification that is genuinely about ownership, not purpose.
 
 ## Self-test
 

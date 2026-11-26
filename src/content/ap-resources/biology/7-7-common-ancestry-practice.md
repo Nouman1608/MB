@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-7.7-practice"
 title: "Common Ancestry: Practice Questions (Biology 7.7)"
 description: "Seven original Marlbridge practice questions on the shared features of eukaryotes, intron data, homology versus similar function, and predicting the effects of disrupting shared systems."
+seoDescription: "Seven original Biology practice questions on shared features of eukaryotes, intron data, homology versus similar function and disrupting shared systems."
 course: "biology"
 unit: 7
 topics: ["7.7"]

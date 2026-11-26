@@ -3,6 +3,7 @@ resourceId: "mb-ap-csa-4.2-practice"
 title: "Introduction to Using Data Sets: Practice Questions (Computer Science A 4.2)"
 seoTitle: "Computer Science A 4.2 Using Data Sets Practice Questions"
 description: "Nine original Marlbridge practice questions on data sets, planning algorithms with tables and flowcharts, tracing plans and spotting flaws such as a counter reset inside a loop, with rubrics."
+seoDescription: "Nine Computer Science A practice questions on data sets, planning algorithms with tables and flowcharts, tracing plans and spotting flaws, with rubrics."
 course: "computer-science-a"
 unit: 4
 topics: ["4.2"]

@@ -89,7 +89,7 @@ mol dm⁻³ → g dm⁻³   × M        mg → g      ÷ 1000
 | 2 | dm³ mol⁻¹ s⁻¹ |
 | 3 | dm⁶ mol⁻² s⁻¹ |
 
-## Presenting data: the table checklist
+**Presenting data: the table checklist**
 
 1. Independent variable in the first column.
 2. Headings as quantity / unit.

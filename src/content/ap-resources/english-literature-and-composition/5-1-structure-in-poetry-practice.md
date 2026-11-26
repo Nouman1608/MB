@@ -2,6 +2,7 @@
 resourceId: "mb-ap-englit-5.1-practice"
 title: "Structure in Poetry: Practice Questions (English Literature 5.1)"
 description: "Original Marlbridge practice questions on how the arrangement of lines, stanzas and patterns in closed and open poetic forms shapes relationships among ideas, with full answers and suggested rubrics."
+seoDescription: "English Literature practice questions on how lines, stanzas and patterns in closed and open poetic forms shape ideas, with full answers and rubrics."
 course: "english-literature-and-composition"
 unit: 5
 topics: ["5.1"]

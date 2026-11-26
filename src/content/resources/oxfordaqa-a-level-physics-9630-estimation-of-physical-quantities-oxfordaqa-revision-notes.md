@@ -99,6 +99,9 @@ Any value in a sensible range is credited; an absurd value is not.
 - Not converting cm or cm² to m or m² before calculating.
 - Using mass where the equation needs weight.
 - Choosing an unrealistic value and not noticing the result is absurd.
+- Writing "about 1000" with no route to it.
+- Stating assumptions without units.
+- Giving an answer to the order of magnitude when the question asked for one significant figure, or the reverse.
 
 ## Quick self-test
 
@@ -129,12 +132,6 @@ Any value in a sensible range is credited; an absurd value is not.
 10. **No.** A room of about 100 m³ at 1 kg m⁻³ holds about 100 kg of air; a unit or prefix error is likely.
 11. Other inputs are far less certain than the 2% difference between 9.81 and 10, so the order of magnitude is unaffected.
 12. The **contact time**. Doubling it only halves the force, which usually leaves the order of magnitude unchanged.
-
-## Where marks are usually lost
-
-- Writing "about 1000" with no route to it.
-- Stating assumptions without units.
-- Giving an answer to the order of magnitude when the question asked for one significant figure, or the reverse.
 
 ## Specification reference
 

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-10.1-practice"
 title: "Electric Charge and Electric Force: Practice Questions (Physics 2 10.1)"
 description: "Seven original Marlbridge practice questions on the elementary charge, Coulomb's law, factors of change, net force from several charges, gravity versus electric force and permittivity."
+seoDescription: "Seven Physics 2 practice questions on the elementary charge, Coulomb's law, factors of change, gravity versus electric force and permittivity."
 course: "physics-2"
 unit: 10
 topics: ["10.1"]

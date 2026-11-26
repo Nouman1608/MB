@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-4.1-revision-notes"
 title: "The Internet: Revision Notes (Computer Science Principles 4.1)"
 description: "One-page recap of computing devices, networks, paths, routing, bandwidth, the Internet and its protocols, packets, scalability, and the Internet versus the World Wide Web."
+seoDescription: "One-page Computer Science Principles recap of the Internet: devices, networks, paths, routing, bandwidth, packets and the Internet versus the Web."
 course: "computer-science-principles"
 unit: 4
 topics: ["4.1"]

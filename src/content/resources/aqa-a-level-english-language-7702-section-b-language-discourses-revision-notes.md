@@ -107,7 +107,7 @@ language cannot be fixed entirely. Worries about decline are not new.
   <figcaption>Identify the producer's persona and the role the reader is pushed into.</figcaption>
 </figure>
 
-## Positioning checklist
+**Positioning checklist**
 
 Inclusive "we"; second-person "you"; presupposition; rhetorical questions; irony; appeals to common sense;
 out-group construction; selective evidence; the final line as a call to action.

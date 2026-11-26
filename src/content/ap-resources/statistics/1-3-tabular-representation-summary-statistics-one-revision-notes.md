@@ -3,6 +3,7 @@ resourceId: "mb-ap-stats-1.3-revision-notes"
 title: "Tabular Representation and Summary Statistics for One Categorical Variable: Revision Notes (Statistics 1.3)"
 seoTitle: "Statistics 1.3 Tables for One Categorical Variable Notes"
 description: "One-page recap of frequency and relative frequency tables, converting between counts, proportions, percentages and ratios, and wording claims that the numbers support."
+seoDescription: "One-page Statistics recap of frequency and relative frequency tables, converting between counts, proportions, percentages and ratios, and supported claims."
 course: "statistics"
 unit: 1
 topics: ["1.3"]

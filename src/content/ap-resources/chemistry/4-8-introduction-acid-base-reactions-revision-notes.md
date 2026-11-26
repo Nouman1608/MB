@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-4.8-revision-notes"
 title: "Introduction to Acid-Base Reactions: Revision Notes (Chemistry 4.8)"
 description: "One-page recap of Brønsted-Lowry acids and bases, conjugate acid-base pairs, the two roles of water and the link between acid strength and conjugate base strength."
+seoDescription: "One-page Chemistry recap of Brønsted-Lowry acids and bases, conjugate pairs, the two roles of water and how acid strength links to conjugate base strength."
 course: "chemistry"
 unit: 4
 topics: ["4.8"]

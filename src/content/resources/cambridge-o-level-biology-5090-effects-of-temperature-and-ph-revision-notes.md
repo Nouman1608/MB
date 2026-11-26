@@ -81,7 +81,7 @@ Example: 50 s → 1000 ÷ 50 = 20.0; 80 s → 12.5; 150 s → 6.7. A shorter tim
 
 **Low temperature:** low kinetic energy; few effective collisions; not denatured, so activity returns on warming.
 
-## Explanation checklist: pH
+**Explanation checklist: pH**
 
 - Each enzyme has an optimum pH.
 - Either side of it, the shape of the active site changes; the substrate fits less well.

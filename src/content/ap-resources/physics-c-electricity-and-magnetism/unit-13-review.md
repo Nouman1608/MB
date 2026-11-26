@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-u13-review"
 title: "Electromagnetic Induction: Mixed Unit Review (Physics C: E&M Unit 13)"
 description: "A mixed review of Unit 13: the big ideas that link flux, induction, magnetic braking, inductance, LR and LC circuits, a summary table and seven original questions that combine topics, with rubrics."
+seoDescription: "Physics C: E&M Unit 13 review: flux, induction, magnetic braking, inductance, LR and LC circuits, with a summary table and seven original combined questions."
 course: "physics-c-electricity-and-magnetism"
 unit: 13
 topics: []

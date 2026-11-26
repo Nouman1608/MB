@@ -108,6 +108,10 @@ Reasons the share differs: political choices about taxes and services; income le
 - The free rider problem is **using without paying**, not refusing to use.
 - Privatisation effects **depend** on competition and regulation; avoid "always".
 - In calculations, show part ÷ whole before × 100.
+- One-sided "differences".
+- Public goods identified by who provides them, not by their characteristics.
+- No chain from non-excludability to the lack of private provision.
+- Privatisation answers without saying what the outcome depends on.
 
 ## Quick self-test
 
@@ -138,13 +142,6 @@ Reasons the share differs: political choices about taxes and services; income le
 10. Revenue from the sale (or: no longer paying a subsidy).
 11. 96 ÷ 320 × 100 = **30%**.
 12. If the privatised firm is a monopoly with no competition, it may raise prices to increase profit.
-
-## Where marks are usually lost
-
-- One-sided "differences".
-- Public goods identified by who provides them, not by their characteristics.
-- No chain from non-excludability to the lack of private provision.
-- Privatisation answers without saying what the outcome depends on.
 
 ## Official syllabus
 

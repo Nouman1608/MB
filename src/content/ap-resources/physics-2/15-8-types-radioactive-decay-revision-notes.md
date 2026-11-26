@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-15.8-revision-notes"
 title: "Types of Radioactive Decay: Revision Notes (Physics 2 15.8)"
 description: "One-page recap of alpha, beta-minus, beta-plus and gamma decay, the particles emitted, and the nucleon number, charge and lepton number checks for decay equations."
+seoDescription: "One-page Physics 2 recap of alpha, beta-minus, beta-plus and gamma decay, the particles emitted, and the nucleon number, charge and lepton number checks."
 course: "physics-2"
 unit: 15
 topics: ["15.8"]

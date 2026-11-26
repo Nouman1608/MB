@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-u9-review"
 title: "Electric Potential: Mixed Unit Review (Physics C: E&M Unit 9)"
 description: "A mixed review of Unit 9: the big ideas that link potential energy, potential, field and energy conservation, a summary table and seven original questions that combine topics, with rubrics."
+seoDescription: "Physics C: E&M Unit 9 review: potential energy, potential, field and energy conservation, with a summary table and seven original combined questions."
 course: "physics-c-electricity-and-magnetism"
 unit: 9
 topics: []

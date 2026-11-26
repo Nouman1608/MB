@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-5.5-revision-notes"
 title: "Crowding Out: Revision Notes (Macroeconomics 5.5)"
 description: "One-page recap of crowding out: deficit borrowing, the loanable funds graph, the rise in the real interest rate, the smaller AD shift and the long-run cost to growth."
+seoDescription: "One-page Macroeconomics recap of crowding out: deficit borrowing, the loanable funds graph, the smaller AD shift and long-run growth."
 course: "macroeconomics"
 unit: 5
 topics: ["5.5"]

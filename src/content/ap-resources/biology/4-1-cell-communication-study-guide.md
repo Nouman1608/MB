@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-4.1-study-guide"
 title: "Cell Communication: Study Guide (Biology 4.1)"
 description: "How cells talk to each other: direct contact through junctions and surface molecules, local signalling over short distances, and hormones that travel long distances to distant target cells."
+seoDescription: "Biology study guide to cell communication: signalling by direct contact, local signals over short distances, and hormones acting on distant target cells."
 course: "biology"
 unit: 4
 topics: ["4.1"]

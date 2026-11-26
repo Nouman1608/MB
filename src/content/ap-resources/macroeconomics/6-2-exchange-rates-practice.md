@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-6.2-practice"
 title: "Exchange Rates: Practice Questions (Macroeconomics 6.2)"
 description: "Seven original Marlbridge practice questions on quoting exchange rates, identifying appreciation and depreciation, percentage changes, cross rates and converting prices between currencies."
+seoDescription: "Seven Macroeconomics practice questions on quoting exchange rates, appreciation and depreciation, percentage changes, cross rates and converting prices."
 course: "macroeconomics"
 unit: 6
 topics: ["6.2"]

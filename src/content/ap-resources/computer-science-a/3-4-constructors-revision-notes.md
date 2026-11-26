@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-3.4-revision-notes"
 title: "Constructors: Revision Notes (Computer Science A 3.4)"
 description: "One-page recap of Java constructors: setting initial state, default constructor and default values, constructor parameters, overloading and storing a copy of a mutable parameter."
+seoDescription: "One-page Computer Science A recap of Java constructors: initial state, default constructors and values, overloading and copying a mutable parameter."
 course: "computer-science-a"
 unit: 3
 topics: ["3.4"]

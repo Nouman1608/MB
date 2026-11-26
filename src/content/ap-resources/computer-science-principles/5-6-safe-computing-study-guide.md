@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-5.6-study-guide"
 title: "Safe Computing: Study Guide (Computer Science Principles 5.6)"
 description: "How to keep data and devices safe: PII and privacy, passwords and multifactor authentication, symmetric and public key encryption, malware, phishing and other attacks, with two worked examples."
+seoDescription: "Computer Science Principles study guide to safe computing: PII and privacy, passwords and multifactor authentication, malware and phishing."
 course: "computer-science-principles"
 unit: 5
 topics: ["5.6"]

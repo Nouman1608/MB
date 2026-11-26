@@ -61,7 +61,6 @@ Condensed for the final weeks. For the full explanation, use the
   <figcaption>Component 1 is compulsory and carries 60% of the qualification.</figcaption>
 </figure>
 
-
 ## Section A — unseen poem
 
 - The poem is printed on the paper — no memorisation needed, just strong analytical skill.
@@ -71,7 +70,6 @@ Condensed for the final weeks. For the full explanation, use the
   <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--03-e4-section-a-lenses.webp" width="900" height="870" alt="A schematic poem of three stanzas. A highlighted word is linked to language (imagery, word choice, sound), a dashed box round a stanza to form (rhyme, meter, stanza shape) and a turning arrow to structure (how the poem develops or shifts). Below, a short quotation leads to an explained effect." loading="lazy">
   <figcaption>Section A rewards analysis of language, form and structure, each rooted in a short quotation.</figcaption>
 </figure>
-
 
 ## Section B — comparing two poems
 
@@ -83,7 +81,6 @@ Condensed for the final weeks. For the full explanation, use the
   <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--04-e4-section-b-compare.webp" width="900" height="830" alt="Two essay plans. Poem-by-poem blocks leave comparison to the end. The by-point plan shows each point with poem 1 and poem 2 side by side and a double arrow between them in every paragraph." loading="lazy">
   <figcaption>Organise by point of comparison and keep comparing in every paragraph.</figcaption>
 </figure>
-
 
 ## Section C — modern prose
 
@@ -129,20 +126,18 @@ character's state of mind at two different points in the novel — track the sam
 contrasting pair of settings, and use each to make an explicit claim about the character's
 development, rather than describing the setting for its own sake.
 
-## Where marks are usually lost across all three sections
-
-Beyond the section-specific traps below, three general patterns recur across the whole paper:
-Section B answers that analyse each poem in a separate half rather than comparing directly point by
-point; Section C answers that retell the plot instead of tracking character or theme development
-with a clear argument; and context in Section C treated as a bolt-on paragraph rather than woven
-into the analysis throughout.
-
 ## Exam traps
 
 - Writing about only one poem in Section B when comparison is explicitly credited.
 - In Section C, summarising plot instead of building an argument about character/theme development.
 - Forgetting that the set texts (poetry anthology and prose novel) are fixed by the specification and only change when Pearson issues a revised specification, not on a series-by-series rotation — see the [study guide](/resources/igcse-edexcel-english-literature-poetry-and-modern-prose/) for the current anthology and prose list, and always confirm you're revising the texts for your own specification issue.
 - Spending equal time on all three sections when they are not equally weighted (40 > 30 > 20 marks).
+
+Beyond the section-specific traps below, three general patterns recur across the whole paper:
+Section B answers that analyse each poem in a separate half rather than comparing directly point by
+point; Section C answers that retell the plot instead of tracking character or theme development
+with a clear argument; and context in Section C treated as a bolt-on paragraph rather than woven
+into the analysis throughout.
 
 ## Self-test
 
@@ -157,7 +152,6 @@ into the analysis throughout.
   <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--05-e4-section-c-track.webp" width="900" height="1030" alt="A novel timeline showing a single starred scene versus every point tracked by a rising development arrow. Two essay outlines compare context added as a final paragraph with context woven through every paragraph." loading="lazy">
   <figcaption>Track a theme across the whole novel and weave context into the argument.</figcaption>
 </figure>
-
 
 ## Frequently asked questions
 

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-4.5-revision-notes"
 title: "Cell Cycle: Revision Notes (Biology 4.5)"
 description: "One-page recap of the cell cycle: what happens in G1, S, G2 and G0, the four steps of mitosis, cytokinesis in animal and plant cells, and the counts and calculations that cost marks."
+seoDescription: "One-page Biology recap of the cell cycle: G1, S, G2 and G0, the four steps of mitosis, cytokinesis in animal and plant cells, and key counts."
 course: "biology"
 unit: 4
 topics: ["4.5"]

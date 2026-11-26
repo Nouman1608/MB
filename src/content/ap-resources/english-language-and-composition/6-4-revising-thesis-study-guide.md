@@ -3,6 +3,7 @@ resourceId: mb-ap-englang-6.4-study-guide
 title: 'Revising a Thesis for New Evidence: Study Guide (English Language 6.4)'
 seoTitle: "English Language 6.4 Revising a Thesis Study Guide"
 description: Why a thesis is a working claim, how new evidence can require narrowing, qualifying or changing it and the line of reasoning behind it, and a step-by-step method for revising a thesis honestly.
+seoDescription: "English Language study guide to revising a thesis: how new evidence can narrow, qualify or change a claim and its line of reasoning, with a step-by-step method."
 course: english-language-and-composition
 unit: 6
 topics:

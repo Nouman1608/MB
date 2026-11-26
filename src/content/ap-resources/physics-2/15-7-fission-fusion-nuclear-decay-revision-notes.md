@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-15.7-revision-notes"
 title: "Fission, Fusion and Nuclear Decay: Revision Notes (Physics 2 15.7)"
 description: "One-page recap of the strong force, conservation laws in nuclear reactions, E = mc² with 931 MeV per u, fission and fusion, half-life and the decay constant."
+seoDescription: "One-page Physics 2 recap of the strong force, conservation laws in nuclear reactions, E = mc² with 931 MeV per u, half-life and decay constant."
 course: "physics-2"
 unit: 15
 topics: ["15.7"]

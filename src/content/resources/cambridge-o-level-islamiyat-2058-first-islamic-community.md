@@ -72,7 +72,7 @@ Jahsh); and his wives taught Muslim women and men about his private life and pra
 
 ## 2. His descendants
 
-**Children.** With Khadija (RA): **Qasim**, **Abdullah**, **Zaynab**, **Ruqayya**, **Umm Kulthum** and
+**Children.** With Khadija (RA): **Qasim**, **Abdullah**, **Zaynab (RA)**, **Ruqayya (RA)**, **Umm Kulthum (RA)** and
 **Fatima (RA)**. With Maria: **Ibrahim**. All his sons died in childhood. Zaynab married Abu al-As;
 Ruqayya and later Umm Kulthum married Uthman (RA), who was therefore called Dhu al-Nurayn, "possessor of
 two lights". Fatima (RA) married Ali (RA). When Ibrahim died, an eclipse occurred; the Prophet (pbuh) taught that

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-3.5-revision-notes"
 title: "Power: Revision Notes (Physics C: Mechanics 3.5)"
 description: "One-page calculus recap of power: average power, P = dW/dt, P = F·v with signs, net power as dK/dt, work as the area under a power–time graph, and constant-power motion."
+seoDescription: "One-page Physics C: Mechanics calculus recap of power: average power, P = dW/dt, P = F·v with signs, power-time graphs and constant-power motion."
 course: "physics-c-mechanics"
 unit: 3
 topics: ["3.5"]

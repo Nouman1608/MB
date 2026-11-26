@@ -65,7 +65,7 @@ Rearranged cosine rule for an angle: cos A = (b² + c² − a²)/2bc.
 - Isosceles triangle → split down the line of symmetry for a right angle.
 - Common triples: 3, 4, 5; 5, 12, 13; 8, 15, 17; 7, 24, 25 (and multiples such as 6, 8, 10).
 
-## Right-angled trigonometry checklist
+**Right-angled trigonometry checklist**
 
 1. Label hyp, opp, adj from the angle.
 2. Pick the ratio that uses the two sides involved.

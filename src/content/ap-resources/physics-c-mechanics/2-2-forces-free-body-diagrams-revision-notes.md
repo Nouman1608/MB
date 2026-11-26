@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.2-revision-notes"
 title: "Forces and Free-Body Diagrams: Revision Notes (Physics C: Mechanics 2.2)"
 description: "One-page recap of forces as interactions, contact and long-range forces, the free-body diagram conventions, tilted axes on slopes and diagrams as snapshots of changing forces."
+seoDescription: "One-page Physics C: Mechanics recap of forces as interactions, contact and long-range forces, tilted axes on slopes and changing forces."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.2"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-englang-9.1-study-guide"
 title: "Entering an Ongoing Conversation: Study Guide (English Language 9.1)"
 description: "How to map the positions already argued on a subject, represent them fairly, place your own claim among them, and read how other writers enter an ongoing conversation."
+seoDescription: "English Language study guide to entering an ongoing conversation: mapping the positions on a subject, representing them fairly and placing your own claim."
 course: "english-language-and-composition"
 unit: 9
 topics: ["9.1"]

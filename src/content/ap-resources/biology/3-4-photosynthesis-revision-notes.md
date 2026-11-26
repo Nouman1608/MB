@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-3.4-revision-notes"
 title: "Photosynthesis: Revision Notes (Biology 3.4)"
 description: "One-page recap of photosynthesis: the equation, chloroplast structures, the light reactions, the proton gradient and ATP synthase, NADPH, the Calvin cycle and prokaryotic origins."
+seoDescription: "One-page Biology recap of photosynthesis: the equation, chloroplast structures, light reactions, proton gradient, ATP synthase, Calvin cycle and origins."
 course: "biology"
 unit: 3
 topics: ["3.4"]

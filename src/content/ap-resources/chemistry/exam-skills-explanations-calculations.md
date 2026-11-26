@@ -3,6 +3,7 @@ resourceId: "mb-ap-chem-exam-skills-explanations-calculations"
 title: "Explanations, Calculations and Representations: Exam Skills Guide (Chemistry)"
 seoTitle: "Chemistry Explanations and Calculations Exam Skills Guide"
 description: "Write particle-level explanations that name a cause, set out multi-step calculations with units and significant figures, read and draw particulate diagrams, and back every claim with data."
+seoDescription: "Chemistry exam skills: particle-level explanations that name a cause, multi-step calculations with units, particulate diagrams and claims backed by data."
 course: "chemistry"
 unit: 1
 topics: []

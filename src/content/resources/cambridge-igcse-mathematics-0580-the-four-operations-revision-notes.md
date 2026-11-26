@@ -97,6 +97,11 @@ AS  Addition and Subtraction, LEFT TO RIGHT
 - When dividing fractions, invert the **second** fraction only.
 - Count decimal places in **both** numbers when multiplying decimals.
 - Read the context: "complete boxes" rounds down; "boxes needed" rounds up.
+- Giving only the final answer on a non-calculator paper, so one slip loses every mark.
+- Leaving a fraction answer unsimplified, or as an improper fraction when a mixed number was asked for.
+- Sign errors when a negative number is subtracted or squared.
+- Misplacing the decimal point after multiplying or dividing decimals.
+- Using the wrong starting value in a temperature or bank balance problem with several steps.
 
 ## Quick self-test
 
@@ -127,14 +132,6 @@ AS  Addition and Subtraction, LEFT TO RIGHT
 10. 8 × 3 = 24, three decimal places: 0.024
 11. 75.6 ÷ 6 = 12.6
 12. (10 − 4) × 2 + 1 = 6 × 2 + 1 = 13
-
-## Where marks are usually lost
-
-- Giving only the final answer on a non-calculator paper, so one slip loses every mark.
-- Leaving a fraction answer unsimplified, or as an improper fraction when a mixed number was asked for.
-- Sign errors when a negative number is subtracted or squared.
-- Misplacing the decimal point after multiplying or dividing decimals.
-- Using the wrong starting value in a temperature or bank balance problem with several steps.
 
 ## Frequently asked questions
 

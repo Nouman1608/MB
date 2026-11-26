@@ -94,6 +94,9 @@ Ask four questions: same type? Equal size? Opposite direction? Different objects
 - Tension taken as equal to the hanging weight in an accelerating system.
 - Mass used in place of weight: 5.0 kg weighs 49 N.
 - First law stated without "constant velocity".
+- Free-body diagrams that include forces exerted by the object on others.
+- Two-object problems solved with one equation that mixes forces on both objects.
+- Laws stated in shortened form, losing "resultant", "constant velocity" or "different objects".
 
 ## Quick self-test
 
@@ -124,12 +127,6 @@ Ask four questions: same type? Equal size? Opposite direction? Different objects
 10. 9.81 × sin 30° = **4.9 m s⁻²**.
 11. The **empty lorry**: same force on smaller mass gives a larger deceleration (a = F/m).
 12. The hanging mass accelerates downwards, so the resultant force on it is downwards: weight must be larger than tension.
-
-## Where marks are usually lost
-
-- Free-body diagrams that include forces exerted by the object on others.
-- Two-object problems solved with one equation that mixes forces on both objects.
-- Laws stated in shortened form, losing "resultant", "constant velocity" or "different objects".
 
 ## Specification reference
 

@@ -3,6 +3,7 @@ resourceId: "mb-ap-englit-9.6-study-guide"
 title: "Thesis and commentary in a literary argument essay: Study Guide (English Literature 9.6)"
 seoTitle: "English Lit 9.6 Literary Argument Thesis Study Guide"
 description: "Learn to write a defensible thesis about a work as a whole for the literary argument essay, and to develop commentary that connects chosen evidence to a line of reasoning, with original models."
+seoDescription: "English Literature study guide to the literary argument essay: a defensible thesis about a whole work and commentary that links evidence to a line of reasoning."
 course: "english-literature-and-composition"
 unit: 9
 topics: ["9.6"]

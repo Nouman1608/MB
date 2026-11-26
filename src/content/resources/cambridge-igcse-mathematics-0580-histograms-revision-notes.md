@@ -68,7 +68,7 @@ Class            Frequency   Width   Frequency density
 
 The tallest bar is 10 < x ≤ 15, so that is the **modal class**, although 15 < x ≤ 30 has the highest frequency.
 
-## Reading: checklist
+**Reading: checklist**
 
 - Frequency of a class = bar height × class width.
 - Total frequency = total area of all the bars.

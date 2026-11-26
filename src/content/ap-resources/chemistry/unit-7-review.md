@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u7-review"
 title: "Equilibrium: Mixed Unit Review (Chemistry Unit 7)"
 description: "Connect rates, Q and K, equilibrium calculations, particle models, Le Châtelier's principle and solubility with six original questions that each combine two or more topics."
+seoDescription: "Chemistry Unit 7 review: six original questions combining rates, Q and K, equilibrium calculations, Le Châtelier's principle and solubility."
 course: "chemistry"
 unit: 7
 topics: []

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-8.6-practice"
 title: "Biodiversity: Practice Questions (Biology 8.6)"
 description: "Seven original Marlbridge practice questions on biodiversity and resilience, keystone species, producers and abiotic factors, and predicting short- and long-term ecosystem changes, with worked answers."
+seoDescription: "Seven Biology practice questions on biodiversity and resilience, keystone species, abiotic factors and predicting ecosystem change, with worked answers."
 course: "biology"
 unit: 8
 topics: ["8.6"]

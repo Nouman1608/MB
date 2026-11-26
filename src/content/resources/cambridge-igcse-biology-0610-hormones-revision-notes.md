@@ -113,6 +113,11 @@ Four ideas: chemical · gland · blood · target organs.
 - (Extended) Adrenaline said to decrease blood glucose.
 - (Extended) Glucagon said to come from the liver.
 - Comparisons with only one type of control in each sentence.
+- Leaving "carried by the blood" out of the definition.
+- Naming the gland but not the hormone, or the other way round, when both are asked for.
+- Giving adrenaline effects that are not on the syllabus list instead of the three that are.
+- Writing "makes you scared" or "gives you energy" instead of named effects.
+- Comparing on features other than speed and duration.
 
 ## Command words
 
@@ -122,14 +127,6 @@ Four ideas: chemical · gland · blood · target organs.
 - **Explain** an effect: add how it helps in fight or flight (oxygen, glucose, light).
 - **Compare**: speed of action and duration of effect, both types in each sentence.
 - **Describe** adrenaline's metabolic role (Extended): blood glucose up, heart rate up, then the benefit to respiring muscles.
-
-## Where marks are usually lost
-
-- Leaving "carried by the blood" out of the definition.
-- Naming the gland but not the hormone, or the other way round, when both are asked for.
-- Giving adrenaline effects that are not on the syllabus list instead of the three that are.
-- Writing "makes you scared" or "gives you energy" instead of named effects.
-- Comparing on features other than speed and duration.
 
 ## Self-test
 

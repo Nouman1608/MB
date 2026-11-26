@@ -110,6 +110,11 @@ These notes condense section 1.2.6, Government intervention, of the Pearson Edex
 - Permits work only if the **cap is low enough**.
 - Each policy needs **one advantage and one disadvantage** when asked.
 - Competition answers need an **action**, not just an aim.
+- Policy answers with no advantage or disadvantage.
+- Using the wrong policy for the type of externality.
+- Minimum wage diagrams with the line below equilibrium.
+- Forgetting to multiply by quantity in tax and subsidy calculations.
+- Evaluations without a deciding factor.
 
 ## Quick self-test
 
@@ -140,14 +145,6 @@ These notes condense section 1.2.6, Government intervention, of the Pearson Edex
 10. Nothing: the market wage is already higher.
 11. 6 200 − 5 400 = **800**.
 12. More unemployment (or: higher costs for firms, higher prices, substitution by machines).
-
-## Where marks are usually lost
-
-- Policy answers with no advantage or disadvantage.
-- Using the wrong policy for the type of externality.
-- Minimum wage diagrams with the line below equilibrium.
-- Forgetting to multiply by quantity in tax and subsidy calculations.
-- Evaluations without a deciding factor.
 
 ## Official syllabus
 

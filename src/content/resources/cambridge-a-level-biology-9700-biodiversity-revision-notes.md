@@ -120,6 +120,10 @@ These notes cover section 18.2 Biodiversity (learning outcomes 1 to 6) of Topic 
 - Spearman: rank both variables in the same direction (smallest = 1 for each).
 - Simpson: square **n ÷ N**, not n.
 - "Significant" refers to the test, not to how big the effect is.
+- Describing a method without saying how positions were chosen or how many samples were taken.
+- Leaving out the critical-value comparison after calculating a coefficient.
+- Writing "high D means more species" without mentioning evenness.
+- Not linking abiotic readings to the same position as the abundance readings on a transect.
 
 ## Quick self-test
 
@@ -150,13 +154,6 @@ These notes cover section 18.2 Biodiversity (learning outcomes 1 to 6) of Topic 
 10. 1 − (6 × 18) ÷ (1000 − 10) = 1 − 108 ÷ 990 = 1 − 0.109 = **0.89**.
 11. N = 50: 0.36 + 0.04 + 0.04 = 0.44 → D = **0.56**.
 12. Site X has individuals spread more evenly among species; site Y is dominated by one or a few species, so it is less diverse.
-
-## Where marks are usually lost
-
-- Describing a method without saying how positions were chosen or how many samples were taken.
-- Leaving out the critical-value comparison after calculating a coefficient.
-- Writing "high D means more species" without mentioning evenness.
-- Not linking abiotic readings to the same position as the abundance readings on a transect.
 
 ## Frequently asked questions
 

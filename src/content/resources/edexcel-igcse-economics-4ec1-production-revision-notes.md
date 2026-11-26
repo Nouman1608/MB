@@ -50,7 +50,7 @@ These notes condense section 1.2.1, Production, of the Pearson Edexcel Internati
 | The risk-taking and organising of the owner or entrepreneur | Enterprise |
 | Money | Not a factor in this classification; it buys capital |
 
-## Sector checklist
+**Sector checklist**
 
 | Activity | Sector |
 |---|---|
@@ -102,6 +102,11 @@ These notes condense section 1.2.1, Production, of the Pearson Edexcel Internati
 - Do not mix percentage points with per cent.
 - Read whether the data are for employment or output.
 - Developed economies still have a primary sector; it is just small.
+- Calling money capital.
+- Classifying by product rather than activity.
+- Confusing employment share with output share.
+- Writing "per cent" for a change in a share.
+- Stating structural change as a fixed law.
 
 ## Command words
 
@@ -140,14 +145,6 @@ These notes condense section 1.2.1, Production, of the Pearson Edexcel Internati
 10. A fall of 6 percentage points (a 20% fall in the share).
 11. 0.55 × 40 = **22 million**.
 12. A resource-rich country may keep a large primary share of output (or: a country may grow services such as tourism without a large manufacturing stage).
-
-## Where marks are usually lost
-
-- Calling money capital.
-- Classifying by product rather than activity.
-- Confusing employment share with output share.
-- Writing "per cent" for a change in a share.
-- Stating structural change as a fixed law.
 
 ## Official syllabus
 

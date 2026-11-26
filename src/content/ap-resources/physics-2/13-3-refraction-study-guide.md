@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-13.3-study-guide"
 title: "Refraction: Study Guide (Physics 2 13.3)"
 description: "Why light bends at a boundary: index of refraction n = c/v, Snell's law, bending toward or away from the normal, finding n from a graph, and total internal reflection."
+seoDescription: "Physics 2 study guide to refraction: index of refraction n = c/v, Snell's law, finding n from a graph and total internal reflection."
 course: "physics-2"
 unit: 13
 topics: ["13.3"]

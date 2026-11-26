@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-2.2-revision-notes"
 title: "Data Compression: Revision Notes (Computer Science Principles 2.2)"
 description: "One-page recap of data compression: lossless versus lossy, redundancy, run-length encoding, size-reduction calculations and choosing a method for a situation."
+seoDescription: "One-page Computer Science Principles recap of data compression: lossless versus lossy, redundancy, size calculations and choosing a method."
 course: "computer-science-principles"
 unit: 2
 topics: ["2.2"]

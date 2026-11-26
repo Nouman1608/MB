@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u5-diagnostic"
 title: "Kinetics: Unit Diagnostic (Chemistry Unit 5)"
 description: "Twelve short original questions, one or two per topic, to find which parts of rates, rate laws, collisions, energy profiles, mechanisms and catalysis you should revisit before the unit review."
+seoDescription: "Chemistry Unit 5 diagnostic of twelve short questions on rates, rate laws, collisions, energy profiles, mechanisms and catalysis to find what to revisit."
 course: "chemistry"
 unit: 5
 topics: []

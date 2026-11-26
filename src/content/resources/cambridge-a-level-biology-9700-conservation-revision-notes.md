@@ -118,6 +118,10 @@ These notes cover section 18.3 Conservation (learning outcomes 1 to 6) of Topic 
 - IUCN does not make laws; CITES controls trade between countries, not hunting within one.
 - "Introduced" is not the same as "invasive".
 - "Hunting" answers need a mechanism: adults removed faster than offspring replace them.
+- Naming conservation methods without their role.
+- Describing assisted reproduction steps out of order.
+- Mixing up the purposes of IUCN and CITES.
+- Generic "it is bad for the environment" points about invasive species.
 
 ## Quick self-test
 
@@ -148,13 +152,6 @@ These notes cover section 18.3 Conservation (learning outcomes 1 to 6) of Topic 
 10. The **Red List** of Threatened Species.
 11. Commercial international trade in the species is banned.
 12. They record ancestry so that matings maximise genetic diversity and avoid inbreeding.
-
-## Where marks are usually lost
-
-- Naming conservation methods without their role.
-- Describing assisted reproduction steps out of order.
-- Mixing up the purposes of IUCN and CITES.
-- Generic "it is bad for the environment" points about invasive species.
 
 ## Frequently asked questions
 

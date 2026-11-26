@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-4.4-revision-notes"
 title: "Feedback: Revision Notes (Biology 4.4)"
 description: "One-page recap of negative and positive feedback, blood glucose control, the classic positive feedback examples and a method for predicting what happens when a loop is disrupted."
+seoDescription: "One-page Biology recap of negative and positive feedback, classic positive feedback examples and predicting what a disrupted loop does."
 course: "biology"
 unit: 4
 topics: ["4.4"]

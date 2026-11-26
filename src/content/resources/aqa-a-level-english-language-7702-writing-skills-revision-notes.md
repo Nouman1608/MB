@@ -83,7 +83,7 @@ explanation may be...", "On balance...".
   <figcaption>Hedge, name, attribute and signpost; and always argue against yourself.</figcaption>
 </figure>
 
-## Analytical writing checklist
+**Analytical writing checklist**
 
 - Open each paragraph with a claim about what the text **does**, not what it **says**.
 - Embed short quotations; name the feature; explain its effect; link to context and discourse.
@@ -95,7 +95,7 @@ explanation may be...", "On balance...".
   <figcaption>Choose analytical verbs, embed short quotations and compare as you go.</figcaption>
 </figure>
 
-## Directed writing checklist
+**Directed writing checklist**
 
 1. Underline the **form**, **audience** and **purpose**.
 2. Decide your position.

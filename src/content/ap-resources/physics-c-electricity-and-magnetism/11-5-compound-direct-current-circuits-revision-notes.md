@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-11.5-revision-notes"
 title: "Compound Direct Current Circuits: Revision Notes (Physics C: E&M 11.5)"
 description: "One-page recap of compound DC circuits: series and parallel rules, equivalent resistance, internal resistance and terminal voltage, and ideal and real meters."
+seoDescription: "One-page Physics C: E&M recap of compound DC circuits: series and parallel rules, equivalent resistance, terminal voltage and ideal and real meters."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.5"]

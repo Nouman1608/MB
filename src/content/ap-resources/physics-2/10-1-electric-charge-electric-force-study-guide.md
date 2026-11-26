@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-10.1-study-guide"
 title: "Electric Charge and Electric Force: Study Guide (Physics 2 10.1)"
 description: "Electric charge from first principles: the elementary charge, point charges, Coulomb's law, adding forces from several charges, electric versus gravitational force, and permittivity."
+seoDescription: "Physics 2 study guide to electric charge and force: the elementary charge, point charges, adding forces from several charges and permittivity."
 course: "physics-2"
 unit: 10
 topics: ["10.1"]

@@ -112,6 +112,11 @@ Mammals need these because they are active and keep a constant body temperature,
 - **Advantage with no consequence.** "Higher pressure" alone rarely scores in an explain question.
 - **Wrong reason for low lung pressure.** The capillaries are delicate; the size of the lungs is not the reason.
 - **Definition missing a part.** Vessels, pump **and** valves; the word "one-way" must appear.
+- Writing a definition with no mention of valves or one-way flow.
+- Describing only the route without the number of passes through the heart.
+- Giving three advantages as single words ("pressure", "separate", "lungs") with no explanation.
+- Mixing up which side of the heart serves the lungs.
+- Calling the lungs part of the body circuit.
 
 ## Command-word reminders
 
@@ -148,14 +153,6 @@ Mammals need these because they are active and keep a constant body temperature,
 10. Deoxygenated.
 11. The aorta; the systemic circulation.
 12. Mammals have one heart with two sides; blood passes through the heart twice in each complete circuit.
-
-## Where marks are usually lost
-
-- Writing a definition with no mention of valves or one-way flow.
-- Describing only the route without the number of passes through the heart.
-- Giving three advantages as single words ("pressure", "separate", "lungs") with no explanation.
-- Mixing up which side of the heart serves the lungs.
-- Calling the lungs part of the body circuit.
 
 ## Official syllabus
 

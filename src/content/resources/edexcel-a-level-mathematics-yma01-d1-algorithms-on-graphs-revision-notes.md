@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-Condensed recall for Unit D1, section 2: the minimum spanning tree (minimum connector) problem with Prim's and Kruskal's algorithms, including Prim's algorithm in matrix form and moving between networks and matrices, and Dijkstra's algorithm for the shortest path. For full worked examples, use the [algorithms on graphs study guide](/resources/edexcel-a-level-mathematics-yma01-d1-algorithms-on-graphs/).
+Condensed recall for Unit D1 (WDM11), section 2: the minimum spanning tree (minimum connector) problem with Prim's and Kruskal's algorithms, including Prim's algorithm in matrix form and moving between networks and matrices, and Dijkstra's algorithm for the shortest path. For full worked examples, use the [algorithms on graphs study guide](/resources/edexcel-a-level-mathematics-yma01-d1-algorithms-on-graphs/).
 
 ## Key terms
 

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-u10-review"
 title: "Conductors and Capacitors: Mixed Unit Review (Physics C: E&M Unit 10)"
 description: "A mixed review of Unit 10: the big ideas that link conductors, charge sharing, grounding, capacitors and dielectrics, a summary table and seven original questions that combine topics, with rubrics."
+seoDescription: "Physics C: E&M Unit 10 review: conductors, charge sharing, grounding, capacitors and dielectrics, with a summary table and seven original combined questions."
 course: "physics-c-electricity-and-magnetism"
 unit: 10
 topics: []

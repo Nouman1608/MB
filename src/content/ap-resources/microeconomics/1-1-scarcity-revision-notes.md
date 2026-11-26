@@ -2,6 +2,7 @@
 resourceId: "mb-ap-micro-1.1-revision-notes"
 title: "Scarcity: Revision Notes (Microeconomics 1.1)"
 description: "One-page recap of scarcity: the four factors of production, the causes of scarcity, non-rival knowledge, scarcity versus shortage, and the link to trade-offs and opportunity cost."
+seoDescription: "One-page Microeconomics recap of scarcity: the four factors of production, causes of scarcity, non-rival knowledge and opportunity cost."
 course: "microeconomics"
 unit: 1
 topics: ["1.1"]

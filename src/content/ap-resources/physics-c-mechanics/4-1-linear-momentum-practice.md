@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-4.1-practice"
 title: "Linear Momentum: Practice Questions (Physics C: Mechanics 4.1)"
 description: "Seven original Marlbridge calculus-based practice questions on momentum as a vector, system momentum, momentum from position functions, K = p²/2m, and the collision and explosion models."
+seoDescription: "Seven Physics C: Mechanics calculus-based practice questions on momentum as a vector, system momentum, K = p²/2m, and collision and explosion models."
 course: "physics-c-mechanics"
 unit: 4
 topics: ["4.1"]

@@ -3,6 +3,7 @@ resourceId: "mb-ap-englit-9.7-study-guide"
 title: "Selecting evidence for a literary argument: Study Guide (English Literature 9.7)"
 seoTitle: "English Lit 9.7 Literary Argument Evidence Study Guide"
 description: "Learn to select relevant and sufficient evidence from across a longer work, balance specific references against summary, and keep evidence tied to a line of reasoning in a timed literary argument essay."
+seoDescription: "English Literature study guide to evidence in a literary argument essay: selecting from across a longer work and keeping it tied to a line of reasoning."
 course: "english-literature-and-composition"
 unit: 9
 topics: ["9.7"]

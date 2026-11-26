@@ -30,7 +30,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover linear programming for Pearson Edexcel International Advanced Level Mathematics (YMA01), Specification Issue 3, April 2019: unit D1, section 5, topics 5.1 to 5.3. The specification states that D1 is optional for IAS and IAL Mathematics and Further Mathematics. Learn the methods from the [study guide](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and/) and the [revision notes](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-revision-notes/). See also the [course hub](/boards/edexcel/a-level/mathematics/), the [checklist](/checklists/edexcel/a-level/mathematics/) and [all free 10-minute diagnostics](/diagnostics/).
+These questions cover linear programming for Pearson Edexcel International Advanced Level Mathematics (YMA01), Specification Issue 3, April 2019: unit D1 (WDM11), section 5, topics 5.1 to 5.3. The specification states that D1 is optional for IAS and IAL Mathematics and Further Mathematics. Learn the methods from the [study guide](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and/) and the [revision notes](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-revision-notes/). See also the [course hub](/boards/edexcel/a-level/mathematics/), the [checklist](/checklists/edexcel/a-level/mathematics/) and [all free 10-minute diagnostics](/diagnostics/).
 
 In every question x and y are non-negative.
 

@@ -119,6 +119,12 @@ Sterilise the vessel and nutrients first, so no other microorganism competes, co
 - A powder with only protease will not speed removal of a fat stain.
 - When describing a trend, **quote numbers** from the table, including the peak.
 - "The enzyme is killed" earns nothing: write **denatured**, active site changes shape.
+- Swapping the useful products of bread-making and biofuel production.
+- Describing a graph trend without data or without the optimum.
+- Leaving out a control, or a reason for repeating.
+- Naming only one product of lactase.
+- Giving the wrong organism for a fermenter product.
+- Writing "heat the fermenter".
 
 ## Quick self-test
 
@@ -149,15 +155,6 @@ Sterilise the vessel and nutrients first, so no other microorganism competes, co
 10. *Fusarium* (a fungus).
 11. To supply oxygen for aerobic respiration, which releases energy for growth; sterile so no contaminating microorganisms enter.
 12. (24 − 15) ÷ 15 × 100 = **60%**.
-
-## Where marks are usually lost
-
-- Swapping the useful products of bread-making and biofuel production.
-- Describing a graph trend without data or without the optimum.
-- Leaving out a control, or a reason for repeating.
-- Naming only one product of lactase.
-- Giving the wrong organism for a fermenter product.
-- Writing "heat the fermenter".
 
 ## Official syllabus
 

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-5.5-study-guide"
 title: "Crowding Out: Study Guide (Macroeconomics 5.5)"
 description: "Learn how deficit-financed fiscal policy raises the real interest rate in the loanable funds market, crowds out interest-sensitive private spending and can slow long-run growth."
+seoDescription: "Macroeconomics study guide to crowding out: how deficit-financed fiscal policy raises the real interest rate, displaces private spending and can slow growth."
 course: "macroeconomics"
 unit: 5
 topics: ["5.5"]

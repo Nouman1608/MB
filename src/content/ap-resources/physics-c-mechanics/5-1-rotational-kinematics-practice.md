@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-5.1-practice"
 title: "Rotational Kinematics: Practice Questions (Physics C: Mechanics 5.1)"
 description: "Seven original Marlbridge calculus-based practice questions on angular velocity and acceleration as derivatives, integrating α(t), rotation graphs, scaling and sensor data."
+seoDescription: "Seven Physics C: Mechanics calculus-based practice questions on angular velocity and acceleration as derivatives, rotation graphs and sensor data."
 course: "physics-c-mechanics"
 unit: 5
 topics: ["5.1"]

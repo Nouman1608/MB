@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-2.1-revision-notes"
 title: "The Circular Flow and GDP: Revision Notes (Macroeconomics 2.1)"
 description: "One-page recap of the circular flow model, the definition of GDP, the expenditure, income and value-added approaches, and the transactions that GDP leaves out."
+seoDescription: "One-page Macroeconomics recap of the circular flow, the definition of GDP, the expenditure, income and value-added approaches, and what GDP leaves out."
 course: "macroeconomics"
 unit: 2
 topics: ["2.1"]

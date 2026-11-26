@@ -93,6 +93,10 @@ Common examples: a car, fire, a crystal growing in solution, a robot, a cloud.
 - "Faeces are excreted": they are **egested**.
 - A water flea swimming towards light shows movement and sensitivity; choose the one the wording stresses.
 - **Describe** means give the definition, not just the name.
+- Naming the characteristic without its definition when asked to describe.
+- Missing "permanent" or "dry mass" from growth.
+- Confusing respiration with breathing, or excretion with egestion.
+- Saying energy is produced.
 
 ## Quick self-test
 
@@ -123,13 +127,6 @@ Common examples: a car, fire, a crystal growing in solution, a robot, a cloud.
 10. Any two: carbon dioxide, water, mineral ions.
 11. For example, reproduction: fire cannot make more of the same kind of organism because it is not an organism; or respiration: fire has no cells.
 12. Detect a change in the environment and respond to it.
-
-## Where marks are usually lost
-
-- Naming the characteristic without its definition when asked to describe.
-- Missing "permanent" or "dry mass" from growth.
-- Confusing respiration with breathing, or excretion with egestion.
-- Saying energy is produced.
 
 ## Frequently asked questions
 

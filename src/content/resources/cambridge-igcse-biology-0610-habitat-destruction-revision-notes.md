@@ -87,6 +87,11 @@ Examples: hunting a predator lets prey overgraze plants; overfishing removes foo
 - **Ozone.** Deforestation and the ozone layer are not linked in this sub-topic.
 - **Extinction = fewer species locally.** Extinction is the loss of the species everywhere.
 - **Percentage decrease.** Divide by the original value.
+- Describing biodiversity as the number of organisms.
+- Listing deforestation effects without explaining any.
+- Using the new value as the denominator in a percentage decrease.
+- Confusing a fall in local biodiversity with extinction.
+- Forgetting combustion when explaining the rise in carbon dioxide.
 
 ## Command-word reminders
 
@@ -123,14 +128,6 @@ Examples: hunting a predator lets prey overgraze plants; overfishing removes foo
 10. Fewer trees absorb and transpire water and intercept rain, so more water runs off into rivers, which overflow.
 11. Less carbon dioxide is removed by photosynthesis; burning or decomposing the trees releases carbon dioxide.
 12. (5.0 − 3.5) ÷ 5.0 × 100 = 30%; 1.5 ÷ 15 = 0.1 million hectares per year.
-
-## Where marks are usually lost
-
-- Describing biodiversity as the number of organisms.
-- Listing deforestation effects without explaining any.
-- Using the new value as the denominator in a percentage decrease.
-- Confusing a fall in local biodiversity with extinction.
-- Forgetting combustion when explaining the rise in carbon dioxide.
 
 ## Official syllabus
 

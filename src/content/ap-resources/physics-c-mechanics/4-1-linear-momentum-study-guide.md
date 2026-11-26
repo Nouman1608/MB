@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-4.1-study-guide"
 title: "Linear Momentum: Study Guide (Physics C: Mechanics 4.1)"
 description: "Calculus-based linear momentum: p = mv as a vector, momentum of a system, momentum from position functions, the link to kinetic energy, and the collision and explosion models."
+seoDescription: "Physics C: Mechanics calculus-based guide to linear momentum: p = mv as a vector, system momentum, momentum from position functions and collisions."
 course: "physics-c-mechanics"
 unit: 4
 topics: ["4.1"]

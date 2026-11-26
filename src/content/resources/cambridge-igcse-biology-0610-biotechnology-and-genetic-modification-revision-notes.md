@@ -103,6 +103,12 @@ Check units first: convert hours to minutes (or the other way) before dividing.
 - **Core versus Extended.** A Core question expects rapid reproduction and complex molecules. Extended answers can add ethics and plasmids.
 - **Organism mix-ups.** Penicillin and mycoprotein come from fungi. Yeast is a fungus, not a bacterium.
 - **Linear growth.** Doubling is not adding the same number each time; 1000 → 2000 → 4000 → 8000.
+- Stating "bacteria grow quickly" without linking it to the quantity of product.
+- Placing plasmids or inserted genes in a nucleus.
+- Treating a plasmid as the main chromosome.
+- Writing "no ethical concerns".
+- Using fungal products as bacterial examples.
+- Calculating doubling as a steady increase rather than repeated multiplication by 2.
 
 ## Command words
 
@@ -140,15 +146,6 @@ Check units first: convert hours to minutes (or the other way) before dividing.
 10. Nutrients are used up and waste products build up, which can change the pH or become toxic.
 11. Some people object to changing any organism's genes, or worry about modified bacteria escaping.
 12. Bacteria reproduce much more rapidly than plants, so a large amount of protein is produced in a much shorter time (they also have plasmids that can carry the gene).
-
-## Where marks are usually lost
-
-- Stating "bacteria grow quickly" without linking it to the quantity of product.
-- Placing plasmids or inserted genes in a nucleus.
-- Treating a plasmid as the main chromosome.
-- Writing "no ethical concerns".
-- Using fungal products as bacterial examples.
-- Calculating doubling as a steady increase rather than repeated multiplication by 2.
 
 ## Official syllabus
 

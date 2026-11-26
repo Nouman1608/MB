@@ -104,6 +104,11 @@ Problem: **losing water faster than it is absorbed**.
 - **Stomata on the wrong side.** Floating leaves have stomata on the upper surface.
 - **Camel's hump.** It stores fat, not water.
 - **Ignoring the stem.** If the question gives data, quote a figure.
+- Writing a feature with no function.
+- Describing how a feature helps without linking it to the environment in the question.
+- Giving an acquired feature as an example.
+- Explaining xerophyte features without mentioning water.
+- Forgetting light and gas exchange when explaining hydrophyte features.
 
 ## Command-word reminders
 
@@ -140,14 +145,6 @@ Problem: **losing water faster than it is absorbed**.
 10. The leaves float near the surface where light is brightest; air spaces store gases and supply oxygen to roots.
 11. Spines have a small surface area, so less water is lost by transpiration.
 12. Deep roots reach water far underground, or shallow widespread roots absorb rain quickly over a large area.
-
-## Where marks are usually lost
-
-- Writing a feature with no function.
-- Describing how a feature helps without linking it to the environment in the question.
-- Giving an acquired feature as an example.
-- Explaining xerophyte features without mentioning water.
-- Forgetting light and gas exchange when explaining hydrophyte features.
 
 ## Official syllabus
 

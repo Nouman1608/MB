@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-3.3-revision-notes"
 title: "Short-Run Aggregate Supply (SRAS): Revision Notes (Macroeconomics 3.3)"
 description: "One-page recap of the SRAS curve: axes, sticky wages and prices, shifts versus movements, expected inflation and the short-run trade-off between inflation and unemployment."
+seoDescription: "One-page Macroeconomics recap of the SRAS curve: axes, sticky wages and prices, expected inflation and the short-run inflation-unemployment trade-off."
 course: "macroeconomics"
 unit: 3
 topics: ["3.3"]

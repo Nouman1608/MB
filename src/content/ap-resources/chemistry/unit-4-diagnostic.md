@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u4-diagnostic"
 title: "Chemical Reactions: Unit Diagnostic (Chemistry Unit 4)"
 description: "Eleven short original questions, one or two per topic, to find which parts of reactions, equations, stoichiometry, titration, acid-base and redox you should revisit."
+seoDescription: "Chemistry Unit 4 diagnostic of eleven short questions on reactions, equations, stoichiometry, titration, acid-base and redox to find what to revisit."
 course: "chemistry"
 unit: 4
 topics: []

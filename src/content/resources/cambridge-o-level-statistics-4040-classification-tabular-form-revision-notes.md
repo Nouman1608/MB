@@ -46,7 +46,7 @@ These notes condense section 2.1 of the Cambridge O Level Statistics (4040) syll
 - Would two people sort the same observation into the same class?
 - Do the classes separate the groups the question is about?
 
-## Table design checklist
+**Table design checklist**
 
 - Title stating what, where and when.
 - Clear headings for rows and columns.

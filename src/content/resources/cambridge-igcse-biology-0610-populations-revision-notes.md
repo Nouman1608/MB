@@ -102,6 +102,11 @@ The S-shape = lag + exponential + stationary.
 - **Death phase in the S.** The S-shape stops at stationary; the death phase comes after.
 - **No units** in a growth-rate answer.
 - **(Extended) No limiting factor.** Name one, such as food or oxygen, when explaining stationary.
+- Leaving out "same time" in the population description.
+- Confusing community and ecosystem.
+- Misreading graph scales or forgetting units.
+- Describing the stationary phase without birth and death rates.
+- (Extended) Giving a phase explanation with no named limiting factor.
 
 ## Command-word reminders
 
@@ -138,14 +143,6 @@ The S-shape = lag + exponential + stationary.
 10. The prey peak.
 11. Few individuals are present and reproducing; they are adjusting to the new conditions or maturing, so numbers rise slowly.
 12. Limiting factors such as food, space or oxygen run short and waste builds up, so competition increases; birth rate falls and death rate rises until they are equal.
-
-## Where marks are usually lost
-
-- Leaving out "same time" in the population description.
-- Confusing community and ecosystem.
-- Misreading graph scales or forgetting units.
-- Describing the stationary phase without birth and death rates.
-- (Extended) Giving a phase explanation with no named limiting factor.
 
 ## Official syllabus
 

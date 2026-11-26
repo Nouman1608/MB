@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-8.11-study-guide"
 title: "pH and Solubility: Study Guide (Chemistry 8.11)"
 description: "Predict whether a salt dissolves more or less when the pH changes, explain the effect with Le Châtelier's principle, and read solubility data collected at different pH values."
+seoDescription: "Chemistry study guide to pH and solubility: predicting whether a salt dissolves more or less as pH changes, with Le Châtelier's principle and solubility data."
 course: "chemistry"
 unit: 8
 topics: ["8.11"]

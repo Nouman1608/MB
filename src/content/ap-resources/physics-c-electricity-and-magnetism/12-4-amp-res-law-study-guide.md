@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-12.4-study-guide"
 title: "Ampère's Law: Study Guide (Physics C: E&M 12.4)"
 description: "Calculus-based guide to Ampère's law: Amperian loops, long wires, solid and hollow conductors, non-uniform current density, slabs, solenoids, superposition and Maxwell's addition."
+seoDescription: "Physics C: E&M calculus-based guide to Ampère's law: Amperian loops, long wires, conductors, non-uniform current density, slabs and solenoids."
 course: "physics-c-electricity-and-magnetism"
 unit: 12
 topics: ["12.4"]

@@ -3,6 +3,7 @@ resourceId: "mb-ap-stats-4.10-study-guide"
 title: "Carrying Out a Test for the Difference Between Two Population Means: Study Guide (Statistics 4.10)"
 seoTitle: "Statistics 4.10 Carrying Out a Test for Two Means Guide"
 description: "Learn to calculate the two-sample t-statistic and p-value, interpret the p-value in context, compare it with α and write a conclusion about μ₁ − μ₂ that answers the question."
+seoDescription: "Statistics study guide to the two-sample t-test: calculating the t-statistic and p-value, interpreting it in context and concluding about μ₁ − μ₂."
 course: "statistics"
 unit: 4
 topics: ["4.10"]

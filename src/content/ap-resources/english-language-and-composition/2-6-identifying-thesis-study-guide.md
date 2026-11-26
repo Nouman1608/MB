@@ -7,6 +7,7 @@ unit: 2
 topics: ["2.6"]
 resourceType: "study-guide"
 description: "Learn to find the thesis of an argument, even when it comes last, spans several sentences or is only implied, and tell it apart from topics, facts, sub-claims and counterarguments. Two worked examples."
+seoDescription: "English Language study guide to identifying a thesis, even when it comes last, spans sentences or is implied, and telling it from facts and counterarguments."
 prerequisites:
   - "Claims (Topic 1.4)"
   - "Evidence and its sufficiency (Topics 1.5 and 2.5)"

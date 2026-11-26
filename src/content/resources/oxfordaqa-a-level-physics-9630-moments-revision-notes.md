@@ -95,6 +95,9 @@ A couple has zero resultant force but a non-zero moment, so it turns an object w
 - Beam weight placed at the end, or left out.
 - Principle of moments stated without "in equilibrium" or "about any point".
 - "Force × distance" offered as the definition of moment.
+- Not stating which point moments are taken about.
+- Mixing clockwise and anticlockwise terms on one side of the equation.
+- Leaving out the horizontal component of a hinge force when a cable pulls at an angle.
 
 ## Quick self-test
 
@@ -125,12 +128,6 @@ A couple has zero resultant force but a non-zero moment, so it turns an object w
 10. At its **geometric centre**.
 11. Only then does the line of action of its weight pass through the pivot, so the weight has **no moment** to turn it.
 12. When the **line of action of its weight passes outside the base**.
-
-## Where marks are usually lost
-
-- Not stating which point moments are taken about.
-- Mixing clockwise and anticlockwise terms on one side of the equation.
-- Leaving out the horizontal component of a hinge force when a cable pulls at an angle.
 
 ## Specification reference
 

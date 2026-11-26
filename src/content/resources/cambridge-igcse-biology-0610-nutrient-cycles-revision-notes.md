@@ -94,6 +94,11 @@ Names of individual bacteria are **not** required. Lightning fixes nitrogen but 
 - **(Extended) Three similar words.** Fixation (N₂ → compounds), nitrification (NH₄⁺ → NO₃⁻), denitrification (NO₃⁻ → N₂).
 - **(Extended) Plants and nitrogen gas.** Plants absorb nitrate ions; they cannot use nitrogen gas directly.
 - **(Extended) Lightning as a microorganism.** It is not.
+- Leaving decomposers out of the carbon cycle.
+- Writing "decomposition" with no mention of carbon dioxide being released.
+- (Extended) Mixing up nitrification and nitrogen fixation.
+- (Extended) Forgetting deamination and urea when describing how nitrogen leaves animals.
+- (Extended) Naming bacteria incorrectly instead of describing their role.
 
 ## Command-word reminders
 
@@ -130,14 +135,6 @@ Names of individual bacteria are **not** required. Lightning fixes nitrogen but 
 10. Urea.
 11. There is little oxygen, which favours denitrifying bacteria (and limits nitrifying bacteria).
 12. Their root nodules contain nitrogen-fixing bacteria, which add nitrogen compounds to the soil.
-
-## Where marks are usually lost
-
-- Leaving decomposers out of the carbon cycle.
-- Writing "decomposition" with no mention of carbon dioxide being released.
-- (Extended) Mixing up nitrification and nitrogen fixation.
-- (Extended) Forgetting deamination and urea when describing how nitrogen leaves animals.
-- (Extended) Naming bacteria incorrectly instead of describing their role.
 
 ## Official syllabus
 

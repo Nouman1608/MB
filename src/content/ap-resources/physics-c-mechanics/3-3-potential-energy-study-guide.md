@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-3.3-study-guide"
 title: "Potential Energy: Study Guide (Physics C: Mechanics 3.3)"
 description: "Calculus-based potential energy: ΔU = −∫F·dr, F_x = −dU/dx, spring and gravitational potential energy derived, equilibrium and stability from U(x) graphs, and systems of many objects."
+seoDescription: "Physics C: Mechanics calculus-based guide to potential energy: ΔU = −∫F·dr, F = −dU/dx, spring and gravitational energy, and equilibrium from U(x) graphs."
 course: "physics-c-mechanics"
 unit: 3
 topics: ["3.3"]

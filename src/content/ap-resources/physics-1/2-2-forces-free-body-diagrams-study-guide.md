@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-2.2-study-guide"
 title: "Forces and Free-Body Diagrams: Study Guide (Physics 1 2.2)"
 description: "Treat every force as an interaction between two objects, tell contact forces from long-range ones, and draw free-body diagrams that follow the course conventions and lead straight to equations."
+seoDescription: "Physics 1 study guide to forces and free-body diagrams: forces as interactions between two objects and diagrams that lead to equations."
 course: "physics-1"
 unit: 2
 topics: ["2.2"]

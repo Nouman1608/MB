@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csa-1.15-checklist"
 title: "String Manipulation: Checklist (Computer Science A 1.15)"
 description: "A self-check list for String objects, immutability, concatenation, indices, length, substring, indexOf, equals and compareTo, linked to the guide sections and practice questions."
+seoDescription: "Computer Science A self-check list for String objects, immutability, concatenation, indices, length, substring, indexOf, equals and compareTo."
 course: "computer-science-a"
 unit: 1
 topics: ["1.15"]

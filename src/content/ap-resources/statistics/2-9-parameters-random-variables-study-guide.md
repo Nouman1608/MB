@@ -2,6 +2,7 @@
 resourceId: "mb-ap-stats-2.9-study-guide"
 title: "Parameters of Random Variables: Study Guide (Statistics 2.9)"
 description: "Learn what a parameter is, then calculate and interpret the mean (expected value) and standard deviation of a discrete random variable from its probability distribution."
+seoDescription: "Statistics study guide to parameters of random variables: calculating and interpreting the mean and standard deviation of a discrete probability distribution."
 course: "statistics"
 unit: 2
 topics: ["2.9"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.10-study-guide"
 title: "Circular Motion: Study Guide (Physics C: Mechanics 2.10)"
 description: "Calculus-based circular motion: deriving centripetal acceleration, tangential and net acceleration, loops, banked curves with friction, conical pendulums and Kepler's third law."
+seoDescription: "Physics C: Mechanics calculus-based guide to circular motion: deriving centripetal acceleration, banked curves and Kepler's third law."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.10"]

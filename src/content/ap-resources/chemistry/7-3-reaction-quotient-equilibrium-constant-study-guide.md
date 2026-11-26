@@ -3,6 +3,7 @@ resourceId: "mb-ap-chem-7.3-study-guide"
 title: "Reaction Quotient and Equilibrium Constant: Study Guide (Chemistry 7.3)"
 seoTitle: "Chemistry 7.3 Reaction Quotient and Equilibrium K Guide"
 description: "Write the reaction quotient Q and the equilibrium constant K for any reversible reaction, in concentrations or partial pressures, and know which species to leave out."
+seoDescription: "Chemistry study guide to the reaction quotient Q and equilibrium constant K for reversible reactions, in concentrations or pressures, and species to omit."
 course: "chemistry"
 unit: 7
 topics: ["7.3"]

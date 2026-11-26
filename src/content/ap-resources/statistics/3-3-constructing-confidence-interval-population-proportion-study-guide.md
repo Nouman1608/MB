@@ -3,6 +3,7 @@ resourceId: "mb-ap-stats-3.3-study-guide"
 title: "Constructing a Confidence Interval for a Population Proportion: Study Guide (Statistics 3.3)"
 seoTitle: "Statistics 3.3 Confidence Interval for a Proportion Guide"
 description: "Learn to name the one-sample z-interval, define the parameter in context, check the three conditions, find z*, the standard error and margin of error, and plan a sample size."
+seoDescription: "Statistics study guide to the one-sample z-interval for a proportion: defining the parameter, checking conditions, finding z* and sample size."
 course: "statistics"
 unit: 3
 topics: ["3.3"]

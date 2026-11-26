@@ -103,6 +103,9 @@ Moving observer:  f′ = f (v ± uo)/v     (+ approaching, − receding)
 - Applying the sound formulas to light.
 - Using percentage shifts without converting nm consistently.
 - Forgetting to state direction (towards or away) after finding a speed from a spectrum.
+- Wavefront descriptions that do not mention wavelength or frequency.
+- Sign errors in HL formulas.
+- Not stating the direction of motion from a spectral shift.
 
 ## Quick self-test
 
@@ -133,12 +136,6 @@ Moving observer:  f′ = f (v ± uo)/v     (+ approaching, − receding)
 10. λ = (340 + 40)/400 = **0.95 m**.
 11. The component along the line joining source and observer.
 12. Sound travels through a medium, which gives a frame of reference; light needs no medium, so only relative velocity matters.
-
-## Where marks are usually lost
-
-- Wavefront descriptions that do not mention wavelength or frequency.
-- Sign errors in HL formulas.
-- Not stating the direction of motion from a spectral shift.
 
 ## Official syllabus
 

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-1.7-study-guide"
 title: "Periodic Trends: Study Guide (Chemistry 1.7)"
 description: "Explain trends in atomic and ionic radius, ionization energy, electron affinity and electronegativity using Coulomb's law, shielding and effective nuclear charge."
+seoDescription: "Chemistry study guide to periodic trends in radius, ionization energy, electron affinity and electronegativity, explained by Coulomb's law and shielding."
 course: "chemistry"
 unit: 1
 topics: ["1.7"]

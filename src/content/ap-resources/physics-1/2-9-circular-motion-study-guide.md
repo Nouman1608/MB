@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-2.9-study-guide"
 title: "Circular Motion: Study Guide (Physics 1 2.9)"
 description: "Centripetal and tangential acceleration, period and frequency, the forces that keep objects on circles (loops, banked curves, conical pendulums) and circular orbits, with algebra only."
+seoDescription: "Physics 1 study guide to circular motion: centripetal and tangential acceleration, period and frequency, loops, conical pendulums and circular orbits."
 course: "physics-1"
 unit: 2
 topics: ["2.9"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.4-revision-notes"
 title: "Newton’s First Law: Revision Notes (Physics C: Mechanics 2.4)"
 description: "One-page recap of Newton’s first law: net force as a vector sum, translational equilibrium by components, balanced and unbalanced directions, and inertial reference frames."
+seoDescription: "One-page Physics C: Mechanics recap of Newton's first law: net force as a vector sum, translational equilibrium by components, and inertial reference frames."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.4"]

@@ -116,6 +116,9 @@ From T down to k, and from m down to f, each step is a factor of 1000. The unit 
 - In J → eV, the eV value must come out larger than the J value.
 - Using minutes in E = Pt for joules, or seconds for kW h.
 - Mixing kelvin and Celsius for an absolute temperature.
+- A correct method spoiled by one unconverted prefix in the substitution.
+- Final answers with no unit, or with a unit that does not match the quantity.
+- Base-unit answers with named units left in, such as "N m⁻²" when base units are asked for.
 
 ## Quick self-test
 
@@ -146,12 +149,6 @@ From T down to k, and from m down to f, each step is a factor of 1000. The unit 
 10. 4.0 × 10⁻¹⁹ ÷ 1.60 × 10⁻¹⁹ = **2.5 eV**.
 11. 1200 × 180 = 2.16 × 10⁵ J = **216 kJ**; 1.2 × 0.050 = **0.060 kW h**.
 12. **45 fm** (4.5 × 10⁻¹⁴ = 45 × 10⁻¹⁵).
-
-## Where marks are usually lost
-
-- A correct method spoiled by one unconverted prefix in the substitution.
-- Final answers with no unit, or with a unit that does not match the quantity.
-- Base-unit answers with named units left in, such as "N m⁻²" when base units are asked for.
 
 ## Specification reference
 

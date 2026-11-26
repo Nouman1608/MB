@@ -97,6 +97,9 @@ These notes condense **3.2.8 Conservation of energy** from the OxfordAQA Interna
 - "Energy is lost" without naming internal energy (heating) of the surroundings.
 - Work against friction divided by height instead of distance.
 - Using energy to find a direction of motion.
+- Energy accounts written as numbers with no statement of which store each is.
+- Qualitative answers that skip the elastic store during a bounce or a bungee jump.
+- Final speeds larger than the no-friction value, which signals a sign error.
 
 ## Quick self-test
 
@@ -127,12 +130,6 @@ These notes condense **3.2.8 Conservation of energy** from the OxfordAQA Interna
 10. ½ × 250 × 0.040² = **0.20 J**.
 11. Resistive forces transfer energy to internal energy throughout the ride, so the car never has enough energy to climb higher than its starting height.
 12. Both Ep and Ek are proportional to mass, so m appears on both sides of mgΔh = ½mv².
-
-## Where marks are usually lost
-
-- Energy accounts written as numbers with no statement of which store each is.
-- Qualitative answers that skip the elastic store during a bounce or a bungee jump.
-- Final speeds larger than the no-friction value, which signals a sign error.
 
 ## Specification reference
 

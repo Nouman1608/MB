@@ -77,7 +77,7 @@ Condensed notes for key question **5.2 What are the roles and functions of educa
   <figcaption>Functionalists see a meritocracy; Marxists see a myth that legitimates inequality.</figcaption>
 </figure>
 
-## Marxist checklist (5.2.2)
+**Marxist checklist (5.2.2)**
 
 - Socialisation and social control as **ideological control** (Althusser).
 - **Correspondence principle**: obeying teachers is like obeying bosses; working for grades is like working for wages.
@@ -97,7 +97,7 @@ Condensed notes for key question **5.2 What are the roles and functions of educa
   <figcaption>Cultural and material advantages from home are turned into school success.</figcaption>
 </figure>
 
-## Feminist checklist (5.2.3)
+**Feminist checklist (5.2.3)**
 
 - **Patriarchal culture** and **male power**: men often over-represented in senior posts.
 - **Gender hierarchy** and **role models**: who leads and who teaches young children.

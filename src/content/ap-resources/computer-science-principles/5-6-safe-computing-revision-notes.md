@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-5.6-revision-notes"
 title: "Safe Computing: Revision Notes (Computer Science Principles 5.6)"
 description: "One-page recap of safe computing: PII, privacy risks, strong passwords, multifactor authentication, symmetric and public key encryption, certificate authorities, malware and common attacks."
+seoDescription: "One-page Computer Science Principles recap of safe computing: PII, privacy risks, strong passwords, multifactor authentication, malware and attacks."
 course: "computer-science-principles"
 unit: 5
 topics: ["5.6"]

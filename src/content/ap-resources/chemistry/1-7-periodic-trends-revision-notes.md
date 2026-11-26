@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-1.7-revision-notes"
 title: "Periodic Trends: Revision Notes (Chemistry 1.7)"
 description: "One-page recap of radius, ionization energy, electron affinity and electronegativity trends, the Coulomb's law model behind them, and the dips that cost marks."
+seoDescription: "One-page Chemistry recap of radius, ionization energy, electron affinity and electronegativity trends, the Coulomb's law model and the dips that cost marks."
 course: "chemistry"
 unit: 1
 topics: ["1.7"]

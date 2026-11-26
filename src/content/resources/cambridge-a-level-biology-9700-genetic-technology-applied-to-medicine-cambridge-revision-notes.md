@@ -100,6 +100,9 @@ Risk: vector inserted near a cell-division gene → leukaemia in some early tria
 - Huntington's is dominant; cystic fibrosis is recessive.
 - Factor VIII needs mammalian cells: bacteria cannot modify glycoproteins after translation.
 - "Discuss" needs both sides.
+- Listing advantages without comparing to the earlier source.
+- Describing gene therapy without naming a vector or target cells.
+- Ethical answers that list concerns but no benefits.
 
 ## Quick self-test
 
@@ -130,12 +133,6 @@ Risk: vector inserted near a cell-division gene → leukaemia in some early tria
 10. Any two: small enclosed organ needs small dose; retinal cells do not divide; weak immune response; other eye as control.
 11. Somatic alters body cells and is not inherited; germ-line alters gametes or embryos and is inherited.
 12. Any two: anxiety; discrimination by employers or insurers; information about relatives; embryo selection issues.
-
-## Where marks are usually lost
-
-- Listing advantages without comparing to the earlier source.
-- Describing gene therapy without naming a vector or target cells.
-- Ethical answers that list concerns but no benefits.
 
 ## Official syllabus
 

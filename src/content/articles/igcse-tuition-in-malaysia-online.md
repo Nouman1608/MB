@@ -42,38 +42,50 @@ specification at a sensible local time.
 [Chemistry (9202)](/boards/oxfordaqa/igcse/chemistry/) and
 [Mathematics (9260)](/boards/oxfordaqa/igcse/mathematics/).
 
-The [Malaysia page](/malaysia/) lists every subject with a link to its course page. One change
+Every subject we teach for Malaysia is linked from the [Malaysia page](/malaysia/). One change
 to note: Cambridge IGCSE Business Studies (0450) is examined for the last time in 2026 and is
 replaced by Cambridge IGCSE Business (0264), with a new syllabus code and name.
 
 **Not taught:** the Malaysian national curriculum (KSSM), SPM, STPM, the UEC or the
 matriculation programme.
 
-## Class times in Malaysia time
+## Malaysia time, international schools and Cambridge exam dates
 
-Malaysia is three hours ahead of Lahore all year, and neither country changes its clocks. A
-5:00 pm class in Kuala Lumpur, Penang or Johor Bahru is 2:00 pm in Lahore, so after-school
-and early-evening times are straightforward. Group class times are agreed with the families in
-each group before the trial; one-to-one classes can be arranged at a time that suits you.
+Malaysia keeps UTC+8 all year and Pakistan UTC+5, so Malaysian clocks are always three hours
+ahead of Lahore's: 5:00 pm in Kuala Lumpur, Penang or Johor Bahru is 2:00 pm in Lahore. Group
+class times are fixed with the families in the group, and a one-to-one slot can follow your
+child's school day. The teacher joins live from Lahore, and Marlbridge has no premises or staff
+in Malaysia.
 
-Every class is taught live online by a named subject teacher from our academy in Lahore.
-Marlbridge has no office, branch or teacher in Malaysia.
+In Malaysia, the Ministry of Education's Private Education Division sets the
+guidelines for international schools, which it defines as schools that offer a curriculum from
+another country, teach in English, and admit both foreign and Malaysian students. Malaysia's
+government portal lists the British curriculum among the approved ones, with Cambridge IGCSE
+and A Level as examples of its examinations. If your child's school offers a British
+curriculum, the IGCSE specification code on a past paper tells us which course to teach.
 
-## How fees work
+Cambridge puts Kuala Lumpur in administrative zone 5. Papers for the 2027 May/June series in
+zones 1 to 5 are scheduled between 26 April and 11 June, with entry and results dates still
+unpublished on 23 November 2026; the [exam calendar](/exam-calendar/) will show them once
+Cambridge releases them.
 
-Marlbridge has not set a separate Malaysia price. The ringgit figures on the
-[Malaysia page](/malaysia/) are indicative conversions of the Pakistan fee, so you can see the
-approximate cost; the exact fee is confirmed in writing before any payment. Group classes are
-charged per subject per month and one-to-one classes per class. Our guide to
-[group classes or one-to-one tuition](/articles/group-classes-or-one-to-one-tuition/) explains
-which suits which student.
+## IGCSE fees in Malaysia
 
-## Getting the most from a trial class
+We do not quote fees in this article, because they change; the current figures are on the
+[pricing page](/pricing/) and the [Malaysia page](/malaysia/). Marlbridge has not set a separate
+Malaysia price: the ringgit figures on the Malaysia page are indicative conversions of the
+Pakistan fee, and the exact fee is confirmed in writing before any payment. Group classes are
+charged per subject per month and one-to-one classes per class; to choose between them, see
+our guide to [group classes or one-to-one tuition](/articles/group-classes-or-one-to-one-tuition/).
+
+## Before booking a Malaysia trial class
 
 1. Check the specification code on a past paper: Cambridge IGCSE codes start with 0 (for
    example 0620), Pearson Edexcel International GCSE codes with 4 (for example 4CH1) and
    OxfordAQA codes with 9 (for example 9202).
 2. For tiered subjects, such as Cambridge IGCSE Mathematics, tell us whether your child is
    entered for Core or Extended.
-3. Print the course's [topic checklist](/checklists/) and mark the topics your child finds
-   hard, then book the [free trial class](/trial/).
+3. Print the [topic checklist](/checklists/), mark the topics your child finds hard, then book
+   the [free trial class](/trial/).
+
+*Sources (read 26 November 2026):* Malaysia Ministry of Education, Private Education Division, guideline GP A3 on establishing international schools (moe.gov.my); Malaysia government portal, Private Secondary Schools (malaysia.gov.my/en/topics/private-secondary-schools); Cambridge International, administrative zone lookup (Kuala Lumpur: zone 5); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.

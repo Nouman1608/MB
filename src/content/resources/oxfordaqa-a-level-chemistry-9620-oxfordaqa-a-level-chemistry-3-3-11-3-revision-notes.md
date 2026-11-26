@@ -67,7 +67,7 @@ These notes condense **3.3.11.3 Nucleophilic properties** of amines from the Oxf
 3. Intermediate with N⁺ (for example R₂N⁺H₂).
 4. Second amine molecule removes H⁺ from N⁺ (not needed when a quaternary salt forms).
 
-## Mechanism checklist: addition–elimination (acyl chloride)
+**Mechanism checklist: addition–elimination (acyl chloride)**
 
 1. Lone pair on N → δ+ carbonyl carbon.
 2. C=O π bond pair → O (O⁻ forms).

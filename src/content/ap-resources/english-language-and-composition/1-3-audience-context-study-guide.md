@@ -6,6 +6,7 @@ unit: 1
 topics: ["1.3"]
 resourceType: "study-guide"
 description: "Learn to describe a text's audience (primary, secondary, divided) and its context of time, place and occasion, and to explain how both shape a writer's choices. Two worked examples, misconceptions and where it leads."
+seoDescription: "English Language study guide to audience and context: primary, secondary and divided audiences, time, place and occasion, and how they shape a writer's choices."
 prerequisites:
   - "The six components of the rhetorical situation (Topic 1.1)"
   - "Exigence and purpose (Topic 1.2)"

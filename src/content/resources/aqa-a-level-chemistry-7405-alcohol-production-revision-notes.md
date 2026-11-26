@@ -105,7 +105,7 @@ net: 6 − 6 = 0
 
 **Not valid because** fossil fuels supply energy for farm machinery, fertiliser manufacture, distillation and transport, all releasing CO₂ not absorbed by the crop.
 
-## Discuss-question checklist
+## Discuss-question points to check
 
 - Advantage: renewable; conserves crude oil; can lower net CO₂.
 - Disadvantage: fossil-fuel inputs; deforestation releases stored carbon and destroys habitats; fertiliser run-off; water use.

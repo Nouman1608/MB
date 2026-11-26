@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-2.1-practice"
 title: "Systems and Center of Mass: Practice Questions (Physics C: Mechanics 2.1)"
 description: "Seven original Marlbridge calculus-based practice questions on systems, the center of mass of particles and composite shapes, and integrating linear and area mass density."
+seoDescription: "Seven Physics C: Mechanics calculus-based practice questions on systems, centre of mass of particles and composite shapes, and integrating mass density."
 course: "physics-c-mechanics"
 unit: 2
 topics: ["2.1"]

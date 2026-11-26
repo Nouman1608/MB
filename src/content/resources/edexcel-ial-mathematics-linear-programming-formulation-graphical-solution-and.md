@@ -24,7 +24,7 @@ featured: false
 reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
-This guide teaches linear programming for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics (YMA01), Specification Issue 3, April 2019. It covers unit D1 (Decision Mathematics 1), section 5, topics 5.1 to 5.3. The specification states that D1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
+This guide teaches linear programming for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics (YMA01), Specification Issue 3, April 2019. It covers unit D1 (Decision Mathematics 1, WDM11), section 5, topics 5.1 to 5.3. The specification states that D1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
 
 Use it with the [revision notes](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-practice/). The course page is [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/), the printable list is the [checklist](/checklists/edexcel/a-level/mathematics/), and [all free 10-minute diagnostics](/diagnostics/) help you find weak spots first. The other D1 sections include [critical path analysis](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt/).
 

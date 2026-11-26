@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-8.5-study-guide"
 title: "Acid-Base Titrations: Study Guide (Chemistry 8.5)"
 description: "Learn to read a pH titration curve: find the analyte concentration from the equivalence point, pKa from the half-equivalence point, and the species present for mono- and polyprotic acids."
+seoDescription: "Chemistry study guide to titration curves: analyte concentration at the equivalence point, pKa at half-equivalence, and species present for polyprotic acids."
 course: "chemistry"
 unit: 8
 topics: ["8.5"]

@@ -105,6 +105,9 @@ These notes condense **3.2.9 Bulk properties of solids** from the OxfordAQA Inte
 - ½FΔL used beyond the straight-line region.
 - "Brittle means weak": brittle means little plastic deformation before fracture.
 - "Stiff" and "strong" confused.
+- Graph descriptions that do not say what happens on unloading.
+- Energy calculated from a curved graph with ½FΔL.
+- Comparisons of materials that mention only one property.
 
 ## Quick self-test
 
@@ -135,12 +138,6 @@ These notes condense **3.2.9 Bulk properties of solids** from the OxfordAQA Inte
 10. One that fractures with little or no plastic deformation, such as **glass**.
 11. ½ × 0.20 × v² = 0.50, so v = **2.2 m s⁻¹**.
 12. B's breaking force is **4 times** A's: breaking stress is the same, area is 4 times larger.
-
-## Where marks are usually lost
-
-- Graph descriptions that do not say what happens on unloading.
-- Energy calculated from a curved graph with ½FΔL.
-- Comparisons of materials that mention only one property.
 
 ## Specification reference
 

@@ -114,6 +114,10 @@ These notes cover section 18.1 Classification (learning outcomes 1 to 6) of Topi
 - Writing the species name with a capital letter.
 - Fungal walls "cellulose"; fungi "photosynthesise".
 - Calling viruses prokaryotes.
+- One-sided "discuss" answers that define the concepts but give no limitations.
+- Vague kingdom features such as "fungi are like plants".
+- Naming only ranks, not their order, when asked to describe the hierarchy.
+- Classifying a virus by shape or host rather than by nucleic acid.
 
 ## Quick self-test
 
@@ -144,13 +148,6 @@ These notes cover section 18.1 Classification (learning outcomes 1 to 6) of Topi
 10. **Double-stranded DNA** (thymine present; A = T, G = C).
 11. **Single-stranded RNA** (uracil present; A ≠ U, G ≠ C).
 12. They are not cells: no cytoplasm, ribosomes or metabolism of their own.
-
-## Where marks are usually lost
-
-- One-sided "discuss" answers that define the concepts but give no limitations.
-- Vague kingdom features such as "fungi are like plants".
-- Naming only ranks, not their order, when asked to describe the hierarchy.
-- Classifying a virus by shape or host rather than by nucleic acid.
 
 ## Frequently asked questions
 

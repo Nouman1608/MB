@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-4.9-study-guide"
 title: "Oxidation-Reduction (Redox) Reactions: Study Guide (Chemistry 4.9)"
 description: "Learn how to split a redox reaction into oxidation and reduction half-reactions, balance each one in acidic solution, and combine them so electrons lost equal electrons gained."
+seoDescription: "Chemistry study guide to redox: writing and balancing half-reactions in acidic solution and combining them so electrons lost equal electrons gained."
 course: "chemistry"
 unit: 4
 topics: ["4.9"]

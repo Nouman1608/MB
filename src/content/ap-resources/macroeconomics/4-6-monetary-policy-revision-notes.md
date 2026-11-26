@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-4.6-revision-notes"
 title: "Monetary Policy: Revision Notes (Macroeconomics 4.6)"
 description: "One-page recap of monetary policy goals, tools, limited and ample reserves, open market operations, the policy rate, the chain to AD, output and prices, and policy lags."
+seoDescription: "One-page Macroeconomics recap of monetary policy: goals, tools, limited and ample reserves, open market operations, the chain to AD and policy lags."
 course: "macroeconomics"
 unit: 4
 topics: ["4.6"]

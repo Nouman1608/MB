@@ -105,6 +105,11 @@ Rapid reproduction means this happens quickly. Using antibiotics only when essen
 - **Breeding without repetition.** Add "repeat over many generations".
 - **Bacteria "immune".** Bacteria become **resistant**; immunity refers to the body's defences.
 - **Antibiotic causes the mutation.** It selects resistant bacteria that already exist.
+- Writing a general account of natural selection without the organism in the question.
+- Saying an individual "adapted" or "evolved".
+- Omitting "pass on alleles" at the end of a natural selection answer.
+- Describing genetic modification instead of selective breeding.
+- Claiming the antibiotic caused the resistance mutation.
 
 ## Command-word reminders
 
@@ -141,14 +146,6 @@ Rapid reproduction means this happens quickly. Using antibiotics only when essen
 10. Non-resistant bacteria are killed, so resistant ones have less competition; they reproduce and pass on the resistance allele.
 11. Bacteria reproduce very rapidly, so many generations pass in a short time.
 12. Natural: environment selects, features help survival, slower. Artificial: humans select, features useful to humans, faster.
-
-## Where marks are usually lost
-
-- Writing a general account of natural selection without the organism in the question.
-- Saying an individual "adapted" or "evolved".
-- Omitting "pass on alleles" at the end of a natural selection answer.
-- Describing genetic modification instead of selective breeding.
-- Claiming the antibiotic caused the resistance mutation.
 
 ## Official syllabus
 

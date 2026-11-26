@@ -65,7 +65,7 @@ These notes condense section 2.2 of the IB *Mathematics: analysis and approaches
 - 4/(x² − 9): domain x ≠ ±3.
 - ln(x + 1): domain x > −1.
 
-## Range checklist
+**Range checklist**
 
 1. Sketch over the stated domain.
 2. Find turning points inside the domain.

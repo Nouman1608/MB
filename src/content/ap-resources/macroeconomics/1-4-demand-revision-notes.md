@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-1.4-revision-notes"
 title: "Demand: Revision Notes (Macroeconomics 1.4)"
 description: "One-page recap of the law of demand, demand schedules and curves, market demand, the determinants of demand, and the movement-versus-shift mistakes that cost marks."
+seoDescription: "One-page Macroeconomics recap of the law of demand, schedules and curves, market demand, determinants of demand, and movement-versus-shift mistakes."
 course: "macroeconomics"
 unit: 1
 topics: ["1.4"]

@@ -94,7 +94,7 @@ Caliphs during his lifetime (their rule after 632 is Paper 2).
 
 ## Descendants
 
-- **Children of Khadija (RA):** al-Qasim, Abdullah (died young); Zaynab, Ruqayya, Umm Kulthum, Fatima (RA).
+- **Children of Khadija (RA):** al-Qasim, Abdullah (died young); Zaynab (RA), Ruqayya (RA), Umm Kulthum (RA), Fatima (RA).
 - **Son of Mariya:** Ibrahim, died as an infant.
 - **Grandchildren:** Hasan (RA) and Husayn (RA) (Fatima (RA) and Ali (RA)); Umama (Zaynab).
 - **Fatima (RA):** the only child to outlive him; died a few months after him.

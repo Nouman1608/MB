@@ -3,6 +3,7 @@ resourceId: "mb-ap-csa-1.13-checklist"
 title: "Object Creation and Storage (Instantiation): Checklist (Computer Science A 1.13)"
 seoTitle: "Computer Science A 1.13 Object Instantiation Checklist"
 description: "A self-check list for constructors, creating objects with new, constructor signatures and overloading, null references and call by value, linked to the guide and practice questions."
+seoDescription: "Computer Science A self-check list for constructors, creating objects with new, overloading, null references and call by value, linked to guide and practice."
 course: "computer-science-a"
 unit: 1
 topics: ["1.13"]

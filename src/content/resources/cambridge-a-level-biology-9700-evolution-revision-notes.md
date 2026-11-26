@@ -111,6 +111,11 @@ These notes cover section 17.3 Evolution (learning outcomes 1 to 3) of Topic 17,
 - Calling breeding-time differences "geographical". Same area = sympatric.
 - Using "proves". Sequence data **suggest** relationships.
 - Comparing different genes, or sections of different lengths without converting to percentages.
+- Answers that never mention **alleles**, **allele frequency** or **gene pool**.
+- Explaining speciation without the words "no gene flow".
+- Skipping "different selection pressures" and jumping straight to "new species".
+- Choosing the wrong pair from a difference table by reading the largest number instead of the smallest.
+- Giving a molecular-clock date as exact rather than an estimate.
 
 ## Quick self-test
 
@@ -141,14 +146,6 @@ These notes cover section 17.3 Evolution (learning outcomes 1 to 3) of Topic 17,
 10. No gene flow; different mutations; different selection pressures select different alleles; drift; over many generations, gene pools diverge until interbreeding cannot produce fertile offspring.
 11. Any two: not representative of the whole genome; mutation rates vary; repeated mutation at one position hides changes; variation within a species ignored.
 12. Individuals from the two populations cannot interbreed to produce **fertile** offspring.
-
-## Where marks are usually lost
-
-- Answers that never mention **alleles**, **allele frequency** or **gene pool**.
-- Explaining speciation without the words "no gene flow".
-- Skipping "different selection pressures" and jumping straight to "new species".
-- Choosing the wrong pair from a difference table by reading the largest number instead of the smallest.
-- Giving a molecular-clock date as exact rather than an estimate.
 
 ## Frequently asked questions
 

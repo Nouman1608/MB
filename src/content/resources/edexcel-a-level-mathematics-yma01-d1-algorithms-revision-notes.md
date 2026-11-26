@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-Condensed recall for Unit D1, section 1: the general ideas of algorithms, implementing an algorithm given by a flow chart or text, and bin packing, bubble sort, quick sort and binary search. For full worked traces, use the [algorithms study guide](/resources/edexcel-a-level-mathematics-yma01-d1-algorithms/).
+Condensed recall for Unit D1 (WDM11), section 1: the general ideas of algorithms, implementing an algorithm given by a flow chart or text, and bin packing, bubble sort, quick sort and binary search. For full worked traces, use the [algorithms study guide](/resources/edexcel-a-level-mathematics-yma01-d1-algorithms/).
 
 ## Rules the specification fixes
 

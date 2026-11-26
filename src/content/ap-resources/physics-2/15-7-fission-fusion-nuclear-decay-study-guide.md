@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-15.7-study-guide"
 title: "Fission, Fusion and Nuclear Decay: Study Guide (Physics 2 15.7)"
 description: "The strong force, conservation laws in nuclear reactions, E = mc², binding energy, fission and fusion, and random decay with half-life, decay constant and N = N₀e^(−λt)."
+seoDescription: "Physics 2 study guide to fission, fusion and decay: the strong force, conservation laws, E = mc², binding energy, decay constant and N = N₀e^(−λt)."
 course: "physics-2"
 unit: 15
 topics: ["15.7"]

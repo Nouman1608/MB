@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-11.3-study-guide"
 title: "Resistance, Resistivity and Ohm's Law: Study Guide (Physics 2 11.3)"
 description: "How the material and shape of a conductor set its resistance, R = ρL/A, Ohm's law, ohmic and non-ohmic elements, temperature effects and reading R from I–ΔV graphs."
+seoDescription: "Physics 2 study guide to resistance and Ohm's law: R = ρL/A, ohmic and non-ohmic elements, temperature effects and reading resistance from I-ΔV graphs."
 course: "physics-2"
 unit: 11
 topics: ["11.3"]

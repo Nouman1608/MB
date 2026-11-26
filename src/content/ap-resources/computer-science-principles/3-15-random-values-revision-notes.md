@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-3.15-revision-notes"
 title: "Random Values: Revision Notes (Computer Science Principles 3.15)"
 description: "One-page recap of random values: inclusive range, counting possible values, results of expressions, equal likelihood of a single call, probabilities for events, and random list indices."
+seoDescription: "One-page Computer Science Principles recap of random values: inclusive ranges, counting possible values, event probabilities and random list indices."
 course: "computer-science-principles"
 unit: 3
 topics: ["3.15"]

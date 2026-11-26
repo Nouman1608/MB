@@ -107,6 +107,9 @@ Same unit does not mean same quantity: distance and displacement are both in met
 - Resultant with no direction, or an angle with no reference.
 - "Constant speed" is not "constant velocity": circular motion at steady speed is not equilibrium.
 - A rope cannot be horizontal and support a weight: the tension would need to be infinite.
+- Calculations that give a magnitude but no direction.
+- Scale drawings with no stated scale or a diagram too small to measure.
+- Treating a moving object as necessarily unbalanced.
 
 ## Quick self-test
 
@@ -137,12 +140,6 @@ Same unit does not mean same quantity: distance and displacement are both in met
 10. **Yes**: its velocity is constant, so the resultant force is zero.
 11. 2T sin 45° = 60, so T = **42 N**.
 12. √(25² − 20²) = **15 N**; cos θ = 20/25, so θ = **37°**.
-
-## Where marks are usually lost
-
-- Calculations that give a magnitude but no direction.
-- Scale drawings with no stated scale or a diagram too small to measure.
-- Treating a moving object as necessarily unbalanced.
 
 ## Specification reference
 

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-13.2-revision-notes"
 title: "Images Formed by Mirrors: Revision Notes (Physics 2 13.2)"
 description: "One-page recap of focal points, real and virtual images, the three principal rays, the mirror equation with its sign convention, and magnification for mirrors."
+seoDescription: "One-page Physics 2 recap of mirror images: focal points, real and virtual images, the mirror equation with its sign convention and magnification."
 course: "physics-2"
 unit: 13
 topics: ["13.2"]

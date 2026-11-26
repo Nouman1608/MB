@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-1.1-revision-notes"
 title: "Scalars and Vectors: Revision Notes (Physics C: Mechanics 1.1)"
 description: "One-page recap of scalars and vectors: signs in one dimension, î ĵ k̂ notation, magnitude, position and unit vectors, and resultants found by adding components."
+seoDescription: "One-page Physics C: Mechanics recap of scalars and vectors: signs in one dimension, î ĵ k̂ notation, magnitude and resultants by components."
 course: "physics-c-mechanics"
 unit: 1
 topics: ["1.1"]

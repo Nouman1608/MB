@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-11.5-revision-notes"
 title: "Compound Direct Current (DC) Circuits: Revision Notes (Physics 2 11.5)"
 description: "One-page recap of series and parallel rules, equivalent resistance, network reduction, emf and internal resistance, terminal voltage and ideal versus real meters."
+seoDescription: "One-page Physics 2 recap of series and parallel rules, equivalent resistance, network reduction, emf and internal resistance, terminal voltage and meters."
 course: "physics-2"
 unit: 11
 topics: ["11.5"]

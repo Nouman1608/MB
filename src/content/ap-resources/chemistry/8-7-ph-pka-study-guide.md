@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-8.7-study-guide"
 title: "pH and pKa: Study Guide (Chemistry 8.7)"
 description: "Predict whether a weak acid or base is mostly protonated or deprotonated by comparing pH with pKa, explain how indicators work and choose the right indicator for a titration."
+seoDescription: "Chemistry study guide to pH and pKa: whether a weak acid or base is mostly protonated or deprotonated, how indicators work and choosing one for a titration."
 course: "chemistry"
 unit: 8
 topics: ["8.7"]

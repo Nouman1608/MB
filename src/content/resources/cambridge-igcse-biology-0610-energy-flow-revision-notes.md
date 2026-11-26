@@ -98,6 +98,11 @@ Muscle contraction, protein synthesis, cell division, active transport, growth, 
 - **Energy recycled by decomposers.** Decomposers recycle nutrients; energy leaves as heat.
 - **Only animals lose heat.** Producers and decomposers respire and transfer heat too.
 - **Calculations.** Subtract every listed loss; give kJ as the unit.
+- Leaving out the change from light to chemical energy.
+- Not saying how energy finally leaves (heat to the environment).
+- Using "energy is produced" in a description.
+- Forgetting decomposers when describing what happens to energy in dead material.
+- Omitting the unit in a calculation.
 
 ## Command-word reminders
 
@@ -134,14 +139,6 @@ Muscle contraction, protein synthesis, cell division, active transport, growth, 
 10. Decomposers in it are respiring and releasing heat.
 11. Energy leaves organisms as heat, and producers can only capture light energy, not heat.
 12. 20 000 − 11 000 − 7 500 = 1 500 kJ.
-
-## Where marks are usually lost
-
-- Leaving out the change from light to chemical energy.
-- Not saying how energy finally leaves (heat to the environment).
-- Using "energy is produced" in a description.
-- Forgetting decomposers when describing what happens to energy in dead material.
-- Omitting the unit in a calculation.
 
 ## Official syllabus
 

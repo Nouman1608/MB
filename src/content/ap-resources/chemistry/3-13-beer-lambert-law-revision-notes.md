@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-3.13-revision-notes"
 title: "Beer-Lambert Law: Revision Notes (Chemistry 3.13)"
 description: "One-page recap of A = εbc, molar absorptivity, choosing λmax, calibration curves and the lab errors that push a calculated concentration too high or too low."
+seoDescription: "One-page Chemistry recap of the Beer-Lambert law A = εbc, molar absorptivity, choosing λmax, calibration curves and lab errors that skew concentration."
 course: "chemistry"
 unit: 3
 topics: ["3.13"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-3.4-revision-notes"
 title: "Long-Run Aggregate Supply (LRAS): Revision Notes (Macroeconomics 3.4)"
 description: "One-page recap of the short run versus the long run, the vertical LRAS curve at full-employment output, the natural rate, no long-run trade-off and the LRAS–PPC link."
+seoDescription: "One-page Macroeconomics recap of the short and long run, the vertical LRAS curve at full-employment output, the natural rate, and the LRAS-PPC link."
 course: "macroeconomics"
 unit: 3
 topics: ["3.4"]

@@ -33,7 +33,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions follow Unit D1 sections 1 and 2 (algorithms, then algorithms on graphs) in Pearson's International Advanced Subsidiary/Advanced Level specification (YMA01), Issue 3, April 2019. The specification makes Unit D1 optional for IAS and IAL Mathematics and Further Mathematics. Use the middle-item rule from the specification glossary throughout, and a middle-item pivot in quick sort.
+These questions follow Unit D1 (WDM11) sections 1 and 2 (algorithms, then algorithms on graphs) in Pearson's International Advanced Subsidiary/Advanced Level specification (YMA01), Issue 3, April 2019. The specification makes Unit D1 optional for IAS and IAL Mathematics and Further Mathematics. Use the middle-item rule from the specification glossary throughout, and a middle-item pivot in quick sort.
 
 Revise first with the [study guide](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum/) or the [revision notes](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-revision-notes/). Links to the [course hub](/boards/edexcel/a-level/mathematics/), the [checklist](/checklists/edexcel/a-level/mathematics/) and the [diagnostics](/diagnostics/) are at the end.
 

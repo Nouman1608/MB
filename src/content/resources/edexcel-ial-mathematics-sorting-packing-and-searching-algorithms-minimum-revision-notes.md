@@ -27,7 +27,7 @@ featured: false
 reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
-These notes condense Unit D1 sections 1 and 2 (topics 1.1, 1.2, 2.1 and 2.2) of Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. The specification makes Unit D1 optional for IAS and IAL Mathematics and Further Mathematics. Read the [study guide](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum/) when you need the reasoning or longer examples.
+These notes condense Unit D1 (WDM11) sections 1 and 2 (topics 1.1, 1.2, 2.1 and 2.2) of Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. The specification makes Unit D1 optional for IAS and IAL Mathematics and Further Mathematics. Read the [study guide](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum/) when you need the reasoning or longer examples.
 
 Then try the [practice questions](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-practice/). The [course hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [diagnostics](/diagnostics/) help you plan.
 

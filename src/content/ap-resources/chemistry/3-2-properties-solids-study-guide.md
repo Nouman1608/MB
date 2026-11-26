@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-3.2-study-guide"
 title: "Properties of Solids: Study Guide (Chemistry 3.2)"
 description: "Learn how the particles in a solid and the forces between them explain boiling point, vapor pressure, melting point, hardness and conductivity in ionic, covalent network, molecular and metallic solids."
+seoDescription: "Chemistry study guide to properties of solids: how particles and forces explain boiling point, vapor pressure, melting point, hardness and conductivity."
 course: "chemistry"
 unit: 3
 topics: ["3.2"]

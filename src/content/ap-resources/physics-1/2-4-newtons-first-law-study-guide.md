@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-2.4-study-guide"
 title: "Newton's First Law: Study Guide (Physics 1 2.4)"
 description: "When does velocity stay constant? Net force as a vector sum, translational equilibrium, Newton's first law, forces balanced in one direction only, and inertial reference frames."
+seoDescription: "Physics 1 study guide to Newton's first law: net force as a vector sum, translational equilibrium, forces balanced in one direction only and inertial frames."
 course: "physics-1"
 unit: 2
 topics: ["2.4"]

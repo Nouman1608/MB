@@ -59,14 +59,20 @@ supervisor stays responsible for guidance on the piece itself.
 
 ## Class times in Singapore time
 
-Singapore is three hours ahead of Lahore all year, so a 5:00 pm class in Singapore is 2:00 pm in
-Lahore. Because IB classes are one-to-one, the time is arranged around your child's week:
-after school, in the evening or at the weekend.
+Singapore is on UTC+8 and Pakistan on UTC+5, and neither changes its clocks, so Singapore is
+three hours ahead of Lahore all year: a 5:00 pm class in Singapore is 2:00 pm in Lahore.
+Because IB classes are one-to-one, the time is arranged around your child's week: after
+school, in the evening or at the weekend.
 
-Every class is taught live online by a named subject teacher from our academy in Lahore.
-Marlbridge has no office, branch or teacher in Singapore.
+Our teachers are in Lahore, and the named subject teacher delivers each class live online.
+Marlbridge has no Singapore office, branch or staff.
 
-## Fees
+For families whose school also teaches Cambridge IGCSE or A Level: Cambridge places Singapore
+in administrative zone 5, and its May/June 2027 timetables for zones 1 to 5 run from 26 April
+to 11 June 2027. Cambridge had not yet published entry deadlines or results dates for that
+series when we last checked (23 November 2026); see our [exam calendar](/exam-calendar/).
+
+## Fees for IB classes in Singapore dollars
 
 IB classes are charged per 1-hour class. The [Singapore page](/singapore/) shows the fee in
 Singapore dollars; it is an indicative conversion of the Pakistan fee, and the exact fee is
@@ -76,12 +82,14 @@ confirmed in writing before any payment.
 the Singapore-Cambridge GCE and SEC examinations. Families at schools teaching Cambridge IGCSE or
 A Level can see those courses on the Singapore page too.
 
-## Before the trial class
+## What to prepare for the trial
 
 1. Tell us the programme (DP or MYP), the subject and, for the Diploma, whether it is Higher or
    Standard Level.
-2. Bring a recent test or a marked piece of work, so the teacher can see where marks are being
-   lost.
+2. Bring a recent test or a marked piece of work, so the teacher can see where marks were
+   dropped.
 3. Book the [free trial class](/trial/). Our guide to
    [group classes or one-to-one tuition](/articles/group-classes-or-one-to-one-tuition/)
    explains how one-to-one classes work.
+
+*Sources (read 26 November 2026):* Cambridge International, administrative zone lookup (Singapore: zone 5); Cambridge June 2027 zone timetables, as recorded on our [exam calendar](/exam-calendar/); IANA time zone database for the UTC offsets.

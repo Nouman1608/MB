@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-3.8-study-guide"
 title: "Representations of Solutions: Study Guide (Chemistry 3.8)"
 description: "Learn to draw and read particle diagrams of solutions that show the right ratio of ions, the right orientation of solvent molecules and the relative concentrations of components."
+seoDescription: "Chemistry study guide to particle diagrams of solutions: showing the right ion ratio, solvent orientation and relative concentrations of components."
 course: "chemistry"
 unit: 3
 topics: ["3.8"]

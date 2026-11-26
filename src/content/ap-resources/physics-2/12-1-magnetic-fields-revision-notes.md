@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-12.1-revision-notes"
 title: "Magnetic Fields: Revision Notes (Physics 2 12.1)"
 description: "One-page recap of magnetic fields: dipoles and closed field loops, no monopoles, compasses, ferro-, para- and diamagnetism, Earth's dipole field and permeability."
+seoDescription: "One-page Physics 2 recap of magnetic fields: dipoles and closed field loops, no monopoles, compasses, kinds of magnetism, Earth's field and permeability."
 course: "physics-2"
 unit: 12
 topics: ["12.1"]

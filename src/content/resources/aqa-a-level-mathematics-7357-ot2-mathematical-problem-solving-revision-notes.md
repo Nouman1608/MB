@@ -116,6 +116,9 @@ These notes condense overarching theme **OT2 Mathematical problem solving** (OT2
 - Dividing an inequality by a negative logarithm without reversing it (e.g. ln 0.9 < 0).
 - Claiming accuracy without a sign-change check.
 - Ignoring a constraint given later in the question.
+- No concluding sentence in context.
+- Unjustified accuracy for numerical answers.
+- Diagrams with missing labels.
 
 ## Quick self-test
 
@@ -146,12 +149,6 @@ These notes condense overarching theme **OT2 Mathematical problem solving** (OT2
 10. A problem stated as a goal without parts guiding the method.
 11. Use more (narrower) strips.
 12. Repeat the cycle with the constraint included, and find the best value on the allowed interval.
-
-## Where marks are usually lost
-
-- No concluding sentence in context.
-- Unjustified accuracy for numerical answers.
-- Diagrams with missing labels.
 
 ## Official syllabus
 

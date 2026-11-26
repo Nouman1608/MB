@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcem-8.6-study-guide"
 title: "Gauss's Law: Study Guide (Physics C: E&M 8.6)"
 description: "Calculus-based guide to Gauss's law: flux through closed surfaces, choosing Gaussian surfaces by symmetry, spheres, lines, sheets and non-uniform charge densities."
+seoDescription: "Physics C: E&M calculus-based guide to Gauss's law: flux through closed surfaces, choosing Gaussian surfaces by symmetry, and non-uniform charge densities."
 course: "physics-c-electricity-and-magnetism"
 unit: 8
 topics: ["8.6"]

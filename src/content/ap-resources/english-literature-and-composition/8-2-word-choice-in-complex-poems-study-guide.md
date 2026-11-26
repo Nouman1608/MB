@@ -2,6 +2,7 @@
 resourceId: "mb-ap-englit-8.2-study-guide"
 title: "Word choice in complex poems: Study Guide (English Literature 8.2)"
 description: "Learn to explain how connotation, ambiguity, unusual syntax and invented words shape meaning in complex poems, and to defend more than one reading without losing control of your argument."
+seoDescription: "English Literature study guide to word choice in complex poems: connotation, ambiguity, unusual syntax and invented words, and defending more than one reading."
 course: "english-literature-and-composition"
 unit: 8
 topics: ["8.2"]

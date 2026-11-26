@@ -2,6 +2,7 @@
 resourceId: "mb-ap-englit-u8-diagnostic"
 title: "Poetry III: Unit Diagnostic (English Literature Unit 8)"
 description: "A 40-minute check with at least one original question for each topic of Unit 8, covering poetic structure, contrast, word choice, symbol, metaphor, allusion and the poetry essay."
+seoDescription: "English Literature Unit 8 diagnostic: a 40-minute check on poetic structure, contrast, word choice, symbol, metaphor, allusion and the poetry essay."
 course: "english-literature-and-composition"
 unit: 8
 topics: []

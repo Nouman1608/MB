@@ -1,6 +1,6 @@
 ---
 title: "IB in Singapore: planning online Diploma and MYP lessons around UTC+8"
-excerpt: "For IB families in Singapore: the IB courses Singapore visitors read most on Marlbridge, how one-to-one lessons fit Singapore's time zone, IB languages in a four-language country, and what tuition must not do."
+excerpt: "For IB families in Singapore: the IB courses Singapore visitors read most on Marlbridge, how one-to-one lessons fit Singapore's time zone, what is and is not taught in languages, and what tuition must not do."
 author: "marlbridge-academic-team"
 reviewStatus: "draft"
 draft: true
@@ -11,7 +11,7 @@ levels: ["ib"]
 featured: false
 tags: ["Singapore", "IB Diploma", "IB MYP", "online tuition", "one-to-one"]
 seoTitle: "IB in Singapore: Online Diploma and MYP Lessons in UTC+8"
-seoDescription: "Planning online one-to-one IB Diploma and MYP lessons in Singapore time: courses families read most, class times, IB languages and internal assessments."
+seoDescription: "Planning online one-to-one IB Diploma and MYP lessons in Singapore time: courses families read most, class times, language lessons in English only and internal assessments."
 ---
 Our own site analytics give a small but real picture of what IB families in Singapore look for.
 Between July and early October 2026, the visits from Singapore that stayed longer than five
@@ -53,19 +53,16 @@ activities and weekend.
 Messages: WhatsApp replies come within an hour between 8am and 11pm Pakistan time, which is 11am
 to 2am in Singapore. Emails are answered the same day.
 
-## IB languages in a four-language country
+## Languages: lessons are in English only
 
-Singapore has four official languages: English, Malay, Mandarin Chinese and Tamil. For IB
-students that often means a choice between taking a language as Language A (studied as literature
-or language and literature) or as Language B (an
-acquired language).
+Marlbridge teaches in English only. For [DP Language B](/boards/ib/ib-dp/language-b/) and
+[MYP Language Acquisition](/boards/ib/ib-myp/myp-language-acquisition/), no French, German,
+Spanish or other language is offered. Any language named in a free resource there is an
+example, not a language we teach; the lessons themselves are in English.
 
-Language B is assessed the same way at Standard and Higher Level, except for the complexity of
-the language required: Paper 1 is one writing task (30 marks); Paper 2 is listening (25 marks)
-and reading (40 marks); and the Individual Oral (30 marks) is marked by the teacher and moderated
-by the IB. A tutor can help with each part, including practice for the oral.
-
-<!-- TODO owner to supply Language B / MYP Language Acquisition languages -->
+For Language B, the assessment parts a student prepares for are Paper 1 (one writing task, 30
+marks), Paper 2 (listening, 25 marks, and reading, 40 marks) and the Individual Oral (30
+marks), which the teacher marks and the IB moderates.
 
 ## Internal assessments and the Extended Essay
 

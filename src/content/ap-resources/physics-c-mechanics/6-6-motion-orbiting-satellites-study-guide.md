@@ -2,6 +2,7 @@
 resourceId: "mb-ap-physcm-6.6-study-guide"
 title: "Motion of Orbiting Satellites: Study Guide (Physics C: Mechanics 6.6)"
 description: "Calculus-based orbits: U = −GMm/r by integration, energy and angular momentum in circular and elliptical orbits, K = −½U derived, apsis speeds, and escape velocity from energy."
+seoDescription: "Physics C: Mechanics calculus-based guide to orbits: U = −GMm/r by integration, energy and angular momentum in orbits, apsis speeds and escape velocity."
 course: "physics-c-mechanics"
 unit: 6
 topics: ["6.6"]

@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-6.2-study-guide"
 title: "DNA Replication: Study Guide (Biology 6.2)"
 description: "How DNA is copied: semiconservative replication, 5′ to 3′ synthesis, helicase, topoisomerase, RNA primers, DNA polymerase, leading and lagging strands, and ligase."
+seoDescription: "Biology study guide to DNA replication: semiconservative copying, 5′ to 3′ synthesis, helicase, topoisomerase, primers, lagging strands and ligase."
 course: "biology"
 unit: 6
 topics: ["6.2"]

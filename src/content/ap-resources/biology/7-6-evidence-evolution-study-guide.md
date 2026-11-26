@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-7.6-study-guide"
 title: "Evidence of Evolution: Study Guide (Biology 7.6)"
 description: "Learn how fossils, rock layers, radiometric dating, homologous and vestigial structures, DNA and protein sequences and biogeography show that organisms have changed over time."
+seoDescription: "Biology study guide to evidence for evolution: fossils, rock layers, radiometric dating, homologous and vestigial structures, DNA and protein sequences."
 course: "biology"
 unit: 7
 topics: ["7.6"]

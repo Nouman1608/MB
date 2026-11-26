@@ -2,6 +2,7 @@
 resourceId: "mb-ap-micro-3.7-revision-notes"
 title: "Perfect Competition: Revision Notes (Microeconomics 3.7)"
 description: "One-page recap of perfect competition: price takers, P = MR = MC, profit and loss rectangles, entry and exit, long-run efficiency and the three types of long-run supply."
+seoDescription: "One-page Microeconomics recap of perfect competition: price takers, P = MR = MC, profit and loss rectangles, efficiency and long-run supply."
 course: "microeconomics"
 unit: 3
 topics: ["3.7"]

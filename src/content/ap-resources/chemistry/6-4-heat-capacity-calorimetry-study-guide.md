@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-6.4-study-guide"
 title: "Heat Capacity and Calorimetry: Study Guide (Chemistry 6.4)"
 description: "Calculate the heat absorbed or released when a substance warms or cools with q = mcΔT, use specific and molar heat capacities, and analyse calorimetry data using conservation of energy."
+seoDescription: "Chemistry study guide to heat capacity and calorimetry: q = mcΔT, specific and molar heat capacities and analysing calorimetry data by conserving energy."
 course: "chemistry"
 unit: 6
 topics: ["6.4"]

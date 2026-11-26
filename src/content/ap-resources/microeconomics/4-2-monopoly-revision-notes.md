@@ -2,6 +2,7 @@
 resourceId: "mb-ap-micro-4.2-revision-notes"
 title: "Monopoly: Revision Notes (Microeconomics 4.2)"
 description: "One-page recap of monopoly: barriers to entry, the MR = MC rule, reading price from demand, the area formulas for profit, surplus and deadweight loss, and natural monopoly."
+seoDescription: "One-page Microeconomics recap of monopoly: barriers to entry, the MR = MC rule, area formulas for profit, surplus and deadweight loss, and natural monopoly."
 course: "microeconomics"
 unit: 4
 topics: ["4.2"]

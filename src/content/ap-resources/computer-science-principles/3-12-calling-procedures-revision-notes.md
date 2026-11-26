@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-3.12-revision-notes"
 title: "Calling Procedures: Revision Notes (Computer Science Principles 3.12)"
 description: "One-page recap of calling procedures: parameters and arguments, return values, flow of control, DISPLAY versus RETURN, INPUT, and a checklist for reading any call."
+seoDescription: "One-page Computer Science Principles recap of calling procedures: parameters and arguments, return values, DISPLAY versus RETURN and INPUT."
 course: "computer-science-principles"
 unit: 3
 topics: ["3.12"]

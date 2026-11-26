@@ -2,6 +2,7 @@
 resourceId: "mb-ap-macro-3.4-practice"
 title: "Long-Run Aggregate Supply (LRAS): Practice Questions (Macroeconomics 3.4)"
 description: "Seven original Marlbridge practice questions on the short run and long run, the vertical LRAS curve, full-employment output, the natural rate and the link between LRAS and the PPC."
+seoDescription: "Seven Macroeconomics practice questions on short run versus long run, the vertical LRAS curve, the natural rate and LRAS and the PPC."
 course: "macroeconomics"
 unit: 3
 topics: ["3.4"]

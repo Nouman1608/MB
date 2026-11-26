@@ -104,6 +104,11 @@ Simplify first, then decide.
 - **Words to numbers:** keep placeholder zeros; "five million, eighty thousand" is 5 080 000.
 - **Reciprocal sign:** the reciprocal of −3/5 is −5/3, not 5/3.
 - **Zero** has no reciprocal.
+- Calling 1, 9, 21 or 27 prime.
+- Giving the HCF when the LCM was needed, especially in "next time together" problems.
+- Leaving a factorisation unfinished, such as 2³ × 75.
+- Declaring a root irrational without simplifying it first.
+- Writing 0.714 for a reciprocal that should be left as 5/7.
 
 ## Quick self-test
 
@@ -134,14 +139,6 @@ Simplify first, then decide.
 10. (a) 1/9 (b) 8/3 (c) 5/7 (d) 5.
 11. An integer only; natural numbers are positive.
 12. HCF × LCM = product of the numbers: 12 × 840 = 10 080; 10 080 ÷ 84 = 120.
-
-## Where marks are usually lost
-
-- Calling 1, 9, 21 or 27 prime.
-- Giving the HCF when the LCM was needed, especially in "next time together" problems.
-- Leaving a factorisation unfinished, such as 2³ × 75.
-- Declaring a root irrational without simplifying it first.
-- Writing 0.714 for a reciprocal that should be left as 5/7.
 
 ## More on this topic
 

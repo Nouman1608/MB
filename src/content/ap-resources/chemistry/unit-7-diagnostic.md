@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u7-diagnostic"
 title: "Equilibrium: Unit Diagnostic (Chemistry Unit 7)"
 description: "Thirteen short original questions, one or two per topic, to find which parts of equilibrium, Q and K, Le Châtelier's principle and solubility you should revisit before the unit review."
+seoDescription: "Chemistry Unit 7 diagnostic of thirteen short questions on equilibrium, Q and K, Le Châtelier's principle and solubility to find what to revisit."
 course: "chemistry"
 unit: 7
 topics: []

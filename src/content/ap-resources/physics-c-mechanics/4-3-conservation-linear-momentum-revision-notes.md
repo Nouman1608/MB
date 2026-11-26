@@ -3,6 +3,7 @@ resourceId: "mb-ap-physcm-4.3-revision-notes"
 title: "Conservation of Linear Momentum: Revision Notes (Physics C: Mechanics 4.3)"
 seoTitle: "Physics C Mechanics 4.3 Linear Momentum Conservation Notes"
 description: "One-page recap of total momentum, center-of-mass velocity, internal and external forces, choosing a system, and momentum conservation in collisions and explosions."
+seoDescription: "One-page Physics C: Mechanics recap of total momentum, center-of-mass velocity, internal and external forces, choosing a system and momentum conservation."
 course: "physics-c-mechanics"
 unit: 4
 topics: ["4.3"]

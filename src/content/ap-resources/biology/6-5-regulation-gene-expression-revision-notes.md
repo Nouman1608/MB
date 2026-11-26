@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-6.5-revision-notes"
 title: "Regulation of Gene Expression: Revision Notes (Biology 6.5)"
 description: "One-page recap of gene regulation: regulatory sequences and proteins, constitutive, inducible and repressible genes, the lac and trp operons, eukaryotic coordinate control and epigenetic marks."
+seoDescription: "One-page Biology recap of gene regulation: regulatory proteins, inducible and repressible genes, eukaryotic control and epigenetic marks."
 course: "biology"
 unit: 6
 topics: ["6.5"]

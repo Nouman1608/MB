@@ -128,7 +128,7 @@ Area scale factor = 80² = 6400
 Real sail area = 0.45 × 6400 = 2880 m²
 ```
 
-### Common errors in G17
+### Slips to avoid: G17
 
 * Applying k to an area. If k = 3, areas are multiplied by 9, not 3.
 * Using the area ratio as if it were the length ratio. Take the square root first.
@@ -290,7 +290,7 @@ The arc is a length, so it scales by k. The area scales by k². Checking this li
 </figure>
 
 
-### Common errors in G18
+### Slips to avoid: G18
 
 * Forgetting to add 2r when the question asks for the perimeter.
 * Using the diameter in a formula that needs the radius.

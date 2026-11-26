@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-4.8-study-guide"
 title: "Introduction to Acid-Base Reactions: Study Guide (Chemistry 4.8)"
 description: "Learn the Brønsted-Lowry model: acids donate protons, bases accept them, water can do both, and conjugate acid-base pairs let you compare the strengths of acids and bases."
+seoDescription: "Chemistry study guide to the Brønsted-Lowry model: proton donors and acceptors, water as both, and conjugate pairs for comparing acid and base strength."
 course: "chemistry"
 unit: 4
 topics: ["4.8"]

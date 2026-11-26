@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u1-diagnostic"
 title: "Atomic Structure and Properties: Unit Diagnostic (Chemistry Unit 1)"
 description: "Ten short original questions, one or two per topic, to find which parts of atomic structure, composition and periodic trends you should revisit before the unit review."
+seoDescription: "Chemistry Unit 1 diagnostic of ten short questions on atomic structure, composition and periodic trends, to find what to revisit before the unit review."
 course: "chemistry"
 unit: 1
 topics: []

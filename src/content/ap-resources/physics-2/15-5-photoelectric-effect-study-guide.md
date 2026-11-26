@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-15.5-study-guide"
 title: "The Photoelectric Effect: Study Guide (Physics 2 15.5)"
 description: "Why light ejects electrons from a metal only above a threshold frequency, the equation K_max = hf − φ, stopping potential experiments and graphs of K_max against frequency."
+seoDescription: "Physics 2 study guide to the photoelectric effect: threshold frequency, stopping potential experiments and graphs of maximum kinetic energy against frequency."
 course: "physics-2"
 unit: 15
 topics: ["15.5"]

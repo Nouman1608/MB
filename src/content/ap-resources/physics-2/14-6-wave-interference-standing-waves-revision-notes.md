@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-14.6-revision-notes"
 title: "Wave Interference and Standing Waves: Revision Notes (Physics 2 14.6)"
 description: "One-page recap of superposition, constructive and destructive interference, beats, nodes and antinodes, and harmonics for strings and pipes with different end conditions."
+seoDescription: "One-page Physics 2 recap of superposition, constructive and destructive interference, beats and harmonics for strings and pipes with different ends."
 course: "physics-2"
 unit: 14
 topics: ["14.6"]

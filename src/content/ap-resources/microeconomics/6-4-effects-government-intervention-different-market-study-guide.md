@@ -3,6 +3,7 @@ resourceId: "mb-ap-micro-6.4-study-guide"
 title: "The Effects of Government Intervention in Different Market Structures: Study Guide (Microeconomics 6.4)"
 seoTitle: "Microeconomics 6.4 Market Structure Intervention Study Guide"
 description: "See how per-unit and lump-sum taxes and subsidies, price ceilings and floors, natural monopoly regulation and antitrust policy change prices, output, surplus and deadweight loss in different market structures."
+seoDescription: "Microeconomics study guide to taxes, subsidies, price ceilings and floors, natural monopoly regulation and antitrust, and their effect on output and surplus."
 course: "microeconomics"
 unit: 6
 topics: ["6.4"]

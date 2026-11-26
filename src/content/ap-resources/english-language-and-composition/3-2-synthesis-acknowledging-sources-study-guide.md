@@ -7,6 +7,7 @@ unit: 3
 topics: ["3.2"]
 resourceType: "study-guide"
 description: "Learn to synthesise sources into your own argument rather than summarise them, to group sources in conversation, and to acknowledge them through clear attribution and citation. Two worked examples."
+seoDescription: "English Language study guide to synthesis: building your own argument from sources rather than summarising, attribution and citation."
 prerequisites:
   - "Commentary (Topic 3.1)"
   - "Claim-and-evidence paragraphs (Topic 1.6)"

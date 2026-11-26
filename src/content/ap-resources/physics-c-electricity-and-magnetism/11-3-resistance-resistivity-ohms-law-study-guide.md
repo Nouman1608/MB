@@ -3,6 +3,7 @@ resourceId: "mb-ap-physcem-11.3-study-guide"
 title: "Resistance, Resistivity and Ohm's Law: Study Guide (Physics C: E&M 11.3)"
 seoTitle: "Physics C E&M 11.3 Resistivity and Ohm's Law Study Guide"
 description: "Calculus-based guide to resistance: R = ρℓ/A from E = ρJ, resistivity and temperature, integrating a resistivity that varies along a wire, Ohm's law and finding R from an I–ΔV graph."
+seoDescription: "Physics C: E&M calculus-based guide to resistance: R = ρℓ/A from E = ρJ, resistivity and temperature, Ohm's law and I-ΔV graphs."
 course: "physics-c-electricity-and-magnetism"
 unit: 11
 topics: ["11.3"]

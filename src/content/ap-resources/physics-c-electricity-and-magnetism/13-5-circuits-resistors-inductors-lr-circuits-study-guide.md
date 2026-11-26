@@ -3,6 +3,7 @@ resourceId: "mb-ap-physcem-13.5-study-guide"
 title: "Circuits with Resistors and Inductors (LR Circuits): Study Guide (Physics C: E&M 13.5)"
 seoTitle: "Physics C E&M 13.5 LR Circuits Study Guide"
 description: "Calculus-based guide to LR circuits: the loop-rule differential equation, the time constant L/R, current growth and decay, switching behaviour and energy dissipated in resistors."
+seoDescription: "Physics C: E&M calculus-based guide to LR circuits: the loop-rule differential equation, time constant L/R, switching and energy dissipated."
 course: "physics-c-electricity-and-magnetism"
 unit: 13
 topics: ["13.5"]

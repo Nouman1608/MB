@@ -122,6 +122,11 @@ Find the square (or cube) numbers either side.
 - "Write down" means recall: no working is expected, but there is no method mark either.
 - "Write down all the figures on your calculator display" means no rounding at all.
 - (−1) to an even power is 1; to an odd power is −1.
+- Not knowing 13², 14² and 15² quickly on the non-calculator papers.
+- Decimal place errors with squares and roots of decimals.
+- Losing the negative sign on a cube or cube root.
+- Rooting each term of a sum separately.
+- Rounding mid-calculation, so a 3 s.f. answer is wrong in the last digit.
 
 ## Quick self-test
 
@@ -152,14 +157,6 @@ Find the square (or cube) numbers either side.
 10. 1.477 455… = 1.48
 11. 4.728 70… = 4.73
 12. √(156.25 − 12.25) = √144 = 12
-
-## Where marks are usually lost
-
-- Not knowing 13², 14² and 15² quickly on the non-calculator papers.
-- Decimal place errors with squares and roots of decimals.
-- Losing the negative sign on a cube or cube root.
-- Rooting each term of a sum separately.
-- Rounding mid-calculation, so a 3 s.f. answer is wrong in the last digit.
 
 ## More on this topic
 

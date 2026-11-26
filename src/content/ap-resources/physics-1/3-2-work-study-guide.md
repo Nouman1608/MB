@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-3.2-study-guide"
 title: "Work: Study Guide (Physics 1 3.2)"
 description: "Work as an energy transfer by a force: W = Fd cos θ, positive, negative and zero work, the work-energy theorem, conservative and nonconservative forces, friction losses and area under force–displacement graphs."
+seoDescription: "Physics 1 study guide to work: W = Fd cos θ, positive, negative and zero work, the work-energy theorem, friction losses and force-displacement graphs."
 course: "physics-1"
 unit: 3
 topics: ["3.2"]

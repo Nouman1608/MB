@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys1-8.2-practice"
 title: "Pressure: Practice Questions (Physics 1 8.2)"
 description: "Seven original Marlbridge practice questions on pressure from forces, the particle model, gauge and absolute pressure, pressure at depth in layered liquids and pressure–depth sketches, with mark points."
+seoDescription: "Seven Physics 1 practice questions on pressure from forces, the particle model, gauge and absolute pressure, pressure at depth and pressure-depth sketches."
 course: "physics-1"
 unit: 8
 topics: ["8.2"]

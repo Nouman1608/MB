@@ -72,7 +72,6 @@ These notes condense **sections 3.2.4.1 Why countries trade and the importance o
   <figcaption>A fall in the pound makes UK exports cheaper abroad and imports dearer in the UK.</figcaption>
 </figure>
 
-
 ### Consequences of global interdependence for the UK
 
 | Advantages | Risks |
@@ -86,7 +85,6 @@ These notes condense **sections 3.2.4.1 Why countries trade and the importance o
   <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--09-tx-interdependence.webp" width="900" height="840" alt="Benefits of interdependence for the UK: cheaper imports and large export markets. Three risks shown as chains. A recession abroad means less demand for UK exports, so UK jobs are at risk. Disrupted supply chains or higher world energy prices make UK prices rise. Strong competition from abroad means uncompetitive UK firms may close." loading="lazy">
   <figcaption>Interdependence brings cheaper imports and large export markets, but three kinds of risk.</figcaption>
 </figure>
-
 
 ### Calculations and data
 
@@ -142,7 +140,6 @@ Memory aid: **SPICED**, Strong Pound, Imports Cheap, Exports Dear. A weak pound 
   <figcaption>SPICED: with a strong pound, imports are cheap and exports dear; the weak pound reverses this.</figcaption>
 </figure>
 
-
 ### Calculations you must be able to do
 
 **1. Converting prices.** At £1 = $1.25:
@@ -163,6 +160,10 @@ Rule: going from pounds to dollars, **multiply** by the rate; going from dollars
 - A depreciation helps exporters only if foreign buyers respond to lower prices, and it can raise UK inflation.
 - When the pound rises, foreign currencies fall in pound terms. Check which way round the rate is written.
 - UK tourists going abroad **supply** pounds; foreign tourists coming to the UK **demand** pounds.
+- Multiplying when you should divide in a currency conversion.
+- Saying a strong pound "is good for the economy" without saying for whom.
+- Forgetting that the pound's value is set by demand and supply, then giving no shift.
+- Naming UK exports as only goods: services are about half.
 
 ## Quick self-test
 
@@ -199,14 +200,6 @@ Rule: going from pounds to dollars, **multiply** by the rate; going from dollars
   <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--11-tx-pound-rises-or-falls.webp" width="900" height="1090" alt="Two exchange-rate diagrams with illustrative numbers. Top: demand for pounds rises from D1 to D2, for example because of more demand for UK exports or higher UK interest rates, so the pound appreciates from 1.40 to 1.60 dollars. Bottom: supply of pounds rises from S1 to S2 because UK consumers buy more imports, so the pound depreciates from 1.40 to 1.20 dollars." loading="lazy">
   <figcaption>More demand for pounds makes the pound appreciate; more supply of pounds makes it depreciate.</figcaption>
 </figure>
-
-
-## Where marks are usually lost
-
-- Multiplying when you should divide in a currency conversion.
-- Saying a strong pound "is good for the economy" without saying for whom.
-- Forgetting that the pound's value is set by demand and supply, then giving no shift.
-- Naming UK exports as only goods: services are about half.
 
 ## Frequently asked questions
 

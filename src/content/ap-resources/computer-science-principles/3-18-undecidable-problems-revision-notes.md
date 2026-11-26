@@ -2,6 +2,7 @@
 resourceId: "mb-ap-csp-3.18-revision-notes"
 title: "Undecidable Problems: Revision Notes (Computer Science Principles 3.18)"
 description: "One-page recap of undecidable problems: decidable versus undecidable, the halting problem, instances that can be solved, and the difference between unreasonable time and impossibility."
+seoDescription: "One-page Computer Science Principles recap of undecidable problems: decidable versus undecidable, the halting problem and unreasonable time versus impossible."
 course: "computer-science-principles"
 unit: 3
 topics: ["3.18"]

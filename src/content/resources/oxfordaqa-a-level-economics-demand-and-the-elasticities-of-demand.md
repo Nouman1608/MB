@@ -82,7 +82,7 @@ The specification also says that decisions are influenced by social and emotiona
 </figure>
 
 
-### Common errors on demand
+### Slips to avoid: demand
 
 - Saying a price change "shifts" the curve. The good's own price only moves you along it.
 - Mixing up a fall in demand (a shift) with a contraction in quantity demanded (a movement).
@@ -278,7 +278,7 @@ The closeness of the link between two goods is the key factor. Brands in the sam
 
 Elasticity values are estimates. They assume the other influences on demand stay the same, but in practice incomes, tastes and rival prices change together. A short-run estimate can mislead because PED tends to rise over time. A firm that knows PED is inelastic still needs its costs: more revenue from a price rise may not lift profit if costs rise too. Say which elasticity a claim relies on, the size of the price change and the time period.
 
-## Common errors on elasticity
+## Slips to avoid: elasticity
 
 - Dividing absolute changes instead of percentage changes.
 - Putting the figures the wrong way round, for example dividing price by quantity.

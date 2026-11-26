@@ -2,6 +2,7 @@
 resourceId: "mb-ap-phys2-12.3-revision-notes"
 title: "Magnetism and Current-Carrying Wires: Revision Notes (Physics 2 12.3)"
 description: "One-page recap of the field around a straight wire and at the centre of a loop, right-hand rules, adding fields from several wires and the force on a current."
+seoDescription: "One-page Physics 2 recap of the magnetic field around a straight wire and at a loop's centre, adding fields from several wires and force on a current."
 course: "physics-2"
 unit: 12
 topics: ["12.3"]

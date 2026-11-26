@@ -105,6 +105,9 @@ Repeats improve precision, not accuracy. A systematic error can show up as an un
 - Uncertainty quoted to more figures than its value warrants.
 - Worst lines that miss some error bars.
 - Naming an error without its effect or a specific remedy.
+- Calling an error "human error" without saying whether it is random or systematic.
+- Giving an improvement that does not tackle the largest uncertainty.
+- Combining percentage uncertainties but forgetting to convert back to an absolute value for the final answer.
 
 ## Quick self-test
 
@@ -135,12 +138,6 @@ Repeats improve precision, not accuracy. A systematic error can show up as an un
 10. **0.048 ± 0.002**.
 11. **Systematic** (zero error); subtract 0.03 g from each reading or re-zero (tare) the balance.
 12. The line averages the scatter of points either side of it, so no single random error controls the result.
-
-## Where marks are usually lost
-
-- Calling an error "human error" without saying whether it is random or systematic.
-- Giving an improvement that does not tackle the largest uncertainty.
-- Combining percentage uncertainties but forgetting to convert back to an absolute value for the final answer.
 
 ## Specification reference
 

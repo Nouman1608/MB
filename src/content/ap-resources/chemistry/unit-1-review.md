@@ -2,6 +2,7 @@
 resourceId: "mb-ap-chem-u1-review"
 title: "Atomic Structure and Properties: Mixed Unit Review (Chemistry Unit 1)"
 description: "Connect moles, mass spectra, composition, electron configuration, photoelectron spectra, periodic trends and ionic formulas with seven original questions that each combine topics."
+seoDescription: "Chemistry Unit 1 review: seven original questions combining moles, mass spectra, electron configuration, periodic trends and ionic formulas."
 course: "chemistry"
 unit: 1
 topics: []

@@ -56,7 +56,7 @@ Related pages: the [course hub](/boards/oxfordaqa/igcse/accounting/), the [print
 7. Profit for the year.
 8. Working underneath: retained earnings at the start, plus profit for the year, less dividends paid, equals retained earnings at the end.
 
-## Layout checklist: statement of financial position
+**Layout checklist: statement of financial position**
 
 | Section | Contents | Notes |
 |---|---|---|

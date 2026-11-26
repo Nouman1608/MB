@@ -2,6 +2,7 @@
 resourceId: "mb-ap-stats-1.2-study-guide"
 title: "Variables: Study Guide (Statistics 1.2)"
 description: "Learn to identify observational units, variables, parameters and statistics in a study, and to classify variables as categorical or quantitative, discrete or continuous."
+seoDescription: "Statistics study guide to observational units, variables, parameters and statistics, and classifying variables as categorical or quantitative."
 course: "statistics"
 unit: 1
 topics: ["1.2"]

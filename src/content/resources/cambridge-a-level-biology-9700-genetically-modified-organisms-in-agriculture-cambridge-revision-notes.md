@@ -103,6 +103,9 @@ These notes cover section 19.3 Genetically modified organisms in agriculture (le
 - Promoter ≠ growth hormone gene: promoter from ocean pout, gene from Chinook salmon.
 - Sterility of GM salmon is to prevent breeding with wild fish, not to improve growth.
 - "Discuss" answers must include both sides.
+- Describing GM organisms without linking the protein made to the effect on yield.
+- Leaving natural selection out of resistance answers.
+- Ethical answers that list only concerns.
 
 ## Quick self-test
 
@@ -133,12 +136,6 @@ These notes cover section 19.3 Genetically modified organisms in agriculture (le
 10. An area of non-Bt crop; susceptible insects survive there and mate with resistant ones, keeping the resistance allele rare.
 11. Any two: expensive patented seed; seed must be bought each season; a few companies control supply; poorer farmers excluded.
 12. Any two: less insecticide spraying; less harm to non-target insects and predators; less exposure of farm workers to insecticide.
-
-## Where marks are usually lost
-
-- Describing GM organisms without linking the protein made to the effect on yield.
-- Leaving natural selection out of resistance answers.
-- Ethical answers that list only concerns.
 
 ## Official syllabus
 

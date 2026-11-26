@@ -2,6 +2,7 @@
 resourceId: "mb-ap-bio-7.9-study-guide"
 title: "Phylogeny: Study Guide (Biology 7.9)"
 description: "Learn to read and build cladograms and phylogenetic trees, use shared derived characters and an outgroup, weigh molecular against body-form evidence and date splits with a molecular clock."
+seoDescription: "Biology study guide to phylogeny: reading and building cladograms, shared derived characters, molecular versus body-form evidence and molecular clocks."
 course: "biology"
 unit: 7
 topics: ["7.9"]

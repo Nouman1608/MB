@@ -104,6 +104,11 @@ Calculation to expect: **percentage in a class = number in class ÷ total × 100
 - **"Radiation causes mutation."** Say radiation **increases the rate** of mutation.
 - **Mutation with a purpose.** Mutations are random; organisms do not mutate "in order to" survive.
 - **Meiosis makes new alleles.** It does not; it makes new combinations. Only mutation forms new alleles.
+- Giving an example of variation between two species.
+- Stating the type of variation with no reason when a reason is asked for.
+- Plotting continuous data as a bar chart with gaps.
+- Saying the environment causes discontinuous variation.
+- Forgetting "random" in the Extended definition of gene mutation.
 
 ## Command-word reminders
 
@@ -140,14 +145,6 @@ Calculation to expect: **percentage in a class = number in class ÷ total × 100
 10. It is the way in which new alleles are formed.
 11. A random change in the base sequence of DNA.
 12. Mutation, meiosis, random mating and random fertilisation; only mutation forms new alleles.
-
-## Where marks are usually lost
-
-- Giving an example of variation between two species.
-- Stating the type of variation with no reason when a reason is asked for.
-- Plotting continuous data as a bar chart with gaps.
-- Saying the environment causes discontinuous variation.
-- Forgetting "random" in the Extended definition of gene mutation.
 
 ## Official syllabus
 
