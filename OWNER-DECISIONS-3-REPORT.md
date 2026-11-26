@@ -1,6 +1,6 @@
 # Owner decisions report 3
 
-Prepared 26 Nov 2026, 22:30 PKT; updated 27 Nov 2026, 01:50 PKT after merge and live checks. Merged: [PR 256](https://github.com/Nouman1608/MB/pull/256) (`4b3965c2e`), [PR 257](https://github.com/Nouman1608/MB/pull/257) (`58a29678f`), [PR 258](https://github.com/Nouman1608/MB/pull/258) (`6b5867251`). All three deployed successfully. Decisions: D-546a to D-546q in `docs/decision-log.md`. No Search Console figures are in this file (the repository is public).
+Prepared 26 Nov 2026, 22:30 PKT; updated 27 Nov 2026, 03:40 PKT after merge and live checks (item 10 published in [PR 260](https://github.com/Nouman1608/MB/pull/260), `6ae3173ed`, deployed and checked live). Merged: [PR 256](https://github.com/Nouman1608/MB/pull/256) (`4b3965c2e`), [PR 257](https://github.com/Nouman1608/MB/pull/257) (`58a29678f`), [PR 258](https://github.com/Nouman1608/MB/pull/258) (`6b5867251`). All three deployed successfully. Decisions: D-546a to D-546q in `docs/decision-log.md`. No Search Console figures are in this file (the repository is public).
 
 ## Step 0: PR 255
 
@@ -27,7 +27,7 @@ Prepared 26 Nov 2026, 22:30 PKT; updated 27 Nov 2026, 01:50 PKT after merge and 
 
 | # | Your answer | What changed | Live check | Waits on you |
 |---|---|---|---|---|
-| 10 Islamiyat packs | Sir Azam reviewed and approved | 5 drafts (3 Qur'an, 2 Pakistan Studies) carry reviewer `azam-siddique`, `reviewedDate` 2026-11-26 and a reviewNote saying the approval is owner-reported with no corrections supplied. Still hidden. | Not live (hidden, as intended) | Your yes to publish (`reviewStatus: "draft"` to `"reviewed"`, and delete the draft banner on the 3 Qur'an files). His profile has no credentials. |
+| 10 Islamiyat packs | Sir Azam reviewed and approved | 5 pages (3 Qur'an, 2 Pakistan Studies) published as `reviewed` with reviewer `azam-siddique`, `reviewedDate` 2026-11-26 and a reviewNote saying the approval is owner-reported with no corrections supplied (D-547). Qur'an pages: draft markers removed, files renamed without `-draft`. Pakistan Studies pages: gap wording made neutral; they still do not cover the Two-Nation Theory, the Hindi-Urdu Controversy or most of the 1857 War. | Live: all 5 return 200, no draft markers, Sir Azam credited, in the sitemap; old `-draft` URL returns 404 | His profile has no credentials listed. The three Qur'an pages share about a third of their text with each other (a repeated "how Question 1 is set" section). |
 | 11 Question sets | Sir Sajawal (maths), Sir Nouman (chemistry) | Three review sheets in `reports/owner-decisions-3/review-sheets/` (3 to 4 pages each, not one). | n/a | Reviewers return corrections |
 | 12 Thin courses | Publish all | 33 of 36 published as `review-pending` with no reviewer; 15 are Islamiyat. 3 Hadith pages held. 21 duplicate-gate allow-list entries added. Table: `reports/owner-decisions-3/thin-drafts-table.md`. | 6 sampled pages return 200 | Sir Azam to check the Hadith numbering and the 15 Islamiyat pages |
 | 13 Singapore IB | Existing IB reviewer re-reads | No change. IB school directory opens and has a programme filter; Singapore results did not render, so "some international schools in Singapore are IB World Schools" is unconfirmed. | n/a | Reviewer confirmation, then update `reviewedDate` |
@@ -44,9 +44,9 @@ Prepared 26 Nov 2026, 22:30 PKT; updated 27 Nov 2026, 01:50 PKT after merge and 
 
 ## Still waits on you
 
-1. Publish decision for the Islamiyat packs (item 10).
-2. Trustpilot sign-in and send rule (item 16).
-3. Sir Azam: Hadith numbering and the 15 Islamiyat thin pages.
+1. Trustpilot sign-in and send rule (item 16).
+2. Sir Azam: Hadith numbering (3 pages still hidden) and the 15 Islamiyat thin pages; his credentials if you want them shown; wording for the Pakistan Studies gaps.
+3. (Item 10 is done: published and live.)
 4. Search Console: the "Google chose a different canonical" and "crawled, not indexed" groups.
 5. IB reviewer re-read of the Singapore article (item 13).
 6. Reviewer names and corrections for the question sets (items 11, 23), including a physics reviewer.
